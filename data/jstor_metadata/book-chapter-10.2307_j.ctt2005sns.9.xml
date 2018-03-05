@@ -1,0 +1,425 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt2005sns</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Signs and Society</book-title>
+         <subtitle>Further Studies in Semiotic Anthropology</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Parmentier</surname>
+               <given-names>Richard J.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>03</day>
+         <month>10</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780253024961</isbn>
+      <isbn content-type="epub">9780253025142</isbn>
+      <isbn content-type="epub">0253025141</isbn>
+      <publisher>
+         <publisher-name>Indiana University Press</publisher-name>
+         <publisher-loc>Bloomington, Indianapolis</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Richard J. Parmentier</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt2005sns"/>
+      <abstract abstract-type="short">
+         <p>Brilliantly articulating the potent intersections of semiotic and linguistic anthropology, Signs and Society demonstrates how a keen appreciation of signs helps us better understand human agency, meaning, and creativity. Inspired by the foundational contributions of C. S. Peirce and Ferdinand de Saussure, and drawing upon key insights from neighboring scholarly fields, noted anthropologist Richard J. Parmentier develops an array of innovative conceptual tools for ethnographic, historical, and literary research. His concepts of "transactional value," "metapragmatic interpretant," and "circle of semiosis," for example, illuminate the foundations and effects of such diverse cultural forms and practices as economic exchanges on the Pacific island of Palau, Pindar's Victory Odes in ancient Greece, and material representations of transcendence in ancient Egypt and medieval Christianity. Other studies complicate the separation of emic and etic analytical models for such cultural domains as religion, economic value, and semiotic ideology. Provocative and absorbing, these fifteen pioneering essays blaze a trail into anthropology's future while remaining firmly rooted in its celebrated past.</p>
+      </abstract>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Semiotic Anthropology</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The domain of semiotic anthropology is considered to be the results of empirical research carried out by anthropologists (in all subfields) that makes use of concepts and methods associated with the tradition of scholarship labeled “semiotics” or “semiology.” Semiotic anthropology is not a formal subdiscipline of anthropology; it is not a “school” of anthropological thought; and it is not con-fined to researchers affiliated with particular academic institutions or national traditions. To some degree semiotic anthropology emerged as a correction and refinement of symbolic or interpretive anthropology or structural anthropology (Mertz 1985). In addition to the study of linguistic and written</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Charles S. Peirce</title>
+                  </title-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>One of the puzzles of the intellectual history of the “pragmatic” turn in contemporary linguistics is the fact that the American mathematician and philosopher Charles S. Peirce (1839–1914), who developed a graphic formalism for evaluating the logical precision of scientific concepts, continues to be an important inspiration for the development of approaches to language that move beyond the synchronic, descriptive, and generative perspectives characteristic of the mainstream of linguistics scholarship. Many students of language first encountered Peirce’s semiotic ideas in the early 1920s in the ten pages of excerpts printed as an appendix to Ogden and Richards’s<italic>The Meaning</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Representation, Symbol, and Semiosis:</title>
+                     <subtitle>Signs of a Scholarly Collaboration</subtitle>
+                  </title-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>I am honored to represent Brandeis University’s Department of Anthropology at this gathering of scholars at Hankuk University of Foreign Studies.¹ My presence here today can also be taken as a representation of the seven members of the international editorial board of Signs and Society . And, in particular, I am pleased to be able to represent my Brandeis colleague, Professor Parmentier, the editor-in-chief of our journal, who sends his warmest greetings and whose words I will represent today.</p>
+                     <p>It would seem that there is a lot of representation going on! In fact, representation lies at the heart of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Peirce and Saussure on Signs and Ideas in Language</title>
+                  </title-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>Charles S. Peirce (1839–1914) and Ferdinand de Saussure (1857–1913) spent considerable effort trying to clarify and articulate what they meant by signs and the ideas, or concepts, associated with them. There are many attempts in the scholarly literature to align Peircean and Saussurean terminologies, as well as several valiant efforts to create new synthetic models encompassing their differences. My task here is different: to point out several ways in which Peirce, an American experimental physicist and logician (trained as a chemist), and Saussure, a Swiss linguist (trained as a philologist of Indo-European languages), have fundamentally opposed views stemming</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Troubles with Trichotomies:</title>
+                     <subtitle>Reflections on the Utility of Peirce’s Sign Trichotomies for Social Analysis</subtitle>
+                  </title-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>According to the editors at the Peirce Edition Project, in 1903 Peirce composed a detailed “syllabus” in several sections for the eight lectures he delivered at the Lowell Institute in Boston. The fifth section of that syllabus, titled “Nomenclature and Divisions of Triadic Relations, as Far as They Are Determined” (<italic>EP</italic>2, 289–99;<italic>CP</italic>2.233–72), presents a detailed and systematic account of the 10 classes of signs generated by the intersection of three trichotomies and contains the famous (if perplexing) triangular table exhibiting the relations among these sign classes depending on the degree of shared characteristics. As Peirce</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Semiotic Degeneracy of Social Life:</title>
+                     <subtitle>Prolegomenon to a Human Science of Semiosis</subtitle>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Twenty years ago, Ketner (1993) published a groundbreaking paper proposing “semiotic” as a cure for what ails “social science” and “literature” (by which he means literary studies, not the artistic production of literature). His key point is as follows:</p>
+                     <p>We must analyze triadic relations by means of triadic relations. In particular, if there is a matter about which we lack understanding, we can use a set of triadic relations we already comprehend reasonably well to model the relations in the areas of relative ignorance. Once such a model is constructed, we can study or manifest it to discover new things</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Representing Semiotics in the New Millennium</title>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>The appearance of<italic>Analyzing Cultures</italic>by Marcel Danesi and Paul Perron (1999), bearing the modest subtitle<italic>An Introduction and Handbook</italic>, is both a welcome addition to the growing literature on the application of semiotic methods to the study of human cultures and a mark of the maturity of the discipline of cultural semiotics. It also provides me with an opportunity to reflect critically on several key notions in semiotic analysis and to discuss several recent research projects studying material and linguistic signs. In what follows I will be particularly concerned with several troublesome points in cultural analysis that need to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The World Has Changed Forever:</title>
+                     <subtitle>Semiotic Reflections on the Experience of Sudden Change</subtitle>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>Having spent more than twenty-five years thinking about social change in Oceania, in particular about the historical changes reflected in the mythological narratives of Palau (Belau), I did not anticipate how difficult the challenge would be to consider—prompted by the invitation to participate in today’s panel—sudden, rapid, or traumatic change. Would this mere augmentation of the rate of acceleration necessitate a dramatic reformulation of the almost canonical post-Sahlins model for studying the “anthropology of history” as the transformation of the structures of reproduction? That is, is sudden change (let me use the word “sudden” to stand as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Description and Comparison of Religion</title>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>In 1947, a young anthropologist named Ward Goodenough arrived at Chuuk (formerly Truk), a group of atolls and high islands in the Caroline Islands of Micronesia, as part of the Coordinated Investigation in Micronesian Anthropology (CIMA), funded by the Office of Naval Research and supervised by George Peter Murdock of Yale University. More than a half-century later in 2002, Goodenough, by then a university professor emeritus at the University of Pennsylvania, published the results of his research on the pre-Christian religion of Chuuk in<italic>Under Heaven’s Brow</italic>, a book that represents the lifework of the most distinguished Micronesian specialist in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>It’s About Time:</title>
+                     <subtitle>On the Semiotics of Temporality</subtitle>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>The invitation to comment on this set of papers in linguistic anthropology dealing with temporalities and texts (first presented at the American Anthropological Association’s 2005 meetings in Washington, DC) has prompted a moment of personal reflection, since it was exactly twenty years ago, in 1985, that I published my first application of semiotic categories to the ethnographic analysis of time and history. My paper, “Times of the Signs: Modalities of History and Levels of Social Structure in Belau” (Parmentier 1985b), tried to synthesize Fernand Braudel, Meyer Fortes, and Marshall Sahlins by using Charles S. Peirce’s sign theory to argue that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Anthropological Encounters of a Semiotic Kind</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>I am honored to be able to contribute the two texts below to this journal’s survey of semiotic approaches within the discipline of anthropology. Delivered originally as “performance” pieces, these two texts reflect on the methodological implications of semiotic analyses from two other fields of inquiry, classics and medieval studies, that continue to have enormous relevance for anthropology. The first was presented as a formal response to Brigitte Bedos-Rezak’s lecture titled “Imprint: Ontology and Christian Theology in the Western Middle Ages,” which was given as the keynote address at the symposium “(Re) constructing Religions: Evidence, Methods, and Disciplines,” held at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Two Marxes:</title>
+                     <subtitle>Evolutionary and Critical Dimensions of Marxian Social Theory</subtitle>
+                  </title-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>This lecture examines several fundamental concepts in Marx’s social theory, with the goal of showing how they fit into a coherent whole.¹ For the contemporary anthropologist, however, this conceptual unity can easily appear divided, for there seem to be two Marxes, a first belonging to the world of nineteenth-century evolutionism and a second belonging to the world of contemporary reflexive or critical social theory. Evolutionary writers such as Lewis Henry Morgan and Herbert Spencer describe an inevitable rise from “primitive” society through a stage of “barbarism” to the glories of “civilization” as found in Britain, Europe, and the United States.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Money Walks, People Talk:</title>
+                     <subtitle>Systemic and Transactional Dimensions of Palauan Exchange</subtitle>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Most historical and ethnographic sources on Palau (Micronesia) mention the centrality of money (<italic>udoud</italic>) in the social life of the islands. Johann Kubary, the brilliant nineteenth-century ethnographer, notes:</p>
+                     <p>In political life, every occasion for intercourse between two tribes is based on an exchange of certain money, the value and the amount of which is determined by custom. In social life, everyone is bound by custom to make certain carefully regulated expenditures in relation to his position in the community. Everyone is responsible for his cousins, his children, and his household, and must pay for them. Every act performed for a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Representing Transcendence:</title>
+                     <subtitle>The Semiosis of Real Presence</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <role>With</role>
+                        <name name-style="western">
+                           <surname>Leone</surname>
+                           <given-names>Massimo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>In using the phrase “representing transcendence” to focus this supplementary issue of Signs and Society, we are interested in socially constructed and historically specific discursive, behavioral, and material forms of signs that express (depict, imply, suggest, problematize, deny, etc.) something<italic>beyond</italic>normal human experience for individuals and groups in day-to-day and specially marked contexts. We are not, that is, primarily interested in the questions raised, for example, by evolutionary psychology about the “naturalness” for all humans or for humans at some defined “age” of cultural history of cognitive representations expressing beliefs in transcendent entities or quests for transcendent experiences. What</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.18</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>The “Savvy Interpreter”:</title>
+                     <subtitle>Performance and Interpretation in Pindar’s Victory Odes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <role>With</role>
+                        <name name-style="western">
+                           <surname>Felson</surname>
+                           <given-names>Nancy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>One of Charles S. Peirce’s fundamental contributions to the study of sign processes is to provide an analytic vocabulary for describing the intersecting vectors involved in all semiosis, a vector of the “representation” of some object by expressive signs that stand for it and a vector of “determination” of this sign relationship by subsequent interpreting signs, what he called “interpretants.” One way to visualize the temporal linkage of these two vectors is to consider how the same interpretants look “backward” at the signs that determine them, especially as they creatively construe or apprehend the original sign relation as having a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.19</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt2005sns.21</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

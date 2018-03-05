@@ -1,0 +1,581 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqmvp</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN4390.L44513 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Diaries</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Lejeune, Philippe, 1938–</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>On Diary</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Lejeune</surname>
+               <given-names>Philippe</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>POPKIN</surname>
+               <given-names>JEREMY D.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>RAK</surname>
+               <given-names>JULIE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="translator" id="contrib4">
+            <name name-style="western">
+               <surname>DURNIN</surname>
+               <given-names>KATHERINE</given-names>
+            </name>
+            <role>TRANSLATOR</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>05</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824833886</isbn>
+      <isbn content-type="epub">9780824863784</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Biographical Research Center</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt6wqmvp"/>
+      <abstract abstract-type="short">
+         <p>On Diary is the second collection in English of the groundbreaking and profoundly influential work of one of the best-known and provocative theorists of autobiography and diary. Ranging from the diary’s historical origins to its pervasive presence on the Internet, from the spiritual journey of the sixteenth century to the diary of Anne Frank, and from the materials and methods of diary writing to the question of how diaries end, these essays display Philippe Lejeune’s expertise, eloquence, passion, and humor as a commentator on the functions, practices, and significance of keeping or reading a diary. Lejeune is a leading European critic and theorist of diary and autobiography. His landmark essay, "The Autobiographical Pact," has shaped life writing studies for more than thirty years, and his many books and essays have repeatedly opened up new vistas for scholarship. As Michael Riffaterre notes, "Lejeune’s work on autobiography is the most original, powerful, effective approach to a difficult subject. . . . His style is very personal, lively. It grabs the reader as scholarship rarely does. Lejeune’s erudition and methodology are impeccable." Two substantial introductory essays by Jeremy Popkin and Julie Rak place Lejeune’s work within its critical and theoretical traditions and comment on his central importance within the fields of life writing, literary genetic studies, and cultural studies.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Popkin</surname>
+                           <given-names>Jeremy D.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rak</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.4</book-part-id>
+                  <title-group>
+                     <title>PHILIPPE LEJEUNE, EXPLORER OF THE DIARY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>POPKIN</surname>
+                           <given-names>JEREMY D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Philippe Lejeune hardly looks like an explorer. He has no hiking boots, carries no bushwhacking equipment, and maintains that he does not even like to travel. Like the French<italic>coureurs des bois</italic>, the intrepid French voyagers who made their way into the interior of North America in the seventeenth and eighteenth centuries, however, Lejeune cannot resist the lure of territories that have not been mapped, where rumor says the game is plentiful and no rules have been imposed. In the first half of his scholarly and professional career, Lejeune crisscrossed the unknown terrain of autobiographical writing. His celebrated essay, “Le</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.5</book-part-id>
+                  <title-group>
+                     <title>DIALOGUE WITH THE FUTURE:</title>
+                     <subtitle>PHILIPPE LEJEUNEʹS METHOD AND THEORY OF DIARY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAK</surname>
+                           <given-names>JULIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>I have never had coffee with Philippe Lejeune. I have never even met him. I saw him once, reading a marvelous paper that became the essay “How Do Diaries End?” Until now, that essay was one of the few glimpses of Lejeune’s thinking about diaries in the English language. But listening to Philippe Lejeune unfold the mysteries of diary writing—how does one end a diary, and how do diaries make that “wager on the future” when so many are written never to be published or even read ever again?—was a defining experience for me as a scholar of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.6</book-part-id>
+                  <title-group>
+                     <title>THE PRACTICE OF THE PRIVATE JOURNAL:</title>
+                     <subtitle>CHRONICLE OF AN INVESTIGATION (1986–1998)</subtitle>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>For twelve years now I’ve been investigating the reasons why, and the ways in which, so many “ordinary” people, who are not writers, write a diary. This investigation has given rise to about thirty publications of different varieties. Today I feel that I have reached a conclusion. Here I intend to go back over my research by telling its story. This narrative will thus form, essentially, a sort of auto-bibliography. References to the publications will punctuate my narrative like the beads of a rosary.</p>
+                     <p>I’d like to start by saying why I began with these investigations—and why<italic>so late</italic>.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.7</book-part-id>
+                  <title-group>
+                     <title>COUNTING AND MANAGING</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>The diary, like writing itself, was born of the needs of commerce and administration.</p>
+                     <p>In business, it is important to keep track of transactions and to know the status of your inventory. Which means making a record and dating it. Accounting serves two purposes: an internal purpose (business management based on full and accurate information) and an external purpose (to stand as evidence in the event of a dispute). This function remains unchanged through history, from the earliest known accounting systems in Chaldea or ancient Egypt right up until today, when our banks obligingly send us regular statements of credits</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.8</book-part-id>
+                  <title-group>
+                     <title>SPIRITUAL JOURNALS IN FRANCE FROM THE SIXTEENTH TO THE EIGHTEENTH CENTURIES</title>
+                  </title-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>The research I am sketching out here broadly covers the intersection between two sets of texts:</p>
+                     <p>1) the “journal” or “diary” form, defined as a<italic>series of dated traces</italic>; that is, a practice of making notations extended over time: a single notation, such as Blaise Pascal’s<italic>Mémorial</italic>dated 23 November 1654 “from about ten o’clock until about midnight” is not, properly speaking, a journal;</p>
+                     <p>2) spiritual writing, which deals with the relationship between man and God.</p>
+                     <p>My approach may appear reductive, forcing the immense range of spiritual writings (think of Abbé Brémond’s dense series of volumes on<italic>L’Histoire littéraire du</italic>)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.9</book-part-id>
+                  <title-group>
+                     <title>ON TODAYʹS DATE</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>One should never start the New Year without plans, even modest ones. For some time now I have been thinking of doing a bit of research on the<italic>dating</italic>of diaries. And, for that matter, on dating things in general. It has probably already been done. I imagine that studies already exist, for letters at least, since the date is a basic element, along with the signature and the address. Let’s get straight to the point: the modern diary does not really become what it is until the day it begins to resemble the letter in that respect, when the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.10</book-part-id>
+                  <title-group>
+                     <title>O MY PAPER!</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>When did it become possible to address personal writings to the physical medium on which they are written? When did “Dear Diary” begin to be used as the heading for a journal entry?</p>
+                     <p>Clearly, this is an imaginary addressee, kept behind closed doors. But when did people start using the pretense of creating a private space by developing or deploying (and for whom?) a dialogic relationship with themselves?</p>
+                     <p>I stress the idea of “beginnings” because it touches on something complex and obscure: the birth of the personal journal (Pachet). Autobiography, a public act, has a solid history based on events</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.11</book-part-id>
+                  <title-group>
+                     <title>MARC-ANTOINE JULLIEN:</title>
+                     <subtitle>CONTROLLING TIME</subtitle>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>What use have you made of the last twenty-four hours? Could you say how long you have spent on each of your activities? Try hard to remember and give a precise figure for each of them, with the help of an analytical classification of the various types of activities. Write down those figures today, tomorrow, and the next few days on the columns of a table that will enable you to record daily variations and calculate averages. Then examine the results and ask yourself whether you have put your time to good use, and whether you have got the balance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.12</book-part-id>
+                  <title-group>
+                     <title>WRITING WHILE WALKING</title>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>Little, if anything, is remembered about Pierre-Hyacinthe Azaïs (1766–1845). He gained some notoriety for his philosophical treatise<italic>Des compensations dans les destinées humaines</italic>(1809). After 1850, he was forgotten. Only Pyrenees enthusiasts occasionally remembered him long enough to ridicule<italic>Un mois de séjour dans les Pyrénées</italic>(Paris, 1809), a book that I am going to praise. In the 1970s, Michel Baude rediscovered and studied his extraordinary anniversary diary: from 1811 to 1844, Azaïs kept 365 parallel diaries, one for each day of the year. He was a second-rate philosopher, but a sort of genius of the personal diary. In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.13</book-part-id>
+                  <title-group>
+                     <title>THE ʺJOURNAL DE JEUNE FILLEʺ IN NINETEENTH-CENTURY FRANCE</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Matten: Saturday, August 1, 1992</italic>. I am late. I feel somewhat guilty and embarrassed. I have been working on this subject for more than a year. I have conceived the book I am about to publish,<italic>Le Moi des demoiselles</italic>(1993), as a journal, to avoid a synthesis that I feared would be premature. I shall attempt to write this synthesis now … for you. I am in the Oberland, near Bern, Switzerland, sitting in a small bedroom with a low ceiling; the window, lined with geraniums, looks on the mountains; it is late in the afternoon and a thunderstorm</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.14</book-part-id>
+                  <title-group>
+                     <title>THE DIARY ON TRIAL</title>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>Turn the page and read the indictment.</p>
+                     <p>It seems the diary is<italic>unwholesome, hypocritical, cowardly, worthless, artificial, sterile, shriveling, feminine, etc.</italic>
+                     </p>
+                     <p>You are horrified at first. It makes you want to fly to the defense of the poor diary, as though someone were being mugged on the street right in front of you. Surely it can’t have that many faults! What else are they going to pin on it?</p>
+                     <p>But by the time you get to the postscript, another disturbing idea has begun to dawn on you: there is no way that people can have said the diary had all</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.15</book-part-id>
+                  <title-group>
+                     <title>COMPOSING A DIARY</title>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>What is a diary?</p>
+                     <p>I studied the genre for more than a dozen years before it occurred to me to define it. I know very well what a diary is! I kept one as a young man, between the ages of fifteen and twenty-five. I stopped for a quarter century, and when I reached my fifties, I started up again. It’s easy enough: you take some paper, or your computer, you write down the date, and then you write whatever you’re doing, thinking, and feeling. There is no set form, no required content. You have a free hand. The word</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.16</book-part-id>
+                  <title-group>
+                     <title>THE CONTINUOUS AND THE DISCONTINUOUS</title>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>“The continuous and the discontinuous”: I am going to focus my thoughts on the personal diary, and goodness knows, I feel as intimidated as when I was a teenager assigned an exam question with just fifteen minutes to produce something presentable. Zeno comes to my rescue first, with his famous paradox on dividing spatial movement ad infinitum to show that Achilles will never catch up with the tortoise—as though movement could be discontinuous!—and then Bergson’s refutation of it, and Valéry’s meditation on it in a well-known poem, “The Graveyard by the Sea,” or rather in one verse where</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.17</book-part-id>
+                  <title-group>
+                     <title>HOW DO DIARIES END?</title>
+                  </title-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>The question occurred to me in 1997 as I was preparing an exhibit called<italic>Un Journal à soi</italic>[A diary of one’s own], created by the Association pour l’Autobiographie at the Lyon public library (Lejeune and Bogaert). My approach was didactic: I wanted to construct a story where the spectator would follow the different phases in the life of a diary, just as in the good old days, in primary school, they used to show us the workings of the digestive system, beginning with a mouthful of bread. A story, Aristotle will tell you, must have a beginning, a middle,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.18</book-part-id>
+                  <title-group>
+                     <title>THE DIARY AS ʺANTIFICTIONʺ</title>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>I’ve just Googled the word “antifiction” and found that it’s free, at least for literary theory. A hip-hop group has staked a claim, but that’s it. No competition. These days, the minute you invent a word, you have to take out a patent. Serge Doubrovsky thought he had invented the word “autofiction” in 1977, but in 1998 his little cousin Marc Weitzmann claimed that Jerzy Kosinski had already invented the concept in 1965, something that Philippe Vilain has just taken the time to disprove in<italic>Défense de Narcisse</italic>(2005). I tell this amusing story because I created “antifiction” out of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.19</book-part-id>
+                  <title-group>
+                     <title>AUTO-GENESIS:</title>
+                     <subtitle>GENETIC STUDIES OF AUTOBIOGRAPHICAL TEXTS</subtitle>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>How does one become a “geneticist?” Why didn’t I become one earlier? And have I really become one? It is a fact that for nearly five years I have been working on the avant-textes of contemporary autobiographies: Sartre’s<italic>Les Mots</italic>(1964), Perec’s<italic>W ou le souvenir d’enfance</italic>(1975), Nathalie Sarraute’s<italic>Enfance</italic>(1983), and, more recently, the<italic>Diary</italic>of Anne Frank. I did not begin these studies with any overall plan—it was a series of chance occasions: an invitation to be part of a Sartre team at the Institut des Textes et Manuscrits Modernes, a seminar on Perec, hearing a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.20</book-part-id>
+                  <title-group>
+                     <title>HOW ANNE FRANK REWROTE THE DIARY OF ANNE FRANK</title>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>Almost everyone has read the Diary of Anne Frank. But who really knows the story of the text? It is at once awful, complicated, beautiful, and paradoxical.</p>
+                     <p>Awful because the violence of History, which killed Anne, also had its effect on her text: when she was arrested half of the diary disappeared forever, although the rest of her papers were saved. Furthermore, after its publication, the Diary was subjected to vile attacks by Holocaust negationists who challenged its authenticity.</p>
+                     <p>Complicated in that this story came to light in 1986 when the critical edition of the manuscripts was published in Holland.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.21</book-part-id>
+                  <title-group>
+                     <title>SURVEYING DIARIES, SURVEYING CULTURES</title>
+                  </title-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>I am honored by being asked to speak at a conference in Algiers on autobiography and life writing in Algeria. I cannot claim to know very much about these kinds of writing in Algeria, but it is an opportunity to think about the methods I have used in studying the diary in France, and the extent to which they might be applied in countries with very different cultures.</p>
+                     <p>The diary’s distinct status has led me to change the method of study I originally developed in my work on autobiography. For autobiography, I had worked out a theoretical line of thought—</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.22</book-part-id>
+                  <title-group>
+                     <title>THE DIARY ON THE COMPUTER</title>
+                  </title-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>My apartment is a typewriter graveyard. Here are my two Olivetti Lettera 32s, the ones I started out with in the seventies. They were like Chinese bicycles—simple, mechanical, and portable. Professional use: an affordable way to type up books and articles for myself. I must have typed up private texts now and then. Here’s the Smith-Corona C-500 electric that I bought around 1980, heavy and humming, with its ribbon cartridges. I treated it like a high-powered motorbike—brushing its teeth and getting its engine rebuilt—but now I see that it was nothing but a scooter or a motorized</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.23</book-part-id>
+                  <title-group>
+                     <title>DIARIES ON THE INTERNET:</title>
+                     <subtitle>A YEAR OF READING</subtitle>
+                  </title-group>
+                  <fpage>299</fpage>
+                  <abstract>
+                     <p>From October 1999 to October 2000 I did a study of a phenomenon that was just beginning to appear in the French-speaking world: online diaries. Today, in 2008, given the explosion of blogs, it is hard to believe that in November 1999, after a month of systematic searching on the Internet, I had found only sixty-nine diaries. Things are moving so fast that my study already has a sort of archeological value. At the time, I was dealing with a single shrub showing a few buds; today, it is a forest of trees in full bloom. I observed these diaries</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.24</book-part-id>
+                  <title-group>
+                     <title>JOURNALS OF EXPLORATION</title>
+                  </title-group>
+                  <fpage>317</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Saturday, 25 March 2006</italic>
+                     </p>
+                     <p>Gare Montparnasse, TGV, 7:20 a.m.</p>
+                     <p>I’M heading for Nantes. Martine Lani-Bayle put the cart before the horse: last year she published an issue of her journal,<italic>Chemins de formation</italic>, on travel notebooks and research journals; today she has summoned us for the oral exam! I can’t just repeat what I’ve already written. Anyhow, it was just a joke. At first I tried to get out of this, telling her that I abhorred travel diaries. “But that’s just it! Explain why you abhor them, that will be fascinating!” How could I pass up an opportunity to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.25</book-part-id>
+                  <title-group>
+                     <title>REREADING YOUR DIARY</title>
+                  </title-group>
+                  <fpage>324</fpage>
+                  <abstract>
+                     <p>Yes, you write your diary<italic>for yourself</italic>, and that is what makes it private. You are fifteen years old, writing for a future self whom you do not know, who will be someone different, but who you nonetheless trust. You put yourself in the hands of the stranger you will become. The current identity that it is the diary’s purpose to create and define will one day become part of an unforeseeable identity, one which it will have given rise to and which will judge it. The diary is a wager on the future. It bases the individual not on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.26</book-part-id>
+                  <title-group>
+                     <title>LUCULLUS DINES WITH LUCULLUS</title>
+                  </title-group>
+                  <fpage>329</fpage>
+                  <abstract>
+                     <p>I have been fascinated by Lucullus since I was a boy, and I thought of him the moment I was invited to this colloquium. Lucullus was a Roman general who fought against Mithradates, was a rival of Sylla, and had the wisdom not to seek supreme power when he returned to Rome victorious. Instead he enjoyed, with pomp and generosity, the immense fortune that he had amassed from the wars. He was a friend of Cicero and Cato. This is an anecdote about him as told by Plutarch:</p>
+                     <p>Once, when he supped alone, there being only one table and that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.27</book-part-id>
+                  <title-group>
+                     <title>SELECTED WORKS OF PHILIPPE LEJEUNE</title>
+                  </title-group>
+                  <fpage>337</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmvp.28</book-part-id>
+                  <title-group>
+                     <title>NAME INDEX</title>
+                  </title-group>
+                  <fpage>343</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

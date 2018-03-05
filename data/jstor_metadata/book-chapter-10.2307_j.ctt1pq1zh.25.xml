@@ -1,0 +1,777 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1pq1zh</book-id>
+      <subj-group>
+         <subject content-type="call-number">NX460.P74 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Identity (Psychology) in art</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Identity (Psychology) in mass media</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Arts, Modern</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Arts, Modern</subject>
+         <subj-group>
+            <subject content-type="lcsh">21st century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Precarious Visualities</book-title>
+         <subtitle>New Perspectives on Identification in Contemporary Art and Visual Culture</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Asselin</surname>
+               <given-names>Olivier</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Lamoureux</surname>
+               <given-names>Johanne</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Ross</surname>
+               <given-names>Christine</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>07</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773533851</isbn>
+      <isbn content-type="epub">9780773574397</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2008</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1pq1zh"/>
+      <abstract abstract-type="short">
+         <p>Through the study of exemplary media works and practices - photography, film, video, performance, installations, web cams - scholars from various disciplines call attention to the unsettling of identification and the disablement of vision in contemporary aesthetics. To look at an image that prevents the stabilization of identification, identity and place; to perceive a representation that oscillates between visibility and invisibility; to relate to an image which entails a rebalancing of sight through the valorization of other senses; to be exposed, through surveillance devices, to the gaze of new figures of authority - the aesthetic experiences examined here concern a spectator whose perception lacks in certainty, identification, and opticality what it gains in fallibility, complexity, and interrelatedness. Precarious Visualities provides a new understanding of spectatorship as a relation that is at once corporeal and imaginary, and persistently prolific in its cultural, social, and political effects. Contributors include Raymond Bellour (École des hautes études en sciences sociales), Monika Kin Gagnon (Concordia University), Beate Ochsner (University of Mannheim -Universität Mannheim), Claudette Lauzon (McGill University), David Tomas (Université du Québec à Montréal), Slavoj Zizek (Ljubljiana University and University of London), Marie Fraser (Université du Québec à Montréal), Alice Ming Wai Jim (Concordia University), Julie Lavigne (Université du Québec à Montréal), Amelia Jones (University of Manchester), Eric Michaud (École des hautes études en sciences sociales), Hélène Samson (McCord Museum), and Thierry Bardini (Université de Montréal).</p>
+      </abstract>
+      <counts>
+         <page-count count="448"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Asselin</surname>
+                           <given-names>Olivier</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamoureux</surname>
+                           <given-names>Johanne</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ross</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The Precarious Visualities of Contemporary Art and Visual Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSS</surname>
+                           <given-names>CHRISTINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since its emergence in the field of art history in the 1980s, visuality – a notion that refers to the visible condition of art, to the fact that art is, partially at least, a matter of vision (in its production, exhibition, circulation, and reception) – has been key to the decentring of both the artist and the viewing subject in its relation to the image. Vision came to be systematically understood as an act conditioned by culture, social class, gender, ethnicity, sexuality, and geography. The fruitfulness of poststructuralist art historical research in this area of study is clearly noticeable in its manifold</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In an essay (translated here for the first time in English) that has been pivotal to the understanding of the history of electronic arts, Raymond Bellour shows how video art’s specific contribution to the realm of moving images lies in its unique deployment of the self-portrait. With video, argues Bellour, the image becomes a site of representation and interpellation of the self – but a self whose identity is more a question or an open-ended project than a definition or a clear determination. The relevance of this text to precarious visuality is indisputable: it discloses a visual writing of the “I”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Self-Portraits</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BELLOUR</surname>
+                           <given-names>RAYMOND</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Ross</surname>
+                           <given-names>Ron</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract abstract-type="extract">
+                     <p>There is something vertiginous in the video image, in its rationale, in its very being. How can one not see, in the myriad dots that make up its field, a welter of ideas, drawing in those seeking to recognize themselves in the image and tending to take a lateral course, to join at least some of the dots together? By what it invites us to conceive and allows us to represent, the video image is one of the keenest manifestations of thought, of its jumps and disorderliness. Through thought as image, it gives us an image of thought, vibrant and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Ending Myths and the Catholic Outing of Andy Warhol</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAMOUREUX</surname>
+                           <given-names>JOHANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>100</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Shortly after Andy Warhol’s unexpected death during the spring of 1987, <italic>Vanity Fair</italic> magazine acknowledged the event with a short article by John Richardson: the article was illustrated with a photograph of the artist’s studio taken by Evelyn Hofner in the days following Warhol’s demise; the image showed, on the back wall of the room, a large painting inspired by Leonardo da Vinci’s <italic>Last Supper</italic>(fig. 2.1). The photograph played on the commonplace motif of the deserted studio dominated by the last painting and orphaned progeny of the artist. In the twentieth century, the paradigm for this topos was most famously</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Persistence of Spectatorship:</title>
+                     <subtitle>The Racialized and Ethnicized Gaze</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GAGNON</surname>
+                           <given-names>MONIKA KIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As Laura Mulvey’s landmark essay, “Visual Pleasure and Narrative Cinema,” continues to endure as the point of reference for feminist discussions of film spectatorship, so Manthia Diawara’s “Black Spectatorship: Problems of Identification and Resistance” arguably occupies a similar position for thinking about black spectatorship and, more generally, racialized spectatorship.¹ Yet, as Janet Bergstrom and Mary Ann Doane caution in their introduction to “The Spectatrix” special issue of <italic>Camera Obscura</italic> in 1989, it is important “to avoid an overly linear account of the development of feminist interest in the female spectator,”² a forced linearity that might overlook significant contributions to and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>“Are We Still in the Game?”:</title>
+                     <subtitle>David Cronenberg’s<italic>eXistenZ</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OCHSNER</surname>
+                           <given-names>BEATE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Today, technological progress has shown to what extent there is no longer a distinction in the body between what is organic and what isn’t, between inside and outside, normality and monstrosity, identity and alterity. The reorganization of the real body and the reconfiguration of self-image have, today, turned the body into a sort of instrument, a kind of joystick in a virtual game whose name, <italic>eXistenZ</italic>, promises existence, which is to say, being, presence, and historicity. But <italic>eXistenZ</italic> isn’t just a game, it’s an opening or interlude for attaining (<italic>rising up</italic>) to a higher level of fun leading directly to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.10</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Part 2 is as much about explorations of aesthetic strategies that represent subjects through a dialogue between visibility and invisibility as it is about strategies that solicit the spectator in a perceptual experience in which representation itself is structured through in/visibility. A similar concern mobilizes these explorations: the attempt to create image-viewer interfaces that immerse the spectator in the work while always ensuring its attachment to what exists outside the work – a city, a landscape, a historical event, an unexpected Other’s gaze, all of which are mutable realities. The viewer-work interface takes its precariousness and raison d’être from the spectator’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>What the Body Remembers:</title>
+                     <subtitle>Rebecca Belmore’s Memorial to Missing Women</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAUZON</surname>
+                           <given-names>CLAUDETTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Rebecca Belmore’s <italic>Vigil</italic> appears to proceed according to the conventions associated with public ceremonies of remembrance. At a nondescript urban intersection, the performance begins with a ritualistic cleansing of the sidewalk, followed by the lighting of candles, the distribution of red roses, and the calling out of names. But this is not any street corner, and <italic>Vigil</italic> is not a customary vigil. The names that Belmore calls out – cries out, actually, with a palpable sense of anguish – are inscribed on her arms in thick black ink, scarring her skin like hastily made tattoos. After each name is called, Belmore drags</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Threshold of an Interface:</title>
+                     <subtitle>Ilya Kabakov’s<italic>Looking up, Reading the Words</italic>(1997)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TOMAS</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>180</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Russian-born New York-based artist Ilya Kabakov (b. 1933) designed a permanent installation entitled <italic>Looking up, Reading the Words</italic> as his contribution for the Skulptur Projekte in Münster, Germany, in 1997. The installation consists of a steel mast thirteen metres in height, culminating in a bridge-like structure that supports twenty-two metal antennae deployed in the shape of an oval. These antennae provide the means of securing a series of letters that form German words. A translation of the German message accompanied the artist’s statement, which was published in <italic>Contemporary Sculpture: Projects in Münster 1997</italic>.</p>
+                     <p>My Dear One! When you are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Star and the Prisoner:</title>
+                     <subtitle>The Spectacle and Surveillance of the Self on the Web</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ASSELIN</surname>
+                           <given-names>OLIVIER</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Barnard</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Autobiography, self-portraiture, auto-fiction are in fashion. Self-representation flourishes in the so-called fine arts, in literature and contemporary art in particular, but also, more than ever, in so-called popular or amateur practices.¹ Narratives and images of the self circulate in both public and private spaces, in books, newspapers and magazines, on radio and television but also on the internet, with the growth in personal web pages. Over the past decade another form of self-representation has appeared on the Net, radically transforming if not revealing the underlying structure of the genre: the personal webcam. Since their appearance in the mid-1990s, the number</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.14</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>227</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Slavoj Žižek’s chapter confronts Nazi cinema with Hollywood cinema – Veit Harlan’s melodramatic <italic>Opfergang</italic> (1944) with Ridley Scott’s <italic>Hannibal</italic> (2001) – to discuss how they both sustain specific ideological political orders. His underlying question, however, is the following: what type of cinematography enables a critical viewer? Defining the filmic image as a site of deployment of the desire to fulfill primordial fantasies, Žižek is attentive to the ways in which censorship is exercised in both regimes to erase or simply veil this deployment. Crucial here is how the staging of hallucination, when the representation of primordial fantasies is left uncensored, can allow</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Hallucination as Ideology in Cinema</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ŽIŽEK</surname>
+                           <given-names>SLAVOJ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract abstract-type="extract">
+                     <p>So much has already been written about the battle for Stalingrad, this battle is invested with so many fantasies and symbolic meanings – when the German troops reached the Western bank of the Volga, the “apolitical” Franz Lehar himself, the author of <italic>The Merry Widow</italic>, Hitler’s favourite operetta, quickly composed “Das Wolgalied,” celebrating this achievement. Let us just recall the two main “as if” scenarios: <italic>if</italic> the Germans were to break through to the east of the Volga and to the Caucasus oil fields, the Soviet Union would collapse and Germany would have won the war; <italic>if</italic> Erich von Manheim’s deft</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.16</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>245</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In “One Place after Another: Site-Specific Art and Locational Identity” (2004), an examination of site-specific art and artistic representations of the role of place in identity formation, art historian Miwon Kwon proposed a major rereading of site-specificity by emphasizing the double task of de-essentializing site and recognizing the importance of a “network of unanchored flows” in which the attachment of the self to place would become irrelevant:</p>
+                     <p>Despite the proliferation of discursive sites and “fictional” selves, the phantom of a site as an actual place remains, and our psychic, habitual attachments to places regularly return as they continue to inform</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.17</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Media Image, Public Space, and the Body:</title>
+                     <subtitle>Around Krzysztof Wodiczko’s<italic>Alien Staff</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRASER</surname>
+                           <given-names>MARIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Barnard</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In an incisive and rarely quoted article, Walter Benjamin recounts this legendary story, an ancient tale explaining how to become rich, to introduce his thesis that modernity brought about a loss of experience. As it is described in this brief excerpt, experience assumes a tradition that is shared and taken up in the spoken word passed on from generation to generation. With modernity, Benjamin relates, the knowledge this old man wants to leave to his children before his death is radically transformed by the use of technology. The transmission of knowledge no longer resides in the transmission of experience or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.18</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Mediating Place-Identity:</title>
+                     <subtitle>Notes on Mathias Woo’s<italic>A Very Good City</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JIM</surname>
+                           <given-names>ALICE MING WAI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Over the last decade, contemporary art in Hong Kong, informed by travel(ing) theory, the special administrative region’s ambiguous (post) colonial-national-global connections and its inimitable set of historical and cultural situations, has been preoccupied with the themes of mobility, transition, and location in its representations of the city. This fixation, or, rather, the urgency of its mediation in not only artistic but also cultural, economic, and political arenas is inextricably linked to an ongoing elaboration of a Hong Kong identity. But assertions of “who we are” are often intimately related to suppositions of “where we are,” an idea captured in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.19</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Polysensoriality mainly refers to artworks that are attentive to the ways in which an image ceases to work merely at the level of vision. Questioning formalist opticality (the understanding of the image as a purely optical reality to be apprehended by an eye detached from the other senses), the chapters in this section propose to show how the artwork’s interpellation of the spectator through touch, vision and smell, touch and vision, or surrogate vision can enrich aesthetic experience. The section opens with Julie Lavigne’s examination of Janine Antoni’s <italic>Lick and Lather</italic>(1993– 94), which shows a polysensoriality that involves smell and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.20</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Janine Antoni’s<italic>Lick and Lather</italic>:</title>
+                     <subtitle>Eroticism as Identity Subversion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAVIGNE</surname>
+                           <given-names>JULIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Ralickas</surname>
+                           <given-names>Eduardo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>283</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Eroticism, as it is usually understood, is a depiction of a sexual nature that is deemed acceptable by a given society. However, such a distinctive definition of eroticism seems to be compromised by the concept of pornography, which, at least over the last fifteen years, is increasingly thought to circumscribe the same semantic space.¹ This confirms that the concept of eroticism is highly subjective as it depends on a moral judgment, which, by virtue of its very existence, makes the theoretical use of the former concept unstable. Nevertheless, my investigation into the notion of eroticism is motivated by just such</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.21</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Televisual Flesh:</title>
+                     <subtitle>The Body, the Screen, the Subject</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JONES</surname>
+                           <given-names>AMELIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>302</fpage>
+                  <abstract abstract-type="extract">
+                     <p>If film is the quintessential medium of the modern era, as many film theorists would have it, then it is easy to assume that television and its related media of video and digital video epitomize the cultural relations of postmodernism – as Baudrillard suggests in the above epigraph. This chapter takes a less oppositional view, however, seeing the televisual as itself videographic and cinematic, and exploring the postmodern embodiments it sets into play as it fabricates and negotiates new kinds of subjects. I begin by dwelling on several artists’ video projects from around 1970 and then go on to examine the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.22</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Real Time, Lived Time:</title>
+                     <subtitle>AR Art, Perception, and the Possibility of the Event</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSS</surname>
+                           <given-names>CHRISTINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>328</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since the early 1990s, the progressive authentication of augmented reality (AR) over virtual reality (VR) in a variety of domains (medicine, military training, education, communication, transportation, tourism, art, to name the most obvious) has set about a significant reinforcement of real time as a key temporality of our epoch. Perception in real time is an indispensable prerogative of any ar design – and I adopt here Ronald Azuma et al.’s definition of AR as a system that “supplements the realworld with virtual (computer-generated) objects that appear to coexist in the same space as the realworld”¹ – if it is to adequately do</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.23</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>353</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Part 6 concentrates on the generating function of the image – its ability to form the self, its genetic representation of the self, and the performative use of the metaphor in scientific descriptions of the genetic code. The visualities set into play here fundamentally break with the mimetic functioning of art to rethink the power of the image in the context of the modern development of genetics and molecular biology. The first chapter, Éric Michaud’s “The Descent of the Image,” proposes a transhistorical reading of the generating/generative function of the image – the manipulation of iconic signs to modify human descent through</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.24</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The Descent of the Image</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MICHAUD</surname>
+                           <given-names>ÉRIC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated from the French by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schott</surname>
+                           <given-names>Nils F.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ralickas</surname>
+                           <given-names>Eduardo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What role do painted or sculpted images play in human reproduction? Put this way, the question seems to be concerned more with the history of embryology and reproduction than with the history of art. Yet such an interrogation appears central to Western art and its history if we take into consideration the extent to which theories of art, from the Hellenistic period up to the nineteenth century, have accorded importance to the notion of an “ideal of beauty” capable of guiding the human species to its total perfection – towards its “physical and moral perfection,” as the men of the eighteenth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.25</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Resemblance and Identification:</title>
+                     <subtitle>The Paradox of Gary Schneider’s<italic>Genetic Self-Portrait</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAMSON</surname>
+                           <given-names>HÉLÈNE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Barnard</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>380</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Gary Schneider is one of a growing number of artists taking up the theme of genetics in portrait photography.¹ His <italic>Genetic Self-Portrait</italic> (1997–98) has been shown at the National Gallery of Canada as part of an exhibition of artists’ portraits.² In this chapter, I attempt to show how this portrait destabilizes its genre and how it illustrates some of the questions raised by genetic identity, keeping in mind that any portrait is a representation of individuality and that the means of this representation have changed in the movement from painting to photography.³</p>
+                     <p>Gary Schneider was born in 1954 in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.26</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Variations on Genetic Insignificance:</title>
+                     <subtitle>Metaphors of the (Non)Code</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BARDINI</surname>
+                           <given-names>THIERRY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated from the French by</role>
+                        <name name-style="western">
+                           <surname>Fox</surname>
+                           <given-names>Stephanie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In this chapter, I examine the history of molecular biology and its central notion of “genetic code” from a semiotic perspective. By contrasting different semiotic perspectives, I contemplate a variety of constituent pseudo-evidences in current discourse on the destiny of the human race, at the dawn of wide scale technical and cultural transformations made possible by the manifest possibility of human cloning in the relative short term. From these pseudo-evidences, the tropes “genetic code” and its “decrypting” appear fundamental to me.</p>
+                     <p>These pseudo-evidences appear the most obvious today in cyborg fantasies and delusions stemming from NASA circa 1961 and updated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.27</book-part-id>
+                  <title-group>
+                     <title>AUTHOR BIOS</title>
+                  </title-group>
+                  <fpage>417</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pq1zh.28</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>421</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

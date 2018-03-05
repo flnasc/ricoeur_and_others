@@ -1,0 +1,630 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1t89h5j</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Localism and neighbourhood planning</book-title>
+         <subtitle>Power to the people?</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Brownill</surname>
+               <given-names>Sue</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Bradley</surname>
+               <given-names>Quintin</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>01</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="epub">9781447329510</isbn>
+      <isbn content-type="epub">1447329511</isbn>
+      <publisher>
+         <publisher-name>Policy Press</publisher-name>
+         <publisher-loc>Bristol</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Policy Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1t89h5j"/>
+      <abstract abstract-type="short">
+         <p>A critical analysis of neighbourhood planning. Setting empirical evidence from the UK against international examples, the Editors engage in broader debates on the purposes of planning and the devolution of power to localities.Governments around the world are seeing the locality as a key arena for effecting changes in governance, restructuring state/civil society relations and achieving sustainable growth. This is the first book to critically analyse this shift towards localism in planning through exploring neighbourhood planning; one of the fastest growing, most popular and most contentious contemporary planning initiatives. Bringing together original empirical research with critical perspectives on governance and planning, the book engages with broader debates on the purposes of planning, the construction of active citizenship, the uneven geographies of localism and the extent to which power is actually being devolved. Setting this within an international context with cases from the US, Australia and France the book reflects on the possibilities for the emergence of a more progressive form of localism.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.3</book-part-id>
+                  <title-group>
+                     <title>List of tables and figures</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.4</book-part-id>
+                  <title-group>
+                     <title>List of photographs</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.5</book-part-id>
+                  <title-group>
+                     <title>Editors’ acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.6</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.7</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brownill</surname>
+                           <given-names>Sue</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This statement and the legislation that followed it unleashed a new wave of community-based planning in England. As one of a range of rights and powers introduced by the localism agenda of 2011, neighbourhood groups were able to draw up statutory land-use plans, thereby creating a new tier in the planning framework. Five years later, with close to 2,000 neighbourhoods formally engaged in the process, it was clear that neighbourhood planning had emerged as one of the most widespread community initiatives in recent years and one of the most current topics within spatial planning. As such, it demands further investigation,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.8</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Neighbourhood planning and the purposes and practices of localism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brownill</surname>
+                           <given-names>Sue</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>This chapter situates neighbourhood planning within the context of the evolution of community-led planning, citizen engagement and the shifting scales of spatial planning at the national and international levels. It critically examines neighbourhood planning as a key element of the localism that has evolved in England since 2010, outlining the contradictory propositions and powers at its heart. The chapter is in three parts. The first explores international trends in planning policy and governance and ways of characterising and understanding these, arguing that we have to move away from dichotomies to look at the complexities of the social, spatial and political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.9</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Neighbourhoods, communities and the local scale</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>This chapter situates international debates on participation and the widening of democratic engagement in the context of initiatives in the English planning system. It discusses the devolution of neighbourhood planning powers to local communities from 2011 and draws parallels with traditions of citizens’ control and direct action in land-use planning. It asks whether neighbourhood planning can be said to devolve some kind of ‘power to the people’. In doing so, the chapter argues for an understanding of participation not as a process of inclusion, but as a political practice founded on the inevitability of antagonism and conflict. It begins by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.10</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Neighbourhood planning and the spatial practices of localism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burnett</surname>
+                           <given-names>Amy</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sparling</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Whether the state strategy of localism delivers on its promise of empowerment depends on the extent to which it devolves effective instruments of policy to citizens and communities. The devolution of localism is commonly conveyed by invitation to citizens to join local governance structures or be included in neighbourhood management projects (Lowndes and Sullivan, 2008). Citizens seldom acquire the right to make decisions as a collective, and it is rare for statutory power to be designed to be wielded by public participants rather than public officials (Bradley, 2015). This chapter examines the use of statutory planning powers to effect spatial</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.11</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>The uneven geographies of neighbourhood planning in England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parker</surname>
+                           <given-names>Gavin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>While neighbourhood planning is still emerging as an active component of planning practice and as part of the wider project of planning reform taken up by the UK government since 2010, it is revealing to narrate how it has been designed and responded to. The political and theoretical implications of neighbourhood planning are clearly important to understand and reflect upon (see Bradley, 2015; Davoudi and Madanipour, 2015; Parker et al, 2015; see also Chapters Two and Nine), but this chapter focuses on how, where and on what basis this non-mandatory, voluntary approach to statutory planning has been taken up by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.12</book-part-id>
+                  <title-group>
+                     <title>[Part Two: Introduction]</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In Part Two, we explore the everyday practices of neighbourhood planning and the experiences of participants, and through these emerging histories, we investigate the key themes of power and empowerment, democratic renewal, and the remaking of planning and place. In the first three chapters, the emphasis is on the lived realities of neighbourhood planning, and the challenges, compromises and frustrations encountered in navigating the conflicting rationales of localism. These chapters introduce the range of actors engaged at the neighbourhood level and present divergent views and interpretations of the democratic practices of the locality, and the empowering potential of citizen planning.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.13</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Developing a neighbourhood plan:</title>
+                     <subtitle>stories from ‘community-led’ planning pathfinders</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGuinness</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ludwig</surname>
+                           <given-names>Carol</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>This chapter provides empirical data from two of the earliest neighbourhood planning pathfinders in England: Upper Eden in rural Cumbria and North Shields on the Tyneside coast. It critically explores how each neighbourhood navigated the plan-making process and provides first-hand insights into the challenges faced by the first wave of pathfinder neighbourhoods to embark on the neighbourhood planning process. The unfolding experiences of the two areas reveal some important questions about the impact of the initial lack of clear policy guidance about neighbourhood planning, whether communities have the capacity to develop robust neighbourhood plans without the direct assistance of professional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.14</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Voices from the neighbourhood:</title>
+                     <subtitle>stories from the participants in neighbourhood plans and the professionals working with them</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <role content-type="editor">Edited by</role>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brownill</surname>
+                           <given-names>Sue</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>In this chapter, we convey the everyday experiences of neighbourhood planning by bringing together the voices of a range of different actors involved in a variety of plans. We have presented these accounts as narratives without comment or interpretation as we believe they give a unique and powerful insight not only into the practical and emotional aspects of ‘doing’ neighbourhood planning, but also into the wider issues that this book is engaged with. Readers will be able to make connections between these accounts and the themes raised so far. The voices also give different perspectives reflecting the different interests engaged</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.15</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Participation and conflict in the formation of neighbourhood areas and forums in ‘super-diverse’ cities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Colomb</surname>
+                           <given-names>Claire</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Political philosophies and practices of ‘localism’ can lead to both progressive and regressive outcomes (Davoudi and Madanipour, 2013; Madanipour and Davoudi, 2015). This chapter discusses whether neighbourhood planning has the potential to bring about more inclusive forms of public participation in, and engagement with, planning (and thus potentially more progressive and socially equitable forms of urban development), or, on the contrary, to stir up social conflict. The social and spatial imaginary that underpins parish and neighbourhood planning entails the idea of a relatively homogeneous, stable, identifiable and self-conscious ‘local community’ that possesses a sense of neighbourhood belonging and attachment and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.16</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>Assembling neighbourhoods:</title>
+                     <subtitle>topologies of power and the reshaping of planning</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brownill</surname>
+                           <given-names>Sue</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>The issue of power is central to neighbourhood planning, yet it is also one of its most contested and debated areas. Implicit (and often explicit) within these debates is the notion of scale. The spatial metaphors that accompany these debates often suggest the idea of power moving up or down a vertical scale between the neighbourhood and a variety of levels of governance (Bailey and Pill, 2014) or horizontally through networked power relations along the lines of collaborative planning (Healey, 1987; Gallant and Robinson, 2012). These relations are seen as either enabling or constraining the possibilities for neighbourhoods to determine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.17</book-part-id>
+                  <title-group>
+                     <label>TEN</label>
+                     <title>A passion for place:</title>
+                     <subtitle>the emotional identifications and empowerment of neighbourhood planning</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>The relationship between people and place possesses a powerful fascination for governments. The belief that people feel an emotional bond with the place in which they live has motivated state strategies of localism, with their promise to devolve policymaking to neighbourhoods. Localism has been understood as a technology of spatial governmentality that uses place and place relationships to influence the behaviour and subjectivity of citizens (Gibson, 2001; Davoudi and Madanipour, 2015). The same bond between people and place is mobilised by community organisations and citizen groups to inspire participants and foster their ability to bring about change (Somerville, 2016). A</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.18</book-part-id>
+                  <title-group>
+                     <title>[Part Three: Introduction]</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Part three provides an international perspective on the English experience of neighbourhood planning to amplify its themes and to place it in the context of debates about global shifts in the spatial scale of governance and empowerment. It discusses the concept of locality, identifies the further potential of community planning beyond land use and explores the impact of different state and governance structures on ideas of localism and devolution. This section reminds us that planning at the neighbourhood level can be assembled differently in different places and at different times. The need to avoid easy readings of universalised shifts towards</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.19</book-part-id>
+                  <title-group>
+                     <label>ELEVEN</label>
+                     <title>Community-based planning and localism in the devolved UK</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pemberton</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>This chapter explores how community-based planning and localism are evolving differentially in the devolved UK. Devolution in the UK has been seen as integral to the government’s attempts to modernise the ways in which the public sector is organised and managed (Peel and Lloyd, 2007). However, it has been introduced in a relatively piecemeal manner, with reforms addressed to different purposes in separate parts of the UK, and with a subsequent differentiation in institutional governance arrangements (and associated executive, legislative and financial powers) that drew upon distinctive administrative practices that had previously accumulated in each territory (Pemberton and Lloyd, 2008).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.20</book-part-id>
+                  <title-group>
+                     <label>TWELVE</label>
+                     <title>Citizen participation:</title>
+                     <subtitle>an essential lever for urban transformation in France?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardesse</surname>
+                           <given-names>Camille</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zetlaoui-Léger</surname>
+                           <given-names>Jodelle</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Planning in France has always been a state affair. In the 17th century, a territorial administration was created to implement the rational organisation of space through centralised infrastructure as the cornerstone of the new-born nation state and, from the late 18th century, a vector for republican values (Foucault, 1975). In the late 20th century, despite a shift towards decentralisation that saw private actors taking a central role in urban planning, things remained fundamentally unchanged. By defining and implementing urban laws, including the process for the declaration of public utility, national and local government remain responsible for orchestrating spatial planning.¹ This</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.21</book-part-id>
+                  <title-group>
+                     <label>THIRTEEN</label>
+                     <title>Localism and neighbourhood planning in australian public policy and governance</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burton</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>Localism is often used in confusing and contradictory ways in Australian political debate and policy discourse. While many state and territory governments extol the virtues of devolving responsibility for planning and service delivery down to local governments, they show no sign of relinquishing their constitutional authority over local government or of pressing for further devolution to more localised communities. State and territory governments continue to exercise their constitutional authority over local government in regulating their powers, responsibilities and finances, and, most symbolically, in enforcing the amalgamation of local councils in the name of efficiency and effectiveness, often in the face</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.22</book-part-id>
+                  <title-group>
+                     <label>FOURTEEN</label>
+                     <title>The many lives of neighbourhood planning in the US:</title>
+                     <subtitle>much ado about something?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bennett</surname>
+                           <given-names>Larry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>Neighbourhood planning in the US can be traced to the settlement house movement at the turn of the 20th century. Over the course of subsequent decades, the aims of and mechanisms to further neighbourhood planning have shifted substantially. Indeed, in the last quarter-century, new forms of local political and civic action have seemed to supplant neighbourhood<italic>planning</italic>as a principal means of linking citizens and local government officials.</p>
+                     <p>However, in one key respect, the evolution of neighbourhood planning in the US parallels the experience of the UK, as well as the other countries profiled in this volume. The fundamental purpose</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.23</book-part-id>
+                  <title-group>
+                     <label>FIFTEEN</label>
+                     <title>Reflections on neighbourhood planning:</title>
+                     <subtitle>towards a progressive localism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradley</surname>
+                           <given-names>Quintin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brownill</surname>
+                           <given-names>Sue</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>At the time of writing in the summer of 2016, 1,900 neighbourhood plans were under way across England, and more than 200 had passed referendum and were being used to help make development decisions (Planning Aid England, 2016). A movement of citizen-planners had responded with pragmatic enthusiasm to the conditional and much-circumscribed opportunity to influence the look and feel of their communities. In no other case study of devolution, across a broad international canvas, do we see so vividly the liberatory and regulatory conflicts that arise from the assemblages of localism, or the tangled relations of power and identity that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.24</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89h5j.25</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,419 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt17kk8bm</book-id>
+      <subj-group>
+         <subject content-type="call-number">NA2543.N48M56 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Neurosciences in architecture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Architecture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Human factors</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Architectural design</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychological aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Architecture and Architectural History</subject>
+         <subject>Biological Sciences</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Mind in Architecture</book-title>
+         <subtitle>Neuroscience, Embodiment, and the Future of Design</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Robinson</surname>
+               <given-names>Sarah</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Pallasmaa</surname>
+               <given-names>Juhani</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>04</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262028875</isbn>
+      <isbn content-type="epub">9780262329088</isbn>
+      <isbn content-type="epub">0262329085</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt17kk8bm"/>
+      <abstract abstract-type="short">
+         <p>Although we spend more than ninety percent of our lives inside buildings, we understand very little about how the built environment affects our behavior, thoughts, emotions, and well-being. We are biological beings whose senses and neural systems have developed over millions of years; it stands to reason that research in the life sciences, particularly neuroscience, can offer compelling insights into the ways our buildings shape our interactions with the world. This expanded understanding can help architects design buildings that support both mind and body. In<italic>Mind in Architecture</italic>, leading thinkers from architecture and other disciplines, including neuroscience, cognitive science, psychiatry, and philosophy, explore what architecture and neuroscience can learn from each other. They offer historical context, examine the implications for current architectural practice and education, and imagine a neuroscientifically informed architecture of the future. Architecture is late in discovering the richness of neuroscientific research. As scientists were finding evidence for the bodily basis of mind and meaning, architecture was caught up in convoluted cerebral games that denied emotional and bodily reality altogether. This volume maps the extraordinary opportunity that engagement with cutting-edge neuroscience offers present-day architects.ContributorsThomas D. Albright, Michael Arbib, John Paul Eberhard, Melissa Farling, Vittorio Gallese, Alessandro Gattara, Mark L. Johnson, Harry Francis Mallgrave, Iain McGilchrist, Juhani Pallasmaa, Alberto Pérez-Gómez, Sarah Robinson</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>SURVIVAL THROUGH DESIGN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Robinson</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Rain draws sap from creosote leaves, releasing their astringent odor into the air. Rain washes hard earth; sinks into the saguaro’s radial roots—uncreasing the crinoline folds of its skin. Rain enervates the landscape; turns cactus needles into hairs that stand on end, antennae tuned to capture water. The raindrops beat on my metal roof like a drum. From below, veils of canvas draw the line thinly between outside and in. The south-facing wall arches against my back like the cupped palm of a giant hand, exhaling its stored heat into the length of my spine. The wind outside howls.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>ʺKNOW THYSELFʺ:</title>
+                     <subtitle>OR WHAT DESIGNERS CAN LEARN FROM THE CONTEMPORARY BIOLOGICAL SCIENCES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mallgrave</surname>
+                           <given-names>Harry Francis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>It is no secret that architects generally pride themselves on being artists. Design education begins with elementary artistic exercises, and professional and nonprofessional journals today consider the architect to be an important arbiter of taste within the arts, in the same way that a generation or two ago the work of Mondrian or Matisse personified the idea of a transformative modernity. But wherein resides the “art” within the “art of building” (<italic>Baukunst</italic>)? I do not raise this question disparagingly, but I do mean to be provocative. Does the artistic component of an architectural design reside in its creativity, composition, good</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE EMBODIED MEANING OF ARCHITECTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Mark L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>Human beings are creatures of the flesh who arrange spaces and physical structures fitted to their bodies. We live in and through our ongoing interactions with environments that are both physical and cultural. The structures we make are loosely adapted to the functions we perform. Some of these functions are necessary for our survival and flourishing, such as working, eating, having shelter, playing, and sleeping. However, we also order our environments to enhance meaning in our lives and to open up possibilities for deepened and enriched experience. In other words, although we are animals evolved for fitness, we are just</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>BODY, MIND, AND IMAGINATION:</title>
+                     <subtitle>THE MENTAL ESSENCE OF ARCHITECTURE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pallasmaa</surname>
+                           <given-names>Juhani</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>Instead of stepping on the specialized ground of neuroscience, I wish to elaborate on the specific mental essence of architecture—a realm that is deeply biologically and culturally grounded, although poorly understood in both education and practice. It is my hope that the exciting doors that the biological and neurosciences are now opening will valorize the interaction of architecture and the human mind, and reveal hidden complexities that have thus far escaped measurement and rational analyses. In our postmodern society, dominated by shallow rationality and reliance on the empirical, measurable, and demonstrable, the embodied and mental dimensions of human existence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>TOWARD A NEUROSCIENCE OF THE DESIGN PROCESS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arbib</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>While I have come up with three different ways in which neuroscience might inform the work of architects, here I will emphasize the<italic>neuroscience of the design process</italic>, whose central question is: “What can we understand about the brain of the architect as he or she designs a building?” I will offer only a preliminary analysis, but hope to encourage further thinking about how the design process can be illuminated more and more by future research in neuroscience. In addition, I will briefly introduce the two other areas: one is the<italic>neuroscience of the experience of architecture</italic>: not what goes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>TENDING TO THE WORLD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGilchrist</surname>
+                           <given-names>Iain</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Many scientists assume that describing something at the brain level reveals the ultimate truth about its nature. However, as Wittgenstein, among others, observed, nothing can ever be<italic>reduced</italic>to anything: it is what it is. People got terribly excited when neuroscientists found a brain circuit that “lit up” when you fell in love; perhaps you remember the splash it made in the papers. We were invited to think that this brain activity told us something about the business of falling in love, just as describing spiritual experience at the brain level seems to have explained that experience away. Of course</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>ARCHITECTURE AND NEUROSCIENCE:</title>
+                     <subtitle>A DOUBLE HELIX</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Eberhard</surname>
+                           <given-names>John Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>“How would you like to move back to Washington and organize a program to respond to Dr. Salk’s challenge?” Norman Koonce, the President of the American Architectural Foundation, and Syl Damianos, Chancellor of the College of Fellows of the American Institute of Architects, asked. At sixty-eight, I had recently retired as Head of the architecture program at Carnegie Mellon University, and was not expecting to return to work again—but how could I refuse such an offer?</p>
+                     <p>Dr. Jonas Salk was convinced that architectural settings profoundly influence our mental and physical welfare, a conviction that stems from his personal experience.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>NESTED BODIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Robinson</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>We are bodies who start inside other bodies. Most of us think we know what our body is: it is the fleshy whole we inhabit; but the dictionary defines the word “body” much more broadly. A body is the entire material or physical structure of an individual organism; it is also an entity composed of numerous members—of people, things, concepts, or processes—a student body, a body of work, a body of evidence, the body politic. Body is used to describe the main or central part of something—the body of a temple, for instance. It can also describe</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>EMBODIED SIMULATION, AESTHETICS, AND ARCHITECTURE:</title>
+                     <subtitle>AN EXPERIMENTAL AESTHETIC APPROACH</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gallese</surname>
+                           <given-names>Vittorio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gattara</surname>
+                           <given-names>Alessandro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>Cognitive neuroscience today offers a novel approach to the study of human social cognition and culture. Such an approach can be viewed as a sort of “cognitive archaeology,” as it enables the empirical investigation of the neurophysiological brain mechanisms that make our interactions with the world possible, thereby allowing us to detect the possible functional antecedents of our cognitive skills and to measure the sociocultural influence exerted through human cultural evolution on that very same cognitive repertoire. Thanks to cognitive neuroscience we can deconstruct some of the concepts we normally use when referring to intersubjectivity or to aesthetics, art, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>FROM INTUITION TO IMMERSION:</title>
+                     <subtitle>ARCHITECTURE AND NEUROSCIENCE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Farling</surname>
+                           <given-names>Melissa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Eberhard’s description of experiencing Amiens Cathedral explains all that a person takes in with her senses, and allows us to understand not only the psychological, but also the neurological and physiological aspects of that experience. This rich, multidimensional understanding was exactly what I was hoping to explore twenty-seven years ago in architecture school.</p>
+                     <p>When I was a third-year architectural student, my studio conducted a charette for each individual student. The goal of the charette was to generate ideas for projects that would combine two passions—one passion had to be architecture, the other was personal to each student. My other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>NEUROSCIENCE FOR ARCHITECTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Albright</surname>
+                           <given-names>Thomas D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>Buildings serve many purposes. One might argue that their primary function is to provide shelter for the inhabitants and their possessions—a place to stay warm and dry, and to sleep without fear of predators or pathogens. Buildings also provide spaces to safely contain and facilitate social groups focused on learning, work, or play. And they provide for privacy, a space for solace and retreat from the social demands of human existence. These primary physical requirements, and their many subsidiaries, simply reflect the fact that we are biological creatures. In addition to building constraints dictated by site, materials, and budget,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>MOOD AND MEANING IN ARCHITECTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pérez-Gómez</surname>
+                           <given-names>Alberto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>In my book<italic>Architecture and the Crisis of Modern Science</italic>, I described how Western architecture was profoundly affected by the scientific revolution of the seventeenth century, revealing a set of intentions that were wholly modern long before the material changes brought about by the Industrial Revolution.¹ In relation to perception and cognition, an initial consequence of that momentous transformation in European thinking was the incorporation of René Descartes’s dualistic epistemology/psychology into an understanding of how architecture communicates. This assumption had far-reaching consequences, opening the door for a subsequent understanding of architecture as a “sign,” whose meaning was articulated as the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.16</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.17</book-part-id>
+                  <title-group>
+                     <title>FIGURE CREDITS</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17kk8bm.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

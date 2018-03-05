@@ -1,0 +1,542 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13wwwrr</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>God--The World's Future</book-title>
+         <subtitle>Systematic Theology for a New Era</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Peters</surname>
+               <given-names>Ted</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>08</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9781451482225</isbn>
+      <isbn content-type="ppub">1451482221</isbn>
+      <isbn content-type="epub">9781506400419</isbn>
+      <isbn content-type="epub">1506400418</isbn>
+      <publisher>
+         <publisher-name>Augsburg Fortress Publishers</publisher-name>
+         <publisher-loc>Minneapolis</publisher-loc>
+      </publisher>
+      <edition>3</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Fortress Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13wwwrr"/>
+      <abstract abstract-type="short">
+         <p>God—The World’s Future has been a proven and comprehensive textbook in systematic theology for over twenty years. Explicitly crafted to address our postmodern context, Peters explains the whole body of Christian historical doctrine from within a “proleptic” framework, “whereby the gospel is understood as announcing the pre-actualization of the future consummation of all things in Jesus Christ.” Peters skillfully deploys this concept not only to organize the various theological areas or loci but also to rethink doctrines in light of key postmodern challenges from ecumenism, critical historical thinking, contemporary science, and gender and sexuality issues. The Third Edition is thoroughly revised with updated chapters, additional chapters, updated annotations and bibliographies, and further elaborations in light of recent developments in method and theological reflection. This classic text opens up systematic theology in new dimensions, retrieving traditional categories and topics for a new generation of students and learners to give a fresh reading of Christian theology and articulation of the liberating message of the gospel of God’s grace for the future of the world.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.3</book-part-id>
+                  <title-group>
+                     <title>Preface to the First Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peters</surname>
+                           <given-names>Ted</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.4</book-part-id>
+                  <title-group>
+                     <title>Preface to the Second Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peters</surname>
+                           <given-names>Ted</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.5</book-part-id>
+                  <title-group>
+                     <title>Preface to the Third Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peters</surname>
+                           <given-names>Ted</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xxv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.6</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xxxi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.7</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part One</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Systematic theology explicates the content of Christian belief, often by expanding the trinitarian structure found in the Apostles’ and Nicene Creeds. This content is normally termed<italic>doctrine</italic>. The doctrinal content sits in the center, usually preceded by a section on<italic>methodology</italic>and followed by a discussion of<italic>ethics</italic>. The section on methodology consists of a prolegomenon that is occasionally called “foundations” or “fundamental theology.” The discussion of ethics, which sometimes appears in a work separate from the systematic theology itself, attempts to discern what conduct should flow from doctrinal belief.</p>
+                     <p>The explication of doctrinal content will occupy Parts Two, Three,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Addressing the Postmodern Person</title>
+                  </title-group>
+                  <fpage>5</fpage>
+                  <abstract>
+                     <p>Painted at the intersection of the longitudinal and transverse axes of the central nave ceiling in the little chapel at Wies in southern Germany is Jesus sitting on a rainbow. Below him, is the judgment seat. It is empty. Above and to the left, two angels are pointing to the empty cross, the cross upon which the judge himself made the sacrifice that frees the accused captives. The rainbow recalls the covenant sign given by God to Noah, revealing divine sadness at the sight of human destruction and promising a life forever secure from the ravages of deluge. Jesus is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Explicating the Christian Symbols</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Christian theology—especially systematic theology—is the explication of, and reflection on, the basic symbols found in scripture, appropriating them to the current context within which the theologian is working. Theology is the church thinking about what it believes. In itself, theology is not the content of what the church believes. Rather it is reflection on the content of that belief. One puts faith in God, and this faith comes to expression in the way life is lived and in what is believed. The content of belief is found in the symbols that accompany faith. Theology is a form of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.10</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part Two</title>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>The Apostles’ and Nicene Creeds divide and order confessional commitments into three articles: first, the Father and creation; second, the Son and redemption; and third, the Spirit identified with sanctification and consummation. The systematic theology presented in this book follows this trinitarian pattern. Each of the three articles may be subdivided, and each subdivision becomes a topic, or<italic>locus</italic>, for theological explication.</p>
+                     <p>Part Two opens the doctrinal content of systematic theology by examining the Christian understanding of God. This examination addresses various subdivisions or<italic>loci</italic>within the First Article such as God’s attributes, the Trinity, and creation. Creation is further</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.11</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>God the Trinity</title>
+                  </title-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Theology’s overriding question is this: Who is God? Christians more specifically ask: What is the significance of the story of Jesus for understanding God? The attempt to answer this question leads to the Christian doctrine of the Trinity: God is the transcendent One who has become one with humanity in the person of Jesus Christ and through whose Spirit we and the whole cosmos are being brought to fulfillment. In Jesus, the transcendent has become present; in the Spirit conflicting fragments are becoming integrated into a whole. The heart behind and within this process is termed<italic>God</italic>. When we use</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.12</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>God and the Continuing Creation</title>
+                  </title-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>To think of the world as a creation implies belief in a creator who is the “maker of heaven and earth, and of all things visible and invisible.” This raises the question: How does God make heaven and earth and everything else? Although no easy answer can be given, explicating the symbols relating to the gospel provides a response. Just as the experience of the gospel with the Son of God led to the understanding of God as Father, so also the experience of new creation in the gospel will have an impact on our understanding of newness regarding the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.13</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Becoming Human and Unbecoming Evil</title>
+                  </title-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>The whole of creation history includes, among other things, human history. Perhaps the emerging field of Big History is the closest secular counterpart to the theologian’s creation history. Within the cosmic hsitory of creation, systematic theologians commonly include an anthropology—an explication of what is human—in their explication of Christian doctrine. Sometimes the anthropology appears between expositions of the First and Second Articles of the creeds—that is, between explications of God as Father and God as Son. The sorry state of the human condition explains why the good creation is in need of redemption. So theological anthropology fits</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.14</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part Three</title>
+                  </title-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>Part Three examines the creed’s Second Article, which deals with the story of Jesus (the person) and its significance for the redemption of creation (the work).</p>
+                     <p>Jesus Christ brings the forgiveness of sin and a proleptic foretaste of new creation. Attention is directed toward the conflict between the new creation and the old because this conflict resulted in the crucifixion of Jesus and led to the resurrection to new life on Easter. On the basis of this Easter victory, Jesus becomes the Christ, the bringer of the new aeon in his role as the final wisdom, the final prophet, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.15</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Person and Work of Jesus Christ</title>
+                  </title-group>
+                  <fpage>345</fpage>
+                  <abstract>
+                     <p>The story of Jesus is significant because of who Jesus was and because of what he accomplished. Ordinarily, the word<italic>Christology</italic>refers to who he was and is, and the word<italic>soteriology</italic>refers to what he did and does. Sometimes the word<italic>Christology</italic>refers to both.</p>
+                     <p>Christology is the church’s doctrinal conversation regarding the person of Jesus Christ. The focus of discussion has traditionally been the incarnation—that is, reflection upon the affirmation of the divine presence in the human person of Jesus. Coming from the Greek term σώζειν, meaning to save, soteriology is the doctrine of salvation accomplished by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.16</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Work and Person of Jesus Christ</title>
+                  </title-group>
+                  <fpage>389</fpage>
+                  <abstract>
+                     <p>Soteriology is a continuation of the discussion begun in Christology. It presupposes what I have already said about becoming human, unbecoming evil, and the person of Christ. It then proceeds to focus discussion on the atoning work of Christ, the concept of justification, and the outcome of human destiny in the kingdom of God. Generally, soteriology concerns itself more with the means of accomplishing salvation than with the nature or content of salvation itself. The content of salvation will be addressed here, of course, but it will extend to the<italic>loci</italic>on eschatology and ethics that explicate further the symbol</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.17</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Gift of Justification</title>
+                  </title-group>
+                  <fpage>429</fpage>
+                  <abstract>
+                     <p>In the previous chapter on soteriology, we noted how the doctrine of justification is the result of theological reflection on the significance of the symbol of Christ as the lamb of God. The innocence of the scapegoated lamb of God is transferred to us. Our own deeds of justice, our own good works, our own holiness, do not make us just in the sight of God. Our justice is rather an alien justice, one that comes to us from without but one that becomes our own through an act of God’s grace. Our justification is a gift.</p>
+                     <p>We have been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.18</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part Four</title>
+                  </title-group>
+                  <fpage>471</fpage>
+                  <abstract>
+                     <p>In our new era, when<italic>religion</italic>is a bad word and<italic>spirituality</italic>is a good word, we need to return to our ancient treasure chest of spiritual resources. The facets of our precious spiritual jewels can sparkle once again within our souls, evoking the life of beatitude. Here in Part Four we take up the Third Article of the creed, the locus associated with the third person of the Trinity, the Holy Spirit. The Spirit of God is the spirit of divine presence. It makes both the Christ of yesterday and the kingdom of tomorrow present today in the word</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.19</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Holy Spirit</title>
+                  </title-group>
+                  <fpage>473</fpage>
+                  <abstract>
+                     <p>Pneumatology is the study of the Holy Spirit. It receives its name from the Greek term for spirit, πνεûμα (<italic>pneuma</italic>), which can also mean breath or wind. What we today call “pneumatic” devices, such as pumps and air hammers, receive their names from the same root as our concept of spirit.</p>
+                     <p>Air is a source of power. As I pointed out in the chapter on becoming human, this identification of spirit with air was widespread in the ancient world. Perhaps the phenomenological origin of such thinking is the observation that breath and life belong together. Just as the invisible wind</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.20</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Church</title>
+                  </title-group>
+                  <fpage>517</fpage>
+                  <abstract>
+                     <p>The church is the historical arc between two terminals, Easter and the consummation. The church has been given the charge of bringing light to the world in this period while we await the full shining glory of God when even the sun will be surpassed in radiance. In the partial darkness of the present aeon, however, we must push on, following the path that the lamp of God’s word illumines, a word made audible in the church’s preaching, made visible in the celebration of the sacraments, and made tangible in the ministry of reconciling love.</p>
+                     <p>Ecclesiology is the doctrine of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.21</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Eschatology</title>
+                  </title-group>
+                  <fpage>601</fpage>
+                  <abstract>
+                     <p>Salvation is already present to us in faith. It is present in faith, but not in experience—at least not in uninterrupted, continual, plenary, uncontradictable experience. Faith is under continual attack by temptation from within and suffering from without, due to the warfare between the two aeons, due to the conflict between the present and the future. Beatitudinal living is living between the times: we both have and await the blessings that Christ has wrought. We live out of the power of salvation that dwells within our hearts while yet awaiting salvation to come in its fullness. We express the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.22</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part Five</title>
+                  </title-group>
+                  <fpage>649</fpage>
+                  <abstract>
+                     <p>Theology is an ongoing task with which Christians are never finished because something new is always placed on its agenda. Although it is the thinking discipline whereby faith seeks to understand itself, it is also a part of the church’s ministry. Its peculiar ministry is to provide intellectual leadership. The present work in systematic theology has sought to explicate the significance of the gospel so that what Christians say is intelligible within the context of modern and emerging postmodern consciousness. Thus, a methodological foundation was laid, scriptural symbols explicated, doctrinal content clarified, and hypothetical reconstruction begun. In turning now to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.23</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Ecumenic Pluralism</title>
+                  </title-group>
+                  <fpage>651</fpage>
+                  <abstract>
+                     <p>The holism so precious to the postmodern mind is by no means intended to eliminate particularity and individuality. Holistic postmodernity seeks a dynamic whole, a cooperative whole, a synthetic whole. The dynamism of the whole contributes to the vitality of the parts just as the parts constitute the substance of the whole. Instead of union, we think of communion. I have argued that the universality and comprehensiveness of the kingdom of God lend some theological support for employing such holistic and communal categories.</p>
+                     <p>Deconstructive postmodernists, in contrast, follow the path of pluralism, radical pluralism. It is the path that leads</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.24</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Astrotheology</title>
+                  </title-group>
+                  <fpage>699</fpage>
+                  <abstract>
+                     <p>How large is the<italic>oikoumene</italic>? How large is God’s creation? Is Planet Earth large enough? Our Planet Earth does not exist in isolation; its life-giving generativity is due to the network of relationships it shares with the sun, the moon, the Milky Way Galaxy of 200 to 400 billion stars, and the entire cosmos of 100 or more billion galaxies. Could God’s creation be any smaller than the totality of what is? Is it time for theologians to place our ecosphere within the context of the cosmosphere?</p>
+                     <p>In a previous chapter,<italic>God and the Continuing Creation</italic>, we saw how the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.25</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Proleptic Ethics</title>
+                  </title-group>
+                  <fpage>735</fpage>
+                  <abstract>
+                     <p>The spirituality that accompanies a proleptic understanding of the Christian faith is what I call the life of beatitude. The name comes from the structure of Jesus’ Beatitudes in Matthew 5:1-12, where the blessings of the future kingdom of God are mysteriously present now in anticipation. Those who are poor in spirit, or who mourn, or who are meek are blessed in some enigmatic way, says Jesus, because these dispositions somehow anticipate the salvation that God has promised will come. Those who hunger and thirst after justice, show mercy, and make peace already participate even if unknowingly in the wholeness</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.26</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                     <subtitle>God: The World’s Future (3rd edition)</subtitle>
+                  </title-group>
+                  <fpage>779</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.27</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>787</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.28</book-part-id>
+                  <title-group>
+                     <title>Additional Praise for God—The World’s Future</title>
+                  </title-group>
+                  <fpage>825</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wwwrr.29</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>827</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

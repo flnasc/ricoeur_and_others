@@ -1,0 +1,556 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ch78cb</book-id>
+      <subj-group>
+         <subject content-type="call-number">PS8015.D43 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Littérature canadienne-français</subject>
+         <subj-group>
+            <subject content-type="lcsh">Ontario</subject>
+            <subj-group>
+               <subject content-type="lcsh">Dictionnaires français</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Bibliography</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Dictionnaire des écrits de l'Ontario français</book-title>
+         <subtitle>1613-1993</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="other" id="contrib1">
+            <role>sous la direction de</role>
+            <name name-style="western">
+               <surname>Gervais</surname>
+               <given-names>Gaétan</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib2">
+            <name name-style="western">
+               <surname>Pichette</surname>
+               <given-names>Jean-Pierre</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>01</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="epub">9782760319363</isbn>
+      <isbn content-type="epub">2760319369</isbn>
+      <publisher>
+         <publisher-name>Les Presses de l'Université d'Ottawa</publisher-name>
+         <publisher-loc>Ottawa</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Les Presses de l’Université d’Ottawa</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1ch78cb"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Le Dictionnaire des écrits de l'Ontario français (1613-1993)</italic>est l'aboutissement d'une entreprise lancée en 1982 par un collectif de chercheurs de Sudbury. Publiée en l'année du 400e anniversaire de la présence francophone en Ontario, il recense tous les ouvrages autonomes parus en français, depuis le<italic>Quatriesme voyage du Sr. de Champlain [...] en la Nouvelle France</italic>, fait en l'année 1613, jusqu'aux écrits beaucoup plus nombreux de l'année 1993.</p>
+         <p>
+            <italic>Le Dictionnaire des écrits de l'Ontario français (1613-1993</italic>), c'est ainsi la somme de tous les écrits connus de la langue française dont l'auteur est né en Ontario ou y a vecu et publié ou ayant l'Ontario comme sujet.</p>
+         <p>
+            <italic>Le Dictionnaire des écrits de l'Ontario français (1613-1993)</italic>, c'est aussi la première lecture intégrale de quatre siècles d'écriture en français dans tous les domaines des sciences humaines soit 2 537 écrits imprimés de 1613 à 1993 par 1000 auteurs et présentés en un dictionnaire alphabétique et encyclopédique.<italic>Le Dictionnaire des écrits de l'Ontario français (1613-1993)</italic>, c'est encore le fruit de la rédaction collégiale de 166 collaborateurs, un outil de référence unique pour les Franco-Ontariens et un guide indispensable pour les chercheurs de la francophonie.</p>
+         <p>
+            <italic>Le Dictionnaire des écrits de l'Ontario français (1613-1993)</italic>, c'est enfin un répertoire des auteurs et leurs écrits, une première bibliographie des écrits franco-ontariens, un index des milliers de personnages et de lieux cités dans les écrits et un tremplin transdisciplinaire pour de nouvelles recherches.</p>
+      </abstract>
+      <counts>
+         <page-count count="1150"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>V</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.3</book-part-id>
+                  <title-group>
+                     <title>Avant-propos</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+                  <abstract>
+                     <p>L’année 2010 marque le 400<sup>e</sup>anniversaire de la présence française en Ontario et rappelle l’arrivée en 1610 d’Étienne Brûlé, inaugurant ainsi ce qu’on désigne maintenant comme l’histoire franco-ontarienne. En parfait synchronisme avec ces commémorations, cette date coïncide avec l’achèvement d’un ambitieux projet, modestement lancé en 1982 par une équipe de chercheurs de l’Université Laurentienne de Sudbury : le<italic>Dictionnaire des écrits de l’Ontario français</italic>.</p>
+                     <p>Ce<italic>Dictionnaire des écrits de l’Ontario français</italic>recense, par des articles descriptifs, tous les ouvrages autonomes parus en français, depuis le<italic>Quatriesme voyage du Sr de Champlain capitaine pour le Roy en la marine, et Lieutenant</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>IX</fpage>
+                  <abstract>
+                     <p>La grande aventure du<italic>Dictionnaire des écrits de l’Ontario français</italic>(<italic>Déof</italic>) commença à Sudbury en 1982. Elle s’achève maintenant, plus d’un quart de siècle après son lancement, par la publication d’un grand collectif, une première dans les annales ontariennes, qui a mis à contribution environ deux cents collaborateurs. Cet ouvrage de consultation rassemble au-delà de 2 500 notices descriptives des imprimés, parus entre 1613 et 1993, qui composent le répertoire des « écrits de l’Ontario français ». Par « écrit de l’Ontario français », il faut entendre une œuvre autonome, publiée en français et réputée franco-ontarienne soit par son sujet,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.5</book-part-id>
+                  <title-group>
+                     <title>Remerciements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib1" xlink:type="simple">
+                        <role>Les codirecteurs</role>
+                        <name name-style="western">
+                           <surname>Gervais</surname>
+                           <given-names>Gaétan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pichette</surname>
+                           <given-names>Jean-Pierre</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>XXV</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.6</book-part-id>
+                  <title-group>
+                     <title>Notice d’emploi</title>
+                  </title-group>
+                  <fpage>XXXI</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.7</book-part-id>
+                  <title-group>
+                     <title>Table des sigles</title>
+                  </title-group>
+                  <fpage>XXXIII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.8</book-part-id>
+                  <title-group>
+                     <title>A</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.9</book-part-id>
+                  <title-group>
+                     <title>B</title>
+                  </title-group>
+                  <fpage>89</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.10</book-part-id>
+                  <title-group>
+                     <title>C</title>
+                  </title-group>
+                  <fpage>115</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.11</book-part-id>
+                  <title-group>
+                     <title>D</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.12</book-part-id>
+                  <title-group>
+                     <title>E</title>
+                  </title-group>
+                  <fpage>271</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.13</book-part-id>
+                  <title-group>
+                     <title>F</title>
+                  </title-group>
+                  <fpage>327</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.14</book-part-id>
+                  <title-group>
+                     <title>G</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.15</book-part-id>
+                  <title-group>
+                     <title>H</title>
+                  </title-group>
+                  <fpage>379</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.16</book-part-id>
+                  <title-group>
+                     <title>I</title>
+                  </title-group>
+                  <fpage>423</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.17</book-part-id>
+                  <title-group>
+                     <title>J</title>
+                  </title-group>
+                  <fpage>445</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.18</book-part-id>
+                  <title-group>
+                     <title>K</title>
+                  </title-group>
+                  <fpage>469</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.19</book-part-id>
+                  <title-group>
+                     <title>L</title>
+                  </title-group>
+                  <fpage>471</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.20</book-part-id>
+                  <title-group>
+                     <title>M</title>
+                  </title-group>
+                  <fpage>503</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.21</book-part-id>
+                  <title-group>
+                     <title>N</title>
+                  </title-group>
+                  <fpage>571</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.22</book-part-id>
+                  <title-group>
+                     <title>O</title>
+                  </title-group>
+                  <fpage>599</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.23</book-part-id>
+                  <title-group>
+                     <title>P</title>
+                  </title-group>
+                  <fpage>623</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.24</book-part-id>
+                  <title-group>
+                     <title>Q</title>
+                  </title-group>
+                  <fpage>709</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.25</book-part-id>
+                  <title-group>
+                     <title>R</title>
+                  </title-group>
+                  <fpage>719</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.26</book-part-id>
+                  <title-group>
+                     <title>S</title>
+                  </title-group>
+                  <fpage>775</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.27</book-part-id>
+                  <title-group>
+                     <title>T</title>
+                  </title-group>
+                  <fpage>831</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.28</book-part-id>
+                  <title-group>
+                     <title>U</title>
+                  </title-group>
+                  <fpage>869</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.29</book-part-id>
+                  <title-group>
+                     <title>V</title>
+                  </title-group>
+                  <fpage>901</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.30</book-part-id>
+                  <title-group>
+                     <title>W, X, Z</title>
+                  </title-group>
+                  <fpage>949</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.31</book-part-id>
+                  <title-group>
+                     <title>Appendice A</title>
+                     <subtitle>Répertoire des auteurs et de leurs écrits</subtitle>
+                  </title-group>
+                  <fpage>953</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.32</book-part-id>
+                  <title-group>
+                     <title>Appendice B</title>
+                     <subtitle>Collaborateurs et Collaboratrices</subtitle>
+                  </title-group>
+                  <fpage>1013</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.33</book-part-id>
+                  <title-group>
+                     <title>Appendice C</title>
+                     <subtitle>Table bibliographique</subtitle>
+                  </title-group>
+                  <fpage>1027</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ch78cb.34</book-part-id>
+                  <title-group>
+                     <title>Appendice D</title>
+                     <subtitle>Index onomastique</subtitle>
+                  </title-group>
+                  <fpage>1037</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

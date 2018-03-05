@@ -1,0 +1,781 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt80b6h</book-id>
+      <subj-group>
+         <subject content-type="call-number">PR9084.T76 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Short stories, Canadian (English)</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Short stories, Commonwealth (English)</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Canadian fiction (English)</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Commonwealth fiction (English)</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Tropes and Territories</book-title>
+         <subtitle>Short Fiction, Postcolonial Readings, Canadian Writings in Context</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>DVOŘÁK</surname>
+               <given-names>MARTA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>NEW</surname>
+               <given-names>W.H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>10</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773532892</isbn>
+      <isbn content-type="epub">9780773575714</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt80b6h"/>
+      <abstract abstract-type="short">
+         <p>Tropes and Territories demonstrates how current debates in postcolonial criticism bear on the reading, writing, and status of short fiction. These debates, which hinge on competing definitions of "trope" (motif vs rhetorical turn) and "territory" (political or aesthetic), lead to studies of space, place, influence, and writing and reading practices across cultural divides. The essays also explore the character of diasporic writing, the cultural significance of oral tale-telling, and interconnections between socio/political issues and strategies of style.</p>
+      </abstract>
+      <counts>
+         <page-count count="384"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.3</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>MD</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>WN</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.5</book-part-id>
+                  <title-group>
+                     <title>Introduction,Troping the Territory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DVOŘÁK</surname>
+                           <given-names>MARTA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEW</surname>
+                           <given-names>W. H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>This collection of essays looks at the narrative and discursive paradigms of short stories, tales, and short fictions that have been written in postcolonial societies, where the genre of short fiction has enjoyed an atypically forceful canonical role. The book brings together the work of over twenty scholars from Europe, North America, and the South Pacific so as to investigate the practices of production and reception in post-imperial spaces, and to theorize on the relations between genre and space when both are perceived as peripheral. The hybrid forms of Canadian, Australian, and New Zealand writing, for example, demonstrate among other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.6</book-part-id>
+                  <title-group>
+                     <title>Between Fractals and Rainbows:</title>
+                     <subtitle>Critiquing Canadian Criticism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOSS</surname>
+                           <given-names>LAURA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>I began my presentation at the “Tropes and Territories” short story conference with the admission that I had written two papers. The first was the one I said I would write – comparing portraits of the everyday in stories by Rohinton Mistry and Eden Robinson. The second – the one I actually presented – came out of my own discomfort with the first. When I read my initial paper, I felt as if I had read it before. I recognized the<italic>pro forma</italic>nature of my original argument. The more I worked through my ideas about critical expectation, the more I found that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.7</book-part-id>
+                  <title-group>
+                     <title>Storying Home:</title>
+                     <subtitle>Power and Truth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRYDON</surname>
+                           <given-names>DIANA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>The tension between these two epigraphs frames my paper. “Home is an image for the power of stories” (Chamberlin). “Can telling a story ever be the same as telling the truth?”(Cowley). What links home, story, and truth? Can we assume that truth is singular, or that it can be reduced to mere information only, as Jason Cowley’s comments seem to imply? Surely postcolonial literature tells us otherwise. How do power, conflict, and the search for truth meet in story, especially in postcolonial and globalizing contexts?¹ Conventional short story theory and criticism provide little help in answering such questions. In privileging</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.8</book-part-id>
+                  <title-group>
+                     <title>Configuring a Typology for South Asian Short Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KANAGANAYAKAM</surname>
+                           <given-names>CHELVA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>The publication of Shyam Selvadurai’s<italic>Story-Wallah</italic>(2004) reinforces a fundamental assumption that frames this paper, namely, that it is not altogether whimsical to attempt a typology of South Asian fiction in English.¹ In some senses, this anthology edited by Selvadurai is the first of its kind, although the collection itself is not so much a “celebration of South Asian fiction in English” as it claims on its cover as a collection of recent South Asian diasporic fiction. There is no overt statement about why “the very best of South Asian fiction” (dust jacket) scrupulously avoids “local” or “stay-at-home” writers, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.9</book-part-id>
+                  <title-group>
+                     <title>What Should the Reader Know?:</title>
+                     <subtitle>Culture, History, and Politics in Contemporary Short Fiction from Aotearoa New Zealand</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEVERS</surname>
+                           <given-names>LYDIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>How does the very contemporary New Zealand short story enunciate national and cultural space? Or perhaps, to be less grandly ambitious about it, what does the short story have to say to us, in the early years of the twenty-first century, about Maori and Pakeha and the place in which they live. I have chosen not to look at collections of short fiction, the bulk of which are produced by mid-career writers, in order to traverse the bumpier, harder-to-read ground of recent serial publication with its editorial politics and role in the, if not canon, then ‘literature’ formation. Because the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.10</book-part-id>
+                  <title-group>
+                     <title>“Crossroads of Circumstance”:</title>
+                     <subtitle>Place in Contemporary Australian Short Fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENNETT</surname>
+                           <given-names>BRUCE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>When considering place in literature, and short fiction in particular, it is difficult to look past Eudora Welty’s comments in 1956:</p>
+                     <p>It is by the nature of itself that fiction is all bound up in the local. The internal reason for that is surely that<italic>feelings</italic>are bound up in place. The human mind is a mass of associations – associations more poetic even than actual. I say, “The Yorkshire Moors” and you will say, “<italic>Wuthering Heights‚</italic>” and I have only to murmur, “If Father were only alive” – for you to come back with “We could go to Moscow,” which is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.11</book-part-id>
+                  <title-group>
+                     <title>La Dame Seule Meets the Angel of History:</title>
+                     <subtitle>Katherine Mansfield and Mavis Gallant</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEEFER</surname>
+                           <given-names>JANICE KULYK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>In one of Mavis Gallant’s early stories, “Virus X,” the central characters, ladylike grad student Lottie, and bohemian drop-out Vera, Canadians temporarily resident in Paris, are fishing about for something to do.</p>
+                     <p>‘Katherine Mansfield’s grave, how about that? Remember Miss Pink? She fed us old Mansfield till it ran out of our ears. She’s buried around Fontainebleau. Mansfield is, not Miss Pink …’</p>
+                     <p>‘She was my favourite author until I specialized’, said Lottie primly. ‘Then, I’m sorry to say, I had to restrict my reading’.</p>
+                     <p>Vera dug into her rice as if looking for buried treasure. ‘Right,’ she said. ‘We’ll</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.12</book-part-id>
+                  <title-group>
+                     <title>Alice Munro’s Ontario</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THACKER</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Alice Munro begins “The Love of a Good Woman” (1996) with a list of items to be found in the Walley, Ontario, museum – photos, churns, horse harnesses, and porcelain insulators. The next paragraph adds:</p>
+                     <p>Also there is a red box, which has the letters D.M. WILLENS, OPTOMETRIST printed on it, and a note beside it, saying, ‘This box of optometrist’s instruments though not very old has considerable local significance, since it belonged to Mr. D.M. Willens, who drowned in the Peregrine River, 1951. It escaped the catastrophe and was found, presumably by the anonymous donor, who dispatched it to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.13</book-part-id>
+                  <title-group>
+                     <title>Alistair MacLeod and the Gaelic Diaspora</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DAVIES</surname>
+                           <given-names>GWENDOLYN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>In Alistair MacLeod’s “The Closing Down of Summer,” Gaelic-speaking Cape Breton miners carry sprigs of spruce from Cape Breton with them “to Africa as mementos or talismans or symbols of identity.” “Much,” argues the narrator, “as our Highland ancestors, for centuries, fashioned crude badges of heather or whortleberries to accompany them on the battlefields of the world. Perhaps so that in the closeness of their work with death they might find nearness to their homes and an intensified realization of themselves” (<italic>As Birds</italic>II).</p>
+                     <p>The miners’ action – an act of resistance to threats of geographical and cultural erasure – assumes added</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.14</book-part-id>
+                  <title-group>
+                     <title>Of Cows and Configurations in Emily Carr’s The Book of Small</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DVOŘÁK</surname>
+                           <given-names>MARTA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>A cow yard with a cud-chewing red-and-white song-loving cow. Clothes that live in a camphor-wood chest which has sailed from England round the Horn. Horse-drawn carriages, chamber pots, flour barrels in the pantry and wooden tubs in the kitchen. Bear coats and brick houses. Oil lamps, ox teams, pie socials, and sleighs. Stiff Sunday clothes, fox farms, screened porches, and gramophones. Hot chocolate poured out of pink-and-white china pots in velvet-draped hotel tearooms. Chronotopic spaces in which time thickens (Bakhtin, 84) and takes on texture, made tangible by homely, quotidian objects drenched in history. Time spaces refigured by modernist and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.15</book-part-id>
+                  <title-group>
+                     <title>Reading Linnet Muir, Netta Asher, and Carol Frazier:</title>
+                     <subtitle>Three Gallant Characters in Postcolonial Time</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BESNER</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Of what possible significance can it be to remember, in the first person, and then record, with the kind of assured and confident certainty that characters in Gallant’s stories most often misuse or misapprehend, that the first time I read a Mavis Gallant story was at the beginning of the summer of 1980, sitting on a short bench under a small window? It was a bright and sunny day, in the early afternoon, on the fourth floor of Buchanan Tower on the UBC campus in Vancouver, just outside of Bill New’s office. While I was waiting to talk to him,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.16</book-part-id>
+                  <title-group>
+                     <title>From Location to Dislocation in Salman Rushdie’s East, West and Rohinton Mistry’s Tales from Firozsha Baag</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CABARET</surname>
+                           <given-names>FLORENCE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>
+                        <italic>East, West</italic>by Salman Rushdie is a collection of short stories that were first published separately and later gathered under a thematic title, one that points to the question of geographical belonging and its legitimacy (the title implicitly invokes the familiar saying, “East, West – Home’s best”). The ambivalence of the seemingly dichotomous title is reiterated in the organization of the book, which falls into three sections. The first of these sections, “East,” deals with stories taking place in India; the second, “West,” has to do with stories taking place in Europe (Denmark, Great Britain, Spain); while the third, “East, West,”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.17</book-part-id>
+                  <title-group>
+                     <title>Epistolary Traditions in Caribbean Diasporic Writing:</title>
+                     <subtitle>Subversions of the Oral/Scribal Paradox in Alecia McKenzie’s “Full Stop”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SUÁREZ</surname>
+                           <given-names>ISABEL CARRERA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>Caribbean literatures have a long history of using Creole in writing, and more markedly in orature, although the scope and reception of this use has varied, with acceptability and more confident practice growing in the final decades of the twentieth century. One of the pioneering and persistent subgenres associated with orality and the use of Creole is the epistolary exchange or series of epistolary monologues, where a persona, often female and using humour, writes home relating impressions of the new land to family or friends, or abroad to inform émigrés of the state of affairs “back home.” The literary form</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.18</book-part-id>
+                  <title-group>
+                     <title>“We Use Dah Membering”:</title>
+                     <subtitle>Oral Memory in Métis Short Stories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CARIOU</surname>
+                           <given-names>WARREN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Métis stories are something like the Rigoureau, the shape-changing wolf-man character which often appears in those stories. The Rigoureau is an amalgam of European werewolf legendry and Oji-Cree shape-changer narratives, and perhaps because of this it is a creature of liminality, a dangerous passe-partout, a trickster, a traitor, a folk hero, an outsider. In other words, it is the perfect metaphor for the slipperiness of Métis identity itself. I grew up hearing Rigoureau stories, and I was even told once that my Uncle Vic<italic>was</italic>a Rigoureau, but I was never certain that I would know a Rigoureau if I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.19</book-part-id>
+                  <title-group>
+                     <title>Myth in Patricia Grace’s “Sun’s Marbles”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DURIX</surname>
+                           <given-names>JEAN-PIERRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>Among the tropes most frequently used in postcolonial fiction, the allegory looms large. According to Fredric Jameson in “Third-World Literature in the Era of Multinational Capitalism,” all Third-World cultural constructions are national allegories and serve to contest colonialist representations. Mythic elements have been used for allegorical purposes by major writers from Kenyan novelist Ngugi wa Thiong’o to Maori novelist Witi Ihimaera. In his novel<italic>Weep Not Child</italic>(1964), Ngugi notably includes the story of Mumbi and Gikuyu, the primordial Gikuyu parents, anchoring his characters in a primordial setting where divine sanction guaranteed the people’s secure possession of their land (later</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.20</book-part-id>
+                  <title-group>
+                     <title>Mariposa Medicine:</title>
+                     <subtitle>Thomas King’s Medicine River and the Canadian Short Story Cycle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LYNCH</surname>
+                           <given-names>GERALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>Thomas King’s first book of fiction,<italic>Medicine River</italic>(1989), is marketed as a novel. It is not a novel. King himself has said that he prefers “to think of<italic>Medicine River</italic>as a cycle of stories,” and he agreed with an interviewer’s suggestion that his first novel has a place in the continuum of Canadian short story cycles (Rooke 63–64), the fictional form that occupies the generic space between the miscellany of short stories and the novel (see Ingram, Lynch 2001). King also claimed that such features as the episodic structure and repetitions of<italic>Medicine River</italic>derive from Native</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.21</book-part-id>
+                  <title-group>
+                     <title>Under the Banyan Tree:</title>
+                     <subtitle>R.K. Narayan, Space, and the Story-Teller</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TADIÉ</surname>
+                           <given-names>ALEXIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>The beginning of R. K. Narayan’s essay, “After the Raj,” spells out his view of the English Empire, of the colonial period, of the language that one might use in reference to it. Although to my knowledge Narayan, the creator of Malgudi, did not use the expression, this essay comes close to defining his “postcolonial” position. He addresses here the craze for the Raj that was exemplified through a number of films, including<italic>Passage to India</italic>.¹ All pictures of India, Narayan explains, are by essence fragmented, piecemeal; and whoever attempts to encapsulate India, or generalize about India, is doomed to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.22</book-part-id>
+                  <title-group>
+                     <title>The Tropes and Territory of Childhood in by Janet Frame</title>
+                     <subtitle>The Lagoon and Other Stories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LORRE</surname>
+                           <given-names>CHRISTINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>In an essay entitled “Beginnings,” Janet Frame explains how she opted for “this imaginary world whose characters were drawn from objects and people I met in my daily life, with occasional intrusion of characters from fiction” (44–45). It gradually appeared to her that “that world” – the world of the imagination, dreams, and words, the world of art – was the only possible alternative to her inability to cope with “this world” – the material world of real life, which to Frame also meant the isolating and imprisoning world of the mental hospital. She has described her writing as a way of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.23</book-part-id>
+                  <title-group>
+                     <title>Roots and Routes in a Selection of Stories by Alistair MacLeod</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OMHOVÈRE</surname>
+                           <given-names>CLAIRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>Central to Alistair MacLeod’s<italic>Island</italic>is the return to the original island or Highlands, phonetic closeness somehow reducing the geographical distance between the two referents. The motif is particularly prominent in four of the collection’s sixteen short stories: “The Return” (1971), “The Closing Down of Summer” (1976), “As Birds Bring Forth the Sun” (1985), and “Clearances” (1999).¹ Read in conjunction, these stories make up a corpus that roughly spans Alistair MacLeod’s writing life. Starting from W.H. New’s remark that “the English-language vocabulary for characterizing landscape (and people’s relationship with land) interconnects with the vocabulary for characterizing language</p>
+                     <p>and the use</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.24</book-part-id>
+                  <title-group>
+                     <title>Reading the Understory:</title>
+                     <subtitle>David Malou’s Untold Tales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEW</surname>
+                           <given-names>W.H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>David Malouf’s second book of short stories, enigmatically titled<italic>Untold Tales</italic>(1999), collects four stories only: “Buxtehude’s Daughter,” “The Runners,” “Epimetheus or, The Spirit of Reflection,” and “Ulysses or, The Scent of the Fox.” The entire book is no more than fifty-eight pages long. Roughly speaking, the stories tell of a real musician’s real daughter and the conditions that governed her marriage; of angels and rumours that fly through the air; of Prometheus’s brother, who plays handball and is stung by “a million dark and furry bodies” (41) after he marries Pandora and she opens the box; and of Ulysses’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.25</book-part-id>
+                  <title-group>
+                     <title>Aesthetic Traces of the Ephemeral:</title>
+                     <subtitle>Alice Munro’s Logograms in “Vandals”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VENTURA</surname>
+                           <given-names>HÉLIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>The “other country” which is conjured up in Alice Munro’s writing evidences a mythic and mystic landscape of origins strewn with aesthetic traces, which belong in the temporal category of the ephemeral, the half-glimpsed, the transient, such as footprints dissolving on sand, or mist burning away in the sunshine. Munro creates a territory which relies on flux density, on energy and forces. Her ephemeral traces are not melancholy, they are cosmic, they move along lines of deterritorialization and reterritorialization that belong in the machinery of desire, on the surface of fluid planes. They repudiate heaviness to suggest the inchoate, transient</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.26</book-part-id>
+                  <title-group>
+                     <title>Fables of a Bricoleur:</title>
+                     <subtitle>Mark Anthony Jarman’s Many Improvisations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DOBOZY</surname>
+                           <given-names>TAMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>The short stories of Mark Anthony Jarman’s collection,<italic>New Orleans is Sinking</italic>(published in 1998), are a species of anti-naturalism, where the deterministic forces that would control the narrators and characters (and the author himself) instead furnish opportunities for resistance. For Jarman, the scene of this resistance is language itself, particularly corporate language, which, rather than limiting opportunities for meaning, is used most oddly – in the service of ends other than those for which it was intended.</p>
+                     <p>In examining the improvisatory aspect of Jarman’s writing, my argument owes much to Michel de Certeau’s<italic>The Practice of Everyday Life</italic>‚ particularly the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.27</book-part-id>
+                  <title-group>
+                     <title>On the Beach:</title>
+                     <subtitle>Witi Ihimaera, Katherine Mansfield, and the Treaty of Waitangi</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>In F.E. Maning’s<italic>Old New Zealand</italic>(1863) the narrator, who styles himself a “Pakeha-Maori,” enters Maoriland in the 1830s by way of a hearty battle on the Hokianga shore with a tattooed warrior (28–31). Recently, Maori and Pakeha have squared off on the beach with less gusto and good humour than in Maning’s account. In 2003 a judicial opinion held that Maori tribes could seek exclusive title to New Zealand’s foreshore and seabed through the court system.¹ The opinion prompted a swift and negative response from Helen Clark’s Labour Government, worried by the electoral implications of further pro -</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.28</book-part-id>
+                  <title-group>
+                     <title>The Botany of the Liar</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RICOU</surname>
+                           <given-names>LAURIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>346</fpage>
+                  <abstract>
+                     <p>The un-long story sparks a short. Highly compressed narrative generates such a charge – such an overload – that a circuit breaks. A surge of energy, a sudden break, a loss of power – that’s the short in short story.</p>
+                     <p>
+                        <italic>Short,</italic>that is, does not satisfactorily define the length of a story: it’s more tempting as an embedded metaphor of surprise. Readers, feeling happily accompanied, suddenly find themselves in the dark – and all around them crackles ambient electricity. The “short” story enacts this process: a break, a gap, and an interruption preceded and followed by a buzz and a hum. Evidence of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80b6h.29</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>359</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

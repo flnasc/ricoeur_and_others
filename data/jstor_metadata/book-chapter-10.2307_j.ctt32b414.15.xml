@@ -1,0 +1,382 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32b414</book-id>
+      <subj-group>
+         <subject content-type="call-number">BT701.3M56 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Theological anthropology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Catholic Church</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Catholic Church</subject>
+         <subj-group>
+            <subject content-type="lcsh">Doctrines</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Lonergan, Bernard J. F.</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Quest for God and the Good Life</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Miller</surname>
+               <given-names>Mark T.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>06</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813221397</isbn>
+      <isbn content-type="epub">9780813221403</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt32b414"/>
+      <abstract abstract-type="short">
+         <p>Throughout this introductory text, progress, decline, and redemption constitute a systematic framework for examining the central terms of Catholic theology, as well as key notions in Lonergan's theology. The book provides a firm foundation for students of Lonergan as well as anyone interested in understanding Catholic theology and applying it to ministry, education, and other fields.</p>
+      </abstract>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+                  <abstract abstract-type="extract">
+                     <p>My favorite chapter of Bernard Lonergan’s <italic>Method in Theology</italic> begins with this wonderful line: “The facts of good and evil, of progress and decline, raise questions about the character of our universe.”¹</p>
+                     <p>This book, like Lonergan’s own works, is written for those who care about such questions. It is written for those who have observed our world and celebrate what is good in it while lamenting what is not so good. It is written for those who love the world enough to be willing to work for its welfare, those willing to build themselves up in order to promote progress</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Natural World</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Deeply troubled by the Great Depression, two world wars, and modernity’s challenges to religion, Bernard Lonergan attempted to do for our age what Thomas Aquinas did for his—that is, to integrate the best of secular and sacred teaching in order to further the ongoing Catholic tradition of using both faith and reason to promote the common good and to participate in God’s work of redemption. Echoing centuries of the Catholic tradition’s esteem for secular and sacred, or natural and supernatural, forms of learning, Lonergan affirms that “God becomes known to us in two ways: as the ground and end</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Insight and the Self-Correcting Process of Learning</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The previous chapter considered Lonergan’s understanding of the cosmos as a self-transcending, hierarchical order governed by emergent probability. Human beings are part of this cosmos. We have emerged from the creative world process of emergent probability. As a relatively late, higher-level emergence, humanity is a complex entity subject to both classical and statistical laws on multiple levels of being: physical, chemical, biological, and more uniquely human levels. With the advent of humanity two significant new things arrive in creation: (1) a creature’s ability to discover and work with classical and statistical laws, and thus to guide and accelerate emergent probability,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Transcendental Method:</title>
+                     <subtitle>THE LARGER PICTURE OF SELF-TRANSCENDENCE</subtitle>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As we learned from the cosmological context of Lonergan’s anthropology, the world is ordered into a dynamic, interdependent hierarchy. Lower levels of recurrent schemes set the conditions for the more or less probable emergence and survival of higher recurrent schemes. Higher levels depend on the lower levels, but they also transcend or go beyond them. And they do so in a way that sublates the lower ones, or lifts them up into a greater, richer context that preserves and fulfills them. Lower levels are more essential to the whole, and higher levels are more excellent.</p>
+                     <p>Humanity is a later and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Cooperating Human Community</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the preceding chapter we considered the larger picture of Lonergan’s account of anthropology—his transcendental method. We discussed how an unrestricted desire for ultimate truth and goodness drives the human person through multiple operations on four levels of conscious intentionality. This larger picture remains incomplete, however, for progress is driven not by the operations of isolated individuals, but by the cooperation of persons in community. Ideally these cooperating persons are bound together by mutual love and shared meaning into a dynamic communal matrix that Lonergan calls “the human good.”</p>
+                     <p>Authenticity in experience, understanding, judgment, and decision leads to intellectual</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.9</book-part-id>
+                  <title-group>
+                     <title>[Part 2 Introduction]</title>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The utopian idea that progress in human affairs is automatic and unbroken was perhaps the biggest mistake made by early modern proponents of progress, according to Bernard Lonergan.¹ In his view these theorists failed to account for slowdowns and breakdowns, particularly those caused by sin and evil. Accompanying the many positive contributions of modernity to the natural and human sciences came an arrogance that believed that human intelligence at the service of personal egoism was the sufficient engine for progress, and human sin was what transforms an ordinary, unimportant person into a unique, free-thinking individual.² Modern liberals thus were aware</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Sin and Evil</title>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the very first chapter of the very first book in the Bible, nature is proclaimed to be worthy of celebrating. All of its parts, the light and the dark, the sky and the sea, the plants and the animals are all created “good.” As a whole, it is “very good.” Human beings are further privileged to be made “in the image and likeness of God.”¹</p>
+                     <p>In the Bible sin is not something created by God. It is not natural. It does not enter into the picture until the third chapter, where we see human beings choose to listen to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Bias</title>
+                  </title-group>
+                  <fpage>116</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Sin and evil are categories traditional to Catholic theology, even if Lonergan’s analysis of them is his own. Bias, an inauthentic orientation caused by and causal of inauthentic actions, decisions, judgments, ideas, and experiences, is a concept more original to Lonergan. It is both the result of sin and a cause of further sin.¹ As such, bias functions in a way I find similar to Aristotle’s bad habits, or vices.² However, while Aristotle discusses vice as an extreme on either side of a golden mean, Lonergan analyzes bias in terms of conscious intentionality, social dynamics, and history. Sinful personal judgments</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Decline</title>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Lonergan asserts that it is easy to fall into the aberrations of bias, but difficult to correct them:</p>
+                     <p>Egoists do not turn into altruists overnight. Hostile groups do not easily forget their grievances, drop their resentments, overcome their fears and suspicions. Common sense commonly feels itself omnicompetent in practical affairs, is commonly blinded to long-term consequences of policies and courses of action, is commonly unaware of the admixture of common nonsense in its more cherished convictions and slogans.¹</p>
+                     <p>The extent of aberration is variable. “The greater it is, the more rapidly it will distort the process of cumulative change and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.13</book-part-id>
+                  <title-group>
+                     <title>[Part 3 Introduction]</title>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Everyday life can be problematic. Whether simple or difficult, the challenges we face raise questions. At some point our questioning of life leads to what Lonergan calls “ultimate questions.” Such questions seek insight into the meaning of life, the reason things are the way they are, whether things can improve, and how improvements might be made. Those who pursue such questions with rigor eventually seek insight into the ultimate origin and end of existence. Put in traditional Christian terms, life leads us to questions about the universe, about God, and about God’s relation to the universe as its creator and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Grace</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The theology of grace is both simple and complex. Not just any gift from God is a gift of grace. All that humanity has and is has been given by God. Grace, however, is an extraordinary gift. It is God’s gift to creation, which goes beyond the natural goodness of creation. Defined simply, grace is God’s gift of Godself to the world.</p>
+                     <p>But what does it mean for God to give God’s self to the world? This is complex and ultimately mysterious, for God is absolutely supernatural, as is God’s gift of Godself in grace. What does “absolutely supernatural” mean?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Religious, Moral, and Intellectual Conversion</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As mentioned in chapter 4 within the section, “The Human Good,” Lonergan defines conversion in terms of horizontal and vertical liberty. Horizontal liberty allows a person to make relatively minor choices from a range of options within a fixed boundary or “horizon.” Vertical liberty is the product of a much more radical choice, a leap of self-transcendence that expands or otherwise transforms one’s horizon itself. Sometimes the new horizon, “though notably deeper and broader and richer” than the previous horizon, may still be “consonant with the old and a development out of its potentialities.” However, sometimes a new horizon is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>A Redemptive Community</title>
+                  </title-group>
+                  <fpage>176</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Typically, in <italic>Insight</italic> Lonergan credits progress to human intelligence as driven by the “detached and disinterested desire to know.” Surprisingly, however, he sometimes in this same work credits liberty. Rather than view this as an irreconcilable inconsistency, I would argue that liberty and intelligence are complementary. They work hand in hand. And both are necessary for progress.¹ Good ideas can improve the situation, but there must be liberty in the community if the ideas are to be reflected on, communicated, tested, implemented, allowed to change the social situation, and eventually to be reevaluated and corrected by new ideas.</p>
+                     <p>None of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.17</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b414.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>224</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

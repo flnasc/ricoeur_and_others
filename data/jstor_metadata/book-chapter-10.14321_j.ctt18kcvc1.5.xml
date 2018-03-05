@@ -1,0 +1,241 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9df0</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18kcvc1</book-id>
+      <subj-group>
+         <subject content-type="call-number">DA962.M243 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ireland</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">Easter Rising, 1916</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Plunkett, Joseph Mary, 1887–1916</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Philosophy</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Enigmas of Sacrifice</book-title>
+         <subtitle>A Critique of Joseph M. Plunkett and the Dublin Insurrection of 1916</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Cormack</surname>
+               <given-names>W. J. Mc</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>03</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781611861914</isbn>
+      <isbn content-type="epub">9781609174781</isbn>
+      <publisher>
+         <publisher-name>Michigan State University Press</publisher-name>
+         <publisher-loc>East Lansing</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>W. J. Mc Cormack</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.14321/j.ctt18kcvc1"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Enigmas of Sacrifice: A Critique of Joseph M. Plunkett and the Dublin Insurrection of 1916</italic>is the first critical study of the religious poet and militarist Joseph M. Plunkett, who was executed with the other leaders of the Dublin insurrection of 1916. Through Plunkett the author gains access to areas of nationalist thought that were more often assumed or repressed than publicly formulated.In this eye-opening book, W. J. Mc Cormack explores and analyzes Plunkett's brief life, work, and influence, beginning with his wealthy but dysfunctional family, irregular Jesuit education, and self-canceling sexuality. Mc Cormack continues through Plunkett's active phase when amateur theatricals and a magazine editorship brought him into the emergent neonationalist discourse of early twentieth-century Ireland. Finally, the author arrives at Holy Week 1916, when Plunkett masterminded the forgery of official documentation in order to provoke and justify the insurrection he planned. Mc Cormack analyzes Plunkett's significant texts and provides context through critical perspectives on his milieu.<italic>Enigmas of Sacrifice</italic>is unique in its effort to understand a major figure of Irish nationalism in terms that reach beyond political identity.</p>
+      </abstract>
+      <counts>
+         <page-count count="402"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.5</book-part-id>
+                  <title-group>
+                     <title>A LONG PROLOGUE:</title>
+                     <subtitle>Crisis and Criticism</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>It is unlikely that the Victorian crisis of belief, loosely associated with the impact of scientific and philosophical discoveries (e.g., those of Charles Darwin, Charles Lyell, and John Tyndall), has been seriously proposed as a relevant context-background for reconsiderations of the insurrection that broke out in Dublin on Easter Monday 1916. Less unlikely, yet still remote, would be an examination of the impact of more specifically Christian-focused and critical works, most notably David Strauss’s<italic>Das Leben Jesu</italic>(1835–1836) or Ernest Renan’s<italic>Vie de Jésus</italic>(1863). None of these momentous developments occurred in Ireland, though the physicist Tyndall (1820–1893)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Naming the Parts of a Life</title>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>Joseph Mary Plunkett was born on 21 November 1887 at No. 26 Upper Fitzwilliam Street, Dublin, a Georgian house standing four stories high above basement and area. It was the home of his parents, bought for them when they married in June 1884 at the Church of the Sacred Heart, Donnybrook. “A Baby Sonnet” appeared in<italic>The Irish Monthly</italic>(a devout Catholic periodical) of January 1889 that ended on the conceit that the “year-old babe” was himself a sonnet. The poet-father, George Noble Plunkett (1851–1948), was a prosperous speculative builder—Noble had not appeared in the baptismal details, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Actions of This Kind or That</title>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>The fin de siècle witnessed a turbulent confluence of literary and philosophical energies, a clash of scientific and irrational preoccupations in which William Shakespeare featured on either side. Oscar Wilde’s “Portrait of Mr W. H.” (1889) set out to endanger the distinction between science and the irrational and, in acknowledgment, the most recent<italic>Complete Works</italic>persists in classifying it as fiction.¹ The scholars were at work with important publications coming from E. K. Chambers, Sidney Lee, C. F. Onions, Arthur Pollard, and others in the decade or so following. Some of this was taken to be dryas-dust, for example Pollard’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Affinity and Mimesis</title>
+                  </title-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>The third part of the critique is even less concerned with chronology than its predecessors, though these investigated certain sequences of events, personal or public. The brevity of Plunkett’s public career—an almost Christlike three years—argues against too much reliance on any stage-by-stage analysis of cause and effect. In contrast, this chapter presents a number of largely discrete investigations the order of which is neither random nor absolute. Each is intended to illuminate a facet of the sacrifice enigma as it intermittently discloses itself through Joseph Mary Plunkett, antipolitical insurgent and religious poet.</p>
+                     <p>The most persistent question generated by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.9</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE:</title>
+                     <subtitle>Two Items Preserved among the Papers of George Noble Plunkett</subtitle>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>The disruption of their household that the Plunkett family experienced in the years after 1916, and lasting well into the 1920s, inevitably led to some disordering of papers relating to Joseph’s politico-military activities and writings. The distribution of books and papers after his father’s death in 1948 added a further hazard to orderly preservation. It is therefore gratifying that G. N. Plunkett’s archive in the NLI should disclose a small amount of material generated by his eldest son. Mss. 12,009–10 contain two notebooks, the first labeled Philosophy and dating from 1908 to 1909, the second containing literary matter from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.10</book-part-id>
+                  <title-group>
+                     <title>APPENDIX 1.</title>
+                     <subtitle>Two Book Lists (1909 and circa 1915)</subtitle>
+                  </title-group>
+                  <fpage>307</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.11</book-part-id>
+                  <title-group>
+                     <title>APPENDIX 2.</title>
+                     <subtitle>Contents of The Irish Review (1911–1914)</subtitle>
+                  </title-group>
+                  <fpage>321</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.12</book-part-id>
+                  <title-group>
+                     <title>APPENDIX 3.</title>
+                     <subtitle>The Forged Dublin Castle Document 1916</subtitle>
+                  </title-group>
+                  <fpage>343</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.14</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography of Primary Sources</title>
+                  </title-group>
+                  <fpage>373</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18kcvc1.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>379</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,734 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1f5g2wz</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Derecho constitucional</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Constituciones</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Política pública</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Poder ejecutivo</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Seguridad nacional</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Democracia</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Derechos civiles</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Law</subject>
+         <subject>Business</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>De la constitución de 1991 a la realidad</book-title>
+         <subtitle>Debates políticos, jurídicos, territoriales e internacionales</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="other" id="contrib1">
+            <name name-style="western">
+               <surname>STEEVENS</surname>
+               <given-names>KAREN NATHALIA CERÓN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib2">
+            <name name-style="western">
+               <surname>RAMÍREZ</surname>
+               <given-names>WALTER ARÉVALO</given-names>
+            </name>
+         </contrib>
+         <role content-type="other">Editores académicos</role>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>Abello-Galvis</surname>
+               <given-names>Ricardo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>Arenas</surname>
+               <given-names>Carlos Adolfo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name name-style="western">
+               <surname>Alfonso P.</surname>
+               <given-names>William H.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name name-style="western">
+               <surname>Ramírez</surname>
+               <given-names>Walter Arévalo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib7">
+            <name name-style="western">
+               <surname>Basset</surname>
+               <given-names>Yann</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib8">
+            <name name-style="western">
+               <surname>Barrios</surname>
+               <given-names>Bibiana Bonilla</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib9">
+            <name name-style="western">
+               <surname>Ospina</surname>
+               <given-names>María Helena Botero</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib10">
+            <name name-style="western">
+               <surname>Castro</surname>
+               <given-names>Jaime</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib11">
+            <name name-style="western">
+               <surname>Steevens</surname>
+               <given-names>Karen Nathalia Cerón</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib12">
+            <name name-style="western">
+               <surname>Segura</surname>
+               <given-names>Juan Manuel Charria</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib13">
+            <name name-style="western">
+               <surname>Ruiz</surname>
+               <given-names>Óscar José Dueñas</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib14">
+            <name name-style="western">
+               <surname>Ferrer</surname>
+               <given-names>Ana Giacomette</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib15">
+            <name name-style="western">
+               <surname>Matamoros</surname>
+               <given-names>Laura Victoria García</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib16">
+            <name name-style="western">
+               <surname>Quintero</surname>
+               <given-names>Juana Marina Hofman</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib17">
+            <name name-style="western">
+               <surname>Molano-Rojas</surname>
+               <given-names>Andrés</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib18">
+            <name name-style="western">
+               <surname>Betancur</surname>
+               <given-names>Carlos Mario Molina</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib19">
+            <name name-style="western">
+               <surname>Paz</surname>
+               <given-names>Martha Cecilia</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib20">
+            <name name-style="western">
+               <surname>González</surname>
+               <given-names>Germán Puentes</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib21">
+            <name name-style="western">
+               <surname>Lozano</surname>
+               <given-names>Julio Roballo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib22">
+            <name name-style="western">
+               <surname>Vásquez</surname>
+               <given-names>Juan Carlos Ruiz</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>20</day>
+         <month>02</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9789587385533</isbn>
+      <isbn content-type="epub">9789587385540</isbn>
+      <publisher>
+         <publisher-name>Editorial Universidad del Rosario</publisher-name>
+         <publisher-loc>Bogotá D.C.</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Editorial Universidad del Rosario</copyright-holder>
+         <copyright-holder>Universidad del Rosario, Facultades de Ciencia Política y Gobierno, y de Relaciones Internacionales</copyright-holder>
+         <copyright-holder>Karen Nathalia Cerón Steevens</copyright-holder>
+         <copyright-holder>Walter Arévalo Ramírez</copyright-holder>
+         <copyright-holder>Ricardo Abello-Galvis</copyright-holder>
+         <copyright-holder>Carlos Adolfo Arenas</copyright-holder>
+         <copyright-holder>William H. Alfonso P.</copyright-holder>
+         <copyright-holder>Yann Basset</copyright-holder>
+         <copyright-holder>Bibiana Bonilla Barrios</copyright-holder>
+         <copyright-holder>María Helena Botero Ospina</copyright-holder>
+         <copyright-holder>Jaime Castro</copyright-holder>
+         <copyright-holder>Juan Manuel Charria Segura</copyright-holder>
+         <copyright-holder>Óscar José Dueñas Ruiz</copyright-holder>
+         <copyright-holder>Ana Giacomette Ferrer</copyright-holder>
+         <copyright-holder>Laura Victoria García Matamoros</copyright-holder>
+         <copyright-holder>Juana Marina Hofman Quintero</copyright-holder>
+         <copyright-holder>Andrés Molano-Rojas</copyright-holder>
+         <copyright-holder>Carlos Mario Molina Betancur</copyright-holder>
+         <copyright-holder>Martha Cecilia Paz</copyright-holder>
+         <copyright-holder>Germán Puentes González</copyright-holder>
+         <copyright-holder>Julio Roballo Lozano</copyright-holder>
+         <copyright-holder>Juan Carlos Ruiz Vásquez</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1f5g2wz"/>
+      <abstract abstract-type="short">
+         <p>Este libro presenta las reflexiones que sobre los efectos de la Constitución de 1991 y sus modificaciones han hecho profesores e investigadores de las facultades de Ciencia Política y Gobierno de la Universidad del Rosario, así como de la Facultad de Jurisprudencia de esta misma institución, expertos del Centro Colombiano de Derecho Procesal Constitucional y personalidades reconocidas de la vida nacional, en cuanto al equilibrio de poderes y el poder de reforma, las políticas públicas y la participación política, el Estado Social de Derecho, la perspectiva de nuestras relaciones internacionales y el ordenamiento territorial. Como todo texto jurídico-político, la Constitución Política de 1991 cobra vida y revela sus complejidades a través de su aplicación material día a día, práctica mucho más compleja que la original enunciación de sus contenidos escritos. Dos décadas del nuevo ordenamiento constitucional, de su ejecución dentro del propósito de impulsar el Estado Democrático Constitucional Social de Derecho, nos permiten reflexionar acerca de múltiples logros pero también de las enormes inquietudes y discusiones que hemos expuesto, las cuales serán revisadas y profundizadas a lo largo del presente estudio.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.3</book-part-id>
+                  <title-group>
+                     <title>Introducción</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Steevens</surname>
+                           <given-names>Karen Nathalia Cerón</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ramírez</surname>
+                           <given-names>Walter Arévalo</given-names>
+                        </name>
+                     </contrib>
+                     <role content-type="other">Editores académicos</role>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Contra la tradición de permanencia de los principios constitucionales, concebidos en casi todo el mundo como los parámetros más estables de regulación de la vida nacional, la Constitución colombiana de 1991 ha sido objeto de numerosas modificaciones en su corta vigencia de veinticuatro años.</p>
+                     <p>Algunos de estos cambios han obedecido a coyunturas políticas, incluso habrán respondido a intereses particulares, otros se han dado en medio de pugnas y han significado retos para la marcha armónica de la vida institucional del país. Nos encontramos en un momento propicio para reflexionar acerca de la índole, el origen y la utilidad nacional de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.4</book-part-id>
+                  <title-group>
+                     <title>Impacto del nuevo orden constitucional de 1991 en la vida institucional de Colombia.</title>
+                     <subtitle>Equilibrio de poderes públicos</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lozano</surname>
+                           <given-names>Julio Roballo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>El objeto de la Ciencia Política es el poder político, ya sea para buscarle su razón de ser (filosofía política) o sus fundamentos teóricos (pensamiento o ideas políticas); para proyectar las formas que haya de darse para el ejercicio del poder (sistemas políticos) o las normas que hayan de regir su ejercicio (derecho público). Modernamente, la disciplina ha ensanchado su campo de acción y de preocupación, como sucede —por demás— con casi todos los ámbitos del conocimiento, para abarcar aspectos hasta hace poco tiempo inusitados, como la teoría de las comunicaciones y su incidencia en el ejercicio del poder, y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.5</book-part-id>
+                  <title-group>
+                     <title>A propósito de reformar y sustituir la Constitución Nacional.</title>
+                     <subtitle>Reflexiones y aportes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Segura</surname>
+                           <given-names>Juan Manuel Charria</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>El tema de reformar y sustituir la Constitución es de gran interés para los demócratas y sobre él se han producido serios estudios, pronunciamientos y debates por parte de académicos, tratadistas, juristas, políticos, funcionarios, periodistas de opinión y otros grupos de la sociedad en los últimos cuatro años. La posibilidad de institucionalizar una segunda reelección inmediata fue considerada por sus graves consecuencias para la institucionalidad colombiana y no solo en el ámbito nacional sino también en la instancia internacional.</p>
+                     <p>Para el abordaje de la problemática seguiré el siguiente camino. Después de la introducción, me ocupo de las diferencias entre reformar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.6</book-part-id>
+                  <title-group>
+                     <title>Constitución de 1991 y revolución jurisprudencial</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Betancur</surname>
+                           <given-names>Carlos Mario Molina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Uno de los grandes aportes de la Constitución de 1991 es la instauración en Colombia de una Corte Constitucional.¹</p>
+                     <p>Desde sus inicios, la Corte Constitucional ha realizado una verdadera revolución institucional,² puesto que le ha dado una nueva lectura al texto constitucional: ha hecho repensar el trabajo legislativo, ha organizado la función judicial, ha canalizado el obrar administrativo y ha recompuesto la estructura política y administrativa del Estado.³</p>
+                     <p>Como lo ha dejado consignado la doctrina colombiana,⁴ su funcionamiento marcó desde el principio un rompimiento de paradigma con la tradicional manera de ver y aplicar el derecho en Colombia. Esta original</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.7</book-part-id>
+                  <title-group>
+                     <title>La Constitución de 1991 y el sistema de partidos:</title>
+                     <subtitle>de la apertura indiscriminada a la construcción</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Basset</surname>
+                           <given-names>Yann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Como el Frente Nacional al cual buscaba poner fin, la Constitución de 1991 tiene una doble naturaleza de Constitución política y de acuerdo de paz.¹ En ambos casos, se trataba en el espíritu de sus promotores no solo de organizar los poderes de un Estado democrático, sino también de superar una época de violencia en una perspectiva de inclusión política. Los mecanismos imaginados en ambas oportunidades fueron distintos, e incluso aparentemente opuestos. El Frente Nacional pretendió construir un sistema de bipartidismo cerrado, pero incluyente en la medida en que se trataba de lograr que los dos partidos concurrieran conjuntamente al</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.8</book-part-id>
+                  <title-group>
+                     <title>La planeación de los asuntos públicos en la Constitución de 1991</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>González</surname>
+                           <given-names>Germán Puentes</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Barrios</surname>
+                           <given-names>Bibiana Bonilla</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>La planeación como concepto ha estado presente de manera implícita en las grandes decisiones y acciones impulsadas por los gobiernos en los distintos lugares del planeta y en los diferentes momentos de la historia humana, mas no ha ocurrido lo propio con la formalización de la planeación y los efectos perseguidos con su utilización.</p>
+                     <p>Las decisiones de las autoridades públicas en la resolución de los problemas de las comunidades están precedidas de un proceso de búsqueda de opciones y selección de la “mejor” para que con su implementación logre corregir una situación o simplemente impulsar un plan de acción, con</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.9</book-part-id>
+                  <title-group>
+                     <title>La seguridad ciudadana desde 1991</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vásquez</surname>
+                           <given-names>Juan Carlos Ruiz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>La Constitución de 1991 transformó el paisaje de la seguridad ciudadana en Colombia, pero encontró mal preparados a los alcaldes y a los municipios para planear las políticas públicas en la materia. Las dos reformas institucionales más importantes del último cuarto de siglo, la Constitución de 1991 y la descentralización administrativa, con su corolario la elección popular de alcaldes, parecieran no haber estado en consonancia para dar respuesta a los problemas de criminalidad. Mientras que la Constitución de 1991 señala en su artículo 315 que el alcalde es la primera autoridad de policía del municipio, y lo hace responsable en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.10</book-part-id>
+                  <title-group>
+                     <title>El Estado social de derecho, la Constitución de 1991 y el constitucionalismo del siglo xx</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arenas</surname>
+                           <given-names>Carlos Adolfo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>La Constitución colombiana de 1991 se expidió en el momento en que se extinguía la Guerra Fría y, con ella, el mundo del bipolarismo ideológico que engendró. El país, fiel a su práctica recurrente de elecciones periódicas y reformas constitucionales, entró así en una nueva etapa de la historia mundial y con ella en el siglo xxi, que de hecho se iniciaba entonces, provisto de la Carta Política de mayor raigambre democrática de toda su historia.¹ Una Carta que redefinió al nuestro como Estado social y democrático de derecho e inició una profunda transformación que no se limita al estado</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.11</book-part-id>
+                  <title-group>
+                     <title>El dilema de la jurisprudencia constitucional</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ruiz</surname>
+                           <given-names>Óscar José Dueñas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>Hay quienes piensan que desde hace veinticuatro años Colombia vive en un Estado social de derecho y que la jurisprudencia de la Corte Constitucional es la única que vale la pena. Quizás habría algo de razón cuando la tutela fue la joya de la corona de la Constitución de 1991 y los derechos fundamentales sí eran protegidos en la práctica, mediante sentencias que se cumplían. Actualmente, la tutela se está convirtiendo en una realidad virtual. Además, pese a la Constitución de 1991 y a su extenso catálogo de derechos y de principios, la violencia se acrecentó, los paramilitares impusieron su</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.12</book-part-id>
+                  <title-group>
+                     <title>Activismo judicial y derechos económicos sociales y culturales en la justicia colombiana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ferrer</surname>
+                           <given-names>Ana Giacomette</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>Con ocasión de la presente publicación he considerado relevante emitir el presente documento en el entendido de que los denominados “derechos de segunda generación”, es decir, los derechos económicos sociales y culturales (desc), en Colombia, hacen parte del denominado constitucionalismo moderno al establecer, en la Carta Política de 1991, una gama de derechos fundamentales, pero también unas herramientas eficaces y eficientes, cercanas al ciudadano del común; la reina de todas ellas:<italic>la acción de tutela</italic>.</p>
+                     <p>Los desc constituyen un particular impacto tanto en el nuevo orden constitucional (a raíz de la Carta Política de 1991) como en el tejido social,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.13</book-part-id>
+                  <title-group>
+                     <title>La Corte Constitucional colombiana y el control previo de los tratados internacionales 1992-2012</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abello-Galvis</surname>
+                           <given-names>Ricardo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>En esta ocasión le presentamos a la comunidad académica una nueva versión actualizada del estudio relativo al análisis de los tratados que han sido revisados por la Corte Constitucional colombiana.</p>
+                     <p>El rango de análisis en esta ocasión se centra en las sentencias del control previo de constitucionalidad de las leyes aprobatorias de tratados (lat) proferidas entre los años 1992 y 2012.</p>
+                     <p>Este rango se tomó teniendo en aras de actualizar esta investigación con ocasión de los veinte años de labores que cumplió la Corte Constitucional.</p>
+                     <p>El estudio de la jurisprudencia de la Corte Constitucional en materia de derecho internacional, y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.14</book-part-id>
+                  <title-group>
+                     <title>Dos décadas de debates entre la Constitución de 1991 y el derecho internacional:</title>
+                     <subtitle>el control constitucional de los tratados, las enmiendas constitucionales y la oposición a sentencias de tribunales internacionales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ramírez</surname>
+                           <given-names>Walter Arévalo</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Matamoros</surname>
+                           <given-names>Laura Victoria García</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>347</fpage>
+                  <abstract>
+                     <p>La vida de una Constitución está lejos de llegar a su plenitud cuando finaliza su discusión en el seno de la Asamblea Nacional Constituyente y es suscrita, promulgada, publicada y aplicada por primera vez, para ser apreciada y entendida de ese momento en adelante, como “norma de normas”, máximo referente normativo del sistema jurídico y como expresión del pacto político construido por los ciudadanos o sus delegatarios.</p>
+                     <p>Por el contrario, las constituciones modernas suelen llegar a su plenitud incluso décadas después de ser promulgadas, solo cuando los derroteros de su articulado han sido decantados por la práctica,¹ las diferentes interpretaciones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.15</book-part-id>
+                  <title-group>
+                     <title>La “Constitución exterior” y la constitucionalización de la política exterior colombiana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Molano-Roja</surname>
+                           <given-names>Andrés</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>377</fpage>
+                  <abstract>
+                     <p>Durante las últimas décadas, y en el marco del llamado “nuevo constitucionalismo”, se ha venido produciendo una paulatina y cada vez más extendida “constitucionalización” del derecho, lo cual ha tenido un profundo impacto no solo en la lógica que rige el funcionamiento de los sistemas jurídicos, sino también en el desarrollo mismo del proceso político.</p>
+                     <p>Según Ricardo Guastini, la constitucionalización del derecho “es un proceso de transformación de un ordenamiento [jurídico] al término del cual el ordenamiento en cuestión resulta totalmente ‘impregnado’ por las normas constitucionales”.¹ La consecuencia natural de dicho proceso es “una Constitución extremadamente invasora, entrometida, capaz de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.16</book-part-id>
+                  <title-group>
+                     <title>La fuerza persuasiva del derecho comparado como método de interpretación.</title>
+                     <subtitle>La experiencia de la Corte Constitucional colombiana</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paz</surname>
+                           <given-names>Martha C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>401</fpage>
+                  <abstract>
+                     <p>En decantada jurisprudencia de veinticinco años, la Corte Constitucional colombiana ha recurrido con frecuencia a diversas fuentes del derecho para articular el sentido de sus providencias. Una fuente creciente es el derecho comparado y la jurisprudencia extranjera, métodos que enriquecen la hermenéutica constitucional, enmarcándose dentro de los conocidos diálogos o conversaciones entre cortes y que asumen, por un lado, que la labor interpretativa va más allá de aplicar soluciones a un caso específico y, por otro, que la evolución del discurso de los derechos no es un tema de ámbitos nacionales, sino de un verdadero discurso universal. Pretende este artículo¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.17</book-part-id>
+                  <title-group>
+                     <title>Ordenamiento territorial, asignatura pendiente</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Castro</surname>
+                           <given-names>Jaime</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>429</fpage>
+                  <abstract>
+                     <p>López Michelsen consiguió que el Congreso, mediante acto legislativo, el 2 de 1997, convocara la<italic>pequeña constituyente</italic>que debería hacer las “reformas de envergadura” que requerían la administración de justicia y el régimen departamental y municipal. Para conseguirlo, adujo que las cámaras de entonces no reunían las condiciones que les permitieran tratar en debida forma los temas objeto de la convocatoria, y aprobar reformas tan importantes como las que en otras materias expidieron en 1936 y 1945, pues sus tareas principales habían cambiado y no disponían, por ello y otras razones más, del tiempo y el ambiente necesarios para investigar,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.18</book-part-id>
+                  <title-group>
+                     <title>Desarrollo territorial en la Constitución de 1991.</title>
+                     <subtitle>La fragmentación regional no resuelta</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ospina</surname>
+                           <given-names>María Helena Botero</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Quintero</surname>
+                           <given-names>Juana Marina Hofman</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>441</fpage>
+                  <abstract>
+                     <p>En el presente capítulo demostraremos que la Constitución de 1991 abre las puertas para la construcción de la autonomía y desarrollo de las entidades territoriales en Colombia, a través del fortalecimiento de los departamentos y los municipios da la vía libre para la creación de nuevas entidades territoriales como las regiones, las provincias y las entidades territoriales indígenas. Sin embargo, la Carta Política del 91 dejó sin definir los principios constitutivos de las nuevas entidades territoriales, toda vez que encargó a los formadores de las leyes de establecer la manera en que tales conformaciones territoriales podrán ser realidad, así como</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.19</book-part-id>
+                  <title-group>
+                     <title>Nociones esenciales constitucionales para el ordenamiento territorial en Colombia-Realizaciones y obstáculos desde la entrada en vigencia de la Constitución Nacional</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alfonso P.</surname>
+                           <given-names>William H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>477</fpage>
+                  <abstract>
+                     <p>Después de la primera mitad de siglo xx, la regulación sobre el desarrollo municipal en Colombia impuso el plan de desarrollo socioeconómico por encima del ordenamiento físico. El desarrollo normativo de este y otros temas críticos urbanos, definidos desde la reforma urbana de 1936, quedó aplazado hasta la expedición de la Ley 9ª de 1989, lo cual luego se afinarían a partir de la Constitución Nacional de 1991.¹</p>
+                     <p>Algunos aspectos críticos para el desarrollo urbano, como el suelo, la vivienda, las condiciones de propiedad y los costos del desarrollo, entre otros, que se habían presentado en la citada Ley 9ª,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.20</book-part-id>
+                  <title-group>
+                     <title>Los autores</title>
+                  </title-group>
+                  <fpage>501</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f5g2wz.21</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>508</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

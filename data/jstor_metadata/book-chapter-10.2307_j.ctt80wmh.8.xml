@@ -1,0 +1,204 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt80wmh</book-id>
+      <subj-group>
+         <subject content-type="call-number">HB72.B34 1996</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Polanyi, Karl, 1886-1964</subject>
+         <subj-group>
+            <subject content-type="lcsh">Economics</subject>
+            <subj-group>
+               <subject content-type="lcsh">Moral and ethical aspects</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Karl Polanyi on Ethics and Economics</book-title>
+         <subtitle>Foreword by Marguerite Mendell</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Baum</surname>
+               <given-names>Gregory</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>06</month>
+         <year>1996</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773513952</isbn>
+      <isbn content-type="epub">9780773565937</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Buffalo</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1996</copyright-year>
+         <copyright-holder>McGill-Queen's University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt80wmh"/>
+      <abstract abstract-type="short">
+         <p>Exploring Polanyi's lesser-known works as well as The Great Transformation, Baum provides a more complete and nuanced understanding of Polanyi's thought. He examines Polanyi's interpretation of modern economic and social history, clarifies the ethical presuppositions present in Polanyi's work, and addresses how Polanyi's understanding of the relation between ethics and economics touches on many issues relevant to the contemporary debate about the world's economic future. Baum argues that we should look to Polanyi's understanding of modern capitalism to reinstate the social discourse and, in political practice, the principles of reciprocity and solidarity. He points to examples, both in Canada and abroad, of attempts to formulate alternative models of economic development and to create new forms of institutional and cultural intervention.</p>
+      </abstract>
+      <counts>
+         <page-count count="112"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mendell</surname>
+                           <given-names>Marguerite</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract abstract-type="extract">
+                     <p>There is currently widespread interest in the work of Karl Polanyi among progressive thinkers, activists, and a growing community of heterodox social scientists. Although <italic>The Great Transformation</italic>, published in 1944, is acclaimed in France as one of the ten classics of twentieth-century social thought and has been translated into eight languages, Polanyi's influence within North America was, until recently, largely within the discipline of anthropology. Those who acknowledged the broader significance of his writings to contemporary social thought were marginalized by the intellectual community.</p>
+                     <p>The publication of <italic>Trade and Markets in the Early Empires</italic> in 1958 launched a historic debate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Baum</surname>
+                           <given-names>Gregory</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Polanyi’s Theory of the Double Movement</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In <italic>The Great Transformation</italic>, Karl Polanyi analyses the crisis of modern society. He does not claim that his idea is wholly original, for he finds aspects of it in the thought of the nineteenth-century social reformer Robert Owen. Owen argued that the new capitalism had caused not simply the material impoverishment of the workers but also the disruption of the ethical culture to which they belonged and through which they defined their identity. He was among the first to recognize that economic institutions have an impact on people’s cultural self-understanding. He advocated — and actually established - an alternative organization of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Ethical Foundations of Polanyi’s Social Theory</title>
+                  </title-group>
+                  <fpage>20</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In this chapter I study Karl Polanyi’s reflection on the role of ethics in the making of society and in the social scientific understanding of it. Polanyi, who in his personal life was greatly inspired by Leo Tolstoy,¹ was not a philosopher in the strict sense. Yet he believed that as a social and political thinker he had to articulate his intuitions regarding the ethical foundation of human thought and action. He first did so as a young man in the Vienna of the 1920s while struggling against his depression over the useless killing of the Great War. As Polanyi</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Polanyi’s Contemporary Relevance</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since the 1960s, social ethics has assumed increasing importance in the theological education, pastoral practice, and ministry of the Christian churches. One of the reasons for this development is the recognition that in the past the churches tended to identify themselves, consciously or unconsciously, with the societies in which they lived and, more especially, with the ruling powers or dominant ideologies. Although individual Christians and critical Christian movements gave prophetic witness in their societies, the churches as a whole tended to remain silent in the face of the injustices practised by their societies. Today, their behaviour is much different.</p>
+                     <p>But</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Ethics in a Pluralistic Society</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract abstract-type="extract">
+                     <p>I now wish to deal in a new way with the question as to whether Polanyi’s theory of the double movement is credible. In the previous chapter I argued, with the support of a good number of political economists, that even in the present neoliberal decade such a counter-movement does exist. People continue to defend their habitation against the inroads of the self-regulating market system. Yet the movement is small. Since it exists at the community level, will it ever be strong enough to affect the dominant structures?</p>
+                     <p>If Polanyi were a functionalist, he would argue that by its own</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.9</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>85</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80wmh.10</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>93</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

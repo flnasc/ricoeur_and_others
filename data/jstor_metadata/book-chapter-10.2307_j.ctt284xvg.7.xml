@@ -1,0 +1,241 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt284xvg</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN3503.S483 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fiction</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+            <subj-group>
+               <subject content-type="lcsh">History and criticism</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cortázar, Julio</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Kafka, Franz, 1883–1924</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Joyce, James, 1882–1941</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Idling the Engine</book-title>
+         <subtitle>Linguistic sSkepticism in and around Cortázar, Kafka, and Joyce</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Sharkey</surname>
+               <given-names>E. Joseph</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813214412</isbn>
+      <isbn content-type="epub">9780813216560</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt284xvg"/>
+      <abstract abstract-type="short">
+         <p>Author E. Joseph Sharkey uses the philosophies of language of Hans-Georg Gadamer and Ludwig Wittgenstein to counter the skepticism in question by showing that a language grounded in history instead of the transcendent is grounded nevertheless.</p>
+      </abstract>
+      <counts>
+         <page-count count="303"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.5</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Introduction:</title>
+                     <subtitle>
+                        <italic>Paradise Lost</italic> as an Allegory of Finitude</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>In a book about a strand</italic> of skepticism in certain twentieth-century novels, why turn to <italic>Paradise Lost</italic> as a precursor? <italic>Don Quixote</italic> or <italic>Tristram Shandy,</italic> say, would seem more natural choices, but I begin instead with Milton’s epic because of what might be called its orientation to human finitude. The skeptics in and around the books I will discuss later regard human finitude as a matter of the gravest concern, even as the source of failure of all human endeavor. <italic>Paradise Lost</italic> does not share in this confusion, but it does recognize it, portray it in intimate detail, and clear</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Skeptical Self-Contradiction in <italic>Hopscotch:</italic>
+                     </title>
+                     <subtitle>Knowing, Being, Reading, Writing</subtitle>
+                  </title-group>
+                  <fpage>42</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Because Julio Cortázar’s</italic> novel of 1963, <italic>Rayuela,</italic> or <italic>Hopscotch,</italic> explores basic questions about knowing, and about reading and writing in particular, it can be considered a broad investigation of hermeneutics, the pervasive and perpetual work of understanding that constitutes human being. It should not surprise us, then, that we encounter at the heart of <italic>Hopscotch</italic> doubts very similar to those so important to <italic>Paradise Lost</italic>. Horacio Oliveira, Cortázar’s protagonist, is Satan’s true heir, an engine-idler of the first order. By the time we happen upon Oliveira, he has long thought himself impaired by the original sin of historicity. The doubt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Kafka, Wittgenstein, and the Limits of Language</title>
+                  </title-group>
+                  <fpage>118</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>In chapter 90 of Hopscotch,</italic> Oliveira says, “But everything was fissionable and would immediately allow an opposite interpretation” (417). Later he says of Morelli that toward the end of his career “he could write only with effort, examining at every turn a possible opposite, the hidden fallacy … suspicious that every clear idea was inevitably a mistake or half-truth, mistrusting the words …” (440). If in the second quotation we substitute “understand” for “write,” we have two descriptions of the problem at the heart of Kafka’s fiction: the seeming interminability of interpretation. The comparison of Cortázar with Kafka brings to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>The Skeptic and the Hermeneut in Joyce</title>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>We all know</italic> that Stephen Dedalus’s fault is pride, a pride that Stephen himself, as well as Joyce, models on that of Satan. We could throw darts at <italic>A Portrait of the Artist as a Young Man</italic> for evidence. Throughout chapter 3, and after, Stephen’s young conscience is haunted and enchanted by a preacher’s description of Satan’s sin: “an instant of rebellious pride of the intellect” (<italic>A Portrait of the Artist as a Young Man,</italic> 133), “the sin of pride, the sinful thought conceived in an instant: <italic>non serviam</italic>” (<italic>P,</italic> 117). It is pride that forbids Stephen repentance before God</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Conclusion:</title>
+                     <subtitle>Joyce’s Teacup</subtitle>
+                  </title-group>
+                  <fpage>254</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Now we can attempt</italic> a deeper account for all the engine idling in and around twentieth-century novels. As in the introductory chapter, we will turn to <italic>Paradise Lost,</italic> its conclusion in particular, for an allegorical explanation. Of those things that Adam and Eve come to know sharply only by their loss, the most important is God’s presence. Prelapsarian Adam and Eve know God in his ever-presence, as a thing always already there, before they were there (before they were Dasein), and thus as a feature of their there-being as they had ever known it. After the Fall, they will come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.11</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284xvg.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>285</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

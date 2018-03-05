@@ -1,0 +1,347 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5hgzpb</book-id>
+      <subj-group>
+         <subject content-type="call-number">N6988.5.C62E83 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Kollektivnye deistviia (Group of artists)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Conceptual art</subject>
+         <subj-group>
+            <subject content-type="lcsh">Russia (Federation)</subject>
+            <subj-group>
+               <subject content-type="lcsh">Moscow</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Performance art</subject>
+         <subj-group>
+            <subject content-type="lcsh">Russia (Federation)</subject>
+            <subj-group>
+               <subject content-type="lcsh">Moscow</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Transition in Post-Soviet Art</book-title>
+         <subtitle>The Collective Actions Group Before and After 1989</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>EŞANU</surname>
+               <given-names>OCTAVIAN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="foreword-author" id="contrib2">
+            <role>WITH A FOREWORD BY</role>
+            <name name-style="western">
+               <surname>Groys</surname>
+               <given-names>Boris</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>09</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9786155225116</isbn>
+      <isbn content-type="epub">9786155225536</isbn>
+      <publisher>
+         <publisher-name>Central European University Press</publisher-name>
+         <publisher-loc>Budapest; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Octavian Eşanu</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7829/j.ctt5hgzpb"/>
+      <abstract abstract-type="short">
+         <p>The artistic tradition that emerged as a form of cultural resistance in the 1970s changed during the transition from socialism to capitalism. This volume presents the evolution of the Moscow-based conceptual artist group called Collective Actions, proposing it as a case-study for understanding the transformations that took place in Eastern European art after the fall of the Berlin Wall. Esanu introduces Moscow Conceptualism by performing a close examination of the Collective Actions group’s ten-volume publication Journeys Outside the City and of the Dictionary of Moscow Conceptualism. He analyzes above all the evolution of Collective Actions through ten consecutive phases, discussing changes that occur in each new volume of the Journeys. Compares the part of the Journeys produced in the Soviet period with those volumes assembled after the dissolution of the USSR. The concept of “transition” and the activities of Soros Centers for Contemporary Art are also analyzed.</p>
+      </abstract>
+      <counts>
+         <page-count count="375"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.3</book-part-id>
+                  <title-group>
+                     <title>LIST OF FIGURES</title>
+                  </title-group>
+                  <fpage>X</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.4</book-part-id>
+                  <title-group>
+                     <title>FOREWORD</title>
+                     <subtitle>Creating a Clearing</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GROYS</surname>
+                           <given-names>BORIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>XIII</fpage>
+                  <abstract>
+                     <p>Few are the reliable and well-written books that seek to tell the history of recent art in Eastern Europe—that is, the history of work by the artists who crossed the line in time that divided the old, communist era from the new postcommunist one. The communist past as experienced by those who lived it is largely a foreign concept to the majority of art historians in the West, who thus tread hesitantly over its uncanny terrain. As for the new generations of Eastern European art historians, they have already partially forgotten this past or even actively suppressed the memory</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.5</book-part-id>
+                  <title-group>
+                     <title>PREFACE AND ACKNOWLEDGMENT</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>A BIBLIOGRAPHIC OVERVIEW</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The art and aesthetics of KD, and to some extent that of what is known as Moscow Conceptualism, are closely related to two fields, one physical and the other conceptual. The first, which KD's members christened "Kievogorskoe Pole" due to its proximity to the village Kievy Gorky, is close enough to Moscow to make for a manageable day trip. The second field, which I call the "discursive field" of Moscow Conceptualism, is more abstract, and spans the central concepts and ideas that emerged within this tradition. Over more than three decades both of these fields have undergone reorganization in numerous</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>MAPPING MOSCOW CONCEPTUALISM</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>The<italic>Dictionary</italic>defines "Moscow Conceptualism" as a "romantic, dreaming, and psychologizing version of the international conceptual art of the 1960s and 1970s."¹ This is a rather laconic definition for a term that has served this tradition for more than three decades. The following sections of this book provide a broader elucidation of such terms. Focusing not only on "Moscow Conceptualism" but also on the attribute "romantic" and the notion of "emptiness," I aim to indicate how they originated and what range of significance they have acquired in their cultural milieus.</p>
+                     <p>Groys has been credited with naming the KD group, having</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>KD'S JOURNEYS BEFORE 1989</title>
+                  </title-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>It was during the Soviet period that the KD group gradually emerged with its own mythology, methodology, and terminology. From 1976 to 1989 its members sought unique ways to investigate the nature of art—this search for method comprising the group's main self-professed artistic program and affecting all aspects of its artistic and aesthetic practice. This Soviet or "before" period is the time in which the group created the model called "KD"—a model that, in spite of all changes since, has guided its aesthetic principles for almost three decades.</p>
+                     <p>Before proceeding to discuss the emergence of this model I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>"DURING":</title>
+                     <subtitle>THE TRANSITION TO CAPITALISM</subtitle>
+                  </title-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>In 1989 KD dissolved, reuniting again only in 1995 as [KD]. During this six-year transitional period, its members dispersed, acting and exhibiting individually at home and abroad. There is less information about this time, and even if Monastyrsky occasionally mentions events or texts that took place during these six years, most of them have been assembled within the post-1989<italic>Journeys</italic>post factum. In this respect the post-Soviet volumes of<italic>Journeys</italic>began as in the Soviet period: most of the material has been ordered, and sometimes even produced, retrospectively and retroactively. As in their first phase (1976–1980) the group's members</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>[KD]'S JOURNEYS AFTER 1989</title>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>The overall impact of transitology on Russian political and economic life cannot be compared with its effects in other postsocialist countries and republics of the former USSR. This country's former status as superpower and the suspicious attitudes of the "reformed" elites toward every foreign project or initiative, as well as the resistance to Westernization traditional for this culture are among many factors that have imposed limits both theoretical and practical (or policy-making) on the neoliberal paradigm of democratization and modernization. This is not to say, however, that Russian political elites or political scientists ignored or neglected the impact of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.11</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>FROM KD TO [KD]: FROM OBJECTIVATION TO REIFICATION</subtitle>
+                  </title-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Moscow conceptualists use the metaphor of a stone thrown into the air to describe the previous one hundred years of Russian art. At the origin of the stone's trajectory stood the Russian historical avant-garde which had forcefully propelled the stone high into the air; when it began to lose speed, reaching the vertex of the parabola, it represented the Zhdanovist doctrine of Socialist Realism at its height; the response of the stone to the law of gravity and its return to the ground corresponded to the downfall of Socialist Realism and the beginning of post–World War II unofficial art</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.12</book-part-id>
+                  <title-group>
+                     <title>DICTIONARY OF MOSCOW CONCEPTUALISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MONASTYRSKY</surname>
+                           <given-names>ANDREI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.13</book-part-id>
+                  <title-group>
+                     <title>DICTIONARY OF MOSCOW CONCEPTUALISM</title>
+                     <subtitle>(Main Section)</subtitle>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.14</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.15</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgzpb.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>358</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

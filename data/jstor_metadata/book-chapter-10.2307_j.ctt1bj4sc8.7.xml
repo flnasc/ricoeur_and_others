@@ -1,0 +1,652 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1bj4sc8</book-id>
+      <subj-group>
+         <subject content-type="call-number">PK6412.I73 M66 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Iran-Iraq War, 1980-1988</subject>
+         <subj-group>
+            <subject content-type="lcsh">Literature and the war</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Moments of Silence</book-title>
+         <subtitle>Authenticity in the Cultural Expressions of the Iran-Iraq War, 1980-1988</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Khakpour</surname>
+               <given-names>Arta</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Khorrami</surname>
+               <given-names>Mohammad Mehdi</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Vatanabadi</surname>
+               <given-names>Shouleh</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>12</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781479841585</isbn>
+      <isbn content-type="epub">9781479883844</isbn>
+      <isbn content-type="epub">1479883840</isbn>
+      <publisher>
+         <publisher-name>NYU Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>New York University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1bj4sc8"/>
+      <abstract abstract-type="short">
+         <p>The Iran-Iraq War was the longest conventional war of the 20th century. The memory of it may have faded in the wake of more recent wars in the region, but the harrowing facts remain: over one million soldiers and civilians dead, millions more permanently displaced and disabled, and an entire generation marked by prosthetic implants and teenage martyrdom. These same facts have been instrumentalized by agendas both foreign and domestic, but also aestheticized, defamiliarized, readdressed and reconciled by artists, writers, and filmmakers across an array of identities: linguistic (Arabic, Persian, Kurdish), religious (Shiite, Sunni, atheist), and political (Iranian, Iraqi, internationalist). Official discourses have unsurprisingly tried to dominate the process of production and distribution of war narratives. In doing so, they have ignored and silenced other voices.Centering on novels, films, memoirs, and poster art that gave aesthetic expression to the Iran-Iraq War, the essays gathered in this volume present multiple perspectives on the war's most complex and underrepresented narratives. These scholars do not naively claim to represent an authenticity lacking in official discourses of the war, but rather, they call into question the notion of authenticity itself. Finding, deciding upon, and creating a language that can convey any sort of truth at all-collective, national, or private-is the major preoccupation of the texts and critiques in this diverse collection.</p>
+      </abstract>
+      <counts>
+         <page-count count="304"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHAKPOUR</surname>
+                           <given-names>ARTA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHORRAMI</surname>
+                           <given-names>MOHAMMAD MEHDI</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VATANABADI</surname>
+                           <given-names>SHOULEH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The term “Gulf War” never achieved an equivalent level of media saturation and buzzword ubiquity when employed to refer to the 2003 invasion of Iraq and subsequent events as it had a decade prior, when it referred to Operation Desert Storm and irrevocably conjured a certain set of wartime “documentary” images (Apache gun camera footage, Tomahawk missile launches) that Jean Baudrillard famously called an “atrocity masquerading as a war,” war’s simulacra.¹ What the terminology of the 2003 war did achieve, however, was the anointing of the 1990–1991 war as “First Gulf War,” a title hitherto held by the Iran-Iraq</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Narratives of Borders and Beyond</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VATANABADI</surname>
+                           <given-names>SHOULEH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>In a previous piece I wrote on the Iran-Iraq War (1980–1989)¹ I argued for the necessity of looking at this event not as an isolated moment fixed in time but as an experience within the continuum of temporality as formulated by Walter Benjamin, to point to the shifting and fluidity of times that connected the Iran-Iraq War with the U.S. invasion of Iraq. My argument in that paper also included the usefulness of cultural texts both literal and visual in narrating the experience of war as “a collective experience to which even the deepest shock of every individual experience</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Lost Homelands, Imaginary Returns:</title>
+                     <subtitle>The Exilic Literature of Iranian and Iraqi Jews</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHOHAT</surname>
+                           <given-names>ELLA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>20</fpage>
+                  <abstract>
+                     <p>When I first contemplated my participation in the “Moments of Silence” conference, I wondered to what extent the question of the Arab Jew / Middle Eastern Jew merits a discussion in the context of the Iran-Iraq War. After all, the war took place in an era when the majority of Jews had already departed from both countries, and it would seem of little relevance to their displaced lives. Yet, apart from the war’s direct impact on the lives of some Jews, a number of texts have engaged the war, addressing it from within the authors’ exilic geographies where the war</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Treacherous Memory:</title>
+                     <subtitle>Bashu the Little Stranger and the Sacred Defense</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RASTEGAR</surname>
+                           <given-names>KAMRAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>Questions of ideological dedication are perhaps most fraught within the context of war. Memory discourse, in particular on the memory of war and its traumas, is often a legitimating instrument in the contest to elaborate who serves as hero and who as traitor during the war and afterward. In post-revolutionary Iran, the onset of the Iran-Iraq War allowed for the articulation of new if shifting parameters for ideological commitment and heroism, as well as treachery or cowardice. The evolution of the “sacred defense” concept allowed for the most articulate elaboration of these binaries, and wartime and postwar cultural producers, bureaucrats,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>War Veterans Turned Writers of War Narratives</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GHANOONPARVAR</surname>
+                           <given-names>M. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>88</fpage>
+                  <abstract>
+                     <p>Writers of fiction often rely on their imagination in their work, and professional writers are able to recreate scenes, events, and incidents of actual or imagined wars by imagining them. In contrast, some of those who experience war first hand, especially as combat soldiers, write about those experiences using the format of memoirs, and on occasion in the form of novels and short stories. The creative process for these veterans who have become writers of fiction is the reverse to that of what I have called professional writers. They fictionalize the actual traumatic events they have experienced.</p>
+                     <p>Although two world</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Between Betrayal and Steadfastness:</title>
+                     <subtitle>Iraqi Prisoners of War Narrate Their Lives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHOURY</surname>
+                           <given-names>DINA RIZK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Two iconic photographs symbolize the distinct meanings that Iranian and Iraqi governments ascribed to the figure of the prisoner of war. The first is of thousands of Iraqi prisoners of war taken in April 1982 in the wake of the beginning of retreat of Iraq from Iranian cities. Iraqi soldiers sit facing the camera, unshackled and holding large pictures of Khomeini and the executed Iraqi Shi‘i cleric Muhammad Baqir al-Sadr. The other is of an Iranian prisoner that graced the cover the Iraqi weekly<italic>Alef Ba</italic>on March 5, 1986, a few weeks after the Iranians conquered Faw. The Iranian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Stepping Back from the Front:</title>
+                     <subtitle>A Glance at Home Front Narratives of the Iran-Iraq War in Persian and Arabic Fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOOSAVI</surname>
+                           <given-names>AMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>In discussions of modern literatures rarely are modern Arabic and Persian fictions brought together in a comparative context. Despite many shared sources and intertwining histories in the classical period and similar trajectories in the development of what are now considered modern literatures, Persian and Arabic literary traditions are seldom brought into conversation with one another. As a result, and despite some more recent attempts to rectify this situation, whether in the form of conferences or publications,¹ scholars and critics of either literature face a lacuna just considering the possibilities of comparison between the two literary traditions, even though both are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Not a Manifesto:</title>
+                     <subtitle>The Languages of Aggression</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BEARD</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>138</fpage>
+                  <abstract>
+                     <p>There is a genre of landscape painting that developed in the late sixteenth century, notably in a series of six etchings Jacques Callot drew depicting the Spanish Siege of Jeda (1624–25). We know that Callot was commissioned by the Spanish government to memorialize their victory, and this may account for its visual orientation. In the foreground we see, from behind, a cluster of warships gliding toward the shore. We see ahead of them, inland, further up the picture, their Dutch opponents, much smaller, smaller in fact than perspective requires. Perspective is distorted further still as the eye moves up</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>All’s Not Quiet on the Western Front:</title>
+                     <subtitle>Graphic Arts in the Iranian War Effort</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHELKOWSKI</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>In the summer of 1999, I was invited to a conference on “Shii Rituals” in Shiraz. Since I had to see many people, I was assigned a car with a driver. In such instances, it is my custom to sit next to the driver and chat. On this occasion the driver, whose name was Mohammad, was not what I expected of a Shirazi man; the Shirazis are generally easygoing and cheerful. He was sad, and not very communicative. During our conversation, which was mainly a monologue on my part, I asked him about the war with Iraq and whether he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Shadows of War:</title>
+                     <subtitle>An Overview of Iranian War Films from 1980 to 1988</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIAHI</surname>
+                           <given-names>MARJAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Khakpour</surname>
+                           <given-names>Arta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>176</fpage>
+                  <abstract>
+                     <p>In 1979, the Iranian monarchy collapsed and the Ayatollah Khomeini assumed leadership of the Revolution, resulting in the transformation of Iran’s government from a monarchy to an Islamic republic. On September 22, 1980, while this fledgling government was still facing numerous domestic difficulties, Iran officially entered a state of war with its western neighbor, Iraq. Lasting eight years, it would be the second longest war of the twentieth century after the Vietnam War. During the Iraqi army’s first campaign upon Iranian soil, approximately 30,000 square kilometers were occupied by the invading forces. The casualty count released by the Iranian government</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Representation of the Iran-Iraq War in Kurdish Fiction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AMINPOUR</surname>
+                           <given-names>MARDIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>This chapter investigates some of the perspectives modern Kurdish literature has generally adopted vis-à-vis the phenomenon of war and the Kurds’ prolonged struggle for independence, with a narrower focus on examination of some of the notions and impressions of war informing the Kurdish fictional narratives that deal with the question of the Iran-Iraq War. Speaking in broad terms, nationalism has served as an interface between modern Kurdish literature and the Kurdish struggle for independence, establishing a dual-natured interaction between the two spheres such that, despite their unanimity of purpose, they have also confronted one another now and then. Conterminous with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Editing (Virayesh) as a Movement of Resistance during the Iran-Iraq War</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FARAHZAD</surname>
+                           <given-names>FARZANEH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>The role of language in shaping collective and national identities is of prime importance in socio-linguistic studies. The issue gains special significance in the case of Iran. There are at least three reasons for this. The first is that Iran has historically been in constant contact with<italic>the foreign</italic>through political as well as economic, literary, and cultural interactions. The second is that it accommodates a variety of ethnic groups, minority languages, and dialects still spoken in different parts of the country. And the third is that, since its conversion to Islam, Iran was exposed to Arabic, both as the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Narratives of Silence:</title>
+                     <subtitle>Persian Fiction of the 1980–1988 Iran-Iraq War</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHORRAMI</surname>
+                           <given-names>MOHAMMAD MEHDI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>In a letter to F. Scott Fitzgerald, Ernest Hemingway called war “the writer’s best subject.” Hemingway justified this description by saying that “[War] groups the maximum of material and speeds up the action and brings out all sorts of stuff that normally you have to wait a lifetime to get.”¹ Keeping in mind the notion of dramatic license, he was probably right. And considering the fact that in the past few centuries the Persian literary tradition has had many chances to experience this “best subject,” it is reasonable to expect that many great works of Persian war literature have been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.17</book-part-id>
+                  <title-group>
+                     <title>APPENDIX A:</title>
+                     <subtitle>Only the Dead Witnessed the End of the War</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BADER</surname>
+                           <given-names>ALI</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Moosavi</surname>
+                           <given-names>Amir</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.18</book-part-id>
+                  <title-group>
+                     <title>APPENDIX B:</title>
+                     <subtitle>My Brother’s Blue Eyes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIAHI</surname>
+                           <given-names>MARJAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Khorrami</surname>
+                           <given-names>Mohammad Mehdi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>246</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.19</book-part-id>
+                  <title-group>
+                     <title>APPENDIX C:</title>
+                     <subtitle>Two Poems</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANTOON</surname>
+                           <given-names>SINAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>250</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.20</book-part-id>
+                  <title-group>
+                     <title>APPENDIX D:</title>
+                     <subtitle>A Chapter from The Pomegranate Alone</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANTOON</surname>
+                           <given-names>SINAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Antoon</surname>
+                           <given-names>Sinan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>252</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.21</book-part-id>
+                  <title-group>
+                     <title>APPENDIX E:</title>
+                     <subtitle>A Letter to the Saad Family</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AHMADZADEH</surname>
+                           <given-names>HABIB</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Sprachman</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>258</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.22</book-part-id>
+                  <title-group>
+                     <title>SELECT BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.23</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>271</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1bj4sc8.24</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

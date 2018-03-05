@@ -1,0 +1,448 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x0495</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Postmodern Apologetics?: Arguments for God in Contemporary Philosophy</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>GSCHWANDTNER</surname>
+               <given-names>CHRISTINA M.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Caputo</surname>
+               <given-names>John D.</given-names>
+            </name>
+            <role>series editor</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>11</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823242740</isbn>
+      <isbn content-type="epub">9780823246298</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x0495"/>
+      <abstract abstract-type="short">
+         <p>This book provides an introduction to the emerging field of continental philosophy of religion by treating the thought of its most important representatives, including its appropriations by several thinkers in the United States. Part I provides context by examining religious aspects of the thought of Martin Heidegger, Emmanuel Levinas, and Jacques Derrida. Christina Gschwandtner contends that, although the work of these thinkers is not apologetic in nature (i.e., it does not provide an argument for religion, whether Christianity or Judaism), it prepares the ground for the more religiously motivated work of more recent thinkers by giving religious language and ideas some legitimacy in philosophical discussions. Part II devotes a chapter to each of the contemporary French thinkers who articulate a phenomenology of religious experience: Paul Ricoeur, Jean-Luc Marion, Michel Henry, Jean-Louis Chretien, and Jean-Yves Lacoste. In it, the author argues that their respective philosophies can be read as an apologetics of sorts-namely, as arguments for the coherence of thought about God and the viability of religious experience-though each thinker does so in a different fashion and to a different degree. Part III considers the three major thinkers who have popularized and extended this phenomenology in the U.S. context: John D. Caputo, Merold Westphal, and Richard Kearney. The book thus both provides an introduction to important contemporary thinkers, many of whom have not yet received much treatment in English, and also argues that their philosophies can be read as providing an argument for Christian faith.</p>
+      </abstract>
+      <counts>
+         <page-count count="384"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.3</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xxv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.6</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The “Death of God” and the Demise of Natural Theology</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>As pointed out in the preface, both “postmodern” and “apologetics” are somewhat contentious terms that can mean a whole host of things. This introduction outlines the history of apologetics in the Christian tradition in a very broad and general fashion. It concludes with a very brief introduction to postmodernism and the possibility of something like a “postmodern apologetic.”</p>
+                     <p>While postmodernism is generally associated with fairly recent thinkers, apologetics has a long and rich history. The term was first used by early Christian communities and individuals (“apologists”) who defended themselves against attacks by the larger culture or by particular authorities. At</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Martin Heidegger and Onto-theo-logy</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>There has been much speculation about the religious influences on Heidegger’s thought and on the religious potential of his work. Several theologians, such as Rudolf Bultmann, Karl Rahner, and Paul Tillich, were inspired by his philosophy and used it extensively in their own writings. Janicaud himself makes Heidegger to some extent responsible for the religious turn, while drawing on other aspects of Heidegger’s thought for his desire to keep philosophy pure and safe from theological contamination.¹ Heidegger’s corpus is vast indeed and I will make no attempt to treat it in its entirety here. Rather, I will focus on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Emmanuel Lévinas and the Infinite</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Lévinas was one of the first thinkers to introduce phenomenology into France. Originally Lithuanian Jewish, he emigrated to France as a young student. He was educated in Straβburg and spent a formative year (1928–29) with Husserl and Heidegger in Freiburg. Husserl had retired but was still teaching, and Heidegger had just published<italic>Being and Time</italic>. Students flocked to his lectures. Lévinas talks about this experience in<italic>Ethics and Infinity</italic>, an interview with Philippe Nemo and broadcast on French radio, describing the excitement of Heidegger’s initial lectures and the tremendous impact of<italic>Being and Time</italic>, which he calls “one of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Jacques Derrida and “Religion Without Religion”</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Jacques Derrida’s writings are extensive and few of them have any direct bearing on the subject of religion. Yet, especially since the publication of Kevin Hart’s<italic>The Trespass of the Sign</italic>,¹ Hent de Vries’s<italic>Philosophy and the Turn to Religion</italic>,² and John D. Caputo’s<italic>The Prayers and Tears of Jacques Derrida</italic>,³ as well as Derrida’s repeated participation in the popular<italic>Religion and Postmodernism</italic>conferences at Villanova University (also initiated and hosted by Caputo),⁴ some of Derrida’s writing has exercised great influence on the growing conversation that seeks to conduct discussion about religion in a postmodern environment. The interpretation of Derrida</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Paul Ricoeur:</title>
+                     <subtitle>A God of Poetry and Superabundance</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Ricoeur was one of the most prolific French philosophers in his long life, authoring over thirty books on a great variety of topics. He was born in 1913 and died in Paris in 2005, having taught for many years in Straβburg, Paris, and Chicago. Ricoeur is known primarily as a hermeneutic thinker, although his hermeneutic work always also refers to and assumes phenomenology and interacts with various other philosophical approaches. In fact, in many ways a possible conversation between various philosophical traditions, approaches, and discourses could be said to be a distinctive mark of Ricoeur’s philosophy. Richard Kearney suggests that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Jean-Luc Marion:</title>
+                     <subtitle>A God of Gift and Charity</subtitle>
+                  </title-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>Jean-Luc Marion (born in 1946) is emerging as an important contemporary French philosopher. Deeply influenced by the philosophies of Husserl, Heidegger, and Lévinas, he has formulated a radical phenomenological project that focuses on the questions of God, religious experience, and the relation between self and other (in terms of a new version of the self and in terms of love). Marion studied at the École Normale Superieur and the Sorbonne and worked closely with both Lévinas and Henry. He is presently teaching at the Institut catholique in Paris, is John Nuveen Professor at the divinity school of the University of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Michel Henry:</title>
+                     <subtitle>A God of Truth and Life</subtitle>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>Michel Henry (1922–2002) was one of the early phenomenologists working in France, more or less contemporaneous with Emmanuel Lévinas and Paul Ricoeur. He is most well-known for developing a “material” phenomenology, or, as he later called it, a “phenomenology of the flesh.” Many of his early writings are heavily influenced by the philosophy of Karl Marx. Only his more recent (and final) writings are more explicitly religious.¹ Although some hints of these concerns are present in his earlier works (such as an analysis of Meister Eckhart’s mysticism in Section III of his major work<italic>The Essence of Manifestation</italic>), they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Jean-Louis Chrétien:</title>
+                     <subtitle>A God of Speech and Beauty</subtitle>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>Jean-Louis Chrétien’s writings are a powerful example of the character of what I have called a new type of apologetics. In no way does he ever engage in anything like proofs for God’s existence, evidence for the validity of religious experience, or any consideration of the rational coherence of an idea of the divine. And yet his work is imbued and overflows with Christian imagery and references to Christian sources. Even when he is not addressing explicitly religious themes, his poetic language has the flavor and tonality of Christian mysticism. Chrétien (born in 1952) is one of the youngest of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Jean-Yves Lacoste:</title>
+                     <subtitle>A God of Liturgy and Parousia</subtitle>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Jean-Yves Lacoste is a French philosopher and theologian, currently affiliated with the University of Cambridge in England. He is chief editor of the<italic>Critical Dictionary of Theology</italic>(2004). Lacoste is strongly influenced by Heidegger, although at times also quite critical of him. His phenomenological interest is focused on liturgy and beauty, although his style of presentation is rather different from that of Chrétien who writes on some similar topics. His books include<italic>Experience and the Absolute: Disputed Questions on the Humanity of Man</italic>, a book on art (<italic>Le Monde et l’absence de l’oeuvre</italic>), and two collections that include many articles</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Emmanuel Falque:</title>
+                     <subtitle>A God of Suffering and Resurrection</subtitle>
+                  </title-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>Emmanuel Falque (born in 1963), along with Jean-Louis Chrétien, belongs to the next generation of French thinkers. He was a student of Jean-Luc Marion and Jean Greisch and is presently dean of the faculty of philosophy at the Institut catholique in Paris. He has degrees in both philosophy and theology and merges the two disciplines far more fully than any of the other thinkers, occasionally even challenging the boundaries between these subject matters as unnecessary and superficial.¹ Falque’s work is especially characterized by a phenomenological reading of theological doctrines and thinkers. His dissertation was a phenomenological reading of Bonaventure (<italic>Saint</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Postmodern Apologetics?</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Each of the chapters in this part of the book has identified apologetic elements in the work of the thinkers discussed. Before examining some of their appropriations in the North American context in more detail, it might be worthwhile to consider this apologetic or quasi-apologetic character more fully. Are these projects apologetic ones? Do they “defend” the divine and argue on behalf of faith? Certainly their arguments for God are not arguments in the traditional (modern) sense. They are primarily phenomenological depictions of religious experience in a variety of registers. Their depictions do not always agree, although there are indeed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Merold Westphal:</title>
+                     <subtitle>Postmodern Faith</subtitle>
+                  </title-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>Merold Westphal, recently retired as Distinguished Professor of Philosophy at Fordham University, is one of the most significant figures to have appropriated French thought about the divine and religious experience for an American audience, focusing especially on the dimensions of faith. Most of his works circle around the coherence and viability of Christian faith, seeking to show that postmodernity and faith are not as incompatible as they might seem. Deeply influenced by the work of Søren Kierkegaard to whom several of his writings are devoted, he has continually sought to translate postmodern philosophy for a Christian audience. He shows that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>John Caputo:</title>
+                     <subtitle>Postmodern Hope</subtitle>
+                  </title-group>
+                  <fpage>242</fpage>
+                  <abstract>
+                     <p>John D. Caputo, recently retired as Thomas J. Watson Professor of Religion and Humanities at Syracuse University and David R. Cook Professor Emeritus of philosophy at Villanova University where he taught for many years, is most well-known for his friendship with Derrida and for highlighting the religious dimension of Derrida’s thought. Caputo’s work is perhaps best understood as a form of postmodern hope (especially in contrast to Westphal’s emphasis on faith and Kearney’s concern with charity). Despite being associated so firmly with Derrida, Caputo’s earliest work was on Heidegger, tracing what he called the “mystical dimension” of Heidegger’s thought and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Richard Kearney:</title>
+                     <subtitle>Postmodern Charity</subtitle>
+                  </title-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>Richard Kearney currently holds the Charles B. Seelig Chair in philosophy at Boston College and is visiting professor at University College Dublin. Originally from Ireland, Kearney worked closely with Ricoeur, Lévinas, and Derrida in France (he received his doctorate there under Ricoeur’s direction) and has taught in the United States for several decades. Over the years, he has labored vigorously to establish communication and conversation between many of the thinkers treated in this book (in various interviews, roundtable discussions, and other venues), but has himself also contributed significantly to the discussion of religious phenomenology and hermeneutics. His most recent publications</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.20</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>This book has suggested that several contemporary French thinkers (namely those examined in Part II of this text) sustain a quasi-apologetic argument in their respective works. I have also argued in Part I that Heidegger, Lévinas, and Derrida are not religiously motivated and do not have such an apologetic project, but that their philosophies provide the context for, and to some extent enable, these more explicitly religious projects. Finally, Part III has explored some of the ways in which the French thinkers and their respective ideas are appropriated in the English-speaking discussion of their work, especially in North American Continental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.21</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.22</book-part-id>
+                  <title-group>
+                     <title>For Further Reading</title>
+                  </title-group>
+                  <fpage>327</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>341</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0495.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>353</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

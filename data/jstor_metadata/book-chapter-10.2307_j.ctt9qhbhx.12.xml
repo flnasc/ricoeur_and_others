@@ -1,0 +1,611 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8wwm2b</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qhbhx</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Barcelona</book-title>
+         <subtitle>Visual Culture, Space and Power</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BUFFERY</surname>
+               <given-names>HELENA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>CAULFIELD</surname>
+               <given-names>CARLOTA</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>01</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780708324806</isbn>
+      <isbn content-type="epub">9780708324820</isbn>
+      <publisher>
+         <publisher-name>University of Wales Press</publisher-name>
+         <publisher-loc>CARDIFF</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>The contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qhbhx"/>
+      <abstract abstract-type="short">
+         <p>Barcelona: Visual Culture, Space and Power offers a unique approach to the history of the avantgarde in Barcelona, as well as its legacy in the post-war period. It presents the relationship between environment, identity and performance as explored by countercultural artists and communities from the 1960s to the present day.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.3</book-part-id>
+                  <title-group>
+                     <title>Series Editors’ Foreword</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>Over recent decades the traditional ‘languages and literatures’ model in Spanish departments in universities in the United Kingdom has been superceded by a contextual, interdisciplinary and ‘area studies’ approach to the study of the culture, history, society and politics of the Hispanic and Lusophone worlds – categories that extend far beyond the confines of the Iberian Peninsula, not only in Latin America but also to Spanish-speaking and Lusophone Africa.</p>
+                     <p>In response to these dynamic trends in research priorities and curriculum development, this series is designed to present both disciplinary and interdisciplinary research within the general field of Iberian and Latin</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.5</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.6</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.7</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>‘Butterflying Barcelona’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Buffery</surname>
+                           <given-names>Helena</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caulfield</surname>
+                           <given-names>Carlota</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>These words were pronounced by Xavier Canals during his performance of what he called an ‘ecolinguistic visual poem’ during a symposium on ‘Contemporary Barcelona: Visual Cultures, Space and Power’ held in London in March 2008. He presented the work after a day and a half of academic papers on visual culture, punctuated by more ludic interventions, such as a rehearsed reading of Pau Miró’s<italic>Plou a Barcelona</italic>(<italic>It’s Raining in Barcelona</italic>), visual poems by Gustavo Vega and J. M. Calleja, and a ‘Journey into unfamiliar space’ workshop with Lidewij Tummers. Later there was a visit to the British Library to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Breaking Boundaries:</title>
+                     <subtitle>A Journey through the Catalan Avant-Garde</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAULFIELD</surname>
+                           <given-names>CARLOTA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>The primary aim of this chapter is to provide an introduction to twentieth-century Catalan avant-garde movements and groups through a history of visual poetry. This has the advantage both of widening recognition of experimental aesthetic practices beyond Catalonia’s most famous names – Salvador Dalí (1904–89), Joan Miró (1893–1983) and Antoni Gaudí (1852–1926) – and of situating their work within the unique and complex fabric of contemporary Catalan culture. Just as a visual poem may be defined simply as an interdisciplinary artistic creation that blurs the distinction between art and text, so this chapter ranges across names associated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>On the Starfish Road:</title>
+                     <subtitle>Surrealism and the Paris–Barcelona Connection</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FORCER</surname>
+                           <given-names>STEPHEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Either implicitly or directly, the considerable body of published research that now exists in the area of surrealism and Spain variously problematizes, modifies or embodies two potentially contradictory positions that are particularly relevant to Catalonia. The first position is based on the assumption of an uncommonly favourable national predisposition towards surrealism: blessed with a built-in propensity to produce ‘rebellious individualism’, Spain, in the words of Salvador Dalí, enjoys distinction as ‘the most irrational and the most mystic country in the world’ (Dalí, 1990, p. 127), leaving the Spanish themselves ideally placed to make what Robert Havard calls ‘good – or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>The Lyrical Taboos of Guillem Viladot</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JOHNSON</surname>
+                           <given-names>P. LOUISE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Jaume Pont characterizes Guillem Viladot’s trajectory ‘against the grain of models and norms’, as triply touched by the periphery:</p>
+                     <p>… la perifèria lingüística durant els anys de la dictadura; la perifèria geogràfica, amb la seva residència a Agramunt i el corresponent allunyament dels cercles literaris dominants; i, en últim terme, la perifèria literària, a redós d’un peregrinatge anticanònic dins l’àmbit de la poesia experimental, concreta i visual. (2004, p. 8)</p>
+                     <p>(The linguistic periphery during the years of the dictatorship; the geographical periphery, with Viladot’s residence in Agramunt and his corresponding distance from the dominant literary circles; and finally, the literary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Cafè Central:</title>
+                     <subtitle>a Groundbreaking Independent Publishing House in Barcelona.</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <role>Interview with</role>
+                        <name name-style="western">
+                           <surname>Clapés</surname>
+                           <given-names>Antoni</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caulfield</surname>
+                           <given-names>Carlota</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>Antoni Clapés was born in Sabadell in 1948. He is one of the most significant Catalan poets of today and the author of more than fifteen books of poetry; some of his most recent include<italic>Un sol punt</italic>(2009),<italic>La llum i el no-res</italic>(2009) and<italic>La lentitud, la durada</italic>(2010). Clapés writes regularly about poetry and experimental art for Catalan, Spanish, European and Latin American publications. In 1989, he founded Cafè Central, an independent publishing house known for its diffusion of experimental poetry. Clapés has many links to avant-garde artistic practices; in the 1970s, he was the promoter of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Case for Obsolescence:</title>
+                     <subtitle>Thinking Time and Space in Joaquim Jordà’s Numax presenta</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BALIBREA</surname>
+                           <given-names>MARI PAZ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>In the final scene of Joaquim Jordà’s 1980 film,<italic>Numax presenta</italic>, a documentary reflecting on the experience of self-management carried out between 1977 and 1979 by workers at Numax, a now-closed factory for the production of domestic appliances located in the Eixample (the district of Barcelona most associated with the middle classes), the protagonists throw a party to celebrate the end of their two-year experiment of life inside the factory.¹ As the group dance and drink within the space they have for so long inhabited for work and political struggle, surrounded by an atmosphere of joy and comradeship, Jordà goes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Whose Vanguardist City?</title>
+                     <subtitle>The Barcelona Urban Model as Seen from the Periphery in José Luis Guerín’s En construcción (2001)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NUÑEZ</surname>
+                           <given-names>NATALIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>As the Carvalho cycle of novels by Manuel Vázquez Montalbán (1939–2003) illustrates, late 1970s Barcelona had many reasons to be a rather ‘disenchanted’ city. The combined effects of the Porciolista administration (1957–73), and the disastrous aftermath of economic recession had turned the Catalan capital into a rather ‘grey’ post-industrial metropolis (Calavita and Ferrer, 2000, p. 793). This 1970s version of Barcelona as a decaying urban centre was miles away from the fetishized<italic>City of Ivory</italic>conceived by intellectuals of the<italic>Noucentista</italic>period (Resina, 2003, p. 108). But it was all about to change with the arrival of democracy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>The Raval on Stage:</title>
+                     <subtitle>Limits and Borders in Juan Mayorga’s Hamelin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARCER</surname>
+                           <given-names>ELISENDA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>From 13 March to 23 April 2006, the Spanish theatre company Animalario’s acclaimed production of<italic>Hamelin</italic>at the Teatre Romea in Barcelona was performed. First staged in Madrid’s Teatro Abadía in October 2005 and having subsequently had its Catalan premiere during Girona’s Temporada Alta festival, the play had already collected four awards at the 2006 Premios Max ceremony, including for best play of the season. Penned by one of Spain’s foremost contemporary playwrights, the Madrid-based Juan Mayorga (1965–), and considered by theatre critics such as Marcos Ordóñez to be Mayorga’s best work so far, the play’s origins in sensationalist</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Translating the Enigma:</title>
+                     <subtitle>Temporality and Subjectivity in Ventura Pons’s Barcelona: (Un mapa)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FERNÀNDEZ</surname>
+                           <given-names>JOSEP-ANTON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>Recent scholarship on Catalan culture has tended to focus on space, urban geography and memory in relation to place. The city of Barcelona has been the obvious case study, not just because of its international projection, but also because of its position as a site of symbolic struggles with regards to Catalan identity (see Epps, 2004; Johnson, 2006; Resina, 2008a). By virtue of its very title, Ventura Pons’s nineteenth feature film,<italic>Barcelona (Un mapa)</italic>(2007), would therefore seem to be an ideal object for analysis from this kind of perspective. Indeed, the film’s title appears to point to the centrality</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Empowerment by Visualization:</title>
+                     <subtitle>Experiences from Barcelona</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TUMMERS</surname>
+                           <given-names>LIDEWIJ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Women in workshops held in Barcelona in 1993 did. Departing from a simple, accessible exercise like the one above, they initiated a debate on domestic labour, the absence of a room of one’s own, and the limitations their spatial environment imposed on experiencing citizenship. In other words, they both questioned their position as women in society and interrogated architectural stereotypes. As a consequence, they took local action.</p>
+                     <p>One of the characteristics of this process of empowerment, which I have called ‘journey into unfamiliar space’, is the use of various visualization and theatre techniques as a means for communication. The aim</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Tracing the City through the URBS Project</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BUFFERY</surname>
+                           <given-names>HELENA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARGARIT</surname>
+                           <given-names>ÀNGELS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Àngels Margarit is one of the foremost practitioners of contemporary dance in Barcelona. Her career as a dancer and choreographer dates back to the late 1970s, when there began to be a proliferation of contemporary dance performers and companies in Barcelona (Noguero, 2008; Vendrell, 2008). Although Catalan contemporary dance has not had the same degree of international impact enjoyed by the more hybrid and spectacular performance groups such as La Fura dels Baus and Comediants, largely due to the relative absence of funding and infrastructure for dance in Catalonia and Spain, both she and the members of Mal Pelo (Maria</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Performing Barcelona:</title>
+                     <subtitle>Cultural Tourism, Geography and Identity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DELGADO</surname>
+                           <given-names>MARIA M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>The iconography of Barcelona is bound up with performance. The city has been conceptualized – as the epigraph, from the<italic>New York Times</italic>, makes clear – around performative paradigms. While all cities, as the director Tim Etchells notes, function in the same mode as theatre, as a model of ‘dynamic relativism … where everything means more than one thing’ (2009, p. xii), in Barcelona performance serves as a mode of conceptualizing self and other, of reinforcing the transformative potential of the city – not insignificant in a city that has re-envisaged its own architectural landscape in the past thirty years.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>Absent Bodies and Objects</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ASTLES</surname>
+                           <given-names>CARIAD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>This chapter explores contemporary visual culture in Barcelona with a particular focus on puppet theatre, which has been significant in the development of Catalan theatre over the last century, in particular within the Catalan movement towards independence since the last days of the Franco regime. The chapter will centre on Barcelona itself as a concrete locus of identity negotiation, and on the body as the specific site of that negotiation, through its presence in carnivalesque performance or by its absence, fragmentation or imprint. The body, in particular the puppet body, thus serves as a metaphor for discussing how the accultured</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>A Broken Mirror?</title>
+                     <subtitle>Global–Local Images of Barcelona</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILSON</surname>
+                           <given-names>ANNA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>As explored in many chapters in this volume, the Barcelona cityscape is a contested space, caught up in conflicting discourses that interlink cultural identity and power. Capital of Catalonia and home to the Catalan regional government, Barcelona is the vortex of debates that question both the Catalan relationship to the Spanish state and to the wider European and world communities. It is these power struggles which will be brought into focus in this chapter, in so far as they have been compounded by the increasingly problematic location of identity in the context of a postmodern, global city. Any sense of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Talking about Visual Poetry:</title>
+                     <subtitle>Interviews with J. M. Calleja, Gustavo Vega and Xavier Canals</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAULFIELD</surname>
+                           <given-names>CARLOTA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Calleja</surname>
+                           <given-names>J. M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vega</surname>
+                           <given-names>Gustavo</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Canals</surname>
+                           <given-names>Xavier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>Three of the most remarkable contemporary visual poets who work in Barcelona are J. M. Calleja, Xavier Canals and Gustavo Vega. A long collaboration with them led to the orchestration of an interactive session with the artists, as part of the 2008 two-day international conference on<italic>Contemporary Barcelona: Visual Cultures, Space and Power</italic>at the Institute of Germanic and Romance Studies, organized by Margaret Andrews, Helena Buffery and Carlota Caulfield. Moderated by the Welsh actor David Summer and Carlota Caulfield, the session gave participants and public a unique opportunity to participate in J. M. Calleja’s<italic>Empremtes/Traces/Prints (1976–2006)</italic>, Gustavo Vega’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.22</book-part-id>
+                  <title-group>
+                     <title>[Illustrations]</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.23</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>229</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qhbhx.24</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

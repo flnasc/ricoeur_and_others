@@ -1,0 +1,619 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32b7h7</book-id>
+      <subj-group>
+         <subject content-type="call-number">BD171.T82 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Truth</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Truth Matters</book-title>
+         <subtitle>Knowledge, Politics, Ethics, Religion</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Zuidervaart</surname>
+               <given-names>Lambert</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Carr</surname>
+               <given-names>Allyson</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Klaassen</surname>
+               <given-names>Matthew</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>Shuker</surname>
+               <given-names>Ronnie</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>12</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773542709</isbn>
+      <isbn content-type="epub">9780773589971</isbn>
+      <isbn content-type="epub">077358997X</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt32b7h7"/>
+      <abstract abstract-type="short">
+         <p>Why should we seek and tell the truth? Does anyone know what truth is? Many are skeptical about the relevance of truth. Truth Matters endeavours to show why truth is important in a world where the very idea of truth is contested. Putting philosophers in conversation with educators, literary scholars, physicists, political theorists, and theologians, Truth Matters ranges across both analytic and continental philosophy and draws on the ideas of thinkers such as Aquinas, Balthasar, Brandom, Davidson, Dooyeweerd, Gadamer, Habermas, Kierkegaard, Plantinga, Ricoeur, and Wolterstorff. Some essays attempt to provide a systematic account of truth, while others wrestle with the question of how truth is told and what it means to live truthfully. Contributors address debates between realists and anti-realists, explore issues surrounding relativism and constructivism in education and the social sciences, examine the politics of truth telling and the ethics of authenticity, and consider various religious perspectives on truth. Most scholars agree that truth is propositional, being expressed in statements that are subject to proof or disproof. This book goes a step farther: yes, propositional truth is important, but truth is more than propositional. To recognize how it is more than propositional is crucial for understanding why truth truly matters. Contributors include Doug Blomberg (ICS), Allyson Carr (ICS), Jeffrey Dudiak (King’s University College), Olaf Ellefson (York University), Gerrit Glas (VU University Amsterdam), Gill K. Goulding (Regis College), Jay Gupta (Mills College), Clarence Joldersma (Calvin College), Matthew J. Klaassen (ICS), John Jung Park (Duke University), Pamela J. Reeve (St. Augustine’s Seminary), Amy Richards (World Affairs Council of Western Michigan), Ronnie Shuker (ICS), Adam Smith (Brandeis University), John Van Rys (Redeemer University College), Darren Walhof (Grand Valley State University), Matthew Walhout (Calvin College), and Lambert Zuidervaart (ICS).</p>
+      </abstract>
+      <counts>
+         <page-count count="344"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zuidervaart</surname>
+                           <given-names>Lambert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CARR</surname>
+                           <given-names>ALLYSON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KLAASSEN</surname>
+                           <given-names>MATTHEW J .</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Goodness, justice, knowledge, existence, reality, experience, truth – philosophers have struggled with these concepts for generations. What do they mean? How do they affect human life? Can we understand them, or are they unknowable? Defining such concepts is difficult and has practical consequences. These challenges set high stakes for ensuring theory and practice are well matched and oriented toward social flourishing. Our ideas of goodness and justice directly impact how we treat each other and the laws we set up to govern our societies. Our theories of knowledge and existence affect how we teach, learn, and develop new technologies. Conceptions of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>How Not to Be an Anti-realist:</title>
+                     <subtitle>Habermas, Truth, and Justification</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ZUIDERVAART</surname>
+                           <given-names>LAMBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>In 1982 Alvin Plantinga delivered a presidential address titled “How to Be an Anti-realist” at the annual meeting of the Western Division (now the Central Division) of the American Philosophical Association (APA).² He proposed to mediate a dispute about realism encapsulated in addresses given by three previous APA divisional presidents, with Hilary Putnam and Richard Rorty on the anti-realist side and William Alston on the realist side. Plantinga argued that contemporary anti-realism is “wholly unacceptable” and Platonist “unbridled realism” is “unlovely.”³ The right way to be an anti-realist, he said, is to be a theist in the manner of Thomas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Radical Constructivism, Education, and Truth as Life-Giving Disclosure</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JOLDERSMA</surname>
+                           <given-names>CLARENCE W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>46</fpage>
+                  <abstract>
+                     <p>Constructivism in education, an approach that depicts learners as actively constructing their own knowledge, continues to influence content areas such as math and science education as well foundation areas such as educational psychology.² It is a contested view, with advocates suggesting that it is a better framework for effective education and critics countering that it is relativistic with respect to truth.</p>
+                     <p>In this chapter I will agree with constructivist criticisms of traditional epistemologies and their correspondence theories of truth. However, I will also agree with traditional criticisms concerning constructivism’s relativism. Maintaining these two critiques requires developing an alternative understanding of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Jelly and the Shot:</title>
+                     <subtitle>Laying down the Law for Pragmatism in Quantum Physics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WALHOUT</surname>
+                           <given-names>MATTHEW</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Bertrand Russell is reported to have said that there are two kinds of philosopher: one who sees the world as a bowl of jelly and another who sees it as a bucket of shot. Russell considered himself to have undergone a conversion from the former view to the latter in 1898, when he parted ways with his Hegelian friends and began to focus on quantificational logic.¹ He came to believe that in Hegel’s jelly-like world, philosophical analysis did not stand a chance, because things and facts and language were so holistically interconnected and susceptible to dialectical change that no one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Cognitive Diversity, Conceptual Schemes, and Truth</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELLEFSON</surname>
+                           <given-names>OLAF</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>For Donald Davidson, the concept of truth is central to providing an account of meaning, but remains indefinable yet utterly intuitive.¹ For Stephen Stich, on the other hand, truth (or at least the concept of truth as used by Davidson, Alfred Tarski, and others) is idiosyncratic, limited, and best understood as a modestly valuable remnant of folk psychology that awaits either elimination or modification by an improved psychology.² I wish to evaluate and ultimately challenge precisely this contention by Stich – that our intuitive notion of truth (as expressed in T-sentences³ such as “‘the grass is green’ is true if and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Exposure and Disclosure:</title>
+                     <subtitle>The Risk of Hermeneutical Truth in Democratic Politics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WALHOF</surname>
+                           <given-names>DARREN R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Writing in the wake of the furor over her account of the Eichmann trial, Hannah Arendt reflects on why truth and politics are, in her words, “on rather bad terms.”¹ Her analysis rests on dividing truth into two different types. The first type, rational truth, is the subject of mathematics and philosophy. It has a long history of tension with politics, going back at least to Plato, who worried about the displacement of rational truth by mere opinion. In the modern age, Arendt says, opinion has generally won the day, rendering rational truth politically irrelevant.² The second type, factual truth,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Truthfulness, Discourse, and the Problem of Pluralism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SMITH</surname>
+                           <given-names>ADAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>In this chapter, I describe pluralism as an approach to securing legitimacy for laws that govern democracies. While I assume that no other approach is acceptable, and that pluralism is a prerequisite for democracy, I argue first that pluralism has a problem. I also argue that the most promising attempt to resolve this problem – Habermas’s theory of discourse – fails to do so. To conclude, I suggest that another Habermasian term – truthfulness – might be developed in a way that addresses the problem of pluralism.</p>
+                     <p>For the purposes of this chapter, I will define legitimacy as a quality conferred on some authority</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>A Comparative Ethics Approach to the Concept of Bearing Witness:</title>
+                     <subtitle>A Practice in Christian Theology and Journalism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RICHARDS</surname>
+                           <given-names>AMY D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>138</fpage>
+                  <abstract>
+                     <p>Bearing witness is an ethical act. Whether a person bears truthful witness or false witness, the act involves moral agency. Choosing to testify to an experience or event that others, or the established narrative of a culture, may contest may alter the rest of a person’s life. Witnessing is not without cost to both the agent bearing witness and also possibly to the audiences, the secondary witnesses hearing or observing the testimony. Therefore, deciding to bear or not bear witness has moral and cultural significance. Consider the example of two British journalists working in Soviet Russia and the moral and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Narrative Truth in Canadian Historical Fiction:</title>
+                     <subtitle>In between Veracity and Imagination</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VAN RYS</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Of all literary genres, historical fiction is perhaps the most problematic and the most promising in relation to difficult questions of truth. Ostensibly rooted in some form of historical veracity in the traces of actual events or people, its fictional dimensions (from invented narrative to poetic qualities) nevertheless impress upon readers an imaginative truthfulness. In this way, historical fiction becomes a site of contention over truth; in its modern and postmodern manifestations, the genre becomes an exploration of the nature of truth itself.</p>
+                     <p>Margaret Atwood captures this tension within historical fiction in her lecture, “In Search of<italic>Alias Grace</italic>”. Speaking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Truth, Truthfulness, and the I-Self Relationship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GLAS</surname>
+                           <given-names>GERRIT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>I feel sympathy for the attempt to bring together the notions of truth and truthfulness, as was done in the introductory text to the Truth Matters conference.¹ It is indeed appealing to try to connect the epistemic concept of truth with moral and psychological concepts like truthfulness and trustworthiness.</p>
+                     <p>The power of this appeal can be felt in different contexts. Today we are sensitized for the issue of truthfulness, because of the economic crisis and the loss of trustworthiness in the financial system. The public has lost its trust because the stories that legitimized the economic behaviour of bankers and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Does Truth Matter to Ethics?</title>
+                     <subtitle>Kierkegaard, Ethics, and the Subjectivity of Truth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GUPTA</surname>
+                           <given-names>JAY A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>Does truth matter to ethics? Ethical truth is a highly vexed notion. In addition to a virtual chaos of views concerning right versus wrong courses of action in applied issues, philosophers have encountered perennial difficulties in the attempt to theoretically specify what ethical truth could be. As James Rachels notes, whatever it is, it is not like planets, trees, or spoons; ethical truth is not “out there” in the usual sense.¹ But then, perhaps it is inappropriate to talk about ethical truth at all.</p>
+                     <p>Such considerations prompted the late Richard Rorty to declare that the concept of truth had outlived</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Theories of Concepts and Moral Truth</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PARK</surname>
+                           <given-names>JOHN J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Concepts are the building blocks of thought. They take part crucially in various aspects of cognition such as categorizing objects, induction, deduction, and analogy making. Non-cognitivism and subjectivism are two meta-ethical views that make claims about the nature or structure of our moral concepts in moral judgments, concepts that are in part the building blocks of such thoughts. By claiming that all moral judgments are the expression of our emotions, such theories conclude that the moral concepts in our judgments are primarily constituted by emotions or sentiments. However, recent findings in empirical moral psychology show that such moral concepts are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Educating for Truthfulness</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLOMBERG</surname>
+                           <given-names>DOUG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The challenge of the Truth Matters conference call to “reclaim truthfulness for the academic enterprise” underscores that a commitment to truth is not an abstract principle but a concrete action. As Plato recognizes, philosopher-rulers need not only “the ability to grasp eternal and immutable truth” but also certain “qualities of character”; in describing these, he begins with “love of the knowledge that reveals eternal reality” and follows immediately with “truthfulness” – for how could “a love of wisdom and a love of falsehood” possibly coexist in one person?¹ Character thus connotes integrity, because virtuous traits are complementary and coherent.</p>
+                     <p>The Apostle</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Truth Unveiled:</title>
+                     <subtitle>Balthasar and the Contemplation of Christian Truth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOULDING</surname>
+                           <given-names>GILL K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>At the wane of the twentieth and the dawn of the twenty-first century, two successive pontiffs expressed a clear concern for the relationship between truth and religion – or, more specifically, identified the importance of the search for truth and the knowledge of God. The possibility of such a search was seen to involve the use of faith and reason and the fruition of such a search to involve contemplation. The intellectual search for truth illumined by Gospel contemplation and integrating the mystery of faith and reason was a significant focus of attention both for Pope Benedict XVI¹ and his predecessor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Truth as “Being Trued”:</title>
+                     <subtitle>Intersections between Ontological Truth in Aquinas and the Contemporary Anthropology of Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REEVE</surname>
+                           <given-names>PAMELA J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>Truth is usually considered a topic in epistemology, in a philosophical theory of knowledge. The thirteenth-century theologian Thomas Aquinas recognizes this dimension of truth when he defines it primarily as “the conformity of intellect and thing”<italic>(conformitas intellectus et rei</italic>).² Moreover, Aquinas held that the intellect is able not only to make true judgments about things, but also to know the conformity of its judgments with things, which is to know their truth. There is also another dimension of truth in Aquinas’s thought, which I will call ontological truth. He considers natural things to be true in relation to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Bedevilling Truth:</title>
+                     <subtitle>“What Have I to Do with Thee?”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUDIAK</surname>
+                           <given-names>JEFFREY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>283</fpage>
+                  <abstract>
+                     <p>At the risk of scandalizing my friends and colleagues with whom I live in the modern world, I begin with a story from the Christian scriptures, and if that were not enough, with a miracle story (that of the Gad’arene Demoniac Healed), and if that were not enough, a miracle story whose truth I am, moreover, affirming. I quote from the eighth chapter of Luke’s Gospel:¹</p>
+                     <p>26. And they arrived at the country of the Gad’arenes, which is over against Galilee. 27. And when he went forth to land, there met him out of the city a certain man, which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.20</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>A Concept of Artistic Truth Prompted by Biblical Wisdom Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SEERVELD</surname>
+                           <given-names>CALVIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>296</fpage>
+                  <abstract>
+                     <p>I propose to take a biblically led orientation on the matter of truth, and from that perspective try to elucidate the particular glory of imaginative, literary, and artistic historical truth telling in God’s world. I am self-consciously not presuming to present a universal approach, and I realize my tack as an octogenarian academic is shaped by a certain earthy, philosophical faith-thought tradition called<italic>reformational</italic>that, with relaxed seriousness, takes the Ruling ordering of God (Bασιλε̃ιατο͂υ θεο͂υ) as a driving focus for communal reflection and action.¹</p>
+                     <p>The exclamation “Amen!” best signals for me a biblical affirmation of when truth appens. Truth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.21</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.22</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>339</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b7h7.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

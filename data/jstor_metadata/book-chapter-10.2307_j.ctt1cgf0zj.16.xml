@@ -1,0 +1,469 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cgf0zj</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Groundless Gods</book-title>
+         <subtitle>The Theological Prospects of Post-Metaphysical Thought</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>von Sass</surname>
+               <given-names>Hartmut</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Hall</surname>
+               <given-names>Eric E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>11</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780227174982</isbn>
+      <isbn content-type="epub">9780227903834</isbn>
+      <publisher>
+         <publisher-name>James Clarke &amp; Co</publisher-name>
+         <publisher-loc>Cambridge</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Wipf and Stock Publishers</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cgf0zj"/>
+      <abstract abstract-type="short">
+         <p>Groundless Gods: The Theological Prospects of Post-Metaphysical Thought' deals with possible interpretations of an emerging interest in contemporary theology: postmetaphysical theology. This book attempts to openly come to grips, not only with what metaphysics and postmetaphysics imply, but also with what it could mean to do or not do theology from the standpoint of the nonmetaphysician. The book asks, for instance, whether this world has any singular definition, and whether God is some being standing apart from the world or an experience within the world.</p>
+      </abstract>
+      <counts>
+         <page-count count="326"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hall</surname>
+                           <given-names>Eric E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.5</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.6</book-part-id>
+                  <title-group>
+                     <title>Metaphysics, Its Critique, and Post-Metaphysical Theology:</title>
+                     <subtitle>An Introductory Essay</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VON SASS</surname>
+                           <given-names>HARTMUT</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HALL</surname>
+                           <given-names>ERIC E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Metaphysics has recently made a comeback</italic>. It is not at all clear whether this is good news, bad news, or something in between. One reason for this uncertainty lies in the still open question of what returns with metaphysics: what commitments, presuppositions, worldviews, and actions? No doubt, some might hold that this description is already misleading since metaphysics has never been absent, only confusedly and ruinously neglected metaphysics has acted as a<italic>via abscondita</italic>from which we have taken but a short hiatus. Others might react with deep concern, fearing that all achievements of past battles against this “totalizing” power</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Theology without Metaphysics?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HART</surname>
+                           <given-names>KEVIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>The modern quest for a Christian theology without metaphysics properly begins with Albrecht ritschl who sought to separate theology from scholasticism, on the one hand, and the speculative philosophical theology practiced by Hegel, on the other.² Of course, one finds a good deal of theology since then, including Karl Barth’s, that wishes to limit or eliminate metaphysical adventure. Barth himself thought that a theologian could travel through philosophy as a gypsy passes through a foreign land, being in conversation with its people but not accepting their assumptions about life.³ He knew that he had no choice but to use certain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>How Much Metaphysics Can Theology Tolerate?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PATTISON</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>The question as posed suggests that we think of the relationship between metaphysics and theology as analogous to the relationship between a chemical substance and an organic body, as in the question “how much alcohol can the human body tolerate?” In these terms, we might say that a certain amount of metaphysics can be productive and enlivening for theology, just as a certain amount of alcohol can, as the Bible says, “make glad the heart of man.” Yet we also know that if the optimum amount is exceeded, then this can lead not only to depression and violent behaviour but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Can Christian Theologians Reason Post-Metaphysically?</title>
+                     <subtitle>Jürgen Habermas and the Semblance of Intellectual Virtue</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOODSON</surname>
+                           <given-names>JACOB L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Can Christian theologians reason post-metaphysically? Yes, they can. The task of Christian theology involves cultivating and displaying faith, hope, and charity as<italic>intellectual virtues</italic>within both scholarship and teaching. Because post-metaphysical reasoning seeks “excellence in deliberation,” it enables the appropriate presentation of faith, hope, and charity in the pedagogical and theoretical aspects of learning and life.</p>
+                     <p>My argument hinges on the distinction between<italic>giftedness</italic>and<italic>possession</italic>concerning the three theological virtues.¹ Because the virtues of faith, hope, and charity are not<italic>possessed</italic>, properly speaking, by Christians or Christian thinkers, post-metaphysical reasoning provides an opportunity for a confessional yet secular approach</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Two Varieties of Active Unbelief</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RODGERS</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Atheism is apparently in an ambiguous state with respect to postmodernism. By some accounts, postmodernism is nearly synonymous with unbelief, if not full blown atheism. On the other hand, many authors have pointed out that postmodernism presents as many problems to the atheist as to the theist. These authors make it seem nearly impossible to be a postmodern atheist—that atheism goes when theism does. Of course, unbelief is surely still possible, but it takes an altogether different form, in this version of the postmodern story. We have religious authors who bemoan postmodernism for its relativism and nihilism, religious authors</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Simone Weil—A Postmetaphysical Thinker?</title>
+                     <subtitle>Some Reflections on How to Interpret Her Work</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HEINSOHN</surname>
+                           <given-names>NINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>“What sort of concept is that of the supernatural?“¹, Peter Winch asks at the beginning of the final chapter in<italic>Simone Weil</italic>.<italic>The Just Balance</italic>, and he continues: “Are we then in the region of metaphysics?”² This question directly leads to one of the most important controversies in contemporary thinking about Weil: “Within the last few years, increasingly the question of how to interpret Weil [. . .] has been at the forefront of Weil scholarship.”3 It may be articulated as follows: should we regard Simone Weil as a<italic>metaphysical</italic>thinker or is this category specifically<italic>inadequate</italic>to circumscribe her</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Disclosure and Disruption:</title>
+                     <subtitle>Charles Taylor’s Post-Metaphysical Philosophy of Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>YI</surname>
+                           <given-names>ZANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>In<italic>A Secular Age</italic>,¹ Taylor repeats and develops a claim that he has made in earlier works.² According to Taylor, there is a disparity between the lofty ethical ideals affirmed by those living in secular, Western societies and the motivation of individuals to consistently live out and actualize these ideals. High moral standards require adequate “moral sources.” Accordingly, Taylor argues that non-religious humanisms fail to provide adequate sources and, conversely, claims that certain religions do.</p>
+                     <p>In what follows, I show how these claims come together to form an argument against an ethical position Taylor calls “exclusive humanism.” This critique itself</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Messianic Events:</title>
+                     <subtitle>From Critical Deconstruction to Loving Critique</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hall</surname>
+                           <given-names>Eric E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>In this essay, I will explore a number of interrelated topics dealing with the meaning and possibility of post-metaphysical theology. I am especially concerned, here, to understand the nature and relationship of post-metaphysical theology relative to the idea of “deconstructive” critique. To achieve these tasks, I will begin this essay by offering a basic definition of metaphysics in relationship to theology. I will next draw out the idea of a postmetaphysical theology by exploring the thought of John Caputo and his notion of the Messianic event, especially the nature of the critique such an event unearths. Being critical, however, of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Faith and Being:</title>
+                     <subtitle>Hermeneutical Theology as Post-Metaphysical Enterprise</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VON SASS</surname>
+                           <given-names>HARTMUT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>The theological situation is not very comfortable: On the one side there are those who think that a non-hermeneutic theology consists only of a contradiction. For them, theology is necessarily hermeneutic.² On the other side, there are those who think that a theology turning toward hermeneutics is the end of the theology. Hence, an alliance between hermeneutics and theology should be strictly avoided.³ It is not difficult to find concrete examples of both parties. One need only elucidate which theological intention is traditionally combined with the attribute that is at stake here. Hermeneutics is the ‘theory’ of understanding; to speak</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Theology and Metaphysics:</title>
+                     <subtitle>Friends, Rivals, or Enemies? A Spotlight on Albrecht Ritschl’s Struggle with Metaphysics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEUGEBAUER</surname>
+                           <given-names>MATTHIAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>“Metaphysics begins with the ancient Greeks as a philosophical doctrine of the one God.”¹ This sentence—assigning metaphysics and theology—is far from self-evident. The sentence, on the one hand, states that metaphysics and theology are neighborly disciplines and that theology necessarily needs metaphysics; on the other hand, the existence of metaphysics implies theology has been a valid enterprise for as long a time.<italic>Postmodern thinking, however, is handling this compilation with caution. Dealing with metaphysics after the Enlightenment and the linguistic turn is a difficult affair</italic>. In this regard, one perspective for understanding metaphysics is to consider metaphysical structures</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>On the Possibility of a Metaphysical Theology after Onto-Theology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EIKREM</surname>
+                           <given-names>ASLE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>The adjective “post-metaphysical,” often used in philosophical parlance to describe so-called postmodern construals of God, is ambiguous. It can either be interpreted as an attempt to develop non-metaphysical accounts of God, or it can be understood as an attempt to spell out a post onto-theological God, i.e. a God not construed as a being among beings thought of in a foundationalist manner: as<italic>causa sui</italic>or as a cause that is the cause of itself. It is my impression that many theologians and philosophers of religion have a tendency to identify metaphysical discourse on God with onto-theological discourse on God.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Revelation and Resistance:</title>
+                     <subtitle>On Phenomenology as Metaphysics in Charles Sanders Peirce and Hermann Deuser</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WABEL</surname>
+                           <given-names>THOMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>286</fpage>
+                  <abstract>
+                     <p>In his categorial semiotics and phenomenology, Charles Sanders Peirce arrives at a fundamental triadic structure that, he claims, shapes all possible experience and reality alike. The subject—seen as the “interpretant” in a triadic semiotic process—becomes an instance in the self-interpretation of the universe of signs. Thus, perception of reality and reality itself coincide. This can be experienced in what Peirce calls the category of “Firstness.” Following Peirce, the contemplation of reality in the immediate experience of its quality (Firstness) is a phenomenological task. In Peirce’s “humble argument” for the reality of God, the experience of Firstness can account</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf0zj.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

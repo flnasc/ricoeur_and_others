@@ -1,0 +1,456 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt58dksc</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qf7xj</book-id>
+      <subj-group>
+         <subject content-type="call-number">QH332.S97 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bioethics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bioengineering</subject>
+         <subj-group>
+            <subject content-type="lcsh">Moral and ethical aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Synthetic biology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Moral and ethical aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Artificial life</subject>
+         <subj-group>
+            <subject content-type="lcsh">Moral and ethical aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Synthetic Biology and Morality</book-title>
+         <subtitle>Artificial Life and the Bounds of Nature</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Kaebnick</surname>
+               <given-names>Gregory E.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Murray</surname>
+               <given-names>Thomas H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>07</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262519595</isbn>
+      <isbn content-type="epub">9780262314961</isbn>
+      <isbn content-type="epub">0262314967</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qf7xj"/>
+      <abstract abstract-type="short">
+         <p>Synthetic biology, which aims to design and build organisms that serve human needs, has potential applications that range from producing biofuels to programming human behavior. The emergence of this new form of biotechnology, however, raises a variety of ethical questions -- first and foremost, whether synthetic biology is intrinsically troubling in moral terms. Is it an egregious example of scientists "playing God"?<italic>Synthetic Biology and Morality</italic>takes on this threshold ethical question, as well as others that follow, offering a range of philosophical and political perspectives on the power of synthetic biology.The contributors consider the basic question of the ethics of making new organisms, with essays that lay out the conceptual terrain and offer opposing views of the intrinsic moral concerns; discuss the possibility that synthetic organisms are inherently valuable; and address whether, and how, moral objections to synthetic biology could be relevant to policy making and political discourse. Variations of these questions have been raised before, in debates over other biotechnologies, but, as this book shows, they take on novel and illuminating form when considered in the context of synthetic biology.ContributorsJohn Basl, Mark A. Bedau, Joachim Boldt, John H. Evans, Bruce Jennings, Gregory E. Kaebnick, Ben Larson, Andrew Lustig, Jon Mandle, Thomas H. Murray, Christopher J. Preston, Ronald Sandler</p>
+      </abstract>
+      <counts>
+         <page-count count="192"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.3</book-part-id>
+                  <title-group>
+                     <title>Series Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caplan</surname>
+                           <given-names>Arthur</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>Glenn McGee and I developed the Basic Bioethics series and collaborated as series coeditors from 1998 to 2008. In Fall 2008 and Spring 2009 the series was reconstituted, with a new Editorial Board, under my sole editorship. I am pleased to present the thirty-seventh book in the series.</p>
+                     <p>The Basic Bioethics series makes innovative works in bioethics available to a broad audience and introduces seminal scholarly manuscripts, state-of-the-art reference works, and textbooks. Topics engaged include the philosophy of medicine, advancing genetics and biotechnology, end-of-life care, health and social policy, and the empirical study of biomedical life. Interdisciplinary work is encouraged.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kaebnick</surname>
+                           <given-names>Gregory E.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murray</surname>
+                           <given-names>Thomas H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In May 2010, as The Hastings Center was holding the last of three meetings in a project about the ethical issues of a new but still rather obscure branch of genetic technologies that had been dubbed synthetic biology, news began to trickle in that the field was about to break into the national consciousness. Researchers at the J. Craig Venter Institute (JCVI) had successfully managed to synthesize the genome of a bacterium,<italic>Mycoplasma mycoides</italic>, insert it into a cell of a closely related species,<italic>Mycoplasma capricolum</italic>, from which the genome had been removed, and produce what was to all appearances</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Appeals to Nature and the Natural in Debates about Synthetic Biology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lustig</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Synthetic biology is the field whose aim is “to extend or modify the behavior of organisms and engineer them to perform new tasks” (Andrianantoandro et al. 2006).¹ Descriptions of the field vary, of course, but generally, synthetic biology involves one of two approaches: building living organisms from raw materials, and building organisms from parts already found in living organisms. The first “uses unnatural molecules to reproduce emergent behaviors from natural biology, with the goal of creating artificial life,” and the second “seeks interchangeable parts from natural biology to assemble into systems that function unnaturally” (Benner and Sismour 2005).</p>
+                     <p>Both of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Creating Life:</title>
+                     <subtitle>Synthetic Biology and Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boldt</surname>
+                           <given-names>Joachim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>The invention and development of recombinant DNA techniques in the 1970s led to what is nowadays known as “genetic engineering” and to “genetically modified organisms” such as transgenic maize, insulin-producing bacteria, and the oncomouse. Synthetic biology is usually thought of as a more recent development. It may come as a surprise, then, that the term “synthetic biology” entered the scientific scene around the same time as “genetic engineering.”</p>
+                     <p>In 1978, the molecular medical scientists Waclaw Szybalski and Anna M. Skalka wrote in an editorial of the journal<italic>Gene</italic>, “The work on restriction nucleases not only permits us easily to construct</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Engineered Microbes in Industry and Science:</title>
+                     <subtitle>A New Human Relationship to Nature?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kaebnick</surname>
+                           <given-names>Gregory E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>With some scientific and technological developments, the public gets excited when the technology hits the streets and generates new products and services. Radio caught the public’s attention when radios became available. The Internet had been in the works for some years before most people even knew about it. But with developments in biology, the excitement tends to precede the application. In the 1990s, genetic engineering was going to cure the incurable; fifteen years on, there are only a few scattered reports of success, and then only on a few individuals at a time and not completely smoothly (the treatment has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Lessons from Environmental Ethics about the Intrinsic Value of Synthetic Life</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bedau</surname>
+                           <given-names>Mark A.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larson</surname>
+                           <given-names>Ben T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Synthetic biology is the attempt to “engineer complex artificial biological systems to investigate natural biological phenomena and for a variety of applications” (Andrianantoandro et al. 2006; see also Endy 2005). We will use the expression “synthetic life-forms” to refer to the different kinds of synthetic organisms produced in synthetic biology laboratories. These organisms today are typically various kinds of genetically modified bacteria. Even if most (or even all) of the material in a synthetic life-form comes from natural forms of life, we still consider it to be “synthetic” because it is produced through the intentional activity of laboratory scientists. Synthetic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Three Puzzles Regarding the Moral Status of Synthetic Organisms</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Basl</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sandler</surname>
+                           <given-names>Ronald</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>An artifact is an entity designed and created by an intentional agent who is capable of imagining the world as it might otherwise be, evaluating the alternatives, and devising strategies for realizing them.¹ A living thing is artifactual, not natural, to the extent that it is designed and engineered by an agent. The difference between artifactual organisms and natural organisms is thus in their origins, and it is a matter of degree.</p>
+                     <p>Minimally artifactual organisms are commonplace. Selective breeding, grafting, and intentional hybridization—processes that have been occurring since the beginning of agriculture—produce minimally artifactual organisms. But although traditional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Synthetic Bacteria, Natural Processes, and Intrinsic Value</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Preston</surname>
+                           <given-names>Christopher J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>Today’s synthetic biology, just like traditional biotechnology, raises important questions about the moral significance of its products; and questions about the “use” values and disvalues of synthetic organisms are especially prominent among these. It is, after all, the uses—and, by extension, the markets—for these new bacterial organisms that typically drive research into their production. Also significant, however, are questions about the intrinsic (or inherent) value of bacteria produced through synthetic means.¹ If the public’s reaction to older forms of biotechnology is any indication, sentiments about these intrinsic values and disvalues are widespread, wielding a greatly underestimated, popular power.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Synthetic Biology and Public Reason</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mandle</surname>
+                           <given-names>Jon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>The developments associated with synthetic biology and other new genetic technologies raise profound questions in many different areas. Among others, they touch on issues of religion, metaphysics, and morality. Without in any way denigrating the importance of these deep and weighty issues, I am going to argue that the answers we give to these questions are largely independent of the answers we give to another set of concerns—those of public policy. Our answers to theological, to metaphysical, and in an important sense to moral questions about the technologies associated with genetic manipulation should not have any<italic>direct</italic>policy implications.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Biotechnology as Cultural Meaning:</title>
+                     <subtitle>Reflections on the Moral Reception of Synthetic Biology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jennings</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Perhaps the fundamental question before us in science policy today involves the extension of human power and artifice into the realm of life. The general question is not new. Shakespeare’s Prospero pondered it, as did Mary Shelley’s Frankenstein and H. G. Wells’s Dr. Moreau. But the gap between fantasy and actual technological capacity is closing, so that now the morality of power must speak to the governance of power; ethics must inform public policy. Synthetic biology constitutes a significant extension of the human capacity to manipulate the conditions of life at several levels—the molecular and cellular level, the level</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>“Teaching Humanness” Claims in Synthetic Biology and Public Policy Bioethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Evans</surname>
+                           <given-names>John H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>The emergence of synthetic biology has led some commentators to raise some deep and abstract ethical issues. It has been repeatedly claimed, for example, that synthetic biology will teach people to accept a different notion of what it means to be human—a view I will call the teaching humanness (TH) claim. TH claims have been made about various scientific innovations over the centuries, as well as in more recent debates in public policy bioethics, where such claims are routinely made and then ignored. In this paper I first discuss why claims like this are ignored in public policy bioethics,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.14</book-part-id>
+                  <title-group>
+                     <title>About the Authors</title>
+                  </title-group>
+                  <fpage>205</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>207</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf7xj.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>213</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

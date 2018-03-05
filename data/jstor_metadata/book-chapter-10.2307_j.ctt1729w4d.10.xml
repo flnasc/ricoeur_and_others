@@ -1,0 +1,493 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1729w4d</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Renaissance of emotion</book-title>
+         <subtitle>Understanding affect in Shakespeare and his contemporaries</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Meek</surname>
+               <given-names>Richard</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Sullivan</surname>
+               <given-names>Erin</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780719090783</isbn>
+      <isbn content-type="epub">9780719098956</isbn>
+      <publisher>
+         <publisher-name>Manchester University Press</publisher-name>
+         <publisher-loc>Manchester</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Manchester University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1729w4d"/>
+      <abstract abstract-type="short">
+         <p>This collection of essays offers a major reassessment of the meaning and significance of emotional experience in the work of Shakespeare and his contemporaries. Recent scholarship on early modern emotion has relied on a medical-historical approach, resulting in a picture of emotional experience that stresses the dominance of the material, humoral body. The Renaissance of emotion seeks to redress this balance by examining the ways in which early modern texts explore emotional experience from perspectives other than humoral medicine. The chapters in the book seek to demonstrate how open, creative and agency-ridden the experience and interpretation of emotion could be. Taken individually, the chapters offer much-needed investigations into previously overlooked areas of emotional experience and signification; taken together, they offer a thorough re-evaluation of the cultural priorities and phenomenological principles that shaped the understanding of the emotive self in the early modern period. The Renaissance of emotion will be of particular interest to students and scholars of Shakespeare and Renaissance literature, the history of emotion, theatre and cultural history, and the history of ideas.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.4</book-part-id>
+                  <title-group>
+                     <title>Notes on contributors</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Meek</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sullivan</surname>
+                           <given-names>Erin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In the penultimate scene of William Shakespeare’s<italic>Richard II</italic>, Richard is alone in prison, reflecting upon his misfortunes – and his emotional state. In a typically comparative mode, Richard likens his empty cell to the world, and resolves to populate it with his own thoughts:</p>
+                     <p>My brain I’ll prove the female to my soul,</p>
+                     <p>My soul the father, and these two beget</p>
+                     <p>A generation of still-breeding thoughts;</p>
+                     <p>And these same thoughts people this little world,</p>
+                     <p>In humours like the people of this world,</p>
+                     <p>For no thought is contented.¹</p>
+                     <p>In this complex passage, Richard’s discontented thoughts are said to resemble the variety</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The passions of Thomas Wright:</title>
+                     <subtitle>Renaissance emotion across body and soul</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sullivan</surname>
+                           <given-names>Erin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>In the study of Renaissance emotion, especially in relation to Shakespeare and his contemporaries, it doesn’t take long before coming across the work of Thomas Wright (<italic>c.</italic>1561–1623).¹ His<italic>The Passions of the Minde in Generall</italic>, first published in 1601, has become something of a touchstone for literary scholars, offering a detailed description of embodied passion that has often been used as a gloss on dramatic and poetic representations of affective experience. In 2004 Mary Floyd-Wilson described Wright’s<italic>The Passions</italic>as ‘a handbook on rhetoric and the management of one’s emotions’, and a decade later one could be forgiven</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>‘The Scripture moveth us in sundry places’:</title>
+                     <subtitle>framing biblical emotions in the Book of Common Prayer and the Homilies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bagchi</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>In 1549, when the<italic>Book of Common Prayer</italic>was first published, the people of the West Country rose up against it. ‘We will not receive the new service’, they protested to the young Edward VI, ‘because it is but like a Christmas game’.¹ Seven thousand Cornish rebels were prepared to fight and to die for this conviction. But less than a century later, on the eve of the Civil War, the people of Cornwall issued another set of demands to another king. This time, they petitioned Charles I in near bibliolatrous terms ‘to eternize (as far as in you lies)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>‘This was a way to thrive’:</title>
+                     <subtitle>Christian and Jewish eudaimonism in The Merchant of Venice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coodin</surname>
+                           <given-names>Sara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>In the opening lines of Shakespeare’s<italic>The Merchant of Venice</italic>, Antonio insists upon the profound effects of his sadness – and upon his utter ignorance of its causes.</p>
+                     <p>In sooth, I know not why I am so sad,</p>
+                     <p>It wearies me, you say it wearies you;</p>
+                     <p>But how I caught it, found it, or came by it,</p>
+                     <p>What stuff ’ tis made of, whereof it is born,</p>
+                     <p>I am to learn;</p>
+                     <p>And such a want-wit sadness makes of me</p>
+                     <p>That I have much ado to know myself.¹</p>
+                     <p>Antonio’s strong externalist description of emotion as something that happens to him – ‘I caught</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Robert Burton, perfect happiness and the visio dei</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lund</surname>
+                           <given-names>Mary Ann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>Happiness is in short supply in<italic>The Anatomy of Melancholy</italic>. At the beginning of the main body of his book, Robert Burton (1577–1640) reminds us that, before the Fall, humankind was ‘pure, divine, perfect, happy’ (vol. 1, p. 121). All this was lost with the advent of sin. A state of permanent discontent took its place, which, in the broadest sense of the word, is what constitutes melancholy:</p>
+                     <p>from these Melancholy Dispositions, no man living is free, no<italic>Stoicke</italic>, none so wise, none so happy, none so generous, so godly, so divine, that can vindicate himselfe, so well composed,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Spleen in Shakespeare’s comedies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wood</surname>
+                           <given-names>Nigel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>In<italic>A Midsummer Night’s Dream</italic>, Lysander realises early in the action that lovers resemble poets and the mad in that they have access to perceptions that confound common sensibilities. Any ‘sympathy in choice’ is prey to ‘war, death, or sickness’, rendering it ‘momentany as a sound’,</p>
+                     <p>Swift as a shadow, short as any dream,</p>
+                     <p>Brief as the lightning in the collied night,</p>
+                     <p>That, in a spleen, unfolds both heaven and earth,</p>
+                     <p>And, ere a man hath power to say ‘Behold!’,</p>
+                     <p>The jaws of darkness do devour it up:</p>
+                     <p>So quick bright things come to confusion.</p>
+                     <p>But we know we are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>‘Rue e’en for ruth’:</title>
+                     <subtitle>Richard II and the imitation of sympathy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Meek</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>In Act 1 Scene 3 of<italic>Richard II</italic>, Mowbray describes his sorrow at being banished from England, calling his sentence a ‘speechless death’ that will prevent his tongue from ‘breathing native breath’ (1.3.172–3). Yet Mowbray’s eloquent lament fails to influence the monarch who has banished him; as King Richard says, ‘It boots thee not to be compassionate. / After our sentence, plaining comes too late’ (1.3.174–5). Richard suggests that Mowbray’s speech is a deliberate attempt to move him to mercy and compassion, but that the complaint is belated and ineffective.¹ At this point in the play, then, Richard</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>What’s happiness in Hamlet?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chamberlain</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The emotions are not simply a matter for literature: critics have them too. Or, more interestingly, perhaps, they play an important role in the critical process which goes far beyond any naively expressive response to the emotional content of literary works. The reading of<italic>Hamlet</italic>presented here raises this as a problem in the theory and history of emotions, in that it foregrounds the questions of what happiness and unhappiness are, and of how they might best be deployed in acts of criticism. Happiness, one might think, must be scarce enough in this play, and indeed it is, at least</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>‘They that tread in a maze’:</title>
+                     <subtitle>movement as emotion in John Lyly</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kesson</surname>
+                           <given-names>Andy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>On Shrove Tuesday 1584, Elizabeth and her courtiers sat down to watch John Lyly’s<italic>Sapho and Phao</italic>.¹ They saw a play about the mutual infatuation of the Queen Sapho and the ferry boy Phao, an infatuation engineered by Venus in order to ‘conquer’ the Queen’s virginity (1.1.40). This play therefore asked exacting questions, about royal sexuality and social status, of an audience arranged around a female monarch and her court. As Susan Doran and John Guy have shown, neither virginity nor court patronage was a neutral term in the 1580s, and despite Lyly’s modern reputation as a reassuringly conservative courtly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>(S)wept from power:</title>
+                     <subtitle>two versions of tyrannicide in Richard III</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kaegi</surname>
+                           <given-names>Ann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>200</fpage>
+                  <abstract>
+                     <p>‘Be it lawful that I invocate thy ghost / To hear the lamentations of poor Anne’: as Lady Anne addresses these words to a corpse, we might suppose her question to be rhetorical, but Anne has already questioned whether ‘ honour may be shrouded in a hearse’, and despite the vehemence of her ensuing declamation she betrays niggling doubts about the effectiveness of her lamentation, describing her tears oxymoronically as a ‘helpless balm’.¹ However heightened her emotions, the grammatical mood of her utterance is the optative subjunctive: Anne does not assume so much as<italic>wish</italic>that her obsequies will be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The affective scripts of early modern execution and murder</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bain</surname>
+                           <given-names>Frederika</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>A brief anecdote appears in the<italic>Mémoires</italic>of the valet of Louis XVI: on being informed of his coming execution, the monarch requested the account of the death of Charles I in Hume’s<italic>History of England</italic>(1754–61), which he read over for days leading up to the event. ‘Louis would appear to be using Hume’s narrative’, the historian Donald Siebert suggests in recounting the story, ‘as a script for his own imminent tragic performance.’¹ Apparently the effort was successful, as his affect and mien at the guillotine were praised for their grace and regal quality. Louis’s study of Hume’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Discrepant emotional awareness in Shakespeare</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>White</surname>
+                           <given-names>R. S.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rawnsley</surname>
+                           <given-names>Ciara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>241</fpage>
+                  <abstract>
+                     <p>Emotions-based commentary on early modern literature, and Shakespeare in particular, may suffer from a reductiveness due to reluctance to reflect multiple emotional states present simultaneously, either within an individual as ‘mixed emotions’, or between different characters often listening ‘at cross purposes’, or between characters and the audience (‘dramatic irony’). This perceived deficiency arguably stems from three basic assumptions that can be challenged. First, there has been recently an emphasis on the physiological approach to emotions, which suggests that early modern theory analysed feelings as primarily stemming from the body.¹ In general terms this approach is clearly justifiable in the light</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.17</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Holbrook</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>Samuel Johnson said that reading Shakespeare would help ‘a confessor predict the progress of the passions’.¹ Shakespeare’s works have always been a prime location of powerful and intense feeling, telling us that passion is not just an unavoidable but a positive aspect of human experience. ‘O, you are men of stones!’ cries Lear at the end of his play to those around him: there is something morally wrong with restraint of feeling at this dreadful moment.² Cold-heartedness, lack of feeling, a cool, detached perspective on life: all that is declared by Lear to be less-than-human. As Johnson’s remark indicates, Shakespeare’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1729w4d.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

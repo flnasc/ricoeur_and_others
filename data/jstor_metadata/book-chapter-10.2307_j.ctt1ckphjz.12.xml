@@ -1,0 +1,715 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ckphjz</book-id>
+      <subj-group>
+         <subject content-type="call-number">R729.5.H4E84 2001</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Medical ethics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Chronically ill children</subject>
+         <subj-group>
+            <subject content-type="lcsh">Care</subject>
+            <subj-group>
+               <subject content-type="lcsh">Moral and ethical aspects</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Health Sciences</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ethical Deliberation in Multiprofessional Health Care Teams</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Doucet</surname>
+               <given-names>Hubert</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Larouche</surname>
+               <given-names>Jean-Marc</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Melchin</surname>
+               <given-names>Kenneth R.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>06</month>
+         <year>2001</year>
+      </pub-date>
+      <isbn content-type="epub">9780776615882</isbn>
+      <isbn content-type="epub">0776615882</isbn>
+      <publisher>
+         <publisher-name>University of Ottawa Press</publisher-name>
+         <publisher-loc>Ottawa</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2001</copyright-year>
+         <copyright-holder>University of Ottawa Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1ckphjz"/>
+      <abstract abstract-type="short">
+         <p>This study analyzes both pragmatic and theoretical perspectives of ethical deliberation, as well as the professional and philosophical backgrounds for the ethical deliberation of social workers, nurses and doctors working in the field of chronic illness. In doing so, this volume expands the scope of current research through an analysis of the process and its dynamics.</p>
+      </abstract>
+      <counts>
+         <page-count count="336"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Doucet</surname>
+                           <given-names>Hubert</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Technological changes have had a dramatic impact upon the financing, organization and delivery of health care services in Canada. Professionals and health care decision makers now wrestle with increasingly complex sets of challenges that must involve various types of professionals in programs of care. The result is that administrators, nurses, physicians, social workers and other professionals have had diverse roles to play in programs of care and, consequently, have insisted that their voices be heard in the decision-making process alongside the voices of patients and their families. Needless to say, the ensuing discussions have become difficult because the diverse professional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.4</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Historical Context:</title>
+                     <subtitle>Deliberation and Methodology in Bioethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Doucet</surname>
+                           <given-names>Hubert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>The revival of interest in ethical issues concerning biomedicine and health care in the mid-sixties was undoubtedly a search for meaning. Not only was it a protest against certain types of experimentation on human subjects, it also represented a desire to make medicine a more humane enterprise. Whatever interpretation the ethical project of the time took—for example, Van Potter and André Hellegers developed different approaches to bioethics—the revival was oriented toward a promotion of the kind of medicine that is moral.</p>
+                     <p>In this search for meaning, methodological issues could not be avoided. On the contrary, they were an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.5</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part 1</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>One of the overall objectives of this study is to investigate how professionals involved in long-term care units in pediatric chronic care experience value conflicts and make decisions on ethical issues.¹ Therefore, we are interested in professionals as<italic>moral agents</italic>. Are they experiencing these value conflicts and making their ethical decisions as<italic>moral reproducers</italic>, referring to explicit codes or institutional standards; as<italic>moral interpreters</italic>of codes and standards in light of values such as dignity; or as<italic>moral creators</italic>, with emphasis on shared responsibility and on recognition of the complexity of the situations and the uncertainty of ethical decisions? Before</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>The Nurse as Moral Agent</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>This chapter considers the profession of nursing as it is exercised in the field of pediatric chronic illness. We begin with a general sociohistorical sketch from which we observe the emergence of indicators that form the dimensions of the “implicit ethics” of three ideal types of nurses. This is followed by an illustration of how each of the ideal types addresses the four ethical themes of concern in this study: autonomy, economics, location of care and decision making. The chapter concludes with a synthesis that presents the nurse as moral agent and with concluding statements. In order to provide the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>The Physician as Moral Agent</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>We present here a parallel to the chapter on nursing, keeping in mind that there will not be the repetition of much of the historical and social data that provide the context for our discussion. This chapter considers the physician and the exercise of this profession in the field of pediatric chronic illness. A brief historical sketch provides the background from which to observe the emergence of the indicators and the<italic>implicit ethics</italic>of three ideal types of physicians. This is followed by illustrations of how each of the ideal types addresses the ethical themes of autonomy, location of care,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>The Social Worker as Moral Agent</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>In the course of the literature search on nurses and physicians, the indicators drawn from professional journals and texts were collected into dimensions that gave us three ideal types of each profession with distinct approaches to ethical issues due to their distinct implicit ethics. In the course of the documentary analysis on the social worker, having used a corpus of literature comparable to that for physicians and nurses, it became evident that our discussion of the social worker would be different. First of all, it is clear that for the social worker in the field of pediatric chronic illness, there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Synthesis of Part 1</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>The objective of this part of the study was to use the tools of ideal type, a “portrait,” to provide the background to examine both the ways in which conflicts of values are lived and the ways in which ethical decisions are made in long-term care units of pediatric hospitals. The most fruitful result of this documentary research has come as<italic>insights</italic>into the professional interaction of physicians, nurses and social workers. This interaction is considered on both intraprofessional and interprofessional levels.</p>
+                     <p>Analysis of professional interaction shows three points of interest:</p>
+                     <p>1. It is significant to note that in sketching</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.10</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part 2</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Currently, health care practitioners who must wrestle with ethical issues in their daily work experience are confronted with a diversity of theories and principles in the field of ethics. Professionals do not have a standardized set of ethical tools and methods for deliberating and deciding on issues. Rather, they must choose among diverse sets of such tools. Furthermore, their own personal choices are never the last word. They must work with other professionals whose approaches to ethics are often quite different. These differences often give rise to conflicts. In health care institutions, these conflicts often must be resolved through discourse</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Theories of Discourse Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sauer</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>One of the fundamental assumptions of the liberal tradition of democracy, and so of the institutions nourished explicitly or implicitly by that tradition, is that there are a plurality of values that can conflict with one another and that are not reducible to one another. Consequently, it is widely accepted that value conflicts will not be eliminated. We do not expect to resolve our value conflicts to the satisfaction of all parties.¹ However, this belief sets up a problem for social living. How can this irreducible pluralism of values be combined with a notion of legitimate social or collective action?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>The Cognitional Theory of Bernard Lonergan and the Structure of Ethical Deliberation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The preceding chapter by James Sauer presents a brief overview and analysis of some of the principal contributors to the theoretical literature in discourse ethics. Sauer identifies two main approaches in this literature, the contextualists and the proceduralists.</p>
+                     <p>The focus of the proceduralists (e. g., Habermas, Rawls, Ackerman) is on the structure of ethical discourse and/or the political contracts and institutions that establish procedures for adjudicating conflicting value claims. Their interest is in general structural features that operate in all ethical discourse regardless of context or ethical content. In their view, all participants are rationally bound to accept these norms</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Value Conflicts in Health Care Teams</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monette</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>Conflicts among professionals in health care teams often involve differences over values. As was observed in part 1, these value differences are often implicit and are often related to the diverse ways in which professionals of different types understand themselves and their work. The field of conflict resolution has developed a range of insights into the dynamics of conflicts and a range of tools for helping disputants move toward resolution in situations of conflict. In this chapter we will examine some contributions from this field, particularly those contributions that lend themselves to better understanding value conflicts in health care contexts.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.14</book-part-id>
+                  <title-group>
+                     <title>Conclusion to Part 2</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Part 2 of this project began with a survey of literature in the field of discourse ethics. Chapter 6, by James Sauer, identified two main lines of theory in this field—the proceduralists and the contextualists—and provided preliminary arguments for the complementarity of the two. Chapter 7, by Kenneth R. Melchin, introduced the cognitional theory of Bernard Lonergan as an ethical framework for the project and drew upon insights from Lonergan scholarship to identify how proceduralists, contextualists and cognitional theorists can contribute to an understanding of ethical discourse in health care teams. The work of part 1 of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.15</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part 3</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Part 3 of this study takes the results of parts 1 and 2 and applies them to a case-study, action-research context. Two teams of health care professionals from Anglophone and Francophone pediatric chronic care institutional settings volunteered to participate in videotaped discussions of case studies involving ethical issues typically encountered in their work. These videos were then examined by the research team in the light of the analyses of parts 1 and 2. In keeping with the overall goals of this study, the observers focussed on the ethical deliberation process. We sought to determine whether insights from the implicit ethics</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Action Research on Ethical Deliberation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monette</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>The goals of this action-research stage of the project were twofold: (1) to determine, on the basis of an anecdotal study of the videos, if evidence of the features of ethical deliberation in multiprofessional teams gleaned from the analyses of parts 1 and 2 could be observed in the case conferences; (2) to use insights from the literature and observations from the videos to construct a<italic>Guide for Ethical Deliberation</italic>that could aid health care professionals in their ethical deliberations.</p>
+                     <p>The work of the action research went forward with these two goals pursued concurrently. The members of the research team,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Guide for Ethical Deliberation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monette</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Doucet</surname>
+                           <given-names>Hubert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>The<italic>Guide for Ethical Deliberation</italic>recognizes that the majority of ethical decisions made in health care settings are the result of deliberations among diverse professionals in health care teams. While hospital ethics committees are often conspicuously identified with ethical issues, the full range of issues involved in patient care involves a wide range of ethical issues that usually remain implicit and are either dealt with or left unexamined in the deliberations among professionals involved in patient care. Frequently, members of health care teams encounter difficulties in talking through concrete ethical issues involving patient care. Just as often, deliberations proceed with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Thinking About Ethical Deliberation in Multiprofessional Health Care Teams</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>The goal of this chapter is to stand back and reflect on the whole project, to ask about the overall framework that guided the research and developed through the project and to examine how this framework unified the various parts of the project. While the theoretical literature in ethics is massive and diverse, three central concerns guided the development of the theoretical framework.</p>
+                     <p>The first concern was linked to the two practical goals of the project: (1) to help understand value conflicts and ethical decision making in the concrete experiences of multiprofessional health care teams; and (2) to develop tools</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.19</book-part-id>
+                  <title-group>
+                     <title>Concluding Reflections</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Melchin</surname>
+                           <given-names>Kenneth R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>The changing face of health care has made the task of patient care much more complex than in past decades. This is especially the case in the field of chronic care. Professionals who care for patients, particular young children, face a bewildering array of challenges for which they often feel ill-prepared. These challenges come from the rapid pace of technological change, the diversity of religions and cultures in our society, the collaborative character of decision making, the restructuring of health care funding, the complexities of our diverse institutions of care and the diversity of citizens’ values regarding the end of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.20</book-part-id>
+                  <title-group>
+                     <title>Appendix A</title>
+                     <subtitle>Database for Documentary Analysis of Part 1</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larouche</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.21</book-part-id>
+                  <title-group>
+                     <title>Appendix B</title>
+                     <subtitle>Analytical Grid for the Action Research of Part 3</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monette</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaherty</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>223</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.22</book-part-id>
+                  <title-group>
+                     <title>Appendix C</title>
+                     <subtitle>Case Studies for the Action Research of Part 3</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>Kevin G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.23</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>243</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ckphjz.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

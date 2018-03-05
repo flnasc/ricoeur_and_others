@@ -1,0 +1,562 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt16f8btr</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16gzcrk</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3317.N486 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nietzsche, Friedrich Wilhelm, 1844-1900</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Phenomenology</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Nietzsche and Phenomenology</book-title>
+         <subtitle>Power, Life, Subjectivity</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Boublil</surname>
+               <given-names>Élodie</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Daigle</surname>
+               <given-names>Christine</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>06</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780253009258</isbn>
+      <isbn content-type="epub">9780253009449</isbn>
+      <isbn content-type="epub">0253009448</isbn>
+      <publisher>
+         <publisher-name>Indiana University Press</publisher-name>
+         <publisher-loc>Bloomington; Indianapolis</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Indiana University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt16gzcrk"/>
+      <abstract abstract-type="short">
+         <p>What are the challenges that Nietzsche's philosophy poses for contemporary phenomenology? Elodie Boublil, Christine Daigle, and an international group of scholars take Nietzsche in new directions and shed light on the sources of phenomenological method in Nietzsche, echoes and influences of Nietzsche within modern phenomenology, and connections between Nietzsche, phenomenology, and ethics. Nietzsche and Phenomenology offers a historical and systematic reconsideration of the scope of Nietzsche's thought.</p>
+      </abstract>
+      <counts>
+         <page-count count="312"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boublil</surname>
+                           <given-names>Élodie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Daigle</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Putting<italic>Nietzsche</italic>and<italic>phenomenology</italic>together in the same sentence might be startling to some, even unpalatable to others. Nietzsche’s writing style along with his rejection of the<italic>Spirit of Gravity</italic>¹ would seem to oppose the very goal of the phenomenological project as well as its foundational and scientific ambition. To Nietzsche scholars, his philosophy would be irreducible to any kind of philosophical school or movement and would need to be treated on its own if one wants to respect the claim for singularity conveyed by his philosophy. To would-be phenomenologists, the socalled nihilistic enterprise led by Nietzsche should not be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Husserl and Nietzsche</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boehm</surname>
+                           <given-names>Rudolf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>Each point of view limits our view.¹ However, a point of view is needed in order to see anything at all. “All life is taking a position,” said Husserl²; it is “an engaging.”</p>
+                     <p>Philosophers’ lives do not seem exempt from this rule. In the end, philosophers are able to reach such a point of view—which is essential for them to see anything at all—only when they “engage,” when they “take a position.”³ Nevertheless a philosopher’s point of view—as little as any other—does not essentially concern itself with what is uncovered by her gaze, since, although indispensable</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Intentional Encounter with “the World”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Daigle</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>In<italic>Human, All Too Human,</italic>Nietzsche begins his investigation by considering the human encounter with objects in the world.¹ His approach to the problem is initially conducted via a critique of Kant’s philosophy in the first chapter, “Of First and Last Things.” The book, written for the free spirit—the one that is freed from all alienating metaphysical illusions—was written in the spirit of the Enlightenment and was dedicated to Voltaire, “one of the greatest liberators of the spirit.”² However, being a liberating book and one for the free spirit (or one for the spirit to be freed) does</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>On Nietzsche’s Genealogy and Husserl’s Genetic Phenomenology:</title>
+                     <subtitle>The Case of Suffering</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Geniusas</surname>
+                           <given-names>Saulius</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>The question of suffering played a prominent part in philosophical reflections until the end of the nineteenth century. In contemporary philosophy, this question is almost entirely forgotten. Of course, one could object to such a claim and suggest that nowadays philosophers address suffering<italic>indirectly</italic>when they turn to the question of pain—an issue by no means uncommon in contemporary philosophical discussions. And yet in these analyses pain is addressed as a phenomenon that falls into the larger class of sensations known as bodily sensations, such as itches, tingles, and tickles.¹ It is highly doubtful whether such a framework can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Live Free or Battle:</title>
+                     <subtitle>Subjectivity for Nietzsche and Husserl</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Golden</surname>
+                           <given-names>Kristen Brown</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>It is well known that Husserl identified the approach and themes of existentialists like Nietzsche with irrationalism. He perceived them as a threat to universal science. Their supposed excesses, seeming dilettantism, and cult-like popularity were a provocation for Husserl’s final version of phenomenology. But as David Carr notes in his introduction to that work,<italic>The Crisis of European Sciences and Transcendental Phenomenology</italic>, in the years leading up to World War II, Husserl could not deny that existentialist approaches with which his project of universal science had long been at odds had brought to people’s attention “something real: a deeply felt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Giants Battle Anew:</title>
+                     <subtitle>Nihilism’s Self-Overcoming in Europe and Asia (Nietzsche, Heidegger, Nishitani)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bonardel</surname>
+                           <given-names>Françoise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>Transplanted into the “ground” of Being, words take on new meaning.¹ Thus some clarification is in order when Heidegger announces that presentation and interpretation will necessarily interpenetrate each other in his “argument” (<italic>Auseinandersetzung</italic>) with Nietzsche. This argument is in no sense demonstrative, as the term is commonly understood, and there is nothing representational about the presentation, which opens the way to the essence of what Nietzsche would have only incompletely thought: nihilism, as the “covert basic law of Western history.”² What, then, does it mean to interpret? It is anything but an intrusion of subjectivity into what is meant to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Fink, Reading Nietzsche:</title>
+                     <subtitle>On Overcoming Metaphysics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dastur</surname>
+                           <given-names>Françoise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>Nietzsche’s role in European thought has been preponderant for at least fifty years. First relegated to literary studies, then, with Hitler’s rise to power, to the domain of ideology (by Alfred Baümler, in particular),¹ his work only begins to be considered as philosophy with the publication of Jaspers’s monograph in 1936² and the lectures Heidegger gave from 1936 to 1940 but did not publish until 1961. The following decade saw the flowering of what may be called “French Nietzscheism” with the publication in 1962 of Deleuze’s<italic>Nietzsche et la philosophie</italic>, which, in some sense, had set the pattern. This period</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Nietzsche’s Performative Phenomenology:</title>
+                     <subtitle>Philology and Music</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Babich</surname>
+                           <given-names>Babette</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Like the manifold significations of Being, phenomenology can be and has been articulated in several ways. To say this is also to underscore that when we choose for one expression of phenomenology, even, say, the most canonic expression, such as Husserl’s, we also tend to choose<italic>against</italic>other approaches. This can go so far as to exclude the late in favor of the early Husserl; in other instances this may include favoring analytic readings and opposing classically continental readings of Husserl’s phenomenology and can entail excluding Heidegger’s or Sartre’s or Merleau-Ponty’s or Günther Anders’ or others’ approaches to phenomenology.¹ To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Of the Vision and the Riddle:</title>
+                     <subtitle>From Nietzsche to Phenomenology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boublil</surname>
+                           <given-names>Élodie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The chapter titled “Of the Vision and the Riddle” in<italic>Thus Spoke Zarathustra</italic>presents the<italic>Nietzschean</italic>test of the Eternal Return. This invitation conveys the premises of the reevaluation to come, since it reverses the traditional connotations associated with riddles, on the one hand, and those related to vision, on the other hand. From the beginning, seeing does not help solve the riddle—as would have been the case within the context of prophetic revelation¹—but it leads to the riddle’s preservation and concealment so that seeing could turn the riddle into the question<italic>par excellence</italic>that would test the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The “Biology” to Come?</title>
+                     <subtitle>Encounter between Husserl, Nietzsche, and Some Contemporaries</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bergo</surname>
+                           <given-names>Bettina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>This essay addresses two problems whose outcome indicates the site where a dialogue between phenomenology and Nietzsche might begin. The first problem can be posed as a question: What is the “biology” to which Husserl refers in Appendix 23 of the<italic>Crisis</italic>(published in 1936) and which is set forth as the “universal ontology”? The second problem concerns embodied consciousness and its life-world. If phenomenology was to serve as the foundation for all scientific endeavors, how then could biology be equated with ontology, and what relationship other than derivative could biology have to phenomenology?</p>
+                     <p>Let us recall the spirit of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Originary Dehiscence:</title>
+                     <subtitle>An Invitation to Explore the Resonances between the Philosophies of Nietzsche and Merleau-Ponty</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chouraqui</surname>
+                           <given-names>Frank</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>One of the most prominent connections between Nietzsche’s thought and the entire phenomenological enterprise lies in Husserl’s founding postulate that the thing-in-itself is an invalid concept. Although Husserl never formulates it explicitly, the development of phenomenology demonstrates the root of this invalidity: the thing-in-itself is a contradiction insofar as a thing is, by definition and by essence, always an object of perception. This is also, of course, one of Nietzsche’s most explicit, best established, and most consistently repeated claims, and perhaps one that has the greater consequence within the overall economy of his thought. Indeed this connection suggests a kinship</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Nietzsche and Merleau-Ponty:</title>
+                     <subtitle>Art, Sacred Life, and Phenomenology of Flesh</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Galen A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>It has been little remarked that Nietzsche’s<italic>Birth of Tragedy</italic>¹ made Raphael’s magnificent painting of the transfiguration of Christ the “monogram” of Nietzsche’s account of the origin of tragedy and his philosophy of art. Moreover, since that work introduces us to the figure of Dionysus, who plays an increasingly definitive role for Nietzsche’s entire philosophy as it unfolds in the later writings, we can add more emphatically that Raphael’s<italic>Transfiguration</italic>, as ironic as it may seem, is the monogram of the philosophy of the death of God. The goal of this paper will be to show how this is the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Philosophy of the Morning:</title>
+                     <subtitle>Philosophy and Phenomenology in Nietzsche’s Dawn</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ansell-Pearson</surname>
+                           <given-names>Keith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>I think it is difficult for any commentator to declare with total conviction that he has got Nietzsche right in terms of identifying him with a single or specific philosophical movement or doctrine. My view is that naturalism, existentialism, phenomenology, and poststructuralism can all, with a degree of plausibility, claim themselves heirs to his thinking.¹ Nietzsche is a thinker whose texts open up “possibilities,” and all these modes of thought can be found prefigured and at work in the text I focus on in this paper,<italic>Dawn</italic>.² Having said this, however, it is remarkable the extent to which this text</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Appearance and Values:</title>
+                     <subtitle>Nietzsche and an Ethics of Life</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hatab</surname>
+                           <given-names>Lawrence J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>If we take phenomenology in a general sense to be concerned with “appearance,” Nietzsche’s philosophy offers a wealth of pertinent material. Yet the meaning of appearance in Nietzsche’s texts is not always easy to fathom. In this chapter I want to explore a “phenomenology of values” by coordinating Nietzsche’s complex approach to appearance with his critique of morality.¹</p>
+                     <p>For Heidegger, Nietzsche represents the culmination of Western metaphysics and nihilism, particularly with his thinking on will to power and eternal recurrence. Presumably Nietzsche remains within the orbit of metaphysics by simply reversing metaphysical binaries (e.g., becoming over being, appearance over truth).²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The Object of Phenomenology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franck</surname>
+                           <given-names>Didier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>258</fpage>
+                  <abstract>
+                     <p>“This universal<italic>a priori</italic>of correlation between experienced object and manners of givenness,” Husserl confided two years before his death, “affected me so deeply that my whole subsequent life-work has been dominated by the task of systematically elaborating on this<italic>a priori</italic>of correlation.”¹ The discovery of this universal a priori, which is none other than that of intentionality, signifies that every being, whatever its meaning, points toward a subjective system of lived experiences; that every being, whatever its region of origin, is the object of a consciousness, or again that its objectivity is phenomenality itself. Thus the intentional analysis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Beyond Phenomenology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franck</surname>
+                           <given-names>Didier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>274</fpage>
+                  <abstract>
+                     <p>“Beyond phenomenology”—what should this expression mean? To begin with, what is phenomenology or what should we understand by the name, whose formation occurred so late? Through what movement, according to what logic, by virtue of what necessity should phenomenology be carried beyond itself? Moreover, what indeed could be the end or destination of such a movement, when phenomenology asserts and maintains that there is nothing to seek beyond the phenomena?</p>
+                     <p>This taboo nevertheless is but the reverse side of an obligation. While the phenomena cannot be surpassed, it is fitting by contrast to determine which ones they are and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16gzcrk.21</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

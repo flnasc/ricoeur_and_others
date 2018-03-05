@@ -1,0 +1,901 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1cd0n2m</collection-id>
+      <volume>2</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cfr8z1</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Archaeology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Land and People</book-title>
+         <subtitle>Papers in Memory of John G. Evans</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Allen</surname>
+               <given-names>Michael J.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Sharples</surname>
+               <given-names>Niall</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>O’Connor</surname>
+               <given-names>Terry</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>09</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9781842173732</isbn>
+      <isbn content-type="epub">9781782973607</isbn>
+      <publisher>
+         <publisher-name>Oxbow Books</publisher-name>
+         <publisher-loc>Oxford; Oakville</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>The Prehistoric Society</copyright-holder>
+         <copyright-holder>Oxbow Books</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cfr8z1"/>
+      <abstract abstract-type="short">
+         <p>This volume is derived, in concept, from a conference held in honour of John Evans by the School of History and Archaeology and The Prehistoric Society at Cardiff University in March 2006. It brings together papers that address themes and landscapes on a variety of levels. They cover geographical, methodological and thematic areas that were of interest to, and had been studied by, John Evans. The volume is divided into five sections, which echo themes of importance in British prehistory. They include papers on aspects of environmental archaeology, experiments and philosophy; new research on the nature of woodland on the chalklands of southern England; coasts and islands; people, process and social order, and snails and shells - a strong part of John Evans' career. This volume presents a range of papers examining people's interaction with the landscape in all its forms. The papers provide a diverse but cohesive picture of how archaeological landscapes are viewed within current research frameworks and approaches, while also paying tribute to the innovative and inspirational work of one of the leading protagonists of environmental archaeology and the holistic approach to landscape interpretation.</p>
+      </abstract>
+      <counts>
+         <page-count count="240"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.3</book-part-id>
+                  <title-group>
+                     <title>LIST OF FIGURES AND TABLES</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.4</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.5</book-part-id>
+                  <title-group>
+                     <title>ABSTRACT</title>
+                  </title-group>
+                  <fpage>xiv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.6</book-part-id>
+                  <title-group>
+                     <title>French Language Abstract</title>
+                  </title-group>
+                  <fpage>xvi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.7</book-part-id>
+                  <title-group>
+                     <title>German Language Abstract</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.8</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>xx</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.9</book-part-id>
+                  <title-group>
+                     <title>EDITORS’ FOREWORD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Mike</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sharples</surname>
+                           <given-names>Niall</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Connor</surname>
+                           <given-names>Terry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xxi</fpage>
+                  <abstract>
+                     <p>This volume of edited papers is dedicated to the memory of John Evans in celebration of his contribution to environmental archaeology, providing a glimpse of the many ways in which he has enriched the subject and touched the lives of so many. It originated from a conference held in his memory at Cardiff in March 2006 which was an academically stimulating weekend with strong, vivid and poignant reminders of John and his engagement with students, people, ecology, the landscape, and their relevance to archaeology. Even John’s dogs, Jodie and Darwin, attended with Vivian Evans, the former making their presence heard</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.10</book-part-id>
+                  <title-group>
+                     <title>TABULA COMMEMORATIVA</title>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.11</book-part-id>
+                  <title-group>
+                     <title>[Part 1 Introduction]</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Environmental archaeology as a discipline relies, in many ways, upon data and parallels gained from, or observed in, biology and the real world. In some cases these observations are made on experiments ranging, from the reconstruction of field movements monuments (eg, Overton Down and Wareham earthwork experiments), to the results of dog-gnawing on bones. Where data are not present as analogues for palaeo-ecological interpretation we are often forced to become ecologists ourselves, and to record and map the ecology of species in their present day habitat. Each study of a subfossil biological assemblage, or that of the geographical properties of,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.12</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Professor John Gwynne Evans, 1941–2005 aka ‘Snails’ Evans – an appreciation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Michael J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>John ‘snails’ Evans, developed a whole new sub-discipline of palaeo-environmental enquiry for archaeology, advancing both the understanding of past landscapes and human activity, and that of palaeo-molluscan ecology. He was an influential figure both as an environmental archaeologist and prehistorian, and as an old-fashioned field naturalist. Although others before him (Zeuner, Dimbleby) had set the course, it was John who almost single-handedly developed the discipline of environmental archaeology and, in 1970, was appointed as lecturer of environmental archaeology at Cardiff, the first post of its kind outside London. He became a Reader in 1982, a Professor in 1994 and retired</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.13</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Culture and Environment; mind the gap</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Connor</surname>
+                           <given-names>Terry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>The landscape around us is the very substance of archaeology. In it are the traces of past human activity that we seek to understand, many of those traces having originated in the response of earlier peoples to the landscape around them. That earlier landscape in turn bore the traces of yet earlier peoples’ ways of shaping and using the land. Successive generations of people living in a locality understand and respond to its particular characteristics in distinctive ways, thereby altering the content and appearance of that landscape for the future, whilst also responding to the landscape features and qualities that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.14</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>‘We opened up a really nice porcelain door handle’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mills</surname>
+                           <given-names>Steve</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="author">with contributions from</role>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pannett</surname>
+                           <given-names>Amelia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Evans</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Price</surname>
+                           <given-names>Kathryn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>On a gravel bank in the River Taff, Cardiff, on the 13th July 2004 ‘we opened up a really nice porcelain door handle’. Thinking about ideas to do with flint knapping in close proximity to rivers, the sounds of flint knapping and why we find assemblages of certain flint material in certain places, we thought we would do some experimental archaeology. It was equally about having fun, fun with archaeology, and why not? There was no specific agenda to this exercise but, from the outset, John was the master of ceremonies. ‘So just for the record, it’s Kathryn and Steve</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.15</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Experimental Archaeology:</title>
+                     <subtitle>changing science agendas and perceptual perspectives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bell</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Experimental archaeology may be defined as the creation of activities and contexts in which ideas about the past can be thought through in practical terms and tested. For instance: how were artefacts made and buildings constructed; what residues are left of particular activities; and what is the capability of a boat? Experiments often mean that some parameters are controlled in order to make precise observations about others, such as the effects of time. The main syntheses of the subject were written 30 years ago or more (Coles 1973; 1979), even then it was a diverse field encompassing many distinct specialisms.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.16</book-part-id>
+                  <title-group>
+                     <title>[Part 2 Introduction]</title>
+                  </title-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>The nature of the postglacial history of the chalklands has long been recognised to be of ecological significance – its relevance to people and archaeology is obvious and is emphasised by the mystery and myth imbued in the environment created within ancient woodlands. But at a pragmatic level, the presence of woodland and its<italic>proximity</italic>to monuments and past activity has clear implications for the nature of that activity.</p>
+                     <p>In recent years there has been much debate about the presence of natural woodland openings and anthropogenic clearances and management, and of the modification and disassembling of the simple, uniform vegetation trajectory</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.17</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>If you go Down to the Woods Today; a re-evaluation of the chalkland postglacial woodland; implications for prehistoric communities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Michael J.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardiner</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>The vegetation history, and its relevance to early prehistoric (postglacial) human communities on the chalk downlands of southern England, was essentially clearly proven and defined in broad terms in the 1970s, largely through the work of John Evans (1971a; 1972; 1975; Evans &amp; Jones 1979). It was confirmed and re-affirmed by later workers (eg, Thomas 1982; Scaife 1980a) etc. Although shaken in the late 1980s by the arguments proffered by Bush and Flenley (1986) and Bush (1988), those arguments were fiercely countered by Thomas (Thomas 1989; Bush 1989). In this paper we summarise the history of the study of chalk</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.18</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Land Snails and Woodland Clearances:</title>
+                     <subtitle>modern ecological studies and their archaeological implications</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davies</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardner</surname>
+                           <given-names>Neville</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>In<italic>Land snails and Archaeology</italic>(Evans 1972), John considered that temporal blurring and spatial mixing of snail populations into recovered covered assemblages made the interpretation of assemblages of from buried soils beneath monuments applicable to the wider environ- ment. He argued that ‘… in a relatively homogeneous environment, such as a cultivated field or chalk downland, the distribution and abundance of a species in the area as a whole tends to be uniform’ (p. 111), and was confident, at the time, that when open-country assemblages were recovered from buried soil surfaces, reflecting either grassland or cultivation prior to monument construction,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.19</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Peopling the Landscape; prehistory of the Wylye Valley, Wiltshire</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardiner</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Michael J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>The Wylye valley, Wiltshire, downstream from Warminster, has seen remarkably little in the way of modern archaeological intervention. This, in large part, is due to the general lack of substantial development in any of the villages that lie along the river. Apart from work that preceded the construction of the Warminster and Codford bypasses on the main A36 trunk road in the early 1990s, the only major archaeological excavations have resulted from the need by the Army to construct new, permanent, range roads to facilitate the movement of heavy military vehicles within the Salisbury Plain Training Area (SPTA), which lies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.20</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>A Landscape Tale of Two Soil Histories in Lowland Zones of England:</title>
+                     <subtitle>the fen-edge of Cambridgeshire and the downland of Cranborne Chase</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>French</surname>
+                           <given-names>Charles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>This tale is something that John was already attuned to. It really arises from studying one area exceptionally well from a soils and pollen perspective, and then turning one’s attention to a new area – in this case the Cranborne Chase area of the Wessex chalk downlands, forcing a re-examination of an existing regional land-use model that has been thought to be well understood. John was always intrigued by what palaeosols could tell you about different landscape histories. Like myself, John was always puzzled by the relative lack of soil data pointing to a wooded chalk downland in the Mesolithic and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.21</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Cows in the Wood</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Healy</surname>
+                           <given-names>Frances</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>John Evans was a power and a force. His energy, originality and independence prompted colleagues to thought, action, disagreement or all three. His pioneering analyses of molluscan assemblages from the Wessex chalkland remained a feature of his career over five decades. This paper examines the role of molluscan analysis in the interpretation of the fourth millennium cal BC monument complex on Hambledon Hill, Dorset (Mercer &amp; Healy 2008) and its large faunal assemblage, which is dominated by cattle.</p>
+                     <p>Hambledon Hill consists of a central dome with three radiating spurs (Fig. 9.1). The extent of its Neolithic earthworks was defined by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.22</book-part-id>
+                  <title-group>
+                     <title>[Part 3 Introduction]</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The study of coasts and islands provides many opportunities. Many sites, now on our coast, may be presevered and protected by depositional processes enveloping them in sequences of blown sand, facilitating both exceptional preservation, and potentially great stratigraphic separation of sequences of activity such as at Gwithian, Brean Down, Nornour and Northton for instance. In many cases their costal position today may belie their location in prehistory. Conversely, others may be exposed by coastal erosion making them available for research for a short window of time before they are ultimately lost to us. Islands allow us to examine island communities</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.23</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Living in the Sands – Bronze Age Gwithian, Cornwall, Revisited</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nowakowski</surname>
+                           <given-names>Jacqueline A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>I first met John in 1988. He was leading a student field trip in west Cornwall and because I had been involved in a major survey of prehistoric field patterns on the north Cornish coast, I was asked if I would lead John’s group around the sites in West Penwith. John was keen to see the results of this large-scale survey at first hand (at that time he was conducting his own field survey on the island of Skomer, Dyfed, Evans 1990, and he wanted to compare notes). All I knew about John was that he was a well-known environmental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.24</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The construction of barrows in Bronze Age Orkney – an ‘assuagement of guilt’?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Downes</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>126</fpage>
+                  <abstract>
+                     <p>The evidence that will be examined in this paper is drawn largely from the results of excavations undertaken as the Orkney Barrows Project, a project involving landscape survey of all Orkney barrow sites (Downes 1997) and excavation of selected barrow cemeteries including Linga Fiold (Fig. 11.1), Gitterpitten, Varme Dale and latterly the Knowes of Trotty (all sites located in west Mainland, Orkney) (Downes forthcoming).</p>
+                     <p>The focus of this study is cremation, as a technology and as series of rituals that create an architecture. This is because at the barrow sites excavated the remains were almost all cremation-related and comprise relatively</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.25</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>On the Islandness of St Kilda</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fleming</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>One of the pleasures of living in south-west Wales is to take the boat to the island of Skomer, in Pembrokeshire – perhaps in May when the bluebells are out, or in October to see the seal pups. For an archaeologist, it is essential to take a copy of John Evans’ paper on the upstanding ‘almost certainly prehistoric’ archaeology of the island, or at the very least a copy of his excellent foldout map (Evans 1990, fig. 2). The product of five weeks’ work with Cardiff undergraduates, John’s Skomer paper represents a neat piece of fieldwork, which no doubt some day</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.26</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Beaker Settlement in the Western Isles</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sharples</surname>
+                           <given-names>Niall</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>In this paper I wish to follow up some conversations I had with John Evans about the distinctive characteristics of Beaker settlement in the Outer Hebrides. In the early stages of his career John had a particular interest in the machair landscapes of northern Britain and he worked with his students on the important Neolithic and Early Bronze Age settlements of Northton, Harris; Udal, North Uist; Rosinish, Benbecula and Skara Brae and Knap of Howar in Orkney (Evans 1979). The results from the work at Northton were particularly important and provided a signifi cant contribution to a seminal paper on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.27</book-part-id>
+                  <title-group>
+                     <title>[Part 4 Introduction]</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>John was famous for his contribution to the discipline of the study of land snails in archaeology. He studied shells, using their ecologies to help with understanding landscape, vegetation patterns, land-use and people. He worked with marine molluscs and discussed their exploitation as well as analysing assemblages from Wales with Vivian Evans. In all cases John was keenly aware of the ecology of the species under examination which was required for the first stage of interpretation – but then those data and interpretations were applied to archaeology; the interpretations were made valid and appropriate to the understanding of human communities, economies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.28</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Environmental Change in an Orkney Wetland:</title>
+                     <subtitle>plant and molluscan evidence from Quoyloo Meadow</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Connor</surname>
+                           <given-names>Terry</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bunting</surname>
+                           <given-names>M. Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>Freshwater Mollusca have perhaps not figured as large in the environmental archaeology literature as their terrestrial counterparts, despite their abundance and habitat specificity. In the case of small bivalves of the genus<italic>Pisidium</italic>, the difficulties involved in their extraction and identification may be a contributory factor. Freshwater Mollusca are undoubtedly at their most valuable as part of a multi-proxy study, integrated as one of several sources of evidence. Recent work in the Orkney Islands has made good use of multi-proxy approaches to reconstruct landscape changes through the mid-Holocene (de la Vega Leinert<italic>et al.</italic>2000; 2007). Sometimes these studies can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.29</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Mysteries of the Middens; change and continuity across the Mesolithic~Neolithic transition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milner</surname>
+                           <given-names>Nicky</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Craig</surname>
+                           <given-names>Oliver E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Current debates on the Mesolithic–Neolithic transition in Britain are largely focused around whether change occurred through indigenous acculturation through contact and innovation (eg, Thomas 2007) or whether new practices and material culture were introduced through the movement of people from the continent (eg, Sheridan 2007). These hypotheses are also concerned with the speed of change with views ranging from the idea that there was a rapid adoption of farming (eg, Rowley-Conwy 2004) to the stance that there was a gradual uptake of farming but a rapid ideological change (eg, Thomas 1999). However, it has been noted that these debates</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.30</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Environmental archaeology of the Roman Villa at Rock, Brighstone, Isle of Wight</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Speller</surname>
+                           <given-names>George R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Preece</surname>
+                           <given-names>Richard C.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parfitt</surname>
+                           <given-names>Simon A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Environmental studies undertaken at Roman villas have tended to focus on food items, either seeds or the remains of domestic livestock that provide insights into the local economy. Some pollen analytical studies have also been undertaken, the most useful often being those from off-site locations where longer records may be recovered (Dark &amp; Dark 1997). Such pollen studies have enabled the reconstruction of the vegetational history and the nature of the regional landscape. Other proxies, such as land snails and small vertebrates, offer insights into the local environments at smaller spatial scales (cf. Evans &amp; Rouse 1992). These groups, which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.31</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Ena montana (Drap.) and Neolithic Woodland Regeneration in Southern England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Robinson</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>Excavations by Dr G. Hey of Oxford Archaeology on a high area of the floodplain of the Thames at Yarnton, Oxon, discovered a ditched rectangular enclosure of probable early Neolithic date. The primary cut of the ditch extended about 1.0m below the surface of the terrace gravels but the ditch had been recuttwice, once in the Middle Neolithic and again in the Middle Bronze Age. The argillic soils which developed above the limestone gravel terraces of the Upper Thames are not conducive to the survival of mollusc shells. However, sufficient gravel had been incorporated into the fills of the ditch</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.32</book-part-id>
+                  <title-group>
+                     <title>[Part 5 Introduction]</title>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>All aspects of archaeology, including environmental archaeology and subdisciplines within it, are ultimately about people in the past. Archaeology has been good at studying the material world that humans have produced and the items they have made, but less good at attempting to understand the people themselves. Attempts to get into the minds of people long gone or to attempt in some small way to engage with their feelings and life styles have often been considered unscientific and unhelpful. Yet humans are a part of the natural world, and they modify it and act as communities within in. Their actions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.33</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>As We Were Saying:</title>
+                     <subtitle>connecting people and places</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whittle</surname>
+                           <given-names>Alasdair</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>John Evans hated formality; anything that involved suits, ties or agendas made him unhappy. This unease extended, I believe, to grand or over-abstract theorising. He was much more comfortable in informal settings; field trips, especially with a small group, or the task of cross-examining a section during excavation, were his<italic>forte</italic>. There he could bring to bear, in particular situations, his extraordinarily wide frame of reference. Looking back on his last two books,<italic>Land and Archaeology</italic>and<italic>Environmental Archaeology and the Social Order</italic>(Evans 1999; 2003), and especially the latter, one might be tempted to see a superficially anecdotal style,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.34</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Manure and the Medieval Social Order</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>For rural communities in medieval England few issues were as vital as soil fertility and few substances more important than manure. To the seigneurial and peasant farmer alike, the quality of manure and its availability were everyday concerns. How freely it could be applied and what might be used to make up the manure heap were significantly affected by social position. Lords had access to large flocks and herds, providing a ready supply of dung (Campbell 2000); they could demand that peasants fold their animals on demesne land, supplementing an already plentiful reserve; and through the labour services owed by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.35</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>The Social Face of Threshing Floors</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paschali</surname>
+                           <given-names>Aikaterini K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>226</fpage>
+                  <abstract>
+                     <p>A man in Kolofana said ‘Things like that are primitive’ when I asked him about the threshing floors. A strange feeling that was – in the middle of nowhere there was a threshing floor – either up on the mountains where the actual process takes place or at the side of the village (Figs 20.1 &amp; 20.2).</p>
+                     <p>At Tholaria, a village at the far north-eastern corner of the island, I asked a man to explain the process to me. They need animals to do the threshing – about 4 horses turning around and pressing the crop to come out – special precautions are needed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cfr8z1.36</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gardiner</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>230</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,427 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">thom14778</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2431.T4613 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, French</subject>
+         <subj-group>
+            <subject content-type="lcsh">21st century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, Modern</subject>
+         <subj-group>
+            <subject content-type="lcsh">21st century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Reference (Philosophy)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Death of Philosophy</book-title>
+         <subtitle>Reference and Self-reference in Contemporary Thought</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Thomas-Fogiel</surname>
+               <given-names>Isabelle</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>TRANSLATED BY</role>
+            <name name-style="western">
+               <surname>LYNCH</surname>
+               <given-names>RICHARD A.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>05</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="epub">9780231519632</isbn>
+      <isbn content-type="epub">023151963X</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7312/thom14778"/>
+      <abstract abstract-type="short">
+         <p>Philosophers debate the death of philosophy as much as they debate the death of God. Kant claimed responsibility for both philosophy's beginning and end, while Heidegger argued it concluded with Nietzsche. In the twentieth century, figures as diverse as John Austin and Richard Rorty have proclaimed philosophy's end, with some even calling for the advent of "postphilosophy." In an effort to make sense of these conflicting positions-which often say as much about the philosopher as his subject-Isabelle Thomas-Fogiel undertakes the first systematic treatment of "the end of philosophy," while also recasting the history of western thought itself.</p>
+         <p>Thomas-Fogiel begins with postphilosophical claims such as scientism, which she reveals to be self-refuting, for they subsume philosophy into the branches of the natural sciences. She discovers similar issues in Rorty's skepticism and strands of continental thought. Revisiting the work of late-nineteenth and early-twentieth-century philosophers, when the split between analytical and continental philosophy began, Thomas-Fogiel finds both traditions followed the same path-the road of reference-which ultimately led to self-contradiction. This phenomenon, whether valorized or condemned, has been understood as the death of philosophy. Tracing this pattern from Quine to Rorty, from Heidegger to Levinas and Habermas, Thomas-Fogiel reveals the self-contradiction at the core of their claims while also carving an alternative path through self-reference. Trained under the French philosopher Bernard Bourgeois, she remakes philosophy in exciting new ways for the twenty-first century.</p>
+      </abstract>
+      <counts>
+         <page-count count="360"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.4</book-part-id>
+                  <title-group>
+                     <title>Translator’s Note</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In <italic>This New Yet Unapproachable America</italic>, Stanley Cavell recounts the following anecdote: “One of the most influential American teachers of philosophy . . . declared . . . that there are only three ways to make an honest living in philosophy: learn some languages and do scholarly work, learn mathematics enough to do some real logic, or do literary psychology.”¹ Far from deploring this situation, in which philosophy is taken up by another discipline, Cavell affirms that it matters little to him, in the final analysis, whether what he does in writing his books is deemed to be philosophical. In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Skeptical and Scientific “Post-philosophy”</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>My analysis of the discourse pronouncing the death of philosophy shall begin with its most resounding assertions and end with its resigned, and even surreptitious, acceptances. Indeed, this theme, so common today, is inflected according to different variations whose nuances we must grasp so that their commonalities are more clearly illustrated at the end of our examination. This is why I will start my inquiry with the most radical antiphilosophers, those we can call, with Vincent Descombes, the “post-contemporary philosophers,”¹ and I will show how their ideas, beneath their manifest differences (since they go from the most radical skepticism to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>“Saying and the Said”:</title>
+                     <subtitle>Two Paradigms for the Same Subject</subtitle>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract abstract-type="extract">
+                     <p>That two traditions as opposed as the Continental and analytic traditions could thus be encompassed within a single thematic calls for a more nuanced justification than a simple assertion. Different reasons undergird this grouping, reasons whose full force won’t be able to appear until my analysis has been completed.</p>
+                     <p>As I showed earlier in <italic>Critique de la représentation</italic>,¹ these two philosophical currents—both the most widely practiced and the most different in style—have as a common horizon a questioning of the concept of representation. But even if these two great movements of contemporary philosophy are both structured around this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Antispeculative View:</title>
+                     <subtitle>Habermas as an Example</subtitle>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Jürgen Habermas’s philosophy seems, across its different periods, to display the most salient trait of contemporary philosophy. This contemporary philosophy is characterized by what we can call its “antispeculative” habitus, a habitus that is entirely structured around a critique of classical metaphysics, generally characterized as a symbol of the hubris of a human thought that desires to subjugate the entirety of what there is under its almighty power. All the trends that I have already discussed could be united under this banner, as could just as easily Derridian deconstruction. Habermas has illustrated this vast genre, the veritable backbone of contemporary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Kant’s Shadow in the Current Philosophical Landscape</title>
+                  </title-group>
+                  <fpage>96</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Kant expresses himself in multiple ways—this is why current proposals to renew or “reappropriate”¹ the critical project do not all move in the same direction. Thus, if we undertake an analysis of these contemporary returns to Kant, we ought to distinguish two general ways of reading Kant— one starting from the <italic>Critique of Judgment</italic> and regulative judgment; the other from the notion of the a priori and from the transcendental, the fulcrum of the <italic>Critique of Pure Reason</italic>. But, as in previous chapters, we will see how these two ways of reading Kant embody the oscillation that I have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>A Definition of the Model:</title>
+                     <subtitle>Scientific Learning and Philosophical Knowledge</subtitle>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Doctrines that variously express one of the three characteristics that I have delineated—(1) philosophy’s scientificity, (2) examination of the nature of pragmatic contradiction, and (3) the problem of the status of the philosopher’s discourse as a problem of self-reference—are legion throughout the history of philosophy. On this point, the first required trait (namely, the affirmation of philosophy as a science in the face of a devastating skepticism) is superbly embodied by the dispute between Plato and the Sophists. Similarly, many of Aristotle’s arguments could be taken up against contemporary skepticism. And again, the theme of philosophy as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Model of Self-reference’s Consistency</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract abstract-type="extract">
+                     <p>To demonstrate how the proposed model can still allow us to provide a remedy to the aporias diagnosed in part 1—gathered together under the general characterization of a “reflexive deficit”—requires that it confront today’s current theories of self-reference. By refining and specifying it, this confrontation should allow us to reinforce the theory of self-reference that was initially proposed by German idealism in order to cope with the critical project’s failure.</p>
+                     <p>The most fertile of the currently espoused models of self-reference is, as I have already indicated, the one that Paul Ricoeur criticizes as a “doctrine sui-reference,” which tends</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Model’s Fecundity</title>
+                  </title-group>
+                  <fpage>162</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The question of the fecundity of the principle of congruence between a statement and its utterance can be addressed in two parts: an elucidation of the mode of reasoning that gives rise to this principle of self-referentiality, on the one hand, and of its possible modalities of application on the other. The first is probably the most important in that it determines the mode of reasoning that advances philosophy to the rank of a knowledge that aspires to truth by taking self-referentiality as a law, model, and guide</p>
+                     <p>The model of reflexivity as I have just presented it allows me</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Beyond the Death of Philosophy</title>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The key result of my analyses is to bring to light an a priori principle that was not thematized by Kant (who only accepted the a priori in pure analyticity or in the synthesis of categories and intuition) nor by the logical positivists (who deny any a priori other than tautologies, which are, hence, analytic). This a priori, which is not Kantian and does not fall under simple formal logic,¹ is the law of self-reference, which makes possible judgments about the consistency of a system or a certain type of proposition and thereby enables the creation, from itself, of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The “Race to Reference”</title>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The twentieth century, particularly on its analytic side, was undeniably marked by what Jocelyn Benoist does not hesitate to call the “race to reference.”¹ Interest in the problem of reference would be a kind of reaction against Kantian idealism and, in general, against any form of representationalism. With Bernard Bolzano and Gottlob Frege, later with the early Husserl and of course Bertrand Russell, a desire was expressed to return to the object, against a too-exclusive concern for our representations of the object. In a word, the thematization of reference was presented as an offensive against the transcendental—which, by means</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Tension Between Reference and Self-reference in the Kantian System</title>
+                  </title-group>
+                  <fpage>195</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In Kant, the dual question of reference and self-reference is left to be read from his terms “representation” and “reflection”—representation embodying the mind’s movement toward what is not itself, namely, the object; reflection, the mind’s questioning of its own structures. And yet, in the Kantian system, the conjunction of these two notions turns out to be, in the final analysis, impossible. This impossibility is expressed in a strange oxymoron, the use of which causes the entire framework to implode. To demonstrate the incompatibility between these two orientations, I must first bring out the meaning of the term “representation” and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Helmholtz’s Choice as a Choice for Reference:</title>
+                     <subtitle>The Naturalization of Critique</subtitle>
+                  </title-group>
+                  <fpage>217</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The return to Kant is in fact the choice of a single path that brings an end to the tension in the critical project. It is a matter of “returning” to the question of representation as an explication of the relation between a subject and an object. Let’s first of all recall that, from 1810 to 1850, Hegel and his disciples were the main figures on the philosophical scene. Henri Dussort points this out, “From 1800 to about 1840, speculative thought, its famous developers and their disciples occupied the center stage.”¹ Friedrich Engels himself noted that this enthusiasm for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Critique:</title>
+                     <subtitle>A Positivist Theory of Knowledge or Existential Ontology?</subtitle>
+                  </title-group>
+                  <fpage>226</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In <italic>Kant and the Problem of Metaphysics</italic>,¹ Martin Heidegger’s principal concern is to distance Kantianism from the neo-Kantian epistemological interpretation in order to make the <italic>Critique of Pure Reason</italic> the harbinger of the phenomenological revolution. It is not unreasonable to assert, in this respect, that Heidegger’s reading is the systematic counterpoint to Cohen’s. The opposition can be read (1) in their understandings of Kant’s problematic, (2) in their explanations of knowledge, (3) in the importance they accord to one or the other of the <italic>Critique of Pure Reason</italic>’s two editions, and (4) in the meaning that each thinks should be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Questioning the History of Philosophy</title>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract abstract-type="extract">
+                     <p>I have had to say in what precise sense philosophy is a first, distinct, and autonomous science in order to overcome Jacques Bouveresse’s assertion that</p>
+                     <p>the need to teach the history of the discipline (and to preserve the memory or celebrate the cult of a certain number of great figures . . .) constitutes about the only thing that still justifies the existence of a good number of philosophy departments in French universities . . . [and] <italic>is what maintains the idea of philosophy as a distinct and autonomous discipline</italic>.¹</p>
+                     <p>I have thus challenged the idea of the death of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.19</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>250</fpage>
+                  <abstract abstract-type="extract">
+                     <p>All the arguments that I have put forward have had but one goal, to answer Jacques Bouveresse’s charge that “the first to wax indignant over Rorty’s proposals” (namely, “that there is no longer any reason to defend philosophy as an autonomous discipline”) would be well advised to find a “more serious justification than what the philosophers in question would agree to provide,”¹ in this case, either the simple practice of the history of philosophy or the development of a particular local investigation, both of which dodge the difficulties of the problem. I thus wanted to show how it is possible</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.20</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">thom14778.21</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,282 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ppkdj</book-id>
+      <subj-group>
+         <subject content-type="call-number">P35.5.M4E57 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Anthropological linguistics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Mauritius</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hindus</subject>
+         <subj-group>
+            <subject content-type="lcsh">Mauritius-Ethnic identity</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hindus</subject>
+         <subj-group>
+            <subject content-type="lcsh">Diaspora</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mauritius</subject>
+         <subj-group>
+            <subject content-type="lcsh">Ethnic relations</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Little India</book-title>
+         <subtitle>Diaspora, Time, and Ethnolinguistic Belonging in Hindu Mauritius</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Eisenlohr</surname>
+               <given-names>Patrick</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>12</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520248793</isbn>
+      <isbn content-type="epub">9780520939967</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>The Regents of the University of California</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.1525/j.ctt1ppkdj"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Little India</italic>is a rich historical and ethnographic examination of a fascinating example of linguistic plurality on the island of Mauritius, where more than two-thirds of the population is of Indian ancestry. Patrick Eisenlohr's groundbreaking study focuses on the formation of diaspora as mediated through the cultural phenomenon of Indian ancestral languages-principally Hindi, which is used primarily in religious contexts. Eisenlohr emphasizes the variety of cultural practices that construct and transform boundaries in communities in diaspora and illustrates different modes of experiencing the temporal relationships between diaspora and homeland.</p>
+      </abstract>
+      <counts>
+         <page-count count="341"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.5</book-part-id>
+                  <title-group>
+                     <title>Note on Transliteration and Orthography</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In February 1999, two months after I had left Mauritius, having concluded my main dissertation fieldwork, riots erupted on the island for the first time since 1968. The popular singer Kaya had died under suspicious circumstances in police custody, where he had been held on drug charges. Kaya was a member of the Creole ethnic community of Mauritius, most of whom trace their ancestry to African and Malagasy slaves. After the news of Kaya’s death in the central police headquarters of Port Louis became known, protesters took to the streets in suburbs of the capital, attacking police stations and other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Creole Island or Little India?</title>
+                     <subtitle>The Politics of Language and Diaspora</subtitle>
+                  </title-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>Reflecting on the spread of nationalism in the colonial world, Partha Chatterjee, in<italic>The Nation and Its Fragments: Colonial and Postcolonial Histories</italic>, asks whether the worldwide spread of the nation form has condemned postcolonial societies to follow “derivative” models of political organization and identification. Engaging with Benedict Anderson’s thesis of the modularity of nationalism (Anderson 1991, 4, 87), Chatterjee suggests that postcolonial nationhood does indeed stand in a quasi-dialogic relationship with European models of nationality, yet it nevertheless exhibits irreducible difference from them, since it is crucially shaped by the conditions of the colonial encounter (Chatterjee 1993). Since ethnolinguistic nationalism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>An Indo-Mauritian World:</title>
+                     <subtitle>“Ancestral Culture,” Hindus, and Their Others</subtitle>
+                  </title-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Shortly after my arrival in the village I call La Nicolière, I went with Vinod, a Hindi teacher, to the main village temple (<italic>shivala</italic>) to attend the Tuesday night Ramayan gathering. We walked along the Route Royale, the main street of the village, towards the old banyan tree where the road takes a sharp turn past the oldest and largest shops in the village. Offerings of camphor, candles, cigarettes, and flowers to Dee Baba, a minor guardian deity said to linger near the tree, could be seen as we passed by, continuing on to the Telugu temple and then the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Social Semiotics of Language:</title>
+                     <subtitle>Shifting Registers, Narrative, and Performance</subtitle>
+                  </title-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>Hindu Mauritians make use of a wide repertoire of registers and styles of language in order to construct and inhabit interactional stances and claim ethnic and diasporic identities, which raises the issue of performance and its role in establishing social relationships and distinctions.¹ Building on John Austin’s theory of performance, Judith Butler (1990) has conceptualized social identities as created and reproduced through acts of performance, which in turn depend on the citationality of conventional signs recognized by others. Focusing on these qualities of performance, in this chapter I explore the multiple ways in which Hindu Mauritians both construct and align</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Colonial Education, Ethnolinguistic Identifications, and the Origins of Ancestral Languages</title>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>This chapter addresses the intersection of colonialism, nationalism, and language, in particular, it analyzes how the construction of communities in a colonial context was mediated by ideas about language. I show how debates surrounding the establishment of an educational system and educational language policy in colonial Mauritius became a privileged site for contesting hegemonic claims in the form of negotiating the relationships of different groups in a colonial plantation setting. Conflicting approaches to language in education also informed debates about the role and significance of Indo-Mauritians in ascribing an identity to Mauritius with its lack of a precolonial population.At the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Performing Purity:</title>
+                     <subtitle>Television and Ethnolinguistic Recognition</subtitle>
+                  </title-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>Hindu activists in religious organizations and state and para-state bodies, some of whom are also involved in the network of Hindu nationalist organizations that operate in both India and Mauritius, are concerned about the rapid language shift from Bhojpuri to Mauritian Creole among Hindu Mauritians. Interpreting the decreasing use of Bhojpuri as a threat to the reproduction of Hindu difference in Mauritius, and making use of their close connections to state institutions, they are trying to reverse the shift to Creole by arranging for the use of Bhojpuri on national television and radio. As I will discuss below, the use</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Calibrations of Displacement:</title>
+                     <subtitle>Diasporization, Ancestral Language, and Temporality</subtitle>
+                  </title-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>In this chapter I examine the creation and transformation of diasporic “Indianness” in Mauritius through alternative understandings of temporal remove and simultaneity in relation to an Indian homeland. The purpose is to interrogate temporality as a mode of building ethnic and national communities with an eye to how the category of diaspora is thus turned into a malleable entity. In this way, I seek to contextualize diasporization in Mauritius through practices that shift diasporic allegiances, preventing them from being permanently tied to a certain homeland. Language plays a central role in the production and transformation of the relations diasporic communities</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.13</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>Time, Technology, and Language</subtitle>
+                  </title-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>In this book I have sought to account for the emergence of diaspora in practical, phenomenological, and ideological terms by analyzing how a sense of being in diaspora is produced by language and its uses among Hindus in Mauritius. In this, I have focused on the indexical and iconic values of linguistic practices whose deployment in everyday social interaction and metapragmatic discourse results in ethnolinguistic forms of belonging pointing to a diasporic homeland. To be meaningful, these practices depend on a whole range of other linguistic practices and valuations among Hindu Mauritians that are not immediately concerned with issues of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>273</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.15</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppkdj.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,644 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x04rw</book-id>
+      <subj-group>
+         <subject content-type="call-number">GF21.I58 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human ecology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hermeneutics</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Ecology &amp; Evolutionary Biology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Interpreting Nature: The Emerging Field of Environmental Hermeneutics</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Clingerman</surname>
+               <given-names>Forrest</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Treanor</surname>
+               <given-names>Brian</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Drenthen</surname>
+               <given-names>Martin</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>Utsler</surname>
+               <given-names>David</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="series-editor" id="contrib5">
+            <name name-style="western">
+               <surname>Clingerman</surname>
+               <given-names>Forrest</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib6">
+            <name name-style="western">
+               <surname>Treanor</surname>
+               <given-names>Brian</given-names>
+            </name>
+         </contrib>
+         <role content-type="series-editor">Series Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823254255</isbn>
+      <isbn content-type="epub">9780823254293</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x04rw"/>
+      <abstract abstract-type="short">
+         <p>Modern environmentalism has come to realize that many of its key concerns "wilderness" and "nature" among them are contested territory, viewed differently by different people. Understanding nature requires science and ecology, to be sure, but it also requires a sensitivity tom, history, culture, and narrative. Thus, understanding nature is a fundamentally hermeneutic task.</p>
+      </abstract>
+      <counts>
+         <page-count count="400"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Environmental Hermeneutics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Utsler</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clingerman</surname>
+                           <given-names>Forrest</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Drenthen</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Treanor</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Friedrich Nietzsche famously stated: “There are no facts, only interpretations.”¹ Perhaps this could be slightly rephrased: no facts go uninterpreted. There are simply no bare facts, at least if a fact is to be meaningful. Every fact has meaning only in relation to other facts, to context, and to the human understanding itself. In other words, at the heart of every confrontation of concept and perception is the issue of<italic>hermeneutics</italic>: the art and science of interpretation.</p>
+                     <p>The present volume uncovers some of the ways that interpretation takes place in the human relationship to the environment. This collection brings together</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Environmental Hermeneutics Deep in the Forest</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Buren</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Paul Ricoeur said that the main task of hermeneutics is to clarify and mediate “the conflict of interpretations” in the world.¹ If this is true, hermeneutics should be well suited for dealing with heated environmental conflicts, such as local, national, and international conflicts over the use of forests. For their part, these frequently stalemated conflicts between logging companies, government, environmentalists, native peoples, local residents, recreationalists, and others—for example, the old controversy over the spotted owl in the old-growth forests of the Northwestern United States or the ongoing conflict about rain forests in South America—have shown the need for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Morrow’s Ants:</title>
+                     <subtitle>E. O. Wilson and Gadamer’s Critique of (Natural) Historicism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Mick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>In 1975 Edward Hyams, novelist, gardener, broadcaster, anarchist, and a long-time advocate of the need for agriculturally sustainable societies, wrote a political novel,<italic>Morrow’s Ants</italic>.¹ It tells the story of billionaire businessman Graham Morrow’s attempt to build a futuristic city modeled on his intensive study of ant colonies.² The Hive, a massive, largely underground, complex powered by tidal and nuclear energy, will house and feed two hundred thousand people in an entirely self-sustaining manner. But this development, as his opponent (the embittered revolutionary Evans), suggests, comes with a price—the loss of individual liberty, freedom, and creativity. It is “designed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Layering:</title>
+                     <subtitle>Body, Building, Biography</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mugerauer</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>Among the most challenging issues facing environmental hermeneutics is how to think about person-world relationships in an integrated manner—not by way of conceptually separated natural environments and social spheres—as if there were either some “pure nature” untouched by our interpretations and actions or any human life apart from environmental dynamics. Rather, the interactions of the physiochemical and biological, the individuating and communal dimensions—at all scales—provide our subject matter. For instance, it makes little sense to carry on studying “sense of place” and “identity” as we have been, assuming that these phenomena are stable and that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Might Nature Be Interpreted as a “Saturated Phenomenon”?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gschwandtner</surname>
+                           <given-names>Christina M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>Could elements of “nature” appear to us as what Jean-Luc Marion calls “saturated phenomena”?¹ And if so, how might that be useful for environmental thinking? While at first glance it might seem obvious that natural phenomena could be experienced as saturated, Marion himself has never employed such phenomena as examples for his notion of the saturated phenomenon. In fact, there is almost no reference to (nonhuman) animals anywhere in his work and a tree is mentioned only once and in that case is listed together with a triangle as a “technical object” and thus a “poor” phenomenon.² Marion has never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Must Environmental Philosophy Relinquish the Concept of Nature?</title>
+                     <subtitle>A Hermeneutic Reply to Steven Vogel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cameron</surname>
+                           <given-names>W. S. K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>In a series of astute papers over the last fifteen years, Steven Vogel has developed a remarkably compelling social constructivist critique of “nature.” Having drawn on several well-known and widely accepted postmodern worries, he might have appeared vulnerable to the traditional environmentalist’s equally well-known counterthrust: doesn’t the reduction of nature to culture simply efface nature in one last, hubristic and utterly anthropocentric gesture? Yet Vogel’s argument is carefully constructed, the fruit of a thoughtful and sober mind. He carefully avoids the overstatement to which some have been prone. Notwithstanding many excellent arguments, however, Vogel appears not to have carried the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Environmental Hermeneutics and Environmental/Eco-Psychology:</title>
+                     <subtitle>Explorations in Environmental Identity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Utsler</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Environmental hermeneutics is, as the subtitle of this book claims, an “emerging field.” It is not the case that philosophical hermeneutics and environmental discourse have not been thought together before. But a “field” suggests a body of knowledge that is at once diverse yet coherent: Diverse, in that there are multiple perspectives and applications; coherent, in that there are recognizable characteristics that make environmental hermeneutics identifiable as a particular way of engaging environmental philosophy. Hermeneutics itself is widely recognized and understood to have multiple applications across a wide variety of disciplines and themes. Indeed, “environmental hermeneutics” might be simply defined</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Environmental Hermeneutics with and for Others:</title>
+                     <subtitle>Ricoeur’s Ethics and the Ecological Self</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bell</surname>
+                           <given-names>Nathan M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Narrative identity has been a significant area of focus in environmental hermeneutics. This concept of identity builds on Paul Ricoeur’s formulation of the ethical intention of the self: “<italic>aiming at the ‘good life’ with and for others, in just institutions</italic>.”¹ While Ricoeur’s ethical intention has come up in relation to environmental identity, a full formulation of an environmentally focused version of it has not yet been developed. My intention in this essay is to examine Ricoeur’s ethic as it applies to environmental ethics and philosophy. This application is a fresh way to address several major issues of environmental philosophy, while</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Bodily Moods and Unhomely Environments:</title>
+                     <subtitle>The Hermeneutics of Agoraphobia and the Spirit of Place</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Trigg</surname>
+                           <given-names>Dylan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>Shortly after his coach was nearly thrown into the Seine while crossing the Neuilly-sur-<italic>Seine</italic>Bridge in 1654, the French philosopher Blaise Pascal became convinced that an abyss had formed on his left-hand side. Quite apart from the logical improbability that such an abyss was real, this near miss of the Seine had set in a place a reality of Pascal’s own, and one that was entirely independent of the objective properties of the world. Such was the extent of his anxiety that for a while Pascal would require a chair beside him to feel reassurance that he was not on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Narrative and Nature:</title>
+                     <subtitle>Appreciating and Understanding the Nonhuman World</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Treanor</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Common convention, as well as numerous philosophical and scientific accounts, suggests that there are two primary ways of gaining understanding: theory (<italic>theoria</italic>) and practice (<italic>praxis</italic>). In this context, I mean by the former all sorts of abstract ways of coming to know or understand things, with the caveat that in our age pride of place is given to scientific understanding. We tend to think we know things when we can prove them—often without reflection at all on the nature of “proof”—and, consequently, we subject all sorts of inquiry to this quasi-scientific standard. Imagine, for example, a clichéd exchange</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>The Question Concerning Nature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGrath</surname>
+                           <given-names>Sean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>In this chapter, I situate Timothy Morton’s and Slavoj Žižek’s “ecology without nature” (hereafter EWN) within the broader history of transcendental-structuralist ontology.¹ I will argue that, notwithstanding Morton’s recent turn to object-oriented ontology, his deconstruction of a certain notion of nature, which we provisionally describe as the extra-lingual intelligible order, does not deviate from the a-cosmic trajectory of late modern thinking, from nineteenth-century transcendental philosophy, through hermeneutics and semiotics to Lacanian psychoanalysis. Even if something like nature in fact existed, the argument goes, we would have little to say about it, locked as we are into a self-referential meaning system,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>New Nature Narratives:</title>
+                     <subtitle>Landscape Hermeneutics and Environmental Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Drenthen</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Philosophical hermeneutics is built on the assumption that people make sense of their lives by placing themselves in a larger normative context.<italic>Environmental</italic>hermeneutics focuses on the fact that environments matter to people, too, because environments embody just such contexts.¹ This is most obvious for cultural landscapes, yet it applies to the specifically natural world as well: Nature can function as a larger normative context with its own narrative dimension. However, there are many different placial and temporal dimensions at play in our relation to the landscape, which can give rise to different normative interpretations of the meaning of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Memory, Imagination, and the Hermeneutics of Place</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clingerman</surname>
+                           <given-names>Forrest</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>Humans are creatures of the present, and the places that we inhabit oftentimes abet an emphasis on presence. For example, much of our daily interaction occurs in spaces that offer little to discriminate the times of day or season. Artificial lights, heating, air conditioning, walls, and doors maintain a continuous backdrop and regulate the experience of embodiment in space as days and weeks move into the past. Yet we might still find ways to break through mere geometric space, through the anonymity of these situations. In the materiality of these environments, there are fractures and idiosyncrasies that beckon us to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>The Betweenness of Monuments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donohoe</surname>
+                           <given-names>Janet</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>Often when we think about the environment, we think about natural places and the negative impact of the human being upon those places. We think of global warming, melting ice caps, mountain topping, extinction of animals, and other threats to nature. With the increasing public and social emphasis on environmentalism, we are encouraged to think of our impact on the natural environment by recycling more, using water less, and reducing our environmental footprint. The environment we are supposed to be concerned with and thinking about is “out there” beyond the perimeters of our cities where we only go for a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>My Place in the Sun</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wood</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>In this chapter, I pursue the thought that it is via temporality, especially history, that place is distinct from space. I show that this claim survives our moving away from a naïve naturalistic understanding of the past to one constructed and constituted so as to include narrative, intentions, and projections even when these form the basis for serious contestation of what we take to be the past.</p>
+                     <p>The distinction between space and place is not difficult to grasp. On the one hand, geometry, on the other location, permeated one way or the other with meaning. We identify space with measurement,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>How Hermeneutics Might Save the Life of (Environmental) Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Tongeren</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Snellen</surname>
+                           <given-names>Paulien</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>297</fpage>
+                  <abstract>
+                     <p>Can a hermeneutical approach be helpful to environmental moral philosophy? Can it help to deal with the main issues of this applied ethic,¹ that is, the improvement of the disturbed relation between humans and their natural environment, the way this relation ought to be (conceived of), and the moral status of the nonhuman world? And if so, what—if any—would be the limits of this environmental hermeneutics?</p>
+                     <p>In order to answer these questions, we will first ask why environmental moral philosophy would be in need of this hermeneutical move at all: Why not stay within the scope of mainstream</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.20</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.21</book-part-id>
+                  <title-group>
+                     <title>A Bibliographic Overview of Research in Environmental Hermeneutics</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.22</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>373</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>377</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x04rw.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>385</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

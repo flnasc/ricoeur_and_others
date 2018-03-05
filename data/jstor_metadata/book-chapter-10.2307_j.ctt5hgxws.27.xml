@@ -1,0 +1,762 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5hgxws</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Information technology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Employees</subject>
+            <subj-group>
+               <subject content-type="lcsh">Professional ethics</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Telecommunication</subject>
+         <subj-group>
+            <subject content-type="lcsh">Employees</subject>
+            <subj-group>
+               <subject content-type="lcsh">Professional ethics</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Employees</subject>
+         <subj-group>
+            <subject content-type="lcsh">Attitudes</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Professionalism in the Information and Communication Technology Industry</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Weckert</surname>
+               <given-names>John</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Lucas</surname>
+               <given-names>Richard</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib3">
+            <role>Series Editor:</role>
+            <name name-style="western">
+               <surname>Selgelid</surname>
+               <given-names>Michael J.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>10</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781922144430</isbn>
+      <isbn content-type="epub">9781922144447</isbn>
+      <publisher>
+         <publisher-name>ANU E Press</publisher-name>
+         <publisher-loc>Canberra</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>ANU E Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5hgxws"/>
+      <abstract abstract-type="short">
+         <p>Professionalism is arguably more important in some occupations than in others. It is vital in some because of the life and death decisions that must be made, for example in medicine. In others the rapidly changing nature of the occupation makes efficient regulation difficult and so the professional behaviour of the practitioners is central to the good functioning of that occupation. The core idea behind this book is that Information and Communication Technology (ICT) is changing so quickly that professional behaviour of its practitioners is vital because regulation will always lag behind.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Professionalism: It's NOT the job you DO, it's HOW you DO the job (anonymous)</p>
+                     <p>Professionalism, in the sense described in the quotation above, is arguably more important in some occupations than others. It is vital in some because of the life and death decisions that must be made, for example, in medicine. In others, the rapidly changing nature of the occupation makes efficient regulation difficult and so the professional behaviour of the practitioners is central to the functioning of that occupation. The central idea behind this book is that this process of rapid change is relevant to information and communicatxions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.5</book-part-id>
+                  <title-group>
+                     <title>On the need for professionalism in the ICT industry</title>
+                  </title-group>
+                  <fpage>5</fpage>
+                  <abstract>
+                     <p>If information and communications technology (ICT) is to fulfil its potential in improving the lives of all, then the importance of the professionalism of its practitioners cannot be overemphasised. This is, of course, true of all occupations; but, there is an additional reason to highlight this in the case of ICT and other new technologies. In his paper, the Hon Michael Kirby says that Justice Windeyer, one of his predecessors in the High Court of Australia, ʹonce declared of the relationship between law and medical technology, that the law generally marches in the rear and limping a littleʹ. Assuming that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.6</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>The fundamental problem of regulating technology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Preposterous claims</italic>: Dean Acheson, one-time Secretary of State of the United States of America, called his memoirs<italic>Present at the Creation</italic>(1969). It was a clever title, laying claim to having been at the important meetings during and after the Second World War in which the new world order was established.</p>
+                     <p>The claim was faintly preposterous, given that the Second World War grew out of the first, and bore remarkable parallels to other conflicts dating back to the Peloponnesian Wars in ancient times. All history, and all technology, grow out of the giant strides that preceded their current manifestations. We</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.7</book-part-id>
+                  <title-group>
+                     <title>An initiation into ICT professionalism</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>The previous section emphasised problems in adequately regulating new technologies, particularly in the information and communications technology (ICT) industry, and the demands that this places on ICT practitioners to behave professionally. The three papers in this section are all based on the industry experiences of ICT practitioners and contain important reflections on the industry. As such, they are not typical academic papers. Rather, they give insights into how a number of thoughtful practitioners view their work and professionalism in the industry. In many occupations a common way of learning, or being initiated into that occupation, is through apprenticeship or an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.8</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>The maturing of a profession</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ridge</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>There is a significant difference between a person being considered to be ʹprofessionalʹ in their approach to conducting business, whatever that business may be, and a person being part of a profession and therefore considered to be a professional. This difference has created enormous misunderstanding and confusion within the information and communications technology (ICT) sector, and hampered its progress towards being recognised as a profession. Being part of a profession is a vocation requiring knowledge of some department of learning or science, for example, medicine, law, engineering, architecture, accountancy and, more recently, ICT.</p>
+                     <p>Technology, and particularly ICT, more than anything</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.9</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Some ethical imperatives for the computing profession</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Holmes</surname>
+                           <given-names>Neville</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>This chapter focuses on the ethical responsibilities of the computing profession. Governance should be based on ethics and be imposed by authority. The ethical aspects of digital technology should, therefore, be understood before its governance can be expected to be effective. Also, to be respected, governance of the industry should be administered by a knowledgeable authority; that is, by a professional body encompassing the entirety of digital technology. This technology has been developed and exploited in a quagmire of commercialism and hyperbole in which intellectual property law and market dominance determine the direction of development much more than the nature</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.10</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>The uncertainty of ethics in IT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Haughey</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>This paper² focuses on ethical issues that are unique to Information Technology (IT) practice, not ʹethics in the workplaceʹ issues or ʹsales ethicsʹ issues. These latter areas, while very relevant to IT (for example monitoring the workplace or promoting a product), are generic and existed before IT. As a discipline or profession, IT derives from engineering to a degree (the common job title of hardware engineer or the software engineering concept) and, therefore, some of the ethical issues faced by engineering will translate to IT. This is particularly the case with the development of projects and there will be many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.11</book-part-id>
+                  <title-group>
+                     <title>Professions, professionals, and professionalism</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>In this section, the concepts of professions, professionals and professionalism will be examined in more detail.</p>
+                     <p>Someone can be a professional in one or both of two different senses, one broad and the other narrow. Likewise, ʹprofessionʹ can have a broad or a narrow sense. In the broad sense, a profession is anything that is done for a living: a professional golfer or carpenter is one who makes a living out of playing golf or doing carpentry, as distinct from the amateur, who seeks no such reward but pursues the activity just for the love of it. In the narrow</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.12</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>What is an ICT professional anyway?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boughton</surname>
+                           <given-names>Clive</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>The intention of this paper is to instigate ongoing discussion surrounding the connected topics of information and communications technology (ICT) professionalism and the ICT profession. Part of that discussion needs to include suggestions for ʹthe way forwardʹ for the development and recognition of an ICT professional body and the way it should govern/support/protect the professionals within it.</p>
+                     <p>I want to start off by describing some of the types of people that I have met/observed during my time in the systems/software industry and also within academia. The type classifications are mine, are not formal, and carry no essential meaning other than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.13</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>ICT is not a profession:</title>
+                     <subtitle>So what?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weckert</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adeney</surname>
+                           <given-names>Douglas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Information and communications technology (ICT) is not a profession in any significant sense, but this is not a slight on ICT. It is, of course, a profession in an insignificant sense. If a person develops software for a living as opposed to doing it as a hobby, that person is a professional software developer. Some people sing for a living and others just for fun. The former are professional singers while the latter are amateurs. In this sense any occupation is a profession insofar as those engaged in it are making a living from it, but this is not what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.14</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Being a good computer professional:</title>
+                     <subtitle>The advantages of virtue ethics in computing</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Volkman</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>When smart and well-educated professionals misbehave, ethicists have to wonder if we could have done anything to prevent it. After all, while it may be morally satisfying to simply assign full blame for the woes of Enron, Tyco, Worldcom, and others, to corrupt corporate leaders, such an analysis begs the further questions: Why did morally deficient actors rise to such prominent positions in the first place? Why were the prevailing standards, policies, and practices of professional ethics — embodied in implicit and explicit ethical controls — so unable to regulate conduct that in hindsight seems obviously beyond the pale? One</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.15</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Informed consent in information technology:</title>
+                     <subtitle>Improving end user licence agreements</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flick</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Information technology suffers from a distinct lack of care with respect to adequate informed consent procedures. Computer users are commonly asked to consent to various things that could threaten their personal identity, privacy, and property, yet little care is taken in assessing whether the consent is truly informed. Some software even takes advantage of the confusion rife in informed consent procedures in order to install otherwise unwanted software on usersʹ computers (such as adware or spyware). End user licence agreements (EULAs) are a common example of these poorinformed consent procedures, which have their basis in the inappropriate use of medical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.16</book-part-id>
+                  <title-group>
+                     <title>What is good governance?</title>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>The previous sections have considered aspects of regulation and professionalism. Both are important in information and communications technology (ICT) governance. Good governance requires some regulation but, as the Hon Michael Kirby pointed out, regulation has problems and hence the importance of professional behaviour in ICT.</p>
+                     <p>ICT governance can be discussed at various levels, for example the global, national, industry, corporate and project level. These are not wholly distinct, but it is useful to separate them for clarity. Governance at the global level has chiefly been discussed in relation to the Internet, but its discussion is outside the scope of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.17</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Virtuous IT governance:</title>
+                     <subtitle>IT governors can't be virtuous!</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lucas</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>It is not that IT¹ cannot (or ought not) be governed,² but it is rather that, as a field of endeavour, IT governors have nothing against which to measure their virtue: nothing against which to measure their governance efforts.</p>
+                     <p>Why should this be so? Well it turns out that the problem is not with IT governance as such, but in being able to measure governance efforts within a virtuous framework. To be virtuous there must be an ideal against which governance efforts can be measured. I will now shift my discussion from governance particularly to professionalism generally. I do this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.18</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>The decision disconnect</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ridgley</surname>
+                           <given-names>Cecilia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>What is the relationship between ethics, governance, the enterprise, and information and communications technology (ICT) organisations? Why should an ICT practitioner seeking to create organisational value endeavour to understand these relationships? In considering these questions I employed a systems thinking approach to make explicit commonalities between these entities.</p>
+                     <p>In this paper I will begin by establishing the need for understanding these relationships. I will then address how we come to (mis)understand these relationships and concepts through extant definitions, and the implications for design and practice of governance.</p>
+                     <p>I present a top down analysis, examining first the societal and operational levels</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.19</book-part-id>
+                  <title-group>
+                     <title>The place of ethics in ICT courses</title>
+                  </title-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Professionalism, as we have noted previously, has strong links with ethics. A professional is someone who, amongst other things, behaves ethically with respect to his or her occupation. Education is also an important aspect of professionalism. A professional is an expert relative to the general population and this expertise is usually partly a result of being educated in a particular of body of knowledge. It is not surprising, then, that a component of ethics education is commonly considered to be an important element of a professionalʹs education. This is the case in information and communications technology (ICT) and, for a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.20</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Educating for professionalism in ICT:</title>
+                     <subtitle>Is learning ethics professional development?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lindley</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aynsley</surname>
+                           <given-names>Brenda</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Driver</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Godfrey</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hart</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heinrich</surname>
+                           <given-names>Glen</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib7" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Unhelkar</surname>
+                           <given-names>Bhuvan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib8" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilkinson</surname>
+                           <given-names>Kim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>This paper considers professionalism as the product of a process; a status that can be achieved and justified by completing a series of activities. It does not attempt to explain what professionalism is, rather, it explains what the Australian Computer Society (ACS) deems professionals should know and be capable of doing.</p>
+                     <p>In this paper, we aim to convey the following messages:</p>
+                     <p>Professionals require education beyond that offered in a typical university degree.</p>
+                     <p>The ACS Computer Professional Education (CPe) Program is constructed on the established Skills Framework for the Information Age (SFIA, 2008a) plus an additional skill set labelled Professionalism.</p>
+                     <p>To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.21</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>Experiential ethics education for IT professionals</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stoodley</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bruce</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edwards</surname>
+                           <given-names>Sylvia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>This chapter presents a new approach to IT ethics education that may be used by teachers in academic institutions, employees responsible for promoting ethics in organisations and individuals wanting to pursue their own professional development. Experiential ethics education emphasises deep learning that prompts a changed experience of ethics. We first consider how this approach complements other ways of engaging in ethics education. We then explore what it means to strive for experiential change and offer a model which may be useful in pursuing IT professional ethics education in this way.</p>
+                     <p>Since education may be thought of in different ways, we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.22</book-part-id>
+                  <title-group>
+                     <title>Are codes of ethics useful?</title>
+                  </title-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>Codes of ethics or codes of conduct (or both) are often seen as one of the defining parts of professions and of professional organisations. Members of a profession or a professional body are expected to abide by the code. The Australian Computer Society (ACS) is no exception and, in addition to its own code, has endorsed the ʹSoftware engineering code of ethics and professional practiceʹ (ACM).</p>
+                     <p>Despite the fact that codes of ethics are commonplace, controversy surrounds their usefulness and this is evident in the two contributions of this section. Both argue for the value of codes, but such arguments</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.23</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>ICT governance and what to do about the toothless tiger(s):</title>
+                     <subtitle>Professional organisations and codes of ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gotterbarn</surname>
+                           <given-names>Don</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Information and communications technology (ICT) is infamous for unfortunate incidents in planning, development, and delivery. A typical response to these incidents is to both complain about the toothless tiger of technical and professional standards that are not enforced, or enforceable, and to also advocate the development and implementation of strong government regulations — licensing and legislation. These regulations constitute one form of what has been called ʹICT governanceʹ. Unfortunately, there are significant limitations to both approaches to ICT governance.</p>
+                     <p>The purpose of this paper is to define strategies, which professional organisations can use to meet their responsibilities to the ICT</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.24</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>Business benefits from keeping codes of ethics up to date</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bowern</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burmeister</surname>
+                           <given-names>Oliver K</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>The greater the extent to which a code of ethics is kept up to date, the better is the case that it benefits business to abide by that code. In 2010 the Australian Computer Society (ACS) updated its code of ethics after an extensive review, including national focus groups with members, and international input. Its last update, in 1985, predates most of the recent industry advancements. It was undertaken prior to advances and innovations, such as object-oriented techniques, the Internet and nanotechnology, of the last two decades. Industry currency of the ACS code is important if it is to have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.25</book-part-id>
+                  <title-group>
+                     <title>Ethics first or ethics last?</title>
+                  </title-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>In the first chapter of this book the Hon Michael Kirby showed the difficulties of regulating new technologies, information and communications technology (ICT) included. These difficulties, we argued, highlight the need for a high level of professionalism in the ICT industry and sections two to six all focused on aspects of ICT professionalism. This section brings to the fore an important role for the ICT professional that has been in the background in at least some of the earlier papers but is discussed explicitly here; the ICT professionalʹs role in decisions regarding the development and use of technology in society.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.26</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>Ethical issues of emerging ICT applications — a Euro-landscape</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stahl</surname>
+                           <given-names>Bernd Carsten</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rogerson</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>A central problem of the ethics of technology is that it tends to arrive too late. In many cases ethical issues are only recognised when the technology is already on the market and problems arise during its widespread use. Ethics can then become a tool to clean up a mess that might have been avoidable. It is probably not contentious to say it would be desirable to have ethical input at the earlier stages of technology design and development. Indeed, there are ethical theories and approaches that explicitly aim at an early integration of ethics into the technology life cycle</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hgxws.27</book-part-id>
+                  <title-group>
+                     <label>16.</label>
+                     <title>Ethical issue determination, normativity and contextual blindness:</title>
+                     <subtitle>Epistemological studies of the limits of formalism in ethics and their consequences for the theory of governance</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goujon</surname>
+                           <given-names>Philippe</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flick</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>The impact of techno-scientific developments on societal evolution and lifestyles no longer needs to be demonstrated. In particular, the last half of the twentieth century has witnessed a considerable acceleration of the integration of technological elements into the means of economic production and social life in general. The profound transformations that have taken place in the last few decades equally involve energy, transportation, construction, telecommunications, administration, medicine, pharmacy and agricultural sectors. These transformations are closely linked to techno-scientific developments and particularly to stunning developments in information and communications technologies (ICTs). The information society emerging in the contemporary period, however, can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,204 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5hhks8</book-id>
+      <subj-group>
+         <subject content-type="call-number">TJ211.49.G86 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Robotics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Human factors</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Robotics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Moral and ethical aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Robotics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Artificial intelligence</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Machine Question</book-title>
+         <subtitle>Critical Perspectives on AI, Robots, and Ethics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Gunkel</surname>
+               <given-names>David J.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>07</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262017435</isbn>
+      <isbn content-type="epub">9780262305440</isbn>
+      <isbn content-type="epub">0262305445</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5hhks8"/>
+      <abstract abstract-type="short">
+         <p>One of the enduring concerns of moral philosophy is deciding who or what is deserving of ethical consideration. Much recent attention has been devoted to the "animal question" -- consideration of the moral status of nonhuman animals. In this book, David Gunkel takes up the "machine question": whether and to what extent intelligent and autonomous machines of our own making can be considered to have legitimate moral responsibilities and any legitimate claim to moral consideration. The machine question poses a fundamental challenge to moral thinking, questioning the traditional philosophical conceptualization of technology as a tool or instrument to be used by human agents. Gunkel begins by addressing the question of machine moral agency: whether a machine might be considered a legitimate moral agent that could be held responsible for decisions and actions. He then approaches the machine question from the other side, considering whether a machine might be a moral patient due legitimate moral consideration. Finally, Gunkel considers some recent innovations in moral philosophy and critical theory that complicate the machine question, deconstructing the binary agent--patient opposition itself. Technological advances may prompt us to wonder if the science fiction of computers and robots whose actions affect their human companions (think of HAL in 2001: A Space Odyssey) could become science fact. Gunkel's argument promises to influence future considerations of ethics, ourselves, and the other entities who inhabit this world.</p>
+      </abstract>
+      <counts>
+         <page-count count="270"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>One of the enduring concerns of moral philosophy is deciding who or what is deserving of ethical consideration. Although initially limited to “other men,” the practice of ethics has developed in such a way that it continually challenges its own restrictions and comes to encompass what had been previously excluded individuals and groups—foreigners, women, animals, and even the environment. Currently, we stand on the verge of another fundamental challenge to moral thinking. This challenge comes from the autonomous, intelligent machines of our own making, and it puts in question many deep-seated assumptions about who or what constitutes a moral</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Moral Agency</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>The question concerning machine moral agency is one of the staples of science fiction, and the proverbial example is the HAL 9000 computer from Stanley Kubrick’s<italic>2001: A Space Odyssey</italic>(1968). HAL, arguably the film’s principal antagonist, is an advanced AI that oversees and manages every operational aspect of the<italic>Discovery</italic>spacecraft. As<italic>Discovery</italic>makes its way to Jupiter, HAL begins to manifest what appears to be mistakes or errors, despite that fact that, as HAL is quick to point out, no 9000 computer has ever made a mistake. In particular, “he” (as the character of the computer is already</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Moral Patiency</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>A patient-oriented ethics looks at things from the other side—in more ways than one. The question of moral patiency is, to put it rather schematically, whether and to what extent robots, machines, nonhuman animals, extraterrestrials, and so on might constitute an<italic>other</italic>to which or to whom one would have appropriate moral duties and responsibilities. And when it comes to this particular subject, especially as it relates to artificial entities and other forms of nonhuman life, it is perhaps Mary Shelley’s<italic>Frankenstein</italic>that provides the template. In the disciplines of AI and robotics, but also any field that endeavors</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Thinking Otherwise</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>Moral philosophy has typically, in one way or another, made exclusive decisions about who is and who is not a legitimate moral agent and/or patient. We have, in effect, sought to determine the line dividing who or what is considered a member of the community of moral subjects from who or what remains outside. And we have done so by, as Thomas Birch (1993, 315) explains, assuming “that we can and ought to find, formulate, establish, institute in our practices, a criterion for (a proof schema of) membership in the class of beings that are moral<italic>consideranda</italic>.” It is, for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.9</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.10</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>223</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhks8.11</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

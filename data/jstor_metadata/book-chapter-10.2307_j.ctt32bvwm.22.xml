@@ -1,0 +1,568 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32bvwm</book-id>
+      <subj-group>
+         <subject content-type="call-number">RC506.D62 2000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Psychoanalysis</subject>
+         <subj-group>
+            <subject content-type="lcsh">Evaluation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Psychotherapy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Outcome assessment</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Psychoanalysis</subject>
+         <subj-group>
+            <subject content-type="lcsh">Research</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Psychology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Does Psychoanalysis Work?</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>GALATZER-LEVY</surname>
+               <given-names>ROBERT M.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>BACHRACH</surname>
+               <given-names>HENRY</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>SKOLNIKOFF</surname>
+               <given-names>ALAN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>WALDRON</surname>
+               <given-names>SHERWOOD</given-names>
+               <suffix>JR.</suffix>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>02</month>
+         <year>2000</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300065275</isbn>
+      <isbn content-type="ppub">0300065272</isbn>
+      <isbn content-type="epub">9780300146158</isbn>
+      <isbn content-type="epub">0300146159</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>New Haven; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Robert M. Galatzer-Levy</copyright-holder>
+         <copyright-holder>Henry Bachrach</copyright-holder>
+         <copyright-holder>Alan Skolnikoff</copyright-holder>
+         <copyright-holder>Sherwood Waldron, Jr.</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt32bvwm"/>
+      <abstract abstract-type="short">
+         <p>This important book is a thorough survey of every major study of the efficacy of psychoanalytic treatment. The authors-all well-known psychoanalysts-critically analyze the studies and their findings, discuss the issues that have been and should be explored in such studies, and examine the problems in conducting research into psychoanalytic outcomes. The authors begin by providing a definition of psychoanalysis, establishing central psychoanalytic goals, and determining what questions need to be addressed in assessing whether analysis is effective. They then describe their methods and criteria for evaluating modern research on psychoanalytic outcome and apply these criteria to four major studies of adult psychoanalytic patients, several studies of child and adolescent analysis, and some small-group studies. They find that all the studies show that psychoanalysis is an effective treatment for many patients-and that some cherished assumptions about psychoanalysis are probably wrong. In the final part of the book, the authors address the challenges of collecting empirical data on psychoanalysis and explore the possibilities inherent in the single-case study.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+                  <abstract abstract-type="extract">
+                     <p>During the first half of the twentieth century, psychoanalysis and its derivatives enjoyed a unique position: they were the only rational psychotherapies supported by a coherent theory of psychological function and psychopathology. This position, combined with the clinical experiences of successful treatments, convinced many people—mental health professionals and nonprofessionals alike—that psychoanalysis was a procedure that could effectively relieve many forms of psychological suffering.</p>
+                     <p>Analysts did observe analytic failures, which they tended to attribute to misdiagnosis, faulty psychoanalytic technique, or the misapplication of psychoanalysis to forms of psychopathology that are inherently unresponsive to such treatments. Following World War II,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.4</book-part-id>
+                  <title-group>
+                     <title>[PART I Introduction]</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Despite the extensive advances in psychotherapy research during the past quarter-century (Garfield and Bergin, 1994; Roth and Fonagy, 1996), there have been few systematic efforts to address questions about psychoanalysis as therapy. Psychotherapy research, as a distinct and largely independent discipline, not to be confused with the practice of psychotherapy, involves systematic and empirical studies of psychotherapy process and outcome. It has gradually moved from fledgling attempts at empirical investigation, through a period of attempts to approximate a model of then-current medical research, to an increasing focus on interactive, subjective, and humanistic aspects of study (Orlinsky and Russel, 1994). Psychoanalysts</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>What Is Psychoanalysis?</title>
+                  </title-group>
+                  <fpage>5</fpage>
+                  <abstract abstract-type="extract">
+                     <p>A first step in studying whether psychoanalysis is effective is to delimit the treatments that will be called psychoanalysis. Freud (1904) defined psychoanalysis as the <italic>interrelated</italic> methods of observation, a conceptual system, and a therapeutic procedure. But the details of this interrelation are unclear. What boundaries of technique and theory usefully set off psychoanalytic ideas and processes from other activities? How are various ways of thinking about psychoanalysis interrelated? The question of what activities and theory are legitimately called psychoanalytic pervades the history of the field, often resulting in discord (see, e.g., Freud, 1914b, 1924; Oberndorf, 1953; Roustang, 1976; Turkle,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>What Are the Relevant Measures of Psychoanalytic Outcome?</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Answers to questions about the outcomes and efficacy depend on the goals of psychoanalysis. Some people believe psychoanalysis should be judged by its ability to relieve symptoms, while others hold that it is successful to the extent that the patient achieves insight or develops self-analytic capacities (Ticho, 1967). A range of intermediate views are discussed elsewhere in this volume.</p>
+                     <p>Other studies, such as those by Firestein (1978), Pfeffer (1959), and Wallerstein (1986), explore outcomes in terms of multiple aspects of psychological function, such as the ability to love, work, and play, and the development of self-analytic capacities, but the interrelations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Predicting the Course and Outcome of Analysis</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Every psychoanalyst of some clinical experience is aware of apparently unpromising analytic situations that turned out well and of analyses that began favorably but ended badly. Often, with benefit of hindsight, it is possible to identify sources of strength or weakness that were not recognized at the outset. Examples of such situations include barely mentioned but psychologically lifesaving relationships in the patient’s early childhood, or disturbances of thinking not manifest in the initial consultation. The analyst’s particular unresolved conflicts that lead to countertransference interferences may impede the ability to work with otherwise promising patients. Sometimes the reasons for unexpected outcomes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Historical Background</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Psychoanalytic investigators have repeatedly tried to answer Oberndorf’s (1943) classic question: what type of treatment is best suited to what kind of patient, suffering from what kind of illness, at what point in life, when treated by what kind of analyst, in what manner? A century of clinical experience has taught us much about the fate of different kinds of cases, the clinical management of the array of patients who consult psychoanalysts, the scope and limitations of the psychoanalytic method, and the qualities of patients that make them suitable or unsuited for psychoanalysis. Over the years there have been many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Menninger Foundation Psychotherapy Research Project</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Systematic, methodologically informed research about psychoanalytic outcomes began with the Menninger Foundation Psychotherapy Research Project. This project is by far the most comprehensive published systematic study of psychoanalytic outcomes. In addition, it is a landmark in-depth study of the adult lives of disturbed individuals and is one of the most thorough studies of development in any adult population. It began in 1954, under the leadership of Lewis Robbins and Robert Wallerstein, as a naturalistic, longitudinal, prospective study. Its aim was to discover what kinds of changes take place in psychoanalysis and psychoanalytic psychotherapy, and how these changes come about. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Columbia Psychoanalytic Center Research</title>
+                  </title-group>
+                  <fpage>74</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In 1959 the Columbia University Psychoanalytic Clinic launched a research effort under the chairmanship of John Weber. Extensive data were collected, coded, and stored on computer tape about the characteristics and outcomes of 700 cases of psychoanalysis and 885 cases of psychotherapy conducted from 1945 to 1971. This was the first systematic study of an extensive sample of psychoanalytic patients.</p>
+                     <p>Approximately 10 percent of the 9,000 patients who applied for low-fee analysis during the study period were accepted. They were treated by candidate-analysts under supervision. Most cases came by direct application to the clinic, but 326 patients were referred for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Boston Psychoanalytic Institute Prediction Studies</title>
+                  </title-group>
+                  <fpage>84</fpage>
+                  <abstract abstract-type="extract">
+                     <p>A third major group of studies of the outcome of psychoanalysis began in the 1950s and continues to this day. The project asks what factors observable during the diagnostic evaluation predict satisfactory analytic progress. In 1960 Peter Knapp and his coworkers reported a project designed to investigate the suitability for analysis of 100 supervised analytic cases. The investigation was limited because the cases were studied only through the first year of treatment. Inspired by Knapp’s work, Sashin, Eldred, and Van Amerongen (1975) studied 130 low-fee control cases that were treated by 66 student-analysts between 1959 and 1966. The patients ranged</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The New York Psychoanalytic Institute Studies</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The investigations we have described so far are disappointing in that they do not provide an empirical basis for the decision of whether to recommend psychoanalysis for a particular patient. Also, they all require unsupported inferences beyond their empirical findings if they are to be applied to the work of experienced analysts with the type of patients whom this group of analysts is likely to work with. A group of researchers at the New York Psychoanalytic Institute is attempting to refine analysts’ predictive abilities regarding treatment outcome. They have focused particularly on the relation between clinic findings and outcome and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Studies of Child and Adolescent Analysis</title>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The study of child and adolescent analysis has always been placed somewhat apart from work with adults. Freud’s (1909) pessimism that children could be analyzed in ways that approximated analytic work with adults was echoed in Anna Freud’s (1927) early recommendations about child psychoanalysis. Melaine Klein (1921, 1961) consistently recommended a technique in working with children that was essentially identical to her recommendation for working with adults, except that the free association of adults was replaced by play in children. For many years Klein’s ideas had little impact on the clinical work of any but her followers, but by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Series of Patients with Specific Conditions</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One classical approach to the study of pathology is to examine a series of patients who are similar in diagnosis, age, treatment approach, or other significant features of their situation in the hope of discovering commonalities among the cases. Although there have been numerous reports of very small numbers of similar cases, in only a few instances have analysts looked at larger numbers of patients in this fashion. In this chapter we review several such studies.</p>
+                     <p>A study that stimulated the hope that more-careful initial evaluations might lead to more effective prescriptions of analysis began in Boston in the 1950s.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Clinical Follow-Up Studies and Case Studies</title>
+                  </title-group>
+                  <fpage>118</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Readers of the earlier chapters in this section will be understandably disappointed that, despite the enormous efforts of investigators, systematic research seems to have addressed few questions that are germane to clinical psychoanalytic practice. Either the population studied is too different from the patients ordinarily taken into psychoanalysis, or the measures of outcome and process are too crude to answer the questions that most interest analysts. The analyst wishes for investigative methods that are closer to the methods customarily used in psychoanalysis, addressing issues that confront her in daily work. The follow-up methods first introduced by Arnold Pfeffer meet many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Summary and Commentary on Systematic Studies</title>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract abstract-type="extract">
+                     <p>We have examined seven systematic, clinical-quantitative studies of terminated psychoanalyses involving approximately seventeen hundred patients experiencing a broad range of psychopathology, treated by approximately 450 students and graduate analysts at five different psychoanalytic training centers. Two provisional clinical-quantitative studies (Erle, 1979; Erle and Goldberg, 1984) have also been reported, involving 139 completed analyses conducted by 23 experienced psychoanalysts with primarily psychoanalytic practices. Seventy-one (mostly candidate) cases have also been studied with Pfeffer’s clinical methodology at three psychoanalytic centers. Here are the principal findings:</p>
+                     <p>The majority of patients selected as suitable for psychoanalysis derive substantial therapeutic benefit from it. The most</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.17</book-part-id>
+                  <title-group>
+                     <title>[PART III Introduction]</title>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In earlier sections of this book we outlined questions about the efficacy, outcomes, and processes of psychoanalysis and summarized the available research data pertinent to these questions. These data show that psychoanalysis is a helpful procedure for many patients. But they do not address a wide range of important issues that we would like to understand better—for example, how the relation of qualities of patients and analysts is reflected in outcome, the relation of psychoanalytic processes and outcome, and the deeper psychological effects of psychoanalysis. Furthermore, each of the systematic investigations we reviewed had technical difficulties. The central problem</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Some General Problems of Psychoanalytic Research</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Before we examine specific methods for systematically investigating psychoanalysis, some general problems require comment.</p>
+                     <p>Increasingly sophisticated research methods promise results from systematic investigations that are more psychoanalytically significant than those of past investigations. However, systematic investigation in psychoanalysis is unfortunately associated in many analysts’ minds, and also in the minds of many friends and foes of psychoanalysis, with a long history of fault finding. This attitude is epitomized in the criticisms of Eysenck (1952, 1966), Hook (1959), Grünbaum (1984, 1994), and Crews and colleagues (1995). Each of these authors asserts a rigidly positivistic view of science and shows that psychoanalysis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Collecting Data About Psychoanalysis</title>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Systematic psychoanalytic research requires a body of data to investigate. Unfortunately, data about analyses adequate for research purposes are difficult to obtain, and much of the data that are available have been so transformed in the process of reduction that investigators cannot be sure of their meaning. The very fact that the data were collected may so affect the analytic process that the data do not adequately represent ordinary psychoanalytic work. Analysts who are willing to collect detailed data about their work may be highly atypical in other ways. Data that appear in published reports are usually chosen because they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Information About Patients</title>
+                  </title-group>
+                  <fpage>166</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Traditionally medical treatments have been organized around the idea that certain qualities of the patient predict the efficacy of treatment. Diagnosis should determine intervention, at least after consideration of other patient attributes, such as overall health, age, and capacity to cooperate in treatment. As we have seen in earlier chapters, this model has not worked well for psychoanalysis. In this chapter we look more closely at ways of describing patients, some of which may prove fruitful in predicting response to treatment.</p>
+                     <p>Psychological tests consist of a standardized series of tasks aimed at the reliable and valid assessment of particular psychological</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Data About Psychoanalytic Processes</title>
+                  </title-group>
+                  <fpage>174</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In studying psychoanalytic processes or any other complex phenomenon, enough data must be collected to be meaningful, the data must be reduced to a tractable form without undue loss of significance, and the extent to which particular findings can be generalized must be described. Not only is the analytic process complex, but it varies from one analysis to another. It is therefore important that many detailed instances of psychoanalytic practice be available for close study. During the eighteenth and nineteenth centuries, the painstaking collection of information in chemistry, descriptive biology, geology, and many other fields led to the generalizations that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Strategies for Exploring Psychoanalytic Processes</title>
+                  </title-group>
+                  <fpage>188</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In this chapter we discuss several strategies for systematically exploring psychoanalytic concepts related to transference and ideas of alliance. In each instance we describe the conceptual basis of the method, how it is used, its validity and reliability, its advantages and drawbacks, and situations where it has found application. We pay particular attention to Luborsky’s Core Conflictual Relationship Theme method because it is the most thoroughly explored and developed of these methodologies.</p>
+                     <p>The Core Conflictual Relationship Theme method was developed by Lester Luborsky, based on repeated examples that he found in psychotherapies that could be characterized in terms of what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Methods of Data Analysis</title>
+                  </title-group>
+                  <fpage>210</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Effective and appropriate data analytic methods have been enormously powerful tools in moving forward many disciplines that deal with complex and difficult to manipulate situations. Typically in such situations it is hard to differentiate specific meaningful effects from other sources of variation in observations (Tanur et al., 1985). Detecting effects within a morass of data, determining most likely values for variables and like variation in those values, studying the likelihood that an apparent effect really depends upon a particular intervention, and estimating the magnitude of the effect are all jobs that have been remarkably well performed statistically. Unfortunately, the very</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Studies of Populations of Patients</title>
+                  </title-group>
+                  <fpage>221</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Many of the questions we would like to have answered about psychoanalysis involve comparing groups of people. Do introspective people do better in analysis than action-oriented people? Do patients seen five times weekly develop more analyzable transferences than those seen less frequently? Are people who have been analyzed better off than unanalyzed people? Do analysts with character structures similar to the patient’s analyze those defenses that patient and analyst share less well than analysts whose defenses are dissimilar to the patient’s (Baudry, 1991)?</p>
+                     <p>These questions share a similar logical structure. It is assumed that two (or more) groups can be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>The Single-Case Method</title>
+                  </title-group>
+                  <fpage>230</fpage>
+                  <abstract abstract-type="extract">
+                     <p>All that we have considered in this volume now brings us to our penultimate point—namely, that single-case methods are the most promising line of approach to exploring the efficacy of psychoanalysis. Case studies differ from case reports in that they employ rigorous and systematic means of collecting, analyzing, and reporting data, with the goal of making the epistemological status of the investigation clear. Case studies explore a single situation in depth and attempt to reach valid conclusions on the basis of such exploration. Because this method is most commonly used to describe complex phenomena, and because many case studies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>Summary and Overview</title>
+                  </title-group>
+                  <fpage>243</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In its first century, psychoanalysis has been widely recognized as providing the richest understanding of the most interesting aspects of human psychology. At the same time, its claims to validity as an empirical science have remained open to question. These questions have been particularly marked with regard to therapeutics.</p>
+                     <p>From its founding until the middle of the twentieth century psychoanalysis was unique as a rational system of therapeutics for psychological distress in which intervention was based on a specific understanding of the genesis of the disturbance. The emergence of alternative rational therapeutics in combination with the promise of treatments requiring</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.27</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32bvwm.28</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

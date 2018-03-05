@@ -1,0 +1,520 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt17w8h2j</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A Tolerant Nation?</book-title>
+         <subtitle>Revisiting Ethnic Diversity in a Devolved Wales</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Williams</surname>
+               <given-names>Charlotte</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Evans</surname>
+               <given-names>Neil</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>O’Leary</surname>
+               <given-names>Paul</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9781783161881</isbn>
+      <isbn content-type="epub">9781783161898</isbn>
+      <publisher>
+         <publisher-name>University of Wales Press</publisher-name>
+      </publisher>
+      <edition>2</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>The Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt17w8h2j"/>
+      <abstract abstract-type="short">
+         <p>A unique interdisciplinary guide to minority ethnic communities and identity in Wales, which critically assesses the idea of Welsh tolerance.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gething</surname>
+                           <given-names>Vaughan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>I am very pleased to be able to write a foreword to the updated version of this pioneering book of essays. When the first edition was published over a decade ago it was the first publication of its kind to document and debate in a sustained way the contribution of black and ethnic minority groups to the history, culture and modern society of Wales. It was the first overview of around 200 years of ethnic diversity in the country and it demonstrated the significance of that diversity for modern society. At the time of its publication devolution was still in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.4</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.5</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.6</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.7</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Race, Nation and Globalization in a Devolved Wales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EVANS</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’LEARY</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>CHARLOTTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>When the first edition of this book was published in 2003 we identified three key themes of significance for the understanding of minority ethnic groups in Wales: race, nation and globalization. These were the key concepts around which the book was organized, and they remain of cardinal importance in thinking through this revised and updated second edition, which includes three entirely new chapters as well as others that have been extensively rewritten in the light of new research. Some of that new research was stimulated by the discussions inaugurated by the first edition of the book. One idea of key</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Immigrants and Minorities in Wales, 1840–1990:</title>
+                     <subtitle>A Comparative Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EVANS</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>Václav Havel believes that a nation can be judged by the way it treats minorities.² Wales has often measured itself favourably by this standard and outsiders have also applied the same rule. It is an encapsulation of one of the subthemes of the Welsh idea of the<italic>gwerin</italic>– the Welsh people were the most upright, God-fearing, radical, moral, philosophical, cultured and tolerant in the world. The principled internationalism of the<italic>gwerin</italic>receives some academic support from one of the major studies in modern Welsh social history, Hywel Francis and David Smith’s The Fed: A History of the South Wales</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Slaughter and Salvation:</title>
+                     <subtitle>Welsh Missionary Activity and British Imperialism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AARON</surname>
+                           <given-names>JANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>Two centuries ago, on 19 October 1816, a young Welsh woman barely seventeen years of age embarked on the good ship<italic>Alacrity</italic>bound on a great adventure. Ann Jones from Llanidloes had married Evan Evans from Llanrwst just a fortnight previously, and she now set sail with her new husband for the Cape of Good Hope, which at that time was part of Britain’s most recently established colony. Motivated by the need to secure for the merchant ships of the East India Company a safe resting place on the sea route to India, the British Crown, after a series of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Other Internationalism?</title>
+                     <subtitle>Missionary Activity and Welsh Nonconformist Perceptions of the World in the Nineteenth and Twentieth Centuries</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JONES</surname>
+                           <given-names>ALED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Historians of modern Wales have, rightly and understandably, shown a keen interest, for example, in Welsh socialist and proletarian traditions of internationalism. What I will try to do here is to suggest that Welsh Nonconformity, too, fostered an internationalist perspective, one that is inescapably linked with, though not necessarily reducible to, the power of the British Empire. I wish to argue that evidence of such internationalism is to be found principally in writing produced by Welsh missionaries based in north-east India between 1841 and 1966. The mission, organized by the Calvinistic Methodist Presbyterian Church of Wales, was concentrated in a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Apes and Cannibals in Cambria:</title>
+                     <subtitle>Literary Representations of the Racial and Gendered Other</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOHATA</surname>
+                           <given-names>KIRSTI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>The late eighteenth- and nineteenth-century imperial project to define the distinctive ethnological and ‘racial’ features of the peoples of empire (as well as the various types of European) had a profound influence on the way different races, nationalities, cultures and even classes were viewed. Fundamental to this project were the supposedly empirical sciences of physical anthropology, such as physiology, phrenology and craniology. The forms of ‘knowledge’ derived from these studies became part of the popular consciousness and, despite the complex characteristics of cultures and peoples, powerful stereotypes were constructed that often denied realities or, indeed, even worked to alter perceived</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Wales and Africa:</title>
+                     <subtitle>William Hughes and the Congo Institute</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EVANS</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JONES</surname>
+                           <given-names>IVOR WYNNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>When missionaries left Britain in the nineteenth century it was normal for church and chapel congregations to sing the missionary hymn, ‘From Greenland’s Icy Mountains’ to speed them on their way. The following lines emphasized the size of the field open for conversion: ‘From India’s coral strand / Where Afric’s sunny fountains / Roll down their golden sand.’² They were written at Wrexham in 1819 by the Reverend Reginald Herber at the behest of his father-in-law Dean Shipley of St Asaph, and while the words stress the immensity of the world and – hence the task of the missionary –</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Through the Prism of Ethnic Violence:</title>
+                     <subtitle>Riots and Racial Attacks in Wales, 1826–2014</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EVANS</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Historical work on ethnic relations in Wales has frequently focussed on the riot. This has been the case for a variety of reasons. Often riots have drawn the attention of historians to an aspect of Welsh society that would otherwise have been hidden under the layers of the myth of tolerance. Secondly, major social conflicts frequently generate a large amount of comment and this enables a reconstruction of attitudes and structures of relationships to be undertaken for the past. This point shades into the third point, which is that such evidence allows the use of a social drama approach to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Playing the Game:</title>
+                     <subtitle>Sport and Ethnic Minorities in Modern Wales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EVANS</surname>
+                           <given-names>NEIL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’LEARY</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>Mass spectator sport is a prominent feature of modern social and cultural life. Since the late nineteenth century it has provided a mechanism for the creation of powerful and enduring group identities, focussed on neighbourhood and municipality, region and nation, empire and race. Equally importantly, sport has been a means of socializing individuals into what it means to be men and women in a particular society at a particular juncture in history. This potent conjunction of gender, nationality and race makes a study of the relationship between ethnic minorities and sport a particularly rewarding one, because the formation of group</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Changing the Archive:</title>
+                     <subtitle>History and Memory as Cultural Politics in Multi-Ethnic Wales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JORDAN</surname>
+                           <given-names>GLENN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEEDON</surname>
+                           <given-names>CHRIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>Recent years have seen the rise of widespread interest in cultural and collective memory and their relation to history, power, voice, identity and representation. This interest is shared by family, local and academic history, museums and community projects and increasingly groups that perceive themselves as marginal to mainstream national and public history. The authors of this chapter have over twenty-five years of experience working with people’s history and community memories. These are areas that we will argue are particularly important in multi-ethnic societies like Wales where they are tied to issues of roots, identity and belonging.</p>
+                     <p>In 2007, we organized</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Religious Diversity in Wales</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAMBERS</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>Welsh religious belief and practice has historically been associated with Nonconformity and an egalitarian religious practice grounded in the local chapel and the Welsh language and culture. Nonconformism emerged as a significant cultural and social force in Welsh society in the late eighteenth century and was consolidated in the nineteenth century. Grounded in religious and cultural dissent and subject to constant schisms, the religious landscape of Welsh was dotted with a patchwork of small Protestant denominations, sects and independent congregations. Taken individually, these groups were diverse in matters of belief and politics. Taken together they constituted something rather more significant,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Extending the Parameters of Social Policy Research for a Multicultural Wales</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SALTUS</surname>
+                           <given-names>ROIYAH</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>CHARLOTTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>224</fpage>
+                  <abstract>
+                     <p>In the two-hundredth edition of<italic>Planet</italic>Neil Evans posed the interesting question: ‘are we getting the social science we need in order to understand Wales in an era of devolved government?’¹ This question provokes a complex set of considerations and debates, not least the relationship between government and academia, between knowledge production and policy making and their links with wider social and political movements.² This debate is pertinent to a consideration of the extent to which social policy research might be harnessed toward the Welsh Government’s political ambition of equality, more specifically, race equality in Wales.³ The question demands a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.18</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Experiencing Rural Wales</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>CHARLOTTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>The link between rural Wales and notions of authentic Welshness has been a long-standing theme in both the academic literature and in popular representations. The Welsh countryside and its imagined characteristics hold a very privileged place in dominant constructions of national identity. Myths of a peaceable and tolerant nation, deeply embedded in the national imaginary are rooted in an idealized Welsh rural community life that summons the trope of the gwerin, a particular form of localized communitarianism to express the values of egalitarianism, classlessness and internationalism. Myths are of course important to nation building but they also function as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.19</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>‘This is the place we are calling home’:</title>
+                     <subtitle>Changes in Sanctuary Seeking in Wales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PAYSON</surname>
+                           <given-names>ALIDA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>277</fpage>
+                  <abstract>
+                     <p>The 1999 Immigration and Asylum Act, following closely on devolution, ‘marked not only a sea-change for British asylum policy but also … for Wales’ and for people seeking sanctuary here.¹ The Act, one in a series of Acts from 1993 to 2009 to redraft asylum policy, is understood principally to have transformed the number and diversity of sanctuary seekers in Wales. For the first time, as part of a policy of ‘no-choice dispersal’, the United Kingdom Government ordered asylum applicants receiving housing support to move to housing sites across Britain, including to Cardiff, Newport, Swansea and Wrexham.² While Wales has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.20</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Getting Involved:</title>
+                     <subtitle>Public Policy Making and Political Life in Wales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHANEY</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>A quarter of a century ago a UK-wide study concluded that ‘non-white access to the political agenda in Britain remains minimal and problematic’.¹ Contemporary analysis suggests that for some this is still the case. It states there remains ‘worrying evidence that … citizens of Black Caribbean heritage do not feel that the British political system has treated them fairly … A just and well-functioning democracy requires that all citizens have fair access to the political arena’.² The academic literature also underlines that ‘ethnicity is a social construct specific to a social and historical context’;³ thus a key question that this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.21</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Claiming the National:</title>
+                     <subtitle>Nation, National Identity and Ethnic Minorities</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>CHARLOTTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>In over a decade of devolution Welshness has been reclaimed and reworked in new and interesting ways. Debates about nation and national identity may have always been a Welsh preoccupation but devolution has served to focus them more sharply in academic research and writing, in the arts and literature and in the public consciousness. The achievement of a measure of self-governance by a small but highly self-conscious nation was bound to carry symbolic significance in terms of Welsh identity, perhaps more so than the disruptions of constitutional reform itself. Counter narratives have emerged that have challenged dominant versions of Welsh</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.22</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>353</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt17w8h2j.23</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

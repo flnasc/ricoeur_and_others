@@ -1,0 +1,301 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x01v0</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2430.D484M49 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Derrida, Jacques</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>For Derrida</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Miller</surname>
+               <given-names>J. Hillis</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>07</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823230334</isbn>
+      <isbn content-type="epub">9780823247097</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x01v0"/>
+      <abstract abstract-type="short">
+         <p>This book-the culmination of forty years of friendship between J. Hillis Miller and Jacques Derrida, during which Miller also closely followed all Derrida's writings and seminars-is for Derridain two senses. It is for him,dedicated to his memory. The chapters also speak, in acts of reading, as advocates for Derrida's work. They focus especially on Derrida's late work, including passages from the last, as yet unpublished, seminars. The chapters are partial to Derrida,on his side, taking his part, gratefully submitting themselves to the demand made by Derrida's writings to be read-slowly, carefully, faithfully, with close attention to semantic detail.The chapters do not progress forward to tell a sequential story. They are, rather, a series of perspectives on the heterogeneity of Derrida's work, or forays into that heterogeneity.The chief goal has been, to borrow a phrase from Wallace Stevens, plainly to propoundwhat Derrida says. The book aims, above all, to render Derrida's writings justice. It should be remembered, however, that, according to Derrida himself, every rendering of justice is also a transformative interpretation. A book like this one is not a substitute for reading Derrida for oneself. It is to be hoped that it will encourage readers to do just that.</p>
+      </abstract>
+      <counts>
+         <page-count count="384"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.3</book-part-id>
+                  <title-group>
+                     <title>ABBREVIATIONS OF WORKS BY JACQUES DERRIDA</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.4</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.5</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>A Profession of Faith</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>My first encounter with Jacques Derrida was a decisive moment in my life.¹ I met him at the famous Johns Hopkins University international colloquium The Languages of Criticism and the Sciences of Man, in October 1966. I missed his lecture “Structure, Sign, and Play in the Discourse of the Human Sciences” (“La structure, le signe et le jeu dans le discours des sciences humaines”) (SSP, also in WD, 278–93; ED, 409–18). I could not go because I had a class to teach at that hour. I did hear, however, Derrida’s interventions in the discussions of other papers. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Who or What Decides, for Derrida:</title>
+                     <subtitle>A Catastrophic Theory of Decision</subtitle>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>The previous chapter attempts to identify Derrida’s answer to an urgent question he raises in his work on the university without condition. “To whom, to what,” he asks, am I responsible when I refuse to “reply for my thought or writing” to “constituted powers,” that is, powers of state or institutional powers, such as my university? What justifies my saying “No; I won’t do what you ask”? Derrida’s answer, as I have shown, is that I have a higher obligation to<italic>le tout autre</italic>, “the wholly other,” whatever, exactly, that may mean. In this chapter I raise a different question.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Derrida’s Destinerrance</title>
+                  </title-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>What is destined to happen to the corpus of Derrida’s works? What fate will befall them? As I will show in Chapter 5, Derrida was anxious about what would happen after his death to his “remains,” in the double sense of his dead body and of the body of his writings, his “corpus.” This anxiety is expressed both in<italic>A Taste for the Secret</italic>and in the long, amazing reflection on death, apropos of Robinson Crusoe’s fear of it, carried on from seminar to seminar in his last seminars, “The Beast and the Sovereign (Two)” (“La bête et le souverain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The Late Derrida</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Derrida is always late,<italic>en retard</italic>, the late Derrida. This is not because he was habitually late for appointments, lunch engagements, or seminars. Far from it. He was even compulsively ahead of time, always a few minutes early. Nevertheless, Derrida was always late, always behind time, until the end. A good thing too. I promise sooner or later to show why.</p>
+                     <p>Derrida more than once said that he could never tell a story (MPdMe, 3; MPdMf, 27). I suppose he meant that something in him resisted organizing things neatly in a narrative, with a beginning, middle, and end, such as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Derrida’s Remains</title>
+                  </title-group>
+                  <fpage>72</fpage>
+                  <abstract>
+                     <p>In a remarkable passage I have cited in part as an epigraph, Derrida gives, in the fifth of his last seminars, one more definition of<italic>l’autre</italic>, the other. The concept of the other, as I have partly shown in Chapter 1, plays a crucial role in Derrida’s later writings on ethics, responsibility, politics, friendship, decision, religion, sacrifice, death, and other topics. An example is the long meditation on the phrase<italic>tout autre est tout autre</italic>, “every other is wholly other,” in<italic>The Gift of Death</italic>(GD, 82–115; DM, 114–57). In the last seminars, in a passage already cited</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Derrida Enisled</title>
+                  </title-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>I propose the following three hypotheses.</p>
+                     <p>1. Heidegger defined the human being as<italic>Dasein</italic>, “being there.” I suggest that the assumptions in a fiction or in a critical-theoretical-philosophical text about the nature of<italic>Dasein</italic>and about the mode of access each<italic>Dasein</italic>has to others, in what Heidegger called<italic>Mitsein</italic>, tends to be consonant with the concept of community each such writer has.</p>
+                     <p>2. Unless you begin with the assumption that<italic>Dasein</italic>is in some way or another fundamentally and primordially<italic>Mitsein</italic>or<italic>Mitdasein</italic>, you cannot easily think your way out of an assumption of<italic>Dasein</italic>’s essential solitude to a conception of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Derrida’s Special Theory of Performativity</title>
+                  </title-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>The hypotheses that ground (or unground) this chapter are as follows.</p>
+                     <p>1. Performativity in the sense of the way a dance, a musical composition, or a part in a play is performed has practically nothing to do with performativity in the sense of the ability a given enunciation has to function as a performative speech act. “He gave a spectacular performance of Hamlet” does not exemplify, nor does it refer to, the same use of language as does saying “He gave his solemn promise that he would be here at ten,” even though both are forms of enunciation, of speaking out,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>“Don’t Count Me In”:</title>
+                     <subtitle>Derrida’s Refraining</subtitle>
+                  </title-group>
+                  <fpage>174</fpage>
+                  <abstract>
+                     <p>Simon Morgan Wortham’s admirably penetrating and comprehensive<italic>Counter-institutions: Jacques Derrida and the Question of the University</italic>has traced in detail Jacques Derrida’s complex relations over the years both to the institutions in place with which he has been associated and to the counter-institutions of various kinds that he was involved in founding.¹ As Morgan Wortham shows, a contradictory “with-against” movement has always characterized Derrida’s relation to academic institutions, to institutions generally, and to the traditions of philosophy as an academic discipline.</p>
+                     <p>The “third,” neither/nor, or both/and is a fundamental feature of Derrida’s thought or, better put, of his characteristic style,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Derrida’s Ethics of Irresponsibilization; or, How to Get Irresponsible, in Two Easy Lessons</title>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>What in the world does Derrida mean by saying “the ethical can therefore end up making us irresponsible [<italic>L’ethique peut donc être destinée à irresponsabiliser</italic>]” (GD, 61; DM, 89)? That is my central question in this chapter. It was first prepared for a conference on “irresponsibility” held at Nanyang Technological University from September 28 to September 30, 2006, though only the few first sentences plus the second half were presented there. My goal is to show how one gets irresponsible, how one irresponsibilizes oneself. I shall get help from Derrida, especially his<italic>The Gift of Death</italic>. I need all the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Derrida’s Politics of Autoimmunity</title>
+                  </title-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>This chapter was first drafted for a conference at the University of Florida in Gainesville, held from October 9 to October 11, 2006. Some of the first part of the chapter is “time sensitive,” as one says. It describes the political situation in the United States as it was in the fall of 2006. A lot of water has flowed over the dam since then. Some interpolations added since then bring the chapter up to date at least to the time of the interpolations.</p>
+                     <p>Now, in February 2008, as I revise and augment the essay once more to make it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>Touching Derrida Touching Nancy</title>
+                  </title-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>How can I touch Derrida, now that he is dead? How can I touch, in a shapely chapter, on the immense and immensely complex text he wrote touching touching, the tactile, tactility, the contingent, the tangential as a theme in Nancy’s immense work,¹ and as a theme in Western philosophy from Aristotle to Husserl, Heidegger, Levinas, Didier Franck, Jean-Louis Chrétien, and, by way of Immanuel Kant, Félix Ravaisson, Maine de Biran, and others? One little touch, that’s all I want, such as the touch at one point the tangent line makes on a curved line before flying off at a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Absolute Mourning:</title>
+                     <subtitle>It Is Jacques You Mourn For</subtitle>
+                  </title-group>
+                  <fpage>306</fpage>
+                  <abstract>
+                     <p>In the previous chapter I asserted that Derrida’s<italic>Le toucher, Jean-Luc Nancy</italic>is an extremely odd or exceptional work of mourning. It mourns someone who is not yet dead, since Nancy survived his heart transplant operation to persist in what might be called a posthumous life. This has lasted down to the day I am writing this. For this I rejoice. Nancy has survived Derrida’s death to write more about Derrida. As I showed, he is having the last word about matters on which they did not quite agree, now that Derrida cannot answer back.</p>
+                     <p>This chapter will explore, as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.18</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>327</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x01v0.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>351</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

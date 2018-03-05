@@ -1,0 +1,501 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt19rm9gf</book-id>
+      <subj-group>
+         <subject content-type="call-number">BL51.V365 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Religion</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Pragmatism</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Varieties of Transcendence: Pragmatism and the Theory of Religion</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Deuser</surname>
+               <given-names>Hermann</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Joas</surname>
+               <given-names>Hans</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Jung</surname>
+               <given-names>Matthias</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>Schlette</surname>
+               <given-names>Magnus</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">editors</role>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="series-editor" id="contrib5">
+            <name name-style="western">
+               <surname>Anderson</surname>
+               <given-names>Douglas R.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib6">
+            <name name-style="western">
+               <surname>Jones</surname>
+               <given-names>Jude</given-names>
+            </name>
+         </contrib>
+         <role content-type="series-editor">series editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823267576</isbn>
+      <isbn content-type="epub">9780823267606</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt19rm9gf"/>
+      <abstract abstract-type="short">
+         <p>The Varieties of Transcendence traces American pragmatist thought on religion and its relevance for theorizing religion today. The volume establishes pragmatist concepts of religious individualization as powerful alternatives to the more common secularization discourse. In stressing the importance of Josiah Royce's work, it emphasizes religious individualism's compatibility with community. At the same time, by covering all of the major classical pragmatist theories of religion, it shows their kinship and common focus on the interrelation between the challenges of contingency and the semiotic significance of transcendence.</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deuser</surname>
+                           <given-names>Hermann</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Joas</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jung</surname>
+                           <given-names>Matthias</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schlette</surname>
+                           <given-names>Magnus</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Whereas most of the eminent European thinkers of the second half of the nineteenth century and in the twentieth century were a-religious or at least believed that modernization would necessarily lead to secularization, the American history of ideas took a different route. Particularly, the philosophy of pragmatism represents this specifically American approach to the viability of the sacred or the ideal under the new conditions of rapid industrialization and urbanization. The question that at least the first generation of American pragmatists struggled with is: How can you defend a religious stance toward the world if you not only don’t want</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.4</book-part-id>
+                  <title-group>
+                     <title>PRAGMATIC METHODOLOGY IN THE PHILOSOPHY OF RELIGION:</title>
+                     <subtitle>Perspectives of Classical American Pragmatism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Seibert</surname>
+                           <given-names>Christoph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>The task I would like to work on is a very broad one.¹ It can be looked at from various points of view. For example, it can be dealt with in the way of comparing a pragmatic-oriented philosophy of religion with other philosophical outlooks. It can be illumed in the light of the question which particular version of pragmatic thinking is more appropriate to religion as its subject matter. Finally, it can be approached by regarding some particulars of the methodological question bound to pragmatic thinking as such. In my argument, I will focus on the latter, drawing on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.5</book-part-id>
+                  <title-group>
+                     <title>INSOMNIA ON A MORAL HOLIDAY:</title>
+                     <subtitle>On the Moral Luck, Reward, and Punishment of a Jamesian “Sick Soul”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pihlström</surname>
+                           <given-names>Sami</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>This chapter will examine the relation between religion and morality from a pragmatist point of view, focusing on the fundamental importance of a certain kind of attitude toward the reality of evil and suffering based on Jamesian pragmatism. My discussion differs from many other treatments of pragmatist philosophy of religion and moral philosophy due to what might be called its “via negativa” methodology. I am not trying to positively characterize, or to interpret James’s characterizations of, such notions as the “good life,” the “goods,” or “fruits” of religious life and religious experiences—even though I do regard (Jamesian) pragmatism as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.6</book-part-id>
+                  <title-group>
+                     <title>EXPRESSIVE THEISM:</title>
+                     <subtitle>Personalism, Pragmatism, and Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Polke</surname>
+                           <given-names>Christian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>54</fpage>
+                  <abstract>
+                     <p>Personalism, like pragmatism, is a new name for same old ways of thinking.”¹ It was no mere accident when Albert C. Knudson, upcoming dean of the Boston Divinity School, opened his 1927 major work,<italic>The Philosophy of Personalism</italic>, with the famous subtitle of William James’s Lowell lectures on pragmatism. Using the phrase from the perhaps best-known American philosopher of his day rather gave him the audience he wanted for presenting his own program of philosophical personalism. Of course, Knudson only represented one version of personalism, but James was also just one member of the pragmatist family. What both had in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.7</book-part-id>
+                  <title-group>
+                     <title>ONTOLOGICAL FAITH IN DEWEY’S RELIGIOUS IDEALISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kestenbaum</surname>
+                           <given-names>Victor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>For some years now, I have attempted to contest what others see—what they<italic>only</italic>see—in John Dewey. I refer to the naturalistic lines, edges, and boundaries that must be there, because if they are not plainly there, then Dewey is not there. In my efforts, I have been aided by a variety of influences, some in philosophy, some in literature, and some in the arts. I believe that Dewey deeply valued phenomenological accuracy, the kind of accuracy that John Updike noted in his acceptance speech for the 1964 National Book Awards prize: “Reality is—chemically, atomically, biologically—a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.8</book-part-id>
+                  <title-group>
+                     <title>QUALITATIVE EXPERIENCE AND NATURALIZED RELIGION:</title>
+                     <subtitle>An Inner Tension in Dewey’s Thought?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jung</surname>
+                           <given-names>Matthias</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Instrumentalism” and “naturalism” are terms often associated with John Dewey’s philosophy. As we shall see, his naturalism goes indeed down to the core, thus creating a significant tension with his all-embracing concept of experience. But to label Dewey as an instrumentalist with a primary interest in assembling philosophical tools for achieving human goals taken for granted is deeply misleading. In his admirable book on “John Dewey and the Transcendent,” Victor Kestenbaum argues for what he calls the “primacy of meaning thesis”¹ and for the connection of meaning and transcendence as a key for understanding Dewey—and I completely agree with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.9</book-part-id>
+                  <title-group>
+                     <title>PRAGMATISM, NATURALISM, AND GENEALOGY IN THE STUDY OF RELIGION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Proudfoot</surname>
+                           <given-names>Wayne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>The word “naturalism” is used in many different ways in contemporary philosophy. For some, it has required that a properly naturalistic account appeal only to what is countenanced by the natural sciences, but there have been a number of recent attempts to formulate more liberal approaches to naturalism that allow for natural accounts that recognize the normative character of beliefs, practices, actions, and institutions.¹ A certain priority is rightly given to the sciences in the sense that, as Huw Price has put it, science tells us that humans are natural creatures, and any naturalistic approach should honor that.² But that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.10</book-part-id>
+                  <title-group>
+                     <title>“… HOW YOU UNDERSTAND … CAN ONLY BE SHOWN BY HOW YOU LIVE”:</title>
+                     <subtitle>Putnam’s Reconsideration of Dewey’s A Common Faith</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schlette</surname>
+                           <given-names>Magnus</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>In his grand narration about the rise of the secular age, Charles Taylor called the optionalization of an exclusively innerworldly orientation toward life “the great invention of the West.” This historical innovation, according to Taylor, is the concept of “an immanent order in Nature, whose working could be systematically understood and explained on its own terms, leaving open the question whether this whole order had a deeper significance, and whether, if it did, we should infer a transcendent Creator beyond it. This notion of the ‘immanent’ involved denying—or at least isolating and problematizing—any form of interpenetration between the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.11</book-part-id>
+                  <title-group>
+                     <title>A BRIEF HISTORY OF THEOSEMIOTIC:</title>
+                     <subtitle>From Scotus through Peirce and Beyond</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raposa</surname>
+                           <given-names>Michael L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>142</fpage>
+                  <abstract>
+                     <p>“Theosemiotic” is a word that I coined more than twenty years ago to serve as a label for Charles Peirce’s distinctive worldview (in which he perceived the world as “God’s great poem”), as well as to identify his philosophical method for addressing religious questions or understanding religious beliefs and experiences.¹ I use the word now, more generally, to identify an ongoing, constructive project in philosophical theology. That project is deeply rooted in the history of ideas, Peirce’s thought and also that of others, and such historical considerations are the focus of my attention here.</p>
+                     <p>In an uncomfortably tiny nutshell, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.12</book-part-id>
+                  <title-group>
+                     <title>“MAN’S HIGHEST DEVELOPMENTS ARE SOCIAL”:</title>
+                     <subtitle>The Individual and the Social in Peirce’s Philosophy of Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Linde</surname>
+                           <given-names>Gesche</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>158</fpage>
+                  <abstract>
+                     <p>As with all the classical pragmatists, Peirce’s interest in the subject of religion is subordinate to his more central questions. What Peirce has to say about God, creation, the church, faith, and love is systematically derived from a philosophy that, having semiotics at its core, spans a broad range of topics, such as mathematics, logic, epistemology, cosmology, linguistics, and occasionally even bridges design and engineering. It is this subsidiary status that, to my mind, lends methodological soundness as well as modernity to Peirce’s reflections, because the clear implication is that religion is not a primary phenomenon but something that develops</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.13</book-part-id>
+                  <title-group>
+                     <title>THE DISSENTING VOICE OF CHARLES PEIRCE:</title>
+                     <subtitle>Individuality, Community, and Transfiguration</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Colapietro</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>I will begin by sketching in both very broad, quick strokes and also highly selective, salient details C. S. Peirce’s nuanced account of the<italic>individual</italic>self. Then, I will turn to the task of indicating the most important respects in which a religious life,¹ as defined by him, is relevant to an adequate conception of individual selfhood. Finally, I will conclude by considering the complex relationship between traditional religions, such as Christianity, and the ongoing task of cultivating a genuinely critical sensibility. Even if one does not agree with Peirce’s claim that “like a plucked flower, [religion’s] destiny is to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.14</book-part-id>
+                  <title-group>
+                     <title>RELIGIOUS EXPERIENCE AND ITS INTERPRETATION:</title>
+                     <subtitle>Reflections on James and Royce</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Joas</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>The pragmatist theory of religion has two very different roots. One of them indubitably lies in the foundation of an empirical psychology of religion developed by William James in his 1902 masterpiece<italic>The Varieties of Religious Experience</italic>.¹ James was a brilliant writer—I am sometimes tempted to say even more brilliant than his brother, the great novelist Henry James—and his book, although more than one hundred years old, has not lost its original freshness and, at least in the English-speaking world, has become a true classic, even for the wider public. To characterize it as a mere contribution to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.15</book-part-id>
+                  <title-group>
+                     <title>AVOIDING THE DICHOTOMY OF “EITHER THE INDIVIDUAL OR THE COLLECTIVITY”:</title>
+                     <subtitle>Josiah Royce on Community, and on James’s Concept of Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nagl</surname>
+                           <given-names>Ludwig</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>When studied carefully, Royce’s mature thought—in general, as well as in the field of his philosophy of religion—has the potential to stimulate interest in ideas that, in a narrowly professionalized discourse, tend to be out of sight today. By learning from James’s explorations of religious experience, and by critically reassessing and redimensioning James’s pragmatism in a “Peirceanized” manner,¹ Royce develops a community-oriented, postdialectically dialectical,² semiotically informed, “reflective” theory of interpretation. This theory is of relevance not only to contemporary philosophical discourse in general but to any attempt to rethink (in the age of progressive individualization and commodification) the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.16</book-part-id>
+                  <title-group>
+                     <title>PRAGMATIC OR PRAGMATIST / PRAGMATICIST PHILOSOPHY OF RELIGION?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deuser</surname>
+                           <given-names>Hermann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>As a theory of action, classical pragmatism—founded by the scientifically trained philosophers Charles S. Peirce and William James in New England—is also always a philosophy of religion. Human experience is not (as in the German tradition) divided according to practical experience, on the one hand, and scientific empiricism, on the other. Instead, it is precisely the interplay of belief in relation to action that explains our everyday behavior as much as the scientific method and religious experience. While different conceptions of god have inevitably resulted from the latter over time, the images, narratives, and symbols are nonetheless comparable.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.17</book-part-id>
+                  <title-group>
+                     <title>THEORY OF RELIGION IN A PRAGMATIC PHILOSOPHICAL THEOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Neville</surname>
+                           <given-names>Robert Cummings</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>270</fpage>
+                  <abstract>
+                     <p>I write here not as a scholar of pragmatism but as a pragmatic philosophical theologian with a theory of religion. The first step in the pragmatic theory is to propose a definition of religion intended as a hypothesis for organizing the inquiry. The hypothesis is that<italic>religion is human engagement of ultimacy expressed in cognitive articulations, existential responses to ultimacy that give ultimate definition to the individual, and patterns of life and ritual in the face of ultimacy</italic>.¹ Obvious topics of the inquiry into religion will have to include: (1) ultimacy or ultimate reality in the several senses included in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.18</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.19</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.20</book-part-id>
+                  <title-group>
+                     <title>Index of Names</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.21</book-part-id>
+                  <title-group>
+                     <title>Subject Index</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19rm9gf.22</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

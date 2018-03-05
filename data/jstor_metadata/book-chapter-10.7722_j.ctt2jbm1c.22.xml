@@ -1,0 +1,664 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2jbm1c</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Christians and Jews in Angevin England</book-title>
+         <subtitle>The York Massacre of 1190, Narratives and Contexts</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Jones</surname>
+               <given-names>Sarah Rees</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Watson</surname>
+               <given-names>Sethina</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>04</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781903153444</isbn>
+      <isbn content-type="epub">9781782040774</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Woodbridge, Suffolk, UK; Rochester, NY, USA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7722/j.ctt2jbm1c"/>
+      <abstract abstract-type="short">
+         <p>The mass suicide and murder of the men, women and children of the Jewish community in York on 16 March 1190 is one of the most scarring events in the history of Anglo-Judaism, and an aspect of England's medieval past which is widely remembered around the world. However, the York massacre was in fact only one of a series of attacks on communities of Jews across England in 1189-90; they were violent expressions of wider new constructs of the nature of Christian and Jewish communities, and the targeted outcries of local townspeople, whose emerging urban politics were enmeshed within the swiftly developing structures of royal government. This new collection considers the massacre as central to the narrative of English and Jewish history around 1200. Its chapters broaden the contexts within which the narrative is usually considered and explore how a narrative of events in 1190 was built up, both at the time and in following years. They also focus on two main strands: the role of narrative in shaping events and their subsequent perception; and the degree of 'convivencia' between Jews and Christians and consideration of the circumstances and processes through which neighbours became enemies and victims. Sarah Rees Jones is Senior Lecturer in History, Sethina Watson Lecturer, at the University of York. Contributors: Sethina Watson, Sarah Rees Jones, Joe Hillaby, Nicholas Vincent, Alan Cooper, Robert C. Stacey, Paul Hyams, Robin R. Mundill, Thomas Roche, Eva de Visscher, Pinchas Roth, Ethan Zadoff, Anna Sapir Abulafia, Heather Blurton, Matthew Mesley, Carlee A. Bradbury, Hannah Johnson, Jeffrey J. Cohen, Anthony Bale</p>
+      </abstract>
+      <counts>
+         <page-count count="368"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.3</book-part-id>
+                  <title-group>
+                     <title>LIST OF ILLUSTRATIONS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.4</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.5</book-part-id>
+                  <title-group>
+                     <title>EDITORSʹ PREFACE AND ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Sarah Rees</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Watson</surname>
+                           <given-names>Sethina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.6</book-part-id>
+                  <title-group>
+                     <title>ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.7</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The Moment and Memory of the York Massacre of 1190</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Watson</surname>
+                           <given-names>Sethina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>During the course of one desperate night in March 1190, an estimated 150 Jewish men, women and children committed suicide or were murdered at the royal castle in York, where they had fled for safety. The York massacre horrified contemporaries, Christians and Jews, and is remembered today around the world. It is recalled in Jewish elegies and holds a singular, sad place in the English national story as ʹthe most notorious anti-Jewish atrocityʹ in its history.¹ Most particularly, the memory is tied to place. Cliffordʹs Tower, the mid-thirteenth-century stone keep of the royal castle, has become its most enduring symbol.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Neighbours and Victims in Twelfth-Century York:</title>
+                     <subtitle>a Royal Citadel, the Citizens and the Jews of York</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Sarah Rees</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Barrie Dobsonʹs wide-ranging and richly-detailed study of the massacre of the Jews of York in March 1190 remains the definitive history of that terrible event.¹ Most importantly he demonstrated that the massacre did not mark the end of a Jewish community in the city but rather occurred near its beginning: very soon after their first settlement under Josce and Benedict of York in the 1170s and 1180s. The return of Jews to York after 1190, and the new Jewish community which flourished in the early thirteenth century, was the subject of later papers by Dobson, now reprinted in a single</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Prelude and Postscript to the York Massacre:</title>
+                     <subtitle>Attacks in East Anglia and Lincolnshire, 1190</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hillaby</surname>
+                           <given-names>Joe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The York massacre on ʹShabbat ha-Godolʹ, whilst by far the most disastrous attack on a Jewish community, did not occur in isolation. The widespread riots in London, following Richard Iʹs coronation on 3 September 1189, led to a series of onslaughts on Jewish communities in the eastern counties of England, the heartland of the late twelfth-century English provincial Jewry.</p>
+                     <p>Ralph de Diceto, dean of St Paulʹs from 1180 to <italic>c</italic>. 1200, has little to say about the events in London, probably because, the see being vacant, he took the place of the bishop of London at the coronation and subsequent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>William of Newburgh, Josephus and the New Titus</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vincent</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The story that follows is to be read as an exercise in intellectual history, and in particular as an attempt to trace the debt owed not just by twelfth-century English chroniclers, but by English churchmen and kings, to the literary and historical traditions of a much more distant past. In pursuing this line of enquiry, I owe a special debt to two modern historians. The first, Barrie Dobson, in his study of the York massacre of 1190, has identified the chief contemporary witness to these events, the <italic>Historia Rerum Anglicarum</italic> of William of Newburgh, as a ʹcomparatively impartial and well-balanced</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>1190, William Longbeard and the Crisis of Angevin England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The brief life and abortive revolutionary career of William FitzOsbert, alias William Longbeard, came to a sad end, if our sources are to be believed, in a mad insurrection against the royal and municipal authorities in London in April 1196. His brief moment of fame or infamy can be used as a window into many aspects of late twelfth century culture. His life throws light on the experience of crusading and the possibly traumatic effects it could have; on the plight of the poor in a newly urbanized and monetarized society; and on the politics of London and of England</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Massacres of 1189-90 and the Origins of the Jewish Exchequer, 1186–1226</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stacey</surname>
+                           <given-names>Robert C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Jewish Exchequer is not a new subject. William Prynne in the seventeenth century, and Thomas Madox a century later, were the first scholars to devote sustained attention to the institution.¹ In their wake, a series of twentieth-century historians have followed, each making valuable contributions.² But despite the attention that has been devoted to the workings of the institution, the historical context within which we should understand the Jewish Exchequerʹs emergence, and the significance of its emergence for the subsequent history of the medieval English Jewish community, are subjects that will still repay more careful investigation. Three points in particular</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Faith, Fealty and Jewish ʹinfidelesʹ in Twelfth-Century England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hyams</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The 1190 events in York make a powerfully moving tale, especially when recounted by thoughtful and articulate Yorkshiremen like William of Newburgh and Barrie Dobson. Nothing remotely comparable in savagery had previously occurred in this first century of the medieval English Jewry.¹ Every historian experiences a kind of pull to see this as a watershed moment in the limited presence of Jews in England. It has seemed to cry out to be fitted into the once familiar opposition between the ʹopenʹ twelfth century and the ʹclosedʹ thirteenth.² The contrast between the relatively accommodating regimes before 1200 and the harsher atmosphere</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The ʹArchaʹ System and its Legacy after 1194</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mundill</surname>
+                           <given-names>Robin R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>148</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 17 March 1190, as the ash turned to dust at the top of the motte which is now known as Cliffordʹs Tower, the government knew that it had lost control and would have to react to the spoliation of the York Jewry.¹ In the first case a riot had taken place and this did not please the new king, Richard I, and could not go unnoticed or unpunished. In the second case, because of the profits the crown drew from Jewish money lending, the government needed to put a system in place to protect its income from Jewish lending,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Making agreements, with or without Jews, in Medieval England and Normandy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roche</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The abbey of Flaxley, or Dene, in Gloucestershire, was a small Cistercian house, founded between 1148 and 1154 by the earl of Hereford, on the exact place where his father had died while hunting. Its historian would be short on records: a handful of charters, a few references in royal records, and one cartulary, written in the early thirteenth century, peculiar in its form. It is a roll, measuring 0.18 by 6.3 metres, recording ninety-seven items. This document provides a list of books preserved in the abbeyʹs library, and it has been well studied.¹</p>
+                     <p>The first student of the roll</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>An<italic>Ave Maria</italic>in Hebrew:</title>
+                     <subtitle>the Transmission of Hebrew Learning from Jewish to Christian Scholars in Medieval England</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>De Visscher</surname>
+                           <given-names>Eva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>174</fpage>
+                  <abstract abstract-type="extract">
+                     <p>An increasing emphasis on the otherness of the Jews in twelfth- and thirteenth-century ecclesiastical sources seems to coincide with a revival of the study of Hebrew among Christian scholars. While this revival, which forms part of a wider intensification of interest in language, rhetoric and the study of the biblical text, is visible all over Western Europe, scholars and texts of English origin are particularly well-represented in the extant source material.¹ This chapter focuses on the learning process involved in this type of cross-religious language acquisition. Examining Hebrew and Hebraist texts from pre-expulsion England, it aims to reconstruct, in so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Talmudic Community of Thirteenth-Century England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roth</surname>
+                           <given-names>Pinchas</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zadoff</surname>
+                           <given-names>Ethan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>184</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The study of medieval law occupies a unique niche within traditional academic discourse. A concentration on philological precision, challenges pertaining to manuscript study, and the ʹinternal languageʹ of jurisprudence have at times over-shadowed the consideration of the wider societal implications of medieval law and curtailed its use in the investigation of broad themes of social and cultural history. This is particularly true of the thirteenth-century Anglo-Jewish legal corpus, the study of which has been relegated to a select few articles and studies.¹</p>
+                     <p>Law can, however, serve as an important medium for understanding the social fabric and communal identity of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.18</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Notions of Jewish Service in Twelfth- and Thirteenth-Century England</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abulafia</surname>
+                           <given-names>Anna Sapir</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>204</fpage>
+                  <abstract abstract-type="extract">
+                     <p>ʹThe King has provided and ordained etc.: That no Jew remain in England unless he do the King service, and that from the hour of birth every Jew, whether male or female, serve Us in some wayʹ, were the opening words of Henry IIIʹs <italic>Statute concerning the Jews</italic> of 1253.¹ Less than twenty-five years later in 1275 Edward I had forbidden moneylending, the very form of service with which Jews had paid for the privilege of residing in the kingdom.² In 1290 Edward expelled what was left of the rapidly depleting Jewish community in exchange for a magnificent sum from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.19</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Egyptian Days:</title>
+                     <subtitle>From Passion to Exodus in the Representation of Twelfth-Century Jewish-Christian Relations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blurton</surname>
+                           <given-names>Heather</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The worst ʹEgyptian dayʹ suffered by the Jews of twelfth-century England was undoubtedly the massacre at York in 1190 – an event that stunned contemporary onlookers, Jews and Christians alike.² Of contemporary chroniclers who discuss the violence at York, William of Newburgh provides the most elaborated detail. He identifies the Egyptian day of Richardʹs coronation as something new for the Jews: events, he writes, were ʹsuddenly changed against themʹ. Other chroniclers of the persecutions of the Jews that followed the coronation of Richard the Lionheart in 1189 likewise noted that they were novel: Ralph de Diceto, an eyewitness and participant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.20</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>ʹDe Judaea, muta et surdaʹ:</title>
+                     <subtitle>Jewish Conversion in Gerald of Walesʹs<italic>Life of Saint Remigius</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mesley</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>238</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Jews are confined to the periphery in twelfth- and thirteenth-century literature. When they do appear within Christian texts, their actions and behaviour are restricted and circumscribed. Viewed as living symbols of Christʹs suffering on the cross, and as actors within the wider Christian drama, their performance was interpreted through the Churchʹs teachings. Within a literary context, as Stephen Kruger has argued, ʹJews and Judaism can be quite easily rendered ʺvirtual,ʺ reduced to a non-presence, even a non-being that functions to reconfirm a real, present Christianityʹ.¹ In this way, representations of Jews were used to define the nature of Christianity, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.21</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Dehumanizing the Jew at the Funeral of the Virgin Mary in the Thirteenth Century (c. 1170–c. 1350)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradbury</surname>
+                           <given-names>Carlee A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>250</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Before and after the expulsion of the Jews from England in 1290, artists made and audiences understood pictured Jews as embodiments of opposition to the Christian norm, as the quintessential other. Such visual dehumanization of the Jew has been widely considered elsewhere,¹ so this essay will focus on one topos that recurs at York: the Jew in visualizations of the Funeral of the Virgin. Both the textual and visual narratives of this tale depend on the moment when a Jew tries to overturn the platform on which Maryʹs body is being carried during her burial procession. Upon contact with the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.22</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Massacre and Memory:</title>
+                     <subtitle>Ethics and Method in Recent Scholarship on Jewish Martyrdom</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Hannah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>261</fpage>
+                  <abstract abstract-type="extract">
+                     <p>History, it seems, must always suffer the impositions of second guessing. If this is true of historical events, the traditional content of historical accounts, it is no less true of historiography, that higher order analysis which is itself a venerable form of retrospective re-examination. We continuously revise our understanding of historical explanations as well as events. In a volume dedicated to revisiting the massacre at York in 1190 and its legacy, I take it as given that part of our task is to consider what kinds of tools we have in our scholarly arsenal in the early twenty-first century for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.23</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>The Future of the Jews of York</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cohen</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>278</fpage>
+                  <abstract abstract-type="extract">
+                     <p>William of Newburghʹs <italic>History of English Affairs</italic> grants an access to the troubling events of 1190 unmatched by other sources. It is difficult to resist portal analogies when speaking of the world we glimpse in his vigorous Latin prose. Detailed and wide-ranging, Newburghʹs narrative enables the reader to feel a witness to unfolding incidents. He creates a sense of privileged access to a vivacious world of complicated human actors, of local and national forces on the move. Yet the story Newburgh tells is partial, framed by the doorway he constructs around its contours to give the tale coherence. His narrative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.24</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>Violence, Memory and the Traumatic Middle Ages</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bale</surname>
+                           <given-names>Anthony</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>294</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The events surrounding the violent death of the Jews of York in March 1190 continue to exert a strong fascination: accounts of these events demand a radical and troubling act of empathy and imagination. How could something so horrible, so bloody, and so resonant in its foreshadowing of future horrors, happen <italic>in this place</italic>, at this sturdy bailey under grey northern skies? The setting is at once familiar, a corner of a beautiful small city, and obscene: a Yorkshire Masada, a place where a lethal combination of lucre, zeal and vengeance made a perfect deadly storm. Cliffordʹs Tower is a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.25</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.26</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>342</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbm1c.27</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>352</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

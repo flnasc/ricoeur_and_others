@@ -1,0 +1,533 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1t89635</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Researching the lifecourse</book-title>
+         <subtitle>Critical reflections from the social sciences</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Worth</surname>
+               <given-names>Nancy</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Hardill</surname>
+               <given-names>Irene</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="epub">9781447317548</isbn>
+      <isbn content-type="epub">1447317548</isbn>
+      <publisher>
+         <publisher-name>Policy Press</publisher-name>
+         <publisher-loc>Bristol, UK; Chicago, IL, USA</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Policy Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1t89635"/>
+      <abstract abstract-type="short">
+         <p>Researching the Lifecourse features methods linking time, space and mobilities and provides practitioners with practical detail in each chapter. It covers the full lifecourse and includes innovative methods and case study examples from different European and North American contexts.The lifecourse perspective continues to be an important subject in the social sciences. Researching the Lifecourse offers a distinctive approach in that it truly covers the lifecourse (childhood, adulthood and older age), focusing on innovative methods and case study examples from a variety of European and North American contexts. This original approach connects theory and practice from across the social sciences by situating methodology and research design within relevant conceptual frameworks. This diverse collection features methods that are linked to questions of time, space and mobilities while providing practitioners with practical detail in each chapter.</p>
+      </abstract>
+      <counts>
+         <page-count count="240"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.3</book-part-id>
+                  <title-group>
+                     <title>List of tables and figures</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.4</book-part-id>
+                  <title-group>
+                     <title>Notes on contributors</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.6</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Worth</surname>
+                           <given-names>Nancy</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hardill</surname>
+                           <given-names>Irene</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Lifecourse research is undertaken by researchers from across the social sciences, often working in a multidisciplinary context, using the lifecourse as an underpinning concept and/or a method of study. In this book we aim to represent the diversity of lifecourse methodologies employed in the social sciences, as well as having a concern for epistemology – how different knowledge claims are connected to our research practices. Moreover, the contributors in this edited book emphasise how different theoretical frameworks and positionality affect the research process – each contributor examines the challenges of their research design and how they worked through methodological issues</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.7</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Time and the lifecourse:</title>
+                     <subtitle>perspectives from qualitative longitudinal research</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Neale</surname>
+                           <given-names>Bren</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>For groups, as well as for individuals, life itself means to separate and to be re-united, to change form and condition, to die and to be reborn. It is to act and to cease, to wait and rest, and then to begin acting again but in a different way. And there are always new thresholds to cross… (van Gennep, 1960 [1909], p 189)</p>
+                     <p>This quotation from an early ‘armchair’ anthropologist reflects much of what is compelling about the study of the lifecourse – conceptualised here as the flow of lives through time. Writing in the first decade of the 20th</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.8</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Time in mixed methods longitudinal research:</title>
+                     <subtitle>working across written narratives and large scale panel survey data to investigate attitudes to volunteering</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lindsey</surname>
+                           <given-names>Rose</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Metcalfe</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edwards</surname>
+                           <given-names>Rosalind</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>The aim of this chapter is to explore the methodological and analytical challenges thrown up by an ongoing study that has been reusing and combining longitudinal qualitative narrative and quantitative survey data to research individual attitudes to voluntarism between 1981 and 2012.¹ This period represents a time of economic and social policy change encompassing recession and cuts to public services; followed by relative prosperity and increase in investment in public services; and then the most recent recession and accompanying austerity measures (Timmins, 2001; Glennerster, 2007; Alcock 2011; Defty, 2011; Driver, 2008).</p>
+                     <p>Our study is part of a general move to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.9</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>A restudy of young workers from the 1960s:</title>
+                     <subtitle>researching intersections of work and lifecourse in one locality over 50 years</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goodwin</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Connor</surname>
+                           <given-names>Henrietta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Since 2000 we have been undertaking a detailed restudy of Norbert Elias’s previously lost ‘Adjustment of Young Workers to Work Situations and Adult Roles’ (1962–4) project.¹ This project was not only important because of its links to Norbert Elias or because it was one of the largest studies of school to work transition at that time (see Goodwin and O’Connor, 2005a), but also because there are very few ‘classic’ studies from the post war period that focused on the English East Midlands and a key centre of engineering, textiles and clothing and footwear manufacture. As part of the restudy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.10</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>A method for collecting lifecourse data:</title>
+                     <subtitle>assessing the utility of the lifegrid</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Del Bianco</surname>
+                           <given-names>Ann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>The lifecourse can be studied using a number of different research designs and methodological approaches – all presenting their own set of challenges and benefits. In recent years there has been increasing use of the lifegrid for both quantitative and qualitative studies. The application of the lifegrid is appealing to many researchers for a variety of reasons. It is especially useful for studies where a longitudinal focus is integral to the research objective(s), and such is the case with lifecourse research. Compared with traditional longitudinal studies, the administration of the lifegrid is a less costly alternative and is relatively easy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.11</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>Life geohistories:</title>
+                     <subtitle>examining formative experiences and geographies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Falola</surname>
+                           <given-names>Bisola</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>One day I followed Stephen around school as he rushed to get his teachers to sign a permission form for a field trip to a nearby college. As we hustled from classroom to classroom, he started to narrate his actions:</p>
+                     <p>‘I need to stop by Mr Daniels and get this form signed … okay now to Mrs Travis, she’s the best, she helped me get through high school …, outside, hmm no one sits here anymore, not since freshman year, the BISA kids [arts magnet programme] took it over … oh look, [he says pointing to a wall lined with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.12</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Using mapmaking to research the geographies of young children affected by political violence</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Akesson</surname>
+                           <given-names>Bree</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Mapmaking can be a process by which individuals orient themselves and navigate from place to place. The process of mapmaking can also be used as a tool for understanding one’s sense of place. The mapmaking experience is rooted in what Sobel (1998, p 5) identifies as ‘our visual, kinesthetic, and emotional experiences’. As a visual method, mapmaking provides one example of how individuals engage with place. Individuals throughout the lifecourse – from young children to ageing adults – influence and are influenced by place. And in order to better understand individuals’ experience with place, research methodologies have increasingly turned to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.13</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Keeping in touch:</title>
+                     <subtitle>studying the personal communities of women in their fifties</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bowlby</surname>
+                           <given-names>Sophie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>This chapter is about a research project on the friendship afforded to women in their fifties by members of their ‘personal communities’ and their interactions with information and communication technologies (ICT). The research examined the informal social interactions of women in ‘midlife’ in the context of their lifecourse trajectory to date and their anticipations of the future. It focused, in particular, on the time–space context of these interactions, exploring the time–space scheduling of ‘keeping in touch’ and the real and virtual spaces within which these social interactions took place. The empirical research was carried out in the summer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.14</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>Triangulation with softGIS in lifecourse research:</title>
+                     <subtitle>situated action possibilities and embodied knowledge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schmidt-Thomé</surname>
+                           <given-names>Kaisa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>In this chapter I focus on the possibilities that embodied knowledge opens up when undertaking research on the lifecourse. Shotter (2009) argues that social theorists often overlook embodied knowledge as they evaluate human action through causes (emphasising structures) or reasons (emphasising agency). In my work on ‘geobiographies’ I connect the highly contextual and unique with lifecourse information, specifically relating current everyday life (especially outdoor activities) with the habitualities developed over a participant’s lifecourse. I examine embodied knowledge as a joint outcome of the lifecourse and its geographical context – space and place. In this chapter I use geo-coordinates as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.15</book-part-id>
+                  <title-group>
+                     <label>TEN</label>
+                     <title>Using a life history approach within transnational ethnography:</title>
+                     <subtitle>a case study of Korean New Zealander returnees</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lee</surname>
+                           <given-names>Jane Yeonjae</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>Since early the 2000s, the number of long-term immigrants to New Zealand deciding to return to their homelands has increased. Simultaneously, Korea has made changes to its residency policy in an attempt to attract ‘global talent’ back to its shores. The result has been an increase in the number of overseas Koreans returning from their emigration destinations. The processes driving this movement and the experience(s) of returnees on resettlement have received little attention in research.</p>
+                     <p>My research project (Lee, 2012) focused on the everyday experiences of the 1.5 generation¹ Korean immigrants of Auckland, New Zealand, who permanently returned to Korea</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.16</book-part-id>
+                  <title-group>
+                     <label>ELEVEN</label>
+                     <title>Sensing sense and mobility at the end of the lifecourse:</title>
+                     <subtitle>a methodology of embodied interaction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blaakilde</surname>
+                           <given-names>Anne Leonora</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>The sun is setting over the Mediterranean Sea far below me, and my front view is a locked gate, seeming in a hostile way to knot the tall fence together around a complex of luxurious accommodations on the top of a mountain by the Turkish Riviera. The car I am sitting in is sloping backwards at an angle of approximately 20 degrees, the back pointing drastically downwards, down the mountain; the driver, 83-year-old Howard, is unsuccessfully trying to make the remote controller open the gate. I know he has had some drinks today, which worried me a little as I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.17</book-part-id>
+                  <title-group>
+                     <label>TWELVE</label>
+                     <title>Event history approach to life spaces in French-speaking research</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dureau</surname>
+                           <given-names>Françoise</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Giroud</surname>
+                           <given-names>Matthieu</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Imbert</surname>
+                           <given-names>Christophe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>The study of spatial mobility in European social sciences suffers from institutional and thematic segmentation (daily mobility, tourism, residential mobility, migration). However, a growing number of studies have shown that a comprehensive, linked approach to mobility is an effective way of capturing hybrid practices that fall between residential and daily mobility (such as multiple residences and long-distance commuting: Dupont and Dureau, 1994; Lévy and Dureau, 2002; Kaufmann and Vincent-Geslin, 2012). This approach can be used to focus more on the multi-local dimension of individuals’ spatial practices across the lifecourse. Living in more than one place at once is a topic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.18</book-part-id>
+                  <title-group>
+                     <label>THIRTEEN</label>
+                     <title>Using an intersectional lifecourse approach to understand the migration of the highly skilled</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kelly</surname>
+                           <given-names>Melissa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>Understanding why people decide to move is a complicated enterprise (Bertaux-Wiame, 1979; Ni Laoire, 2000). Although migration may be a straightforward demographic event, the context in which it occurs and the mechanisms underlying it are often highly complex, and require careful study. To begin with, it is important to consider the individual role of the migrant. To what extent do people move freely from one place to another, and to what extent are their movements impacted by structural forces and constraints? Traditional models used for understanding migration decision making have typically emphasised<italic>either</italic>agency<italic>or</italic>structure but seldom both; moreover,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t89635.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

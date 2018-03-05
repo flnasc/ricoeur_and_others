@@ -1,0 +1,197 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x06zz</book-id>
+      <subj-group>
+         <subject content-type="call-number">JC571.D3328 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human rights</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Civil rights</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Liberty</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Architecture of Concepts: The Historical Formation of Human Rights</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>de Bolla</surname>
+               <given-names>Peter</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>12</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823254385</isbn>
+      <isbn content-type="epub">9780823254422</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x06zz"/>
+      <abstract abstract-type="short">
+         <p>The Architecture of Concepts proposes a radically new way of understanding the history of ideas. Taking as its example human rights, it develops a distinctive kind of conceptual analysis that enables us to see with precision how the concept of human rights was formed in the eighteenth century. The first chapter outlines an innovative account of concepts as cultural entities. The second develops an original methodology for recovering the historical formation of the concept of human rights based on data extracted from digital archives. This enables us to track the construction of conceptual architectures over time. Having established the architecture of the concept of human rights, the book then examines two key moments in its historical formation: the First Continental Congress in 1775 and the publication of Tom Paine's Rights of Man in 1792. Arguing that we have yet to fully understand or appreciate the consequences of the eighteenth-century invention of the concept "rights of man," the final chapter addresses our problematic contemporary attempts to leverage human rights as the most efficacious way of achieving universal equality</p>
+      </abstract>
+      <counts>
+         <page-count count="308"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This book has three distinct aims. First, it seeks to contribute to our understanding of concepts. Such a contribution is doubtless fraught with difficulty since even a cursory inspection of the very wide range of disciplines and even more disparate discursive locales in which the word<italic>concept</italic>is used leads to the conclusion that we do not seem to have a very clear sense of what concepts are, or might be. Once one begins, say, to compare how literary or social studies work with the term, or attempts to find a common thread in how philosophy, across its various subdisciplines</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>On Concepts as Cultural Entities</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>This book proposes a new way of understanding the historical formation of the concept of human rights. It has both a specific and a general target: in the case of the former it seeks to contribute to a history of political concepts, even if, as shall become clear, some of its ways of doing history may be eccentric, and in the latter it intends to test a methodology for analyzing the structuration or architecture of concepts in general. In order to make sense of these aims, it will be necessary to establish the distinctive way in which I am thinking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>“… the Fundamental Rights and Liberties of Mankind …”:</title>
+                     <subtitle>The Architecture of the Rights of Mankind</subtitle>
+                  </title-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>It is, by now, almost a commonplace to state that “human rights” were invented in the eighteenth century.¹ Although it is not immediately clear what it might mean to say that a concept was “invented” at a particular moment in time (or over a particular stretch of time, say the eighteenth century), I shall leave this hanging since I want to begin with a more simple-minded examination of the validity of this statement.² If one searches the database of eighteenth-century printed materials in English (ECCO) for use of the term<italic>human rights</italic>, one finds that the century was almost entirely</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>“There Are, Thank God, Natural, Inherent and Inseparable Rights as Men …”:</title>
+                     <subtitle>The Architecture of American Rights</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>The previous chapter has tracked the alterations in the conceptual architecture of rights across the eighteenth century in English: In the early decades of the century, rights understood in the most general sense were conjugated through an early modern juristic conception of “right,” where that concept was hinged to a claim and tied to an ethico-theological description of society. The purpose of a right (and of rights, therefore) was to uphold and protect both civic and religious institutions within which the subject appeared as a coherent and cohesive social entity. Although such entities could only, also, be political, it was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>“The Rights of Man Were but Imperfectly Understood at the Revolution”:</title>
+                     <subtitle>The Architecture of Rights of Man</subtitle>
+                  </title-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>Any historical account of the concept of human rights in the eighteenth century must negotiate the reputation of Thomas Paine’s<italic>Rights of Man</italic>, for, whatever else may be said or believed about this book, it is incontrovertible that Paine’s counterblast to Edmund Burke’s<italic>Reflections on the Revolution in France</italic>has had a very energetic afterlife. Claims on its behalf—as to its notoriety, the number of readers it attracted, and the corresponding number of copies either sold or printed—have been extravagant: It is not uncommon to see figures in the millions as indices to its readership.¹ Although at the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>The Futures of Human Rights</title>
+                  </title-group>
+                  <fpage>274</fpage>
+                  <abstract>
+                     <p>Throughout this book I have been primarily engaged in an effort to think conceptuality in ways that might significantly enhance our understanding how the world comes to seem to us as it does. No doubt this is an ambitious objective, and it would perhaps be hubristic to assume that it could deliver on its ambition all at once or in just one book. Throughout I have kept firmly in view what I thought to be, before I started, a single concept, or conceptual network. It turns out that the story about rights during the Anglophone eighteenth century is rather more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x06zz.10</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

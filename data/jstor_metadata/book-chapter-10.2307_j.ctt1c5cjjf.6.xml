@@ -1,0 +1,874 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1c5cjjf</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2430.N363D4337 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nancy, Jean-Luc. Déclosion</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Deconstruction</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy and religion</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Re-treating Religion: Deconstructing Christianity with Jean-Luc Nancy</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>ALEXANDROVA</surname>
+               <given-names>ALENA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>DEVISCH</surname>
+               <given-names>IGNAAS</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>KATE</surname>
+               <given-names>LAURENS ten</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>van ROODEN</surname>
+               <given-names>AUKJE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib5">
+            <role>With a Preamble and Concluding Dialogue by</role>
+            <name name-style="western">
+               <surname>Nancy</surname>
+               <given-names>Jean-Luc</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823234646</isbn>
+      <isbn content-type="epub">9780823268993</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1c5cjjf"/>
+      <abstract abstract-type="short">
+         <p>One of the most complicated and ambiguous tendencies in contemporary western societies is the phenomenon referred to as the turn to religion.In philosophy, one of the most original thinkers critically questioning this turnis Jean-Luc Nancy. Re-treating Religion is the first volume to analyze his long-term project The Deconstruction of Christianity,especially his major statement of it in Dis-Enclosure.Nancy conceives monotheistic religion and secularization not as opposite worldviews that succeed each other in time but rather as springing from the same history. This history consists in a paradoxical tendency to contest one's own foundations-whether God, truth, origin, humanity, or rationality-as well as to found itself on the void of this contestation. Nancy calls this unique combination of self-contestation and self-foundation the self-deconstructionof the Western world.The book includes discussion with Nancy himself, who contributes a substantial Preambleand a concluding dialogue with the volume editors. The contributions follow Nancy in tracing the complexities of Western culture back to the persistent legacy of monotheism, in order to illuminate the tensions and uncertainties we face in the twenty-first century.</p>
+      </abstract>
+      <counts>
+         <page-count count="404"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alexandrova</surname>
+                           <given-names>Alena</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Devisch</surname>
+                           <given-names>Ignaas</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kate</surname>
+                           <given-names>Laurens ten</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Rooden</surname>
+                           <given-names>Aukje</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations for Works by Jean-Luc Nancy</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.5</book-part-id>
+                  <title-group>
+                     <title>Preamble:</title>
+                     <subtitle>In the Midst of the World; or, Why Deconstruct Christianity?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NANCY</surname>
+                           <given-names>JEAN-LUC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>McKeane</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <role>with</role>
+                        <name name-style="western">
+                           <surname>Fort</surname>
+                           <given-names>Jeff</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Why speak of Christianity?</p>
+                     <p>In truth, I’d like to speak of it as little as possible. I’d like to move toward an effacement of this name and of the whole corpus of references that follows it—a corpus that is already mostly effaced or has lost its vitality. But I do think it is important to follow the movement that this name has named: that of an exit from religion and of the expansion of the atheist world.</p>
+                     <p>This world, our world, that of what used to be called “Western” civilization, which can now be distinguished as such only by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.6</book-part-id>
+                  <title-group>
+                     <title>Re-opening the Question of Religion:</title>
+                     <subtitle>Dis-enclosure of Religion and Modernity in the Philosophy of Jean-Luc Nancy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALEXANDROVA</surname>
+                           <given-names>ALENA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEVISCH</surname>
+                           <given-names>IGNAAS</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KATE</surname>
+                           <given-names>LAURENS ten</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van ROODEN</surname>
+                           <given-names>AUKJE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>One of the most complicated and ambiguous tendencies in contemporary Western societies is undoubtedly the phenomenon usually referred to as the “turn to religion,” “the post-secular,” or, more generally, the “return of the religious.” What at first sight appears to be a simple return to religious values, inspired by a critical rejection of the basic assumptions of modern secular culture, is in fact a refined dialogue with this culture, a dialogue in which religious and secular arguments often change places. This delicate relationship between religion and modernity manifests itself not only in daily practical discussions about the role of religion</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.7</book-part-id>
+                  <title-group>
+                     <title>Intermezzo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Devisch</surname>
+                           <given-names>Ignaas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>We often take for granted that Western modernity has brought about a secularized, atheistic world, in which religion no longer dominates the public sphere. We are equally convinced that a world once ruled by heteronomy and faith has been developed into a world of autonomy and rationality—in other words, a world whose sense lay outside the world is thought to have given way to a world whose sense is situated within it. Indeed, one cannot deny that religion no longer plays the foundational and regulative role it once did, nor that society is no longer based (at least formally)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.8</book-part-id>
+                  <title-group>
+                     <title>The Self-Deconstruction of Christianity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAFFOUL</surname>
+                           <given-names>FRANÇOIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>46</fpage>
+                  <abstract>
+                     <p>Jean-Luc Nancy often insists on the necessity of understanding the expression “deconstruction<italic>of</italic>Christianity” as a subjective genitive: the deconstruction of Christianity would be—in a still enigmatic sense—a selfdeconstruction. Commentators have often taken “deconstruction” to be an external intervention by a sovereign interpreter, as a gesture performed, often violently, on a text or some other object of thought. However, what would it mean for our understanding of deconstruction if it were, as Nancy insists (following Derrida himself ), a self-deconstruction? What would the deconstruction of Christianity mean if it were, first and foremost, the self-deconstruction of Christianity and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.9</book-part-id>
+                  <title-group>
+                     <title>Deconstruction or Destruction?</title>
+                     <subtitle>Comments on Jean-Luc Nancy’s Theory of Christianity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DE KESEL</surname>
+                           <given-names>MARC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Nancy’s<italic>Noli me tangere</italic>:<italic>On the Raising of the Body</italic>focuses on Christ’s enigmatic words to Mary Magdalene at the moment when she is the first to meet Him after His resurrection:<italic>mē mou haptou</italic>(Greek),<italic>noli me tangere</italic>(Latin); “Do not touch me” (John 20:17). According to Nancy, this sentence reveals the entire self-deconstructive truth operating at the heart of Christianity:</p>
+                     <p>We could just as well understand that it [Christ’s body] must not be touched because it cannot be: it is not to be touched. Yet that does not mean that it is an ethereal or immaterial, a spectral</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.10</book-part-id>
+                  <title-group>
+                     <title>Sense, Existence, and Justice; or, How Are We to Live in a Secular World?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEVISCH</surname>
+                           <given-names>IGNAAS</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VANDEPUTTE</surname>
+                           <given-names>KATHLEEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>From a Christian perspective, the world is a place whose sense lies beyond it: a position Wittgenstein also seems to share in statement 6.41 of his<italic>Tractatus Logico-Philosophicus</italic>: “The sense of the world must lie outside the world.”¹ If secularization is our perspective, the most logical option seems to lie in a mere immanentization of this otherworldly sense. Were this logic still to inform the thought of Jean-Luc Nancy in<italic>Dis-enclosure</italic>, his stance would be highly repetitive: Have we not been saying this for centuries now?</p>
+                     <p>In fact, Nancy tries to tell us something different: unless we want to inhabit</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.11</book-part-id>
+                  <title-group>
+                     <title>Between All and Nothing:</title>
+                     <subtitle>The Affective Dimension of Political Bonds</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de WIT</surname>
+                           <given-names>THEO W. A.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>van der Merwe</surname>
+                           <given-names>Schalk</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>A striking example of what Jean-Luc Nancy calls the (self-)deconstruction of Christianity was already given by Ernst Kantorowicz in 1951. In his article “Pro Patria Mori in Medieval Political Thought,” he discusses a fundamental difference of opinion between two cardinals that occurred at the beginning of the Great War.¹ As Belgium was being occupied by German troops in the summer of 1914, Cardinal Mercier, the primate of Belgium, published a pastoral letter entitled “Patriotism and Endurance.” In it, he defended the position that Belgians were justified in experiencing their patriotism as “consecrated” and the German violation of their national dignity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.12</book-part-id>
+                  <title-group>
+                     <title>Intermezzo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kate</surname>
+                           <given-names>Laurens ten</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>In the previous part of this book, the deconstruction of Christianity has been presented as an analysis of the complex relation between modern culture and religion. As Nancy carries it out, this analysis is not simply a form of “deconstructive activity”—deconstruction as a means to investigate an object—but an examination of Christianity’s self-deconstruction. The interplay between religion and modernity brings to the fore a dynamic of self-deconstruction, in which both are involved in a constant process of “turning away from themselves” and “leaving themselves behind.” This retreat from self, Nancy suggests, may be a movement that is as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.13</book-part-id>
+                  <title-group>
+                     <title>Winke:</title>
+                     <subtitle>Divine Topoi in Nancy, Hölderlin, and Heidegger</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de VRIES</surname>
+                           <given-names>HENT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>112</fpage>
+                  <abstract>
+                     <p>That Hölderlin’s poetry revolves around certain notions of the divine, of gods, and of the holy is almost a commonplace, though it does so in a manner very different from the discourses on the coming god familiar from the Romantics through the later Heidegger.¹ The notion of the divine is often introduced in Hölderlin in a language that invokes topological images, theophanic heavens, and semigodly rivers, each of which seems to mark a specific manifestation or presence that is at once ineluctable and elusive, inscribed on the face of the earth and the sky but also “immediate” in an utterly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.14</book-part-id>
+                  <title-group>
+                     <title>God Passing By:</title>
+                     <subtitle>Presence and Absence in Monotheism and Atheism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KATE</surname>
+                           <given-names>LAURENS ten</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>132</fpage>
+                  <abstract>
+                     <p>The central characteristic of monotheism may be, not the exclusive acknowledgement of a single God, but something that Jan Assmann recently named the “Mosaic distinction.”¹ This distinction is twofold. According to Assmann, it primarily designates the discordant difference between true and false religion, and between a true and a false God.² Assmann demonstrates how this distinction turned the natural and obvious presence of religion itself into a<italic>problem</italic>. Religion had to interrogate its truth instead of simply coinciding with it—“being” its own truth—and in this way its presence was no longer guaranteed, nor was that of its God:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.15</book-part-id>
+                  <title-group>
+                     <title>Thinking Alterity—In One or Two?</title>
+                     <subtitle>Nancy’s Christianity Compared with Lyotard’s Judaism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van PEPERSTRATEN</surname>
+                           <given-names>FRANS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Recent political problems in some European countries are once again strongly associated with religious differences within their populations. From within one religion, another religion or the absence of religion is experienced as alterity. At the same time, religion is in itself a way of experiencing alterity, namely, the alterity usually indicated with the word<italic>God</italic>.</p>
+                     <p>Nancy discusses both kinds of alterity in<italic>Dis-enclosure</italic>. He refers to the first, for example, in discussing the complex relations between Judaism, Christianity, Islam, and Greek philosophy and to the second when he remarks, in the “Opening”: “Christianity designates nothing other . . . than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.16</book-part-id>
+                  <title-group>
+                     <title>The Excess of Reason and the Return of Religion:</title>
+                     <subtitle>Transcendence of Christian Monotheism in Nancy’s Dis-enclosure</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOOSE</surname>
+                           <given-names>DONALD</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Peek</surname>
+                           <given-names>Ron</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>“It is not a question of reviving religion.” The first sentence of the “Opening” of<italic>Dis-Enclosure</italic>is very clear in this regard. Further on in the same section, Nancy writes: “It is also not a question of repainting the skies” and “It is not our concern to save religion, even less to return to it” (<italic>D</italic>1/9).</p>
+                     <p>If not, then what is our concern? Nancy provides an answer by referring to Kant’s<italic>Religion Within the Boundaries of Mere Reason</italic>: “It is, however, a question of opening mere reason up to the limitlessness that constitutes its truth” (<italic>D</italic>1/9). Whereas for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.17</book-part-id>
+                  <title-group>
+                     <title>Intermezzo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Rooden</surname>
+                           <given-names>Aukje</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>As Parts I and II have demonstrated, Nancy conceives Christianity—or more generally, monotheism—as a religion that is marked from the outset by a secular structure. This secular structure consists not in the proposition of a unique God but in the way this God is present in the world. What is most important in the shift from polytheism to monotheism is thus not a reduction in the number of gods but a rearticulation of the relation between God and the world. Whereas polytheism affirms the immediate presence of gods and believes them to inhabit and organize the world, monotheism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.18</book-part-id>
+                  <title-group>
+                     <title>“My God, my God, why hast Thou forsaken me?”</title>
+                     <subtitle>Demythologized Prayer; or, the Poetic Invocation of God</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van ROODEN</surname>
+                           <given-names>AUKJE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>A thesis only marginally stressed in<italic>Dis-enclosure: The Deconstruction of Christianity</italic>, though revealing one of its essential structures, is that a deconstruction of Christianity should be understood as a form of demythologization. Or, as Nancy has it, Christianity “understands itself in a way that is less and less religious in the sense in which religion implies a mythology (a narrative, a representation of divine actions and persons)” (<italic>D</italic>37/57). The seemingly strange statement that the Christian religion increasingly understands itself “in a way that is less and less religious,” is a reformulation of Nancy’s central thesis that Christianity is a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.19</book-part-id>
+                  <title-group>
+                     <title>Literary Creation, Creation ex Nihilo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LISSE</surname>
+                           <given-names>MICHEL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>McKeane</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>In<italic>Dis-enclosure</italic>, Jean-Luc Nancy suggests that in Western culture “God’s act of creation” has provided “the least bad analogical recourse” for designating the “void-artist-body [<italic>corps-vide-artiste</italic>]” (<italic>D</italic>69/99; first trans. modified). Working backward, from this we can posit, still speaking analogically, that God’s act of creation generated the myth or concept of creation that is involved in the process and results of literary writing. Such a myth of creation should be understood in at least two senses: first, myth as an originary tale (<italic>récit</italic>) of foundation that has come down to us via the Judeo-Christian tradition (Genesis), and second, myth in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.20</book-part-id>
+                  <title-group>
+                     <title>The God Between</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’BYRNE</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>Jean-Luc Nancy is without doubt a post-Marxist, post-Heideggerian and—I would add—post-Arendtian thinker.¹ His ontology bears traces of all three, but this ontology flows, above all, from an attempt to think creation ex nihilo after the death of the creator God. Even now, so long after Nietzsche, and so very long after Descartes set the process of secularization in motion, it is a thinking that is only uneasily, hesitantly under way. We have gone beyond God, as Nancy puts it, but in a direction still too much determined by the thought of his death and by the necro-monotheist tradition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.21</book-part-id>
+                  <title-group>
+                     <title>The Immemorial:</title>
+                     <subtitle>The Deconstruction of Christianity, Starting from “Visitation: Of Christian Painting”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CALABRÒ</surname>
+                           <given-names>DANIELA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>A short but unusually charged essay by Jean-Luc Nancy, “Visitation: Of Christian Painting,” will help us align his mediations on art with his deconstruction of Christianity. Let us begin with its opening words:</p>
+                     <p>Art never commemorates. It is not made to preserve a memory, and whenever it is set to work in a monument, it does not belong to the memorializing aspect of the work. . . . If art in general has any relation to memory, it is to that strange memory that has never been deposited in a remembrance, which is therefore susceptible neither to forgetting nor to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.22</book-part-id>
+                  <title-group>
+                     <title>Intermezzo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alexandrova</surname>
+                           <given-names>Alena</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>Whereas Part III deals with how the self-deconstruction of monotheism and Christianity entails a poetic mode of language and sense, this part examines how this self-deconstructive moment plays out in art and the image. Nancy suggests that art does not merely illustrate religion. Instead, the two are involved in the same self-deconstructive movement or in a process of a mutual dis-enclosure. Whereas art provides the sensible articulation of the internal destabilization of the religious mode, the unstable core in religion—an origin in its displacement—forms an integral part of the condition of art.</p>
+                     <p>Nancy proposes that monotheism cannot be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.23</book-part-id>
+                  <title-group>
+                     <title>Incarnation and Infinity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAMES</surname>
+                           <given-names>IAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>246</fpage>
+                  <abstract>
+                     <p>To a degree, Christianity can and must be considered a powerful confirmation of metaphysics. Jean-Luc Nancy clearly affirms this inevitable complicity of Christianity with a metaphysics of presence, and therefore with a certain trajectory of metaphysical thinking withinWestern and European philosophy, at the beginning of<italic>Dis-enclosure</italic>(<italic>D</italic>6–7/15–17). It recalls the analysis of the Eucharist in his earlier work Corpus, according to which the phrase<italic>Hoc est enim corpus meum</italic>is seen as an assertion, tirelessly repeated, of the immediate presence of God, an affirmation that “God’s<italic>body</italic>is<italic>there</italic>” (<italic>C</italic>3). Such an affirmation of presence, Nancy suggests, reassures</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.24</book-part-id>
+                  <title-group>
+                     <title>Ontology of Creation:</title>
+                     <subtitle>The Onto-aisthetics of Jean-Luc Nancy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANCHEV</surname>
+                           <given-names>BOYAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Blackmore</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>The idea of creation lies at the core of the four domains in which Jean-Luc Nancy’s thinking is most influential today: thinking about the world (one would traditionally refer to this as ontology); thinking about art and, in particular, the image (i.e., “aesthetics”); thinking about the sacred and religion; and thinking about politics. In this essay, I will explore the common dynamic that draws them together, since I believe a grasp of this dynamic is crucial for understanding Nancy’s thinking and the radical challenges it poses.</p>
+                     <p>Nancy’s entire “aesthetic” thinking is governed by the notion of creation. At the same</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.25</book-part-id>
+                  <title-group>
+                     <title>Distinct Art</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALEXANDROVA</surname>
+                           <given-names>ALENA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>Art has always maintained a special relationship with the divine—struggling to figure it, to present it, or to negate it. As Jean-Luc Nancy might formulate it, art bears witness to the opening of the divine, or to the divine as opening: in other words, to the world as it is. It is “homogeneous with religions,” but even within religion, it is never religious (<italic>M1</italic>99/157; trans. modified). Art, specifically the image, occupies an aporetic place with regard to religion insofar as by virtue of its impossible task—to figure the invisible—it deconstructs religion from within.</p>
+                     <p>Themes pertaining to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.26</book-part-id>
+                  <title-group>
+                     <title>The Dis-enclosure of Contemporary Art:</title>
+                     <subtitle>An Underpinning Work</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FERRARI</surname>
+                           <given-names>FEDERICO</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Verdicchio</surname>
+                           <given-names>Massimo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>I would like to let his thoughts run freely on the surface, incoercible, selfevident, without delays. I can only work on the margins, on those points that do not appear, that remain hidden in the cellar, where the pillars of the foundations start. There is nothing else to do but leave everything as is, to take up everything, once again and endlessly, but underpinning (<italic>en sous-oeuvre</italic>). In these few sentences that I will allow to rise on the surface, on my skin, on the outside and at the edge of my thoughts, there where everything seems clear and complete, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.27</book-part-id>
+                  <title-group>
+                     <title>On Dis-enclosure and Its Gesture, Adoration:</title>
+                     <subtitle>A Concluding Dialogue with Jean-Luc Nancy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NANCY</surname>
+                           <given-names>JEAN-LUC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <collab>THE EDITORS</collab>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>McKeane</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>304</fpage>
+                  <abstract>
+                     <p>After reading the manuscript of<italic>Re-treating Religion</italic>, Jean-Luc Nancy proposed responding in the form of a dialogue about the central issues, problems, and perspectives of a deconstruction of Christianity and monotheism more generally. This conversation took place at his house in Strasbourg on June 27, 2009. At that time, Nancy was working on<italic>Adoration</italic>, the second volume of his<italic>Deconstruction of Christianity</italic>, which appeared in spring 2010. As a result, this dialogue not only deals with the general topics of Nancy’s project but also creates a bridge from<italic>Dis-enclosure</italic>to the new book. On its back cover, Nancy expresses the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.28</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.29</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>385</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cjjf.30</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>389</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

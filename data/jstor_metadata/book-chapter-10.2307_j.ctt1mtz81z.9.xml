@@ -1,0 +1,293 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1mtz81z</book-id>
+      <subj-group>
+         <subject content-type="call-number">T14 .C5726 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Technology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human-machine systems</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Information technology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cyborgs</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Romanticism</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>General Science</subject>
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>New Romantic Cyborgs</book-title>
+         <subtitle>Romanticism, Information Technology, and the End of the Machine</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Coeckelbergh</surname>
+               <given-names>Mark</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>02</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262035460</isbn>
+      <isbn content-type="epub">9780262343084</isbn>
+      <isbn content-type="epub">0262343088</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1mtz81z"/>
+      <abstract abstract-type="short">
+         <p>Romanticism and technology are widely assumed to be opposed to each other. Romanticism -- understood as a reaction against rationalism and objectivity -- is perhaps the last thing users and developers of information and communication technology (ICT) think about when they engage with computer programs and electronic devices. And yet, as Mark Coeckelbergh argues in this book, this way of thinking about technology is itself shaped by romanticism and obscures a better and deeper understanding of our relationship to technology. Coeckelbergh describes the complex relationship between technology and romanticism that links nineteenth-century monsters, automata, and mesmerism with twenty-first-century technology's magic devices and romantic cyborgs.Coeckelbergh argues that current uses of ICT can be interpreted as attempting a marriage of Enlightenment rationalism and romanticism. He describes the "romantic dialectic," when this new kind of material romanticism, particularly in the form of the cyborg as romantic figure, seems to turn into its opposite. He shows that both material romanticism and the objections to it are still part of modern thinking, and part of the romantic dialectic. Reflecting on what he calls "the end of the machine," Coeckelbergh argues that to achieve a more profound critique of contemporary technologies and culture, we need to explore not only different ways of thinking but also different technologies -- and that to accomplish the former we require the latter.</p>
+      </abstract>
+      <counts>
+         <page-count count="336"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>The Question Concerning Technology and Romanticism</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Romanticism is usually seen as a historical artistic and cultural movement, starting at the end of the eighteenth century and—at most—reaching far into the nineteenth century: from Jean-Jacques Rousseau’s return to nature to William Morris’s medievalism and beyond. As a reaction against mainstream classicism, Enlightenment rationalism, scientific objectivism, disenchantment, and attempts to crush religion, Romanticism¹ attempted to revive and liberate subjective feeling and emotion, passion, horror, and melancholy. It tried to reenchant the world and unite what was divided. It searched for personal liberation and freedom from convention and tradition, experimented with drugs and various forms of sexual</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Romanticism</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Making a connection between romanticism and technology is not a very obvious thing to do; the two terms do not seem to live together comfortably. The main reason for this has to do with the fact that we are romantics to the bone: most romantics think that there is an unbridgeable gap between both. So what is romanticism, and what does it mean for our relation to technology? In this chapter I outline some key features of Romanticism as a cultural-historical movement (hence the capital<italic>R</italic>), and argue that today we are still very romantic in a broad sense (without</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Romanticism against the Machine?</title>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Romanticism and technology are usually assumed to be incompatible. Romanticism is associated with feeling, imagination, and nostalgia. It is seen as backward looking and conservative. It is also seen as religious. It is supposed to be dreamy and otherworldly. It is about subjects, spirits, and ghosts. It is about magic. Technology, by contrast, is associated with objectivity, rationality, and an orientation toward the future. It is seen as nonreligious or even antireligious. It is seen as practical and realistic, quite the opposite of dreamy. It is concerned with this world—if the concept of another world is taken to make</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Romanticism with the Machine (1):</title>
+                     <subtitle>From Frankenstein’s Monster to Hippie Computing</subtitle>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>Romanticism is not necessarily hostile to science and technology. In chapter 2 I mentioned Novalis’s ideas about “magic science”—the view that Romantic philosophy aspired to a synthesis rather than a rejection of science and technology—and of course Gothic literature such as Mary Shelley’s, which was informed by and commented on science and technology and should not be reduced to a simple rejection of technology. In chapter 3 I also suggested that romanticism is not necessarily opposed to technology. In this chapter, I develop this line of thought and engage with histories of science to show how Romanticism is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Romanticism with the Machine (2):</title>
+                     <subtitle>Cyberromanticism, Uncanny Robots, Romantic Cyborgs, and Spooky Science</subtitle>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>This chapter explores how romanticism today takes on various shapes and (dis) guises in the development and use of contemporary electronic technology. It starts with the perhaps by now familiar cyberromanticism narrative of how the Internet created new romantic spaces and opportunities for romantic-Platonic escape; how romantic machines were developed that were more human, more personal, more beautiful—machines that more than ever before enabled one to escape to Wonderland and shape one’s identity. But I also go further than most of the other literature in the cyberromanticism field and make new claims that take into account our contemporary, early</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Criticisms of Romanticism and of the End-of-the-Machine Vision</title>
+                  </title-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Romanticism can and has been criticized, and these criticisms also apply to technoromanticism. I start by enumerating some of them. First, technoromanticism may lead to escape to a different reality, create distance, and constitute a disengaged relation to the (real) environment. Since the new worlds of games, films, and virtual realities are so immersive, this seems to come at the expense of engagement with “this” world. Second, technoromanticism may lead to self-absorption and narcissism: insofar as romantic use of technologies such as the Internet and smartphones enables retreat in our fantastic inner, private world where we find harmony and can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Beyond Romanticism and beyond Modernity:</title>
+                     <subtitle>Toward the (Real) End of the Machine?</subtitle>
+                  </title-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>In the previous chapters I have employed the phrase “the end of the machine.” But what, exactly, does<italic>end</italic>mean? I have used the term in at least two senses, meanings that can be clarified by looking briefly at Heidegger’s discussion of ending and death in<italic>Being and Time</italic>(1927). In section 48, Heidegger distinguishes between, on the one hand, ending as stopping and disappearance, and on the other hand, ending as ripening and fulfillment (227). Whereas the former meaning is about termination, the latter concerns end as a telos, a purpose. It is about completion and fulfillment. Now whatever</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.11</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.12</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mtz81z.13</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>301</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,1294 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1hd18x6</book-id>
+      <subj-group>
+         <subject content-type="call-number">DT15 .I15 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Blacks</subject>
+         <subj-group>
+            <subject content-type="lcsh">Race identity</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Identity (Philosophical concept)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Social groups</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, Black</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Philosophy</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>I Am Because We Are</book-title>
+         <subtitle>Readings in Africana Philosophy</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited with Introductions by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Hord</surname>
+               <given-names>Fred Lee</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <string-name>Mzee Lasana Okpara</string-name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Lee</surname>
+               <given-names>Jonathan Scott</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>11</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781625341754</isbn>
+      <isbn content-type="epub">9781613763735</isbn>
+      <isbn content-type="epub">1613763735</isbn>
+      <publisher>
+         <publisher-name>University of Massachusetts Press</publisher-name>
+         <publisher-loc>Amherst; Boston</publisher-loc>
+      </publisher>
+      <edition>REV - Revised, 2</edition>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>University of Massachusetts Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1hd18x6"/>
+      <abstract abstract-type="short">
+         <p>First published in 1995, I Am Because We Are has been recognized as a major, canon-defining anthology and adopted as a text in a wide variety of college and university courses. Bringing together writings by prominent black thinkers from Africa, the Caribbean, and North America, Fred Lee Hord and Jonathan Scott Lee made the case for a tradition of "relational humanism" distinct from the philosophical preoccupations of the West.</p>
+         <p>Over the past twenty years, however, new scholarly research has uncovered other contributions to the discipline now generally known as "Africana philosophy" that were not included in the original volume. In this revised and expanded edition, Hord and Lee build on the strengths of the earlier anthology while enriching the selection of readings to bring the text into the twenty-first century. In a new introduction, the editors reflect on the key arguments of the book's central thesis, refining them in light of more recent philosophical discourse. This edition includes important new readings by Kwame Gyekye, Oyèrónké Oy˘ewùmí, Paget Henry, Sylvia Wynter, Toni Morrison, Charles Mills, and Tommy Curry, as well as extensive suggestions for further reading.</p>
+      </abstract>
+      <counts>
+         <page-count count="528"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.4</book-part-id>
+                  <title-group>
+                     <title>I Am Because We Are—Twenty years on</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>In the twenty years since the first edition of<italic>I Am Because We Are—Readings in Black Philosophy</italic>went to print many things have changed both within the academy and outside the walls of colleges and universities. many departments and programs of Black studies have rechristened themselves as programs in Africana studies, while other such entities have been folded into programs dedicated to race and ethnic studies. At the same time, there has been a remarkable proliferation of anthologies and texts dealing with African philosophy and with African American philosophy (for a guide to these resources, see our selected Bibliography</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.5</book-part-id>
+                  <title-group>
+                     <title>“I am because we are”:</title>
+                     <subtitle>An Introduction to Black Philosophy</subtitle>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>The volume you hold in your hands offers itself as a highly selective overview of a central tradition of black philosophy, a tradition extending over more than five thousand years and stretching geographically from Africa to the Caribbean and North America.¹ This tradition includes a rich diversity of texts, including the Egyptian<italic>Book of Coming Forth by Day;</italic>essays on negritude by Léopold Sédar Senghor and Wole Soyinka; practical reflections on revolution, political reform, and the relation between culture and identity in texts by Julius nyerere, Amilcar Cabral, Malcolm X, and Frantz Fanon; and sophisticated proposals for the transformation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>It is in the texts from Africa included here that the three generative themes discussed in our introduction are most clearly articulated. From the beginnings of recorded African thought in<italic>The Book of Coming Forth by Day</italic>(better known as the egyptian<italic>Book of the Dead</italic>) to the stirring words of Nelson Mandela, from the conceptualization of negritude in the work of Léopold Sédar Senghor and Aimé Césaire to the profound reimagining of identity and gender in the recent contributions of Kwame Gyekye and Oyèrónké Oyewùmí, there is a repeated emphasis on the relation between the individual and his/her community.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.7</book-part-id>
+                  <title-group>
+                     <title>The Declarations of Innocence (ca. 1500 B.C.E.)</title>
+                  </title-group>
+                  <fpage>31</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.8</book-part-id>
+                  <title-group>
+                     <title>The Teachings of Ptahhotep (ca. 2400 B.C.E.)</title>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>These are instructions by the mayor of the City, who is also the Vizier. His name is Ptahhotep and he serves under Pharoah Assa, who lives for all eternity. The Mayor of the city, Vizier Ptahhotep, addressed the Supreme Divinity, the Deity, as follows:</p>
+                     <p>God upon the two crocodiles (reference to Heru, who is sometimes shown standing on two crocodiles). My God, the process of aging brings senility. My mind decays and forgetfulness of the things of yesterday has already begun. Feebleness has come and weakness grows. Childlike, one sleeps all day. The eyes are dim and the ears are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.9</book-part-id>
+                  <title-group>
+                     <title>An Interview with H. Odera Oruka (ca. late 1970s)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AKOKO</surname>
+                           <given-names>PAUL MBUYA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>Q. Did the Luo speak of things which happened, say, one hundred years ago?</p>
+                     <p>A. In<italic>Dholuo,</italic>“Luo Language,” time is known as<italic>kinde.</italic>The Luo have always had quite a lot to say about those things which happened long ago by using specific events to mark out or pinpoint the location of such events on the time-continuum. Ex hypothesi, a person may refer to a famine which had taken place as a result of drought. That would be quite a story. Another example which could be given is the case of a man who defended the tribe during wars,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.10</book-part-id>
+                  <title-group>
+                     <title>Negritude:</title>
+                     <subtitle>A Humanism of the Twentieth Century (1966)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SENGHOR</surname>
+                           <given-names>LÉOPOLD SÉDAR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>During the last thirty or so years that we have been proclaiming negritude, it has become customary, especially among English-speaking critics, to accuse us of<italic>racialism.</italic>This is probably because the word is not of english origin. But, in the language of Shakespeare, is it not in good company with the words humanism and socialism? Mphahleles¹ have been sent about the world saying, “negritude is an inferiority complex”; but the same word cannot mean both racialism and inferiority complex without contradiction. The most recent attack comes from ghana, where the government has commissioned a poem entitled “I hate negritude”—as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.11</book-part-id>
+                  <title-group>
+                     <title>Consciencism (1964)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NKRUMAH</surname>
+                           <given-names>KWAME</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>Practice without thought is blind; thought without practice is empty. The three segments of African society which I specified in the last chapter, the traditional, the Western, and the Islamic, coexist uneasily; the principles ani mating them are often in conflict with one another. I have in illustration tried to show how the principles which inform capitalism are in conflict with the socialist egalitarianism of the traditional African society.</p>
+                     <p>What is to be done, then? I have stressed that the two other segments, in order to be rightly seen, must be accommodated only as experiences of the traditional African society.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.12</book-part-id>
+                  <title-group>
+                     <title>Ujamaa—The Basis of African Socialism (1962)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NYERERE</surname>
+                           <given-names>JULIUS K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Socialism, like democracy, is an attitude of mind. In a socialist society it is the socialist attitude of mind, and not the rigid adherence to a standard political pattern, which is needed to ensure that the people care for each other’s welfare.</p>
+                     <p>The purpose of this paper is to examine that attitude. It is not intended to define the institutions which may be required to embody it in a modern society.</p>
+                     <p>In the individual, as in the society, it is an attitude of mind which distinguishes the socialist from the nonsocialist. It has nothing to do with the possession or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.13</book-part-id>
+                  <title-group>
+                     <title>Identity and Dignity in the Context of the National Liberation Struggle (1972)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CABRAL</surname>
+                           <given-names>AMILCAR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>The people’s struggle for national liberation and independence from imperialist rule has become a driving force of progress for humanity and undoubtedly constitutes one of the essential characteristics of contemporary history.</p>
+                     <p>An objective analysis of imperialism insofar as it is a fact or a “natural” historical phenomenon, indeed “necessary” in the context of the type of economic political evolution of an important part of humanity, reveals that imperialist rule, with all its train of wretchedness, of pillage, of crime and of destruction of human and cultural values, was not just a negative reality. The vast accumulation of capital in half-a-dozen</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.14</book-part-id>
+                  <title-group>
+                     <title>White Racism and Black Consciousness (1971)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BIKO</surname>
+                           <given-names>STEVE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>“No race possesses the monopoly of beauty, intelligence, force, and there is room for all of us at the rendezvous of victory.” I do not think Aimé Césaire was thinking about South Africa when he said these words. The whites in this country have placed themselves on a path of no return. So blatantly exploitative in terms of the mind and body is the practice of white racism that one wonders if the interests of blacks and whites in this country have not become so mutually exclusive as to exclude the possibility of there being “room for all of us</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.15</book-part-id>
+                  <title-group>
+                     <title>from Myth, Literature, and the African World (1976)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOYINKA</surname>
+                           <given-names>WOLE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>The question must now be confronted: How comes it then that, despite the extolled self-apprehending virtues of these and other works, it is possible to entertain a hostile attitude towards the programmatic summation in the secular vision of negritude? There is none of these works whose ideals may not be interpreted as the realization of the principles of race-retrieval which are embodied in the concept of negritude, yet negritude continues to arouse more than a mere semantic impatience among the later generation of African writers and intellectuals, in addition to—let this be remembered—serious qualifications of or tactical withdrawal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.16</book-part-id>
+                  <title-group>
+                     <title>Feminism and Revolution (1978)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THÍAM</surname>
+                           <given-names>AWA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>While women from industrialized countries are focusing their attention on the problem of creating a typically female language, the daughters of black Africa are still at the stage of seeking their own dignity, for the recognition of their own specificity as human beings. This specificity has always been refused them by white colonialists or neocolonialists and by their own black males. One only needs to glance briefly at history to realize this. Africa in the fifteenth and sixteenth centuries was the source of human merchandise, the “black gold” of the time: slaves to be scattered all over America and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.17</book-part-id>
+                  <title-group>
+                     <title>We Are Committed to Building a Single Nation in Our Country:</title>
+                     <subtitle>Speech at Rally in Durban, February 25, 1990</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANDELA</surname>
+                           <given-names>NELSON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Friends, comrades, and the people of Natal, I greet you all. I do so in the name of<italic>peace,</italic>the peace that is so desperately and urgently needed in this region.</p>
+                     <p>In Natal, apartheid is a deadly cancer in our midst, setting house against house and eating away at the precious ties that bind us together. This strife amongst ourselves wastes our energy and destroys our unity. My message to those of you involved in this battle of brother against brother is this: Take your guns, your knives, and your<italic>pangas</italic>[machetes], and throw them into the sea. Close down</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.18</book-part-id>
+                  <title-group>
+                     <title>Person and Community:</title>
+                     <subtitle>In Defense of Moderate Communitarianism (1997)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GYEKYE</surname>
+                           <given-names>KWAME</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>The most appropriate type of relation that should exist between the individual and society has been an intractable problem for social and political philosophy. The problem arises because we believe, on one hand, that the individual human being has autonomy, freedom, and dignity—values that are considered most worthwhile and ought therefore to be respected by the society; we believe, on the other hand, that the individual not only is a natural member of the human society but needs society and all that it makes available for the realization of the individual’s potential, and for living a life that is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.19</book-part-id>
+                  <title-group>
+                     <title>(Re) constituting the Cosmology and Sociocultural Institutions of Òyò-Yorùbá:</title>
+                     <subtitle>Articulating the Yorùbá World-Sense (1997)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OYĔWÙMÍ</surname>
+                           <given-names>OYÈRÓNKÉ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Indisputably, gender has been a fundamental organizing principle in Western societies.¹ Intrinsic to the conceptualization of gender is a dichotomy in which male and female, man and woman, are constantly and binarily ranked, both in relationship to and against each other. It has been well documented that the categories of male and female in Western social practice are not free of hierarchical associations and binary oppositions in which the male implies privilege and the female subordination. It is a duality based on a perception of human sexual dimorphism inherent in the definition of gender. Yorùbá society, like many other societies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.20</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>In the texts from the caribbean included here, the generative themes of African philosophy find expression in the context of the black diaspora forced by the Atlantic slave trade. The ontological emphasis on a relational con ception of reality plays a particularly important role in helping define the black community as something distinct from the European community of slaveholders. In turn, the Caribbean philosophical tradition presented here devotes much attention to the issues of constructing notions both of identity and self-determination and of culture and ethos within the framework of the black community. Thus the relational humanism so characteristic of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.21</book-part-id>
+                  <title-group>
+                     <title>Africa for the Africans</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARVEY</surname>
+                           <given-names>MARCUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>For five years the Universal Negro Improvement Association has been advo cating the cause of Africa for the Africans—that is, that the Negro peoples of the world should concentrate upon the object of building up for themselves a great nation in Africa.</p>
+                     <p>When we started our propaganda toward this end several of the so-called intellectual Negroes who have been bamboozling the race for over half a century said that we were crazy, that the Negro peoples of the Western world were not interested in Africa and could not live in Africa. One editor and leader went so far as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.22</book-part-id>
+                  <title-group>
+                     <title>The Future as I See It (1919)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARVEY</surname>
+                           <given-names>MARCUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>It comes to the individual, the race, the nation once in a lifetime to decide upon the course to be pursued as a career. The hour has now struck for the individual Negro as well as the entire race to decide the course that will be pursued in the interest of our own liberty.</p>
+                     <p>We who make up the Universal Negro Improvement Association have decided that we shall go forward, upward, and onward toward the great goal of human liberty. We have determined among ourselves that all barriers placed in the way of our progress must be removed, must be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.23</book-part-id>
+                  <title-group>
+                     <title>The Awakening of Race Consciousness among Black Students (1932)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NARDAL</surname>
+                           <given-names>PAULETTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>180</fpage>
+                  <abstract>
+                     <p>I shall study this awakening more specifically among black Antilleans. Their attitude about matters of race has certainly changed. A mere few years ago, one might even say a few months, certain subjects were taboo in martinique. Woe to those who dared broach them! one could not speak of slavery nor proclaim pride in being of African descent without being considered a fanatic or at the very least eccentric. such matters roused no deep chord in the young or the old.</p>
+                     <p>Now this quasi-contemptuous indifference seems to have transformed itself into a startled interest among the older generation and a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.24</book-part-id>
+                  <title-group>
+                     <title>The West Indian Middle Classes (1961)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAMES</surname>
+                           <given-names>C. L. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>The middle classes in the West Indies, colored peoples, constitute one of the most peculiar classes in the world, peculiar in the sense of their unusual historical development and the awkward and difficult situation they occupy in what constitutes the West Indian nation, or, nowadays, some section of it.</p>
+                     <p>Let me get one thing out of the way. They are not a defective set of people. In intellectual capacity, i.e., ability to learn, to familiarize themselves with the general scholastic requirements of Western civilization, they are and for some time have been unequalled in the colonial world. If you take</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.25</book-part-id>
+                  <title-group>
+                     <title>from Discourse on Colonialism (1955)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CÉSAIRE</surname>
+                           <given-names>AIMÉ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>196</fpage>
+                  <abstract>
+                     <p>A civilization that proves incapable of solving the problems it creates is a decadent civilization.</p>
+                     <p>A civilization that chooses to close its eyes to its most crucial problems is a stricken civilization.</p>
+                     <p>A civilization that uses its principles for trickery and deceit is a dying civilization.</p>
+                     <p>The fact is that the so-called european civilization—“Western” civilization—as it has been shaped by two centuries of bourgeois rule, is incapable of solving the two major problems to which its existence has given rise: the problem of the proletariat and the colonial problem; that europe is unable to justify itself either before</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.26</book-part-id>
+                  <title-group>
+                     <title>Racism and Culture (1956)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FANON</surname>
+                           <given-names>FRANTZ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>The unilaterally decreed normative value of certain cultures deserves our careful attention. one of the paradoxes immediately encountered is the rebound of egocentric, sociocentric definitions.</p>
+                     <p>There is first affirmed the existence of human groups having no culture; then of a hierarchy of cultures; and finally, the concept of cultural relativity.</p>
+                     <p>We have here the whole range from overall negation to singular and specific recognition. It is precisely this fragmented and bloody history that we must sketch on the level of cultural anthropology.</p>
+                     <p>There are, we may say, certain constellations of institutions, established by particular men in the framework of precise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.27</book-part-id>
+                  <title-group>
+                     <title>Black Power, a Basic Understanding (1969)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RODNEY</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>Black Power is a doctrine about black people, for black people, preached by black people. I’m putting it to my black brothers and sisters that the color of our skins is the most fundamental thing about us. I could have chosen to talk about people of the same island, or the same religion, or the same class—but instead I have chosen skin color as essentially the most binding factor in our world. In so doing, I am not saying that is the way things ought to be. I am simply recognizing the real world—that is the way things</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.28</book-part-id>
+                  <title-group>
+                     <title>The Shadow of the Whip:</title>
+                     <subtitle>A Comment on Male-Female Relations in the Caribbean (1972)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HODGE</surname>
+                           <given-names>MERLE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>224</fpage>
+                  <abstract>
+                     <p>The man-woman relationship is nowhere a straightforward, uncomplicated one—it is always perhaps the most vulnerable, the most brittle of human relationships. And in the caribbean this relationship has been adversely affected by certain factors of our historical development, notably, I think, by the legacy of violence and disruption with which our society has never adequately come to terms.</p>
+                     <p>Caribbean society was born out of brutality, destructiveness, rape; the destruction of the Amerindian peoples, the assault on Africa, the forced uprooting and enslavement of the African; the gun, the whip, the authority of force. yet the Caribbean area today is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.29</book-part-id>
+                  <title-group>
+                     <title>from The Racial Contract (1997)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILLS</surname>
+                           <given-names>CHARLES W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>230</fpage>
+                  <abstract>
+                     <p>If the epistemology of the signatories, the agents, of the racial contract requires evasion and denial of the realities of race, the epistemology of the victims, the objects, of the racial contract is, unsurprisingly, focused on these realities themselves. (so there is a reciprocal relationship, the racial contract tracking white moral/political consciousness, the reaction to the racial contract tracking nonwhite moral/political consciousness and stimulating a puzzled investigation of that white moral/political consciousness.) The term “standpoint theory” is now routinely used to signify the notion that in understanding the workings of a system of oppression, a perspective from the bottom up</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.30</book-part-id>
+                  <title-group>
+                     <title>The General Character of Afro-Caribbean Philosophy (2000)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENRY</surname>
+                           <given-names>PAGET</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>There are idealist views of philosophy that see it as an affirmation of the autonomy of a thinking subject. As the primary instrument of this absolute subject, philosophy shares in its autonomy and therefore is a discipline that rises above the determinations of history and everyday life. The distinguishing characteristics of Afro-Caribbean philosophy do not support this view. Here we find a tradition of philosophy so indelibly marked by the forces of an imperial history, and by its intertextual relations with neighboring discourses, that it is necessary to begin with a general characterization of philosophy that is more appropriate to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.31</book-part-id>
+                  <title-group>
+                     <title>On How We Mistook the Map for the Territory, and Reimprisoned Ourselves In Our Unbearable Wrongness Of Being, Of Desêtre:</title>
+                     <subtitle>Black Studies Toward the Human Project (2005)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WYNTER</surname>
+                           <given-names>SYLVIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>The emergence of the Black studies movement in its original thrust, before its later cooption into the mainstream of the very order of knowledge whose “truth” in “some abstract universal sense” it had arisen to contest, was inseparable from the parallel emergence of the Black Aesthetic /Black Arts movements and the central reinforcing relationship that had come to exist between them. like the latter two movements, the struggle to institute Black studies programs and departments in mainstream academia had also owed its momentum to the eruption of the separatist “Black Power” thrust of the civil rights movement. It, too, had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.32</book-part-id>
+                  <title-group>
+                     <title>Reasoning in Black:</title>
+                     <subtitle>Africana Philosophy under the Weight of Misguided Reason (2012)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GORDON</surname>
+                           <given-names>LEWIS R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>To be black and reasonable should not be a problem. yet, as many black intellectuals know, their situation makes normative a neurotic confession by the famed comedian groucho marx: It demands their rejecting membership in any club that would accept them as members.¹ This predicament was studied well by the great African American historian, sociologist, and philosopher W. E. B. du Bois. he described it as the problem of being a problem.² The standard response to the black, which in his day was called “the Negro,” was to treat the black as a problem instead of as a human being</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.33</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>The black experience in north America shares important historical roots with that in the caribbean: in both regions, slavery assaulted the black community while reinforcing the need for this community, and strategies of dehumanization were integral to the dominant group’s maintenance of its domination. Thus, as in the caribbean, black philosophy in north America—at least that north American tradition we highlight here—works with the generative themes of the African philosophical tradition in ways that stress the importance of community in preserving and refiguring identity. However, where caribbean philosophy announces itself as a fundamental player in the struggle for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.34</book-part-id>
+                  <title-group>
+                     <title>Oration, Delivered in Corinthian Hall, Rochester, July 5, 1852</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DOUGLASS</surname>
+                           <given-names>FREDERICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>He who could address this audience without a quailing sensation has stronger nerves than I have. I do not remember ever to have appeared as a speaker before any assembly more shrinkingly, nor with greater distrust of my ability, than I do this day. A feeling has crept over me, quite unfavorable to the exercise of my limited powers of speech. The task before me is one which requires much previous thought and study for its proper performance. I know that apologies of this sort are generally considered flat and unmeaning. I trust, however, that mine will not be so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.35</book-part-id>
+                  <title-group>
+                     <title>The Relations and Duties of Free Colored Men in America to Africa</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CRUMMELL</surname>
+                           <given-names>ALEXANDER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>319</fpage>
+                  <abstract>
+                     <p>My dear sir,—It is now many months since I received a letter from you, just as you were about sailing from our shores for your home. In that note you requested me to address you a letter setting forth my views concerning liberia, suggesting at the same time that such a letter might prove interesting to many of our old friends and schoolmates in new york. I have not forgotten your request, although I have not heretofore complied with it. Though convinced of the need and possible usefulness of such a letter as you asked from me, I have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.36</book-part-id>
+                  <title-group>
+                     <title>Womanhood:</title>
+                     <subtitle>A Vital Element in the Regeneration and Progress of a Race (1886)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>COOPER</surname>
+                           <given-names>ANNA JULIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>The two sources from which, perhaps, modern civilization has derived its noble and ennobling ideal of woman are christianity and the feudal system. . . .</p>
+                     <p>Here was the confluence of the two streams we have been tracing, which, united now, stretch before us as a broad majestic river. In regard to woman it was the meeting of two noble and ennobling forces, two kindred ideas, the resultant of which, we doubt not, is destined to be a potent force in the betterment of the world.</p>
+                     <p>Now after our appeal to history comparing nations destitute of this force and so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.37</book-part-id>
+                  <title-group>
+                     <title>The Atlanta Exposition Address (1895)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WASHINGTON</surname>
+                           <given-names>BOOKER T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>One-third of the population of the south is of the negro race. no enterprise seeking the material, civil, or moral welfare of this section can disregard this element of our population and reach the highest success. I but convey to you, Mr. President and directors, the sentiment of the masses of my race when I say that in no way have the value and manhood of the American negro been more fittingly and generously recognized than by the managers of this magnificent Exposition at every stage of its progress. It is a recognition that will do more to cement the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.38</book-part-id>
+                  <title-group>
+                     <title>Does Race Antipathy Serve Any Good Purpose? (1914)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DU BOIS</surname>
+                           <given-names>W. E. B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>347</fpage>
+                  <abstract>
+                     <p>There are four classes of reasons usually given in defense of race antagonism.</p>
+                     <p>1. It is an instinctive repulsion from something harmful and is, therefore, a subtle condition of ultimate survival.</p>
+                     <p>The difficulty with this theory is that it does not square with the facts: race antipathy is not instinctive but a matter of careful education. Black and white children play together gladly and know no prejudice until it is implanted precept upon precept and by strong social pressure; and when it is so implanted it is just as strong in cases where there is no physical difference as it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.39</book-part-id>
+                  <title-group>
+                     <title>On Being Ashamed of Oneself:</title>
+                     <subtitle>An Essay on Race Pride (1933)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DU BOIS</surname>
+                           <given-names>W. E. B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>350</fpage>
+                  <abstract>
+                     <p>My grandfather left a passage in his diary expressing his indignation at receiving an invitation to a Negro picnic. Alexander DuBois, born in the Bahamas, son of Dr. James DuBois of the well-known DuBois family of Poughkeepsie, N. Y., had been trained as a gentleman in the Cheshire School of Connecticut, and the implications of a Negro picnic were anathema to his fastidious soul. It meant close association with poverty, ignorance, and suppressed and disadvantaged people, dirty and with bad manners.</p>
+                     <p>This was in 1856. Seventy years later, Marcus Garvey discovered that a black skin was in itself a sort</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.40</book-part-id>
+                  <title-group>
+                     <title>The Concept of Race (1940)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DU BOIS</surname>
+                           <given-names>W. E. B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>I do not know how I came first to form my theories of race. The process was probably largely unconscious. The differences of personal appearance between me and my fellows, I must have been conscious of when quite young. Whatever distinctions came because of that did not irritate me; they rather exalted me because, on the whole, while I was still a youth, they gave me exceptional position and a chance to excel rather than handicapping me.</p>
+                     <p>Then of course, when I went south to Fisk, I became a member of a closed racial group with rites and loyalties, with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.41</book-part-id>
+                  <title-group>
+                     <title>The New Negro (1925)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOCKE</surname>
+                           <given-names>ALAIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>361</fpage>
+                  <abstract>
+                     <p>In the last decade something beyond the watch and guard of statistics has happened in the life of the American Negro, and the three Norns who have traditionally presided over the Negro problem have a changeling in their laps. The sociologist, the philanthropist, the race leader are not unaware of the New Negro, but they are at a loss to account for him. He simply cannot be swathed in their formulae. For the younger generation is vibrant with a new psychology; the new spirit is awake in the masses, and under the very eyes of the professional observers is transforming</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.42</book-part-id>
+                  <title-group>
+                     <title>Speech on “Black revolution” (New york, April 8, 1964)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>X</surname>
+                           <given-names>MALCOLM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>372</fpage>
+                  <abstract>
+                     <p>Friends and enemies, tonight I hope that we can have a little fireside chat with as few sparks as possible being tossed round, especially because of the very explosive condition that the world is in today. sometimes, when a person’s house is on fire and someone comes in yelling fire, instead of the person who is awakened by the yell being thankful, he makes the mistake of charging the one who awakened him with having set the fire. I hope that this little conversation tonight about the Black revolution won’t cause many of you to accuse us of igniting it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.43</book-part-id>
+                  <title-group>
+                     <title>Black Power (1967)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KING</surname>
+                           <given-names>MARTIN LUTHER</given-names>
+                           <suffix>JR.</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>385</fpage>
+                  <abstract>
+                     <p>Black Power is now a part of the nomenclature of the national community. To some it is abhorrent, to others dynamic; to some it is repugnant, to others exhilarating; to some it is destructive, to others it is useful. since Black Power means different things to different people and indeed, being essentially an emotional concept, can mean different things to the same person on differing occasions, it is impossible to attribute its ultimate meaning to any single individual or organization. One must look beyond personal styles, verbal flourishes, and the hysteria of the mass media to assess its values, its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.44</book-part-id>
+                  <title-group>
+                     <title>Rootedness:</title>
+                     <subtitle>The Ancestor as Foundation (1984)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MORRISON</surname>
+                           <given-names>TONI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>397</fpage>
+                  <abstract>
+                     <p>There is a conflict between public and private life, and it’s a conflict that I think ought to remain a conflict. Not a problem, just a conflict. Because they are two modes of life that exist to exclude and annihilate each other. It’s a conflict that should be maintained now more than ever because the social machinery of this country at this time doesn’t permit harmony in a life that has both aspects. I am impressed with the story of—probably Jefferson, perhaps not, who walked home alone after the presidential inauguration. There must have been a time when an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.45</book-part-id>
+                  <title-group>
+                     <title>Radical Perspectives on the Empowerment of Afro-American Women:</title>
+                     <subtitle>Lessons for the 1980s (1987)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DAVIS</surname>
+                           <given-names>ANGELA Y.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>404</fpage>
+                  <abstract>
+                     <p>The concept of empowerment is hardly new to Afro-American women. for almost a century, we have been organized in bodies that have sought collectively to develop strategies that illuminate the way to economic and political power for ourselves and our communities. In the last decade of the nineteenth century, after having been repeatedly shunned by the racially homogeneous women’s rights movement, black women organized their own club movement. In 1895—five years after the founding of the General Federation of Women’s Clubs, which consolidated a club movement reflecting concerns of middle-class white women—one hundred black women from ten states</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.46</book-part-id>
+                  <title-group>
+                     <title>Philosophy, Ethnicity, and Race (1988)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OUTLAW</surname>
+                           <given-names>LUCIUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>412</fpage>
+                  <abstract>
+                     <p>Millions of us throughout the world are living during very problematic and challenging times. The reasons are numerous and quite complex, made more so by much of what we might otherwise celebrate as milestones of human achievement in many areas: artistic creativity, material and agricultural productivity, science and technology, medicine, transportation and communication, the magnitude and velocity of knowledge and information accumulation and dispersal, and political transformations, to mention a few. A complete litany of the problems and challenges we face is unnecessary. (Nor am I capable of providing one, or would be disposed to do so if I could</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.47</book-part-id>
+                  <title-group>
+                     <title>Feminism:</title>
+                     <subtitle>A Transformational Politic (1989)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOOKS</surname>
+                           <given-names>BELL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>437</fpage>
+                  <abstract>
+                     <p>We live in a world in crisis—a world governed by politics of domination, one in which the belief in a notion of superior and inferior and its concomitant ideology—that the superior should rule over the inferior—affects the lives of all people everywhere, whether poor or privileged, literate or illiterate. Systematic dehumanization, worldwide famine, ecological devastation, industrial contamination, and the possibility of nuclear destruction are realities which remind us daily that we are in crisis. Contemporary feminist thinkers often cite sexual politics as the origin of this crisis. They point to the insistence on difference as that factor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.48</book-part-id>
+                  <title-group>
+                     <title>Learning to Talk of Race (1992)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEST</surname>
+                           <given-names>CORNEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>446</fpage>
+                  <abstract>
+                     <p>What happened in Los Angeles this past April was neither a race riot nor a class rebellion. Rather, this monumental upheaval was a multiracial, trans class, and largely male display of justified social rage. For all its ugly, xeno phobic resentment, its air of adolescent carnival, and its downright barbaric behavior, it signified the sense of powerlessness in American society. Glib attempts to reduce its meaning to the pathologies of the black underclass, the criminal actions of hoodlums, or the political revolt of the oppressed urban masses miss the mark. Of those arrested, only 36 percent were black, more than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.49</book-part-id>
+                  <title-group>
+                     <title>The Black Underclass and Black Philosophers (1989)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEST</surname>
+                           <given-names>CORNEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>452</fpage>
+                  <abstract>
+                     <p>I want to begin by raising the question of what it means to talk about the black underclass from the vantage point of being a black philosopher. It means then that we have to engage in a kind of critical self-inventory, a his torical situating and positioning of ourselves as persons who reflect on the situation of those more disadvantaged than us even though we may have relatives and friends in the black underclass. We have to reflect in part on what is our identity as both black intellectuals, as black philosophers, and more broadly as academicians within the professional-managerial</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.50</book-part-id>
+                  <title-group>
+                     <title>Black Solidarity after Black Power (2005)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHELBY</surname>
+                           <given-names>TOMMIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>463</fpage>
+                  <abstract>
+                     <p>Blacks must be clear about what they ultimately want, and can reasonably expect, from group solidarity. Do blacks want to maintain themselves indefinitely as a distinct, politically autonomous subnation and to view their autonomy, not simply as a means to full and equal civic standing within a multiracial democratic polity, but as an intrinsic goal? Or should they, following the principles of pragmatic nationalism, regard themselves as a community burdened by the stigma of race and racial inequality, collectively seeking to bring about a society where individuals are no longer unfairly disadvantaged because of their racial classification?</p>
+                     <p>At this historical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.51</book-part-id>
+                  <title-group>
+                     <title>The Eschatological Dilemma:</title>
+                     <subtitle>The Problem of Studying the Black Male Only as the Deaths That result from Anti-Black Racism (2015)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CURRY</surname>
+                           <given-names>TOMMY J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>479</fpage>
+                  <abstract>
+                     <p>The sensibilities of the Black American intellectual concerning race have historically been cemented to their ascendency within empire. how one writes about race, offering hope for change in opposition to the totality of racism, and communicates an aspiration for the possibilities made available by American ideals like freedom, justice, and equality has separated the radical from the progressive. In “The failure of the Black Intellectual,” E. Franklin Frazier describes Black intellectualization as de-niggerization of Black scholarship, a retreat from using Black experience as the foundation of theorizing the Blackness, or an “emptying of his [her] life of meaning-ful and content</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.52</book-part-id>
+                  <title-group>
+                     <title>SELECTED BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>501</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1hd18x6.53</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>516</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

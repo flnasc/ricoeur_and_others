@@ -1,0 +1,660 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt16f8btr</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt19jcj7k</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3279.H49J2713 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Heidegger, Martin, 1889–1976</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, French</subject>
+         <subj-group>
+            <subject content-type="lcsh">20th century</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophers</subject>
+         <subj-group>
+            <subject content-type="lcsh">France</subject>
+            <subj-group>
+               <subject content-type="lcsh">Interviews</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Heidegger in France</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>JANICAUD</surname>
+               <given-names>DOMINIQUE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="translator">TRANSLATED BY</role>
+         <contrib contrib-type="translator" id="contrib2">
+            <name name-style="western">
+               <surname>RAFFOUL</surname>
+               <given-names>FRANÇOIS</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib3">
+            <name name-style="western">
+               <surname>PETTIGREW</surname>
+               <given-names>DAVID</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>10</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780253017734</isbn>
+      <isbn content-type="epub">9780253019776</isbn>
+      <isbn content-type="epub">025301977X</isbn>
+      <publisher>
+         <publisher-name>Indiana University Press</publisher-name>
+         <publisher-loc>Bloomington; Indianapolis</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Indiana University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt19jcj7k"/>
+      <abstract abstract-type="short">
+         <p>Dominique Janicaud claimed that every French intellectual movement-from existentialism to psychoanalysis-was influenced by Martin Heidegger. This translation of Janicaud's landmark work, Heidegger en France, details Heidegger's reception in philosophy and other humanistic and social science disciplines. Interviews with key French thinkers such as Françoise Dastur, Jacques Derrida, Éliane Escoubas, Jean Greisch, Philippe Lacoue-Labarthe, Jean-Luc Marion, and Jean-Luc Nancy are included and provide further reflection on Heidegger's relationship to French philosophy. An intellectual undertaking of authoritative scope, this work furnishes a thorough history of the French reception of Heidegger's thought.</p>
+      </abstract>
+      <counts>
+         <page-count count="560"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.4</book-part-id>
+                  <title-group>
+                     <title>Translators’ Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pettigrew</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raffoul</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>Dominique Janicaud’s<italic>Heidegger in France</italic>is a major work of breathtaking historical scope, a unique intellectual undertaking reconstituting in two volumes the history of the French reception of Heidegger, from its earliest stages in the late 1920s until 2000.¹ One “certainty” guided Dominique Janicaud in this enterprise, that of “the omnipresence in France of the influence, direct or indirect, of Heidegger’s thought and work. Apart from the mathematical sciences and life and earth sciences, there is hardly one sector of knowledge or intellectual activity that has not been positively or negatively affected by that thought” (<italic>HF</italic>, 301). Volume 1 is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Once upon a time, a poor Swabian child was born in a little village east of the Black Forest. By the sheer force of his intellect and the tenacity of his own efforts, he became world-famous and conquered the intelligentsia of the “hereditary enemy,” France. How was Heidegger able to occupy, for more than half a century, the privileged position of being a fashionable philosopher, a<italic>maître à penser</italic>in the intellectual and cultural capital of Paris? Some Americans have posed the question more bluntly: how could minds as acute and intelligent as those of the great French intellectuals, from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>First Crossings of the Rhine</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Heidegger’s sudden celebrity following the publication of<italic>Sein und Zeit</italic>in 1927 did not go completely unnoticed in Paris, which was at the time, even more than today, the intellectual capital of Europe, and probably of the world. But to know a name is one thing; to enter into a thinker’s thought is another. While Heidegger’s masterpiece had to wait nearly sixty years before being translated in its entirety into French, reports and publications establish that distinguished university professors like Léon Brunschvicg and Xavier Léon quickly recognized, in this case, that a philosophical event had taken place in Germany.</p>
+                     <p>An</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Sartre Bomb</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>If sartre deserves his own chapter, it is not only because of the explosive eruption of his celebrity after Liberation, but also and above all because of the decisive and very personal way in which he approached Heidegger’s thought—both criticizing it and integrating it into his own philosophical project. This approach transformed the conditions of the first reception of Heidegger. We have already noted the import of this first reception. Without denying his debt to this first reception, Sartre nonetheless eclipsed it through the sheer force of his style and problematic. However, the counterpart of this effect—which Sartre</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Postwar Fascinations</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>It is not surprising that Liberation was not solely political, but cultural as well, and that the Sartre bomb was not the only one to explode at the time of an intense intellectual turmoil, amidst a joyous confusion. Sartre himself noted and deplored that existentialism, transformed into a fashion, became a word that “has been so stretched and has taken on so broad a meaning, that it no longer means anything at all.”¹ Existentialism had almost become a slogan, whose meaning was no longer clear. “At St. Germain des Prés, the language of that time was taking shape and so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Humanism in Turmoil</title>
+                  </title-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>It is unusual for an author to influence his or her own reception abroad. This is, however, what happened with Heidegger’s long response to Jean Beaufret, a response that became famous under the title of<italic>La lettre sur l’humanisme</italic>.¹</p>
+                     <p>One is indebted to Jean Beaufret for having provided details on the circumstances at the origin of this text. It was November 1946. Jean Beaufret spontaneously drafted questions to the attention of the master, on the table of a café, intending to entrust a friend heading to Freiburg with them. He had already exchanged a letter once with Heidegger, which gave</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Bright Spell of the ’50s</title>
+                  </title-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>In what sense did the 1950s reveal a generally favorable, although unavoidably ambiguous, reception of Heidegger’s thought in France? Although one will discover it gradually in this chapter, one already detects that the principal criterion of this ambiguity could not reside exclusively in the division between the partisans and the opponents of that thought: that would be to confuse the scope of a philosophy with the kind of influence associated with an ideology or a political party. Of course, I will have to make room for the reservations or attacks. But one has to take other disagreements into account, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Renewed Polemics, New Shifts</title>
+                  </title-group>
+                  <fpage>112</fpage>
+                  <abstract>
+                     <p>When it comes to the climate, whether in meteorology or in philosophy, changes can be sudden. At the beginning of the 1960s, the bright spell Heidegger had enjoyed did not of course come to an end in one day. Heidegger’s influence continued to inspire original research.¹ The work of translation—distinguished, in particular, by the publication of<italic>Chemins qui ne mènent nulle part</italic>,² an important volume published only five years earlier in Germany—continued,³ but a few signs announced the end of the most favorable years. Furthermore, a page was also being turned in another domain. In politics, the Fifth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Dissemination or Reconstruction?</title>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The years that led from the events of 1968 to the death of the Master in 1976 cannot be characterized in one way. On the contrary, the French reception of Heidegger split up into different, if not contradictory, camps. The appropriation of his thinking became dogmatic in each camp, each closing in upon itself; marginalizations, and indeed, excommunications, proliferated. In acknowledging this dissemination, we are not forgetting what this allusion to the title of Jacques Derrida’s book (which appeared in 1972) connotes:¹ threads become woven with more specialized research and with Heidegger’s most difficult, ambitious, and inapparent themes; one should</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Death and Transfiguration?</title>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>Heidegger passed away in his sleep, the morning of May 26, 1976. He was buried in his birthplace, Messkirch, in a special ceremony that he had carefully organized with his friend Bernhard Welte, the Catholic priest who delivered the homily in the cemetery’s chapel. Before the open grave, Hermann Heidegger read the prayer, Our Father, followed by excerpts from Hölderlin’s poetry.¹ The tombstone is adorned with a small star, however, and not a cross.</p>
+                     <p>Without making any reference to these ritual nuances, Beaufret, who was present at the ceremony with Fédier and Vezin, would remember Heidegger in the following terms,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Letter and the Spirit</title>
+                  </title-group>
+                  <fpage>190</fpage>
+                  <abstract>
+                     <p>Following a sixty-year delay after the original publication of<italic>Sein und Zeit</italic>, two complete French translations of<italic>Sein und Zeit</italic>finally appeared in 1985 and 1986. How could this not be surprising? As far as the delay itself is concerned, it was rooted in (but not completely justified by) a series of coincidences. We have seen that Corbin’s volume was the only thing available at that time; later, the war and Liberation were not conducive to long-drawn-out work; the Louvain pair of de Waehlens and Boehm translated the first forty-four paragraphs incredibly slowly and finally published them with Gallimard in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Return of the Repressed?</title>
+                  </title-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>It was a scandal, and indeed a media-driven scandal, that occurred. But wherein lay the scandal? In the abomination and dishonor of a “great philosopher” suddenly put in the stocks? Or (secondarily), in the fact that the print and broadcast press carried out a media lynching of a famous person (postmortem, to be sure) without taking the trouble to verify the sources of the accusation, as if the pleasure of disparaging the man compensated for the frustration of not understanding the thinker. Finally, one will object that it is a scandal that I devoted an entire chapter to these stories</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Between Erudite Scholarship and Techno-Science</title>
+                  </title-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>The greatest storms began to subside. Approaching the 1990s, we were sailing on relatively calm waters compared to the turbulence of the “Heidegger affair,” even if the thunder could still be heard in the distance.¹</p>
+                     <p>In October 1990, the translation of a much-awaited book by the historian Hugo Ott² was published, a biography of Heidegger that was on the whole well received, although it contained no sensational revelations. Everyone recognized the seriousness of the historian from Freiburg, at least in terms of the establishment of the facts. Ott is not a philosopher and does not claim to be one (his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>At the Crossroads</title>
+                  </title-group>
+                  <fpage>268</fpage>
+                  <abstract>
+                     <p>Our story having reached its chronological end, that is to say, the end of the twentieth century, it would be possible and tempting to draw some lessons and already reach some conclusions. It seemed to us, however, that the work would be incomplete and would leave the reader particularly frustrated if we were not able to stop and cast a careful glance at the landscape we have crossed after this long journey. A philosophical accounting? This is indeed what we should attempt, not without being aware of the limits of the word “accounting,” since we will never manage to establish</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.18</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>301</fpage>
+                  <abstract>
+                     <p>At the end of this study of a philosophical history that covers seven decades of our intellectual life, it is necessary to address the certainties, dissatisfactions, and perplexities, while remaining open to new developments.</p>
+                     <p>With respect to the certainties, what has inspired us from the very beginning has been confirmed: the omnipresence in France of the influence, direct or indirect, of Heidegger’s thought and work. Apart from the mathematical sciences and life and earth sciences, there is hardly any sector of knowledge or intellectual activity that has not been positively or negatively affected by that thought, at times marginally, often</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.19</book-part-id>
+                  <title-group>
+                     <title>Françoise Dastur:</title>
+                     <subtitle>Interview of March 3, 2000</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dastur</surname>
+                           <given-names>Françoise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>327</fpage>
+                  <abstract>
+                     <p>
+                        <italic>When did you first discover Heidegger?</italic>
+                     </p>
+                     <p>I remember having read, during my last year in high school, the volume published by Henri Corbin in 1938, entitled<italic>What Is Metaphysics?</italic>and having been inspired by the text on Hölderlin that it contained. During my<italic>hypokhâgne</italic>class in Lyon, and then during my first year as an undergraduate at the Sorbonne, I continued to read Heidegger (I remember a presentation I gave during<italic>hypokhâgne</italic>on “Angst”). However, I did not really begin to work on Heidegger until my second year at the Sorbonne when I took courses with Ricoeur and Derrida. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.20</book-part-id>
+                  <title-group>
+                     <title>Jacques Derrida:</title>
+                     <subtitle>Interviews of July 1 and November 22, 1999</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Derrida</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>
+                        <italic>When do you think you heard Heidegger’s name for the first time?</italic>
+                     </p>
+                     <p>I think it was probably in<italic>hypokhâgne</italic>and not in my high school philosophy class. I was in the philosophy class during 1947–48 and it doesn’t seem to me that Heidegger’s name had been mentioned at that time. In<italic>hypokhâgne</italic>, I am<italic>sure</italic>of having heard his name in lectures. I had a rather remarkable<italic>hypokhâgne</italic>teacher, Jan Czarneki: he gave lectures on the history of philosophy that were very synthetic and precise, in which he covered everything, from the pre-Socratics to modernity; I remember having heard</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.21</book-part-id>
+                  <title-group>
+                     <title>Éliane Escoubas:</title>
+                     <subtitle>Interview of October 19, 2000</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Escoubas</surname>
+                           <given-names>Éliane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>364</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Would you please briefly retrace your “Heideggerian itinerary” since college?</italic>
+                     </p>
+                     <p>At the beginning of the sixties, in the Faculté des Lettres at Toulouse, I took classes with Gérard Granel and was greatly influenced by him. His lectures on Husserl, Kant, and Hegel (I can remember a superb course on<italic>Faith and Knowledge</italic>), where he developed the Heideggerian interpretation of philosophy and of its history, seemed extraordinarily enlightening to me.</p>
+                     <p>After passing the Agrégation, my first class at the Toulouse Lycée for young women in the fall of 1963 was an introduction to philosophy course devoted to<italic>What Is Called Thinking?</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.22</book-part-id>
+                  <title-group>
+                     <title>Jean Greisch:</title>
+                     <subtitle>Interview of December 2, 1999</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Greisch</surname>
+                           <given-names>Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>371</fpage>
+                  <abstract>
+                     <p>
+                        <italic>You consider yourself to be atypical: what do you mean by that?</italic>
+                     </p>
+                     <p>Coming from the “wilds” of Luxemburg, and having completed training in theology before “converting” to philosophy, I consider that I am totally atypical, in the sense that I was not influenced by any tradition or by any French schools of thought. My relationship to Heidegger preexisted my encounter with the “French Heideggerian School” represented by Jean Beaufret, Henri Birault, and many others. Of course, I had read their works, but all this was in addition to a relation to Heidegger that had already been established. More significantly, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.23</book-part-id>
+                  <title-group>
+                     <title>Philippe Lacoue-Labarthe:</title>
+                     <subtitle>Interview of June 22, 2000</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lacoue-Labarthe</surname>
+                           <given-names>Philippe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>384</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Do you remember the first time you read Heidegger?</italic>
+                     </p>
+                     <p>The first time that I read Heidegger must have been at the end of my<italic>hypokhâgne</italic>at Le Mans. I had a charming professor of philosophy, but he was not a philosopher. I had above all benefited from the teaching of a professor of French literature, Gérard Genette. The following year I left Le Mans, reluctantly, at the same time that Derrida was appointed to teach in<italic>hypokhâgne</italic>… Consequently, I never had the opportunity to be Derrida’s student. Genette and I corresponded, and during that summer Heidegger’s name had come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.24</book-part-id>
+                  <title-group>
+                     <title>Jean-Luc Marion:</title>
+                     <subtitle>Interview of December 3, 1999</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marion</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>393</fpage>
+                  <abstract>
+                     <p>
+                        <italic>My first question would concern your personal itinerary, your philosophical beginnings.</italic>
+                     </p>
+                     <p>When did I first read Heidegger? In philosophy class in high school? In<italic>khâgne?</italic>From Jean Beaufret? In fact, my first encounter with Heidegger was during a celebration at UNESCO in April 1964. I was there; I was not even in my senior year in high school, but was in the year before; I had read Kierkegaard or something like that. I understood nothing; I listened and that was very good; I attended this improbable thing: the session where Beaufret read a homage to Kierkegaard, a text by Heidegger</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.25</book-part-id>
+                  <title-group>
+                     <title>Jean-Luc Nancy:</title>
+                     <subtitle>Interview of June 23, 2000</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nancy</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>406</fpage>
+                  <abstract>
+                     <p>
+                        <italic>What were your Heideggerian “moorings?”</italic>
+                     </p>
+                     <p>My moorings are straightforward enough. I knew nothing about Heidegger until, perhaps, 1961. I’d never heard of him before; I was a<italic>khâgne</italic>student in Toulouse, then at Louis-le-Grand, and Lakanal. None of the teachers mentioned him. The year at Lakanal I met François Warin, since he lived in Sceaux.</p>
+                     <p>
+                        <italic>That was when you and François Warin translated Heidegger’s text on physis in Aristotle?</italic>
+                     </p>
+                     <p>Yes. We translated the text in its entirety, which was then published in two issues of<italic>Aletheia</italic>, a journal run by students associated with Axelos. Warin suggested the project to me</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.26</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>415</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.27</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                  </title-group>
+                  <fpage>517</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.28</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>529</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt19jcj7k.29</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>541</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

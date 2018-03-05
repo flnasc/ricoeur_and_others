@@ -1,0 +1,736 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1qd8zv7</book-id>
+      <subj-group>
+         <subject content-type="call-number">R724 .H3476 2000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Medical ethics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Physicians</subject>
+         <subj-group>
+            <subject content-type="lcsh">Attitudes</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Humanism</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Medical education</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Health Sciences</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Health Care Professional as Friend and Healer</book-title>
+         <subtitle>Building on the Work of Edmund D. Pellegrino</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Thomasma</surname>
+               <given-names>David C.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Kissell</surname>
+               <given-names>Judith Lee</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>04</day>
+         <month>10</month>
+         <year>2000</year>
+      </pub-date>
+      <isbn content-type="epub">9781589014480</isbn>
+      <isbn content-type="epub">1589014480</isbn>
+      <publisher>
+         <publisher-name>Georgetown University Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Georgetown University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1qd8zv7"/>
+      <abstract abstract-type="short">
+         <p>This book illuminates issues in medical ethics revolving around the complex bond between healer and patient, focusing on friendship and other important values in the healing relationship. Embracing medicine, philosophy, theology, and bioethics, it considers whether bioethical issues in medicine, nursing, and dentistry can be examined from the perspective of the healing relationship rather than external moral principles.</p>
+         <p>Distinguished contributors explore the role of the health professional, the moral basis of health care, greater emphasis on the humanities in medical education, and some of the current challenges facing healers today.</p>
+      </abstract>
+      <counts>
+         <page-count count="320"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thomasma</surname>
+                           <given-names>David C.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kissell</surname>
+                           <given-names>Judith Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.4</book-part-id>
+                  <title-group>
+                     <title>A Profession of Trust:</title>
+                     <subtitle>Reflections on a Fundamental Virtue</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Donovan</surname>
+                           <given-names>Leo J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>There is a profound similarity between physicians and educators: The coin of both our realms is trust. Trust is at the heart of being a good doctor; it also is at the heart of being a good educator. In this essay, I reflect on the importance and value of trust in our lives and in our work.</p>
+                     <p>Depending on one's perspective, of course, trust can be defined in different ways. According to political theorist Mark Warren, trust means accepting “vulnerability to the potential ill will of others by granting them discretionary power over some good.”¹ According to another writer, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.5</book-part-id>
+                  <title-group>
+                     <title>The Physician-Patient Relationship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donovan</surname>
+                           <given-names>G. Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>The relationship between a physician and his or her patient is the heart and the soul of medicine. This relationship is the mundane stuff of daily practice as well as the transcendent spirit of the medical profession. It is rightly the object of insight and analysis, for by seeing this relationship in its best light, we see medicine at its best. Conversely, if we believe medicine is somehow going awry, we should not blame scientific or societal influences but look at their influence on the ideal healing interaction that occurs in the coming together of a virtuous healer and an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.6</book-part-id>
+                  <title-group>
+                     <title>Friendship as an Ideal for the Patient-Physician Relationship:</title>
+                     <subtitle>A Critique and an Alternative</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>F. Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>The title of this collection is rich in possibilities for ethical analysis and reflection. It projects two different ideals of the health care professional: as a healer and as a friend to the patient. I have interpreted the title of this volume as a provocative challenge to explore and assess the cogency of these ideals—particularly the latter. Thus, focusing on the physician and the profession of medicine, I address two interrelated questions. First, is friendship a viable ideal for the patient-physician relationship? Second, does “being a friend to the patient” provide medical students with an appropriate ideal for their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.7</book-part-id>
+                  <title-group>
+                     <title>The Dentist as Healer and Friend</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Welie</surname>
+                           <given-names>Jos V. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>The dentist as healer and friend: This notion is likely to evoke cynical disbelief among many readers. Surely this must be a jest or mistake. The title of this volume itself—<italic>The Health Care Professional as Friend and Healer</italic>—is itself a bit implausible, but not beyond belief. The imaginative reader can probably picture an amicable, old-style family practitioner who knows inside-and-out the members of the families for whom he or she cares. If a child is ill, the physician hops in the car in the middle of the night and drives out to the farm. If grandpa has died,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.8</book-part-id>
+                  <title-group>
+                     <title>Learning through Experience and Expression:</title>
+                     <subtitle>Skillful Ethical Comportment in Nursing Practice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benner</surname>
+                           <given-names>Patricia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Nursing practice is a public extension of the ordinary care of family and self in everyday life.¹ When people are critically and gravely ill, family members can become overwhelmed by the emotional and physical labor of caregiving, and nurses can support and extend the caregiving resources of the family. During times of transition such as birth or the care of an elderly parent or ill partner, nurses can assist with the new adaptations to caregiving required.</p>
+                     <p>Florence Nightingale envisioned the work of the nurse as placing the body in the best condition for repair and recovery.² In the West, nursing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.9</book-part-id>
+                  <title-group>
+                     <title>Engendering Trust in a Pluralistic Society</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Secundy</surname>
+                           <given-names>Marian Gray</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Rodger L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>Trust on the part of a patient may be the central requirement of the fiduciary relationship between patients and health care providers.² The ideal situation occurs when a patient places himself or herself—or is placed by others—in the hands of the caregiver with complete trust. The reality is that such complete trust seldom exists. We must accept the reality that in today’s climate, limited levels of trust are likely to exist. Health care professionals must learn how to maximize the possibility of that trust wherever the opportunity exists.³ We ought to welcome moral and cultural disagreements and differences,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.10</book-part-id>
+                  <title-group>
+                     <title>Internal and External Sources of Morality for Medicine</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Veatch</surname>
+                           <given-names>Robert M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Edmund D. Pellegrino’s call for integrity in the professional practice of medicine has been powerful and prophetic. Among physicians of the second half of the twentieth century, none has more clearly challenged practitioners to eschew roles assigned to physicians that have the potential to corrupt the practice. Pellegrino has challenged the use of the physician as economic gatekeeper,¹ mercy killer,² illicit accomplice in nuclear war,³ tool of state ideology,⁴ and reliever of unwanted pregnancy.⁵ He has reminded his physician colleagues—as well as persons who practice medicine in one of the other health professions or only as lay people—that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.11</book-part-id>
+                  <title-group>
+                     <title>Doctoring and the (Neglected) Virtue of Self-Forgiveness</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blustein</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Self-forgiveness has received little attention in the philosophical literature on moral psychology. Few papers are devoted to the subject,¹ and most discussions of forgiveness do not mention it at all. Others take it up, but only within the context of a discussion of interpersonal forgiveness and not as a topic in its own right.² In these papers, the interpersonal cases are taken to be the paradigm cases; against this backdrop, the authors raise the question of whether we can properly speak of self-forgiveness at all.</p>
+                     <p>One view is that however natural the phrase “self-forgiveness” may appear to be in certain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.12</book-part-id>
+                  <title-group>
+                     <title>Moral Courage:</title>
+                     <subtitle>Unsung Resource for Health Professional as Healer and Friend</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Purtillo</surname>
+                           <given-names>Ruth B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>Edmund Pellegrino’s work on medical humanism stands out among contemporary writings devoted to a deep understanding of the health professional as healer and friend. Time and again I have turned to Pellegrino’s work to regain my moral equilibrium as a health professional and bioethicist. His examination is instructive for many scholars in their search for resources available to health professionals: What will assist professionals in their desire to walk the walk of respect for patients? What can educators do to nurture “the spirit of sincere concern” that initially motivated many professionals to enter their chosen field? As important, how can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.13</book-part-id>
+                  <title-group>
+                     <title>The Six Transformations of American Health Care</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harvey</surname>
+                           <given-names>John Collins</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The many chapters in the history of American medicine and American medical ethics tell a rich and interesting story. This story includes the history of medical education and the provision of health care to the population as they were affected by European influences to produce the ideal or “good” American physician.</p>
+                     <p>Originally, American medical practice was British medicine transported to the colonies and incorporated into the life of the new nation. This incorporation was modified, to be sure, to fit the needs of pioneering people living in a vastly different environment and culture than that which prevailed in the home</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.14</book-part-id>
+                  <title-group>
+                     <title>The Principle of Dominion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thomasma</surname>
+                           <given-names>David C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>This essay examines a principle proposed as fundamental to health care ethics and environmental ethics. The principle of dominion establishes responsibility for every act of intervention into natural processes. This principle may be stated simply as follows:<italic>For every act of intervention into natural processes there is a corresponding requirement to manage and respect the vulnerabilities that occur from the intervention, now and in the foreseeable future.</italic>As we shall see, this initial formulation will need further refinement as additional considerations and objections are met.</p>
+                     <p>The principle arises in medical ethics because of the vast array of interventions available to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.15</book-part-id>
+                  <title-group>
+                     <title>Organizational Ethics and the Medical Professional:</title>
+                     <subtitle>Reappraising Roles and Responsibilities</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Khushf</surname>
+                           <given-names>George</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>The idea of an individual who serves as healer and friend has a strong hold on our psyche. It responds to a basic need we all have. When we are confronted with illness, we need a person who has the knowledge and skills required to effectively intervene (the healer). Yet we also require a person who appreciates our personal experience and responds in a personal way (the friend). Although our need calls for an intimate link between these two roles, in practice there has been tension between them. The challenge for the physician-humanist has been to integrate, the roles: simultaneously</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.16</book-part-id>
+                  <title-group>
+                     <title>Reproductive Technologies:</title>
+                     <subtitle>Where Are We Headed?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCormick</surname>
+                           <given-names>Richard A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>The birth of Louise Brown on July 25, 1978, in Oldham, England, was greeted with enormous fanfare. She was the first baby born from<italic>in vitro</italic>fertilization (IVF) and embryo transfer (ET), the crowning work of the late Patrick Steptoe and Robert Edwards. The fanfare included questions, accusations, expressions of fears and doubts, warnings, hopes, and joyful congratulations (including that of Pope John Paul I)—in short, just about every human reaction that greets a medical breakthrough that touches human life. People wondered whether Louise would suffer the effects of being a medical freak. They expressed misgivings about the embryos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.17</book-part-id>
+                  <title-group>
+                     <title>The Search for the Meaning of the Human Body</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kissell</surname>
+                           <given-names>Judith Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>Emerging biotechnology is producing a genre of cases that question, in an unprecedented way, the ethical meaning and significance of the human body in the practice of medicine. These cases span clinical practice and research, laboratory experimentation and public policy. Examples include the cultivation of human embryonic stem cells for various research purposes, including the generation of substitute body tissues and organs; l the selling of human tissue by not-for-profit research institutions to for-profit health product and pharmaceutical companies; the use of bone from a hip replacement for dental procedures; the accessing, for experimental purposes, of stored pathology specimens;² the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.18</book-part-id>
+                  <title-group>
+                     <title>Healing the Dying:</title>
+                     <subtitle>Spiritual Issues in the Care of the Dying Patient</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sulmasy</surname>
+                           <given-names>Daniel P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>188</fpage>
+                  <abstract>
+                     <p>In the final analysis, every dying person who retains the capacity to hear and to understand the call of death faces two important sets of questions: questions of<italic>value</italic>and questions of<italic>meaning.</italic>Whether the dying individual addresses or ignores these questions is totally up to the individual in his or her own freedom. The fact that some persons freely choose to ignore these questions does not vitiate their importance. Even if all persons freely chose to ignore these questions, they would remain important. Regardless of whether people confront these questions, they always present themselves as obvious questions for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.19</book-part-id>
+                  <title-group>
+                     <title>Prophet to the Profession:</title>
+                     <subtitle>Healing and Physician-Assisted Suicide</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Campbell</surname>
+                           <given-names>Courtney S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>The ethos of medicine as a profession is under challenge and critique as never before. Under the influence of managed care and public policy regulations—and under the pressure of public image of medical professionals—physicians are asked and indeed demanded to deliver the highest quality medicine at the lowest possible cost to the greatest number of people. As patients increasingly become “customers” and “consumers,” physicians find their roles undergoing a transformation to those of “retailers” and “providers” in the delivery of a market commodity—namely, health care. This context seems guaranteed to generate patient and political discontent with medicine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.20</book-part-id>
+                  <title-group>
+                     <title>The Role of Reason, Emotion, and Aesthetics in Making Ethical Judgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Loewy</surname>
+                           <given-names>Erich H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>210</fpage>
+                  <abstract>
+                     <p>Medicine must wear a human face and make human judgments. Indeed, the question of how judgments are made is tacitly present throughout any work on philosophy of medicine in clinical medical education or, more recently, bioethics. To be a sentient being is to make judgments; to be a physician or medical educator is to make judgments that may critically affect many others. In this essay, I examine the role of various components of judging and the process by which judgments are made.</p>
+                     <p>What is the role of emotion in making ethical judgments? Should we, as Kantians would suggest, make such</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.21</book-part-id>
+                  <title-group>
+                     <title>The Contribution of Philosophical Hermeneutics to Clinical Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benaroyo</surname>
+                           <given-names>Lazare</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>In this essay, I explore the significance of philosophical hermeneutics for medical ethics. I claim that hermeneutics is the philosophical framework within which the ethical core of the healing act comes into being.</p>
+                     <p>My assumption is that healing is oriented toward restoring or improving the patient’s good. On this view, medical morality is grounded in the patient’s desire to be delivered from the burden of suffering. According to Pellegrino and Thomasma,¹ the ethical core of this encounter is an alliance, a caring pact, based on mutual trust. Physician and patient are united to fight against disease and to relieve suffering:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.22</book-part-id>
+                  <title-group>
+                     <title>Money, Medicine, and Morals</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Andereck</surname>
+                           <given-names>William S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>One problem that individuals venturing into the health care debate encounter is the multiplicity and complexity of special interests, each representing something different and contradictory to the whole. To seek order in this chaos, it is easier to start from the perspective of the big picture—global budgets, competitive health care purchasing groups, refocusing physicians on primary rather than specialty care—rather than address personal stories and needs.</p>
+                     <p>My perspective on health care delivery was forged in the trenches; I have seen the advent and proliferation of the preferred provider organization (PPO) phenomena, lived with Medicare, and for nine years</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.23</book-part-id>
+                  <title-group>
+                     <title>Theology and Bioethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCormick</surname>
+                           <given-names>Richard A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>244</fpage>
+                  <abstract>
+                     <p>As we enter neighborhood homes, many of us have been quickened with the peculiar hospitality of a sign that reads: “Beware of Dog.” Many people undoubtedly believe that an analogous hospitable sign is in place when a theologian is present with people who gather to discuss the ethical dimensions of biomedicine. Theologians just may bite. Perhaps worse, they may not. At worst, they are regarded as extremely dangerous; at best, they are harmless—that is, useless. For these reasons, they should be out of sight, or at least on a short leash. Alisdair Maclntyre may have had something like this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.24</book-part-id>
+                  <title-group>
+                     <title>Teaching the Humanities in American Medical Schools during the Twentieth Century:</title>
+                     <subtitle>A Commentary on the Two Dominant Models</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burns</surname>
+                           <given-names>Chester R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>Among today’s physician-philosophers, Edmund Pellegrino understands as well as anyone—and better than most—the intimate relationships between medical history and medical ethics.¹ In honor of this understanding, I offer some reflections about the two dominant models that educators have used to teach the humanities in American medical schools during the twentieth century: medical history and medical ethics. After providing some evidence justifying my claims, I offer some explanations and interpretations.</p>
+                     <p>During the 1890s and the early years of the twentieth century, many of the physicians who supported the reform of medical education also supported the teaching of medical history</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.25</book-part-id>
+                  <title-group>
+                     <title>Reflections on the Humanities and Medical Education:</title>
+                     <subtitle>Balancing History, Theory, and Practice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McElhinney</surname>
+                           <given-names>Thomas K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Physician education is an interweaving of the three common themes of all professional education: theory, practice, and history.¹ In medicine, the role of history has been the least understood of this triad. For musicians, history is the story of the music that helps in the understanding of theory and the interpretation that guides performance. For a lawyer, history primarily means precedents: prior rulings upon which a new case can be constructed. Neither law nor music, however, shares with medicine the constant pressure of a rapidly developing scientific knowledge base that requires doctors to maintain an awareness of the most current</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.26</book-part-id>
+                  <title-group>
+                     <title>Religious Elements in Healing</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Graber</surname>
+                           <given-names>Glenn C.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Bradford R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>278</fpage>
+                  <abstract>
+                     <p>Morris Payne is a forty-three-year-old truck driver who is hospitalized with a back injury. The injury occurred when Morris fell from a ladder while he was painting a classroom in the education building of the church his family regularly attends. Morris himself is not a regular churchgoer. He typically visits only a few Sundays a year, and he does not take much interest in the activities or needs of the church. He was helping with the painting project only at his wife's insistence. The fall occurred when another painter bumped into the ladder on which Morris was standing.</p>
+                     <p>Reverend Concern,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qd8zv7.27</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

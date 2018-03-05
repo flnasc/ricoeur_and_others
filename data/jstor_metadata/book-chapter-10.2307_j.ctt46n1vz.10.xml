@@ -1,0 +1,611 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt46n1vz</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Making of the Humanities</book-title>
+         <subtitle>Volume 1- Early Modern Europe</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Bod</surname>
+               <given-names>Rens</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Maat</surname>
+               <given-names>Jaap</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Weststeijn</surname>
+               <given-names>Thijs</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>10</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9789089642691</isbn>
+      <isbn content-type="epub">9789048513338</isbn>
+      <publisher>
+         <publisher-name>Amsterdam University Press</publisher-name>
+         <publisher-loc>Amsterdam</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Rens Bod, Jaap Maat and Thijs Weststeijn</copyright-holder>
+         <copyright-holder>Amsterdam University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt46n1vz"/>
+      <abstract abstract-type="short">
+         <p>This book is the first step towards the development of a comparative history of the humanities. Specialists in philology, musicology, art history, linguistics, literary theory, and other disciplines highlight the intertwining of the various fields and their impact on the sciences. This first volume in the series The Making of the Humanities focuses on the early modern period. Different perspectives reveal how the humanities developed from the 'liberal arts', via the curriculum of humanistic schools, to modern disciplines. The authors show in particular how discoveries in the humanities contributed to a secular world view, pointing up connections with the scientific revolution. The main themes are: the humanities versus the sciences; the visual arts as liberal arts; humanism and heresy; language and poetics; linguists and logicians; philology and philosophy; the history of history. Contributions come from a selection of internationally renowned European and American scholars, including Floris Cohen, David Cram, and Ingrid Rowland. The book offers a wealth of insights for specialists, students, and those interested in the humanities in a broad sense. This title is available in the OAPEN Library - http://www.oapen.org.</p>
+      </abstract>
+      <counts>
+         <page-count count="400"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.3</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Historiography of the Humanities</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bod</surname>
+                           <given-names>Rens</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>This volume brings together scholars and historians who share a common goal: to develop a comparative history of the humanities. Although separate histories exist of some single humanities disciplines – such as the history of linguistics or the history of history writing – we feel that a general history of the humanities would satisfy a long-felt need and fill a conspicuous gap in intellectual history.</p>
+                     <p>In the field of the history of the natural sciences, overviews have been written at least since the nineteenth century (e.g. William Whewell’s well-known<italic>History of the Inductive Sciences</italic>). It may thus be surprising that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.4</book-part-id>
+                  <title-group>
+                     <title>How Comparative Should a Comparative History of the Humanities Be?</title>
+                     <subtitle>The Case of the Dutch Spinoza Circle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leezenberg</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The history of the humanities, or<italic>Geisteswissenschaften</italic>, lags far behind the historiography of the exact or natural sciences. Therefore, one may fruitfully look for models or examples in the history of the natural sciences in order to avoid reinventing the wheel, or running into difficulties that have already been encountered elsewhere, and perhaps even solved. There are also more principled reasons, however, for thematizing the rise of a strict disciplinary opposition between the humanities and the natural sciences, an opposition which is more recent and less stable than one might think. A strict distinction between them (e.g. as concerned with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.5</book-part-id>
+                  <title-group>
+                     <title>Bridging the Gap.</title>
+                     <subtitle>A Different View of Renaissance Humanism and Science</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pyle</surname>
+                           <given-names>Cynthia M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>The topic and goals of this conference are admirable ones: to initiate an ongoing investigation of the history of the humane sciences not unlike that of the history of the physical and natural sciences conceived of and promoted by George Sarton at Harvard in the first half of the twentieth century. Of course there has long been a field of the history of scholarship,² but this promises to be more accessible than that, in its implicit nod in the direction of pedagogy through the humanities curriculum, already studied for the Renaissance by such eminent scholars as Eugenio Garin, Paul Oskar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.6</book-part-id>
+                  <title-group>
+                     <title>Music as Science and as Art.</title>
+                     <subtitle>The Sixteenth/Seventeenth-Century Destruction of Cosmic Harmony</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cohen</surname>
+                           <given-names>H. Floris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>On the one hand, there is music. We make it ourselves. Music reaches us through our ears, and it may affect us quite powerfully, to the point of making us join the rhythm in dance, or join the mood and burst into tears of joy or sorrow, on occasion profusely so. Music is definitely a sensual phenomenon.</p>
+                     <p>On the other hand, there are numbers. Numbers are given to us, we do not make them. For first inventing, then recognizing and manipulating them, we rely on our intellect. There is nothing sensual about numbers as such. Few things, then, look more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.7</book-part-id>
+                  <title-group>
+                     <title>Representing the World</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rowland</surname>
+                           <given-names>Ingrid</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>On the face of it, a world of difference separates the official photograph of the Solvay Conference of 1911 (Fig. 2) from Raphael’s<italic>School of Athens</italic>(Fig. 3), completed exactly four hundred years earlier. At the Solvay Conference, a conclave of Nobel laureates and other distinguished scientists actually talked to one another, with an enthusiasm we can see in the photograph itself; indeed, Marie Curie, the lone woman in the foreground, is so absorbed in a conversation with Henri Poincaré that neither of them pays attention to the camera that records their presence.¹ We may also recognize a very young</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.8</book-part-id>
+                  <title-group>
+                     <title>Ficino, Diacceto and Michelangelo’s Presentation Drawings</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van den Doel</surname>
+                           <given-names>Marieke</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>The Florentine philosopher Marsilio Ficino (1433-1499) was one of the first scholars who suggested that painting, which was generally regarded as a craft, should be included among the Liberal Arts. His main work,<italic>Platonic Theology</italic>(1482), compared his own time to a Golden Age that ‘has brought back to light the Liberal Arts which had almost been extinct: Grammar, Poetry, Rhetoric, Painting, Architecture, Music and the ancient art of singing to the Orphic Lyre’.² Ficino not only replaced logic with poetry in the<italic>trivium</italic>, but formulated an almost completely new<italic>quadrivium</italic>, removing geometry, arithmetic and astronomy, in favor of painting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.9</book-part-id>
+                  <title-group>
+                     <title>‘Signs that Signify by Themselves’.</title>
+                     <subtitle>Writing with Images in the Seventeenth Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weststeijn</surname>
+                           <given-names>Thijs</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>In his treatise on painting of 1678, the Dutch artist Samuel van Hoogstraten (1627-1678), one of Rembrandt’s pupils, pleaded for the inclusion of the art of painting among the liberal arts. One of his strategies was connecting the visual arts to ideas about language and letters developed by influential philologists such as Gerardus Vossius (1577-1649) and Franciscus Junius (1591-1677). In this context, Van Hoogstraten’s book touched on the subject of pictography, the ideal of a script based on pictures rather than letters. He discussed this in connection to the art of the Chinese. Just like the Egyptians and the Mexicans,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.10</book-part-id>
+                  <title-group>
+                     <title>Giordano Bruno and Metaphor</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gatti</surname>
+                           <given-names>Hilary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Giordano Bruno was born in Nola, near Naples, in 1548, and died in Rome in 1600, burnt at the stake as a heretic. That means he was born only five years after the first publication of Copernicus’s<italic>De revolutionibus</italic>in 1543, and only thirty-odd years after Martin Luther’s excommunication from the Catholic church had divided Europe and its culture into two militantly hostile factions. During the second half of the sixteenth century, in a lifetime of wandering through the cultural capitals of an often blood-stained Europe, Bruno was able to witness first hand, as few of his contemporaries could do,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.11</book-part-id>
+                  <title-group>
+                     <title>‘In Erudition There Is No Heresy’.</title>
+                     <subtitle>The Humanities in Baroque Rome</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schmidt</surname>
+                           <given-names>Bernward</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>In many historical accounts, seventeenth- and eighteenth-century Rome is marked by its splendid buildings, fine art and political insignificance. Baroque Rome – and moreover all of Italy – appears barren on an intellectual level as well, with every impulse of modern thought oppressed by a dominant papacy and the Inquisition; the case of Galileo Galilei had induced a long-term trauma. Even contemporaries complained about Italy’s backwardness compared with the wellknown home of scholarly exchange, France.</p>
+                     <p>For a long time, historical research has stuck to these stereotyped paradigms,¹ and only a few scholars have paid attention to intellectual life in Rome,²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.12</book-part-id>
+                  <title-group>
+                     <title>Humanism in the Classroom, a Reassessment</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Groenland</surname>
+                           <given-names>Juliette A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Starting from a single case-study into a virtual historical nonperson, Joannes Murmellius (ca.1480-1517), this paper purports to draw attention to a basic tenet of Renaissance humanism and of the humanities, both pedagogical movements in origin: the classroom practice. A most characteristic profile sketch of the pioneer northern humanist school teacher is to be found in his own account of his pedagogic standpoint:</p>
+                     <p>Iam vero in tanta opinionum et sententiarum diversitate quam discipulos instituendi rationem sequar, paucis accipe. Quid super ea re Quintiliano rhetori diligentissimo visum fuerit haud ignoras, quid item Baptista Guarinus, et Erasmus noster (ut ceteros preteream) de discendi</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.13</book-part-id>
+                  <title-group>
+                     <title>Origins and Principles.</title>
+                     <subtitle>The History of Poetry in Early Modern Literary Criticism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Esteve</surname>
+                           <given-names>Cesc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>In his ‘Essay upon the Epic Poetry of the European Nations’, which first appeared in London in 1727, Voltaire reproaches ‘the greatest part of the critics [who] mistake commonly the beginning of an art, for the principles of the art itself’ and complains about their tendency to believe ‘that everything must be, by its own nature, what it was when contrived at first’.¹ Voltaire understands that, since all the inventions of art change because fancy and custom differ in time and from one nation to another, critics should find the nature and eternal rules of epic poetry in those features</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.14</book-part-id>
+                  <title-group>
+                     <title>Transitional Texts and Emerging Linguistic Self-Awareness.</title>
+                     <subtitle>Literary Study in the Late Eighteenth Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mehtonen</surname>
+                           <given-names>P.M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>There is probably no<italic>post factum</italic>disagreement about the claim that the so-called linguistic turn was a significant scientific event in the twentieth century. However, the pre-history of such a turn – the turn itself consisting of a host of simultaneous intellectual processes rather than an abrupt moment of revolution – is a vaguer and largely unwritten story.¹ This vagueness in itself may be challenging and a key to such slow processes that cannot easily be detected in scientific manifestos, axioms or groundbreaking innovations. One unmistakable element of the twentieth-century linguistic turn was a claim for the linguistic framework of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.15</book-part-id>
+                  <title-group>
+                     <title>The Changing Relations between Grammar, Rhetoric and Music in the Early Modern Period</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cram</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>This paper aims to trace the changing architecture of the liberal arts in the seventeenth century, with primary focus on grammar and music. Both of these disciplines underwent radical internal developments over this period, and there are strong reasons for studying each strictly within its own boundaries. But there are also changes in the relations<italic>between</italic>the liberal arts which only emerge if one takes a broader perspective. This is most clearly manifest in the case of music, which undergoes a dramatic realignment from the quadrivium to the trivium over this period – from the<italic>artes reales</italic>(arithmetic, geometry, astronomy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.16</book-part-id>
+                  <title-group>
+                     <title>The Artes Sermocinales in Times of Adversity.</title>
+                     <subtitle>How Grammar, Logic and Rhetoric Survived the Seventeenth Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Maat</surname>
+                           <given-names>Jaap</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>283</fpage>
+                  <abstract>
+                     <p>This paper explores some of the developments in grammar, logic and rhetoric that took place in Europe in the seventeenth century. These disciplines were traditionally seen as belonging together, as they each dealt with language in a particular way. For this reason, they were called the ‘artes sermocinales’, or arts of discourse. The seventeenth century was a period of radical changes in intellectual history at large, and this paper investigates how the arts of discourse were affected by these changes. In particular, it was a period in which the prestige of the arts of discourse declined, and in which some</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.17</book-part-id>
+                  <title-group>
+                     <title>Manuscript Hunting and the Challenge of Textual Variance in Late Seventeenth-Century Icelandic Studies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jónsson</surname>
+                           <given-names>Már</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>299</fpage>
+                  <abstract>
+                     <p>The fervent collecting of ancient and medieval manuscripts – in Italy and Greece from the late fourteenth century, in France, Germany and England from the early fifteenth century, and in Spain and Iceland from the late sixteenth century onwards – resulted not only in the accumulation of new texts and information. It was also a reason for perplexity as scholars struggled to design methods for sifting evidence, for defining options, and for making choices concerning the texts they wished to use or publish, their struggle at times ending in despair and exhaustion. As more and more manuscripts were brought to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.18</book-part-id>
+                  <title-group>
+                     <title>Spinoza in the History of Biblical Scholarship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Steenbakkers</surname>
+                           <given-names>Piet</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>313</fpage>
+                  <abstract>
+                     <p>Let us start with prayer – to wit with<italic>Spinoza’s Prayer</italic>, as found in an anonymous manuscript of 1678–79: ‘Think with the learned, speak with the vulgar; the world wants to be deceived, amen.’¹ The text is, of course, spurious, but it does give us a glimpse of Spinoza as seen by his contemporaries. The manuscript is a notebook for private use, with unconnected and slapdash, barely readable jottings on a range of topics, mainly politics (passionately anti-Orange), religion and – most importantly – sex; our author has a marked fascination for perversities and monstrosities in this area. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.19</book-part-id>
+                  <title-group>
+                     <title>The ‘Rules of Critique’.</title>
+                     <subtitle>Richard Simon and Antoine Arnauld</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pécharman</surname>
+                           <given-names>Martine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>327</fpage>
+                  <abstract>
+                     <p>The decree concerning the edition and the use of sacred texts adopted by the Council of Trent in its fourth session on 8 April 1546 was sometimes understood as prohibiting any emendation of the Vulgate version of the Scripture. The Synod demanded that the Vulgate be considered<italic>authentic</italic>in all liturgic matters, on account of its long-standing usage and approbation in the Catholic Church. By such an ordaining, did the Council only attempt to secure the authority of the Vulgate in the doctrinal controversies, or did it rather aim at condemning corrections of the standard Latin version introduced in conformity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.20</book-part-id>
+                  <title-group>
+                     <title>Framing a New Mode of Historical Experience.</title>
+                     <subtitle>The Renaissance Historiography of Machiavelli and Guicciardini</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bos</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>351</fpage>
+                  <abstract>
+                     <p>Most disciplines in the humanities are not very concerned with their own history. Although the dialogue between contemporary scholars and their predecessors might extend into a somewhat further past than in the natural and social sciences, the various fields of the humanities tend to reflect just as little on their own history as, for instance, chemistry or psychology. Historians seem to be the main exception to this tendency: unlike most other disciplines, history has a long tradition of examining its own past. In many university programmes the history of historical writing is a compulsory course, and there is a wide</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.21</book-part-id>
+                  <title-group>
+                     <title>Philosophy’s Shadow.</title>
+                     <subtitle>Jacob Brucker and the History of Thought</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hanegraaff</surname>
+                           <given-names>Wouter J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>367</fpage>
+                  <abstract>
+                     <p>No tradition, intellectual or otherwise, can exist or stay alive without demarcating its own identity from something that is seen as representing its negative counterpart, its ‘other’; and as a result, this ‘other’ necessarily accompanies any tradition, as the shadowy background or dark canvas which allows it to draw the contours of its own identity in the first place. The presence of this shadow can therefore never be forgotten; but in order to fulfill its role as a negative background, neither can it be brought into the full daylight of memory and recollection. In short, it must be selectively remembered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.22</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>385</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.23</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>391</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt46n1vz.24</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>395</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

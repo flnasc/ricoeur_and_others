@@ -1,0 +1,581 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2jbjjq</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Religion and sociology</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Offenses against religion</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Blasphemy</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sacrilege</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Negotiating the Sacred</book-title>
+         <subtitle>Blasphemy and Sacrilege in a Multicultural Society</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>COLEMAN</surname>
+               <given-names>ELIZABETH BURNS</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>WHITE</surname>
+               <given-names>KEVIN</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(EDITORS)</role>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">1920942475</isbn>
+      <isbn content-type="epub">9781920942489</isbn>
+      <isbn content-type="epub">1920942483</isbn>
+      <publisher>
+         <publisher-name>ANU E Press</publisher-name>
+         <publisher-loc>Canberra</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>ANU E Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt2jbjjq"/>
+      <abstract abstract-type="short">
+         <p>This cross-disciplinary exploration of the role of the sacred, blasphemy and sacrilege in a multicultural society brings together philosophers, theologians, lawyers, historians, curators, anthropologists and sociologists, as well as Christian, Jewish and Islamic and secular perspectives. In bringing together different disciplinary and cultural approaches, the book provides a way of broadening our conceptions of what might count as sacred, sacrilegious and blasphemous, in moral and political terms. In addition, it provides original research data on blasphemy, sacrilege and religious tolerance from a range of disciplines. The book is presented in four sections: Section I: Religion Sacrilege and Blasphemy in Australia. Section II: Sacrilege and the Sacred Section III: The State, Religion and Tolerance Section IV: The Future: Openness and Dogmatism. The book will appeal to both those actively involved in religious negotiation and to scholars and students of religion in history, philosophy, anthropology, sociology and political science.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.3</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Negotiating the sacred in multicultural societies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coleman</surname>
+                           <given-names>Elizabeth Burns</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>White</surname>
+                           <given-names>Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The social costs of increasing antagonism, fear and social dislocation on the basis of religious persuasion suggest that Australia, as well as other multicultural societies, needs to re-examine the place of religion in society, the causes of social discontent, as well as the various means by which religious differences may be negotiated peaceably. Such an examination requires information from a wide variety of perspectives, and discussion at all levels of society. The purpose of this volume is to make a contribution to this discussion by providing a rich, multifaceted exploration of the issue. It brings together religious and secular perspectives</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Negotiating religious dialogue:</title>
+                     <subtitle>A response to the recent increase of anti-Semitism in Australia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rutland</surname>
+                           <given-names>Suzanne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In January 1991 during the first Gulf War, Gerry Levy, Sydney-based president of the New South Wales Jewish Board of Deputies, received an urgent call that the North Shore Temple had been attacked by arson and was on fire. He rushed over to find the synagogue′s rabbi standing outside with the Torah scrolls in his arms and one building completely gutted. As a young boy, Levy had been in Germany during <italic>Kristallnacht</italic>, the Nazi pogrom of November 1938, when the synagogue of his home town, Magdeburg, was burnt down and his community violently attacked. In 1991, he felt he was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Are we capable of offending God?</title>
+                     <subtitle>Taking blasphemy seriously</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pringle</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Until quite recently there appeared to be a consensus in Western democracies as to the desirability of abolishing the offence of blasphemy and blasphemous libel. Indeed, in 1949, Lord Denning argued that ′the offence of blasphemy is a dead letter′. According to Lord Denning, the basis of the law against blasphemy was the idea that ′a denial of Christianity was liable to shake the fabric of society, which was itself founded upon the Christian religion′, a danger that no longer existed.¹ A long series of judicial remarks and government reports, most recently by the House of Lords Select Committee on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>A flaw in the nation-building process:</title>
+                     <subtitle>Negotiating the sacred in our multicultural society</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brady</surname>
+                           <given-names>Veronica</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In a way our topic is strangely anachronistic: blasphemy is a problematic notion in a professedly secular society like ours. It is true, of course, that laws against it are still on the books in most states and territories. But they are laws inherited from the English legal system, designed to protect the established religion of the Church of England which was ′part and parcel of the laws of England′ and the monarch, ′the defender of the faith′. In that, these laws against blasphemy served to protect the social fabric rather than any particular theological position. Australia, however, has never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.9</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>The paradox of Islam and the challenges of modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Seyit</surname>
+                           <given-names>Kuranda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Islam today, it would seem, has become inflexible and intolerant towards the teachings and ideologies of the West. When in fact, its history shows that it has always been accommodating to other peoples and beliefs, especially Christianity and Judaism. Most people know something of Islam. For instance, that it is one of the three monotheisms or the Abrahamic faiths and that it has much in common with Christianity and Judaism. Yet, there is so much that we do not understand about Islam and its overall world view. Islam is centred on the notion of peace, justice and community, yet when</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.10</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>Stretching the sacred</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coleman</surname>
+                           <given-names>Elizabeth Burns</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>White</surname>
+                           <given-names>Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The term sacred tends to be used interchangeably with a wide variety of terms: terms like mystical, religious, divine, magical, and, most commonly, spiritual and religious. In 2002, the Humanities Research Centre at The Australian National University ran a conference entitled ′Locations of Spirituality: ″Experiences″ and ″Writings″ of the ″Sacred″′. All of these topics were addressed in the papers presented at the conference. On one level this suggests that the term ′sacred′ is inherently vague.</p>
+                     <p>Yet there are some features the uses seem to have in common. A writer for the <italic>Encyclopedia of Religion and Society</italic>, Edward Bailey, has suggested</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.11</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Sacralising the profane, profaning the sacred</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tatz</surname>
+                           <given-names>Colin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Genocide produces anomalies. One example is the coincidence and coexistence of two diametrically opposed views of the same catastrophe. Some victims make sacred, or sacralise, their profoundly profane experience; some perpetrators, or their supporters, deliberately profane that now sacralised event.</p>
+                     <p>Sacrilege and blasphemy have a common element: desecration and violation of the sacred rather than mere irreverence towards that which some people hold in high regard. Victims of genocide—Armenians and Jews, among others—venerate their dead, their ′cleansed′, their relocated or removed people. Definable groups perish in the killing fields, or somehow disappear forever from populations and places. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.12</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Is that a human skull?</title>
+                     <subtitle>All in the name of art!</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGowan</surname>
+                           <given-names>Dianne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter explores the ambiguities of Western beliefs in relation to the sacredness of the Western human body, especially in death. These ambiguities are highlighted by considering the contemporary transformation of Tibetan Buddhist ritual objects into Western art objects. Having the cross-cultural and historical specificity of concepts of and treatment of the body as sacred in death the chapter explores the de-sacralisation of the dead body in contemporary European culture, especially in the art of Gunther von Hagans.</p>
+                     <p>The chapter is divided into three parts: the first introduces Tibetan Buddhist customs and objects; the second describes the historical European attitudes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.13</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>The bourgeois sacred:</title>
+                     <subtitle>Unveiling the ′secular society′</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dee</surname>
+                           <given-names>Liam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Debates over Globalisation and The War on Terror often accept that shifting agglomeration called The West as the bastion of secularism. Whether this is a progressive force of freedom and enlightenment or a profane, cold sweatshop machine, this secularism is established against an exotic Other of primal passionate faith or feudal, superstitious zealotry, depending on your position. My talk aims to examine this image of the West and to propose that the arationality associated with the sacred is not a feudal left-over, or even just a tolerated ′personal choice′. In fact I hope to show that the sacred is an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.14</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Sacrilege:</title>
+                     <subtitle>From public crime to personal offence</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hunter</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In this chapter I will be looking at sacrilege in the context of Western European religion and politics in the early modern period. I will be adopting an historical-anthropological approach, with a view to making this discussion of sacrilege comparable with those of people working in other religious and cultural settings. Moreover, there is an important sense in which the societies of early modern Western Europe were themselves multicultural, not just because most contained diverse ethnic ′nations′, but more importantly because they contained mutually hostile religious communities. In fact, ′religious cleansing′ in early modern Europe provided the prototype for later</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.15</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Expressions of religiosity and blasphemy in modern societies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hassan</surname>
+                           <given-names>Riaz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Until recently a widely held view in sociology was that the conditions of modernity inevitably lead to the secularisation of society. It was further argued that in a secular society, religion becomes increasingly a private concern of the individual and thus loses much of its public relevance and influence. The conditions of modernity were seen as conducive to promoting religious pluralism in which people were voluntary adherents to a plurality of religions, none of which could claim a position of hegemony in society. These and similar views appeared in the works of a number of prominent scholars including Talcott Parsons,¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.16</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>Negotiating the sacred in law:</title>
+                     <subtitle>Regulation of gifts motivated by religious faith</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ridge</surname>
+                           <given-names>Pauline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Many people would be surprised to learn that they do not have unlimited power to give away their property as they choose. In fact, legal restrictions on gift giving operate upon gifts that take effect during the donor′s lifetime (<italic>inter vivos</italic> gifts) as well as upon gifts that operate only upon the donor′s death (testamentary gifts). Some of these constraints are readily comprehensible; for example, it makes sense that the law would seek to protect donors against improper exploitation by would-be donees. Other legal constraints upon gift giving, however, are more difficult to explain. Why is it, for example, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.17</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>Negotiating a religious identity in modern Japan:</title>
+                     <subtitle>The Christian experience</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Noble</surname>
+                           <given-names>Colin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On the morning of 24 February, 1989, in freezing rain, a cavalcade of officers in military uniform accompanied the funeral cortege of the Shôwa Emperor (Hirohito) through the streets of Tokyo to the site of his funeral in Shinjuku Gyoen. The funeral was conducted in two parts—the first a brief religious ceremony performed by the emperor′s family as a private rite of the imperial house, and the second an ostensibly non-religious one paid for by the Japanese government and attended by about 10 000 invited guests, including numerous world leaders and representatives of foreign governments. The two ceremonies were</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.18</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>′We already know what is good and just…′ :</title>
+                     <subtitle>Idolatry and the scalpel of suspicion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamb</surname>
+                           <given-names>Winifred Wing Han</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Suspicion of religion and of religious believers is inherent in western atheism and it is not hard to find this reflected in philosophical thought. However, the ′hermeneutics of suspicion′² has been marginal in mainstream philosophy of religion which has concentrated on epistemological issues, inspired by what Merold Westphal has called ′evidential atheism′.³ This critique of religious faith focuses on the alleged epistemological shortfalls in religious beliefs, pointing to its incoherence, unintelligibility and inadequate evidence.</p>
+                     <p>While the theme of suspicion is muted in mainstream philosophy of religion, it is explicit and open in the work of Nietzsche, Freud and Marx but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.19</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>The sacred and sacrilege—ethics not metaphysics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>St John</surname>
+                           <given-names>Eilidh</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When I tell my colleagues in both the School of Philosophy and the School of Government that I am writing on blasphemy and sacrilege most of them meet me with blank stares and I have a distinct feeling that they think I have crawled out of the seventeenth century. And yet, in this world beset more each day with religious tension between faiths and between adherents of the same faith it becomes increasingly more urgent to find an adequate cross-cultural, multi-faith way of addressing questions of blasphemy and sacrilege. I haven′t crawled out of the seventeenth century so there must</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.20</book-part-id>
+                  <title-group>
+                     <label>16.</label>
+                     <title>Resolving disputes over Aboriginal sacred sites:</title>
+                     <subtitle>Some experiences in the 1990s</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wootten</surname>
+                           <given-names>Hal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The material in this chapter arises out of some practical experiences of the way the Australian state has negotiated claims for the protection of Indigenous ′sacred′ places that were threatened by private or public claims to exploit or remake the landscape in pursuit of wealth or public safety or amenity. For many readers this topic will bring to mind the unhappy experience of the Hindmarsh Bridge affair, where such a conflict dragged out through inquiries and litigation over some seven years and left behind bitter recrimination about the genuineness of Indigenous claims, the appropriateness of processes for evaluating them, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.21</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>205</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbjjq.22</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

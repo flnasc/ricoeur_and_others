@@ -1,0 +1,333 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ppj3r</book-id>
+      <subj-group>
+         <subject content-type="call-number">DT107.824.D53 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Historiography</subject>
+         <subj-group>
+            <subject content-type="lcsh">Egypt</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Egypt</subject>
+         <subj-group>
+            <subject content-type="lcsh">Historiography</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nationalism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Egypt</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Historians</subject>
+         <subj-group>
+            <subject content-type="lcsh">Egypt</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Egypt</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">20th century</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Gatekeepers of the Arab Past</book-title>
+         <subtitle>Historians and History Writing in Twentieth-Century Egypt</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Di-Capua</surname>
+               <given-names>Yoav</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>08</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520257320</isbn>
+      <isbn content-type="epub">9780520944817</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>The Regents of the University of California</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.1525/j.ctt1ppj3r"/>
+      <abstract abstract-type="short">
+         <p>This groundbreaking study illuminates the Egyptian experience of modernity by critically analyzing the foremost medium through which it was articulated: history. The first comprehensive analysis of a Middle Eastern intellectual tradition,<italic>Gatekeepers of the Past</italic>examines a system of knowledge that replaced the intellectual and methodological conventions of Islamic historiography only at the very end of the nineteenth century. Covering more than one hundred years of mostly unexamined historucal literature in Arabic, Yoav Di-Capua explores Egyptian historical thought, examines the careers of numerous critical historians, and traces this tradition's uneasy relationship with colonial forms of knowledge as well as with the post-colonial state.</p>
+      </abstract>
+      <counts>
+         <page-count count="406"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.4</book-part-id>
+                  <title-group>
+                     <title>List of Tables</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.5</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.6</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.7</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In 2004, Raʾūf ʿAbbās, one of Egypt’s leading historians, published his autobiography. This memoir, ostensibly a pedestrian intellectual autobiography of a retired history professor, proved instead to be a frontal assault on Egypt’s entire historiographical establishment. The author spared no one: neither the stars of Egypt’s academic elite nor the lowliest graduate student escaped the lashing of his pen. Over the course of 336 crowded pages, he accused his colleagues of poor academic standards, plagiarism, intellectual shallowness, ethical violations, political partisanship, and collaboration with the state’s security services. His many anecdotes ranged from the selling of academic degrees to rich</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Historicizing Ottoman Egypt:</title>
+                     <subtitle>1890–1906</subtitle>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>At the close of the nineteenth century, Egypt was a place marked by rapid intellectual, political, economic, and cultural changes. It was an extremely dynamic era. None of the changes that occurred in the period can be explained by a single ideology (nationalism, Pan-Islamism, constitutionalism) or a fixed set of abstract intellectual agendas (positivism, Darwinism, Spenserism), and it is very important to acknowledge the diversity of thought that is to be found in the thinking of this period. If dynamism was a sign of the era, it necessarily meant that intellectual horizons were wide open for the absorption, modification and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Talking History:</title>
+                     <subtitle>1906–1920</subtitle>
+                  </title-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>By 1920, modern historical thought had reached a certain point of maturity. My aim in this chapter is to explain this process. With improved accessibility to new types of knowledge and completely new forms of intellectual organization, the perceptual tools of educated people were modified, at first quite slowly, but by 1919, quite decisively. Though it is yet too early to speak of a genre of modern history, the development of new linguistic resources, in fact an entire semantic field, was the crucial and final element that brought the historicization process to a mature point. The association between history writing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The ˓Ābdīn House of Records:</title>
+                     <subtitle>The 1920s</subtitle>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>An anecdote expresses the founding myth of ˓Ābdīn, the powerful archive that shaped Egypt’s historiographical horizons for generations to come:</p>
+                     <p>There is a story told in Egypt concerning a visit by king Fuad to the citadel, where the early records of his dynasty had been thrown underfoot. Upon seeing these papers scattered about and covered with dust, one of the men in the King’s party exclaimed: “Your highness, is it not unfitting that we should be treading on the records that deal with reigns of your illustrious ancestors?” According to the story, the King then ordered that all records bearing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Competing for History:</title>
+                     <subtitle>1930–1952</subtitle>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>This chapter is about historiographical competition. What began with the modern conceptual innovation of the founder paradigm, continued with the development of compatible linguistic and conceptual resources and, supported by powerful scholarly institutions such as the ʿĀbdīn archive, culminated with the advent of modern historical narration. Driven by the post-1919 sociocultural and political changes, the most important of which was the rise of a new middle class, a qualitative and quantitative change in the arena of history writing occurred in the next two decades. An unprecedented outpouring of historical knowledge reflected the demand for modern historical meaning. Circulated in popular</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Ghurbāl’s School:</title>
+                     <subtitle>1930–1952</subtitle>
+                  </title-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>The story goes that when Muḥammad Shafīq Ghurbāl was asked to identify his most important publications he pointed at his students and said, “These are my most important books.”¹ True or not, this anecdote captures the very essence of Ghurbāl’s career: Although his publications were fragmentary and on multiple subjects, he nevertheless had an unprecedented influence as a teacher and intellectual leader.² From the perspective of intellectual history, then, his career did not provide the historian with a significant body of literature to work with. The historian’s task becomes even more frustrating once the basic tension of Ghurbāl’s career is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Partisan Historiography:</title>
+                     <subtitle>The 1940s and Beyond</subtitle>
+                  </title-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>After the outbreak of World War II and increasingly throughout the 1940s, Egyptian public life was radicalized. Parliamentary politics was viewed as detached from the country’s real problems, and politicians appeared as self-serving and corrupt. Successive governments rose and fell, and the existing political order began to lose both credibility and respect. Thus, the largest opposition group, the Muslim Brotherhood, openly challenged the state by murdering Prime Minister Maḥmūd Fahmī al-Nuqrāshī. The government responded in the same fashion and eliminated the brotherhood’s leader, Ḥasan al-Bannā. On a number of occasions the state brutally suppressed the communists. The popular anti-British struggle</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Demonstrating History:</title>
+                     <subtitle>The 1950s</subtitle>
+                  </title-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>The decade that followed the events of July 1952 critically altered the conventional assumptions of post–World War I Egyptian historiography. This impact was obvious. A variety of state-owned media invoked the memory of past events on a daily basis. Indeed, over the years, scholars had been drawn to the extensive usage of the past during the 1950s. Subscribing to the idea that the task of historiography is mainly that of studying shifts in historical representation, they emphasized the changing image of several rulers and popular leaders.¹ Though the issue of changing historical images was the most visible historiographical trait</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Controlling History:</title>
+                     <subtitle>The 1960s</subtitle>
+                  </title-group>
+                  <fpage>282</fpage>
+                  <abstract>
+                     <p>As a third-world endeavor, the essence of Egypt’s revolutionary movement was to provide its citizens with land, employment, peace, and freedom. Like similar movements in Asia, Africa, and Latin America during the age of decolonization, it hoped to forge an authentic and sovereign subject who was liberated from the mental habits of people under colonial domination. Therefore, above all, Nasserism was a quest for a kind of dignity that formed the inner meaning of the word<italic>independence</italic>.¹ And so, whether their quest was for Pan-Arab unity, agrarian reform, or rapid industrialization, many of the domestic and regional policies of Nasserism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Authoritarian Pluralism:</title>
+                     <subtitle>1970–2000</subtitle>
+                  </title-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>Immediately after Anwar Sadat’s accession to power in November 1970, the seemingly united front of Nasserism began to collapse. In less than a decade the authoritarian populism and socialist dogmatism of the previous era were replaced by a political system of authoritarian pluralism. Expanded and bureaucratically perfected by President Husni Mubarak since 1981, this new political system has had a paradoxical quality: For the liberalization of the political and cultural arenas and the diversification and privatization of the media and the economy did not undermine authoritarianism but only strengthened it. The puzzling irony of this counterintuitive sociopolitical system would probably</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.17</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>The late historian Albert Hourani once remarked that the Arabs are looking at themselves with eyes given to them by Europe. In a way, this is a study of these “eyes” and the things they saw, failed to see, or chose to ignore. By talking about eyes, Hourani aimed at something more substantial than a mere perspective or view. These eyes were nothing but new categories of knowledge, such as geography, anthropology, sociology, and, the subject of this book, the modern European tradition of making sense of the past. When this European historiography presented itself to the Middle East, it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.18</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.19</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>371</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ppj3r.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>390</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

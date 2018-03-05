@@ -1,0 +1,597 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wr3b4</book-id>
+      <subj-group>
+         <subject content-type="call-number">DS856. H424 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Japan</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">Heian period, 794–1185</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Heian Japan, Centers and Peripheries</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>ADOLPHSON</surname>
+               <given-names>MIKAEL</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>KAMENS</surname>
+               <given-names>EDWARD</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>MATSUMOTO</surname>
+               <given-names>STACIE</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">EDITORS</role>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>02</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824830137</isbn>
+      <isbn content-type="epub">9780824862817</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt6wr3b4"/>
+      <abstract abstract-type="short">
+         <p>The first three centuries of the Heian period (794–1086) saw some of its most fertile innovations and epochal achievements in Japanese literature and the arts. It was also a time of important transitions in the spheres of religion and politics, as aristocratic authority was consolidated in Kyoto, powerful court factions and religious institutions emerged, and adjustments were made in the Chinese-style system of ruler-ship. At the same time, the era’s leaders faced serious challenges from the provinces that called into question the primacy and efficiency of the governmental system and tested the social/cultural status quo. Heian Japan, Centers and Peripheries, the first book of its kind to examine the early Heian from a wide variety of multidisciplinary perspectives, offers a fresh look at these seemingly contradictory trends. Essays by fourteen leading American, European, and Japanese scholars of art history, history, literature, and religions take up core texts and iconic images, cultural achievements and social crises, and the ever-fascinating patterns and puzzles of the time. The authors tackle some of Heian Japan’s most enduring paradigms as well as hitherto unexplored problems in search of new ways of understanding the currents of change as well as the processes of institutionalization that shaped the Heian scene, defined the contours of its legacies, and make it one of the most intensely studied periods of the Japanese past.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.3</book-part-id>
+                  <title-group>
+                     <title>List of Maps, Figures, and Tables</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.5</book-part-id>
+                  <title-group>
+                     <title>TERMINOLOGY AND TRANSLATIONS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.6</book-part-id>
+                  <title-group>
+                     <title>[Maps]</title>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Between and Beyond Centers and Peripheries</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ADOLPHSON</surname>
+                           <given-names>MIKAEL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KAMENS</surname>
+                           <given-names>EDWARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This volume presents new approaches to and interpretations of the first three centuries of the Heian period (794–1086), several interrelated aspects of which are reexamined or are analyzed for the first time here, in a group of studies that reach across disciplinary boundaries while sharing a common theme or motif: the real or imagined configuration of “centers and peripheries” and their many manifestations. As we use the term here, “centers and peripheries” can refer to geographical or spatial relationships, but it may also suggest various dynamics in, among, and between institutions and collectives, clans and families, social classes and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>From Female Sovereign to Mother of the Nation:</title>
+                     <subtitle>Women and Government in the Heian Period</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SANAE</surname>
+                           <given-names>FUKUTŌ</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <role>WITH</role>
+                        <name name-style="western">
+                           <surname>WATANABE</surname>
+                           <given-names>TAKESHI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>The Heian age stands out for the contributions made by noblewomen in the production of literary works and as sponsors of the arts and religious ceremonies. Their participation in political decisions at the center, however, has traditionally been seen as limited, especially when compared to the two hundred years between Empress Suiko’s accession (592) and Empress Shōtoku’s death (770), when men and women reigned in equal numbers and shared similar spans of rule. This context seems to be unique to ancient Japan as one is unlikely to find this many female rulers during such an extended period in other premodern</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Court and Provinces under Regent Fujiwara no Tadahira</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PIGGOTT</surname>
+                           <given-names>JOAN R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>Receiving such royal orders from the dying Daigo Tennō (r. 897 – 930), Fujiwara no Tadahira (880 – 949) became regent<italic>(sesshō)</italic>for the seven-year-old Suzaku Tennō (r. 930 – 946) in 930.¹ Later, Tadahira would also serve as chief of staff<italic>(kanpaku)</italic>to Suzaku and as regent to Suzaku’s younger brother, Murakami Tennō (r. 946 – 967). Tadahira was not the first scion of the Northern Fujiwara family to serve as regent; he was the fourth son of Fujiwara no Mototsune (836 – 891), the adopted heir of Fujiwara no Yoshifusa (804 – 872), and both Yoshifusa and Mototsune had served as regent before Tadahira.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Kugyō and Zuryō:</title>
+                     <subtitle>Center and Periphery in the Era of Fujiwara no Michinaga</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HURST</surname>
+                           <given-names>G. CAMERON</given-names>
+                           <suffix>III</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Considerations of center and periphery in Heian Japan involve at the highest level the relationship between the central political apparatus and the hinterlands, the sixty-six provinces and two islands (Iki and Tsushima) that constituted the conceptualized polity. Indeed, the very existence of a state presupposes control over the human and material resources of the space thought to constitute the geographical area of that conceptualized state. This was never an easy task for Japanese rulers, despite the insular character of Japan that seems to lend itself to simple mapping of a discrete geopolitical entity. Recall, for example, the court’s hard-fought campaigns</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Way of the Literati:</title>
+                     <subtitle>Chinese Learning and Literary Practice in Mid-Heian Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SMITS</surname>
+                           <given-names>IVO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>Unlike those who study Japanese history, scholars of Japan’s literature have long been reluctant to seriously take into account texts written in Chinese, or Sino-Japanese. While this peripheral position of Chinese texts is shifting, it is necessary to restate the obvious: insofar as the written word is concerned, premodern and early modern Japan was a bilingual country. The marginalization of Chinese some two centuries ago resulted in a fading awareness of a large cultural heritage. With the rise of<italic>kokugaku</italic>(national learning) in the late eighteenth century, the bias against Chinese grew steadily and was consolidated in the late nineteenth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Terrains of Text in Mid-Heian Court Culture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KAMENS</surname>
+                           <given-names>EDWARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>In Murasaki Shikibu’s semiprivate living quarters (ca. 1008 – 1010), there were two cupboards. One was “crammed to bursting point” with “old poems and tales”<italic>(furu uta, monogatari);</italic>the other was full of miscellaneous Chinese books<italic>(fumi domo)</italic>left to her by her late husband. It was to the latter, she reports in her diary, that she was drawn in those times when idleness weighed upon her<italic>(tsurezure semete amarinuru toki):</italic>“Whenever my loneliness threatens to overwhelm me, I take out one or two of them to look at; but my women gather together behind by back. ‘It’s because you go</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Buddhist Transformation of Japan in the Ninth Century:</title>
+                     <subtitle>The Case of Eleven-Headed Kannon</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MORSE</surname>
+                           <given-names>SAMUEL C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The significance of the Shingon and Tendai traditions in the history of Japanese Buddhist art during the early Heian period is indisputable. Yet it is important to acknowledge that those teachings were available only to a culturally privileged, literate male minority with close connections to the court. Temple histories and inventories as well as texts from the period describing popular Buddhist beliefs and practices, such as the<italic>Nihon koku genpō zen’aku ryōiki (Miraculous Stories from the Japanese Buddhist Tradition)</italic>and the<italic>Tōdaiji fuju monkō (Text of Buddhist Recitations from Tōdaiji),</italic>attest to the vitality of a Buddhism far different from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Scholasticism, Exegesis, and Ritual Practice:</title>
+                     <subtitle>On Renovation in the History of Buddhist Writing in the Early Heian Period</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ABÉ</surname>
+                           <given-names>RYŪICHI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>There was an epistemic shift in the production of Japanese Buddhist texts in the early Heian period, a shift that enabled Buddhists to incorporate the elements of meditation, ritual, and religious practice in general within the science of scriptural exegesis. Until the early ninth century, the exegetic texts written by Japanese Buddhist scholars were concerned entirely with doctrinal issues. By contrast, by the mid-tenth century, the great majority of Buddhist commentarial texts had their focus on ritual practices, especially on the rituals of esoteric Buddhism, the ritual practices that became integral within the management of the Heian court and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Institutional Diversity and Religious Integration:</title>
+                     <subtitle>The Establishment of Temple Networks in the Heian Age</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ADOLPHSON</surname>
+                           <given-names>MIKAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+                  <abstract>
+                     <p>The cultural accomplishments of the Heian age, most notably in literature and arts, have been admired, reproduced, and reinterpreted for centuries. Although not quite as enduring, political and religious institutions as well as ideologies created and developed in the ninth and tenth centuries similarly lasted much beyond the Heian age itself, some even until the late sixteenth century. For example, warriors vied for court titles in the fourteenth century, and legitimacy from the imperial court was still of tremendous importance to sixteenth-century<italic>daimyō.</italic>¹ Granted, while the imperial court did not wield much actual power in national politics during these centuries,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Archeology of Anxiety:</title>
+                     <subtitle>An Underground History of Heian Religion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOERMAN</surname>
+                           <given-names>D. MAX</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>The Heian period has often been characterized as a golden age of Japanese religious culture, one in which the Buddhist literature, painting, sculpture, and architecture produced at court are considered to have reached unprecedented heights. It is thus all the more surprising that in this time of cultural florescence many Buddhists, monastics and aristocrats alike, understood themselves to be living in an age of decay. According to their interpretation of Buddhist chronologies, the eleventh century marked the beginning of the end: the onset of<italic>mappō,</italic>the final degenerate age of the Dharma, or Buddhist Law, in which both the availability</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Famine, Climate, and Farming in Japan, 670 – 1100</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FARRIS</surname>
+                           <given-names>WILLIAM WAYNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>Crop failure and famine have a long history in Japan. Yet the topic has received virtually no attention in English-language research on the ancient period, meaning here 670 – 1100, nor have Japanese historians specializing in those years systematically analyzed it. This chapter will address three basic and seminal questions about food shortages in that era. First, how frequent and severe were they? The story of these crises in the early modern or Tokugawa period (1600 – 1868) is well-known, and many believe that they had widespread demographic, social, and political effects.¹ Can the same be said for the ancient period? Second,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Life of Commoners in the Provinces:</title>
+                     <subtitle>The Owari no gebumi of 988</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VON VERSCHUER</surname>
+                           <given-names>CHARLOTTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>The elites of Kyoto — emperors, court officials, monks, literati, and poets — have been the focus of many studies of Heian Japan. What is often overlooked is that the local population in the provinces provided the food, clothing, and various supplies the elites needed to perform their daily duties. And although the commoners rarely appear in the historical sources or the literary works of the age, they were of central importance to the livelihoods of the central elites. This chapter focuses on provincial life and examines Heian society from a material point of view in an attempt to explore this codependence.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Lordship Interdicted:</title>
+                     <subtitle>Taira no Tadatsune and the Limited Horizons of Warrior Ambition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRIDAY</surname>
+                           <given-names>KARL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>329</fpage>
+                  <abstract>
+                     <p>In 1028 — the very middle of the self-professed era of “peaceful tranquility” — the central aristocracy’s self-complacence was ripped by reports that Taira no Tadatsune (967 – 1031), a maternal grandson of the infamous Taira no Masakado (? – 940), had attacked and ravaged the provincial government compound<italic>(kokuga)</italic>in Awa. This incident, and the events that followed, rank among the most dramatic episodes in the early history of Japan’s warrior order. Masakado’s insurrection, some seven decades earlier, had climaxed with the protagonist’s claiming for himself the title New Emperor. Tadatsune’s reach did not extend so far, but his grasp held the provinces</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.20</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Cross-border Traffic on the Kyushu Coast, 794 – 1086</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BATTEN</surname>
+                           <given-names>BRUCE L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>357</fpage>
+                  <abstract>
+                     <p>With a population of 1.3 million, Fukuoka is today the largest city on the island of Kyushu and the eighth largest in all of Japan. The city occupies most of Fukuoka Plain, a relatively large (230 km²) crescent-shaped slice of land on the south side of Hakata Bay. The bay itself is a magnificent, sheltered body of water that opens to the northwest into the Genkai Sea, Japan’s gateway to continental Asia. Two natural stepping-stones, the islands of Iki and Tsushima, mark the sea route to Korea. The Korean Peninsula lies approximately two hundred kilometers northwest of Hakata but only</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.21</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Jōjin’s Travels from Center to Center (with Some Periphery in between)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BORGEN</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>384</fpage>
+                  <abstract>
+                     <p>In recent decades scholars have questioned two hoary clichés regarding the Heian period: that it was an age of semi-isolation when Japan abandoned its diplomatic ties with China as interest in Chinese culture waned and that it consisted of a well-defined center, its urbane and highly literate capital, surrounded by a vast uncouth, benighted periphery. When regarded as isolated, or at least semi-isolated, the Heian period is part of an implicit periodization scheme, often used but never systematically expressed, that divided Japan’s history into alternating ages of receptivity and rejection of foreign culture: whereas the Nara period was viewed as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.22</book-part-id>
+                  <title-group>
+                     <title>REFERENCES</title>
+                  </title-group>
+                  <fpage>415</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.23</book-part-id>
+                  <title-group>
+                     <title>GLOSSARY-INDEX</title>
+                  </title-group>
+                  <fpage>439</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wr3b4.24</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>449</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

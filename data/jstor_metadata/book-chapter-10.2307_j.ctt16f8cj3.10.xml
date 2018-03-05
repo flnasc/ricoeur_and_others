@@ -1,0 +1,424 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16f8cj3</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Investigación Social</subject>
+         <subj-group>
+            <subject content-type="lcsh">Metodología</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ciencias Sociales</subject>
+         <subj-group>
+            <subject content-type="lcsh">Investigación Cualitativa</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ciencias Sociales</subject>
+         <subj-group>
+            <subject content-type="lcsh">Método de Proyectos</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ciencias Sociales</subject>
+         <subj-group>
+            <subject content-type="lcsh">Modelos Matemáticos</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Investigación Social</subject>
+         <subj-group>
+            <subject content-type="lcsh">Método Helicoidal</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>El helicoide de la investigación</book-title>
+         <subtitle>Metodología en tesis de ciencias sociales</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="other" id="contrib1">
+            <name name-style="western">
+               <surname>Aibar</surname>
+               <given-names>Julio</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib2">
+            <name name-style="western">
+               <surname>Cortés</surname>
+               <given-names>Fernando</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib3">
+            <name name-style="western">
+               <surname>Martínez</surname>
+               <given-names>Liliana</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="other" id="contrib4">
+            <name name-style="western">
+               <surname>Zaremberg</surname>
+               <given-names>Gisela</given-names>
+            </name>
+         </contrib>
+         <role content-type="other">(coordinadores)</role>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>09</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9786079275211</isbn>
+      <isbn content-type="epub">9786079275235</isbn>
+      <publisher>
+         <publisher-name>Facultad Latinoamerica de Ciencias Sociales, sede México</publisher-name>
+         <publisher-loc>MÉXICO</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Facultad Latinoamericana de Ciencias Sociales</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt16f8cj3"/>
+      <abstract abstract-type="short">
+         <p>Este libro no es un texto de metodología tradicional. Propone, en cambio, un abordaje diferente exponiendo al lector las decisiones y los caminos metodológicos emprendidos en investigaciones que originaron tesis de doctorado y de maestría en ciencias sociales. La obra condensa experiencias reflexionadas y narradas por los propios autores sobre el proceso que los llevó a culminar con éxito sus tesis. Es un libro que comparte con aire intimista, la lógica del vaivén en torno a los momentos de decisión y gozo que enfrentan todos aquellos comprometidos con la tarea de investigar.</p>
+      </abstract>
+      <counts>
+         <page-count count="303"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.3</book-part-id>
+                  <title-group>
+                     <title>Prefacio</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zaremberg</surname>
+                           <given-names>Gisela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.4</book-part-id>
+                  <title-group>
+                     <title>Introducción</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aibar</surname>
+                           <given-names>Julio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cortés</surname>
+                           <given-names>Fernando</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martínez</surname>
+                           <given-names>Liliana</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zaremberg</surname>
+                           <given-names>Gisela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>En las ciencias sociales de América Latina suele prevalecer la idea de que el proceso de investigación puede ser adecuadamente representado por una línea recta que inicia con el problema de investigación y que finaliza con la contrastación de la o las hipótesis, o en el mejor de los casos, con el planteamiento de nuevos problemas de investigación.</p>
+                     <p>Un esquema que podría admitir esta lectura es el que proporciona Mario Bunge (1979: 26).¹ El problema de investigación no surge en el vacío sino que adquiere sentido en el cuerpo de conocimientos disponible. Planteada la pregunta, la hipótesis se puede conceptuar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.5</book-part-id>
+                  <title-group>
+                     <title>La experiencia personal y el diálogo teórico como insumos para el desarrollo de un problema de investigación social</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Espinoza</surname>
+                           <given-names>Helder Binimelis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Contrario a la comprensión habitual de la investigación científica como un proceso lineal, el presente artículo pretende reflexionar acerca del proceso de selección temática y posterior definición de un problema de investigación, dando cuenta de una experiencia que no tuvo un flujo continuo entre dos puntos y que, por el contrario, avanzó y retrocedió siguiendo etapas no lineales que se superpusieron, contradijeron y se tensionaron entre sí.</p>
+                     <p>Este proceso culminó con la realización de una investigación doctoral que ofreció una comparación entre los casos de Brasil y Chile en relación con diversos aspectos de sus legislaciones, políticas públicas y actores</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.6</book-part-id>
+                  <title-group>
+                     <title>Los giros del helicoide.</title>
+                     <subtitle>Los avatares de la construcción dialéctica de un tema y un problema de investigación</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gobato</surname>
+                           <given-names>Federico</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>A modo de un ejercicio de reflexión crítica sobre mi experiencia como tesista, este ensayo se enfoca en los aspectos prácticos, lógicos y materiales del proceso mutuamente imbricado de construcción del<italic>tema</italic>y del<italic>problema</italic>de investigación. En el caso que aquí reconstruyo analíticamente, ambos inscriben y orientan la prosecución de un proyecto de investigación de largo aliento, que involucró tanto la realización de una tesis de maestría, como los esfuerzos actuales en pos de la tesis doctoral.</p>
+                     <p>La pregunta acerca de<italic>cómo se pasa de un tema a un problema de investigación</italic>funge como el acicate de este trabajo,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.7</book-part-id>
+                  <title-group>
+                     <title>Los procesos de subjetivación de las víctimas del conflicto armado en Colombia, o de cómo nace una pregunta de investigación</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Barón</surname>
+                           <given-names>Mariana Delgado</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>Colombia ha padecido un conflicto armado interno por más de cuarenta años, caracterizado por el enfrentamiento y la lucha por el control territorial entre las fuerzas insurgentes —principalmente las Fuerzas Armadas Revolucionarias de Colombia (FARC)—, grupos paramilitares congregados en las Autodefensas Unidas de Colombia (AUC), y el Estado, representado en sus fuerzas armadas. En los últimos años, el conflicto se ha agudizado debido a la crisis del desplazamiento forzado que ha despojado de sus tierras aproximadamente a cuatro millones de campesinos¹pero también por la sistemática persecución de líderes y defensores de derechos humanos,² el constante crecimiento del universo de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.8</book-part-id>
+                  <title-group>
+                     <title>Selección intencionada de observaciones y explicación nomotética</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Santiago</surname>
+                           <given-names>Orlando Espinosa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Una primera etapa de la lógica de investigación científica es transitar del tema al problema de investigación para lograr un diseño metodológico coherente. Para decirlo con sencillez: se tiene un<italic>tema de investigación</italic>cuando se cuenta con un bosquejo o idea difusa acerca de un fenómeno observado, el cual se convierte en<italic>un problema de investigación</italic>únicamente cuando la pregunta formulada no es una interrogante arbitraria, sino un cuestionamiento teóricamente localizado. Aunque esto parece una obviedad y un aprendizaje “natural” en la maduración del investigador, no es un tránsito exento de problemas, como se verá enseguida.</p>
+                     <p>En ocasiones, el tema</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.9</book-part-id>
+                  <title-group>
+                     <title>Un salto al vacío.</title>
+                     <subtitle>La hipótesis de la imaginación o su ausencia en la investigación en ciencias sociales</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mora</surname>
+                           <given-names>Lizette</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Hay un hueco en la teoría, un vacío de imaginación. En el estadio previo a la formulación de una pregunta de investigación, percibía un potencial en la noción de imaginación para crear conocimiento y significados nuevos; que la apuesta por esta categoría era muy arriesgada para las ciencias sociales, y que ponía en riesgo los criterios de cientificidad que históricamente las habían legitimado. La imaginación ha recibido un tratamiento insuficiente, cuyos resultados no informan a la comunidad de especialistas acerca de su potencial cognoscitivo. Había que dar un salto al vacío.</p>
+                     <p>La política y el arte eran tan sólo dos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.10</book-part-id>
+                  <title-group>
+                     <title>Rutas, desafíos y limitaciones teórico-metodológicas en la investigación acerca de las comisiones de estudio sobre la violencia en Colombia</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marín</surname>
+                           <given-names>Jefferson Jaramillo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Desde la segunda mitad del siglo XX, Colombia es testigo de tres grandes manifestaciones de violencia que han tenido gran impacto para este país no sólo por las dimensiones históricas del fenómeno involucrado, sino también por la magnitud de sus secuelas en la población.¹ La primera de estas manifestaciones es representada casi siempre de manera simple y llana como la<italic>violencia</italic>y refiere a un enfrentamiento entre las dos subculturas políticas de más tradición en el país, liberales y conservadores, el cual ocurrió entre 1946 y 1965 y que dejó como saldo más de 170 000 víctimas, especialmente campesinos, en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.11</book-part-id>
+                  <title-group>
+                     <title>Rutas metodológicas para hormigas que sueñan ser mariposas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Moreira</surname>
+                           <given-names>Gislene</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>Cuando vi por primera vez el milagro del vuelo de millares de mariposas migrantes en el santuario de la Monarca, comprendí que realizaba un sueño infantil. Hacía poco había llegado a México para profundizar estudios sobre participación social en los cambios de las políticas de comunicación. El proyecto doctoral era parte de una historia que empezó cuando tenía nueve años y me sentía una hormiga que quería tener alas.</p>
+                     <p>En aquellas fechas, como reportera precoz experimenté el poder de cambio de una radio comunitaria clandestina en la dinámica de zonas rurales marginadas en el interior de Bahía, Brasil. Muy pronto</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.12</book-part-id>
+                  <title-group>
+                     <title>Una ruta metodológica para entender las decisiones estratégicas en dos movimientos sociales</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Núñez</surname>
+                           <given-names>Joaliné Pardo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>Este capítulo es acerca de la elaboración de mi tesis doctoral, específicamente del proceso evolutivo-iterativo de mi hipótesis a lo largo de la investigación en una interacción constante entre suponer, pensar, preguntar, analizar y escribir. Por lo tanto, será indispensable involucrar al lector en los intrincados vericuetos teóricos y empíricos que seguí en el trazo del planteamiento y la ruta metodológica de investigación y análisis. Enfatizaré el ir y venir entre teoría y datos empíricos que continuamente se ponían a prueba entre sí y me obligaban a buscar más bibliografía y a modificar mis hipótesis.</p>
+                     <p>Mi investigación fue un estudio</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16f8cj3.13</book-part-id>
+                  <title-group>
+                     <title>La búsqueda de recursos heurísticos para explicar la duración de la guerra en Colombia</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Uribe-López</surname>
+                           <given-names>Mauricio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Los colombianos de mi generación no han conocido la paz. Además, crecimos escuchando las historias de la guerra interpartidista de mediados del siglo XX mientras descubríamos que todo ese horror no había quedado atrás. Cuando escribí mi tesis de maestría en la Universidad Nacional de Colombia acerca de las implicaciones del debate sobre la justicia distributiva en la economía del bienestar, el contraste entre las guías normativas para evaluar la justicia de una sociedad y lo que ocurría en mi país era, y es, muy desconcertante. ¿Qué tan pertinente podía ser reflexionar acerca de la justicia distributiva en un país</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

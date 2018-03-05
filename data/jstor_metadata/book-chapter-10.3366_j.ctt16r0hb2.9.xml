@@ -1,0 +1,440 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt16r0hb2</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Psychology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Narrative, Identity and the Kierkegaardian Self</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Lippitt</surname>
+               <given-names>John</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Stokes</surname>
+               <given-names>Patrick</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>05</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748694433</isbn>
+      <isbn content-type="epub">9780748694440</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>John Lippitt</copyright-holder>
+         <copyright-holder>Patrick Stokes</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt16r0hb2"/>
+      <abstract abstract-type="short">
+         <p>Is each of us the main character in a story we tell about ourselves, or is this narrative understanding of selfhood misguided and possibly harmful? Are selves and persons the same thing? And what does the possibility of sudden death mean for our ability to understand the narrative of ourselves?For the first time, this collection brings together figures in contemporary philosophy and Kierkegaard studies to explore pressing questions like these in the philosophy of personal identity and moral psychology. These essays will both advance important ongoing discussions of selfhood and expand the light that, 200 years after his birth, Kierkegaard is still able to shed on contemporary problems.</p>
+      </abstract>
+      <counts>
+         <page-count count="248"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations for Kierkegaard’s Works</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.5</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LIPPITT</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STOKES</surname>
+                           <given-names>PATRICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Questions of self-constitution and personal identity have been amongst the most heavily contested topics in Anglophone philosophy over the last half-century. Yet the pedigree of this discussion goes back considerably further. Such questions are clearly at work as early as the second-century theologians Athenagoras and Irenaeus, who worried about how identity could be preserved in bodily resurrection,¹ and this eschatological dimension to the question was still very much alive in early modern discussions of mind and identity. Even Locke’s treatment of personal identity in his<italic>Essay Concerning Human Understanding</italic>– which has conditioned the entire discussion to the present day to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Moments of a Life:</title>
+                     <subtitle>On Some Similarities between Life and Literature</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHECHTMAN</surname>
+                           <given-names>MARYA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Over the past several decades narrative accounts of personal identity have become increasingly popular (see, e.g. Davenport 2012, MacIntyre 1984, Ricoeur 1992, Rudd 2012, Schechtman 1996, Taylor 1989). As the narrative approach has become more prominent it has, predictably, attracted its share of criticism, and there has been a fairly strong reaction against the idea that our lives can profitably be understood in narrative terms. The most common and forceful objection to this approach is often formulated as a kind of dilemma: either narrative theories really mean to claim that our lives are significantly like literary narratives or these views</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Teleology, Narrative and Death</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALTSHULER</surname>
+                           <given-names>ROMAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>Consider the fission problem: a single human being, A, is divided into two such humans, B and C, through teleportation, divine intervention, or some other mythical power. Both B and C are psychologically continuous with A. As the established account of personal identity would have it, psychological continuity is sufficient for personal identity.¹ But if fission is conceptually possible, the psychological continuity view of personal identity faces a problem: since both B and C are psychologically continuous and thus identical with A, given the transitivity of identity it must follow that B and C are identical with each other. And</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Kierkegaard’s Platonic Teleology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RUDD</surname>
+                           <given-names>ANTHONY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>46</fpage>
+                  <abstract>
+                     <p>There has been a good deal of discussion in recent philosophy of narrative theories of personal identity and of ethics.¹ And there have been lively debates among Kierkegaard scholars about whether, and to what extent, Kierkegaard can be considered a narrative theorist, and the relevance of his thought to discussions of narrative in contemporary philosophy.² In some of these discussions, though, there has been a tendency to consider the notion of narrative apart from the broader philosophical context in which it was introduced by the chief founders of modern narrative theory – Alasdair MacIntyre, Charles Taylor and Paul Ricoeur.³ For them</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Narrative Holism and the Moment</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STOKES</surname>
+                           <given-names>PATRICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Personal identity theory is a rather odd sort of hybrid: born of philosophy of mind and metaphysics, with some pneumatology and soteriology a bit further back in the family tree, and eccentric uncle philosophy of religion living in the shed out the back (where the others let him potter around doing his own thing, hoping he’ll eventually move out). When narrative theory married into this family, having been introduced in the 1980s via philosophy of history and through the dual tracks of MacIntyrean virtue ethics and Ricoeurian hermeneutics, it brought a much-needed infusion of ethics, value theory and philosophical psychology</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Kierkegaard’s Erotic Reduction and the Problem of Founding the Self</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STRAWSER</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>78</fpage>
+                  <abstract>
+                     <p>The ‘signature narrative thesis’ serves particularly well in explaining how personal identity gets constituted through one’s reflective consciousness or understanding, although it leaves open the question of how reflective consciousness itself is constituted (cf. Davenport 2012: 2–3). Is the ‘self’ identical to the narrative form of a person’s understanding, or is there a deeper self than that which emerges on the reflective level? In contrast to this narrative view, according to recent scholarship the phenomenological tradition unanimously affirms that the core self is to be found in pre-reflective consciousness. Further, Kierkegaard has not only been suggested to be significant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Narrativity and Normativity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WIETZKE</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>In his afterword to<italic>Kierkegaard after MacIntyre</italic>, Alasdair MacIntyre identifies two types of aesthetes. First there is the type we can associate with one of the main subjects of<italic>Either/Or</italic>, the aesthete known as A: an agent on some level aware of, and likely compelled by, the claims of the ethical existence-sphere, but who ultimately manages to avoid them through various devices of self-deception. According to MacIntyre, this ‘aesthete [. . .] is a divided self, on the surface [. . .] unable to move beyond immediacy, but in his unacknowledged secret depths already engaged with the ethical’ (2001: 348).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The End in the Beginning:</title>
+                     <subtitle>Eschatology in Kierkegaard’s Literary Criticism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HELMS</surname>
+                           <given-names>ELEANOR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The controversy over the role of narrative in Kierkegaard’s philosophy concerns whether it is desirable for a self to be able to produce some kind of life-narrative. Anthony Rudd, extending the work of Marya Schechtman in<italic>The Constitution of Selves</italic>, insists that while lives have unity beyond the explicit narratives we tell, we should be able to provide articulated narratives when asked (Rudd 2012: 180, 205; Schechtman 1996: 113–19). John Lippitt has argued, on the other hand, that an important feature of selfhood is the recognition that life resists narrative (2007: 45). In other words, Rudd claims it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Forgiveness and the Rat Man:</title>
+                     <subtitle>Kierkegaard, ‘Narrative Unity’ and ‘Wholeheartedness’ Revisited</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LIPPITT</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>126</fpage>
+                  <abstract>
+                     <p>It is surprising to write a couple of articles and receive a book in response. Yet such has been the flattering reaction to my own modest contribution to the debate about whether or not Kierkegaard should be classed as a ‘narrativist’ in any interesting sense (Lippitt 2005, 2007). Both John J. Davenport (the author of the book in question) and Anthony Rudd have in recent work sought to clarify the conception of ‘narrative’ that they see as operative in Kierkegaard (Davenport 2011, 2012; Rudd 2007b, 2008a, 2012). In doing so, both have revised and qualified their positions in various respects,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Virtues of Ambivalence:</title>
+                     <subtitle>Wholeheartedness as Existential Telos and the Unwillable Completion of Narravives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DAVENPORT</surname>
+                           <given-names>JOHN J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>In recent years, narrative interpretations of selfhood in Kierkegaard’s works have provided a fertile basis for approaching a range of issues in moral psychology that are important in their own right. It is interesting how much these debates have started to focus less on Kierkegaard interpretation and more on developing Kierkegaard’s insights to make headway on some of the perennial questions of philosophical anthropology. Anthony Rudd and I have defended ‘narrative realist’ accounts of selves that draw on Kierkegaard for inspiration. Likewise, several papers in this volume challenge these narrative theories on their merits, and especially as ways to understand</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Non-Narrative Protestant Goods:</title>
+                     <subtitle>Protestant Ethics and Kierkegaardian Selfhood</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DALSGAARD</surname>
+                           <given-names>MATIAS MØL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>How are selfhood and narrativity related in Kierkegaard’s thought? The present paper is concerned with this question. More precisely I shall try to describe how ‘the good life’ or ‘the good way of being’ of the individual self in Kierkegaard is or is not related to narrativity. My approach to the question of selfhood and narrativity in Kierkegaard is normative rather than theoretical: I shall not so much discuss Kierkegaard’s ‘theory of the self’ as Kierkegaard’s ‘ethics of the self’ and how this ethics relates to narrativity. By narrativity, I mean the individual’s ability to give a more or less</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Narrativity, Aspect and Selfhood</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SIGRIST</surname>
+                           <given-names>MICHAEL J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Contemporary discussions about narrativity and selfhood commonly make reference to Alastair MacIntyre’s<italic>After Virtue</italic>and to the work of Charles Taylor from the seventies and eighties, especially<italic>Sources of the Self</italic>. Paul Ricoeur’s writings on the subject also figure prominently, and more recently, Marya Schechtman’s<italic>The Constitution of Selves</italic>has powerfully shaped the terms of the debate. Each of these philosophers defends a narrative model of personal identity as an alternative to physicalist or embodied theories, on the one hand, and psychological theories on the other. These latter approaches have tried to understand selfhood either by appeal to a self-identical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Senses of an Ending</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BEHRENDT</surname>
+                           <given-names>KATHY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>One might suppose that life’s end is of special importance to narrativist views of the self, even if the specific nature of that import is opaque. Many philosophical discussions of the narrative self touch upon the end of life.¹ End-related terms and concepts that occur in these discussions include finitude, completion, closure,<italic>telos</italic>, retroactive meaning-conferral, life shape and a closed beginning-middle-and-end structure. Those who emphasise life’s end in non-philosophical narrative contexts are perhaps clearer on its significance. The end is thought to play a key role in the story of a life, securing or enhancing the life narrative’s meaning or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>The End?</title>
+                     <subtitle>Kierkegaard’s Death and its Implications for Telling his Story</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PATTISON</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>In<italic>Kierkegaard and the Quest for Unambiguous Life</italic>, I sought to read Kierkegaard in the particular context of modernist literature, politics, philosophy and religion that spanned the period from late romanticism through to existentialism. Inevitably, this is a categorisation that is difficult to define precisely, either historically or conceptually. Nevertheless, we can see many of the diverse movements and figures of the modernist breakthrough as sharing a concern to achieve a decisively unambiguous life, piercing through the superficial compromises of bourgeois society, looking reality in the face, and affirming the truth of iving personality. In this situation, values of honesty,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.20</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt16r0hb2.21</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>229</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

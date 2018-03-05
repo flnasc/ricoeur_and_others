@@ -1,0 +1,522 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x03hs</book-id>
+      <subj-group>
+         <subject content-type="call-number">BL51.S3493 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Religion</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Continental philosophy</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Wyschogrod, Edith</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Saintly Influence: Edith Wyschogrod and the Possibilities of Philosophy of Religion</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BOYNTON</surname>
+               <given-names>ERIC</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>KAVKA</surname>
+               <given-names>MARTIN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823230877</isbn>
+      <isbn content-type="epub">9780823249121</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x03hs"/>
+      <abstract abstract-type="short">
+         <p>Since the publication of her first book, Emmanuel Levinas: The Problem of Ethical Metaphysics, in 1974-the first book about Levinas published in English-Edith Wyschogrod has been at the forefront of the fields of Continental philosophy and philosophy of religion. Her work has crossed many disciplinary boundaries, making peregrinations from phenomenology and moral philosophy to historiography, the history of religions (both Western and non-Western), aesthetics, and the philosophy of biology. In all of these discourses, she has sought to cultivate an awareness of how the self is situated and influenced, as well as the ways in which a self can influence others.In this volume, twelve scholars examine and display the influence of Wyschogrod's work in essays that take up the thematics of influence in a variety of contexts: Christian theology, the saintly behavior of the villagers of Le Chambon sur Lignon, the texts of the medieval Jewish mystic Abraham Abulafia, the philosophies of Levinas, Derrida, and Benjamin, the practice of intellectual history, the cultural memory of the New Testament, and pedagogy.In response, Wyschogrod shows how her interlocutors have brought to light her multiple authorial personae and have thus marked the ambiguity of selfhood, its position at the nexus of being influenced by and influencing others.</p>
+      </abstract>
+      <counts>
+         <page-count count="228"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boynton</surname>
+                           <given-names>Eric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kavka</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Any volume that intends to honor a scholar whose work has shaped a field of inquiry is always about influence. This tribute to the work of Edith Wyschogrod is no exception. As a testament to the significance and extent of that influence, this volume brings together preeminent scholars in Continental philosophy of religion, as well as in Christian and Jewish theology, pragmatism, phenomenology, textual studies, and religious ethics. Many of these contributors have been Wyschogrod’s conversation partners throughout her years of scholarship. The volume includes essays that explicitly consider the salient issues in Wyschogrod’s work, as well as essays that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.5</book-part-id>
+                  <title-group>
+                     <title>The Uncertainty Principle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TAYLOR</surname>
+                           <given-names>MARK C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>16</fpage>
+                  <abstract>
+                     <p>Edith Wyschogrod is first and foremost an ethical thinker. That is not to say she is an ethicist in the usual sense of the term; to the contrary, it is precisely because her work exceeds the bounds of ethics as traditionally defined that it is relevant today. All too often ethical reflection remains focused on specific problems and does not rise to a consideration of the broader social and cultural contexts in which it is situated. Furthermore, there is almost never any serious exploration of the question of the possibility of ethics as such: Ethicists simply presuppose the possibility of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.6</book-part-id>
+                  <title-group>
+                     <title>The Impossible Possibility of Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALTIZER</surname>
+                           <given-names>THOMAS J. J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Edith Wyschogrod is perhaps our deepest and most serious contemporary ethical thinker, the one who has most comprehensively explored our ethical crisis today, and explored it with such decisive finality as to foreclose seemingly all possibility of a real and actual ethics for us. Although most deeply inspired by Levinas, she nevertheless has not succumbed to his absolute and absolutely primordial or pre-primordial ethics; she could not so succumb, if only because she will not abandon the actuality of our world. That actuality is most powerful for her in a uniquely contemporary “death-world,” a death-world ending everything that we have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.7</book-part-id>
+                  <title-group>
+                     <title>The Empty Suitcase as Rainbow</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WESTPHAL</surname>
+                           <given-names>MEROLD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>In her project of revisioning moral philosophy, Edith Wyschogrod takes a decisive turn from moral theory to hagiography, from abstract analysis and argument to concrete life stories. The negative motivation for this turn is a critique of moral theory. Two elements of this critique strike me as especially forceful. First, moral theory depends on arguments that do not persuade those outside the hermeneutic circle within which the arguments occur. Thus she points to “the circularity of standard modes of rationality.”¹ The problem is that “background claims … cannot be agreed upon. If there is no common frame of reference, no</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.8</book-part-id>
+                  <title-group>
+                     <title>Hosting the Stranger and the Pilgrim:</title>
+                     <subtitle>A Christian Theological Reflection</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WARD</surname>
+                           <given-names>GRAHAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Under the Immigration Act in Britain, it has been estimated that in 2007, up to 25,000 people were detained at places throughout the country known as Immigration Removal Centres (IRCs). Currently, the government plans to increase IRCs and “holding facilities” by 60 percent in the coming years. In the same year, 4,200 foreign prisoners were deported along with 63,140 illegal immigrants. In the first quarter of 2008, government statistics refer to 2,305 people being held, 1,980 of whom were men and 35 of whom were children. The situation is no better elsewhere. In the United States, Immigration and Customs Enforcement</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.9</book-part-id>
+                  <title-group>
+                     <title>“God,” Gods, God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PEPERZAK</surname>
+                           <given-names>ADRIAAN T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Gedanken sind frei</italic>. Thoughts are free. Thinking is autonomous. Philosophers are free because they are able to receive, accept or refuse, distance, display, suspend, or focus on all that exists or has been thought. But philosophy is never first (except,<italic>perhaps</italic>, in a quite abstract sense of being first), because, before beginning to practice it, philosophers have already been educated, formed, accustomed to a particular language and culture, become part of an ongoing history, and set on a certain path.</p>
+                     <p>
+                        <italic>Primum vivere, deinde philosophari</italic>. Emerging from a life that already has solved the basic problems of its survival, philosophy comes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.10</book-part-id>
+                  <title-group>
+                     <title>The Name of God in Levinas’s Philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GIBBS</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>Levinas testifies to one of philosophy’s primary vocations. A vocation, because philosophy<italic>is called</italic>. Like all responsibilities, philosophy’s is a response to a call it does not initiate. Philosophy is not like a God who is self-causing. But what is the<italic>ambivalence</italic>that is in question? Given my title, one can hardly be surprised that the ambivalence concerns God—concerns the way God can appear in thought, can appear by being named.¹</p>
+                     <p>Levinas is hardly unique in asking the question of how the name of God can refer to God. But he focuses on how philosophy must criticize itself, emphasizing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.11</book-part-id>
+                  <title-group>
+                     <title>Kenotic Overflow and Temporal Transcendence:</title>
+                     <subtitle>Angelic Embodiment and the Alterity of Time in Abraham Abulafia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WOLFSON</surname>
+                           <given-names>ELLIOT R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>In a number of previously published studies, I have explored the phenomenon of time in kabbalistic literature from various perspectives.¹ Needless to say, the permutations of this theme that may be gleaned from this variegated corpus are complex and multifaceted. Without denying that any attempt to represent the kabbalah as monolithic is prone to criticism, it seems to me nonetheless legitimate from the perspective of both the kabbalists’ own hermeneutical practices and contemporary theoretical models to offer generalizations that are based on a plethora of specific textual sources. With regard to the notion of time, I am prepared to say</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.12</book-part-id>
+                  <title-group>
+                     <title>Tribute to Derrida</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOLLYWOOD</surname>
+                           <given-names>AMY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>In 1977, the Hebrew University of Jerusalem inaugurated a Sigmund Freud Professorship. They invited Freud’s daughter Anna Freud to speak. Unable to attend, Anna Freud sent a paper, described by Yosef Yerushalmi in<italic>Freud’s Moses: Judaism Terminable and Interminable</italic>, as “a sober and clear review of the possible future directions of psychoanalysis and its potential place within a university setting.”² Yerushalmi notes his approval: “In all, it was an eminently suitable paper for an academic event.” What really interests Yerushalmi, however, is not this eminently suitable and restrained academic paper, but the “abrupt and unexpected ending, in total discontinuity with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.13</book-part-id>
+                  <title-group>
+                     <title>Hearing the Voices of the Dead:</title>
+                     <subtitle>Wyschogrod, Megill, and the Heterological Historian</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAPUTO</surname>
+                           <given-names>JOHN D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>In response to a question put to Jacques Derrida by Elizabeth Clark, one of America’s leading historians of early Christianity, about the relevance of deconstruction for history, Derrida said what we would expect him to say, that historians must constantly question their assumptions about history and stay open to other concepts of history and of historiography, and that is where deconstruction can help. But the first thing he said was unexpected: “I dream of being a historian.” He expressed his feeling that, in a way, ever since<italic>Of Grammatology</italic>, “I was just doing history.” That was not a bit of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.14</book-part-id>
+                  <title-group>
+                     <title>Memory and Violence, or Genealogies of Remembering</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KELBER</surname>
+                           <given-names>WERNER H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>Three interrelated features may be said to characterize the work of Edith Wyschogrod. There is first an interdisciplinary drive to rise above institutionally sanctioned boundaries and to retrieve intellectual categories from their disciplinary captivity so as to reconfigure them in novel contexts. It is this desire and the ability to bring widely differing genres, discourses and traditionally separate intellectual orbits into productive coalitions that have increasingly distinguished her writings. This linking of philosophy and theology, psychoanalysis and science, literary criticism and linguistics, architecture and the arts, media studies and above all, ethics, is carried off with a high degree of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.15</book-part-id>
+                  <title-group>
+                     <title>The Historian and the Messianic “Now”:</title>
+                     <subtitle>Reading Edith Wyschogrod’s An Ethics of Remembering</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERGO</surname>
+                           <given-names>BETTINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>In his<italic>Ursprung des deutschen Trauerspiels</italic>, Walter Benjamin¹ turned to one of the most forgettable moments of European history—the German baroque of the seventeenth century—to unearth the work of writers who, by all accounts, rested happily in their oblivion. The<italic>Trauerspiel</italic>is in no way classical tragedy; it is a mourning play in which a spectacle is made of the buildup of ruin upon ruin, culminating in an apotheosis of abjection. These plays, derisively referred to as<italic>Sturm und Drang</italic>(storm and stress), piled corpses upon corpses in what was no gesture of remembering. Like an anticipation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.16</book-part-id>
+                  <title-group>
+                     <title>Saints and the Heterological Historian</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OCHS</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>In<italic>An Ethics of Remembering</italic>,¹ Edith Wyschogrod draws from out of the sensibilities of postmodernism a means for the historian to attend, after all, to the voice of the suffering other in history. Her remarkable argument may leave one question unanswered: how, in the end, do we learn from what she calls “the heterological historian” how to respond to the needs of this otherwise forgotten voice? I believe this apparent omission may be more adequately identified as a sign of modesty, of two sorts. I will suggest that, if we press the logic of her argument in ways she does</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.17</book-part-id>
+                  <title-group>
+                     <title>An Exercise in Upbuilding</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WYSCHOGROD</surname>
+                           <given-names>EDITH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>241</fpage>
+                  <abstract>
+                     <p>In this extraordinary collection of essays, I encounter myself in a Kierkegaardian sense as “the single individual,” the one by whom the work itself “wishes to be received as if it had arisen in [the] heart” of the self whom it addresses. I read each essay as a discourse in<italic>upbuilding</italic>, as Kierkegaard understood the term, so that the writer whose name is affixed to the essay is one who generously accepts responsibility for its every word. Neither a sermon nor a treatise that is designed to increase abstract knowledge, the discourse that is upbuilding drives the addressee between alternatives</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.18</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>261</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.19</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>311</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>317</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x03hs.21</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>325</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,607 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt155jhp0</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Women’s writing in contemporary France</book-title>
+         <subtitle>New writers, new literatures in the 1990s</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>RYE</surname>
+               <given-names>GILL</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>WORTON</surname>
+               <given-names>MICHAEL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>07</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780719062261</isbn>
+      <isbn content-type="epub">9781847790262</isbn>
+      <publisher>
+         <publisher-name>Manchester University Press</publisher-name>
+         <publisher-loc>Manchester; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2002</copyright-year>
+         <copyright-holder>Manchester University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt155jhp0"/>
+      <abstract abstract-type="short">
+         <p>The 1990s witnessed an explosion in women’s writing in France, with a particularly exciting new generation of writer’s coming to the fore, such as Christine Angot, Marie Darrieussecq and Regine Detambel. Other authors such as Paule Constant, Sylvie Germain, Marie Redonnet and Leila Sebbar, who had begun publishing in the 1980s, claimed their mainstream status in the 1990s with new texts. The book provides an up-to-date introduction to an analysis of new women’s writing in contemporary France, including both new writers of the 1990s and their more established counter-parts. The editors’ incisive introduction situates these authors and their texts at the centre of the current trends and issues concerning French literary production today, whilst fifteen original essays focus on individual writers. The volume includes specialist bibliographies on each writer, incorporating English translations, major interviews, and key critical studies. Quotations are given in both French and English throughout. An invaluable study resource, this book is written in a clear and accessible style and will be of interest to the general reader as well as to students of all levels, to teachers of a wide range of courses on French culture, and to specialist researchers of French and Francophone literature.</p>
+      </abstract>
+      <counts>
+         <page-count count="276"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.3</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RYE</surname>
+                           <given-names>GILL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WORTON</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The 1990s proved to be an exciting period for women’s writing in France. It was a decade in which publishers and the media celebrated a ‘new generation’ of writers, and writing produced by women assumed its place at the forefront of what is new – and sometimes controversial – on the French literary scene. Paperback publishers J’ai lu and Pocket both launched new series (<italic>Nouvelle génération</italic>and<italic>Nouvelles voix</italic>respectively) devoted to new names, among them many new women authors. Thus, a wide-ranging readership was introduced to the work of writers such as Christine Angot, Virginie Despentes, Linda Lê and Lorette Nobécourt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Louise L. Lambrichs:</title>
+                     <subtitle>trauma, dream and narrative</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BEST</surname>
+                           <given-names>VICTORIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>The novels of Louise Lambrichs are brilliant but troubling psychological dramas focusing on the traumas that inhabit the family romance: incest, sterility, the death of those we love and the terrible legacy of mourning. Bringing together themes of loss and recompense, Lambrichs’s novels trace with in fi nite delicacy the reactions of those who suffer and seek obsessively for comfort and understanding. But equally they perform a subtle and often chilling evocation of the secrets, lies and crimes that bind a family together and create a pattern of behaviour that can motivate or cripple subsequent generations. Louise Lambrichs’s oeuvre comprises</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Evermore or nevermore?</title>
+                     <subtitle>Memory and identity in Marie Redonnet’s fiction of the 1990s</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Aine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>The body of writing produced by Marie Redonnet between 1985 and 2000 is an unusually coherent one. Settings and characters drawn up in one text are echoed in later works; certain stories and motifs figure again and again; the style of writing rarely changes from one text to the next. This is not to suggest, however, that the work does not evolve over the period. Indeed, while there is a large degree of overlap between the works published in the 1980s and more recent texts, there are also significant differences, of which the most obvious is increased realism in characterisation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The female vampire:</title>
+                     <subtitle>Chantal Chawaf’s melancholic autofiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROBSON</surname>
+                           <given-names>KATHRYN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>Julia Kristeva opens her text,<italic>Soleil noir: dépression et mélancolie</italic>, with the claim that ‘Ecrire sur la mélancolie n’aurait de sens, pour ceux que la mélancolie ravage, que si l’écrit même venait de la mélancolie’ (‘For those who are racked by melancholia, writing about it would have meaning only if writing sprang out of that very melancholia’).¹ This chapter explores the possibility of writing ‘de la mélancolie’ through focusing on the work of Chantal Chawaf, whose writing may be described as ‘melancholic<italic>autofiction</italic>’, melancholic autobiographical fiction. We know from interviews and publicity notices accompanying Chawaf’s texts that she was born</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Lost and found:</title>
+                     <subtitle>mother–daughter relations in Paule Constant’s fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RYE</surname>
+                           <given-names>GILL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>In 1998 Paule Constant won the Prix Goncourt for her seventh novel<italic>Confidence pour confidence</italic>to much controversy. Her novels had been shortlisted for the Goncourt several times before, and she had gained many other literary prizes. However, press coverage was generally of the opinion that, although the most prestigious French literary prize was long overdue to her,<italic>Confidence pour confidence</italic>itself was not especially deserving of that glory. The controversial reception afforded this novel relates primarily to its subject matter: set in contemporary Kansas, USA, it portrays a group of middle-aged women the morning after a feminist conference. Described</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Puzzling out the fathers:</title>
+                     <subtitle>Sibylle Lacan’s Un père: puzzle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FALLAIZE</surname>
+                           <given-names>ELIZABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>Sibylle Lacan’s text<italic>Un père</italic>, published in 1994, bears the subtitle ‘<italic>puzzle</italic>’, a term which the author describes as referring primarily to the fragmented nature of her writing.¹ However, it applies equally well to the subject of her text: the question of what kind of father Jacques Lacan represented for her is a puzzle wrestled with throughout the text. Behind this puzzle lies another. Is her text also primarily a testimony to her father’s intellectual legacy? In taking up her pen, is the daughter merely confirming the law of the father? This intriguing text tables issues relating to autobiographical writing,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Anatomical writing:</title>
+                     <subtitle>Blasons d’un corps masculin, L’Ecrivaillon and La Ligne âpre by Régine Detambel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BARNET</surname>
+                           <given-names>MARIE-CLAIRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>‘Régine Detambel is a monster’ claimed the September 1999 issue of the French magazine<italic>Marie-Claire</italic>, referring to her prolific output, which includes over 20 novels (over 30, including her books for children) by the age of 36.¹ The excess implied by this label is, however, modified in the same article where her ‘monstrosity’ gives way to descriptions of the writer of ‘the world of childhood sensations’, the perfectionist religiously tending to the secret garden of childhood and her own ‘holy’ literary fields or ‘jardin de curé’ (144) (priest’s garden).² She has also been compared with the OuLiPo group because of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>‘On ne s’entendait plus et c’était parfait ainsi’ (They could no longer hear each other and it was just fine that way):</title>
+                     <subtitle>misunderstandings in the novels of Agnès Desarthe</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STACEY</surname>
+                           <given-names>SARAH ALYN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>In the first three of the four novels Agnès Desarthe has published at the time of writing –<italic>Quelques minutes de bonheur absolu</italic>(1993),<italic>Un secret sans importance</italic>(1996),<italic>Cinq photos de ma femme</italic>(1998) and<italic>Les Bonnes Intentions</italic>(2000) – the binary opposition understanding–misunderstanding stands out as a central issue, particularly with regard to identity. What emerges is a relentless impulse on the part of the characters to be understood and to understand, or, more precisely, to be defined by, and to define, the other in absolutist terms. However, their dependence upon what are shown to be society’s generally accepted,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Textual mirrors and uncertain reflections:</title>
+                     <subtitle>gender and narrative in L’Hiver de beauté, Les Ports du silence and La Rage au bois dormant by Christiane Baroche</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RYE</surname>
+                           <given-names>GILL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>118</fpage>
+                  <abstract>
+                     <p>Christiane Baroche was acclaimed in France first as a short-story writer, although her oeuvre as a whole now comprises not only short stories but also poetry, novels and essays.¹ She has published many well-received volumes of realist ‘slice of life’ stories, beginning with<italic>Les Feux du large</italic>in 1975;² several of her collections have been awarded literary prizes. The triptych<italic>Un soir, j’inventerai le soir</italic>, published in 1983, is in a somewhat different vein, each of the three stories being original and playful treatments of the theme of myth, while functioning together as a comment on the diverse ways in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The articulation of beur female identity in the works of Farida Belghoul, Ferrudja Kessas and Soraya Nini</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MCILVANNEY</surname>
+                           <given-names>SIOBHÁN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>In view of the relatively recent literary success of works by secondgeneration Maghrebis born and brought up in France and the self-designatory origins of the term<italic>beur</italic>,¹ this chapter examines the work of three beur women writers in order to establish the extent to which the highly specific socio-historical locus of the<italic>beur</italic>writer, when combined with her female subject position, may produce narrative similarities, whether formal or thematic.<italic>Beur</italic>literature only began to enjoy commercial success in the early 1980s, when a substantial number of the children of North African immigrants first reached adulthood. The designation<italic>beur</italic>is considered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Saying the unsayable:</title>
+                     <subtitle>identities in crisis in the early novels of Marie Darrieussecq</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JORDAN</surname>
+                           <given-names>SHIRLEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>142</fpage>
+                  <abstract>
+                     <p>When Marie Darrieussecq’s first novel<italic>Truismes</italic>exploded on to the French literary scene it was clear that she was a young writer intent on taking the reader to disturbing places.¹ Set in a partially recognisable, dystopic France of the near future, this erotic, funny and inventive novel satirises right-wing extremism, repressive state mechanisms, new-age fanaticisms and political correctness gone mad. Its primary focus on gender and body politics is provocatively inflected by Darrieussecq’s choice of narrator – a young woman who metamorphoses into a sow – and the novel reveals the author’s penchant for probing the frontiers between the everyday and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Experiment and experience in the phototextual projects of Sophie Calle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRATTON</surname>
+                           <given-names>JOHNNIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>Born in 1953, Sophie Calle is both a writer and a photographer, and rarely one without the other. This double focus is accommodated in two main forms. The first, and the one that usually appears first, is the installation exhibited in an art gallery or museum, where photos hung at eye level or sometimes simply leaning against a wall are juxtaposed with framed printed texts. But Calle has also found a rewarding outlet in the form of book publications based on the same kind of text–photo juxtaposition – and, given the scope and objectives of this particular volume of essays,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Christine Angot’s autofictions:</title>
+                     <subtitle>literature and/or reality?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SADOUX</surname>
+                           <given-names>MARION</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Fromher very first novel,<italic>Vu du ciel</italic>, which was published in 1990, Christine Angot has established herself firmly as a writer who has made it her mission to explore and expose relentlessly the thin line between reality and fiction.¹ The last quarter of the twentieth century, in French literature, will probably be remembered, among other things, as the period in which a new genre – that of<italic>autofiction</italic>– emerged and flourished. It has become a privileged mode of writing for many writers who have adopted and adapted it to very different and personal poetic visions and approaches to writing. Many literary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>‘Il n’y a pas de troisième voie’ (There is no third way):</title>
+                     <subtitle>Sylvie Germain and the generic problems of the Christian novel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUTTON</surname>
+                           <given-names>MARGARET-ANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>Sylvie Germain (1951–) is an unusual phenomenon on the French literary scene. Having studied philosophy at the Sorbonne, she entered the audiovisual section of the Ministère de la culture in 1981, securing immediate literary success four years later with her first novel,<italic>Le Livre des nuits</italic>(1985).¹ Establishment recognition was soon to be consolidated by the award of the prix Fémina for her third novel,<italic>Jours de colère</italic>(1989).² Since then she has produced a steady output of texts: novels (set principally in either the French provinces or Prague, where she taught philosophy at the Ecole française from 1986,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The subversion of the gaze:</title>
+                     <subtitle>Shérazade and other women in the work of Leïla Sebbar</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAJUMDAR</surname>
+                           <given-names>MARGARET A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>Of mixed Franco-Algerian parentage, Leïla Sebbar spans a variety of genres in her writing, including short stories, journalism, essays, children’s writing and contributions to collaborative works, including collections of visual material. She also has a number of major novels to her credit. In its thematic content, Sebbar’s work straddles the Mediterranean, focusing attention on the dynamics between the generations. She is not engaged in any mission of nostalgia for lost youth, however. Her writing is resolutely orientated towards the youth of today. This focus is evident not only in her characters, but also in the young audience that she targets.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Unnatural women and uncomfortable readers?</title>
+                     <subtitle>Clotilde Escalle’s tales of transgression</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WORTON</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Described by critics variously as one of the ‘new barbarians’ of French writing,¹ as one of the cruel ‘Barbarellas’ who seek only to depict the disarray of contemporary French society,² and as one of the new breed of women writers who hold a violent and deep-seated grudge against the gaze of men,³ Clotilde Escalle is remarkable among new writers for the dispassionate way in which she presents violent sexual and familial dramas.</p>
+                     <p>Escalle was born in 1958 in Fez, Morocco, where she lived for many years. When she came to France, it was to join the Théâtre-Laboratoire and work withLudwik</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.21</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RYE</surname>
+                           <given-names>GILL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WORTON</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>One of the major features of this book is its focus on various aspects of the subject and identity as they are conceived and represented in contemporary women’s writing in France. The contributors to this volume have overwhelmingly read the works of our chosen writers as tales of, quests for, explorations of, and crises in the self. It should be noted that this self is actually plural and that the selves in question are not necessarily those of the writers (either within or outside the text). Rather, as fictions, they exemplify the kaleidoscopic proliferation of selves that we are as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.22</book-part-id>
+                  <title-group>
+                     <title>INDIVIDUAL AUTHOR BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>226</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.23</book-part-id>
+                  <title-group>
+                     <title>GENERAL BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>250</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155jhp0.24</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>258</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

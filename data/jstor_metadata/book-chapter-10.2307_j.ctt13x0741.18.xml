@@ -1,0 +1,884 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x0741</book-id>
+      <subj-group>
+         <subject content-type="call-number">BT103.K4333 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Kearney, Richard. God who may be</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Kearney, Richard. Strangers, gods, and monsters</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">God</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophical theology</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Continental philosophy</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>After God: Richard Kearney and the Religious Turn in Continental Philosophy</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>MANOUSSAKIS</surname>
+               <given-names>JOHN PANTELEIMON</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Caputo</surname>
+               <given-names>John D.</given-names>
+            </name>
+            <role>series editor</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>03</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823225316</isbn>
+      <isbn content-type="epub">9780823247394</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x0741"/>
+      <abstract abstract-type="short">
+         <p>Who or what comes after God? In the wake of God, as the last fifty years of philosophy has shown, God comes back again, otherwise: Heidegger's last God, Levinas's God of Infinity, Derrida's and Caputo's tout autre, Marion's God without Being, Kearney's God who may be. Sharing the common problematic of the otherness of the Other, the essays in this volume represent considered responses to the recent work of Richard Kearney.John Panteleimon Manoussakis holds a Ph.D. in philosophy from Boston College. He is the author of Theos Philosophoumenos (in Greek, Athens 2004) and co-editor of Heidegger and the Greeks (with Drew Hyland). He has also translated Heidegger's Aufenthalte.</p>
+      </abstract>
+      <counts>
+         <page-count count="464"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANOUSSAKIS</surname>
+                           <given-names>JOHN PANTELEIMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+                  <abstract>
+                     <p>So here we are, like Moses,<italic>after</italic>God.</p>
+                     <p>All the texts in this volume share, in one way or another, the adverbial ambiguity of<italic>after</italic>. The God they seek—the God they are after—is a God who can be seen ‘‘only from behind,’’ that is, without being seen, in the blindness of vision, at the limits of the phenomenological horizon. This is a God who, for several of our contributors, can be known only through the dark cloud of not-knowing. A God who can be named only through the paradox of a name that refers back to itself, without</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.6</book-part-id>
+                  <title-group>
+                     <title>Epiphanies of the Everyday:</title>
+                     <subtitle>Toward a Micro-Eschatology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>What if we were to return to epiphanies of the everyday? What if we could come back to the end (<italic>eschaton</italic>) in the here and now? Back to that end after the end of time that addresses us in each instant? What if we could rediscover ourselves again face-to-face with the infinite in the infinitesimal? Touch the sacred enfolded in the seeds of ordinary things?</p>
+                     <p>Such a return would invite us to experience the ultimate in the mundane. The first in the last. The most in the least. It would bring us into dialogue with those who seek the divine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.7</book-part-id>
+                  <title-group>
+                     <title>Toward a Fourth Reduction?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANOUSSAKIS</surname>
+                           <given-names>JOHN PANTELEIMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In this essay we attempt a redefining of the phenomenological method as this has been developed mainly through three “reductions”¹ represented by three thinkers whose work advanced phenomenological research in novel ways: Edmund Husserl, Martin Heidegger, and Jean-Luc Marion. Our rehearsal of the phenomenological tradition aims at formulating a set of controversial questions: Is it, perhaps, time for a<italic>fourth</italic>reduction that would better serve the sensibilities of the so-called phenomenology of the apparent? And if so, what might be its guiding principles, its ways of operating, its scope and aim? Such a fourth reduction, we believe, would not seek</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.8</book-part-id>
+                  <title-group>
+                     <title>Enabling God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>The title of this essay—“Enabling God”—can be read both ways. God enabling us, us enabling God. As such, it affirms the freedom that characterizes our relationship to the divine as a mutual act of giving. So doing, it challenges traditional concepts of God as omnipotence. The notion of an all-powerful, autonomous, and self-sufficient deity has a long history ranging from the self-thinking-thought of Aristotelian ontology to the self-subsisting-act (<italic>ipsum esse subsistens</italic>) or self-causing-cause (<italic>ens causa sui</italic>) of medieval scholasticism and modern rationalism (Spinoza, Leibniz). It is a powerful lineage pertaining to a powerful concept of a powerful God.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.9</book-part-id>
+                  <title-group>
+                     <title>Maybe, Maybe Not:</title>
+                     <subtitle>Richard Kearney and God</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DESMOND</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Richard Kearney displays an enviable range of concerns in the embarrassment of riches that he offers to us with his three most recent books.¹ Each book asks for careful attention in its own right, though each contributes in a distinctive register to a larger project which goes under the title<italic>Philosophy at the Limit</italic>. Not unexpectedly, there is some seepage among the three books, for the sense of limit that emerges is a porous one. Thus the emphasis on stories is evident in all three books, while the themes treated in<italic>Strangers, Gods, and Monsters</italic>appear in some of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.10</book-part-id>
+                  <title-group>
+                     <title>Hermeneutics and the God of Promise</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WESTPHAL</surname>
+                           <given-names>MEROLD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>78</fpage>
+                  <abstract>
+                     <p>In<italic>The God Who May Be</italic>, Richard Kearney has given us a gift whose power to provoke thought is out of proportion to its small size. Its opening sentences read as follows: “God neither is nor is not but may be. That is my thesis in this volume. What I mean by this is that God, who is traditionally thought of as act or actuality, might better be rethought as possibility. To this end I am proposing here a new hermeneutics of religion which explores and evaluates two rival ways of interpreting the divine—the<italic>eschatological</italic>and the<italic>onto-theological</italic>.”¹</p>
+                     <p>Before</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.11</book-part-id>
+                  <title-group>
+                     <title>Kearney’s Wager</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURKE</surname>
+                           <given-names>PATRICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>In a 1991 essay, Dominique Janicaud lamented a “turn” in recent French phenomenology “toward the theological,” toward the question of the nature of postmetaphysical divinity. In 1984, Richard Kearney had published<italic>Poétique du Possible: Phénoménologie Herméneutique de la Figuration</italic>, in which he had already mapped a new eschatological hermeneutics of God as possibility in critical comparison with Heidegger’s ontological hermeneutics of being as<italic>Vermögend-Mögende</italic>. Kearney continues to situate his own work within this turn, arguing that the dialogue between postmodern philosophy and religion is “one of the most burning intellectual tasks of our time.” In<italic>The God Who May Be</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.12</book-part-id>
+                  <title-group>
+                     <title>Is the Possible Doing Justice to God?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JANICAUD</surname>
+                           <given-names>DOMINIQUE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>I would have preferred not to speak<italic>of</italic>God. I don’t deny the possibility of speaking<italic>to</italic>God; the great Judeo-Christian tradition has done it and still does. But speaking<italic>of</italic>God is particularly risky in philosophy, by using ideas, concepts, and categories that might turn out to be irrelevant to God (or not worthy of Him).</p>
+                     <p>I hope He will forgive me nevertheless, for speaking<italic>of</italic>Him in this chapter, taking into account the fact that this is a reply to a friend of mine whom I like and sincerely admire. Long before Heidegger asked, “How does the deity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.13</book-part-id>
+                  <title-group>
+                     <title>The God Who May Be and the God Who Was</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NICHOLS</surname>
+                           <given-names>CRAIG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>In the context of the reductive paradigm inspired by Husserl’s phenomenological method, Richard Kearney proposes a return (<italic>reducere</italic>) to the face-to-face encounter with<italic>existence</italic>through, after, and indeed even in the preceding reductive stages that have highlighted a return to essence (Husserl), being (Heidegger), and the pure gift (Marion et al.). This “fourth reduction” advocates a new vision of transcendence (qua<italic>eschaton</italic>) in ordinary experience—but not simply a generic form of transcendence that cares not which finite forms it assumes. Rather, it makes an ethical claim through the face (<italic>prosopon</italic>) of the other revealed in every encounter with finite</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.14</book-part-id>
+                  <title-group>
+                     <title>Christianity and Possibility</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLOECHL</surname>
+                           <given-names>JEFFREY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>We do not yet know what it means to speak of the death of God, and not only because those who speak of it do not always have the same thing in mind. The simplest controversy is also the weightiest, and still the most painful: Is it only a persistent idol that dies, or must it be religion itself, as the practice of idolatry? Do the fires of suspicion only purify, or do they consume everything that touches them? What religion, if any, survives the fever of Sils Maria and Turin?</p>
+                     <p>Even while many of us struggle with that sort</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.15</book-part-id>
+                  <title-group>
+                     <title>Quis ergo Amo cum Deum Meum Amo?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TREANOR</surname>
+                           <given-names>BRIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Continental philosophy, since the work of Emmanuel Levinas, has been marked by a particular concern with otherness. Although this concern is expressed in a variety of ways—the Infinite, the Other, the impossible, and so on—each of these expressions orients itself around the absolute incommensurability of the other (<italic>autre</italic>) with the self:</p>
+                     <p>[It] is of importance to emphasize that the transcendence of the Infinite with respect to the I which is separated from it and which it thinks it measures (so to speak) its very infinitude. The distance that separates the<italic>ideatum</italic>and idea here constitutes the content of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.16</book-part-id>
+                  <title-group>
+                     <title>Divinity and Alterity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MURCHADHA</surname>
+                           <given-names>FELIX Ó</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Divinity and alterity have haunted phenomenology since its beginnings. At phenomenology’s margins Rudolf Otto described God as the “wholly other.”¹ This otherness of God and the divinity of otherness came into sharp relief in Husserl’s transcendental phenomenology, where God’s transcendence is bracketed as much as the alterity of the other in the reduction of intentional consciousness.² This is a move replicated in Heidegger’s “reduction,” to use the vocabulary of Marion which is employed in this volume by Kearney and Manoussakis, where the question of God depends on the analytic of<italic>Dasein</italic>.³ Arguably in both Husserl and the early Heidegger the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.17</book-part-id>
+                  <title-group>
+                     <title>On the God of the Possible</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRETON</surname>
+                           <given-names>STANISLAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>Under a title that captures our attention and puts a question that will not go away, Richard Kearney offers a conception of the divine and of divinity that immediately strikes the reader by its extraordinary youthfulness. For youth, not only in its most current sense, but in its most philosophical as well, could be defined precisely by the two words in his title that open the new perspective to which he summons us:<italic>may be</italic>. How should we translate—in a way that allows us to dream, as if finding ourselves on Celtic ground—the “potency to be” indicated by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.18</book-part-id>
+                  <title-group>
+                     <title>Questions to and from a Tradition in Disarray</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’LEARY</surname>
+                           <given-names>JOSEPH S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>“Of all points of faith, the being of a God is, to my own apprehension, encompassed with most difficulty, and borne in upon our minds with most power” (Newman,<italic>Apologia</italic>, chap. 5). The biblical idea of God as Judge and Redeemer is borne in on our minds by moral experience, our sense of sin and desire of forgiveness, and also by religious experience. But the old sturdy confidence in the reality of God as creator of heaven and earth, attested by cosmic order and the very movement of the rational mind, has been depleted. If God cannot be spoken of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.19</book-part-id>
+                  <title-group>
+                     <title>Mystic Maybes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HART</surname>
+                           <given-names>KEVIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Matthew Arnold “objected to our carrying on a flirtation with mystic maybe’s and calling it Religion.”¹ Why should Augustine Birrill’s words, occasioned by the death of Arnold, come to mind when I read Richard Kearney’s<italic>The God Who May Be?</italic>Perhaps because Arnold and Kearney share a common purpose: dissociating metaphysics and the Bible. In<italic>Literature and Dogma</italic>(1873), Arnold seeks to show us that “when we come to put the right construction on the Bible, we give to the Bible a real experimental basis, and keep on this basis throughout.”² In so doing, he thinks, we distance ourselves from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.20</book-part-id>
+                  <title-group>
+                     <title>The Maker Mind and Its Shade</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GREISCH</surname>
+                           <given-names>JEAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>Richard Kearney and I have a common interest in Heidegger’s existential and ontological understanding of the “possible,” which moves far beyond the classical and modern logic of modalities and Nicolai Hartmann’s modal ontology. Heidegger’s statement that “the possible is more real than the real” (<italic>Being and Time</italic>, §31) could be augmented by Paul Celan’s beautiful verse, “Alles ist weniger als es ist, alles ist mehr” (Everything is less than it is, everything is more). If I understand Kearney correctly, this statement must not be restricted to<italic>Dasein</italic>’s being-in-the-world and its finite self-understanding, but is also true of God’s divinity.</p>
+                     <p>In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.21</book-part-id>
+                  <title-group>
+                     <title>Divine Metaxology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OLTHUIS</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>Richard Kearney is a possibility thinker, a philosopher, novelist, and poet fired by a passion for/of God. For Kearney, philosophy links imagination and affectivity with reason in a rhetoric of persuasion aiming for individual and societal transfiguration. In other words, as I read him, philosophy is not an abstract-theoretical exercise dedicated to getting things straight, finding solutions for particular theoretic problems. Rather, for Kearney, philosophy is a way of life, a spiritual exercise¹ working toward the incitement of passion for visionary transformation and cultural change rather than the elaboration of grand systems and the elimination of paradoxes. Indeed, it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.22</book-part-id>
+                  <title-group>
+                     <title>Theopoetics of the Possible</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PUTT</surname>
+                           <given-names>B. KEITH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>241</fpage>
+                  <abstract>
+                     <p>Theology is a cartography (that is, an attempt to create maps, to mark out, to graph, or to plot a course or courses) that will lead to a place, a<italic>topos</italic>, where divine revelation may occur and knowledge of God may be discovered. At these various places (<italic>topoi</italic>) and through its various topics, theology concerns the “way,” the right way, the proper way,<italic>the</italic>way, or one of many ways that can lead individuals to know something about God. Yet, as Gregory so honestly affirms, the journey to such knowledge, the progressing along various chosen ways to God, always occurs</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.23</book-part-id>
+                  <title-group>
+                     <title>Is God Diminished If We Abscond?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HEDERMAN</surname>
+                           <given-names>MARK PATRICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>270</fpage>
+                  <abstract>
+                     <p>Throughout his trilogy Philosophy at the Limit, Richard Kearney leads us “on the sinuous paths through postmodernity and beyond.” Calling on the messenger god, Hermes, he pioneers a new way of interpreting three of the defining contours of our third-millennial profile: strangers, gods, and monsters, three different names for our experience of alterity and otherness. The three volumes, if you take them not in chronological order but in order of accessibility, could be said to follow a technique similar to that used by Kierkegaard. The latter’s<italic>Journal of a Seducer</italic>was a best-selling page-turner available even in railway stations. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.24</book-part-id>
+                  <title-group>
+                     <title>Prosopon and Icon:</title>
+                     <subtitle>Two Premodern Ways of Thinking God</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANOUSSAKIS</surname>
+                           <given-names>JOHN PANTELEIMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Aristotle, in distinguishing between actuality (ἐνέργεια) and possibility (δύναμις), undertook two crucial steps that have haunted the history of Western metaphysics ever since: he gave a qualitative priority to actuality over potency, and then he identified the former with pure essence. Possibility, for Aristotle, is a mode that denotes transition and corruption, and thus imperfection. However, the risk that he acknowledges and fears most is that potency is ambiguous and undecidable. In his words, “the possible could be both a being and a non-being … it could equally be both things and neither” (1050b10, 1051a1). It is this<italic>coincidentia oppositorum</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.25</book-part-id>
+                  <title-group>
+                     <title>Desire of God:</title>
+                     <subtitle>An Exchange</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DERRIDA</surname>
+                           <given-names>JACQUES</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAPUTO</surname>
+                           <given-names>JOHN D.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>301</fpage>
+                  <abstract>
+                     <p>Kearney: Derrida’s own response to the postmodern dilemma of undecidability would seem to be twofold—<italic>believe</italic>and<italic>read</italic>! In spite of our inability to know for sure “who speaks” behind the many voices and visages that float before us—now present, now absent; now here, now elsewhere—Derrida tells us that we must continue to trust and have faith. “Je ne sais pas, il faut croire,” as the refrain of<italic>Memoirs of the Blind</italic>goes. But if our belief is blind, and each moment of faithful decision terrifying, Derrida suggests that we can always be helped by the vigilant practice</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.26</book-part-id>
+                  <title-group>
+                     <title>Richard Kearney’s Enthusiasm</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAPUTO</surname>
+                           <given-names>JOHN D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>Richard Kearney is a genuine “enthusiast,” in the genuine sense of the word. His writings are contagiously enthusiastic, charged and exciting, moving and inciting, full of prayers and tears. His beautiful and powerful prose is a perfect testimony to what his friend Seamus Heaney meant when Heaney said that the Irish are a people who took over their invader’s tongue and improved it for them. His thoughts dance; his erudition dazzles us. His imagination, his favorite theme, races ahead of the rest of us who are left in his dust. An insightful reader of Levinas, Kearney has a glorious and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.27</book-part-id>
+                  <title-group>
+                     <title>Hermeneutics of Revelation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARION</surname>
+                           <given-names>JEAN-LUC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>318</fpage>
+                  <abstract>
+                     <p>Kearney: There are many similarities between your work, Jean-Luc, and mine: we both owe a great deal of our philosophical formation to the phenomenologies of Husserl and Heidegger; we have both engaged ourselves in close dialogue with Levinas, Ricoeur, and Derrida. Given these evident similarities, it would be more fruitful and interesting, it seems to me, if we take a look here into some of the<italic>differences</italic>in our respective positions in regard to the phenomenology of God. One question that I would like to put to you, Jean Luc, and which, in fact, I have put in a more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.28</book-part-id>
+                  <title-group>
+                     <title>God:</title>
+                     <subtitle>The Possible/Impossible</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TRACY</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <role>Interviewed by</role>
+                        <name name-style="western">
+                           <surname>Sheppard</surname>
+                           <given-names>Christian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>340</fpage>
+                  <abstract>
+                     <p>Sheppard: Before discussing this new book,<italic>The God Who May Be: A Hermeneutics of Religion</italic>(Indiana University Press, 2001), please comment on Richard Kearney’s work up until this point.</p>
+                     <p>Tracy: He’s a remarkable philosopher. He reminds me of Blanchot and Sartre in that he has written on narrative and metaphor (and hermeneutics), and he has also written some very fine novels. He is also a remarkable interviewer. He asks questions in order to really understand what someone is thinking, and thus is able to draw them out and get them to say things that perhaps they wouldn’t otherwise. As a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.29</book-part-id>
+                  <title-group>
+                     <title>Kearney’s Endless Morning</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KELLER</surname>
+                           <given-names>CATHERINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>In at least two registers—one of genre and one of doctrine—Richard Kearney’s philosophical theology appears suddenly and luminously at the forefront of theology itself. In other words, it invokes a “possible God,” and thus a possible theology. Theology has wanted the fully actual, active God, however, not a possible one—and so has generated an impossible one. The possible God suggests a third space, indeed a certain kind of<italic>posse</italic>of theology itself, a “paradox of future anteriority” (Kearney’s Levinas) for a freshly Christian sense of eschatological possibility. Responding to his work mainly by way of his Villanova</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.30</book-part-id>
+                  <title-group>
+                     <title>Reflecting God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McFAGUE</surname>
+                           <given-names>SALLIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>362</fpage>
+                  <abstract>
+                     <p>Kearney’s hermeneutics of religion might be called a “covenantal process view without the metaphysics” or, perhaps more accurately, with only intimations of metaphysics. The ontological claim is<italic>there</italic>—God is coming, will come, can come—but only if we help God come, only if we do our part by witnessing to love and justice in the world. The relations between God and human beings are built on invitation and response, on the possibilities the divine offers us and our acceptance of these possibilities as our life vocation. “If we are waiting for God, God is waiting for us” (“Re-Imagining God,”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.31</book-part-id>
+                  <title-group>
+                     <title>In Place of a Response</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <role>Interviewed by</role>
+                        <name name-style="western">
+                           <surname>Manolopoulos</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>365</fpage>
+                  <abstract>
+                     <p>Manolopoulos: In your debate with Derrida and Marion, “On the Gift” (Villanova, 1997), you ask the question “Is there a Christian philosophy of the gift?”¹ Do you think either Derrida or Marion provides handy directions? Could you summarize or interpret their insights? And whose argument do you personally find more persuasive?</p>
+                     <p>Kearney: They did avoid the question. In Derrida’s case that is logical because he will always—reasonably, for a deconstructionist— try to avoid tying the messianicity of the gift to any specific messianism as such, be it Christian, Jewish, Islamic, or any other kind. So it makes sense for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.32</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>389</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.33</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>431</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.34</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>437</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0741.35</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>441</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

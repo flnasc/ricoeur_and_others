@@ -1,0 +1,1251 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1bgzddd</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Library Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Edinburgh Companion to the Critical Medical Humanities</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="series-editor">General Editors</role>
+         <contrib contrib-type="series-editor" id="contrib1">
+            <name name-style="western">
+               <surname>Whitehead</surname>
+               <given-names>Anne</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Woods</surname>
+               <given-names>Angela</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="editor">Associate Editors</role>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Atkinson</surname>
+               <given-names>Sarah</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>Macnaughton</surname>
+               <given-names>Jane</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib5">
+            <name name-style="western">
+               <surname>Richards</surname>
+               <given-names>Jennifer</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781474400046</isbn>
+      <isbn content-type="epub">9781474400053</isbn>
+      <isbn content-type="epub">1474400051</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Anne Whitehead</copyright-holder>
+         <copyright-holder>Angela Woods</copyright-holder>
+         <copyright-holder>Sarah Atkinson</copyright-holder>
+         <copyright-holder>Jane Macnaughton</copyright-holder>
+         <copyright-holder>Jennifer Richards</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1bgzddd"/>
+      <abstract abstract-type="short">
+         <p>This is the first volume to comprehensively introduce the ways in which interdisciplinary thinking across the humanities and social sciences might contribute to, critique and develop medical understanding of the human individually and collectively.</p>
+      </abstract>
+      <counts>
+         <page-count count="700"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.3</book-part-id>
+                  <title-group>
+                     <title>LIST OF ILLUSTRATIONS</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <role content-type="author">General Editors:</role>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whitehead</surname>
+                           <given-names>Anne</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Woods</surname>
+                           <given-names>Angela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="editor">Associate Editors:</role>
+                     <contrib contrib-type="editor" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Atkinson</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Macnaughton</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Richards</surname>
+                           <given-names>Jennifer</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whitehead</surname>
+                           <given-names>Anne</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Woods</surname>
+                           <given-names>Angela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The medical humanities, we claim, names a series of intersections, exchanges and entanglements between the biomedical sciences,¹ the arts and humanities, and the social sciences.<italic>The Edinburgh Companion to the Critical Medical Humanities</italic>introduces the ideas, individuals and scholarly approaches that are currently shaping the field. The medical humanities is an area of inquiry that is highly interdisciplinary, rapidly expanding and increasingly globalised. As this Introduction and the chapters that follow demonstrate,<italic>The Companion</italic>is both a reinvigoration and a critical reorientation of the medical humanities: an identification of new challenges for research, which also expands the methodologies, perspectives and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>ENTANGLING THE MEDICAL HUMANITIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fitzgerald</surname>
+                           <given-names>Des</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Callard</surname>
+                           <given-names>Felicity</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>The medical humanities are at a critical juncture. On the one hand, practitioners of this field can bask in their recent successes: in the UK, at least, what was once a loose set of intuitions – broadly about animating the clinical and research spaces of biomedicine with concepts and methods from the humanities – has become a visible and coherent set of the interventions, with its own journals, conferences, centres, funding streams and students.¹ On the other hand, the growth, coherence and stratifi cation of this heterogeneous domain have raised the spectre of just what, exactly, the medical humanities is growing<italic>into</italic>.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>MODELLING SYSTEMS BIOMEDICINE:</title>
+                     <subtitle>INTERTWINEMENT AND THE ‘REAL’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carusi</surname>
+                           <given-names>Annamaria</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>50</fpage>
+                  <abstract>
+                     <p>At a conference on developing the capacity of systems biology to transform itself in systems biomedicine, several of the scientists’ presentations showcase the computational modelling methods they are developing. Drawing towards the end of his presentation, an experienced pharmacologist admonishes the audience to bear in mind that, despite the progress in modelling techniques that he has been discussing, a model is always just a representation and never reality. At this point, there is a PowerPoint slide showing Magritte’s painting,<italic>This is not a Pipe</italic>, and chuckling from the audience. It will not have been the first time that they have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>HOLISM, CHINESE MEDICINE AND SYSTEMS IDEOLOGIES:</title>
+                     <subtitle>REWRITING THE PAST TO IMAGINE THE FUTURE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Scheid</surname>
+                           <given-names>Volker</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>This chapter explores the articulations that have emerged over the last half-century between various types of holism, Chinese medicine and systems biology. Given the discipline’s historical attachments to a definition of ‘medicine’ that rather narrowly refers to biomedicine as developed in Europe and the US from the eighteenth century onwards, the medical humanities are not the most obvious starting point for such an inquiry. At the same time, they do offer one advantage over neighbouring disciplines like a medical history, anthropology or science and technology studies for someone like myself, a clinician as well as a historian and anthropologist: their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>THE LIVED GENOME</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rehmann-Sutter</surname>
+                           <given-names>Christoph</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mahr</surname>
+                           <given-names>Dana</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>From a medical perspective, the genome can today be used primarily as a source of health information for diagnoses and prospective disease risk management. Gene therapy may be an option in the future. For scientists, the genome is the sum of an organism’s DNA molecules, which can be sequenced and used to explain heredity and development. What is a genome for those who have it in their bodies and who<italic>live</italic>it? How do they make sense of it? What meanings are associated with the genome in their lifeworlds, where identities are formed and decisions taken in personal, family and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>GETTING THE MEASURE OF TWINS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Viney</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>104</fpage>
+                  <abstract>
+                     <p>Stephen Jay Gould, the biologist and author of<italic>The Mismeasure of Man</italic>, once joked that were he an identical twin raised separately from his brother they could ‘hire ourselves out to a host of social scientists and practically name our fee’.¹ In order to monetise Gould’s fantasy, one would want a form of twinship that could operate according to evidential, experimental, somatic and circumstantial ideals. And Gould admits that he and his brother would need to be viewed as ‘the only really adequate natural experiment for separating genetic from environmental effects in humans’.² With respect to Gould’s light-hearted intentions, this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>PAPER TECHNOLOGIES, DIGITAL TECHNOLOGIES:</title>
+                     <subtitle>WORKING WITH EARLY MODERN MEDICAL RECORDS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kassell</surname>
+                           <given-names>Lauren</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>As the digital revolution takes hold, historians have begun to reflect on the ways in which paper technologies – the codex, notebook, printed book and their indexes, annotations and tools of ordering – have come into being and contributed to the production of knowledge. Objects that were once considered evidence for historical inquiry have become their subjects.¹ The same reflexivity applies to notions of evidence, observation and objectivity, often labelled as facts and data, which have themselves been historically studied.² This chapter is about what happens when historians use digital technologies to understand paper technologies. It draws on my work to digitise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>HOW ARE/OUR WORK:</title>
+                     <subtitle>‘WHAT, IF ANYTHING, IS THE USE OF ANY OF THIS?’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Magi</surname>
+                           <given-names>Jill</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Nev</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kelly</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>If there is an ethics of reading and writing an ethics we certainly see in Husserl’s commitment to the dissemination of descriptions and observations that contradict the ‘ dream’ of phenomenological plenitude, fullness, completion</p>
+                     <p>it is an ethics that demands an unwillingness to fix the essence of experience, however innocent, slight, or radically progressive such fixings might seem.</p>
+                     <p>of book binding, sewing,</p>
+                     <p>cut and paste, mixed and matched</p>
+                     <p>often with margins askew<italic>Maybe what I want to say is:</italic>
+                     </p>
+                     <p>
+                        <italic>it is high time and past time to stop retreading old tracks not the case that the work has all been</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>AFTERWORD:</title>
+                     <subtitle>EVIDENCE AND EXPERIMENT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Waugh</surname>
+                           <given-names>Patricia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>In styles that range from the performatively paratactic and experimental, to scholarly sobriety and sharp sociocultural critique, these chapters engage issues concerning the contemporary uses and forms of experiment and the building and distribution of kinds of evidence in relation to new concepts and practices of experimentation within the contemporary biomedical sciences. They explore some less obvious ways in which knowledges and practices forged in this new ‘megaphone’ science resonate far beyond conventional spaces of research and are deeply and reciprocally entangled with the embodied self-fashioning of individual selves and group identities.¹ Everywhere, not only in postmodern theory or art,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>PICTURING PAIN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Biernoff</surname>
+                           <given-names>Suzannah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>In styles that range from the performatively paratactic and experimental, to scholarly sobriety and sharp sociocultural critique, these chapters engage issues concerning the contemporary uses and forms of experiment and the building and distribution of kinds of evidence in relation to new concepts and practices of experimentation within the contemporary biomedical sciences. They explore some less obvious ways in which knowledges and practices forged in this new ‘megaphone’ science resonate far beyond conventional spaces of research and are deeply and reciprocally entangled with the embodied self-fashioning of individual selves and group identities.¹ Everywhere, not only in postmodern theory or art,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>THE BODY BEYOND THE ANATOMY LAB:</title>
+                     <subtitle>(RE)ADDRESSING ARTS METHODOLOGIES FOR THE CRITICAL MEDICAL HUMANITIES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Rachael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>I will never forget my first encounter with a corpse on entering the anatomy lab that day, unaware of the journey ahead and the profound influence these donors would have on my work as an artist. Inside here, I am grounded in a sense of belonging. Using my eyes as dissecting tools, I flay the layers of skin and fascia to reveal the inner world of strangers that are at once familiar and unknown. I am held in a momentary state of reverie.</p>
+                     <p>I draw to awaken my senses to their corporeality.</p>
+                     <p>I draw to access my emotions and imagine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>TOUCH, TRUST AND COMPLIANCE IN EARLY MODERN MEDICAL PRACTICE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Klestinec</surname>
+                           <given-names>Cynthia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>This scene appears just before the climax of the widely read playwright Ben Jonson’s<italic>The Alchemist</italic>.¹ Although Face and Subtle have proven themselves to be cut-throats – the word play is evident – they are also engaged, along with a third character named Dol, in a joint venture, one brokered on an exceedingly precarious notion of trust (that will evaporate in the final scenes of the play). There are references to poxes and bloodletting elsewhere in<italic>The Alchemist</italic>, but Jonson uses the ordinary experience of barbering, and the familiar relationship between barber and patient, to ponder the dangers of the razor. By</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>REFRAMING FATNESS:</title>
+                     <subtitle>CRITIQUING ‘OBESITY’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Evans</surname>
+                           <given-names>Bethan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Charlotte</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Over the last twenty years or so, fatness,¹ pathologised as overweight and obesity, has been a core public health concern around which has grown a lucrative international weight loss industry. Referred to as a ‘time bomb’ and ‘the terror within’, analogies of ‘war’ circulate around obesity, framing fatness as enemy.² Religious imagery and cultural and moral ideologies inform medical, popular and policy language with the ‘sins’ of ‘gluttony’ and ‘sloth’, evoked to frame fat people as immoral at worst and unknowledgeable victims at best,³ and understandings of fatness intersect with gender, class, age, sexuality, disability and race to make some</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>READING THE IMAGE OF RACE:</title>
+                     <subtitle>NEUROCRIMINOLOGY, MEDICAL IMAGING TECHNOLOGIES AND LITERARY INTERVENTION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Andrews</surname>
+                           <given-names>Lindsey</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Metzl</surname>
+                           <given-names>Jonathan M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>242</fpage>
+                  <abstract>
+                     <p>On 26 April 2013, the<italic>Wall Street Journal</italic>published an essay by neurocriminologist Adrian Raine promoting his newest book,<italic>The Anatomy of Violence: The Biological Roots of Crime</italic>. On the newspaper’s website, an image of a black-andwhite brain scan overlaid with handcuffs headed the essay. Clicking ‘play’ turned the image into a video filled with three-dimensional brain illustrations and Raine’s claims that some brains are simply more biologically prone to violence than others. Rejecting what he describes as ‘the dominant model for understanding criminal behaviour in the twentieth century’ – a model based ‘almost exclusively on social and sociological’ explanations 1</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>TOUCHING BLIND BODIES:</title>
+                     <subtitle>A CRITICAL INQUIRY INTO PEDAGOGICAL AND CULTURAL CONSTRUCTIONS OF VISUAL DISABILITY IN THE NINETEENTH CENTURY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tilley</surname>
+                           <given-names>Heather</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Olsén</surname>
+                           <given-names>Jan Eric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>260</fpage>
+                  <abstract>
+                     <p>Changing ideas on the nature of and relationship between the senses in nineteenth-century Europe constructed blindness as a disability in often complex ways. The loss or absence of sight was disabling in this period, given vision’s celebrated status, and visually impaired people faced particular social and educational challenges as well as cultural stereotyping as poor, pitiable and intellectually impaired. However, the experience of blind people also came to challenge received ideas that the visual was the privileged mode of accessing information about the world, and contributed to an increasingly complex understanding of the tactile sense.</p>
+                     <p>In this chapter, we consider</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>THE ANATOMY OF THE RENAISSANCE VOICE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Richards</surname>
+                           <given-names>Jennifer</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wistreich</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>276</fpage>
+                  <abstract>
+                     <p>‘Dissection might be thought of as a self-explanatory term.’ So begins Jonathan Sawday’s<italic>The Body Emblazoned: Dissection and the Human Body in Renaissance Culture</italic>(1995), one of the earliest cultural histories to contribute to the burgeoning field of medical humanities in the 1990s. ‘In its medical sense’, he explains, ‘a dissection suggests the methodical division of an animal body for the purposes of “critical examination”.’ But the term can be used in a ‘metaphoric sense’ too, and when it is we are led ‘to an historical field rich in cognate meanings’ in a period when a ‘“science” of the body</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>BREATHING AND BREATHLESSNESS IN CLINIC AND CULTURE:</title>
+                     <subtitle>USING CRITICAL MEDICAL HUMANITIES TO BRIDGE AN EPISTEMIC GAP</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Macnaughton</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carel</surname>
+                           <given-names>Havi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>294</fpage>
+                  <abstract>
+                     <p>A central tenet of critical medical humanities is the claim that biomedicine does not hold all the keys to understanding the experience of illness, how responses to treatment are mediated, or how it outcomes and prognosis are revealed over time. We further suggest that biomedicine cannot wholly explain how illness may be expressed physiologically. So much that influences that expression derives from cultural context, emotional response, and how illness is interpreted and understood that this knowledge cannot be exhausted with the tools of biomedicine.</p>
+                     <p>In as much as it has focused on clinical medicine, medical humanities has tended to concentrate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>MORPHOLOGICAL FREEDOM AND MEDICINE:</title>
+                     <subtitle>CONSTRUCTING THE POSTHUMAN BODY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dolezal</surname>
+                           <given-names>Luna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>310</fpage>
+                  <abstract>
+                     <p>The notion that the body can be changed at will in order to meet the desires and designs of its ‘owner’ is one that has captured the popular imagination and underpins contemporary medical practices such as cosmetic surgery and gender reassignment. In fact, describing the body as ‘malleable’ or ‘plastic’ has entered common parlance and dictates common-sense ideas of how we understand the human body in late-capitalist consumer societies in the wake of commercial biotechnologies that work to modify the body aesthetically and otherwise. If we are not satisfied with some one aspect of our physicality – in terms of health,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>AFTERWORD:</title>
+                     <subtitle>THE BODY AND THE SENSES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Winning</surname>
+                           <given-names>Jo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>What is a body? What are its boundaries and its contours? Can we ever really know the body in its entirety, or only ever in its parts? How do we come to know the body through the senses? And what does it mean to be a body and to encounter the body of the Other? Such questions resonate across the divide between the domains of philosophical and critical thought and clinical medicine, as likely to be asked by a doctor as by a humanities scholar. Yet the answers either might give would be spoken in radically different locations, utilise separate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>MEDICAL HUMANITIES AND THE PLACE OF WONDER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Evans</surname>
+                           <given-names>Martyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>339</fpage>
+                  <abstract>
+                     <p>It will be the argument of this chapter that, among the critiques that could be thought to contribute to a critical medical humanities, at least one may turn out to bear upon an important – but generally tacit – presumption in mainstream medical humanities. The presumption in question is that, taking our materiality and embodiment for granted, medical humanities’ principal task is to return the patient’s voice to prominence within the clinical encounter. The particular critique I have in mind involves disputing this very taken-for-granted-ness of our embodiment, and cautioning against replacing medicine’s neglect of the personal with medical humanities’ neglect of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>MAN’S DARK INTERIOR:</title>
+                     <subtitle>SURREALISM, VISCERA AND THE ANATOMICAL IMAGINARY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Juler</surname>
+                           <given-names>Edward</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>356</fpage>
+                  <abstract>
+                     <p>Born of the sociocultural effervescence that swept through Europe in the years following the First World War, Surrealism represented a profound disillusionment towards the established intellectual order that it held responsible for the dehumanising and violent depths to which civilisation had so recently sunk.¹ Decrying the inadequacy of postwar philosophies and politics to deal with the new, brutalised world of the interwar period, the Surrealists loudly championed a revolution of perception by replacing the certainties of prewar thought with the unpredictable discontinuities of non-Euclidean geometry, the base materialism of Georges Bataille and, most especially, the dark visions of the human</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>NARRATIVE AND CLINICAL NEUROSCIENCE:</title>
+                     <subtitle>CAN PHENOMENOLOGICALLY INFORMED APPROACHES AND EMPIRICAL WORK CROSS-FERTILISE?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cole</surname>
+                           <given-names>Jonathan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gallagher</surname>
+                           <given-names>Shaun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>377</fpage>
+                  <abstract>
+                     <p>Science (from the Latin,<italic>scientia</italic>) originally meant knowledge, so that ‘natural science’ meant knowledge of the natural world and of its laws. The term has since come to mean empirical, experimentally acquired knowledge and, as such, refers to some of the most powerful tools we have for understanding the world and indeed our own physiology. Scientific medicine has led to huge improvements in outcomes from a variety of conditions, from infectious diseases to cancer and heart disease. These advances have come, largely, from a mechanistic or reductionist approach to illness, which focuses on putting the body, understood as a physical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.27</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>ON PAIN OF DEATH:</title>
+                     <subtitle>THE ‘GROTESQUE SOVEREIGNTY’ OF THE US DEATH PENALTY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Guenther</surname>
+                           <given-names>Lisa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>395</fpage>
+                  <abstract>
+                     <p>On 16 January 2014, Ohio prisoner Dennis McGuire was put to death with an untested mixture of lethal injection drugs.¹ According to witnesses, McGuire gasped, snorted and appeared to struggle for air for ten minutes before dying.²<italic>Columbus Dispatch</italic>reporter Alan Johnson describes the execution as follows:</p>
+                     <p>The chemicals began flowing about 10:29 a. m., and for a while, McGuire was quiet, closing his eyes and turning his face up and away from his family.</p>
+                     <p>However, about 10:34 a.m., he began struggling. His body strained against the restraints around his body, and he repeatedly gasped for air, making snorting and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.28</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>VOICES AND VISIONS:</title>
+                     <subtitle>MIND, BODY AND AFFECT IN MEDIEVAL WRITING</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Saunders</surname>
+                           <given-names>Corinne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>411</fpage>
+                  <abstract>
+                     <p>A properly critical medical humanities is also a historically grounded medical humanities. Such historical grounding requires taking a long cultural perspective, going beyond traditional medical history – typically the history of disease, treatment and practice – to trace the origins and development of the ideas that underpin medicine in its broadest sense – ideas concerning the most fundamental aspects of human existence: health and illness, body and mind, gender and family, care and community.¹ Historical sources can only go so far in illuminating such topics; we must also look to other cultural texts, and in particular literary texts, which, through their imaginative worlds,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.29</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>VICTORIAN LITERARY AESTHETICS AND MENTAL PATHOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Garratt</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>428</fpage>
+                  <abstract>
+                     <p>In<italic>What Good Are the Arts</italic>? (2005), a polemic aimed at shredding many longstanding conceptions of art and aesthetic judgement, the literary critic John Carey briefly discusses a bibliotherapy project established over a decade earlier in West Yorkshire by John Duffy. This was a project in which patients with depression, stress and anxiety disorders were given the opportunity to participate in reading groups, book advice surgeries and other literacy activities, having been referred to the service by mental health practitioners – an alternative to the anti-depressant medication commonly prescribed to such patients by GPs. The service users in question were ‘helped</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.30</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>APHASIC MODERNISM:</title>
+                     <subtitle>LANGUAGES FOR ILLNESS FROM A CONFUSION OF TONGUES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Salisbury</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>444</fpage>
+                  <abstract>
+                     <p>In the late 1940s, the physician Théophile Alajouanine wrote an essay about a ‘rare group’ of people who had been left with the condition of aphasia following strokes or other cerebral ‘accidents’. Rare because they had all been professional artists prior to their illness, these patients were particularly useful to their doctor because they offered the intriguing possibility of studying the effect of aphasia – the loss or disturbance of the ability to use language intentionally – on aesthetic representation. The literary author Alajouanine treated was later revealed to be Valéry Larbaud, whose right-sided hemiplegia and aphasia had left him at first</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.31</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>TRANS-SPECIES ENTANGLEMENTS:</title>
+                     <subtitle>ANIMAL ASSISTANTS IN NARRATIVES ABOUT AUTISM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Herman</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>463</fpage>
+                  <abstract>
+                     <p>In Rupert Isaacson’s<italic>The Horse Boy</italic>, a 2009 memoir about Isaacson’s and his spouse’s experiences raising their autistic son, Rowan, Isaacson suggests that Rowan has a special connection with animals. Thus, in his portrayal of an interaction between Rowan and Betsy, the horse Rowan rides on a neighbour’s farm, Isaacson recounts how</p>
+                     <p>without hesitation, Rowan opened his arms and hugged Betsy’s great brown head, which was hanging low enough for him to reach. Then he gave her a kiss. As he did so, an expression of extraordinary gentleness came over her – a certain softening of the eye, a blissful half-closing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.32</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>AFTERWORD:</title>
+                     <subtitle>MIND, IMAGINATION, AFFECT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Callard</surname>
+                           <given-names>Felicity</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>481</fpage>
+                  <abstract>
+                     <p>The eight essays in ‘Mind, Imagination, Affect’ address topoi, phenomena and historical junctures as varied as the prostrate form of an individual being put to death in the US via the necropolitical ritual of lethal injection; the prostrate form of Virginia Woolf that allows her to fashion, while prone with illness and ‘as a “deserter” ’ of the ‘army of the upright’,¹ a new relationship with words; the affective piety of Margery Kempe’s copious tears; the dense relationalities that narratives about autistic individuals, their family members and animal assistants unfurl; and Antoine Artaud’s autoscopic, aesthetically realised fantasies in which bodies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.33</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>MEDICAL MIGRATION AND THE GLOBAL POLITICS OF EQUALITY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bradby</surname>
+                           <given-names>Hannah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>491</fpage>
+                  <abstract>
+                     <p>Employing doctors and nurses who were trained overseas has been standard practice since the inception of the British National Health Service (NHS) in 1948. However, by the twenty-first century, recruitment of doctors from Africa was being compared with the slave trade in terms of its exploitative and damaging effects: ‘current policies of recruiting doctors from poor countries are a real cause of premature death and untreated disease in those countries and actively contribute to the sum of human misery.’² The assertion that employing foreign doctors was causing poor health in those doctors’ countries of origin was echoed in two reports</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.34</book-part-id>
+                  <title-group>
+                     <label>29</label>
+                     <title>LANGUAGE MATTERS:</title>
+                     <subtitle>‘COUNSEL’ IN EARLY MODERN AND MODERN MEDICINE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sabroe</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Withington</surname>
+                           <given-names>Phil</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>508</fpage>
+                  <abstract>
+                     <p>Francis Bacon is famous today as one of the founding fathers of the so-called ‘scientific revolution’ of the seventeenth century. Although not an especially successful scientist himself, he was nevertheless the most eloquent and influential spokesperson for an approach to knowledge that promised to transform human understanding of both humanity and its relationship with the natural and social worlds.¹ The central features of this approach, as they emerged in Bacon’s own writings and the work of his protégés and associates after 1605, are equally well known. They include the importance of experiment, observation, and a sceptical attitude towards inherited wisdom</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.35</book-part-id>
+                  <title-group>
+                     <label>30</label>
+                     <title>FICTIONS OF THE HUMAN RIGHT TO HEALTH:</title>
+                     <subtitle>WRITING AGAINST THE POSTCOLONIAL EXOTIC IN WESTERN MEDICINE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jolly</surname>
+                           <given-names>Rosemary J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>527</fpage>
+                  <abstract>
+                     <p>The last decade has witnessed far greater attention to the social determinants of health in health research,¹ but literary studies have yet to address, in a sustained way, how narratives addressing issues of health across postcolonial cultural divides depict the meeting – or non-meeting – of radically differing conceptualisations of wellness and disease.² This chapter explores representations of illness in which Western narrators and notions of the body are juxtaposed with conceptualisations of health and wellness entirely foreign to them, embedded as the former are in assumptions about Cartesian duality and the superiority of scientific method – itself often conceived of as floating</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.36</book-part-id>
+                  <title-group>
+                     <label>31</label>
+                     <title>CULTURE IN MEDICINE:</title>
+                     <subtitle>AN ARGUMENT AGAINST COMPETENCE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hester</surname>
+                           <given-names>Rebecca J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>541</fpage>
+                  <abstract>
+                     <p>For the last few decades cultural competence has been celebrated as the curricular response to a variety of political and social challenges in healthcare. These challenges include the persistence of race-and ethnicity-based health disparities, breakdowns in communication between the patient and provider, and issues of cultural difference around delivery and acceptance of healthcare.² Commonly defined as ‘a set of congruent behaviors, attitudes, and policies that come together in a system, agency or among professionals and enable that system, agency or those professions to work effectively in cross-cultural situations’, cultural competence is meant to engender increased sensitivity, humility and awareness with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.37</book-part-id>
+                  <title-group>
+                     <label>32</label>
+                     <title>THE ROOTS AND RAMIFICATIONS OF NARRATIVE IN MODERN MEDICINE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hurwitz</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bates</surname>
+                           <given-names>Victoria</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>559</fpage>
+                  <abstract>
+                     <p>Narrative became a concept of great versatility and fluidity in the second half of the twentieth century, configuring multi-dimensional understandings and meanings in healthcare. The literary and social theorist Martin Kreiswirth speaks of ‘a massive and unprecedented eruption of interest in narrative and in theorizing about narrative’ in the period,³ which resulted in stories and fragments of stories gaining significant conceptual traction in many discourses and practices. Not until narrative began to be credited with such as multi-disciplinary capacities were claims for a pluripotential role in medicine explicitly formulated.⁴</p>
+                     <p>Yet in attempting to respond to human needs incarnated in language,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.38</book-part-id>
+                  <title-group>
+                     <label>33</label>
+                     <title>BROADMOOR PERFORMED:</title>
+                     <subtitle>A THEATRICAL HOSPITAL</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harpin</surname>
+                           <given-names>Anna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>577</fpage>
+                  <abstract>
+                     <p>Broadmoor Hospital is a problem. Located on the edge of the village of Crowthorne, Berkshire, it is an enduring and intransigent edifice that bears witness to a knotted medical and human history. In the sediments of its 153-year-old frame lie wasted both the humanitarian psychiatric innovations and the cruel barbarities of a period of profound change in mental asylums. Both architecturally and culturally the site is, in some ways, marked: it is a melancholic monument to madness and its chequered past. While almost all other asylums in Britain are closed, Broadmoor Hospital remains. It is, of course, no longer an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.39</book-part-id>
+                  <title-group>
+                     <label>34</label>
+                     <title>ON (NOT) CARING:</title>
+                     <subtitle>TRACING THE MEANINGS OF CARE IN THE IMAGINATIVE LITERATURE OF THE ‘ALZHEIMER’S EPIDEMIC’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burke</surname>
+                           <given-names>Lucy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>596</fpage>
+                  <abstract>
+                     <p>The immediate context of this paper is the so-called ‘crisis in social care’ that finds its most prolific and unsettling expression in news reports about the verbal, emotional and physical abuse of elderly people with dementia in care homes. In April 2014, BBC One’s<italic>Panorama</italic>reported on the abuse of residents at the Old Deanery care home in Essex and Oban House in Croydon.¹ In June 2014, one care worker was jailed and two others were given suspended sentences and community service for the ill treatment of women with dementia at the Granary Care Home near Bristol.² In the following</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.40</book-part-id>
+                  <title-group>
+                     <label>35</label>
+                     <title>CARE, KIDNEYS AND CLONES:</title>
+                     <subtitle>THE DISTANCE OF SPACE, TIME AND IMAGINATION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Atkinson</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>611</fpage>
+                  <abstract>
+                     <p>Care as a concept is central to any engagement with health, ill-health and the practices that aim to prevent, mitigate or cure, and the term itself is mobilised in a variety of different ways and at a variety of different scales. The vibrancy of the medical humanities as a relatively new field of inquiry has principally derived from the elaboration of experiential accounts of differential and dynamic conditions of health. Given this particular emphasis, attention to care and caring practices has predominantly concerned the nuanced and complex relations of care at an interpersonal and proximate scale. However, in contemporary landscapes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.41</book-part-id>
+                  <title-group>
+                     <label>36</label>
+                     <title>AFTERWORD:</title>
+                     <subtitle>HEALTH, CARE, CITIZENS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murray</surname>
+                           <given-names>Stuart</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>627</fpage>
+                  <abstract>
+                     <p>‘Care’ is a shifting, plural word when used in the context of discussions of health. It suggests attention and compassion when articulated as a verb, but has overtures of regulation and control when used as a noun – to be ‘in care’ is usually not unproblematic. Two chapters in this section – those by Sarah Atkinson and Lucy Burke – speak specifically to the complexities of this idea. As Atkinson makes clear in a her chapter, care invokes questions of resource just as much as it outlines interpersonal relationships; it presents what she terms ‘dilemmas, paradoxes and challenges’ when conceived of as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.42</book-part-id>
+                  <title-group>
+                     <title>NOTES ON CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>633</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzddd.43</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>645</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

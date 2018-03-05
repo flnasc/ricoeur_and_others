@@ -1,0 +1,453 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x00kc</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Questioning the Human: Toward a Theological Anthropology for the Twenty-First Century</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Boeve</surname>
+               <given-names>Lieven</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>De Maeseneer</surname>
+               <given-names>Yves</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Van Stichel</surname>
+               <given-names>Ellen</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>08</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823257522</isbn>
+      <isbn content-type="epub">9780823257546</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x00kc"/>
+      <abstract abstract-type="short">
+         <p>Theological anthropology is being put to the test: in the face of contemporary developments in the spheres of culture, politics, and science, traditional perspectives on the human person are no longer adequate. Yet can theological anthropology move beyond its previously established categories and renew itself in relation to contemporary insights? The present collection of essays sets out to answer this question. Uniting Roman Catholic theologians from across the globe, it tackles from a theological perspective challenges related to the classical natural law tradition (part 1), to the modern conception of the subject (part 2), and to the postmodern awareness of diversity in a globalizing context (part 3). Its contributors share a fundamental methodological choice of a critical-constructive dialogue with contemporary culture, science, and philosophy. This collection integrates a wider range of approaches than one usually finds in theological volumes, bringing together experts in systematic theology and in theological ethics. Authors come from different American contexts, including Black and Latino, and from a European context that include both French and German. Moreover, the interdisciplinary insights upon which the different contributions draw stem from both the natural sciences (such as neuroscience, evolutionary biology, and ethology) and the humanities (such as cultural studies, philosophy, and hermeneutics). This volume will be essential reading for anyone seeking a state-of-the-art account of theological anthropology, of the uncertainties it is facing, and of the responses it is in the process of formulating. The shared Roman Catholic background of the authors of this collection makes this volume a helpful complement to recent publications that predominantly represent views from other theological traditions.</p>
+      </abstract>
+      <counts>
+         <page-count count="256"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.3</book-part-id>
+                  <title-group>
+                     <title>Exploring New Questions for Theological Anthropology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boeve</surname>
+                           <given-names>Lieven</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>De Maeseneer</surname>
+                           <given-names>Yves</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Van Stichel</surname>
+                           <given-names>Ellen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>What does it mean to be human? In today’s context, this fundamental question lies at the heart of many debates in the Church and the world. Unseen cultural, political, and scientific developments provoke new challenges that can no longer be tackled from traditional perspectives on the human being.¹ The familiar concepts theologians use to make sense of Christian beliefs about the human being have lost much of their purchase. Humanity is said to be created in God’s image and likeness, marked by sin but, through God’s grace, saved to a new life in Christ. But what do we mean by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Theological Anthropology, Science, and Human Flourishing</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pope</surname>
+                           <given-names>Stephen J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>There is no doubt that the human race,<italic>Homo sapiens</italic>, evolved from predecessor hominids around 200,000 to 150,000 years ago. We constitute one class among the great apes and have more genetic similarity to chimpanzees than chimpanzees have with orangutans. We are intelligent, group-living animals. Like other primates, we have a sense of fairness, tend to prefer our own offspring and members of our own groups to outsiders, and generally pursue a policy of punishing cheats and cooperating with those who are trustworthy.</p>
+                     <p>What does an evolutionary view of humanity imply for theology? If we were not created on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>The Concept of Natural Law in the Postmodern Context</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagey</surname>
+                           <given-names>Henri-Jérôme</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>In our postmodern culture, which has developed, to an extent never before attained, an awareness of the historicity of human existence, the concepts of human nature and natural law, such as they are given in Catholic doctrine, seem to have lost all means of analyzing the present condition of humanity and are able to represent only the traits of an era that has today disappeared. But the reason for its dismissal is perhaps too quickly assumed. Can we truly come up with concepts that permit us to speak of the universality of the human phenomenon and to engage in a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Personalism and the Natural Roots of Morality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>De Tavernier</surname>
+                           <given-names>Johan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>The debate about the relevance of biology for ethics dates back to the time of Aristotle. In premodern theologies, nature and personhood have mainly been considered as two complementary notions. On the one hand, the human person was presented as a unique realization of nature; on the other, the human person fulfilled the assumptions that nature had given to him or her by virtue of his or her free will and the possibility for free choice. In other words, nature opens the possibility for free and responsible action. Since Darwin’s<italic>The Descent of Man</italic>(1871), the question of the relevance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>In God’s Image and Likeness:</title>
+                     <subtitle>From Reason to Revelation in Humans and Other Animals</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deane-Drummond</surname>
+                           <given-names>Celia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>60</fpage>
+                  <abstract>
+                     <p>One of the most heavily discussed topics in theological anthropology focuses on different interpretations of the meaning of imago Dei, humanity made in the image of God. A deeper knowledge of the common evolutionary heritage of human beings and other creatures has prompted some discussion about whether such a position of seemingly absolute human distinctiveness can still be maintained. Furthermore, mounting ecological awareness, and sensitivity to the shameless exploitation of other animals, points to the potential ethical ambiguity in maintaining a strong sense of human superiority. The divine command in Genesis to exercise human dominion has, at least in some</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Neuroscience, Self, and Jesus Christ</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davies</surname>
+                           <given-names>Oliver</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>Change in science involves a change in the way we understand materiality and the world around us. Since we ourselves are material as well as mind, what we<italic>think</italic>, or authoritatively hold, matter to be is significant for our own self-understanding. More than that, the introduction of the new science into our own embodied space, through new technologies, can even change our “contact” with the world: how we are in the world as self-aware creatures who are both mind and body at the same time. For anyone who doubts the potential of scientific advances to shape our humanity, it would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Incarnation in the Age of the Buffered, Commodified Self</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Godzieba</surname>
+                           <given-names>Anthony J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>When you catch human beings in the act of being human, what do you catch them doing, fundamentally? Maurice Blondel said that you catch them acting. They cannot not act.</p>
+                     <p>Action, in my life, is a fact, the most general and the most constant of all, the expression within me of a universal determinism; it is produced even without me. More than a fact, is it a necessity…. More than a necessity, action often appears to me as an obligation…. If I do not act out of my own movement, there is something in me or outside of me that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>The Gifted Self:</title>
+                     <subtitle>The Challenges of French Thought</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Horner</surname>
+                           <given-names>Robyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Vatican II remains a powerful and enduring symbol for many because it represents, above all, the preparedness of the Church to dialogue with all that is “genuinely human.” There can be few higher or more hope-filled expressions of engagement with the world than<italic>Gaudium et Spes</italic>. Nevertheless, in the same moment that, in this document and others, Vatican II was opening the windows of the Church to dialogue, it opened onto a modern world that was already passing—if, in fact, it had ever really been. As Lieven Boeve maintains, the correlative theology (that is, theology in dialogue with modernity)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Difference, Body, and Race</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gonzalez</surname>
+                           <given-names>Michelle A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>The nature of humanity, our relationship with each other, and our relationship with the sacred is the starting point for reflections on theological anthropology. For centuries Christians have wrestled with defining what makes us particular in light of our humanity yet at the same time interconnected with God’s creation. Musings on this subject range from abstract philosophical speculation, to dialogue with the natural sciences, to a serious consideration of the diversity and complexity of the embodied human condition. Within systematic theology, the study of what it means to be human, created in the image and likeness of God, falls under</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Public Theology:</title>
+                     <subtitle>A Feminist View of Political Subjectivity and Praxis</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carbine</surname>
+                           <given-names>Rosemary P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>Public theology is sometimes defined by the praxis of doing theology for the differing audiences, communities of accountability, or publics of the church, academy, and society that theologians address.¹ At other times, public theology is characterized by the method used to reach those audiences, either by making religious claims more intelligible to wider society via shared norms and practices of rational public discourse or by relying on religious institutions to shape and equip persons with virtues for participating in political discourse.² And, at other times, public theology is determined by the goal of integrating theology and ethics into the discursive</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Desire, Mimetic Theory, and Original Sin</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Guggenberger</surname>
+                           <given-names>Wilhelm</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>Today it is unusual to offer a comprehensive philosophical theory about the nature of human beings, or a theory about the origins of religion, or a theory of human culture in general. The French historian, literary critic, and philosopher René Girard (born 1923) has tried to do all of this with his mimetic theory. Though not a theologian, Girard has dealt in great detail with the biblical tradition—unusual for a secular social scientist. I will present one adoption of his theory into theological research: the “dramatic theology” that originated with the Swiss systematic theologian Raymund Schwager, S.J. (1935–2004),</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.14</book-part-id>
+                  <title-group>
+                     <title>Turtles All The Way Down?:</title>
+                     <subtitle>Pressing Questions for Theological Anthropology in the Twenty-First Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirchhoffer</surname>
+                           <given-names>David G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>In this book various scholars explore the new challenges for theological anthropology. They make clear that the developments of the past fifty years in various fields of endeavor should be seen as an invitation, if not indeed as an urgent injunction, “to open our eyes to new ways of being human” (Julie Clague).¹ At the same time, we need to heed the postmodern warning regarding the dangers of engaging in what Henri-Jérôme Gagey called a “giant discourse,” whereby, in our attempt to unite languages into a single coherent understanding of the human person, we end up building a tower of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.15</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>195</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.16</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x00kc.17</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>243</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

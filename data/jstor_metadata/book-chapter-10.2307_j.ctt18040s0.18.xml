@@ -1,0 +1,715 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18040s0</book-id>
+      <subj-group>
+         <subject content-type="call-number">QB209 .T484 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Time</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Horology</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Time</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychological aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Time</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Time</book-title>
+         <subtitle>A Vocabulary of the Present</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Burges</surname>
+               <given-names>Joel</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Elias</surname>
+               <given-names>Amy J.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>08</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781479821709</isbn>
+      <isbn content-type="epub">9781479807499</isbn>
+      <isbn content-type="epub">1479807494</isbn>
+      <publisher>
+         <publisher-name>NYU Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>New York University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt18040s0"/>
+      <abstract abstract-type="short">
+         <p>The concept of time in the post-millennial age is undergoing a radical rethinking within the humanities.<italic>Time: A Vocabulary of the Present</italic>newly theorizes our experiences of time in relation to developments in post-1945 cultural theory and arts practices. Wide ranging and theoretically provocative, the volume introduces readers to cutting-edge temporal conceptualizations and investigates what exactly constitutes the scope of time studies.</p>
+         <p>Featuring twenty essays that reveal what we talk about when we talk about time today, especially in the areas of history, measurement, and culture, each essay pairs two keywords to explore the tension and nuances between them, from "past/future" and "anticipation/unexpected" to "extinction/adaptation" and "serial/simultaneous." Moving beyond the truisms of postmodernism, the collection newly theorizes the meanings of temporality in relationship to aesthetic, cultural, technological, and economic developments in the postwar period. This book thus assumes that time-not space, as the postmoderns had it-is central to the contemporary period, and that through it we can come to terms with what contemporaneity can be for human beings caught up in the historical present. In the end,<italic>Time</italic>reveals that the present is a cultural matrix in which overlapping temporalities condition and compete for our attention. Thus each pair of terms presents two temporalities, yielding a generative account of the time, or times, in which we live.</p>
+      </abstract>
+      <counts>
+         <page-count count="384"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Time Studies Today</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURGES</surname>
+                           <given-names>JOEL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELIAS</surname>
+                           <given-names>AMY J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Time eludes us. Since Aristotle and Augustine posed their paradoxical questions about time to the Western world in the<italic>Physics</italic>and the<italic>Confessions</italic>respectively, we have been trying to determine what it is that we talk about when we talk about time. The terms “past,” “present,” and “future” seem too static, too thin to express our full experience of temporality. They capture neither our sense of the ephemerality of the instant nor our anxieties about the long unfurlings of time that exceed human lifespans and comprehension: geological time, evolutionary time, the time of climate change, or the time of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Past / Future</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELIAS</surname>
+                           <given-names>AMY J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>Much theoretical ink has been spilled about the “presentism” of post-WWII globalized societies and the loss of history that accompanies it. This presentism has been attributed to a traumatized Western collective consciousness confronting WWII as an “event” unprecedented in its history; to the time of the Spectacle that reduces the past to advertising slogans and depoliticized images of material desire; to finance capitalism’s acceleration of time and eradication of spatial distance as it creates a technologized world economy; or to the speed of “real time” technology that makes impossible both deliberation and historical depth. It seems that we may be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Extinction / Adaptation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HEISE</surname>
+                           <given-names>URSULA K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>Extinction and adaptation are key concerns in the understanding of temporality and history at the turn of the third millennium. They describe processes in the biological world, but they also function now as narrative metaphors for different kinds of cultural engagement with ongoing processes of modernization and globalization.</p>
+                     <p>Extinction and adaptation are, according to Darwinian theory, normal components of evolutionary processes that have taken place during all of the 3.5 billion years of biological life on Earth. Genetic changes that arise randomly in biological organisms create handicaps or advantages for certain individuals and populations as they interact with a complex</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Modern / Altermodern</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAMES</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Criticism has reached a moment when the distinctions between modernity and contemporaneity have never been more debated; when the case for seeing periodization as a professional restriction and intellectual impediment is gaining traction; when postmodernism as a critical category, an epoch of aesthetic production, and a cultural pathology of our late-capitalist condition is considered to be passed; and when artistic modernism itself is being regarded as unfinished and irrepressible, a keyword that resurfaces afresh to capture a range of experimental practices across the visual, textual, acoustic, and plastic arts. At such a disciplinary moment as this—and notwithstanding the precept</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Obsolescence / Innovation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURGES</surname>
+                           <given-names>JOEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>Although obsolescence is central to capitalist economies from at least the 1940s to the present, it is not peculiar to the post-1945 period. The same is true of its twin, innovation, the precursor of which is invention.¹ Innovation and obsolescence, at their most general, refer to twinned processes of technological change that play out across most periods of human history. We typically think of these twins as a smoothly forward-moving sequence of technical advances that have improved functionality and efficiency (innovation), displacing and depreciating the use-value of that which came before with the improvements that they create (obsolescence). But in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Anticipation / Unexpected</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CURRIE</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>“Anticipation” and “unexpected” provide us with headings under which to organize and think about the valences of keywords that have taken hold recently in humanities discourses. I am thinking about words such as these: invention, inventiveness, advent,<italic>arrivant</italic>, event, eruption, irruption, emergence, singularity, unforeseeability, unpredictability, uncertainty, the untimely, and the messianic. Most of these terms have straightforward denotations in everyday life, yet at the same time they have specialized contexts in philosophy and theory. We know, for example, what an event is, and yet we recognize that “we” and “us” also designate specialist communities in sentences such as these: “Indeed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Clock / Lived</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CANALES</surname>
+                           <given-names>JIMENA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Almost nobody noticed. On New Year’s Day 1972, every second of every official clock was “shortened” by a small but significant amount. The velocity of planet earth was slowing, and scientists needed clock time to reflect this delay. By the last decades of the twentieth century, atomic clocks had improved so much that the scientific community in charge of timekeeping felt confident to base time measurements on them. In consequence, they authorized a change in the length of every subsequent second till kingdom come.</p>
+                     <p>The solution appeared simple enough, and by all accounts the new system matched better with “time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Synchronic / Anachronic</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FREEMAN</surname>
+                           <given-names>ELIZABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>The terms “synchronic” and “anachronic” look symmetrical and antonymic to the eye. Both are forms of<italic>chronos</italic>, time. But even their prefixes suggest that they are not simple opposites. The Greek<italic>syn</italic>-means “together” or “with,” such that synchrony, “with time,” is a matter of rhythm. And the Greek<italic>ana</italic>-does not mean “apart” or “without.” Instead it means “back” or “against,” such that anachrony, “back in time,” is a matter of propulsion and sequence. Thus the opposite of synchrony is not anachrony but asynchrony, “no-time” or “without-time.” And the opposite of anachrony (or at least of anachronism, the misplacement of an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Human / Planetary</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOUSER</surname>
+                           <given-names>HEATHER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>After exploring the landscapes and histories of the Lake Superior region, poet Lorine Niedecker announces in a letter to Cid Corman, “I’m going into a kind of retreat so far as time (going to be geologic time from now on!) is concerned.”¹ Writing in 1966, at the dawn of so-called modern environmentalism,² she wishes to break through the dam separating the human and the planetary. Conceptual silos enclose these domains despite the obvious fact that (for now) being human requires being of planet Earth. Niedecker’s project of geologic timekeeping names time as one of the categories of thought that has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Serial / Simultaneous</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARDNER</surname>
+                           <given-names>JARED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>1905 is famously Albert Einstein’s<italic>annus mirabilis</italic>, the year in which the patent office worker wrote a series of papers that would change forever the way in which physicists understood the universe, especially how time and its navigation would be reimagined in the twentieth century. After centuries of Newtonian physics, time was no longer absolute, nor was it any longer separate from the three dimensions that defined space. Einstein’s special theory of relativity highlighted the paradoxical relationship between two seemingly contradictory models of time:<italic>seriality</italic>, as the model that corresponds with how we experience time; and<italic>simultaneity</italic>, as the model</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Emergency / Everyday</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANDERSON</surname>
+                           <given-names>BEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>How should we draw the temporal line between the emergency and the everyday? Does emergency designate a rare and exceptional interruption that threatens to transform the comforting routines that make up the everyday? Is the everyday something finalized and predictable, or is it a realm of potentiality and possibility from which emergencies arise? In what ways are the relations today between the everyday and emergency unique, as people learn to live with perpetual uncertainty in the midst of crises that have become normal?</p>
+                     <p>Drawing a line between everyday and emergency as different but related temporal registers is central to a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Labor / Leisure</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANABLE</surname>
+                           <given-names>AUBREY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>In 1930, the economist John Maynard Keynes predicted that by 2030 the wealth created by new technologies would bring about an era of universal leisure.¹ We can safely say that Keynes’s prediction was way off the mark.² In the West, the postwar transformations of work—from the computerization of factories and offices to the outsourcing of manufacturing jobs to the global south—have changed the labor landscape dramatically since 1930. Still, labor, not leisure, structures the vast majority of people’s time. Labor—a word that names both the kind of remunerated work that we do and also how that work</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Real / Quality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MCGURL</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Among the handful of time concepts that can be said to be original to the postwar period, two are prominent enough to lay claim to decisive significance for our understanding of the historical specificity of the present. The terms “real time” and “quality time” bob near the surface of contemporary life, too compact to count as clichés but too inflated with surplus meaning to be considered simply as keywords. As distinct modifications of a more basic (and yet notoriously mysterious) noun, each emerges from a relatively specialized postwar discourse and begins to circulate promiscuously in the realm of everyday American</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Aesthetic / Prosthetic</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MATZ</surname>
+                           <given-names>JESSE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Wired to a tank lies the mutilated corpse of Captain Colter Stevens, an army pilot killed in action in Afghanistan. His body is gone below the ribcage. But his brain lives still, patched into a computer system with a vital purpose: time travel. Sent into the past for information about a terrorist attack, Stevens ultimately saves Chicago from a massive dirty bomb. That such a radically disabled body could have such ability—to travel in time, to save a city—is the central premise of Duncan Jones’s 2011 film<italic>Source Code</italic>.¹ The film demonstrates a remarkable form of prosthesis by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Analepsis / Prolepsis</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PHELAN</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>240</fpage>
+                  <abstract>
+                     <p>Analepsis and prolepsis are rough synonyms for flashback and flashforward. They were proposed by Gérard Genette as part of his theoretical and interpretive analysis of Marcel Proust’s<italic>À la recherche du temps perdu</italic>, but they have since proved to be extremely valuable for thinking about the nature of narrative.¹ Observers of the “narrative turn,” the burgeoning interest across multiple disciplines in the explanatory power of stories, often explain its emergence by noting that narrative is, in the emphatic words of H. Porter Abbott, “<italic>the principal way in which our species organizes its understanding of time</italic>.”² Paul Ricoeur makes a similar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Embodied / Disembodied</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEPHENS</surname>
+                           <given-names>MICHELLE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEPHENS</surname>
+                           <given-names>SANDRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>
+                        <italic>People Revisited</italic>, an interactive video installation by Sandra Stephens, presents life-size projections of people, walking in one main scene.¹ As viewers watch the video, they can use a trackball set up on a stand to control the movements of people within the projection (see figures 15.1 and 15.2).</p>
+                     <p>As a viewer rolls the trackball over a particular person in the video, that person freezes, while at the same time a reflection of him or her (a semitransparent, ghostlike image) continues on its original trajectory, moving along with the other people in the scene (see figure 15.3).</p>
+                     <p>Stephens’s installation is a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.20</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Theological / Worldly</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HAUERWAS</surname>
+                           <given-names>STANLEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>Christianity is a faith that roots, in time, those who would be Christian. But those same Christians are bound by those temporal roots, haunted by the knowledge that they cannot escape time. I want to explore that paradox in an effort to make what I hope will be some useful observations about how Christians understand, as well as tell, time by briefly examining time as God’s time (theological time), time as the secular time of modernity (worldly time), and the time of lived reality for the Christian, which mediates these other senses of time and imbricates them in one another</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.21</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Authentic / Artificial</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REED</surname>
+                           <given-names>ANTHONY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>294</fpage>
+                  <abstract>
+                     <p>Questions of authenticity and artificiality haunt black culture’s transition from an appropriated set of practices to a set of commodity objects and reveal along the way a racialized set of spatiotemporal assumptions that persist into the digital era. The possibility of counterfeit haunts the digitally produced cultural object in two specific ways: concern over the legality and provenance of the physical object, and concern over the legitimacy of the art as “expression” of a nebulous “folk-spirit.” The latter is my primary concern in this discussion. For if the possibility of recording retrospectively creates the “live” performance, the possibility of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.22</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Batch / Interactive</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MONTFORT</surname>
+                           <given-names>NICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>“Batch” and “interactive” are modes in which computer systems operate, the latter being a mode that is much more common and visible in the late twentieth and early twenty-first centuries, the former having dominated mainframe computing, beginning in the late 1950s. In early, archetypal batch processing, programs were written out, punched cards were prepared on keypunch machines, the deck was brought in and—when the computer could accommodate the job—the program was run. A tiny error would mean that the programmer would have to come back the next day and try again with the corrected program. Interactive computing, which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.23</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Transmission / Influence</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HAIDU</surname>
+                           <given-names>RACHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>The time of artistic influence is<italic>past</italic>in a manner that reveals the schisms and anxieties of academia itself. On the one hand, “influence” is a term that has been out of fashion for more than forty years in humanistic disciplines touched by theory; on the other hand, it persists as a principle of thought, abandoned but still lurking, something we might wish to unthink but instead find ourselves actively repressing. We might repudiate, disavow, or just ignore it, but influence is still part of our consciousness, often part of the way we define what we study as objects in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.24</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>Silence / Beat</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILLER</surname>
+                           <given-names>PAUL D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>Sample this:</p>
+                     <p>Over the course of twenty-five centuries, Pythagoras has been a phantom made of fragments drifting over the ages. The fabric or the texture of his being has been made of unattributed remarks, ambiguous observations, specious fabrications, and false citations that later proved to be remarkably coherent but, amusingly enough, were never traced back to him or his original followers. Anything related to what he may or may not have said or done depends heavily on imaginative interpretation. But it’s that kind of speculation that makes Pythagoras such an enticing subject for the modern writer.</p>
+                     <p>Pythagoras is one of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.25</book-part-id>
+                  <title-group>
+                     <title>TIME STUDIES:</title>
+                     <subtitle>A Bibliographical Reading List</subtitle>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.26</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>355</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18040s0.27</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

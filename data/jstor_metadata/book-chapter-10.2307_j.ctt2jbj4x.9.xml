@@ -1,0 +1,571 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt234w5g</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2jbj4x</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Information Systems Foundations: Constructing and Criticising</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Hart</surname>
+               <given-names>Dennis N.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Gregor</surname>
+               <given-names>Shirley D.</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(Editors)</role>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">1920942211</isbn>
+      <isbn content-type="epub">9781920942205</isbn>
+      <isbn content-type="epub">1920942203</isbn>
+      <publisher>
+         <publisher-name>ANU E Press</publisher-name>
+         <publisher-loc>Canberra</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>ANU E Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt2jbj4x"/>
+      <abstract abstract-type="short">
+         <p>This volume contains the papers presented at the second biennial Information Systems Foundations ('Constructing and Criticising') Workshop, held at The Australian National University in Canberra from 16-17 July 2004. The focus of the workshop was, as for the first in the series, the foundations of Information Systems as an academic discipline. The particular emphasis was on the adequacy and completeness of theoretical underpinnings and the research methods employed. At the same time the practical nature of the applications and phenomena with which the discipline deals were kept firmly in view. The papers in this volume range from the unashamedly theoretical ('The Struggle Towards an Understanding of Theory in Information Systems') to the much more practically oriented ('A Procedural Model for Ontological Analyses'). The contents of this volume will be of interest and relevance to academics and advanced students as well as thoughtful and reflective practitioners in the Information Systems field.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.3</book-part-id>
+                  <title-group>
+                     <title>Information systems foundations</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hart</surname>
+                           <given-names>Dennis</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gregor</surname>
+                           <given-names>Shirley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.4</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>The struggle towards an understanding of theory in information systems</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gregor</surname>
+                           <given-names>Shirley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This paper is, logically, a precursor to an earlier paper that sets out the different interrelated types of theory that can be employed in information systems research, namely: (i) descriptive theory, (ii) theory for understanding, (iii) theory for predicting, (iv) theory for explanation and prediction, and (v) theory for design and action (Gregor, 2002). What that paper failed to do was show clearly why the distinctive nature of the information systems discipline requires a perspective on theorising all of its own. The aim of this current paper is to show clearly how ideas can be combined from some views of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.5</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Information systems theory as cultural capital:</title>
+                     <subtitle>an argument for the development of ʹgrandʹ theory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hamilton</surname>
+                           <given-names>Douglas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The proposal in this paper is that the development of a prestigious grand theory in the information systems (IS) field is possible, opportune, and would be of considerable benefit to the field. ʹPrestigiousʹ is taken in this context to mean achieving a degree of renown, ideally with the public at large, but at least within the academy. While significant benefits could derive from the application of such a theory in research and practice, its primary value to the discipline would be as a resource contributing to its public image. An influential theory is a statement that its originating discipline is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.6</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>The reality of information systems research</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamp</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milton</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since 1995, one of the authors (JL) has been maintaining a resource on the World Wide Web with the basic aim of providing a central point from which academic authors publishing in the information systems domain can obtain useful information on the publications serving that domain (Lamp, 1995). The database now contains information on 349 journals, and was accessed over 7500 times in February 2004. As the number of journals included in the database increases, so also does the difficulty of accurately identifying journals relevant to a particular query from within the database. There is a basic searching facility that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.7</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Qualitative research in information systems:</title>
+                     <subtitle>consideration of selected theories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hunter</surname>
+                           <given-names>M. Gordon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This paper presents a discussion about conducting information systems research while taking a qualitative perspective to carrying out investigations. Within this qualitative perspective, selected theories are presented, including Grounded Theory, Personal Construct Theory, and Narrative Inquiry. The discussion shows the relationship of these theories to conducting qualitative research in information systems. These theories, developed in other fields of research, may be employed to further contribute to our understanding of the information systems discipline.</p>
+                     <p>The discussion here does not present a comparison of qualitative and quantitative perspectives, nor a combination known as mixed mode (Nicholls et al., 2001) or pluralistic (Mingers,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.8</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>The grounded theory method and case study data in IS research:</title>
+                     <subtitle>issues and design</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fernández</surname>
+                           <given-names>Walter D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Martin and Turner (1986, p. 141) defined grounded theory as an ʹinductive theory discovery methodology that allows the researcher to develop a theoretical account of the general features of the topic while simultaneously grounding the account in empirical observations of data.ʹ¹ In grounded theory everything is integrated; it is an extensive and systematic general methodology (independent of research paradigm) where actions and concepts can be interrelated with other actions and concepts – in grounded theory nothing happens in a vacuum (Glaser, 1978; Glaser and Strauss, 1967).</p>
+                     <p>The grounded theory method offers ʹa logically consistent set of data collection and analysis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.9</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>A hermeneutic analysis of the Denver International Airport Baggage Handling System</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lukaitis</surname>
+                           <given-names>Stasys</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cybulski</surname>
+                           <given-names>Jacob</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Although there are several reports of information systems projects that have applied hermeneutics (Boland, 1991; Klein and Myers, 1999; Myers, 1994a), there are very few publications that explain the actual hermeneutic process taken by IS (and in fact, also non-IS) researchers. What this paper strives to do is close the methodological gap and to present one potential framework for the adoption of hermeneutics in the study of information systems.</p>
+                     <p>In addition, hermeneutics is often viewed as an ʹobscureʹ tool in the IS community because it is perhaps not particularly well understood. To that end, this research also focuses attention on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.10</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Information systems technology grounded on institutional facts</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Colomb</surname>
+                           <given-names>Robert M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Information systems are generally and very successfully implemented using a particular sort of technology typified by relational database systems, which I will call <italic>logical databases</italic> for reasons that will be explained below. There are alternative technologies. Why have logical database systems been successful?</p>
+                     <p>Information systems have, for the most part, been successful in relatively restricted organisational subunits. A large organisation therefore may have hundreds of information systems. Over the past two decades organisations have been trying to develop information systems implemented by logical databases at the scale of the whole, typically by integrating the successful local systems. There are successes,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.11</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Perhaps itʹs time for a fresh approach to IS/IT gender research?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Webb</surname>
+                           <given-names>Phyl</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Young</surname>
+                           <given-names>Judy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Since the inception of the IS/IT industry women have been an under-represented human resource (Nielsen et al., 2000; Panteli et al., 1999; Ahuja, 2002; The Women in Science Engineering and Technology Advisory Group, 1995). In addition, many women who gain professional qualifications in the area and enter the industry do not remain (OʹNeill and Walker, 2001). Largely, the problem has been attributed to a dominant male culture in the IS/IT field. The ongoing gendered environment in IS/IT has been defined as the perpetuation of the ʹold corporate boysʹ club syndrome (OʹNeill and Walker, 2001, p. 118). This implies that while</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.12</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Reflection in self-organised systems</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lynch</surname>
+                           <given-names>Maureen</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johan</surname>
+                           <given-names>Carmen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The complexity of information systems and technological changes confronting most organisations today means there is an increased urgency for them to be able to reflect and adapt. The aim of this paper is to explore the importance of reflection for successful problem solving in self-organised social human systems that face this urgency. Organisations are constantly exposed to new market opportunities and competitive dynamics, demanding that they learn quickly when there is new information provided by, and new opportunities caused by, changes in the external environment.</p>
+                     <p>The increase in interconnectivity and the ubiquity of information systems across the globe is causing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.13</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Strategic knowledge sharing:</title>
+                     <subtitle>a small-worlds perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Metcalfe</surname>
+                           <given-names>Mike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Centralised governance of effective knowledge sharing is very difficult in times of rapid change, especially for purposeful, information rich, socio-technical wicked systems. The lines of communication quickly become clogged, leaders suffer information overload and are unable to fully appreciate problems at the local level. Decentralisation of knowledge sharing runs the risk of causing local overload, with key information not being prioritised or depending on actors who only have experience at processing local problems. Alternatives such as ʹmiddle-outʹ (Keen, 1999) have been suggested, where strategically informed middle level actors play a coordination role between the top and bottom level actors. This</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.14</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>A unified open systems model for explaining organisational change</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sundarasaradula</surname>
+                           <given-names>Doy</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hasan</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract abstract-type="extract">
+                     <p>We currently dwell in a turbulent environment, one in which change constantly occurs and elements in the environment are increasingly interrelated (Emery and Trist, 1971; Terreberry; 1971; Robbins, 1990). The nature of change has recently tended to be revolutionary rather than evolutionary. One possible explanation is that the progress in information and telecommunication technologies, together with the inception of the Internet as a global computer network, has made the world substantially more interconnected than ever before. This acts as a catalyst in fostering further change so that change is now the norm rather than an occasional occurrence. This poses an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.15</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>Research as an information systems domain</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McDonald</surname>
+                           <given-names>Craig</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Information systems is a discipline that interests itself in the interaction of information technologies with human activity systems. The purpose of this paper is to examine some aspects of <italic>research</italic> as a human activity system and the role information systems might play in it.</p>
+                     <p>Both the Chair of the ARC and Australiaʹs Chief Scientist have spoken recently about e-Science and e-Research. Cramʹs (2003) ʹA Roadmap for e-Researchʹ and Batterhamʹs (2003) ʹE-Science: A Frontier Technology for Achieving the National Research Prioritiesʹ set the scene for the section on e-Science in the ʹSmart Use of Information Technology Systemsʹ (SUITS) bid. Both of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.16</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>A procedural model for ontological analyses</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosemann</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Green</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Indulska</surname>
+                           <given-names>Marta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As techniques for conceptual modelling, enterprise modelling, and business process modelling have proliferated over the years (e.g. Olle et al., 1991), researchers and practitioners alike have attempted to determine objective bases on which to compare, evaluate, and determine when to use these different techniques (e.g. Karam and Casselman, 1993; Gorla et al., 1995) . However, throughout the 1980s, 1990s, and into the new millennium, it has become increasingly apparent to many researchers that without a theoretical foundation on which to base the specification for these various modelling techniques, incomplete evaluative frameworks of factors, features, and facets will continue to proliferate.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.17</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>Lessons learned from manual systems:</title>
+                     <subtitle>designing information systems based on the situational theory of agency</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milton</surname>
+                           <given-names>Simon K.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnston</surname>
+                           <given-names>Robert B.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lederman</surname>
+                           <given-names>Reeva M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Theories of agency discuss the possible ways of designing complex systems that display purposeful activity. Theories of agency have been researched in several disciplines (Brooks, 1986; Agre and Chapman, 1987; Suchman, 1987; Hendriks-Jansen, 1996; Johnston and Brennan, 1996; Agre and Horswill, 1997; Clancey, 1997), where two main positions are found – which we will call the ʹdeliberativeʹ and the ʹsituationalʹ theories of agency. The two theories have quite different modes of representation and action selection. In previous papers (Johnston and Milton, 2001; Johnston and Milton, 2002a; Lederman et al., 2003; Lederman et al., 2004) we have argued that information systems</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.18</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>Conversations at the electronic frontier:</title>
+                     <subtitle>the information systems business language (ISBL)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hamilton</surname>
+                           <given-names>Douglas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract abstract-type="extract">
+                     <p>A new language, referred to for the purposes of this paper as the information systems business language or ISBL, is being born in the world of business. It is an artificial language (Lotman, 1990), designed to eliminate possibilities for misunderstandings in the conduct of standardised business transactions. Its primary source language is English but it incorporates information systems (IS) concepts, definitions, symbols and gestures and is therefore not a subset of English. The language has a sphere of operation restricted to interactions involving at least one autonomous IS, and is still in the very early stages of development. The development</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jbj4x.19</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>191</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

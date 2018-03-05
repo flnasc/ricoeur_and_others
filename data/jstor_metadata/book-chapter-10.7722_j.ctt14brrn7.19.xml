@@ -1,0 +1,584 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7p9ck</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt14brrn7</book-id>
+      <subj-group>
+         <subject content-type="call-number">PT2354.C66 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Herder, Johann Gottfried, 1744–1803</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A Companion to the Works of Johann Gottfried Herder</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Adler</surname>
+               <given-names>Hans</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Koepke</surname>
+               <given-names>Wulf</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>05</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9781571133953</isbn>
+      <isbn content-type="epub">9781571137289</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Rochester, NY; Woodbridge, Suffolk</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>the Editors and Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7722/j.ctt14brrn7"/>
+      <abstract abstract-type="short">
+         <p>Johann Gottfried Herder (1744-1803) is one of the great names of the classical age of German literature. One of the last universalists, he wrote on aesthetics, literary history and theory, historiography, anthropology, psychology, education, and theology; translated and adapted poetry from ancient Greek, English, Italian, even from Persian and Arabic; collected folk songs from around the world; and pioneered a better understanding of non-European cultures. A student of Kant's, he became Goethe's mentor in Strasbourg, and was a mastermind of the Sturm und Drang and a luminary of classical Weimar. But the wide range of Herder's interests and writings, along with his unorthodox ways of seeing things, seems to have prevented him being fully appreciated for any of them. His image has also been clouded by association with political ideologies, the proponents of which ignored the message of Humanität in his texts. So although Herder is acknowledged by scholars to be one of the great thinkers of European Enlightenment, there is no up-to-date, comprehensive introduction to his works in English, a lacuna this book fills with seventeen new, specially commissioned essays. Contributors: Hans Adler, Wulf Koepke, Steven Martinson, Marion Heinz and Heinrich Clairmont, John Zammito, Jürgen Trabant, Stefan Greif, Ulrich Gaier, Karl Menges, Christoph Bultmann, Martin Keler, Arnd Bohm, Gerhard Sauder, Robert E. Norton, Harro Müller-Michaels, Günter Arnold, Kurt Kloocke, and Ernest A. Menze. Hans Adler is Halls-Bascom Professor of Modern Literature Studies at the University of Wisconsin-Madison. Wulf Koepke is Distinguished Professor Emeritus of German, Texas A&amp;M University and recipient of the Medal of the International J. G. Herder Society.</p>
+      </abstract>
+      <counts>
+         <page-count count="502"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.4</book-part-id>
+                  <title-group>
+                     <title>List of Abbreviations</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adler</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koepke</surname>
+                           <given-names>Wulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The present volume tries to convey a comprehensive picture of the life and works of Johann Gottfried Herder. The nineteen authors of the following seventeen articles provide an overview of the diverse aspects of Herder’s contributions to eighteenth-century culture and beyond. It is no coincidence that this volume is the first collaborative attempt ever to compile a<italic>Companion</italic>to Herder’s works. Today it is possible and timely to do justice to Herder’s work and ideas as an achievement in their own right, to view his work as an independent historical-philosophical approach to almost all important problems of the Enlightenment and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.6</book-part-id>
+                  <title-group>
+                     <label>1:</label>
+                     <title>Herder’s Life and Works</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martinson</surname>
+                           <given-names>Steven D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Johann Gottfried Herder (1744–1803) was born into a family of modest means in the German-speaking town of Mohrungen in East Prussia (today Morag in Poland) on 25 August 1744. Both his grandfather, Christoph (1681–1750), and his father, Gottfried (1706–63), were master weavers. His father was forced to supplement his trade by working as a sexton, choirmaster, and instructor for girls at the local Lutheran congregation. Jakob Peltz, Anna Elisabeth’s father, was quite successful as a master shoemaker. Herder recalled that his father was strict and just but equally good-natured, and he was good to his children. Johann</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.7</book-part-id>
+                  <title-group>
+                     <label>2:</label>
+                     <title>Herder’s Epistemology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heinz</surname>
+                           <given-names>Marion</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clairmont</surname>
+                           <given-names>Heinrich</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Koepke</surname>
+                           <given-names>Wulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>In 1763, Herder attended Immanuel Kant’s lectures on metaphysics, which consisted of a critical commentary on Alexander Gottlieb Baumgarten’s<italic>Metaphysica.</italic>Baumgarten’s book represented the most advanced position of rationalistic gnoseology, where the marginal area of “confused cognition” is circumscribed as an independent complex that was later developed by Baumgarten in his<italic>Aesthetica</italic>into a systematic complement of distinct cognition. Kant’s lectures inspired Herder to write his first philosophical text,<italic>Versuch über das Sein</italic>(Essay on Being, 1763), dedicated to Kant. This essay, a critical discussion of the then-current theories of ontology and epistemology, an analysis from which Herder developed the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.8</book-part-id>
+                  <title-group>
+                     <label>3:</label>
+                     <title>Herder and Historical Metanarrative:</title>
+                     <subtitle>What’s Philosophical about History?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zammito</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>There is some truth in Goethe’s pronouncement that Johann Gottfried Herder’s ideas had been both absorbed and forgotten by the conventional wisdom of German culture after 1800.¹ He was absorbed either into the project of the Jena<italic>Romantiker</italic>and their literary hermeneutics or into the project of Hegel and his philosophy of history. But after the rise of historicism in the school of Ranke and Droysen, a retrospective redemption seemed possible. Thus, in the classic formulations of Meinecke and Stadelmann, Herder was resurrected as the “father of historicism.”² He was credited with pioneering the stress on individuality, development, and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.9</book-part-id>
+                  <title-group>
+                     <label>4:</label>
+                     <title>Herder’s Concept of Humanität</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adler</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>Johann Gottfried Herder has long been known for having developed groundbreaking concepts of thought as well as having modified those of others decisively.<italic>Humanität</italic>is—along with concepts such as origin, history, culture, Volk, and language—one of the core concepts of Herder’s works. As a matter of fact,<italic>Humanität</italic>is Herder’s all-encompassing concept. All his thinking, writing, and actions were centered around it. In short: Herder was the philosopher of<italic>Humanität.</italic>Not only has Herder often been called “the philosopher of humanity”; he has also been accused of being the proponent of a vague “philanthropy.”¹ The fact that scholars</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.10</book-part-id>
+                  <title-group>
+                     <label>5:</label>
+                     <title>Herder and Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Trabant</surname>
+                           <given-names>Jürgen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>After Bacon’s discovery of the non-scientific semantics of natural language as<italic>idola fori,</italic>“idols of the marketplace” and the most serious obstacle to true knowledge, and after Locke’s attempt to integrate language into a theory of human understanding in his<italic>Essay Concerning Human Understanding</italic>(1690), and after his proposals for coming to terms with the epistemological problem of language (which is “a mist before our eyes”), language was on the agenda of the philosophy of the eighteenth century — at least of its empiricist current. Rationalist philosophy generally speaking has no problem with language, and, hence, nothing interesting to say about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.11</book-part-id>
+                  <title-group>
+                     <label>6:</label>
+                     <title>Herder’s Aesthetics and Poetics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Greif</surname>
+                           <given-names>Stefan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Swisher</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Herder’s importance for the development of thinking in the field of aesthetics and poetics has always been recognized, but it has been difficult to define the nature and extent of his contributions. They came during a crucial time of evolution leading into what is generally termed as European Romanticism. It seems to be necessary to define more precisely where exactly to locate Herder in this momentous shift of worldviews. In the second half of the eighteenth century, aesthetics established itself as a discipline of philosophy. In contrast to earlier rule-based poetics, the question of the nature of art now came</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.12</book-part-id>
+                  <title-group>
+                     <label>7:</label>
+                     <title>Myth, Mythology, New Mythology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gaier</surname>
+                           <given-names>Ulrich</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>Contrary to the widespread prejudices that the eighteenth century, being a period of rational enlightenment, was an “extremely barren epoch for research in mythology”¹ and that the call for New Mythology toward the end of the century signaled an anti-rational criticism of enlightenment,² myth plays a central role as early as in the works of Christian Wolff (1679–1754) and Alexander Gottlieb Baumgarten (1714–1762), protagonists of German Enlightenment philosophy. They represent, to a certain extent, the two traditions of the mythical mode of thinking,³ which can be linked, respectively, to Plato (427–347 B.C.) and Aristotle (384–322 B.C.).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.13</book-part-id>
+                  <title-group>
+                     <label>8:</label>
+                     <title>Particular Universals:</title>
+                     <subtitle>Herder on National Literature, Popular Literature, and World Literature</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Menges</surname>
+                           <given-names>Karl</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>When Johann Gottfried Herder at the age of twenty-two stepped onto the literary scene with his first major publication, the fragments<italic>Über die neuere deutsche Literatur</italic>(1766), he did so with a mixture of appropriate modesty and youthful self-assurance. His text, supposedly, was meant to be no more than a “supplement” to one of the most important critical projects of eighteenth-century Germany, that is, the<italic>Briefe, die neueste Literatur betreffend</italic>(1759–65), which were written and edited by such luminaries as Lessing, Mendelssohn, Nicolai, and Abbt, among others. The occasion for the composition of the<italic>Literaturbriefe</italic>was the Seven Years’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.14</book-part-id>
+                  <title-group>
+                     <label>9:</label>
+                     <title>Herder’s Views on the Germans and Their Future Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koepke</surname>
+                           <given-names>Wulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>The condition of German literature and its place and function in society was one of Herder’s major concerns. He thought of “literature” in an older, more comprehensive sense: It included, in addition to poetry, all types of prose writing, not only drama and fiction, but also biographies and memoirs, historiography, essays on all topics of general interest including science, and last but not least writings in the area of theology and religion, from church hymns and sermons to edifying and scholarly treatises. Herder opposed the ongoing process of specialization and professionalization that made itself felt during his lifetime and that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.15</book-part-id>
+                  <title-group>
+                     <label>10:</label>
+                     <title>Herder’s Biblical Studies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bultmann</surname>
+                           <given-names>Christoph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Herder’s work on the Bible has a distinctly theological thrust. Thus he asserted in the opening statement of his encyclopedic<italic>Briefe, das Studium der Theologie betreffend</italic>(Letters Concerning the Study of Theology) of 1780–81: “Es bleibt dabei, mein Lieber, das beste Studium der Gottesgelehrsamkeit ist Studium der Bibel” (There is no denying it, my good man, the best study of theology is the study of the Bible . . .).¹ Taking this idea even further, he suggested that ideally “jeder gute Theolog sich seine Bibel selbst müßte übersetzt haben” (<italic>STh</italic>357; every good theologian ought to have translated his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.16</book-part-id>
+                  <title-group>
+                     <label>11:</label>
+                     <title>Herder’s Theology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kessler</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>Among the theologians of the late eighteenth century, Herder combines a unique variety of traditional elements with highly progressive and innovative components. His publications touch on most classical fields of academic education as well as the broad range of professional interests typical of the Protestant clergy. Herder expanded the frontiers of academic theology, exploring and interpreting results of contemporary debates in the humanities and sciences. Within the boundaries of a transitory period characterized by rationalist, empirical, and idealistic currents of thought, Herder investigated the various positions by addressing a wide range of fundamental questions. Striving for popularity and practical applications</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.17</book-part-id>
+                  <title-group>
+                     <label>12:</label>
+                     <title>Herder and Politics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bohm</surname>
+                           <given-names>Arnd</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>277</fpage>
+                  <abstract>
+                     <p>Herder’s views on political topics such as liberty and tyranny, sovereignty, the constitutions of states, statecraft, and international relations were largely theoretical, the product of wide-ranging studies in history, theology, philosophy, and the emerging discipline of comparative anthropology. Due to his vocation as a theologian and Protestant clergyman, Herder was virtually precluded from holding political office or commenting frankly on public affairs, except as mediated by the established church. Thus he stands in contrast to Goethe, whose training as a lawyer and long years of service managing the affairs of the Duchy of Saxe-Weimar-Eisenach gave him practical insight into the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.18</book-part-id>
+                  <title-group>
+                     <label>13:</label>
+                     <title>Herder’s Poetic Works, His Translations, and His Views on Poetry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sauder</surname>
+                           <given-names>Gerhard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Koepke</surname>
+                           <given-names>Wulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>In histories of German lyric poetry, Herder has no place. Also, his narrative and dramatic works are rarely mentioned in histories of German literature. It is true that he contributed in an extraordinary way to the evolution of a “new” poetry in the 1770s, but through theoretical stimulation rather than in his own creative practice. Herder started early to write poems, and cultivated the genre his entire life. The fact that he did not publish volumes of his own poetry seems to indicate his own doubts about its quality. Only toward the end of his life did he plan to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.19</book-part-id>
+                  <title-group>
+                     <label>14:</label>
+                     <title>Herder’s Style</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adler</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>It is not easy to read Herder’s texts, and many scholars past and present have complained about this aspect of Herder’s work. The same, however, is true for texts by, say, Kant, Fichte, or Schelling. One important and hitherto neglected difference between Herder’s way of thinking and writing on the one hand and Kant’s and Fichte’s on the other seems to lie less on the level of content but more on the level of how the ideas and reflections are presented. There is a crucial difference of thinking and expression between Herder and many other philosophers. This difference is a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.20</book-part-id>
+                  <title-group>
+                     <label>15:</label>
+                     <title>Herder as Critical Contemporary</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Norton</surname>
+                           <given-names>Robert E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>351</fpage>
+                  <abstract>
+                     <p>To an extraordinary and perhaps even singular degree, Herder’s life and work are defined by the practice, function, and meaning of criticism. Despite the numerous other roles he occupied — and there were many: theologian, philosopher, linguist, historian, ethnographer, to name only a few — it was in his activity as a critic that Herder revealed his greatest strengths and arguably produced his most lasting achievements. Indeed, one might reasonably argue that Herder approached virtually everything he did<italic>as</italic>a critic, that his thinking and expression as a whole are a reflection or product of a fundamentally critical habit of mind. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.21</book-part-id>
+                  <title-group>
+                     <label>16:</label>
+                     <title>Herder in Office:</title>
+                     <subtitle>His Duties as Superintendent of Schools</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Müller-Michaels</surname>
+                           <given-names>Harro</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Jenkins</surname>
+                           <given-names>Jennifer L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>373</fpage>
+                  <abstract>
+                     <p>With this description Caroline Herder begins her chapter entitled “Herder’s Official Duties and Their Execution” in part 2 of her<italic>Erinnerungen,</italic>published in 1820.¹ She describes the tasks associated with these offices in greater depth in the biographical notes published in the 1830 edition of the same book (233–34): as a minister he held sermons, accompanied the members of the parish from baptism to the grave, performed and dissolved marriages, supervised the Weimar schools in his capacity of superintendent, appointed directors and instructors, jumped in as substitute teacher when necessary, administered teacher certification exams, proctored the students’ exams, gave</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.22</book-part-id>
+                  <title-group>
+                     <label>17:</label>
+                     <title>Herder’s Reception and Influence</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arnold</surname>
+                           <given-names>Günter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kloocke</surname>
+                           <given-names>Kurt</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Menze</surname>
+                           <given-names>Ernest A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract>
+                     <p>The study of the reception of and influences on literature is relatively new and, for the works of many authors, has hardly begun. Current literature tends to receive the most attention. In the past, literary works were often co-opted for ideological reasons and in the process misinterpreted and distorted; this was the case with Johann Gottfried Herder through the nineteenth and well into the twentieth century. Ultimately, Herder was discredited by nationalist perversion of his works during the National-Socialist era. Whereas there are several studies dealing with Herder’s early-twentieth-century reception history, little has been done regarding Herder’s influence in earlier</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.23</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>421</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.24</book-part-id>
+                  <title-group>
+                     <title>Notes on the Contributors</title>
+                  </title-group>
+                  <fpage>459</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.25</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>463</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrn7.26</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>491</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

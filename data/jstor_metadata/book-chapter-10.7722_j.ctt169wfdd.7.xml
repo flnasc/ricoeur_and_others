@@ -1,0 +1,804 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7p379</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt169wfdd</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Cultural Performances in Medieval France</book-title>
+         <subtitle>Essays in Honor of Nancy Freeman Regalado</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Doss-Quinby</surname>
+               <given-names>Eglal</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Krueger</surname>
+               <given-names>Roberta L.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Burns</surname>
+               <given-names>E. Jane</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>03</month>
+         <year>2007</year>
+      </pub-date>
+      <isbn content-type="ppub">9781843841128</isbn>
+      <isbn content-type="epub">9781846155291</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Woodbridge, Suffolk; Rochester, NY</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7722/j.ctt169wfdd"/>
+      <abstract abstract-type="short">
+         <p>This collection of essays pays tribute to Nancy Freeman Regalado, a ground-breaking scholar in the field of medieval French literature whose research has always pushed beyond disciplinary boundaries. The articles in the volume reflect the depth and diversity of her scholarship, as well as her collaborations with literary critics, philologists, historians, art historians, musicologists, and vocalists - in France, England, and the United States. Inspired by her most recent work, these twenty-four essays are tied together by a single question, rich in ramifications: how does performance shape our understanding of medieval and pre-modern literature and culture, whether the nature of that performance is visual, linguistic, theatrical, musical, religious, didactic, socio-political, or editorial? The studies presented here invite us to look afresh at the interrelationship of audience, author, text, and artifact, to imagine new ways of conceptualizing the creation, transmission, and reception of medieval literature, music, and art. EGLAL DOSS-QUINBY is Professor of French at Smith College; ROBERTA L. KRUEGER is Professor of French at Hamilton College; E. JANE BURNS is Professor of Women's Studies and Adjunct Professor of Comparative Literature at the University of North Carolina, Chapel Hill. Contributors: ANNE AZÉMA, RENATE BLUMENFELD-KOSINSKI, CYNTHIA J. BROWN, ELIZABETH A. R. BROWN, MATILDA TOMARYN BRUCKNER, E. JANE BURNS, ARDIS BUTTERFIELD, KIMBERLEE CAMPBELL, ROBERT L. A. CLARK, MARK CRUSE, KATHRYN A. DUYS, ELIZABETH EMERY, SYLVIA HUOT, MARILYN LAWRENCE, KATHLEEN A. LOYSEN, LAURIE POSTLEWATE, EDWARD H. ROESNER, SAMUEL N. ROSENBERG, LUCY FREEMAN SANDLER, PAMELA SHEINGORN, HELEN SOLTERER, JANE H. M. TAYLOR, EVELYN BIRGE VITZ, LORI J. WALTERS, AND MICHEL ZINK.</p>
+      </abstract>
+      <counts>
+         <page-count count="338"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.4</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Krueger</surname>
+                           <given-names>Roberta L.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Doss-Quinby</surname>
+                           <given-names>Eglal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+                  <abstract>
+                     <p>This collection of essays recognizes the accomplishments of one of the path-breaking senior women in the field of medieval French literature, Nancy Freeman Regalado, who has been on the faculty of New York University since 1968.</p>
+                     <p>Nancy Regalado has distinguished herself as a specialist of the Middle Ages, with work ranging widely from literary to cultural history and, more recently, staging and performance. Her publications include such seminal studies as<italic>Poetic Patterns in Rutebeuf: A Study in Noncourtly Poetic Modes of the Thirteenth Century</italic>(Yale University Press, 1970);<italic>Le Roman de Fauvel in the Edition of Mesire Chaillou de Pesstain</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.6</book-part-id>
+                  <title-group>
+                     <title>Nancy Freeman Regalado</title>
+                     <subtitle>Curriculum Vitae</subtitle>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.7</book-part-id>
+                  <title-group>
+                     <title>La poésie comme récit</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zink</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>La poésie dans son essence entretient avec le langage une relation qui n’est pas de l’ordre de la succession discursive. Elle n’est en elle-même le produit ni d’un récit ni d’une argumentation ni même d’une description. Elle est un raccourci dans l’usage et l’effet des mots, qui suscite une forme de présence immanente et immédiate de l’être même.</p>
+                     <p>Des considérations de ce genre accompagnent confusément dans notre esprit la notion de poésie. Car il n’est pas de conceptions si difficiles et si tendues qui ne finissent par se vulgariser au prix du flou et de l’aplatissement. La révolution de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.8</book-part-id>
+                  <title-group>
+                     <title>Colin Muset and Performance</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosenberg</surname>
+                           <given-names>Samuel N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>More than is commonly the case in the<italic>trouvère</italic>repertory, the songs attributable to Colin Muset ask to be understood in terms of performance. Nothing is more banal than a poem that begins,<italic>Chanter m’estuet</italic>(Gace Brulé, Blondel de Nesle, et al.), and even incipit expansions such as<italic>Onques maiz nus hom ne chanta / En la maniere que je chant</italic>(Never before has any man sung as I sing [Blondel de Nesle]) and<italic>J’ai souvent d’Amors chanté; / Oncore en chant</italic>(I have often sung of Love; I still sing of it [Gillebert de Berneville]) abound in the repertory.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.9</book-part-id>
+                  <title-group>
+                     <title>Subtilitas and Delectatio:</title>
+                     <subtitle>Ne m’a pas oublié</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roesner</surname>
+                           <given-names>Edward H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>The later medieval motet has long been known for its technical virtuosity and intricate design, and for verbal and musical content of extraordinary subtlety. It is only relatively recently, however, that scholars have begun seriously to look for evidence of comparable sophistication in the large and diverse corpus of motets surviving from the thirteenth century, when the motet emerged as a distinct genre. This essay will contribute to the exploration of the thirteenth-century motet, focusing on a single two-voice composition to make its points:<italic>Ne m’a pas oublié / In seculum</italic>, known from a single source, the motet manuscript Montpellier</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.10</book-part-id>
+                  <title-group>
+                     <title>“Flables couvertes”:</title>
+                     <subtitle>Poetry and Performance in the Fifteenth Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Taylor</surname>
+                           <given-names>Jane H. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>The late medieval lyric is, says Jacqueline Cerquiglini-Toulet, “une pratique sociale”; everyone agrees that in the fifteenth century anyone with the remotest pretensions to social standing – anyone, that is, who aspired to being thought of as<italic>joyeux</italic>,<italic>joly</italic>, and<italic>gracieux</italic>– was expected to be able to turn a neat rondeau or a witty ballade.¹ The adjectives I have just used come from the account in his biography of Boucicaut’s social education: he was, it says, trained in the art of composing<italic>balades, rondeaux, virelais, lais et complaintes d’amoureux sentement</italic>.² Charles d’Orléans, on Saint Valentine’s day, could call his court to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.11</book-part-id>
+                  <title-group>
+                     <title>Intimate Performance:</title>
+                     <subtitle>An Ivory Writing Tablet Cover at The Cloisters</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cruse</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Nancy Regalado has devoted her career to one of the most important chapters in the history of writing in the West, the centuries between 1100 and 1500, which witnessed the rise of vernacular culture. As the use of writing expanded from ecclesiastical precincts ruled by Latin into courts and towns, with their common tongues, the very conception of writing – who could write, what could be written, how texts should look, how they should be transmitted, who could have access to them – underwent radical transformations. Nancy’s work has reminded us time and again that while texts are crucial when we study</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.12</book-part-id>
+                  <title-group>
+                     <title>A Cultural Performance in Silk:</title>
+                     <subtitle>Sebelinne’s aumousniere in the Dit de l’Empereur Constant</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burns</surname>
+                           <given-names>E. Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>If all of Proust’s world comes out of a teacup, the world of Sebelinne, a little-known heroine in the Old French<italic>Dit de l’Empereur Constant</italic>, comes out of a silk purse. Indeed this thirteenth-century Byzantine romance about religious conversion and male dynastic succession actually turns on a small object fashioned from cloth: a richly decorated, heavily embroidered<italic>aumousniere</italic>.¹ Whether damask or velvet, decorated with silk or gold embroidery, Old French<italic>aumousnieres</italic>described in romance texts and trade accounts of the thirteenth century are fashioned typically from costly silk and hung from a belt, itself often made of rich silk fabric.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.13</book-part-id>
+                  <title-group>
+                     <title>Acting Like a Man:</title>
+                     <subtitle>Performing Gender in Tristan de Nanteuil</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Campbell</surname>
+                           <given-names>Kimberlee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>For scholars of the Middle Ages, the old<italic>French chanson de geste</italic>has traditionally served as the benchmark for one extreme of a continuum of representation, a genre expressing the distilled essence of the medieval masculine. This reading of the epic presumes a transparent equivalence of the masculine with the body and actions of the knight, constructing the “male” as a necessary element in an ideology of chivalric caste and power. Furthermore, this definition of the masculine is, in Simon Gaunt’s words, “monologic,” meaning that “in the<italic>chansons de geste</italic>male characters are defined as individuals in relation to other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.14</book-part-id>
+                  <title-group>
+                     <title>Amorous Performances:</title>
+                     <subtitle>The Aventure de l’espee vermeille in Perceforest</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Huot</surname>
+                           <given-names>Sylvia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>The vast fourteenth-century prose<italic>Roman de Perceforest</italic>, a fictional chronicle of pre-Arthurian Britain under Greek rule, offers a fascinating exposition of courtly ideologies.¹ In this essay I will examine a single episode, that of the<italic>Aventure de l’espee vermeille</italic>, which is played out in the course of Book V.² In this adventure, young knights are offered an easy sexual encounter with a beautiful young maiden, and given to believe that it is only through sexual “performance” that they can prove their manhood. As the adventure progresses, however, it becomes increasingly clear that this kind of sexual adventuring is actually antithetical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.15</book-part-id>
+                  <title-group>
+                     <title>Historicizing Performance:</title>
+                     <subtitle>The Case of the Jeu de Robin et Marion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Butterfield</surname>
+                           <given-names>Ardis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Adam de la Halle’s<italic>Jeu de Robin et Marion</italic>is a work that raises issues of performance in both unsubtle and subtle ways. It has gained archetypal status by being not only a rare example of pre-1300 vernacular and secular “theater,” but also apparently the only dramatized version of<italic>pastourelle</italic>and<italic>bergerie</italic>in the period. Less obviously, it stands out from the bulk of Adam’s works by having a possible connection with the Angevin court at Naples, a connection that has seemed hard to make with the rest of his more directly urban, Arrageois work. The courtly context of Naples</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.16</book-part-id>
+                  <title-group>
+                     <title>The Protean Performer:</title>
+                     <subtitle>Defining Minstrel Identity in Tristan Narratives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lawrence</surname>
+                           <given-names>Marilyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>In the midnight quiet of June 8, 2004, in her French Department office at New York University, Nancy Freeman Regalado and I celebrated her sixty-ninth birthday by sealing a Federal Express box containing the manuscript for<italic>Performing Medieval Narrative</italic>, the volume we had edited with Evelyn (Timmie) Birge Vitz. Fortified by Nancy’s favorite fig cookies, we wrapped up years of work on our book dedicated to the performance of medieval stories.¹ Work on this volume made me more keenly aware than ever before of the centrality of performance and the performer in medieval French culture.</p>
+                     <p>In this essay I examine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.17</book-part-id>
+                  <title-group>
+                     <title>Performing Vernacular Song in Monastic Culture:</title>
+                     <subtitle>The lectio divina in Gautier de Coinci’s Miracles de Nostre Dame</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Duys</surname>
+                           <given-names>Kathryn A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Gautier de Coinci cast his<italic>Miracles de Nostre Dame</italic>as a single long performance.¹ Most of his work calls for narrative recitation of miracle stories composed in octosyllabic rhymed couplets, while his songs, many of which are set to the melodies of the<italic>trouvères</italic>’ “greatest-hits,” call for minstrel-like singing.² These performance practices are easily recognizable from secular literary models, romances and love songs, and they are well suited to the recreational purpose of the<italic>Miracles de Nostre Dame</italic>. As I have argued elsewhere, Gautier explicitly designed his work as a spiritual literary recreation for monks, nuns, and pious laypersons to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.18</book-part-id>
+                  <title-group>
+                     <title>Performative Reading:</title>
+                     <subtitle>Experiencing through the Poet’s Body in Guillaume de Digulleville’s Pèlerinage de Jhesucrist</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clark</surname>
+                           <given-names>Robert L. A.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sheingorn</surname>
+                           <given-names>Pamela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>In the introduction to the ground-breaking collection of essays<italic>Performing Medieval Narrative</italic>, edited by Evelyn Birge Vitz, Nancy Freeman Regalado, and Marilyn Lawrence, the editors describe the focus of their book as “performance in its more interpersonal, dramatic, and physical dimensions (visual, auditory, musical).”¹ The contents indicate a clear adherence to that focus, with sections on medieval performers of narrative, oral performance of books, performability, and the experiences of performers who enact medieval works today. The editors nonetheless provocatively observe that, “Any way in which a narrative is actualized can be said to be a performance. In this sense, even</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.19</book-part-id>
+                  <title-group>
+                     <title>The Anglo-Norman Office of the Cross in the Lichtenthal Psalter</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sandler</surname>
+                           <given-names>Lucy Freeman</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>Among the finest illuminated manuscripts produced in England during the second half of the fourteenth century for the noble Bohun family is a psalter now at Lichtenthal Abbey in Baden-Baden. The volume was probably made for Mary, heiress of Humphrey de Bohun, earl of Hereford, Essex, and Northampton, shortly after her marriage to Henry of Bolingbroke (later Henry IV) in 1380/1 and certainly before her death in 1394 at the age of twenty-four. It is also probable that one of Mary’s daughters, Blanche, inherited the psalter and brought it with her to Germany when she married Ludwig, count-palatine of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.20</book-part-id>
+                  <title-group>
+                     <title>“Laver de ses pechiés une pecheresse royale”:</title>
+                     <subtitle>Psalm Collects in an Early Fourteenth-Century Devotional Book</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Elizabeth A. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>The New York Public Library’s manuscript Spencer 56 is a strikingly unusual devotional compilation.¹ I have worked on the volume for a decade, aided and encouraged by a host of colleagues, all of them admirers of Nancy Regalado and her work. I offer this preliminary consideration of one of its many facets as a tribute to Nancy from us all.</p>
+                     <p>Spencer 56 is a small, elegant volume, prepared with meticulous care. Its parchment is thin, smoothly scraped, and virtually flawless; the script is precise, clear, and legible; the text is copied with few abbreviations; the decoration is simple, restrained, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.21</book-part-id>
+                  <title-group>
+                     <title>Dramatic Troubles of Ecclesia:</title>
+                     <subtitle>Gendered Performances of the Divided Church</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blumenfeld-Kosinski</surname>
+                           <given-names>Renate</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>The relationship between the Church and medieval theater was fruitful and complex but it was also contested. Was the medieval Church a facilitator of, or an impediment to, the development of the theatrical form? How, for example, can one define the relationship between the dramatic elements of the liturgy and religious theater? Long ago Karl Young studied the drama of the medieval Church and its relation to the liturgy and posited rather rigid boundaries between the two.¹ For him, any text that does not clearly indicate that human actors impersonate or perform specific characters is not a play. But as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.22</book-part-id>
+                  <title-group>
+                     <title>Preaching the Sins of the Ladies:</title>
+                     <subtitle>Nicole Bozon’s “Char d’Orgueil”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Postlewate</surname>
+                           <given-names>Laurie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>An important strategy in the method of early Franciscan preachers and poets was to evoke understanding of vice and virtue through concrete and visible examples. In sermons and catechetical texts, Franciscans used stories and poetry full of lively images to describe sin and show it in action; in this way, the Friars Minor provided literary performance of the vices and virtues for the purpose of correcting the sins of lay society.¹ Indeed our understanding today of what “sinful” behavior was for medieval people is greatly enhanced by the depiction and enactment of specific vices in Franciscan literature. The works of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.23</book-part-id>
+                  <title-group>
+                     <title>Making Names, Breaking Lives:</title>
+                     <subtitle>Women and Injurious Language at the Court of Isabeau of Bavaria and Charles VI</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Solterer</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>In the murky climate of Paris 1413, on a Mayday when king Charles VI had gone mad, noble factions were killing each other off, and the city in revolt, the major chroniclers focused on one episode. Each narrated the arrest of women attending the queen, Isabeau of Bavaria.¹ Jean Le Fèvre’s account presents a menacing break-in (75–79). A crowd of commoners, led by butchers known as the Cabochiens, penetrated the<italic>Hôtel particulier</italic>of the dauphin demanding that he hand over all traitors in his residence. Next stop: the queen’s own Hôtel Saint-Pol where a roll-call of traitors was read</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.24</book-part-id>
+                  <title-group>
+                     <title>Performing the Nation:</title>
+                     <subtitle>The Play Performed at the Great Feast in Christine de Pizan’s Biography of Charles V</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Walters</surname>
+                           <given-names>Lori J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>This study examines Christine de Pizan’s description of the ceremonials surrounding the 1378 visit to Paris of Emperor Charles IV of Luxembourg.¹ These events figure in her 1404 biography of Charles V,<italic>Le Livre des fais et bonnes meurs du sage roy Charles V</italic>, hereafter referred to as<italic>Charles V</italic>.² The ceremonials included a short play put on for the Emperor by Charles V at the Great Feast held in his honor. In Christine’s version of the events, the play, which depicts French princes of the blood working together in a common Christian effort, can be considered to be a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.25</book-part-id>
+                  <title-group>
+                     <title>Variegated Performance of Aucassin et Nicolette</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vitz</surname>
+                           <given-names>Evelyn Birge</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>I happily dedicate this article to Nancy Freeman Regalado, a wonderful colleague. Her collaborative spirit 1 and collegiality, her warm friendship, and her wise counsel have meant a great deal to me in my years at New York University.</p>
+                     <p>The literary works that survive from the medieval period have come down to us in manuscripts. We are grateful for those manuscripts, as we are for the work of the scholars who edit and study them. But we also need to think beyond manuscripts, to the fact that few people in the Middle Ages actually read the words inscribed on those</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.26</book-part-id>
+                  <title-group>
+                     <title>Late Medieval Representations of Storytelling and Story-Performance</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Loysen</surname>
+                           <given-names>Kathleen A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>The decision to re-enact on the page a scene of oral storytelling is extraordinarily prevalent in late-medieval French literature, as it will continue to be throughout the sixteenth century. Texts such as the anonymous<italic>Cent nouvelles nouvelles</italic>(1462) and the anonymous<italic>Évangiles des quenouilles</italic>(ca. 1470–80)¹ experiment with the staging of oral storytelling in a range of ways, using embedded narratives, the structural device of the frame, and the depiction of storytelling circles. Scenes of oral storytelling are fertile ground for inquiry regarding late medieval practices of story transmission, especially the dynamic relation between performance and audience reception.²</p>
+                     <p>This</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.27</book-part-id>
+                  <title-group>
+                     <title>Paratextual Performances in the Early Parisian Book Trade:</title>
+                     <subtitle>Antoine Vérard’s Edition of Boccaccio’s Nobles et cleres dames (1493)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Cynthia J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>When Pierre Gringore had the first-known<italic>ordonnance</italic>protecting an author writing in French printed in the colophon of his<italic>Folles entreprises</italic>in December 1505, a new breed of writer was born.¹ Or rather, a new ground-breaking use was made of the paratext of printed books: the author was now featured in defiant fashion. Writers such as Gringore did not suddenly develop a consciousness about the place of prominence they deserved on the literary stage, however. New bookpublishing strategies resulting from the advent of print, in particular innovative paratextual “performances” orchestrated by a bold new class of printers and publishers, played</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.28</book-part-id>
+                  <title-group>
+                     <title>“Resuscitating” Medieval Literature in New York and Paris:</title>
+                     <subtitle>La femme que Nostre-Dame garda d’estre arse at Yvette Guilbert’s School of Theatre, 1919–24</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Emery</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>From 1919 to 1924, a small troupe of women toured America and Europe, enthralling audiences with their performances of medieval theater and song (Fig. 1). Spectators described them as an illuminated manuscript brought to life: “enchanting,” “naïve,” and resurrecting “these Middle Ages whose productivity we have so unjustly neglected.”¹ The program featured<italic>Guibour ou La femme que Nostre-Dame garda d’estre arse</italic>, from the fourteenth-century<italic>Miracles de Nostre-Dame par personnages</italic>, followed by a selection of songs by composers such as Thibaut de Champagne, Adam de la Halle, and Guillaume de Machaut, or by<italic>chansons de toile</italic>,<italic>estampies</italic>, drinking songs, and liturgical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.29</book-part-id>
+                  <title-group>
+                     <title>The Pitfalls and Promise of Classroom Performance</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bruckner</surname>
+                           <given-names>Matilda Tomaryn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>A desire to bring together medieval French literature and performance has twice led me to teach a course focused on the city of Arras through its geography, history, and literary expression. The course’s interdisciplinary structure and multiple aims are briefly outlined in the description:</p>
+                     <p>During the medieval period, Arras was a major commercial and cultural center in northern France. This course explores the complex world of Arras by highlighting two of its major authors, Adam de la Halle and Jean Bodel, whose works run the gamut of literary forms practiced from the late twelfth through the thirteenth century: from epic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.30</book-part-id>
+                  <title-group>
+                     <title>« Dunc chante haut et cler »:</title>
+                     <subtitle>remarques sur l’interprétation de la musique médiévale</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Azéma</surname>
+                           <given-names>Anne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>289</fpage>
+                  <abstract>
+                     <p>Nous trouvons fréquemment dans les récits médiévaux, textes poétiques et lais des mentions de « voix » , de « chant ».¹ Les descriptions de composition et d’interprétation, les mentions d’écriture et d’enseignement musical y abondent. Il m’a semblé intéressant d’examiner ces concepts littéraires ou métaphoriques de la vie musicale et de l’utilisation de la voix en vue de leur utilité pour les interprètes d’aujourd’hui. Quels enseignements pouvons-nous – interprètes du répertoire médiéval séculier, lyrique et narratif – tirer de telles descriptions ?</p>
+                     <p>Il convient de prime abord de rappeler que nos conventions actuelles concernant la création, la transmission et l’interprétation musicales</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.31</book-part-id>
+                  <title-group>
+                     <title>Tabula Gratulatoria</title>
+                  </title-group>
+                  <fpage>301</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt169wfdd.32</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

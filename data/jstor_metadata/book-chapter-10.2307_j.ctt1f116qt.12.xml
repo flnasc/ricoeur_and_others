@@ -1,0 +1,588 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1f116qt</book-id>
+      <subj-group>
+         <subject content-type="call-number">HD69.P75C42 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Gestion de projet</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Projets de développement économique</subject>
+         <subj-group>
+            <subject content-type="lcsh">Gestion</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Changement structurel (Économie)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Management &amp; Organizational Behavior</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Changement et grands projets</book-title>
+         <subtitle>Des choix engagés</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">SOUS LA DIRECTION DE</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>LEHMANN</surname>
+               <given-names>VALÉRIE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>MOTULSKY</surname>
+               <given-names>BERNARD</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>COLOMB</surname>
+               <given-names>VALÉRIE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>08</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760542952</isbn>
+      <isbn content-type="epub">9782760542969</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+         <publisher-loc>Québec</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Presses de l’Université du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1f116qt"/>
+      <abstract abstract-type="short">
+         <p>Qu’ils soient urbains, technologiques, environnementaux, sociaux, territoriaux, éducatifs, touristiques ou miniers, les grands projets produisent, portent, apportent, accompagnent ou subissent de nombreux changements. En réunissant des textes qui juxtaposent et entremêlent gestion de projet, sciences politiques, management, urbanisme, communication, tourisme, technologies de l’information, sciences de la Terre, gestion des connaissances et ingénierie, cet ouvrage propose un panorama de ces changements. Chercheurs et praticiens, tous passionnés par les défis de changement que représente la nouvelle ère de l’économie des idées, qui viendrait déjà, si vite, remplacer celle de l’économie du savoir, ont fait le choix d’investiguer, d’analyser et d’expliciter en quoi les grands projets sont synonymes de changements, comment les grands changements environnementaux, technologiques et sociaux frappent les grands projets ou encore quelles pratiques de gestion de projet ont changé sur le terrain. La première partie du livre aborde les changements d’environnements et leurs implications pour les grands projets ; la deuxième partie traite des changements de pratiques et de métiers pour les grands projets ; la troisième partie concerne les changements de perspectives théoriques ou intuitives ; la quatrième partie illustre les complexités inattendues ou indomptables que représentent les grands projets de changement. L’ensemble des textes invite à imaginer l’être-ensemble et le vivre-ensemble de demain, que l’on soit ici ou là, leader politique ou étudiant, urbain ou rural, gestionnaire ou consultant.</p>
+      </abstract>
+      <counts>
+         <page-count count="270"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.3</book-part-id>
+                  <title-group>
+                     <title>LISTE DES FIGURES ET DES TABLEAUX</title>
+                  </title-group>
+                  <fpage>XV</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.4</book-part-id>
+                  <title-group>
+                     <title>AVANT-PROPOS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lehmann</surname>
+                           <given-names>Valérie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Motulsky</surname>
+                           <given-names>Bernard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Colomb</surname>
+                           <given-names>Valérie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>XVII</fpage>
+                  <abstract>
+                     <p>Le livre<italic>Changement et grands projets: des choix engagés</italic>fait suite à une dizaine d’échanges et de déplacements entre la France et le Québec. Ont ainsi participé à cet ouvrage collectif des chercheurs et des praticiens venus de divers horizons, tous passionnés par les défis de changement que représente la nouvelle ère de l’économie des idées, qui viendrait déjà, si vite, remplacer celle de l’économie du savoir.</p>
+                     <p>Par leurs écrits qui juxtaposent et entremêlent gestion de projet, sciences politiques, management, urbanisme, communication, tourisme, technologies de l’information, sciences de la Terre, gestion des connaissances et ingénierie, les auteurs entendent proposer un</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.5</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 1</label>
+                     <title>LES DÉFIS DES GRANDS PROJETS ÉCONOMIQUES FACE AUX CHANGEMENTS CLIMATIQUES:</title>
+                     <subtitle>Savoirs, résilience, adaptabilité et accompagnement</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOURQUE</surname>
+                           <given-names>ALAIN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEBRABANDÈRE</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BLEAU</surname>
+                           <given-names>NATHALIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LARRIVÉE</surname>
+                           <given-names>CAROLINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>La population de la planète est passée de 1,8 à 7,16 milliards de personnes entre 1914 et 2014, et les projections de croissance anticipent qu’elle dépassera les 9 milliards d’ici 2050. Cette progression se poursuit, même dans la majorité des pays développés, qui compensent la diminution des taux de natalité par une immigration accrue provenant de pays à plus forte croissance.</p>
+                     <p>Sur le plan économique, la croissance continue notamment par la poursuite des innovations dans les pays développés et par un impressionnant rattrapage de plusieurs pays émergents. Pour ces derniers, ce rattrapage économique se produit généralement grâce à un accès</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.6</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 2</label>
+                     <title>LA GOUVERNANCE DES GRANDS PROJETS TOURISTIQUES ET LEUR ÉVOLUTION:</title>
+                     <subtitle>Amorce et produit du changement</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FILLOZ</surname>
+                           <given-names>VALIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>La réflexion qui suit porte sur la question de la gouvernance et des éléments de régulation qui se déploient aujourd’hui dans les territoires touristiques, notamment au travers des grands projets de stations¹ et de villes² touristiques. Ces destinations ont historiquement été associées à une économie de rente. C’est un modèle économique fondé sur le service. Par l’entremise de l’Association nationale des élus des territoires touristiques (ANETT), certaines stations touristiques classées et communes touristiques se revendiquent ainsi:</p>
+                     <p>Le développement du tourisme entraîne une responsabilité très lourde des collectivités. Ces dernières réalisent ou stimulent l’équipement, favorisent l’animation, organisent l’accueil et la promotion</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.7</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 3</label>
+                     <title>LE PROCESSUS DE DÉCOUVERTE DES GRANDS PROJETS MINIERS:</title>
+                     <subtitle>Le passage du modèle focalisé des espaces vierges au modèle ponctué des pays miniers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOUKACHABIA</surname>
+                           <given-names>MYRIAM</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JÉBRAK</surname>
+                           <given-names>MICHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>Les augmentations conjointes de la population mondiale et de la consommation individuelle constituent parmi les défis les plus importants de notre planète. Cette conjonction produit une croissance exponentielle de la demande en ressources minérales non renouvelables : ainsi, la consommation de fer et de cuivre a doublé en 30 ans ! La taille des projets a explosé : certaines mines exploitent aujourd’hui en une journée ce qui constituait la production annuelle d’une mine moyenne il y a encore 20 ans. Cette tendance va se maintenir sans aucun doute jusqu’à la fin du XXI<sup>e</sup>siècle, car elle résulte, d’une part, de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 4</label>
+                     <title>CHANGEMENT DE VOIE EN GESTION DES GRANDS PROJETS:</title>
+                     <subtitle>L’approche par la connaissance distribuée et la co-innovation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEHMANN</surname>
+                           <given-names>VALÉRIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRANGIONI</surname>
+                           <given-names>MARINA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUBÉ</surname>
+                           <given-names>PATRICK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>En introduction de son livre<italic>Le projet du projet, concevoir la ville contemporaine</italic>, paru en 2014, Terrin mentionne que « tout doit effectivement changer, la gouvernance, les comportements, les techniques, les processus de conception » ; cependant, dit-il, c’est à la condition que « l’essentiel ne change pas » , soit ici les acquis de la démocratie et entre autres choses une qualité et un confort de vie. Et Terrin de se poser la question : « Comment résoudre cette quadrature du cercle ? » Si tout le présent ouvrage collectif se veut une démonstration que de tels changements sont</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 5</label>
+                     <title>LE CHANGEMENT DANS L’ACTION:</title>
+                     <subtitle>L’usage d’objets frontières en impression 3D pour fédérer les acteurs d’un grand projet</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROUSSEAU</surname>
+                           <given-names>FRÉDÉRIC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Vingt-cinq années d’expérience en qualité de maître d’ouvrage m’ont offert l’occasion de gérer la réalisation de grands projets d’infrastructures français comme la construction de deux cents kilomètres d’autoroutes nouvelles en milieu rural, l’achèvement du « Duplex A86 » , soit dix kilomètres de tunnel sur deux étages en région parisienne, ou encore la modernisation d’autoroutes en circulation. Mes responsabilités m’ont ainsi amené à conduire les étapes clés d’un grand projet, depuis l’étude jusqu’à la mise en service, en passant par la communication avec les parties prenantes concernées par le futur aménagement : élus, riverains, État, associations.</p>
+                     <p>Au début de ma</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 6</label>
+                     <title>QUAND L’INNOVATION PAR LE NUMÉRIQUE VIENT RÉVEILLER LES RESSOURCES DORMANTES:</title>
+                     <subtitle>Des grands projets qui déstabilisent les institutions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MATHIEU</surname>
+                           <given-names>JEAN-PASCAL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Professionnel des médias interactifs depuis l’apparition des premiers cédéroms grand public il y a un peu plus de 20 ans, j’anime l’innovation dans une société de conception et de réalisation de produits et services numériques : sites Web, applications mobiles et objets connectés. J’ai assisté à l’émergence du numérique moderne avec la connectivité des ordinateurs personnels.</p>
+                     <p>Mais que de changements depuis l’avènement des nouvelles technologies! Tout<italic>grand projet</italic>est désormais à portée de doigts d’une génération Internet enthousiaste. Ce qui est en train de se passer sous nos yeux, c’est la montée en puissance d’offres soutenues par la technologie des</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 7</label>
+                     <title>L’APPROPRIATION, FONDEMENT DU GRAND PROJET ET DU CHANGEMENT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERNOUX</surname>
+                           <given-names>PHILIPPE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Depuis quelques années, l’usage du terme « appropriation » et le recours à ce concept se multiplient. Cette notion a pourtant ses lettres d’ancienneté : si les Grecs parlaient déjà de<italic>l’oikeiosi</italic>¹, plus près de nous, Marx l’utilise au sens philosophique, définissant le communisme comme « appropriation réelle de l’essence humaine par l’homme » (<italic>wesen</italic>). Il le fait aussi dans une perspective économique (le terme employé est alors<italic>aneignung</italic>), opposant l’appropriation collective à l’appropriation privée des moyens de production. Dans les deux cas, il faut retenir que l’appropriation est une composante essentielle de l’être humain, sa privation entraînant une mutilation.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 8</label>
+                     <title>LE MÉTARÉCIT ENVIRONNEMENTAL:</title>
+                     <subtitle>Un concept pour comprendre le changement à travers les grands projets de nos sociétés</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JALENQUES-VIGOUROUX</surname>
+                           <given-names>BÉATRICE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>À quel point la pensée écologique est-elle porteuse de changements ? Comment ceux-ci se dessinent-ils ? L’intérêt du concept de métarécit environnemental réside dans le fait de parvenir à penser ce changement en s’interrogeant sur le sens de ce changement, ce qui est rendu possible dans le cadre conceptuel spécifique de la narratologie. Nous présenterons ici quelques aspects d’une étude des discours émanant de diverses organisations travaillant sur de grands projets, et nous tenterons de montrer comment ils participent à la construction cohérente d’un métarécit. Nous examinerons alors un grand projet en particulier concernant la réhabilitation énergétique de logements sociaux¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 9</label>
+                     <title>DIX ANS DE CONTRATS DE PARTENARIAT POUR LES GRANDS PROJETS EN FRANCE:</title>
+                     <subtitle>Une certaine idée du changement</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>COLOMB</surname>
+                           <given-names>VALÉRIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAMOUS</surname>
+                           <given-names>DAVID-ANDRÉ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Dans le droit français, les contrats de partenariat, qui sont monnaie courante dans le cas des grands projets engageant des partenaires publics et privés, sont apparus en 2004 dans une jungle juridique aussi prolifique qu’incertaine. Ces nouveaux instruments se sont insérés entre les marchés publics et les délégations de service public aux côtés de différents contrats domaniaux. Pourquoi un nouvel outil ?</p>
+                     <p>Quel changement sous-tend-il ? Ce chapitre a pour ambition d’interroger les représentations dans le débat médiatique de l’idée du changement induit par le contrat de partenariat (CP), alors que nos sociétés contemporaines font face à de multiples crises.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.14</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 10</label>
+                     <title>CHANGER LES OPINIONS ET LES COMPORTEMENTS DANS UN MONDE QUI CHANGE:</title>
+                     <subtitle>Assurer la survie d’un grand projet aujourd’hui</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOTULSKY</surname>
+                           <given-names>BERNARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>Un projet, c’est d’abord une intention, une idée que l’on projette vers l’avenir. Et, pour le concevoir et le mettre en oeuvre, il faut la collaboration, l’accord ou au moins l’assentiment tacite de toutes les personnes qui, de près ou de loin, vont être affectées, concernées, touchées, intéressées par ce projet (les parties prenantes). La communication, telle qu’on l’entend ici, c’est l’art de connaître d’abord les perceptions, les attitudes et les comportements de toutes ces personnes pour ensuite les influencer, au moyen d’outils de diffusion de l’information. Il est donc uniquement question de transfert d’information entre tous ceux qui ont</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.15</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 11</label>
+                     <title>DÉCHIFFRER LES SAVOIRS DES ACTEURS LOCAUX ET CRÉER LA COLLABORATION ENTRE LES PARTIES PRENANTES:</title>
+                     <subtitle>Des facilitateurs pour un grand projet de changement territorial en emplois et compétences</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GADILLE</surname>
+                           <given-names>MARTINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAUJARD</surname>
+                           <given-names>FRANÇOIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>Si la gestion d’un projet territorial s’appuie sur les principes de la méthodologie de projets intraorganisationnelle, elle s’en distingue également du fait de variables comme la multiplicité et de la variété des acteurs locaux et des structures territoriales. Un territoire est un espace répondant à un « code profond » ; par analogie au structurel défini par Giddens (1991), il se situe « hors du temps et de l’espace », il est à l’origine de « traces mnésiques grâce auxquelles les agents compétents orientent leurs conduites ». Un espace représenté ou imaginé, nos sens, notre mémoire (des schèmes mémorisés) et</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.16</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 12</label>
+                     <title>NOUVEAUX BESOINS D’AFFAIRES, PROJETS DE CHANGEMENT ET COMPLEXITÉS:</title>
+                     <subtitle>Le cas d’une banque canadienne</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GÉNÉREUX</surname>
+                           <given-names>NATHALIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RENARD</surname>
+                           <given-names>LAURENT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>Changement se conjugue avec grand projet<italic>aussi</italic>lorsque que grand projet est synonyme de changement. Dans ce texte est présenté le cas d’une organisation du secteur bancaire canadien vivant un changement de grande envergure : celui de ses systèmes d’information patrimoniaux. Ce projet majeur est rendu nécessaire pour répondre à de nouveaux besoins d’affaires qui ne peuvent pas ou peuvent difficilement être pris en compte par les systèmes d’information patrimoniaux en place. Dans ce cas précis, ce projet peut être qualifié de projet complexe, car il comporte de nombreuses incertitudes, entre autres en matière d’objectifs stratégiques, c’est-à-dire en ce qui</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.17</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 13</label>
+                     <title>LA MISE EN ACTION DES TECHNOLOGIES POUR L’ÉDUCATION:</title>
+                     <subtitle>Un grand projet de politique publique de modernisation et de professionnalisation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BESSIÈRES</surname>
+                           <given-names>DOMINIQUE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>Aujourd’hui, les équipements en ordinateurs et en réseaux haut débit sont bien installés dans la plupart des établissements d’enseignement français. Le temps est venu d’une perspective plus critique sur les conditions de développement des instrumentations pédagogiques, de dévoilement des processus de changement et d’appropriation, en lien avec les contextes organisationnels et étatiques, professionnels et managériaux.</p>
+                     <p>Notre intérêt se porte sur les conditions d’usage de ces technologies et en particulier aux conditions d’usage liées aux technologies de l’information et de la communication pour l’éducation (TICE). Nous nous intéressons aussi à leur diffusion et à l’adhésion à une modernisation du travail en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.18</book-part-id>
+                  <title-group>
+                     <title>NOTICES BIOGRAPHIQUES</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116qt.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>248</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

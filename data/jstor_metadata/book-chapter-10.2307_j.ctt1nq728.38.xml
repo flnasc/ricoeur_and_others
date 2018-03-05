@@ -1,0 +1,937 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1nq728</book-id>
+      <subj-group>
+         <subject content-type="call-number">BF175.4.C84 W462000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Psychoanalysis and culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Freud, Sigmund, 1856–1939</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Psychology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Whose Freud?</book-title>
+         <subtitle>The Place of Psychoanalysis in Contemporary Culture</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Brooks</surname>
+               <given-names>Peter</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Woloch</surname>
+               <given-names>Alex</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>11</day>
+         <month>07</month>
+         <year>2000</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300081169</isbn>
+      <isbn content-type="ppub">0300081162</isbn>
+      <isbn content-type="epub">9780300127836</isbn>
+      <isbn content-type="epub">0300127839</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>New Haven; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Yale University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1nq728"/>
+      <abstract abstract-type="short">
+         <p>One hundred years after the publication of<italic>The Interpretation of Dreams,</italic>Freud remains the most frequently cited author of our culture-and one of the most controversial. To some he is the presiding genius of modernity, to others the author of its symptomatic illnesses. The current position of psychoanalysis is very much at issue. Is it still valid as a theory of the mind? Have its therapeutic applications been rendered obsolete by drugs? Why does it still figure in debates about sexual identity, despite its rejection by many feminists? How does it contribute to cultural analysis?This book offers a new assessment of the status of psychoanalysis as a discipline and a discourse in contemporary culture. It brings together an exceptional group of theorists and practitioners, such partisans and critics of Freud as Frederic Crews, Judith Butler, Leo Bersani, Juliet Mitchell, Robert Jay Lifton, Richard Wollheim, Jonathan Lear, and others.These contributors, who are active in literature, philosophy, film, history, cultural studies, neuroscience, psychotherapy, and other disciplines, debate how psychoanalysis has enriched-and been enriched by-these fields.</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brooks</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>It was ninety-one years ago—in May 1909—that what Ernest Jones calls an “important Congress” of psychiatrists met in New Haven, Connecticut, to listen to talks by himself and James J. Putnam, professor of neurology at Harvard University. “Putnam and I read papers that provoked much discussion,” Jones reports. The purpose of this “New Haven Congress” was to prepare for the American visit of Dr. Sigmund Freud. Freud himself arrived in September, accompanied by Carl Jung and Sandor Ferenczi, was met in New York by Jones and A. A. Brill, traveled by boat to New Haven, then on to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Our first topic is marked by an immediate and noticeable split. Does the title refer to discontents generated<italic>within</italic>psychoanalysis or discontent with the psychoanalytic enterprise itself? The section begins oddly—with Frederick Crews’s proleptic rebuttal of the arguments he assumes will follow. Alone among the essayists Crews wants to consider not<italic>what</italic>place psychoanalysis has in contemporary culture but<italic>whether</italic>it should even have a place. Because his perspective leads him to reject the premises of the volume, he shrewdly uses the essays themselves as examples of the circular reasoning and methodological flaws he considers inherent to psychoanalysis. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.6</book-part-id>
+                  <title-group>
+                     <title>Unconscious Deeps and Empirical Shallows</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Crews</surname>
+                           <given-names>Frederick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>When I was invited to participate in the symposium whose proceedings are recalled in this book, I accepted with alacrity. Here, I thought, lay the makings of a lively and fruitful debate not merely about<italic>what</italic>role psychoanalysis plays in “contemporary culture” but also about<italic>whether it deserves</italic>to play such a role. If, as I believe, Freudian ideas tell us nothing that is empirically warrantable about the mind but much about the pitfalls of question-begging discourse, then presumably the application of those same ideas to cultural problems will itself run the risk of overconfidence and even circularity. Some panelists,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.7</book-part-id>
+                  <title-group>
+                     <title>Psychoanalysis and Its Discontents</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Michels</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>Many people are discontented with psychoanalysis. Four broad groups have made their discontents widely known—philosophers and scientists; psychiatrists; patients; and practicing psychoanalysts—and I shall explore those discontents here.</p>
+                     <p>Let us start with philosophers and scientists. One of the most articulate, and noisiest, attacks from this group comes from Adolf Grünbaum and is largely reflected in Frederick Crews’s essay in this volume. Both men seem to believe that they are challenging the methodology that is at the core of psychoanalytic thinking. Along with the vast majority of psychoanalysts, however, I find that their ideas don’t have much relevance to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.8</book-part-id>
+                  <title-group>
+                     <title>Quandaries of the Incest Taboo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Butler</surname>
+                           <given-names>Judith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>I would like to address two issues that have not only caused some discontent for psychoanalysis, but that seem to emerge internal to psychoanalysis as its own proper sphere of discontent: incest and normative kinship. They are related, most prominently through the incest taboo: what it forecloses on one hand, what it inaugurates and legitimates on the other. I would like to make two separate remarks about incest and kinship. The first concerns contemporary debates on incest and how, and whether, incest can be conceptualized; the second concerns the relation between the prohibition against incest and the institution of normative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.9</book-part-id>
+                  <title-group>
+                     <title>The Vortex Beneath the Story</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mitchell</surname>
+                           <given-names>Juliet</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>The widespread diffusion of psychoanalysis into myriad therapies coincides with the relative weakening of its own center as a clinical practice and theory that emanates therefrom. Psychoanalysis is a discipline that demands the hard work of fifty minutes of daily free association from the patient and the suspension of consciousness from the analyst in order to listen to unconscious effects that, despite all their differences, somewhere as humans (as analyst and analysand) they share.</p>
+                     <p>It would be to trivialize the problem, however, simply to suggest that the current discontents of psychoanalysis are due to its misuse and the consequent misunderstandings,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.10</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>Judith Butler: I have just a couple of comments. I was interested in my colleague Frederick Crews’s remarks, and I appreciate his bravery in coming here and letting us know his views. I suppose I’m just going to take up the position of the adversary of a certain kind—and I hope of a friendly kind. I thought it might be useful—my Freud–your Freud, you know—to make a distinction between questions about Freud the man: was he a person of character? did he lie? did he cover up? did he not? was he doing the best he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.11</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>The four essayists here come from and work between many disciplines, bridging psychoanalysis with literary interpretation, art criticism, history, and feminist theory. The eclecticism of the group stems from the eclectic texture of Freud’s writing: while always maintaining a base in medical science and therapeutic technique, Freud’s work comes to include an array of essays in interpretation and several monumental theories of history and culture. This part of the volume investigates the relation between the techniques of psychoanalysis as a medical therapy and the application of psychoanalysis as a mode of cultural interpretation, considering questions raised by the unique way</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.12</book-part-id>
+                  <title-group>
+                     <title>Is Anatomy Destiny?</title>
+                     <subtitle>Freud and Biological Determinism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Moi</surname>
+                           <given-names>Toril</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>This volume invites us to consider the place of psychoanalysis in contemporary culture. In modern feminism debates pitting cultural against biological causation have played an important role. Such debates have also arisen in relation to research in biotechnology, neurobiology, sociobiology, and ethnomethodology. I think it could be shown that Freud thinks of the body in terms that undermine the opposition between natural causation and cultural meanings that have been with us since Kant first distinguished between the realms of necessity and freedom. If this is right, then Freud does have a philosophically original contribution to make to contemporary debates about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.13</book-part-id>
+                  <title-group>
+                     <title>Bridging the Gap Between Two Scenes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Damisch</surname>
+                           <given-names>Hubert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>Several years ago I participated in a colloquium on the uses of psychoanalysis and Freudian models at the Hospital of La Salpêtrière in Paris: the place where Freud attended the neurologist Jean-Martin Charcot’s lessons in 1885–86.¹ I lectured on what I called “The Image in the Picture,” speaking about Freud’s comments in the<italic>Studies on Hysteria</italic>on how, during the cure, images would return to the patient’s mind through the process of description and, by the same token, soon disappear, as if they had been talked away. An interesting problem, and a puzzling one, for the historian of art:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.14</book-part-id>
+                  <title-group>
+                     <title>Psychoanalysis as a Hermeneutic Science</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Loewenberg</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>96</fpage>
+                  <abstract>
+                     <p>Freud pioneered modes of comprehending life and texts on several levels at once. He was a pioneer in demonstrating that the linguistic signs of which a text is composed carry complex webs of associations to the contexts from which they emerged, thus communicating multiple and hidden significations to different listeners and readers. Freud was much more than a natural scientist—he always wished to be, and was, also a humanist.¹ In his “Autobiographical Study” Freud recalled that neither in his youth, “nor indeed in my later life, did I feel any particular predilection for the career of a doctor. I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.15</book-part-id>
+                  <title-group>
+                     <title>The Pain in the Patient’s Knee</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jacobus</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>What is the place of a psychoanalysis that exists “between” therapy (considered both as a theory and a practice, but also as a theory<italic>of</italic>practice) and hermeneutics, or the theory of interpretation and understanding? How do we understand “understanding” itself, considered as a mental process involving both analyst and analysand? I want to approach these questions by way of the writing of the British post-Kleinian psychoanalyst Wilfred Bion (1897–1979) . Bion is best known outside psychoanalytic circles as a proponent of the leaderless group and as a theorist of group process.¹ But his collected theoretical and clinical oeuvre</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.16</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>Esther de Costa Meyer, Moderator: Professor Loewenberg, you were talking about Robert Jan van Pelt, who was the first architectural historian to work on Auschwitz seriously. It struck me that the first man to publish the fact that Bauhaus architects were involved in the actual building of the concentration camps was in fact a negationist. It was Jean-Claude Pressac: a man who went to Auschwitz for other purposes, and there discovered all these boxes of documents, and in this aboutface—which in itself calls out for psychoanalytic interpretation—then turns around, has this conversion, and begins to publish all this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.17</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>This section considers the role of psychoanalysis in posing the question of sexual identity: a question crucial to psychoanalysis, but also one in which Freud’s own views have been most open to attack. Paul Robinson, an intellectual historian, begins by showing how an ambivalent or vacillating perspective toward homosexuality—within Freud’s own work—generates various perspectives on sexual desire and social norms in twentieth-century psychoanalytic thought. On one hand, as Robinson claims, “no one has done more to destabilize the notion of heterosexuality than Freud.” For Freud, the “homosexual object choice” is present in<italic>all</italic>individuals’ psychic development; it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.18</book-part-id>
+                  <title-group>
+                     <title>Freud and Homosexuality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Robinson</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>My topic here is, to state it in a necessarily crude and abbreviated fashion, the question, “Has Freud been good or bad for homosexuals?” The question is worth asking because a number of scholarly writings in the 1990s represented Freud as among the foremost inventors of modern homophobia—just as, a quarter of a century earlier, Kate Millett represented him as the forefather of modern misogyny. I am thinking of books like Jonathan Ned Katz’s<italic>Invention of Heterosexuality</italic>(1995) or Daniel Boyarin’s<italic>Unheroic Conduct</italic>(1997), in which Freud appears as a chief architect of the modern medical category of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.19</book-part-id>
+                  <title-group>
+                     <title>The Language of Care</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Silverman</surname>
+                           <given-names>Kaja</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>It is often assumed that the primary function of the Oedipus complex is social normalization. I am no longer as certain as I once was that this is an adequate account of the Oedipus complex. It now seems to me that the primary function of this complex is to satisfy an irreducible<italic>structural</italic>imperative, albeit in a variable form. This imperative is not so much, as Claude Lévi-Strauss has argued, to facilitate exchange between families; it is to induct the subject into the speaking of his or her language of desire. It is an imperative because without it there can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.20</book-part-id>
+                  <title-group>
+                     <title>Speaking Psychoanalysis</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bersani</surname>
+                           <given-names>Leo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>What exactly is psychoanalytic thought, and how might answering this question help us to define what might be called the psychoanalytically constituted subject? One of the most curious aspects of<italic>Civilization and Its Discontents</italic>is Freud’s reiterated self-reproach to the effect that he is not speaking psychoanalytically. The work was written in 1929, late in Freud’s career, so it’s not as if he hadn’t had time to develop a distinctively psychoanalytic language. You would think that by now Freud would be “speaking psychoanalysis” fluently. But the complaints start in Chapter 3, where he laments that “so far we have discovered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.21</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>Paul Robinson: I have a question for Kaja Silverman. I was struck, unless I misunderstood, by the fact that she and Judith Butler [see Part I] were saying very similar things about what I would call “denaturalizing” the family. They both suggest that “mother” and “father” are culturally contingent categories and that we should be open to other ways of thinking beside the traditional, biological one that we have in the West, which I find a very attractive idea. I’m wondering whether Professor Silverman thinks Freud himself is open to this kind of culturally relative or culturally contingent way of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.22</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>Near the beginning of his essay Robert Jay Lifton argues: “Without psychoanalysis, we don’t have a psychology worthy of address to history and society or culture. But at the same time, if we employ psychoanalysis in its most pristine state, its most traditional form, we run the risk of eliminating history in the name of studying it.” The eclectic essays in this part all point to both the “worth” and the “risk” of a psychoanalytically inflected historiography. Such an enterprise can move toward one of two extremes. On one hand, “psychohistory” has sometimes devolved into the simplified analysis of historically</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.23</book-part-id>
+                  <title-group>
+                     <title>Reflections on Trauma, Absence, and Loss</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LaCapra</surname>
+                           <given-names>Dominick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>In this essay, I shall touch upon what I consider to be some of the most difficult and controversial problems at the intersection of history and theory. In the interest of opening up certain questions to further analysis and discussion, I shall at times make assertions that should be taken as contestable. My metahistorical and philosophical—at times even speculative—objective is to raise and explore certain crucial problems in tentative terms that may stimulate inquiry into insufficiently investigated relations.</p>
+                     <p>To begin, problematic distinctions are not binaries and should be understood as having varying degrees of strength or weakness. Yet</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.24</book-part-id>
+                  <title-group>
+                     <title>States of Emergency:</title>
+                     <subtitle>Toward a Freudian Historiography of Modernity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Santner</surname>
+                           <given-names>Eric L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>In my most recent book, which focused on the case of Daniel Paul Schreber, made famous by Freud’s 1911 study of Judge Schreber’s<italic>Memoirs,</italic>I argued that one area where psychoanalytic thought can deepen our understanding of modernity concerns the processes and procedures of symbolic investiture.¹ By symbolic investiture I mean those social acts, often involving a ritualized transferal of a title and mandate, whereby an individual is endowed with a new social status and role within a shared linguistic universe. It’s how one comes into being as, comes to enjoy the predicate of, husband, professor, judge, psychoanalyst, and so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.25</book-part-id>
+                  <title-group>
+                     <title>Early Modern Subjectivity and the Place of Psychoanalysis in Cultural Analysis:</title>
+                     <subtitle>The Case of Richard Norwood</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Skura</surname>
+                           <given-names>Meredith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>For more than three hundred years Richard Norwood (1590–1670) was known to historians primarily through his public roles as navigator, inventor of the diving bell, and surveyor of Bermuda. The publication of his journal in 1945, however, promised scholars a rare opportunity for learning about the relation between public roles and private life in the seventeenth century. The trouble is that Norwood’s journal is different from the confessional memoirs familiar from today’s bestseller lists. It concerns itself primarily with external events and spiritual development, and like other early autobiographical texts, it remains stubbornly reticent about feelings and fantasies—so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.26</book-part-id>
+                  <title-group>
+                     <title>Whose Psychohistory?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lifton</surname>
+                           <given-names>Robert Jay</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>In this essay I wish to discuss my work not as applied psychoanalysis—that term still has some of the aura of early psychoanalytic imperialism, Freud’s talk about “conquering” various spheres of thought—but rather in connection with psychoanalysis as its source. My work in psychohistorical areas begins with psychoanalytic influence, and never loses that influence, but it does evolve in its own way in certain additional directions. There is a real paradox here, important to keep in mind particularly in historical and cultural studies: without psychoanalysis, we don’t have a psychology worthy of address to history and society or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.27</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>Eric Santner: I’d like to ask Dominick LaCapra a couple of questions, really for clarification. I’m very taken by this effort to distinguish structural trauma from historical trauma or episodic, contingent trauma, and to distinguish absence or gap from loss. I was wondering if you think that this comes down to the problem of establishing what the object of anxiety is? That is, anxiety at some level is that something has gone missing. Well, what’s gone missing? Well, nothing has gone missing. We don’t know. Yet there’s something objectlike which seems to have gone missing. And part of what might</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.28</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>This section continues to emphasize the fruitfulness of psychoanalysis’s methodological<italic>dis</italic>placement, its position betwixt and between other disciplines. All four contributors—coming from a spectrum of different medical and scientific backgrounds—are interested in the potential interaction,<italic>across differences,</italic>between psychoanalysis and cognitive science. Morton Reiser thus carefully distinguishes between conflating these two disciplines and finding productive parallels, or isomorphisms, between the two.</p>
+                     <p>Reiser gives the first example of such an isomorphism, focusing “on aspects of dreaming for which cogent data from both psychoanalysis and neuroscience are available.” His essay succinctly shows how the idea of nodal association in dreams</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.29</book-part-id>
+                  <title-group>
+                     <title>Can Psychoanalysis and Cognitive-Emotional Neuroscience Collaborate in Remodeling Our Concept of Mind-Brain?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reiser</surname>
+                           <given-names>Morton F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>If, as many of us believe, mental life is dependent upon and most likely originates in the biological functions of brain-body, it should<italic>in principle</italic>be possible to reconcile psychologically derived information about mental function with biologically derived information about brain function. Freud understood and believed this. Yet he wisely abandoned his early attempts (1895) to relate his psychoanalytic psychologically based model of mental function to the limited understanding of brain function available in his time. Instead he constructed his hypothetical model of mind<italic>without taking into account</italic>what was then known about the brain and its function. He based</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.30</book-part-id>
+                  <title-group>
+                     <title>Freud’s Neuromental Model:</title>
+                     <subtitle>Analytic Structures and Local Habitations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Forrest</surname>
+                           <given-names>David V.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>Subjecting psychoanalysis to scientific scrutiny in its current rococo era of development reminds me of Gary Larson’s<italic>Far Side</italic>cartoon depicting scientists suspending a rhinoceros upside down before “testing whether or not rhinos land on their feet.” But it also reminds me of the heft of psychoanalysis, its resilient hide, and the memorable horns of its dilemmas.</p>
+                     <p>Perhaps psychoanalysis is already a complete science of human description, like gross anatomy, in which new discoveries are made only by going to the electron microscopic level or by adding functional tagging by antibodies or radioisotopes. Abram Kardiner said that Freud contributed<italic>the</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.31</book-part-id>
+                  <title-group>
+                     <title>Freud’s Theory of the Mind and Modern Functional Imaging Experiments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Shulman</surname>
+                           <given-names>Robert G.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rothman</surname>
+                           <given-names>Douglas L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>What relations are there between Freud’s theories of the mind and modern functional brain imaging experiments? To anchor this question, we present two statements from Mark Solms’s recent article about the nature of consciousness.¹ First, Solms emphasized Freud’s definition that “mental processes are in themselves unconscious,” arguing the relevance of this definition to modern controversies about brainmind-consciousness. We are willing to accept a moderate form of this position, in which the unconscious is acknowledged to contribute significantly to mental processes. The second quotation is less familiar: “psychoanalysis and PET scanning study one and the same underlying object: the mental apparatus</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.32</book-part-id>
+                  <title-group>
+                     <title>The Changing Psychoanalytic Model of the Mind</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Arnold M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>A great effort has been made in recent years to achieve some form of integration of mind and brain. If this effort is to succeed, the neurobiologists need as good a model of the mind as is available, and we psychoanalysts, convinced that we possess that most complete and interesting theory of mind, need to begin to frame it in ways that lend themselves to neurobiologic experimentation. We have only just begun to do that.</p>
+                     <p>On the occasion of Freud’s eightieth birthday in 1936, Thomas Mann said, “The analytic revelation is a revolutionary force. With it a blithe skepticism has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.33</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>David Forrest: I just want to reply to Bob Shulman, briefly. I’m going to ask him if he really thinks what he’s saying is true?</p>
+                     <p>Robert Shulman: Yes.</p>
+                     <p>David Forrest: The imaging technology is progressing so fast it’s practically every trimester they have to revise what they have. I have a report from<italic>Science</italic>of 20 March 98 which lists all these brand-new, super-fast, ultra-fast MRI, EPI, RARE, SPIRAL, BURST, GRASS, all acronymic techniques, ecoplanner techniques. The point is that the resolution, the speed, and the penetrance into mental process is so great. Don’t you think that this enormous wave</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.34</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Panel Six places philosophical models of truthfulness face to face with the psychoanalytic session. Whereas psychoanalytic theory relies on a horizon of truthfulness, psychoanalytic praxis revolves around an alert attention to the probable fictiveness of the analysand’s truth (intentional statements, recovered memories) and the probable truthfulness of his or her fictions (performative acting-out, symbolic transferences). As a comment in the discussion section puts it: “the manifest, apparent story or truth sometimes is only a communication about a hidden more interesting truth”; or as John Forrester more dramatically claims, in psychoanalysis “a ‘no’ may mean ‘yes’, and a ‘yes’ almost certainly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.35</book-part-id>
+                  <title-group>
+                     <title>Psychoanalytical Theory and Kinds of Truth</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wollheim</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>296</fpage>
+                  <abstract>
+                     <p>I attribute the strange title of this section to the historical fact that people who have become pessimistic about how to connect psychoanalysis with truth, or how to confirm or disconfirm psychoanalytic propositions, whether of a theoretical or an applied kind, have nevertheless continued to hold psychoanalysis in high esteem, and they have thought to resolve the issue by inventing a new value, or virtue, which they still call “truth,” but then append to it a qualifier, like “metaphoric,” or “narrative.” Thus they take away with one hand what they bestow with the other.</p>
+                     <p>One of the reasons for such</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.36</book-part-id>
+                  <title-group>
+                     <title>On Truth</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davidson</surname>
+                           <given-names>Donald</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>300</fpage>
+                  <abstract>
+                     <p>Much that we are tempted to say about truth is false. We think we can explain the truth of the sentences we utter or of what we think by saying they correspond to the facts—we call on the<italic>relation</italic>of correspondence (or, in the case of the early Wittgenstein, the relation of picturing) to explain the<italic>property</italic>of truth. But as an explanation of truth this is empty, not only because if there were such a relation we could never perceive that it holds, but because no one has ever succeeded in giving a viable account of the entities</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.37</book-part-id>
+                  <title-group>
+                     <title>Truth in Psychoanalysis</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lear</surname>
+                           <given-names>Jonathan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>304</fpage>
+                  <abstract>
+                     <p>Roughly speaking, there are two ways to approach the concept of truth in psychoanalysis, “from the outside” and “from the inside.” In working “from the outside,” we bring a conception of truth, developed, say, in philosophy, to psychoanalysis as an object of study. Truth, then, is deployed as a<italic>meta</italic>theoretical concept or predicate, applied to the assertions of psychoanalysis, and allowing us to see the conditions under which those assertions are true. By contrast, when we are working “from the inside,” we are concerned with how the issue of truth arises<italic>within</italic>the analytic situation. There is value in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.38</book-part-id>
+                  <title-group>
+                     <title>What Kind of Truth?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Forrester</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>Mention the word<italic>truth,</italic>and it looks as if one should call in the philosophers. And philosophers themselves do include truth among the standard topics their discipline addresses, along with time, the good, knowledge, and beauty. Yet<italic>truth</italic>is an ordinary word in ordinary use, so it will always be an open question who is in a position to adjudicate on its application and its accomplishment, just as<italic>table</italic>is a word that belongs to all as well as to carpenters, industrial designers, and actuaries. When philosophers are asked to address the question of the kind of truth we can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.39</book-part-id>
+                  <title-group>
+                     <title>Discussion</title>
+                  </title-group>
+                  <fpage>324</fpage>
+                  <abstract>
+                     <p>Donald Davidson: I thought I’d speak first because I have a similar question for all of the other panelists. It seemed to me that all of them were taking the notion of kinds of truth, at least some of the time, in a different way than I would or than I think it should be taken. Of course, when we observe anything at all—whether it’s a person or anything else—there are a great many things that are true. And many of these things we’re apt to be right about, and some of them wrong about. But those are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.40</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>333</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nq728.41</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>337</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

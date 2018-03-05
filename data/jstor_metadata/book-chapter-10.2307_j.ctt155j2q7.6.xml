@@ -1,0 +1,363 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt155j2q7</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Puzzling the Parables of Jesus</book-title>
+         <subtitle>Methods and Interpretations</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Zimmermann</surname>
+               <given-names>Ruben</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>11</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780800699758</isbn>
+      <isbn content-type="ppub">0800699750</isbn>
+      <isbn content-type="epub">9781451465327</isbn>
+      <isbn content-type="epub">1451465327</isbn>
+      <publisher>
+         <publisher-name>Augsburg Fortress Publishers</publisher-name>
+         <publisher-loc>Minneapolis</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Fortress Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt155j2q7"/>
+      <abstract abstract-type="short">
+         <p>Modern scholarship on the parables has long been preoccupied with asking what Jesus himself said and what he intended to accomplish with his parables. Ruben Zimmermann moves beyond that agenda to explore the dynamics of parabolic speech in all its rich complexity. Introductory chapters address the history of research and distinguish historical from literary and reader-oriented approaches, then set out a postmodern hermeneutic that analyzes narrative elements and context, maps the sociohistorical background, explores stock metaphors and symbols, and opens up contemporary horizons of interpretation. Subsequent chapters then focus on one parable from early Christian sources (Q, Mark, Matthew, Luke, John, and the Gospel of Thomas) to explore how parables function in each literary context. Over all reigns the principle that the meaning or theological “message" of a parable cannot be extracted from the parabolic form; thus the parables continue to invite hearers' and readers' involvement to the present day.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.3</book-part-id>
+                  <title-group>
+                     <title>Preface and Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The parables of Jesus are puzzling. A lack of comprehension is nothing unusual when one encounters these “short stories.” Even the earliest Christian texts share this assessment as one finds Gospel accounts relating that those listening to Jesus’ teaching did not understand the parables (Mark 4:10.13; John 10:6). The disciples themselves had to ask of Jesus, “Explain to us the parable…!” (Matt. 13:36, cf. Mark 4:10), which is to say that even they did not understand the parables, or at least not immediately. Parable speech is incomprehensible and mysterious. This is also expressed by the term παραβολή (<italic>parabolē</italic>), the predominant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Understanding the Parables over the Past Century:</title>
+                     <subtitle>An Overview of the History of Research</subtitle>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>As was demonstrated in the last chapter, the parables of Jesus are texts that can be considered from three different perspectives. First, they are historical texts that arose in a particular time and cultural space and that are part of a history of tradition. Second, they are fictional texts that have a typical form and poetic style and that use literary devices. Third, they are texts notably addressed to their recipients, their hearers and readers, in order to evoke a process of thinking and rethinking that ultimately leads to deeper insights and even corresponding (re-)action. In order to understand parables,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Historical Approaches:</title>
+                     <subtitle>Parables as Media for Remembering Jesus</subtitle>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Jesus spoke in parables. This fundamental statement garners wide consensus in Jesus scholarship. However, in contrast, there is no consensus concerning the way in which scholarship reaches this conclusion, upon what it is based, how it is safeguarded, or which historical or theological conclusions are connected to it.</p>
+                     <p>This chapter will begin to demonstrate how closely parable research is interwoven with “historical Jesus” studies and the role parables play in the various phases of this area of scholarship. Within Jesus scholarship, a paradigm shift from the “historical” to the “remembered” Jesus is emerging. Beginning with this shift in perspective, we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Literary Approaches:</title>
+                     <subtitle>The Parable Genre—a New Definition</subtitle>
+                  </title-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>The literary approach to the parables here focuses on the form critical issue of the parable genre. Since the beginning of form-critical research on biblical texts about one hundred years ago, the parable genre has been a popular paradigm for demonstrating the results of form criticism. Scholars believed that in the parables they had a group of texts that were based on oral precursors and that ultimately could be traced back to the historical Jesus. Because of meager analogies to earlier and contemporary texts, scholars simultaneously saw the parables as a genre<italic>sui generis</italic>of early Christianity. By means of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Reader-Oriented Approaches:</title>
+                     <subtitle>A Playing Field for Polyvalent Parables</subtitle>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Parables speak to us. They draw the reader into their narrated world by means of their narrative style, their proximity to reality, and in particular, their figurativeness. Parables need a reader in order to be interpreted and understood. The meaning of a parable cannot simply be captured absolutely in and of itself. Instead, parables require the process of reading, that is, the reception.</p>
+                     <p>It was Mary Ann Tolbert who first argued strongly along these lines. By exploring a semiotic and a rhetorical model, she highlighted “the indeterminate or dependent nature of the form [of parables].”¹ According to Tolbert, “to complete</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Reading and Analyzing Parables</title>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>In the second part of this book, I provide some examples of parable interpretation. In doing so I take up the historical, literary, and reader-oriented aspects that have been explored in the first part of this monograph. The different perspectives on how one is to approach the parables will be brought together to form an integrative method of parable analysis. Accordingly, the first chapter within this section offers a methodological guideline for how to do parable interpretation, which can be applied to every parable in early Christianity and beyond. I provide one example of parable exegesis in each main source</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Lost Sheep (Q/Luke 15:1–7) and the Parables in Q</title>
+                  </title-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>The Q document has always played an important role in historical Jesus research.¹ A majority of scholars would assume that the Q document may be considered to be the oldest document of the Jesus tradition, which is still available by means of the so called “double tradition” of Matthew and Luke. As stated in chapter 3, there is broad consensus in scholarship identifying Jesus as the teller of parables. Therefore, it is surprising that no monograph on the parables in Q has ever been published.² This is in part related to the as-yet-unanswered question of the textual form of Q</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Mustard Seed (Mark 4:30–32) and the Parables in Mark</title>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>It was the Evangelist Mark’s privilege to give the first explicit classification of Jesus’ sayings and discourse as “parables.” He identified Jesus’ discourse generally as parabolic: “He began to teach them many things in<italic>parables</italic>… he did not speak to them except in<italic>parables</italic>” (Mark 4:2, 34: καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς πολλά … χωρὶς δὲ παραβολῆς οὐκ ἐλάλει αὐτοῖς). According to Mark, Jesus taught a great deal—or even as a matter of principle—using parables, and all of the evangelists, including John, as well as modern Jesus scholars agree with this opinion.¹</p>
+                     <p>It was Mark who made</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Ten Virgins (Matt. 25:1–13) and the Parables in Matthew</title>
+                  </title-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>Within the Gospel of Matthew parables play an important role, which has inspired many scholars over the course of several decades to deal with the concept and theology of Matthean parables.¹ It is not the task of these preliminary remarks to give an introduction to this history of research. Instead, I provide a brief summary of several observations on the occurences of parables in the first Gospel, derived from the text itself.</p>
+                     <p>A first question to pose is where do we find parables in the Gospel of Matthew? However, before being able to identify a parable, one must clarify what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Good Samaritan (Luke 10:30–35) and the Parables in Luke</title>
+                  </title-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Luke is known as the storyteller par excellence among the evangelists. He is also praised for his recounting of parables, all the more because he remembers the greatest number of Jesus’ parables (ca. 57) and relates stories not found in any other extant source of early Christianity. Some of them are also among the best-known parables in general (e.g. the parable of the Good Samaritan, Luke 10:30–35, or the parable of the prodigal son, Luke 15:11–32).</p>
+                     <p>Some of the Lukan parables portray a surprising level of complexity of stylistic elements and characterization. For instance, two marked introductions for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Dying and Living Grain (John 12:24) and the Parables in John</title>
+                  </title-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>The next sample parable has been taken from the Gospel of John. But are there actually any parables in John? In much of parable scholarship, John is ignored as a source of the parables of Jesus. This may have been due to the close relationship between parable-research and historical Jesus-research. If the goal was to reconstruct the original Jesus wording, the late Fourth Gospel seemed to be worthless with regard to the parables. Many of these presuppositions have been challenged in current New Testament scholarship. This alone justifies a short preliminary comment on the issue with regard to research history</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Empty Jar (Gos. Thom. 97) and the Parables in Thomas</title>
+                  </title-group>
+                  <fpage>361</fpage>
+                  <abstract>
+                     <p>Early church fathers such as Hippolytus and Origen long ago testified to the existence of the<italic>Gospel of Thomas</italic>;¹ however, no complete manuscript was extant until a Coptic text was discovered in the excavations at Nag Hammadi in 1945. The Coptic manuscript dates, at the earliest, to the fourth century. Three Greek papyrus fragments found in Oxyrhynchus bear witness to a Greek version of the<italic>Gospel of Thomas</italic>that, according to paleographic evidence, should be dated to the early third century.² Most scholars interpret these findings to mean that the<italic>Gospel of Thomas</italic>was originally a Greek text that was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.16</book-part-id>
+                  <title-group>
+                     <title>Literature</title>
+                  </title-group>
+                  <fpage>393</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.17</book-part-id>
+                  <title-group>
+                     <title>Index of Names and Subjects</title>
+                  </title-group>
+                  <fpage>451</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.18</book-part-id>
+                  <title-group>
+                     <title>Index of Ancient Texts</title>
+                  </title-group>
+                  <fpage>461</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt155j2q7.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>482</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

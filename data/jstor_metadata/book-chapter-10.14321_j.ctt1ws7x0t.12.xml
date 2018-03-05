@@ -1,0 +1,338 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9df0</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1ws7x0t</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Intellectual Sacrifice and Other Mimetic Paradoxes</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Bubbio</surname>
+               <given-names>Paolo Diego</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>01</month>
+         <year>2018</year>
+      </pub-date>
+      <isbn content-type="ppub">9781611862737</isbn>
+      <isbn content-type="epub">9781609175559</isbn>
+      <publisher>
+         <publisher-name>Michigan State University Press</publisher-name>
+         <publisher-loc>East Lansing</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2018</copyright-year>
+         <copyright-holder>Paolo Diego Bubbio</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.14321/j.ctt1ws7x0t"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Intellectual Sacrifice and Other Mimetic Paradoxes</italic>is an account of Paolo Diego Bubbio's twenty-year intellectual journey through the twists and turns of Girard's mimetic theory. The author analyzes philosophy and religion as "enemy sisters" engaged in an endless competitive struggle and identifies the intellectual space where this rivalry can either be perpetuated or come to a paradoxical resolution. He goes on to explore topics ranging from arguments for the existence of God to mimetic theory's post-Kantian legacy, political implications, and capacity for identifying epochal phenomena, such as the crisis of the self, in popular culture. Bubbio concludes by advocating for an encounter between mimetic theory and contemporary philosophical hermeneutics-an encounter in which each approach benefits and is enriched by the resources of the other. The volume features a previously unpublished letter by René Girard on the relationship between philosophy and religion.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.5</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Intellectual Expulsion</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The theoretical unity of René Girard’s mimetic theory relies on the fundamental tenet that every person feels as though she or he is missing “something,” a<italic>being</italic>with which others, by contrast, seem to be endowed by nature.</p>
+                     <p>If the subject desires to be something<italic>more</italic>, it is because there is a model, an<italic>other</italic>who seems to personify this<italic>being</italic>of which the subject feels deprived. The best metaphor for expressing this triple relation of disciple-model-object is the triangle. Indeed, according to Girard, the preliminary stage of every subjective behavior moves via a “third element,” an object, which will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Historical Forms of Mystification</title>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>In the previous chapter, we saw that for Girard the Gospels are not mythical texts, but the greatest form of demystification of mimetic victimage. In the Gospels there is no kind of confrontation with philosophy, understood as a discipline based on rational investigation. That confrontation rather takes place in the Pauline texts, where “knowledge of God” (σοφίᾳ τοῦ Θεοῦ) is contrasted with “worldly knowledge” (σοφία τοῦ κόσμου) (1 Corinthians 1:20). The former is the knowledge of God that was revealed first in the Old Testament and then by means of Christ; this must be the object of<italic>faith</italic>, as Paul</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>The Path of Demystification</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Girard’s reflections have led us to recognize sacred violence as the foundation of Western culture. Sacred violence, in turn, has its roots in mimetic conflicts: the rivals are brothers who are both brought closer and divided by something they both desire. I have also argued that mimetic rivalry is the engine that drives all intellectual symbolism. Thus, the “figure” that represents that symbolism better than any other is that of enemy brothers, who are brothers precisely because they are enemies (or made alike by their reciprocal violent rivalry) and enemies precisely because they are brothers (or rivals inasmuch as each</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.9</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In the preceding chapter we considered the possibility of a non-sacrificial knowledge and, even if with many caveats, we resolved that question in the affirmative. There is still one dimension of Girard’s mimetic theory, however, that in our journey through the history of the relationship between philosophy and religion we have not yet adequately examined: the “apocalyptic” dimension.</p>
+                     <p>In Girard’s thought, this dimension arises from the consideration that, as a result of the demystifying action of the Gospels, the sacrificial crisis in which we are living can no longer be resolved by yet another victimary expulsion. Moreover, humanity’s present military</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.10</book-part-id>
+                  <title-group>
+                     <title>A Letter from René Girard</title>
+                  </title-group>
+                  <fpage>99</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.11</book-part-id>
+                  <title-group>
+                     <title>Transition:</title>
+                     <subtitle>Corrections and Paradoxes</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib1" xlink:type="simple">
+                        <role>Translated from the Italian by</role>
+                        <name name-style="western">
+                           <surname>Ell</surname>
+                           <given-names>Theodore</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>Since 1961, Girard’s production has grown without interruption, to at least the same degree as his fame. Without doubt, the fascination with Girard’s thought derives from the fact that he has constructed a true “speculative cathedral,” a theory that proposes to explain everything from myths to rituals, Greek tragedies to modern novels, holocausts of historical magnitude to everyday customs. At first glance, it would seem that Girard has changed little or nothing of his speculative construction since then, but if we look closely, there are noticeable problems and corrections that threaten the very foundations of mimetic theory. Indeed, recent criticism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.12</book-part-id>
+                  <title-group>
+                     <title>Girard’s Ontological Argument for the Existence of God</title>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>My main aim in this essay is to show that Girard’s argument for Christ’s divinity hides a variation of the classic ontological argument for the existence of God.¹ In order to do so, it is first important to distinguish three distinct hermeneutical approaches to Girard’s mimetic theory:<italic>internal and literal, internal nonliteral,</italic>and<italic>critical</italic>. If we take an internal and literal approach, we find that Girard writes nothing about the ontological proof. If we take an internal and nonliteral approach to Girard, we can try to deduce what he might have thought about the ontological proof on the basis of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.13</book-part-id>
+                  <title-group>
+                     <title>Mimetic Theory’s Post-Kantian Legacy</title>
+                  </title-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>In the last few years, religion has increasingly become a subject of dispute. Two positions seem to be the most popular. On the one hand, outspoken atheists reject religion in the name of reason and science. On the other hand, we witness an increase in scholarship sympathetic with conservative Christian movements. In this chapter, I will use the term “new atheists” to refer to the former approach, and the term “new theists” to refer to the latter approach.</p>
+                     <p>“New atheists” is a label that has become usual for identifying some thinkers such as Richard Dawkins, Sam Harris, and Quentin Smith.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.14</book-part-id>
+                  <title-group>
+                     <title>Mimetic Theory and Hermeneutic Communism</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>In the last fifteen years, Girard has engaged in a dialogue with the Italian philosopher Gianni Vattimo. Vattimo is famous for a philosophical approach named<italic>pensiero debole</italic>(weak thought). “Weak thought” is basically concerned with arguing for philosophical antifoundationalism: drawing on the philosophy of Nietzsche, Heidegger, and Gadamer, Vattimo advocates the rejection of metaphysics and a reinterpretation of truth as the opening of horizons. Vattimo has explained that he came to recognize a “completion” of Heidegger in Girard by reading “the weakening of Being as its sole form of manifesting itself beyond metaphysical oblivion” as “an analogon of the dissolution</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.15</book-part-id>
+                  <title-group>
+                     <title>The Self in Crisis</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>Research work in the humanities in general, and in philosophy in particular, is today looked at with a certain degree of suspicion, for various, and sometimes even opposed, reasons. On one hand, work on subtle epistemological questions and/or historical analysis of the thought of past philosophers is regarded as a navel-gazing activity, otiose at best, wasteful at worst. On the other hand, when philosophy and intellectual analysis come to focus on popular culture phenomena, such as comics, movies, and TV programs, they are regarded as trivializing ideas and as committing themselves to marginal and eventually unimportant work. One possible solution</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.16</book-part-id>
+                  <title-group>
+                     <title>Hermeneutic Mimetic Theory</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>In everyday language, the term “paradox” is used to refer to any claim or argument that contrasts with what is usually considered obvious. In a more specific and philosophical sense, a paradox is a claim or an argument that develops from apparently true premises and leads to a seemingly absurd (self-contradictory or logically unacceptable) conclusion. The term is also sometimes used in the context of religion to refer to a form of fideism professing a religious belief even when, or precisely because, that belief defies reason (as paradigmatically expressed by Tertullian’s<italic>Credo quia absurdum</italic>). And then there is at least</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>209</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1ws7x0t.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>217</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>
