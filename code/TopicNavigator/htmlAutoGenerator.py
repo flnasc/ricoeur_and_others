@@ -42,7 +42,7 @@ def createNewFile(inputFile):
 	f.write('<!DOCTYPE html>' + '\n')
 	f.write('<html lang=' + '"en"'+ '>' + '\n' +'\n' )
 	f.write('  ' + '<body>' + '\n')
-	f.write( '  ' + '<center><h2>Dummy Navigator</h2></center>' + '\n' +'\n')
+	f.write( '  ' + '<center><h2>Digital Ricoeur - Topic Navigator</h2></center>' + '\n' +'\n')
 
 	#loop through and find words 
 	for topic in inputFile:
