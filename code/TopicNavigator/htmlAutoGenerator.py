@@ -39,7 +39,8 @@ def createNewFile(inputFile):
     # <html lang="en">
     # <body> 
 	f.write('<!DOCTYPE html>' + '\n')
-	f.write('<html lang=' + '"en"'+ '>' + '\n' +'\n' )
+	f.write('<html lang=' + '"en"'+ '>' + '\n')
+	f.write('<meta charset="utf-8">' + '\n' + '\n')
 	f.write('  ' + '<body>' + '\n')
 	f.write( '  ' + '<center><h2>Digital Ricoeur - Topic Navigator</h2></center>' + '\n' +'\n')
 
