@@ -19,33 +19,79 @@ def findXmlFile(term):
 		for file in files:
 			if file.endswith(".xml"):
 				item = os.path.join(subdir, file)
-				# print(file)
-				parseXmlFile(term, item)
+				
+				# Depending on whehter it a book chapter or journal
+				if(file.startswith("book")):
+					parseBookChapterXmlFile(term, item)
+					print("Parsing Book")
+
+				if(file.startswith("journal")):
+					parseJournalChapterXmlFile(term, item)
+					print("Parsing Journal")
 
 # Parse through and find articles that match key word
-def parseXmlFile(term, item):
+
+def parseJournalChapterXmlFile(term, item):
+	print("Parsing")
+
+def parseBookChapterXmlFile(term, item):
 
 	tree = ET.parse(item)
 	root = tree.getroot()
+	
+	# for child in root:
+	# 	print("2nd Level: ", child.tag)
+	# 	for granchild in child:
+	# 		print("    3rd Level: ", granchild.tag)
+	# 		for supergranchild in granchild:
+	# 			print("        4th Level: ", supergranchild.tag)
+	# 			for supersupergranchild in supergranchild:
+	# 				print("            5th Level: ", supersupergranchild.tag)
+	# 				for ultragranchild in supersupergranchild:
+	# 					print("                6th Level: ", ultragranchild.tag)
+	# 					for wowgranchild in ultragranchild:
+	# 						print("                    7th Level: ", wowgranchild.tag)
+	# 						for wowowgranchild in wowgranchild:
+	# 							print("                        8th Level: ", wowowgranchild.tag)
+	# 							for nochild in wowowgranchild:
+	# 								print("                            9th Level: ", nochild.tag)
+	# 								for fuck in nochild:
+	# 									print("                              10th Level: ", fuck.tag)
 
-	# for event, elem in ET.iterparse(item, events=('start','end')):
-	# 	if event == 'start':
-	# 		print(elem.tag)
-	# 	elif event == 'end':
-	# 		if elem.text is not None and elem.tail is not None:
-	# 			print(repr(elem.tail))
 
+	relevantStuff = ['label','title', 'subtitle','surname', 'given-names','p','italic']
+	relevant = {}
 
-	for item in root.iter('abstract'):
-		for thing in item.iter():
-			abstract = thing.text + thing.tail
-			if(term in abstract.strip()):
-				print("True")
-			else:
-				print("False")
-			# print(''.join(root.itertext()))
+	for item in root.iter('book-part-meta'):
+		for elem in item.iter():
 
+			if(elem.tag in relevantStuff):
 
+				relevant[elem.tag] = elem.text
+
+				if(elem.tag == "p" or elem.tag == "italic"):
+					abstract = elem.text + elem.tail
+					abstract = abstract.strip()
+					relevant['abstract'] = abstract
+
+					if(term in abstract):
+						if('p' in relevant.keys()):
+							del relevant['p']
+						if('italic' in relevant.keys()):
+							del relevant['italic']
+						print(relevant, "\n")				
+
+    # Then grab book title, publisher name, link and authors
+
+	stuffWeWant = ["book-title", "subtitle", "surname", "given-names", "publisher-name","self-uri"]
+	bookInfo = {}
+
+	for item in root.iter('book-meta'):
+		for elem in item.iter():
+			if(elem.tag in stuffWeWant):
+				bookInfo[elem.tag] = elem.text
+				if(elem.tag == "self-uri"):
+					bookInfo[elem.tag] = elem.attrib
 
 
 
