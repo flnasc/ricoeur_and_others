@@ -7,7 +7,6 @@
 
 import os 
 import xml.etree.ElementTree as ET
-import re
 
 def findXmlFile(term):
 
@@ -15,26 +14,25 @@ def findXmlFile(term):
 	# subdir: next directory found
 	# dirs: list of subdirectoreis in current dir
 	# files: list of files in current dir 
-	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher/trouble"
+	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher"
 	for subdir, dirs, files in os.walk(rootdir):
 		for file in files:
 			if file.endswith(".xml"):
 				item = os.path.join(subdir, file)
 				
 				# depending on whehter it a book chapter or journal
-
 				if(file.startswith("book")):
-					parseBookChapterXmlFile(term, item)
-					print("Parsing Book")
+					parseBookChapterXmlFile(term, item, file)
+					print("Parsed ", file)
 
-				# if(file.startswith("journal")):
-				# 	print("Parsing: ", file)
-				# 	parseJournalChapterXmlFile(term, item)
+				if(file.startswith("journal")):
+					parseJournalChapterXmlFile(term, item, file)
+					print("Parsed", file)
 
 # Parse through and find articles that match key word
+def parseJournalChapterXmlFile(term, item, file):
 
-def parseJournalChapterXmlFile(term, item):
-
+	# Using Element Tree
 	tree = ET.parse(item)
 	root = tree.getroot()
 	termFound = False 
@@ -59,17 +57,19 @@ def parseJournalChapterXmlFile(term, item):
 					results[elem.tag] = cleanString
 					
 
-				# need to extract abstract and combine 
-				elif(elem.tag == "p" or elem.tag == "italic"):
+				# abstracts are a bit tricky to deal with
+				# Print out parts to see why. The number
+				# changes alot
+				elif(elem.tag == "p"):
 
-					# Some abstracts have text and some have tail
-					if(elem.text is not None and elem.tail is not None):
-						abstract = elem.text + elem.tail
-					elif(elem.text is not None and elem.tail is None):
-						abstract = elem.text
-					elif(elem.text is None and elem.tail is not None):
-						abstract = elem.text
-					abstract = str(abstract)
+					parts = list(elem.iter())
+					counter = 0
+					abstract = ""
+
+					while(counter != len(parts)):
+						abstract = abstract + str(parts[counter].text) + str(parts[counter].tail)
+						counter += 1
+
 					abstract = abstract.strip()
 
 					# Is term in abstract at all?
@@ -86,11 +86,11 @@ def parseJournalChapterXmlFile(term, item):
 		results.clear()
 	else:
 		# Now write to HTML File 
-		addJournalToHtmlFile(results)
+		addJournalToHtmlFile(results, file)
+		termFound = False
 
 # Parse through and find book chapters that match the term
-
-def parseBookChapterXmlFile(term, item):
+def parseBookChapterXmlFile(term, item, file):
 
 	tree = ET.parse(item)
 	root = tree.getroot()
@@ -105,122 +105,106 @@ def parseBookChapterXmlFile(term, item):
 	'label','title','surname','given-names','p','italic']
 
 	bookInfo = {}
+	chapterInfo = {}
 
 	# First grab the general book's info
-
 	for item in root.iter('book-meta'):
 		for elem in item.iter():
-			if(elem.tag in attributes):
-
-				# Diff. entry for book authors, subtitles
+			if(elem.tag in attributes):	
 				if(elem.tag == 'surname'):
 					bookInfo['book-surname'] = elem.text
-
 				elif(elem.tag == 'given-names'):
 					bookInfo['book-given-names'] = elem.text
-
 				elif(elem.tag == 'subtitle'):
 					bookInfo['book-subtitle'] = elem.text
-
-				# self-uri case
+				# again uri is kind of dirty 
 				elif(elem.tag == "self-uri"):
 					dirtyString = str(elem.attrib.values())
 					cleanString = dirtyString[14:-3]
 					bookInfo[elem.tag] = cleanString
 
-				# need to extract abstract and combine 
-				# this is overal book abstract not individual chapters
-				elif(elem.tag == "p" or elem.tag == "italic"):
-					# Some abstracts have text and some have tail
-					if(elem.text is not None and elem.tail is not None):
-						bookAbstract = elem.text + elem.tail
-					elif(elem.text is not None and elem.tail is None):
-						bookAbstract = elem.text
-					elif(elem.text is None and elem.tail is not None):
-						bookAbstract = elem.text
-					bookAbstract = str(bookAbstract)
+				elif(elem.tag == "p"):
+					parts = list(elem.iter())
+					counter = 0
+					bookAbstract = ""
+
+					while(counter != len(parts)):
+						bookAbstract = bookAbstract + parts[counter].text + parts[counter].tail
+						counter += 1
+
 					bookAbstract = bookAbstract.strip()
 
-					# Is term in abstract at all?
 					if(term in bookAbstract):
 						termFoundInBook = True
-
-					bookInfo['book-abstract'] = bookAbstract
-
+						bookInfo['book-abstract'] = bookAbstract
 				else:
-				    # All other cases 
-				    bookInfo[elem.tag] = elem.text
+					bookInfo[elem.tag] = elem.text
 
-	# Next grab individual chapters
+	if(termFoundInBook):
+		addBooktoHtmlFile(bookInfo, file)
 
+    # Next grab info of individual chapters
 	for item in root.iter('book-part-meta'):
 		for elem in item.iter():
-		    if(elem.tag in attributes):
+			if(elem.tag in attributes):
 
-		    	# chapter authors 
+				if(elem.tag == 'surname'):
+					chapterInfo['chapter-surname'] = elem.text
 
-		        if(elem.tag == 'surname'):
-		            bookInfo['chapter-surname'] = elem.text
+				elif(elem.tag == 'given-names'):
+					chapterInfo['chapter-given-names'] = elem.text	
 
-		        elif(elem.tag == 'given-names'):
-		            bookInfo['chapter-give-names'] = elem.text	
+				elif(elem.tag == 'subtitle'):
+					chapterInfo['chapter-subtitle'] = elem.text
 
-		        elif(elem.tag == 'subtitle'):
-		        	bookInfo['chapter-subtitle'] = elem.text
+				elif(elem.tag == "p"):
 
-		        # need to extract abstract and combine 
-				# this is overal book abstract not individual chapters    
-		        elif(elem.tag == "p" or elem.tag == "italic"):
+					parts = list(elem.iter())
+					counter = 0
+					chapterAbstract = ""
 
-		        	# Some abstracts have text and some have tail
-		        	if(elem.text is not None and elem.tail is not None):
-		        		chapterAbstract = elem.text + elem.tail
+					while(counter != len(parts)):
+						chapterAbstract = chapterAbstract + parts[counter].text + parts[counter].tail
+						counter += 1
 
-		        	elif(elem.text is not None and elem.tail is None):
-		        		chapterAbstract = elem.text
+					chapterAbstract = chapterAbstract.strip()
 
-		        	elif(elem.text is None and elem.tail is not None):
-		        		chapterAbstract = elem.text
+					if(term in chapterAbstract):
+						
+						termFoundInChapter = True
+						chapterInfo['chapter-abstract'] = chapterAbstract
+				else:
+					chapterInfo[elem.tag] = elem.text
 
-		        	chapterAbstract = str(chapterAbstract)
-		        	chapterAbstract = chapterAbstract.strip()
-
-		        	if(term in chapterAbstract):
-		        		termFoundInChapter = True
-
-		        	bookInfo['chapter-abstract'] = chapterAbstract
-
-		        else:
-		        	bookInfo[elem.tag] = elem.text
-		if(not termFoundInChapter and not termFoundInBook):
-		    bookInfo.clear()
+		if(not termFoundInChapter):
+			chapterInfo.clear()
 		else:
-		    addBooktoHtmlFile(bookInfo)
+			addChaptertoHtmlFile(chapterInfo,bookInfo, file)
+			chapterInfo.clear()
+			termFoundInChapter = False
 
 		
 # will create an html file with the results 
-def createHtmlFile():
+def createHtmlFile(term):
 
 	f = open('Digital Ricoeur-JStor Navigator.html','w') #create another file
 	f.write('<!-- File generated by Marty Dang-->' + '\n')
 
 	#Add in the standard HTMl stuff
-	# <!DOCTYPE html> 
-    # <html lang="en">
-    # <body> 
 	f.write('<!DOCTYPE html>' + '\n')
 	f.write('<html lang=' + '"en"'+ '>' + '\n')
 	f.write('<meta charset="utf-8">' + '\n' + '\n')
 	f.write('  ' + '<body>' + '\n')
-	f.write( '  ' + '<center><h2>Digital Ricoeur - Jstor Navigator</h2></center>' + '\n' +'\n')
+	f.write('  ' + '<center><h2>Digital Ricoeur - Jstor Navigator</h2></center>' + '\n' +'\n')
+	f.write('  ' + '<h3>Search Term: ' + term + '</h3')
 	f.write('  ' + '<p>' + '\n')
-	# f.write('  ' + '</body>' + '\n')
-	# f.write('</html>')
 
-	print("File creation complete")
+	f.close()
 
-def addBooktoHtmlFile(dictionaryOfResults):
+def addBooktoHtmlFile(dictionaryOfResults, file):
     f = open('Digital Ricoeur-JStor Navigator.html','a') # open up the file
+    f.write('<br>' + '\n')
+    f.write("File: " + file + '\n')
     if("book-title" in dictionaryOfResults.keys()):
     	f.write("    " + "Book Title: " + dictionaryOfResults["book-title"] + "-")
 
@@ -236,16 +220,44 @@ def addBooktoHtmlFile(dictionaryOfResults):
     if("book-given-names" in dictionaryOfResults.keys()):
     	f.write(" " + dictionaryOfResults["book-given-names"] + '<br>' + '\n')
 
-    if("label" in dictionaryOfResults.keys()):
-    	f.write("        " + dictionaryOfResults["label"] + '<br>' + '\n')
-
-
+    f.write("    Abstract: " + dictionaryOfResults["book-abstract"] + '<br>' + '\n')
 
     f.write("    " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
-    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br>' + '\n' + '\n')
+    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br> ' + '<br>' + '\n' + '\n')
 
-def addJournalToHtmlFile(dictionaryOfResults):
+    f.close()
+
+def addChaptertoHtmlFile(chapterInfo, bookInfo, file):
+    f = open('Digital Ricoeur-JStor Navigator.html','a') # open up the file 
+
+    f.write("File: " + file + '\n')
+
+    if("label" in chapterInfo.keys()):
+    	f.write("  " + chapterInfo["label"])
+
+    if("title" in chapterInfo.keys()):
+    	f.write("  " + chapterInfo["title"])
+
+    if("book-title" in bookInfo.keys()):
+    	f.write(" from: " + '<a href=' + '"' + bookInfo["self-uri"] + '"' + '>' + bookInfo["book-title"] + '</a>' + '<br>' + '\n' )
+    else:
+    	f.write('<br>' + '\n')
+
+    if("chapter-surname" in chapterInfo.keys()):
+    	f.write("Author(s) " + chapterInfo["chapter-surname"])
+
+    if("chapter-given-names" in chapterInfo.keys()):
+    	f.write(" " + chapterInfo["chapter-given-names"] + '<br>' + '\n')
+
+    if('chapter-abstract' in chapterInfo.keys()):
+    	f.write(" " + "Abstract: " + chapterInfo['chapter-abstract'] + '<br>' + '<br>'+ '\n' + '\n' + '\n')
+
+    f.close()
+
+
+def addJournalToHtmlFile(dictionaryOfResults, file):
     f = open('Digital Ricoeur-JStor Navigator.html','a') # open up the file
+    f.write("File: " + file + '\n')
     f.write("    " + "Journal Title: " + dictionaryOfResults["journal-title"] + '<br>' +'\n')
     f.write("    " + "Publisher: " + dictionaryOfResults["publisher-name"] + '<br>' + '\n')
     f.write("    " + "Issue: " + dictionaryOfResults["issue-id"] + '<br>' + '\n')
@@ -267,7 +279,9 @@ def addJournalToHtmlFile(dictionaryOfResults):
 
     f.write("    " + "Abstract: " + dictionaryOfResults["abstract"] + '<br>' + '\n')
     f.write("    " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
-    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br>' + '\n' + '\n')
+    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br>' + '<br>'+ '\n' + '\n')
+
+    f.close()
 
    
 # Allow the user to enter in multiple words seperaeted by
@@ -275,8 +289,13 @@ def addJournalToHtmlFile(dictionaryOfResults):
 def main():
 
 	# create the initial HTML File
-	createHtmlFile()
 	term = input("Please enter in your word: ")
+	createHtmlFile(term)
 	findXmlFile(term)
+
+	f = open('Digital Ricoeur-JStor Navigator.html','a')
+	f.write('  ' + '</body>' + '\n')
+	f.write('</html>')
+	f.close()
 
 if __name__ == "__main__": main()
