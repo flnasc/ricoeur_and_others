@@ -31,7 +31,18 @@ d3.csv("./sample_text.csv", function(error, data) {
             console.log(dataset[i]);
         }
         // Call on the visualization function
-        visualize();
+    
+        // Sort dataset 
+        // Right now I need to manually trigger them here, but I will add drop-down menu
+        // // Z to A 
+        // dataset.sort(sort_by('Thinker', true, function(a) {return a}));
+        // // A to Z
+        // dataset.sort(sort_by('Thinker', false, function(a) {return a}));
+        // // Descending order 
+        // dataset.sort(sort_by('Frequency', true, parseInt));
+        // // Ascending order
+        // dataset.sort(sort_by('Frequency', flase, parseInt));
+        barGraph();
     }
 });
 
@@ -39,7 +50,7 @@ d3.csv("./sample_text.csv", function(error, data) {
 // The main function
 // Set dimension of the SVG, create the element, then draw the graph
 //
-function visualize(){
+function barGraph(){
 
     // Set dimensions for the visualization
     var width = 1000;
@@ -94,7 +105,7 @@ function visualize(){
         attr("font-size", textSize + "px").
         attr("fill", "red").
         style("text-anchor", "middle").
-        attr("class", "labels");
+        attr("class", "labels")
 
     // Define the axes
     var xAxis = d3.axisBottom(xScale).
@@ -127,6 +138,21 @@ function visualize(){
         attr("font-weight", "bold").
         style("text-anchor", "middle").
         text("Frequency");
+
+}
+
+// Helper function for sort
+// Borrowed from https://stackoverflow.com/questions/979256/sorting-an-array-of-javascript-objects
+var sort_by = function(field, reverse, primer) {
+    var key = primer ?
+        function(x) {return primer(x[field])} :
+        function(x) {return x[field]};
+    
+    reverse = !reverse ? 1 : -1;
+
+    return function (a,b) {
+        return a = key(a), b = key(b), reverse * ((a > b) - (b > a));
+    }
 
 }
 

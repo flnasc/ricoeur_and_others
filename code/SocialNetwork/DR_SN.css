@@ -2,8 +2,21 @@
 // Created by Do Yeun Kim
 
 body {
-    backgroun-color: white;
+    background-color: white;
     color: black;
     font-family: arial;
+}
+
+path {
+    stroke: black;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path, .axis line{
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
 }
 
