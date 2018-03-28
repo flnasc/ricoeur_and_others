@@ -17,7 +17,7 @@ var dataset = [];
 // Right now this reads in one file, but maybe we should expand it to read in all .csv files?
 // Print out an error message if the file is unreadable.
 // Otherwise, save the CSV file into dataset then call visualize function
-d3.csv("./sample_text.csv", function(error, data) {
+d3.csv("./data/summary.csv", function(error, data) {
     dataset = data;
     if (error) {
         console.log(error);
@@ -155,6 +155,4 @@ var sort_by = function(field, reverse, primer) {
     }
 
 }
-
-
 
