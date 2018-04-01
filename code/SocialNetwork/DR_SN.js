@@ -21,42 +21,62 @@ var endYear = Number.MIN_SAFE_INTEGER;
 // Right now this reads in one file, but maybe we should expand it to read in all .csv files?
 // Print out an error message if the file is unreadable.
 // Otherwise, save the CSV file into dataset then call visualize function
-d3.csv("./data/summary.csv", function(error, data) {
-    dataset = data;
-    if (error) {
-        console.log(error);
-        window.alert("Cannot read in the file.");
-    }
-    else {
-        console.log(data);
-        
-        // Safety check that we are correctly reading in the file
-        for (i = 0; i < dataset.length; i++) {
-            console.log(dataset[i]);
-            if (dataset[i].Year < startYear) {
-                startYear = dataset[i].Year;
-            }
-            if (dataset[i].Year > endYear) {
-                endYear = dataset[i].Year;
-            }
-        }
-        // Call on the visualization function
-    
-        // Sort dataset 
-        // Right now I need to manually trigger them here, but I will add drop-down menu
-        // // Z to A 
-        // dataset.sort(sort_by('Thinker', true, function(a) {return a}));
-        // // A to Z
-        // dataset.sort(sort_by('Thinker', false, function(a) {return a}));
-        // // Descending order 
-        // dataset.sort(sort_by('Frequency', true, parseInt));
-        // // Ascending order
-        // dataset.sort(sort_by('Frequency', flase, parseInt));
-        filterBar(barFiltered, startYear, endYear);
+function initialize() {
 
-        barGraph();
-    }
-});
+    d3.csv("./data/summary.csv", function(error, data) {
+        dataset = data;
+        if (error) {
+            console.log(error);
+            window.alert("Cannot read in the file.");
+        }
+        else {
+            console.log(dataset);
+        
+            // Safety check that we are correctly reading in the file
+            for (i = 0; i < dataset.length; i++) {
+                if (dataset[i].Year < startYear) {
+                    startYear = dataset[i].Year;
+                }   
+                if (dataset[i].Year > endYear) {
+                    endYear = dataset[i].Year;
+                }
+            }
+
+            // Display the date range we are currently working on
+            document.getElementById("startYear").value = startYear;
+            document.getElementById("endYear").value = endYear;
+            // Call on the visualization function
+    
+            // Sort dataset 
+            // Right now I need to manually trigger them here, but I will add drop-down menu
+            // // Z to A 
+            // dataset.sort(sort_by('Thinker', true, function(a) {return a}));
+            // // A to Z
+            // dataset.sort(sort_by('Thinker', false, function(a) {return a}));
+            // // Descending order 
+            // dataset.sort(sort_by('Frequency', true, parseInt));
+            // // Ascending order
+            // dataset.sort(sort_by('Frequency', flase, parseInt));
+            filterBar();
+            barGraph();
+        }
+    });
+}
+
+// Update date range for the bar graph
+// This function grabs the date range provided by the user, re-filters the dataset, 
+// and updates the visualization
+function grabDate() {
+    startYear = parseInt(document.getElementById("startYear").value);
+    endYear = parseInt(document.getElementById("endYear").value);
+
+    console.log(startYear);
+    console.log(endYear);
+    
+    filterBar();
+    d3.select("svg").remove();
+    barGraph();
+}
 
 
 // The main function
@@ -177,46 +197,56 @@ var sort_by = function(field, reverse, primer) {
 // Then, the frequency at which the thinker is refered to in Ricoeur's work
 // is summed up for each thinker so that we don't display multiple occasions for
 // each thinker
-function filterBar(barFiltered, startYear, endYEar) {
+function filterBar() {
 
-    temp = [];
+    // Create temporary arrays to process
+    dateFilter = [];
+    // This method allows for creating an independent copy of dataset
+    // Makes a copy of dataset as temp
+    let temp = dataset.slice(0);  
+    console.log(temp);
+    // dataset is now independent of temp, and will not refer to temp
+    // i.e. modifying temp will no longer modify dataset
+    temp = dataset.map(o => Object.assign({}, o));
 
     // If the datum falls into the date range, add it to the temporary arry
-    for (var i = 0; i < dataset.length; i++) {        
-        if (startYear <= dataset[i].Year && dataset[i].Year <= endYear) {
-            temp.push(dataset[i]);
+    for (var i = 0; i < temp.length; i++) {     
+        if (parseInt(startYear) <= parseInt(temp[i].Year) && parseInt(temp[i].Year) <= parseInt(endYear)) {
+            dateFilter.push(temp[i]);
         }
     }
     // Sort the temporary array to make summation easier
-    temp.sort(sort_by('Thinker'), false, function(a) {return a});
+    dateFilter.sort(sort_by('Thinker'), false, function(a) {return a});
 
     // Initialize variables for summation
     sum = 0;
     bfLen = 0;
+    // Reset barFiltered 
+    barFiltered.length = 0;
 
     // Iterate through temp and look for redundancy in thinkers
-    for (var i = 0; i < temp.length; i++) {
+    for (var i = 0; i < dateFilter.length; i++) {
         // Add initial item
         if (!i) {
-            barFiltered.push(temp[i]);
+            barFiltered.push(dateFilter[i]);
             bfLen++;
         } 
         // If the current thinker is different from the previous one, 
         // add the entry to the barFiltered array
-        else if (temp[i].Thinker != temp[i - 1].Thinker) {
-            barFiltered.push(temp[i]);
-            barFiltered[bfLen].Frequency = parseInt(temp[i].Frequency);
+        else if (dateFilter[i].Thinker != dateFilter[i - 1].Thinker) {
+            barFiltered.push(dateFilter[i]);
+            barFiltered[bfLen].Frequency = parseInt(dateFilter[i].Frequency);
             bfLen++;
         } 
         // If the current thinker has just been added to the array
         // sum up frequency
         else {
-            sum = parseInt(barFiltered[bfLen - 1].Frequency) + parseInt(temp[i].Frequency)
+            sum = parseInt(barFiltered[bfLen - 1].Frequency) + parseInt(dateFilter[i].Frequency)
             barFiltered[bfLen - 1].Frequency = sum;
         }
     }
+    console.log(barFiltered);
 
-    delete temp;
 }
 
-
+initialize();
