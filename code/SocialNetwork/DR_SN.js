@@ -11,11 +11,11 @@
 //
 
 // Initialize the array for dataset
-var dataset = [];
-var barFiltered = [];
-var lineFiltered = [];
-var startYear = Number.MAX_SAFE_INTEGER;
-var endYear = Number.MIN_SAFE_INTEGER;
+var dataset = [], 
+    barFiltered = [],
+    lineFiltered = [],
+    startYear = Number.MAX_SAFE_INTEGER,
+    endYear = Number.MIN_SAFE_INTEGER;
 
 // Read in the .csv file
 // Right now this reads in one file, but maybe we should expand it to read in all .csv files?
@@ -141,8 +141,8 @@ function barGraph(){
 
     // Define the axes
     var xAxis = d3.axisBottom(xScale).
-        tickFormat(function(d, i) {
-            return barFiltered[i].Thinker;});
+                    tickFormat(function(d, i) {
+                        return barFiltered[i].Thinker;});
     var yAxis = d3.axisLeft(yScale);
 
     // Draw the axes
@@ -150,7 +150,9 @@ function barGraph(){
         attr("class", "x axis").
         attr("transform", "translate(0 "+ (height - padding) + ")").
         call(xAxis).
-        attr("font-weight", "bold");
+        attr("font-weight", "bold").
+        selectAll(".tick text").
+        call(wrapLabel, barWidth);
     svg.append("g").
         attr("class", "y axis").
         attr("transform", "translate(" + padding + ",0)").
@@ -173,6 +175,39 @@ function barGraph(){
 
 }
 
+// Function that wraps long names so that the labels do not overlap
+// The code was taken from Mike Bostok's code, found here:
+// https://bl.ocks.org/mbostock/7555321
+function wrapLabel(text, barWidth) {
+    text.each(function() {
+        var text = d3.select(this),
+            // words is a reversed array of the split string where the string is split 
+            // based on the regex \s+ which turns each continuous empty space with 
+            // empty string
+            words = text.text().split(/\s+/).reverse(),
+            word,
+            line = [],
+            lineNumber = 0,
+            lineHeight = 1.1, // ems
+            y = text.attr("y"),
+            dy = parseFloat(text.attr("dy")),
+            // Define tspan for adjusting of location for the label
+            tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em");
+        // Fetch the words from the label one by one
+        while (word = words.pop()) {
+            line.push(word);
+            tspan.text(line.join(" "));
+            // If the length of the tspan is greater than barWidth, i.e. if the name is too long
+            // remove the last word from the current line and create a new line for this word
+            if (tspan.node().getComputedTextLength() > barWidth) {
+                line.pop();
+                tspan.text(line.join(" "));
+                line = [word];
+                tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+            }
+        }
+    });
+}
 // Helper function for sort
 // Borrowed from https://stackoverflow.com/questions/979256/sorting-an-array-of-javascript-objects
 var sort_by = function(field, reverse, primer) {
