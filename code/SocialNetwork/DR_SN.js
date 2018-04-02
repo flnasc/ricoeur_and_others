@@ -14,8 +14,12 @@
 var dataset = [], 
     barFiltered = [],
     lineFiltered = [],
+    // Variables for date range of the graph
     startYear = Number.MAX_SAFE_INTEGER,
-    endYear = Number.MIN_SAFE_INTEGER;
+    endYear = Number.MIN_SAFE_INTEGER,
+    // Varaibles used for sorting
+    sortBy,
+    reverse;
 
 // Read in the .csv file
 // Right now this reads in one file, but maybe we should expand it to read in all .csv files?
@@ -43,22 +47,14 @@ function initialize() {
             }
 
             // Display the date range we are currently working on
+            // Also display the current sorting order
             document.getElementById("startYear").value = startYear;
             document.getElementById("endYear").value = endYear;
-            // Call on the visualization function
-    
-            // Sort dataset 
-            // Right now I need to manually trigger them here, but I will add drop-down menu
-            // // Z to A 
-            // dataset.sort(sort_by('Thinker', true, function(a) {return a}));
-            // // A to Z
-            // dataset.sort(sort_by('Thinker', false, function(a) {return a}));
-            // // Descending order 
-            // dataset.sort(sort_by('Frequency', true, parseInt));
-            // // Ascending order
-            // dataset.sort(sort_by('Frequency', flase, parseInt));
+            document.getElementById("reverse").value = "Descending";
+            
+            // Filter the dataset for visualization
             filterBar();
-            barGraph();
+            checkReverse();
         }
     });
 }
@@ -74,10 +70,69 @@ function grabDate() {
     console.log(endYear);
     
     filterBar();
+    sortData();
+}
+
+// The user can input the dates by hitting enter instead of clicking Date Range
+function checkInput() {
+    // Initialize inputs
+    var startInput = document.getElementById("startYear"),
+        endInput = document.getElementById("endYear");
+    
+    // If "enter" is hit while the user is inputing start year, call grabDate
+    startInput.addEventListener("keyup", function(event) {
+        event.preventDefault();
+        if (event.keyCode === 13) {
+            grabDate();
+        }
+    });
+
+    // If "enter" is hit while the user is inputing end year, call grabDate
+    endInput.addEventListener("keyup", function(event) {
+        event.preventDefault();
+        if (event.keyCode === 13) {
+            grabDate();
+        }
+    });
+}
+
+// From the two mutually exclusive radio buttons, fetch by which factor to sort barFiltered.
+// Then, sort barFiltered using updated sortBy and reverse, redrawing the bargraph
+function sortData() {
+   var sortByRadio = document.getElementsByName("sortBy");
+   for (var i = 0; i < sortByRadio.length; i++) {
+        if (sortByRadio[i].checked){
+            sortBy = sortByRadio[i].value;
+            if (sortByRadio[i].value == "Thinker") {
+                barFiltered.sort(sort_by(sortBy, reverse, function(a) {return a}));
+                console.log(sortByRadio[i].value);
+            } else {
+                barFiltered.sort(sort_by(sortBy, reverse, parseInt));
+                console.log(sortByRadio[i].value);
+            }
+            break;
+        }
+   }
     d3.select("svg").remove();
     barGraph();
 }
 
+// If the user wants to reverse the order of sorting, they can click the button
+// It will reverse the sorting order, after which this function calls on sortData()
+// to further sort and redisplay the graph
+function checkReverse() {
+    currentMode = document.getElementById("reverse").value;
+    if (currentMode == "Ascending") {
+        reverse = true;
+        document.getElementById("reverse").value = "Descending";
+    } else {
+        reverse = false;
+        document.getElementById("reverse").value = "Ascending";
+    }
+    console.log(reverse);
+    sortData();
+
+}
 
 // The main function
 // Set dimension of the SVG, create the element, then draw the graph
@@ -285,3 +340,4 @@ function filterBar() {
 }
 
 initialize();
+checkInput();
