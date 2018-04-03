@@ -8,13 +8,34 @@
 import os 
 import xml.etree.ElementTree as ET
 
-def findXmlFile(term):
+globalBook = 0
+globalJournal = 0
+
+def incrementBook():
+	global globalBook
+	globalBook += 1
+
+def incrementJournal():
+	global globalJournal
+	globalJournal += 1
+
+def clearCounters():
+	global globalBook
+	globalBook = 0
+	global globalJournal
+	globalJournal = 0 
+
+
+def findXmlFile(term): 
+
+	# Need to clear counters for serach results from prev search 
+	clearCounters()
 
 	# Go through directory to reach the xml files 
 	# subdir: next directory found
 	# dirs: list of subdirectoreis in current dir
 	# files: list of files in current dir 
-	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher"
+	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher/test"
 	for subdir, dirs, files in os.walk(rootdir):
 		for file in files:
 			if file.endswith(".xml"):
@@ -28,6 +49,7 @@ def findXmlFile(term):
 				if(file.startswith("journal")):
 					parseJournalChapterXmlFile(term, item, file)
 					print("Parsed", file)
+
 
 # Parse through and find articles that match key word
 def parseJournalChapterXmlFile(term, item, file):
@@ -86,6 +108,7 @@ def parseJournalChapterXmlFile(term, item, file):
 		results.clear()
 	else:
 		# Now write to HTML File 
+		incrementJournal()
 		addJournalToHtmlFile(results, file)
 		termFound = False
 
@@ -141,6 +164,7 @@ def parseBookChapterXmlFile(term, item, file):
 					bookInfo[elem.tag] = elem.text
 
 	if(termFoundInBook):
+		incrementBook()
 		addBooktoHtmlFile(bookInfo, file)
 
     # Next grab info of individual chapters
@@ -179,6 +203,7 @@ def parseBookChapterXmlFile(term, item, file):
 		if(not termFoundInChapter):
 			chapterInfo.clear()
 		else:
+			incrementBook()
 			addChaptertoHtmlFile(chapterInfo,bookInfo, file)
 			chapterInfo.clear()
 			termFoundInChapter = False
@@ -197,6 +222,8 @@ def createHtmlFile(term):
 	f.write('  ' + '<body>' + '\n')
 	f.write('  ' + '<center><h2>Digital Ricoeur - Jstor Navigator</h2></center>' + '\n' +'\n')
 	f.write('  ' + '<h3>Search Term: ' + term + '</h3')
+	f.write('  ' + '<h3>Number of Book Results: ### ' + '</h3')
+	f.write('  ' + '<h3>Number of Journal Results: !!! ' + '</h3' + '<br>')
 	f.write('  ' + '<p>' + '\n')
 
 	f.close()
@@ -283,7 +310,16 @@ def addJournalToHtmlFile(dictionaryOfResults, file):
 
     f.close()
 
-   
+# iterate through and find place holders and replace with counters
+def writeCounters():
+	with open('Digital Ricoeur-JStor Navigator.html','r') as f:
+		data = f.readlines()
+		data[8] = data[8].replace('###',str(globalBook))
+		data[8] = data[8].replace('!!!',str(globalJournal))
+
+	with open('Digital Ricoeur-JStor Navigator.html', 'w') as f:
+		f.writelines(data)
+
 # Allow the user to enter in multiple words seperaeted by
 # comma to generate multiple at once 
 def main():
@@ -292,6 +328,7 @@ def main():
 	term = input("Please enter in your word: ")
 	createHtmlFile(term)
 	findXmlFile(term)
+	writeCounters()
 
 	f = open('Digital Ricoeur-JStor Navigator.html','a')
 	f.write('  ' + '</body>' + '\n')
