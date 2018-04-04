@@ -66,7 +66,7 @@ def extract_network(file):
     #return agg_list
 
     #Write the list to a csv file with name in one column and frequency in the next
-    myfile = open(file[:-4] + '_stanford.csv', 'w', newline = '')#Name csv after the text file, removing .txt and adding .csv
+    myfile = open(file[:-4] + '.csv', 'w', newline = '')#Name csv after the text file, removing .txt and adding .csv
     with myfile:
         writer = csv.writer(myfile)
         writer.writerows(agg_list)
