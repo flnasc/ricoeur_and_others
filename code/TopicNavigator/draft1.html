@@ -64,26 +64,15 @@ h1 {
 </style>
     <head></head>
     <body>
-        <header>
-            <div id="site-info">
-                <div>
-                    <img src="https://digitalricoeur.org/style/photo.png" id="site-photo" alt="Photograph of Paul Ricœur">
-                    </div>
-                    <div>
-                        <h1 id="site-title">Digital Ricœur - Topic Navigator</h1>
-                    </div>
-                </div>
-                <nav id="site-nav">
-                    <a href="https://digitalricoeur.org/log-in">Log In</a>
-                </nav>
-                <div class="clear"></div>
-            </header>
+        <header><div id="site-info"><div><img src="https://digitalricoeur.org/style/photo.png" id="site-photo" alt="Photograph of Paul Ricœur"></div><div><h1 id="site-title">Digital Ricœur</h1></div></div><nav id="site-nav"><a href="https://digitalricoeur.org/">Search</a><a href="https://digitalricoeur.org/get-inspired">Get Inspired</a><a href="https://digitalricoeur.org/corpus">Corpus</a><a href="https://digitalricoeur.org/about">About</a><a href="https://digitalricoeur.org/my-account">My Account</a><a href="https://digitalricoeur.org/feedback">Send Feedback</a><a href="https://digitalricoeur.org/log-out">Log Out</a></nav><div class="clear"></div></header>
             <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width,initial-scale=1">
                     <link rel="stylesheet" type="text/css" href="https://digitalricoeur.org/style/ricoeur.css">
+                    <div style="padding: 10px">
                     <h2>Jump to Topic</h2>
                         <body onload='create_content()'></body>
                         <div id="sections"></div>
+                    </div>
     </body>
 <script>
 
@@ -144,9 +133,12 @@ function create_content() {
     for (i=0; i<topics.length; i++) {
         x = x + '<h2 id="' + topics[i] + '">' + topics[i] +':</h2>';
         for (j =0; j<topics[i].length; j++){
+        x = x + '<div style="padding: 10px; display: inline;">';
             x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/about;((%22c%22%20.%20%220sGYqH%2FbjxS96qpeU9ItA68y67jcoKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjQ3NDUiKSkgMCAoKSAoKSAoMCAoMSAoaCAtICgpIChsaWZ0ZWQuNTQtMCB1IC4gImh0dHBzOi8vZGlnaXRhbHJpY29ldXIub3JnLyIpIChsaWZ0ZWQuMjQ0MC04IC4gI2YpIChsaWZ0ZWQuMjQwNC02IC4gI3QpIChsaWZ0ZWQuMTIwMDYtMiAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTIwMjQtMyAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTU4NS00IC4gdGVtcDE1KSAobGlmdGVkLjIzODYtNSAuIGZpcnN0LT5sYXN0KSAobGlmdGVkLjI0NTgtOSAuIGFueSkgKGxpZnRlZC4yNDIyLTcgLiAjdCkgKGxpZnRlZC4xMTk4OC0xIC4gbGFzdC11c2VkKSAobGlmdGVkLjEwMzgtMTAgLiB0ZW1wMSkpKSAoYyAodiEgKDIpICNmICNmKSkpKQ==%22))?input_0='+ search_terms[i][j] +'">Primary Source</a><a href="#">Secondary Source</a></div></div>';
         }
+        x = x + '</div> ';
     }
+
     z += x;
     document.getElementById("sections").innerHTML = z;
 }
