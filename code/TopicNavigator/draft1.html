@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <style>
+body {
+  background-color: white;
+  margin: 20px;
+    font-family: 'Cormorant', serif;
+    font-size: 1.1em;
+    width: 100%;
+}
+
+h1 {
+    padding: 20px;
+    background-color: #9E9E9E;
+    color: black;
+    text-align: center;
+}
+
+.dropbtn {
+    font-family: 'Cormorant', serif;
+    font-size: 1.0em;
+    display: inline-block;
+    background-color: #F1F1F1;
+    text-decoration: underline;
+    border-radius: 2px;
+    border: none;
+    
+}
+
+.dropdown {
+    background-color: none;
+    position: relative;
+    display: inline-block;
+    border: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #E0E0E0;
+}
+
+</style>
+    <head></head>
+    <body>
+        <header><div id="site-info"><div><img src="https://digitalricoeur.org/style/photo.png" id="site-photo" alt="Photograph of Paul Ricœur"></div><div><h1 id="site-title">Digital Ricœur</h1></div></div><nav id="site-nav"><a href="https://digitalricoeur.org/">Search</a><a href="https://digitalricoeur.org/get-inspired">Get Inspired</a><a href="https://digitalricoeur.org/corpus">Corpus</a><a href="https://digitalricoeur.org/about">About</a><a href="https://digitalricoeur.org/my-account">My Account</a><a href="https://digitalricoeur.org/feedback">Send Feedback</a><a href="https://digitalricoeur.org/log-out">Log Out</a></nav><div class="clear"></div></header>
+            <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                    <link rel="stylesheet" type="text/css" href="https://digitalricoeur.org/style/ricoeur.css">
+                    <div style="padding: 10px">
+                    <h2>Jump to Topic</h2>
+                        <body onload='create_content()'></body>
+                        <div id="sections"></div>
+                    </div>
+    </body>
+<script>
+
+var topics = ["History","Evil","Testimony","Choice","Language","Memory","Concept","Par","Critique","Language","Phenomenology","Death","Language","Ideology","Man","Body","Substance","Discourse","Psychoanalysis","Ideology","Pleasure","Pp","Project","Meaning","Conscience","Emotion","Action","Freedom","Image","Utopia","Man","Dream","Text","Gt","Metaphor","Freedom","Justice","Logic","Text","Time"];
+var search_terms = [
+    ["history","philosophy","truth","work","time","explanation","event"],
+    ["evil","myth","sin","man","theology","world","experience"],
+    ["testimony","freedom","meaning","witness","hope","consciousness","time"],
+    ["choice","attention","freedom","act","project","consciousness","decision"],
+    ["language","text","translation","work","time","word","meaning"],
+    ["memory","die","time","history","representation","past","work"],
+    ["concept","labor","ideology","alienation","production","man","relation"],
+    ["par","consciousness","world","cf","meaning","reduction","phenomenology",],
+    ["critique","experience","text","interpretation","understanding","tradition","ideology"],
+    ["language","philosophy","time","history","work","problem","relation"],
+    ["phenomenology","sense","consciousness","ego","world","experience","body"],
+    ["death","time","life","work","memory","narrator","relation"],
+    ["language","theory","philosophy","system","science","problem","question"],
+    ["ideology","critique","action","situation","psychoanalysis","process","concept"],
+    ["man","history","power","work","world","violence","word"],
+    ["body","action","movement","effort","object","world","consciousness"],
+    ["substance","philosophy","problem","soul","science","form","question"],
+    ["discourse","text","meaning","world","work","language","reference"],
+    ["psychoanalysis","theory","meaning","work","language","interpretation","point"],
+    ["ideology","concept","order","system","relation","function","action"],
+    ["pleasure","pain","life","imagination","object","body","feeling"],
+    ["pp","translation","cit","der","op","philosophy","du"],
+    ["project","decision","consciousness","action","description","relation","possibility"],
+    ["meaning","interpretation","symbol","reflection","language","symbolism","consciousness"],
+    ["conscience","sense","logic","question","gift","rule","justice"],
+    ["emotion","habit","body","consciousness","desire","movement","action"],
+    ["action","sense","question","identity","character","relation","person"],
+    ["freedom","death","consciousness","consent","necessity","man","experience"],
+    ["image","world","fiction","imagination","sense","meaning","language"],
+    ["utopia","language","sense","imagination","action","ideology","world"],
+    ["man","reflection","thing","point","idea","synthesis","finitude"],
+    ["dream","work","philosophy","experience","point","interpretation","man"],
+    ["text","discourse","revelation","sense","world","language","faith"],
+    ["gt","lt","ego","principle","reality","death","desire"],
+    ["metaphor","level","meaning","language","word","discourse","sense"],
+    ["freedom","consciousness","life","character","necessity","man","nature"],
+    ["justice","idea","law","sense","state","fact","order"],
+    ["logic","theory","philosophy","language","law","science","reality"],
+    ["text","interpretation","language","explanation","discourse","world","relation"],
+    ["time","work","text","story","reader","history","fiction"]
+];
+
+
+
+function create_content() {
+    var z = "", x = "", i, k;
+    var sorted = topics.slice();
+    sorted.sort();
+    for (k = 0; k < sorted.length; k++) {
+        z = z + '<a href="#' + sorted[k] + '">' + sorted[k] + '</a> - ';
+    }
+
+    for (i=0; i<topics.length; i++) {
+        x = x + '<h2 id="' + topics[i] + '">' + topics[i] +':</h2>';
+        for (j =0; j<topics[i].length; j++){
+        x = x + '<div style="padding: 10px; display: inline;">';
+            x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/about;((%22c%22%20.%20%220sGYqH%2FbjxS96qpeU9ItA68y67jcoKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjQ3NDUiKSkgMCAoKSAoKSAoMCAoMSAoaCAtICgpIChsaWZ0ZWQuNTQtMCB1IC4gImh0dHBzOi8vZGlnaXRhbHJpY29ldXIub3JnLyIpIChsaWZ0ZWQuMjQ0MC04IC4gI2YpIChsaWZ0ZWQuMjQwNC02IC4gI3QpIChsaWZ0ZWQuMTIwMDYtMiAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTIwMjQtMyAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTU4NS00IC4gdGVtcDE1KSAobGlmdGVkLjIzODYtNSAuIGZpcnN0LT5sYXN0KSAobGlmdGVkLjI0NTgtOSAuIGFueSkgKGxpZnRlZC4yNDIyLTcgLiAjdCkgKGxpZnRlZC4xMTk4OC0xIC4gbGFzdC11c2VkKSAobGlmdGVkLjEwMzgtMTAgLiB0ZW1wMSkpKSAoYyAodiEgKDIpICNmICNmKSkpKQ==%22))?input_0='+ search_terms[i][j] +'">Primary Source</a><a href="#">Secondary Source</a></div></div>';
+        }
+        x = x + '</div> ';
+    }
+
+    z += x;
+    document.getElementById("sections").innerHTML = z;
+}
+
+                            </script>
+                        </html>
