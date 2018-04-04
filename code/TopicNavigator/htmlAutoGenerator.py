@@ -43,7 +43,8 @@ def createNewFile(inputFile):
 	f.write('<meta charset="utf-8">' + '\n' + '\n')
 	f.write('  ' + '<body>' + '\n')
 	f.write( '  ' + '<center><h2>Digital Ricoeur - Topic Navigator</h2></center>' + '\n' +'\n')
-
+    
+    
 	#loop through and find words 
 	for topic in inputFile:
 		f.write('  ' + '<h3>' + topic[0].title() + '</h3>' + '\n' + '\n')
@@ -67,7 +68,6 @@ def createNewFile(inputFile):
 	            ' diEgKDIpICNmICNmKSkpKQ==%22))?input_0= ' + topic[word] + '"'+ '>')
 			f.write(topic[word] + '</a>' + ' ' + '\n' + '\n')
 		f.write('\n' + '\n')
-
 	f.write('  ' + '</body>' + '\n')
 	f.write('</html>')
 	f.closed
