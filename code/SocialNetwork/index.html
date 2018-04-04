@@ -10,17 +10,27 @@
     <body>
     <h1> Digital Ricoeur: Ricoeur's Social Network  </h1>
     <p>This will serve as an interactive presentation of Ricoeur's Social Network, based on the frequency at which Ricoeur refers to other thinkers. 
-    <br>We currently have a <em> static</em> bar graph, using a CSV file with made-up data. 
-    <br>The CSV file comprises of two columns, <em> Thinker </em> and <em> Frequency </em> as seen in the graph. 
-    <br>The user may wish to be able to sort the graph or interact with it in some other way. 
-    <br>While sorting function will require changes in the format of the CSV file, other interactivities could be added easily. 
-    <br>Also, we may want to experiment with the ability to add multiple CSV files.
-    <br>Another fix that may be required is dynamic sizing of the font for the x-axis, as <em> Thinkers </em> with longer names (e.g. Thomas Aquinas) spill over to other bars.
+    <br>We currently have an <em> interactive </em> bar graph, using a CSV file with made-up data. 
+    <br>The CSV file comprises of four columns, <em> Thinker </em>, <em> Frequency </em>, <em> Year </em>, and <em> Title </em> of Ricoeur's publication. 
     </p>
 
+    <!-- Allow for input of start year and end year for ranged display of data  -->
+    <input type="text" id="startYear" size="4">
+    <span> ~ </span>
+    <input type="text" id="endYear" size="4">
+    <button onclick="grabDate()"> Update Range </button>
+    <br>
+    <span><b> Sort by: </b></span>
+    <span> Thinker </span>
+    <input type="radio" name="sortBy" value="Thinker" onclick="sortData()" checked="checked">
+    <span> Frequency </span>
+    <input type="radio" name="sortBy" value="Frequency" onclick="sortData()">
+    <span> 
+    <input type="button" id="reverse" onclick="checkReverse()">
+    <br>
 
     <script src = "./DR_SN.js"></script>
 
 
     </body>
-</html>
+<html>
