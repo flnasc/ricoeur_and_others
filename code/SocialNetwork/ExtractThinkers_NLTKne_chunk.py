@@ -6,7 +6,7 @@ I also did not implement the first name recognition/elimination in this one, so 
 
 from nltk.corpus import PlaintextCorpusReader
 from nltk.text import Text
-corpus_root = '/Users/Alessandra Laurent/Documents/Icebox/Bowdoin Spring 2018/Digital Ricoeur/'
+corpus_root = '/../../data/books/'
 my_corpus = PlaintextCorpusReader(corpus_root,'.*txt')
 
 from nltk import ne_chunk, pos_tag
