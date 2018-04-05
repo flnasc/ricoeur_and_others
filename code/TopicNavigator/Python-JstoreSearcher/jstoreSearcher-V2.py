@@ -9,7 +9,6 @@ import xml.etree.ElementTree as ET
 
 globalBook = 0
 globalJournal = 0
-globalOpen = 0
 
 # 
 def incrementBook():
@@ -25,10 +24,7 @@ def clearCounters():
 	global globalJournal
 	globalBook = 0 
 	globalJournal = 0 
-
-def incrementOpen():
-	global globalOpen
-	globalOpen +=1
+	
 
 # create html files for the amount of items in term list
 def createHtmlFiles(term,f):
@@ -49,35 +45,41 @@ def createHtmlFiles(term,f):
 # Takes a list of terms
 # Finds location of xml files 
 # Calls the parse functions for book and chapter
-def findXmlFile(term,f): 
+
+#../../../data/jstor_metadata
+def findXmlFile(term,f): 		
 
 	# Need to clear counters for serach results from prev search 
 	clearCounters()
 
 	# Go through directory to reach the xml files 
-	# subdir: next directory found
-	# dirs: list of subdirectoreis in current dir
-	# files: list of files in current dir 
+	# dirname: the next directory
+	# subdirList: A list of sub-directories in current directory
+	# files a list of files in the current directory
+
 
 	# Change this line for location of files
-	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher/jstor_metadata"
 
-	for subdir, dirs, files in os.walk(rootdir):
-		for file in files:
-			if file.endswith(".xml"):
-				item = os.path.join(subdir, file)
-				
-				# depending on whehter it a book chapter or journal
-				if(file.startswith("book")):
-					parseBookChapterXmlFile(term, item, file,f)
-					#print("Parsed ", file, " for: ", term)
+	rootdir = "../../.."
 
-				if(file.startswith("journal")):
-					parseJournalChapterXmlFile(term, item, file,f)
-					#print("Parsed", file, " for: ", term)
+	for dirName, subdirList, files in os.walk(rootdir):
+		if(dirName == "../../../data/jstor_metadata"):
+			
+			for file in files:
+				if file.endswith(".xml"):
+					item = os.path.join(dirName, file)
+
+					#depending on whehter it a book chapter or journal
+					if(file.startswith("book")):
+						parseBookChapterXmlFile(term, item, file, f)
+						#print("Parsed ", file, " for: ", term)
+					if(file.startswith("journal")):
+						parseJournalChapterXmlFile(term, item, file, f)						
+						#print("Parsed", file, " for: ", term)
 
 # Parse through and find articles that match key word
 def parseJournalChapterXmlFile(term, item, file,f):
+
 
 	# Using Element Tree
 	tree = ET.parse(item)
@@ -192,7 +194,6 @@ def parseBookChapterXmlFile(term, item, file,f):
 		incrementBook()
 		addBooktoHtmlFile(bookInfo, file, term,f)
 
-    # Next grab info of individual chapters
 	for item in root.iter('book-part-meta'):
 		for elem in item.iter():
 			if(elem.tag in attributes):
@@ -223,18 +224,18 @@ def parseBookChapterXmlFile(term, item, file,f):
 						termFoundInChapter = True
 						chapterInfo['chapter-abstract'] = chapterAbstract
 				else:
-					chapterInfo[elem.tag] = elem.text
+					chapterInfo[elem.tag] = elem.text 
 
 		if(not termFoundInChapter):
 			chapterInfo.clear()
 		else:
 			incrementBook()
 			addChaptertoHtmlFile(chapterInfo,bookInfo, file, term,f)
+
 			chapterInfo.clear()
 			termFoundInChapter = False
 
 def addBooktoHtmlFile(dictionaryOfResults, file, term,f):
-    incrementOpen()
     f.write('<br>' + '\n')
     f.write("File: " + file + '\n')
     if("book-title" in dictionaryOfResults.keys()):
@@ -259,7 +260,6 @@ def addBooktoHtmlFile(dictionaryOfResults, file, term,f):
 
 
 def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
-    incrementOpen()
     f.write("File: " + file + '\n')
 
     if("label" in chapterInfo.keys()):
@@ -285,7 +285,6 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
 
 
 def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
-    incrementOpen()
     f.write("File: " + file + '\n')
 
     if("journal-title" in dictionaryOfResults.keys()):
@@ -329,46 +328,48 @@ def writeCounters(term,f):
 
 def main():
 
-	terms = ["history","philosophy","truth","work","time","explanation","event",
-    "evil","myth","sin","man","theology","world","experience",
-    "testimony","freedom","meaning","witness","hope","consciousness","time",
-    "choice","attention","freedom","act","project","consciousness","decision",
-    "language","text","translation","work","time","word","meaning",
-    "memory","die","time","history","representation","past","work",
-    "concept","labor","ideology","alienation","production","man","relation",
-    "par","consciousness","world","cf","meaning","reduction","phenomenology",
-    "critique","experience","text","interpretation","understanding","tradition","ideology",
-    "language","philosophy","time","history","work","problem","relation",
-    "phenomenology","sense","consciousness","ego","world","experience","body",
-    "death","time","life","work","memory","narrator","relation",
-    "language","theory","philosophy","system","science","problem","question",
-    "ideology","critique","action","situation","psychoanalysis","process","concept",
-    "man","history","power","work","world","violence","word",
-    "body","action","movement","effort","object","world","consciousness",
-    "substance","philosophy","problem","soul","science","form","question",
-    "discourse","text","meaning","world","work","language","reference",
-    "psychoanalysis","theory","meaning","work","language","interpretation","point",
-    "ideology","concept","order","system","relation","function","action",
-    "pleasure","pain","life","imagination","object","body","feeling",
-    "pp","translation","cit","der","op","philosophy","du",
-    "project","decision","consciousness","action","description","relation","possibility",
-    "meaning","interpretation","symbol","reflection","language","symbolism","consciousness",
-    "conscience","sense","logic","question","gift","rule","justice",
-    "emotion","habit","body","consciousness","desire","movement","action",
-    "action","sense","question","identity","character","relation","person",
-    "freedom","death","consciousness","consent","necessity","man","experience",
-    "image","world","fiction","imagination","sense","meaning","language",
-    "utopia","language","sense","imagination","action","ideology","world",
-    "man","reflection","thing","point","idea","synthesis","finitude",
-    "dream","work","philosophy","experience","point","interpretation","man",
-    "text","discourse","revelation","sense","world","language","faith",
-    "gt","lt","ego","principle","reality","death","desire",
-    "metaphor","level","meaning","language","word","discourse","sense",
-    "freedom","consciousness","life","character","necessity","man","nature",
-    "justice","idea","law","sense","state","fact","order",
-    "logic","theory","philosophy","language","law","science","reality",
-    "text","interpretation","language","explanation","discourse","world","relation",
-    "time","work","text","story","reader","history","fiction"]
+	terms =['philosophy','truth','history']
+
+	# terms = ["history","philosophy","truth","work","time","explanation","event",
+ #    "evil","myth","sin","man","theology","world","experience",
+ #    "testimony","freedom","meaning","witness","hope","consciousness","time",
+ #    "choice","attention","freedom","act","project","consciousness","decision",
+ #    "language","text","translation","work","time","word","meaning",
+ #    "memory","die","time","history","representation","past","work",
+ #    "concept","labor","ideology","alienation","production","man","relation",
+ #    "par","consciousness","world","cf","meaning","reduction","phenomenology",
+ #    "critique","experience","text","interpretation","understanding","tradition","ideology",
+ #    "language","philosophy","time","history","work","problem","relation",
+ #    "phenomenology","sense","consciousness","ego","world","experience","body",
+ #    "death","time","life","work","memory","narrator","relation",
+ #    "language","theory","philosophy","system","science","problem","question",
+ #    "ideology","critique","action","situation","psychoanalysis","process","concept",
+ #    "man","history","power","work","world","violence","word",
+ #    "body","action","movement","effort","object","world","consciousness",
+ #    "substance","philosophy","problem","soul","science","form","question",
+ #    "discourse","text","meaning","world","work","language","reference",
+ #    "psychoanalysis","theory","meaning","work","language","interpretation","point",
+ #    "ideology","concept","order","system","relation","function","action",
+ #    "pleasure","pain","life","imagination","object","body","feeling",
+ #    "pp","translation","cit","der","op","philosophy","du",
+ #    "project","decision","consciousness","action","description","relation","possibility",
+ #    "meaning","interpretation","symbol","reflection","language","symbolism","consciousness",
+ #    "conscience","sense","logic","question","gift","rule","justice",
+ #    "emotion","habit","body","consciousness","desire","movement","action",
+ #    "action","sense","question","identity","character","relation","person",
+ #    "freedom","death","consciousness","consent","necessity","man","experience",
+ #    "image","world","fiction","imagination","sense","meaning","language",
+ #    "utopia","language","sense","imagination","action","ideology","world",
+ #    "man","reflection","thing","point","idea","synthesis","finitude",
+ #    "dream","work","philosophy","experience","point","interpretation","man",
+ #    "text","discourse","revelation","sense","world","language","faith",
+ #    "gt","lt","ego","principle","reality","death","desire",
+ #    "metaphor","level","meaning","language","word","discourse","sense",
+ #    "freedom","consciousness","life","character","necessity","man","nature",
+ #    "justice","idea","law","sense","state","fact","order",
+ #    "logic","theory","philosophy","language","law","science","reality",
+ #    "text","interpretation","language","explanation","discourse","world","relation",
+ #    "time","work","text","story","reader","history","fiction"]
 
 	start = time.time()
 
