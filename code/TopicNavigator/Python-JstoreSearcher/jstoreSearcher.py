@@ -11,6 +11,7 @@ import xml.etree.ElementTree as ET
 
 globalBook = 0
 globalJournal = 0
+globalOpen = 0
 
 def incrementBook():
 	global globalBook
@@ -25,6 +26,10 @@ def clearCounters():
 	global globalJournal
 	globalBook = 0 
 	globalJournal = 0 
+
+def incrementOpen():
+	global globalOpen
+	globalOpen +=1
 
 
 # Takes a list of terms
@@ -41,7 +46,9 @@ def findXmlFile(term):
 	# files: list of files in current dir 
 
 	# Change this line for location of files
-	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher/test"
+	rootdir = r"/mnt/c/Users/Marty/Documents/GitHub/ricoeur_and_others/code/TopicNavigator/Python-JstoreSearcher/jstor_metadata"
+
+	start1 = time.time()
 
 	for subdir, dirs, files in os.walk(rootdir):
 		for file in files:
@@ -56,6 +63,8 @@ def findXmlFile(term):
 				if(file.startswith("journal")):
 					parseJournalChapterXmlFile(term, item, file)
 					print("Parsed", file, " for: ", term)
+	end1 = time.time()
+	print("Time it took to complete search for word: ", str(term), str(end1-start1))
 
 
 # Parse through and find articles that match key word
@@ -238,6 +247,7 @@ def createHtmlFiles(term):
 
 def addBooktoHtmlFile(dictionaryOfResults, file, term):
     f = open('Digital-Ricoeur-JStor-'+ term +'.html','a') # open up the file
+    incrementOpen()
     f.write('<br>' + '\n')
     f.write("File: " + file + '\n')
     if("book-title" in dictionaryOfResults.keys()):
@@ -264,7 +274,7 @@ def addBooktoHtmlFile(dictionaryOfResults, file, term):
 
 def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term):
     f = open('Digital-Ricoeur-JStor-'+ term +'.html','a') # open up the file 
-
+    incrementOpen()
     f.write("File: " + file + '\n')
 
     if("label" in chapterInfo.keys()):
@@ -292,6 +302,7 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term):
 
 def addJournalToHtmlFile(dictionaryOfResults, file, term):
     f = open('Digital-Ricoeur-JStor-'+ term +'.html','a') # open up the file
+    incrementOpen()
     f.write("File: " + file + '\n')
 
     if("journal-title" in dictionaryOfResults.keys()):
@@ -339,7 +350,7 @@ def writeCounters(term):
 def main():
 
 	# Change the stuff here to search for terms
-	terms = ['history', 'philosophy', 'truth', 'work', 'time', 'explanation']
+	terms = ['history']
 
 	for term in terms:
 
@@ -356,6 +367,7 @@ def main():
 
 		end = time.time()
 
-		print("Time took: ", str(end-start) + " sec ")
+	print("Overall Time for 6 words: ", str(end-start) + " sec ")
+	print("Time files were open: ", globalOpen)
 
 if __name__ == "__main__": main()
