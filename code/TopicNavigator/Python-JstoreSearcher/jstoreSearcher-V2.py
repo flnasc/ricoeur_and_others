@@ -37,16 +37,14 @@ def createHtmlFiles(term,f):
 	f.write('<meta charset="utf-8">' + '\n' + '\n')
 	f.write('  ' + '<body>' + '\n')
 	f.write('  ' + '<center><h2>Digital Ricoeur - JStor </h2></center>' + '\n' +'\n')
-	f.write('  ' + '<h3>Search Term: ' + term + '</h3')
-	f.write('  ' + '<h3>Number of Book Results: ### ' + '</h3')
-	f.write('  ' + '<h3>Number of Journal Results: !!! ' + '</h3' + '<br>')
+	f.write('  ' + '<h3>Search Term: ' + term + '</h3>' + '\n')
+	f.write('  ' + '<h3>Book Results: ### ' + '</h3>' + '\n')
+	f.write('  ' + '<h3>Journal Results: !!! ' + '</h3>' + '<br>' + '\n')
 	f.write('  ' + '<p>' + '\n')
 
 # Takes a list of terms
 # Finds location of xml files 
 # Calls the parse functions for book and chapter
-
-#../../../data/jstor_metadata
 def findXmlFile(term,f): 		
 
 	# Need to clear counters for serach results from prev search 
@@ -57,14 +55,13 @@ def findXmlFile(term,f):
 	# subdirList: A list of sub-directories in current directory
 	# files a list of files in the current directory
 
-
 	# Change this line for location of files
-
 	rootdir = "../../.."
 
 	for dirName, subdirList, files in os.walk(rootdir):
+		# print('Found directory: %s' % dirName)
 		if(dirName == "../../../data/jstor_metadata"):
-			
+
 			for file in files:
 				if file.endswith(".xml"):
 					item = os.path.join(dirName, file)
@@ -79,7 +76,6 @@ def findXmlFile(term,f):
 
 # Parse through and find articles that match key word
 def parseJournalChapterXmlFile(term, item, file,f):
-
 
 	# Using Element Tree
 	tree = ET.parse(item)
@@ -236,31 +232,31 @@ def parseBookChapterXmlFile(term, item, file,f):
 			termFoundInChapter = False
 
 def addBooktoHtmlFile(dictionaryOfResults, file, term,f):
-    f.write('<br>' + '\n')
-    f.write("File: " + file + '\n')
+
     if("book-title" in dictionaryOfResults.keys()):
-    	f.write("    " + "Book Title: " + dictionaryOfResults["book-title"] + "-")
+    	f.write("  " + "Book Title: " + dictionaryOfResults["book-title"] + "-")
 
     if("book-subtitle" in dictionaryOfResults.keys()):
     	f.write(dictionaryOfResults["book-subtitle"] + '<br>' + '\n')
 
     if("publisher-name" in dictionaryOfResults.keys()):
-    	f.write("    " + "Publisher: " + dictionaryOfResults["publisher-name"] + '<br>' + '\n')
+    	f.write("  " + "Publisher: " + dictionaryOfResults["publisher-name"] + '<br>' + '\n')
 
     if("book-surname" in dictionaryOfResults.keys()):
-    	f.write("    " + "Author(s): " + dictionaryOfResults['book-surname'])
+    	f.write("  " + "Author(s): " + dictionaryOfResults['book-surname'])
 
     if("book-given-names" in dictionaryOfResults.keys()):
     	f.write(" " + dictionaryOfResults["book-given-names"] + '<br>' + '\n')
 
-    f.write("    Abstract: " + dictionaryOfResults["book-abstract"] + '<br>' + '\n')
+    f.write("  Abstract: " + dictionaryOfResults["book-abstract"] + '<br>' + '\n')
 
-    f.write("    " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
-    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br> ' + '<br>' + '\n' + '\n')
+    f.write("  " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
+    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br> ' + '\n')
+
+    f.write("  <hr>" + '<br>' + '\n' + '\n' )
 
 
 def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
-    f.write("File: " + file + '\n')
 
     if("label" in chapterInfo.keys()):
     	f.write("  " + chapterInfo["label"])
@@ -269,35 +265,39 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
     	f.write("  " + chapterInfo["title"])
 
     if("book-title" in bookInfo.keys()):
-    	f.write(" from: " + '<a href=' + '"' + bookInfo["self-uri"] + '"' + '>' + bookInfo["book-title"] + '</a>' + '<br>' + '\n' )
+    	f.write(" from: " + '\n'+'  <a href=' + '"' + bookInfo["self-uri"] 
+    		+ '"' + '>' + bookInfo["book-title"] + '</a>' + '<br>' + '\n' )
     else:
     	f.write('<br>' + '\n')
 
     if("chapter-surname" in chapterInfo.keys()):
-    	f.write("Author(s) " + chapterInfo["chapter-surname"])
+    	f.write("  Author(s) " + chapterInfo["chapter-surname"])
 
     if("chapter-given-names" in chapterInfo.keys()):
     	f.write(" " + chapterInfo["chapter-given-names"] + '<br>' + '\n')
 
     if('chapter-abstract' in chapterInfo.keys()):
-    	f.write(" " + "Abstract: " + chapterInfo['chapter-abstract'] + '<br>' + '<br>'+ '\n' + '\n' + '\n')
+    	f.write("  Abstract: " + chapterInfo['chapter-abstract'] 
+    		+ '<br>' + '\n')
 
-
+    f.write("  <hr>" + '<br>' + '\n' + '\n' )
 
 def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
-    f.write("File: " + file + '\n')
 
     if("journal-title" in dictionaryOfResults.keys()):
-    	f.write("    " + "Journal Title: " + dictionaryOfResults["journal-title"] + '<br>' +'\n')
+    	f.write("Journal Title: " + dictionaryOfResults["journal-title"] 
+    		+ '<br>' +'\n')
 
     if("publisher-name" in dictionaryOfResults.keys()):
-    	f.write("    " + "Publisher: " + dictionaryOfResults["publisher-name"] + '<br>' + '\n')
+    	f.write("Publisher: " + dictionaryOfResults["publisher-name"] 
+    		+ '<br>' + '\n')
 
     if("issue-id" in dictionaryOfResults.keys()):
-    	f.write("    " + "Issue: " + dictionaryOfResults["issue-id"] + '<br>' + '\n')
+    	f.write("Issue: " + dictionaryOfResults["issue-id"] 
+    		+ '<br>' + '\n')
 
     if("month" in dictionaryOfResults.keys()):
-    	f.write("    " + "Date: " + dictionaryOfResults["month"] + " ")
+    	f.write("Date: " + dictionaryOfResults["month"] + " ")
 
     if("day" in dictionaryOfResults.keys()):
     	f.write(dictionaryOfResults["day"] + ", ")
@@ -306,29 +306,31 @@ def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
     	f.write(dictionaryOfResults["year"] + '<br>' + '\n')
 
     if("surname" in dictionaryOfResults.keys()):
-    	f.write("    " + "Author(s): " + dictionaryOfResults["surname"])
+    	f.write("Author(s): " + dictionaryOfResults["surname"])
 
     if("given-names" in dictionaryOfResults.keys()):
     	f.write(" " + dictionaryOfResults["given-names"] + '<br>' + '\n')
 
-    f.write("    " + "Abstract: " + dictionaryOfResults["abstract"] + '<br>' + '\n')
-    f.write("    " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
-    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '<br>' + '<br>'+ '\n' + '\n')
+    f.write("Abstract: " + dictionaryOfResults["abstract"] 
+    	+ '<br>' + '\n')
+    f.write("Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
+    	'>'+ dictionaryOfResults["self-uri"]  + '</a>' + ' '+ '\n')
 
+    f.write("<hr>" + '<br>' + '\n' +'\n' )
 
 # iterate through and find place holders and replace with counters
 def writeCounters(term,f):
 	with open('Digital-Ricoeur-JStor-'+ term +'.html','r') as f:
 		data = f.readlines()
-		data[8] = data[8].replace('###',str(globalBook))
-		data[8] = data[8].replace('!!!',str(globalJournal))
+		data[9] = data[9].replace('###',str(globalBook))
+		data[10] = data[10].replace('!!!',str(globalJournal))
 
 	with open('Digital-Ricoeur-JStor-'+ term +'.html', 'w') as f:
 		f.writelines(data)
 
 def main():
 
-	terms =['philosophy','truth','history']
+	terms = ['philosophy']
 
 	# terms = ["history","philosophy","truth","work","time","explanation","event",
  #    "evil","myth","sin","man","theology","world","experience",
@@ -392,8 +394,6 @@ def main():
 
 	end = time.time()
 
-	print("Overall Time: " + str((end-start)/60.00) + " minutes ")
+	print("Overall Time: " + str((end-start)/3600.00) + " hours ")
 
 if __name__ == "__main__": main()
-
-
