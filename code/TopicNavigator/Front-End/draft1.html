@@ -69,6 +69,53 @@ h1 {
                 <meta name="viewport" content="width=device-width,initial-scale=1">
                     <link rel="stylesheet" type="text/css" href="https://digitalricoeur.org/style/ricoeur.css">
                     <div style="padding: 10px">
+                        <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Three Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
+
                     <h2>Jump to Topic</h2>
                         <body onload='create_content()'></body>
                         <div id="sections"></div>
@@ -143,5 +190,257 @@ function create_content() {
     document.getElementById("sections").innerHTML = z;
 }
 
+                            </script>
+                        </html>
+
+                        <!DOCTYPE html>
+<html>
+    <style>
+body {
+  background-color: white;
+  margin: 20px;
+    font-family: 'Cormorant', serif;
+    font-size: 1.1em;
+    width: 100%;
+}
+
+h1 {
+    padding: 20px;
+    background-color: #9E9E9E;
+    color: black;
+    text-align: center;
+}
+
+.dropbtn {
+    font-family: 'Cormorant', serif;
+    font-size: 1.0em;
+    display: inline-block;
+    background-color: #F1F1F1;
+/*    text-decoration: underline;
+*/    border-radius: 2px;
+    border: none;
+    
+}
+
+.dropdown {
+    background-color: none;
+    position: relative;
+    display: inline-block;
+    border: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #E0E0E0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+    tab-size: inherit;
+
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border-left: 2px;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+</style>
+    <body>
+        <header><div id="site-info"><div><img src="https://digitalricoeur.org/style/photo.png" id="site-photo" alt="Photograph of Paul Ricœur"></div><div><h1 id="site-title">Digital Ricœur</h1></div></div><nav id="site-nav"><a href="https://digitalricoeur.org/">Search</a><a href="https://digitalricoeur.org/get-inspired">Get Inspired</a><a href="https://digitalricoeur.org/corpus">Corpus</a><a href="https://digitalricoeur.org/about">About</a><a href="https://digitalricoeur.org/my-account">My Account</a><a href="https://digitalricoeur.org/feedback">Send Feedback</a><a href="https://digitalricoeur.org/log-out">Log Out</a></nav><div class="clear"></div></header>
+            <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                    <link rel="stylesheet" type="text/css" href="https://digitalricoeur.org/style/ricoeur.css">
+                    <div style="padding: 10px">
+                        <!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h2>Jump to Topic</h2>
+
+<div class="tab">
+  <button class="tablinks" onclick="showTopics(event,'A...D')">Action... Dream</button>
+  <button class="tablinks" onclick="showTopics(event, 'E...J')">Emotion ... Justice</button>
+  <button class="tablinks" onclick="showTopics(event, 'L...M')">Language ... Metaphor</button>
+  <button class="tablinks" onclick="showTopics(event, 'P...U')">Par ... Utopia</button>
+
+</div>
+
+<div id="A...D" class="tabcontent">
+    <div id="tab1"></div>
+</div>
+
+<div id="E...J" class="tabcontent">
+    <div id="tab2"></div>
+</div>
+
+<div id="L...M" class="tabcontent">
+    <div id="tab3"></div>
+</div>
+
+<div id="P...U" class="tabcontent">
+    <div id="tab4"></div>
+</div>
+     
+
+                        <body onload='create_content()'></body>
+                        <div id="sections"></div>
+                    </div>
+<script>
+
+
+
+function showTopics(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+    fill_tab();
+}
+
+function fill_tab() {
+    var x = "", i;
+    var sorted = topics.slice();
+    sorted.sort();
+    for (i = 0; i < 10; i++) {
+        x = x + '<a href="#' + sorted[i] + '">' + sorted[i] + '</a> - ';
+    }
+    document.getElementById("tab1").innerHTML = x;
+
+}
+
+function create_content() {
+    var x = "", i, j;
+
+    for (i=0; i<topics.length; i++) {
+        x = x + '<h2 id="' + topics[i] + '">' + topics[i] +':</h2>';
+        for (j =0; j<topics[i].length; j++){
+        x = x + '<div style="padding: 10px; display: inline;">';
+            x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/about;((%22c%22%20.%20%220sGYqH%2FbjxS96qpeU9ItA68y67jcoKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjQ3NDUiKSkgMCAoKSAoKSAoMCAoMSAoaCAtICgpIChsaWZ0ZWQuNTQtMCB1IC4gImh0dHBzOi8vZGlnaXRhbHJpY29ldXIub3JnLyIpIChsaWZ0ZWQuMjQ0MC04IC4gI2YpIChsaWZ0ZWQuMjQwNC02IC4gI3QpIChsaWZ0ZWQuMTIwMDYtMiAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTIwMjQtMyAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTU4NS00IC4gdGVtcDE1KSAobGlmdGVkLjIzODYtNSAuIGZpcnN0LT5sYXN0KSAobGlmdGVkLjI0NTgtOSAuIGFueSkgKGxpZnRlZC4yNDIyLTcgLiAjdCkgKGxpZnRlZC4xMTk4OC0xIC4gbGFzdC11c2VkKSAobGlmdGVkLjEwMzgtMTAgLiB0ZW1wMSkpKSAoYyAodiEgKDIpICNmICNmKSkpKQ==%22))?input_0='+ search_terms[i][j] +'">Primary Source</a><a href="#">Secondary Source</a></div></div>';
+        }
+        x = x + '</div> ';
+    }
+    document.getElementById("sections").innerHTML = x;
+}
+
+var topics = ["History","Evil","Testimony","Choice","Language","Memory","Concept","Par","Critique","Language","Phenomenology","Death","Language","Ideology","Man","Body","Substance","Discourse","Psychoanalysis","Ideology","Pleasure","Pp","Project","Meaning","Conscience","Emotion","Action","Freedom","Image","Utopia","Man","Dream","Text","Gt","Metaphor","Freedom","Justice","Logic","Text","Time"];
+var search_terms = [
+    ["history","philosophy","truth","work","time","explanation","event"],
+    ["evil","myth","sin","man","theology","world","experience"],
+    ["testimony","freedom","meaning","witness","hope","consciousness","time"],
+    ["choice","attention","freedom","act","project","consciousness","decision"],
+    ["language","text","translation","work","time","word","meaning"],
+    ["memory","die","time","history","representation","past","work"],
+    ["concept","labor","ideology","alienation","production","man","relation"],
+    ["par","consciousness","world","cf","meaning","reduction","phenomenology",],
+    ["critique","experience","text","interpretation","understanding","tradition","ideology"],
+    ["language","philosophy","time","history","work","problem","relation"],
+    ["phenomenology","sense","consciousness","ego","world","experience","body"],
+    ["death","time","life","work","memory","narrator","relation"],
+    ["language","theory","philosophy","system","science","problem","question"],
+    ["ideology","critique","action","situation","psychoanalysis","process","concept"],
+    ["man","history","power","work","world","violence","word"],
+    ["body","action","movement","effort","object","world","consciousness"],
+    ["substance","philosophy","problem","soul","science","form","question"],
+    ["discourse","text","meaning","world","work","language","reference"],
+    ["psychoanalysis","theory","meaning","work","language","interpretation","point"],
+    ["ideology","concept","order","system","relation","function","action"],
+    ["pleasure","pain","life","imagination","object","body","feeling"],
+    ["pp","translation","cit","der","op","philosophy","du"],
+    ["project","decision","consciousness","action","description","relation","possibility"],
+    ["meaning","interpretation","symbol","reflection","language","symbolism","consciousness"],
+    ["conscience","sense","logic","question","gift","rule","justice"],
+    ["emotion","habit","body","consciousness","desire","movement","action"],
+    ["action","sense","question","identity","character","relation","person"],
+    ["freedom","death","consciousness","consent","necessity","man","experience"],
+    ["image","world","fiction","imagination","sense","meaning","language"],
+    ["utopia","language","sense","imagination","action","ideology","world"],
+    ["man","reflection","thing","point","idea","synthesis","finitude"],
+    ["dream","work","philosophy","experience","point","interpretation","man"],
+    ["text","discourse","revelation","sense","world","language","faith"],
+    ["gt","lt","ego","principle","reality","death","desire"],
+    ["metaphor","level","meaning","language","word","discourse","sense"],
+    ["freedom","consciousness","life","character","necessity","man","nature"],
+    ["justice","idea","law","sense","state","fact","order"],
+    ["logic","theory","philosophy","language","law","science","reality"],
+    ["text","interpretation","language","explanation","discourse","world","relation"],
+    ["time","work","text","story","reader","history","fiction"]
+];
                             </script>
                         </html>
