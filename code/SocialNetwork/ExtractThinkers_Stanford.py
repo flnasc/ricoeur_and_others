@@ -1,4 +1,6 @@
 '''
+By Alessandra Laurent
+
 This version of the function uses the Stanford NER Tagger, which returns more accurate results than NLTK's built in NE Chunker.
 
 The classifier must be downloaded from: https://nlp.stanford.edu/software/CRF-NER.shtml
@@ -7,8 +9,6 @@ Java Developer Kit must also be downloaded.
 The path for both of these may have to be modified accordingly in order for the code to function.
 
 **Remaining issue: compound last names such as "von Wright" are not aggregated with their full names bc both reside in the fullnames list**
-
-by Alessandra Laurent
 '''
 
 import nltk
