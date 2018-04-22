@@ -8,6 +8,7 @@ The path for both of these may have to be modified accordingly in order for the 
 
 **Remaining issue: compound last names such as "von Wright" are not aggregated with their full names bc both reside in the fullnames list**
 
+by Alessandra Laurent
 '''
 
 import nltk
