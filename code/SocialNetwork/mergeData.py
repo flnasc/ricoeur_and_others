@@ -4,7 +4,6 @@
 
 import pandas as pd
 import glob, os
-import numpy as np
 
 # define path and initialize output 
 # right now, the output file is named as summary.csv, so we don't want to be reading in a file
