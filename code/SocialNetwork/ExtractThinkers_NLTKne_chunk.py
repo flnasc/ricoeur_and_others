@@ -1,4 +1,6 @@
 '''
+By Alessandra Laurent
+
 This is the simpler version of the code to extract person names from the corpus and create csv files for each, using the built in NLTK NE chunker.
 
 I also did not implement the first name recognition/elimination in this one, so the output is a lot messier but it runs a lot faster, and you don't need to have anything but NLTK downloaded.
