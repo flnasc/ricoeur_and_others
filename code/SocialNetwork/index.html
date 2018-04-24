@@ -8,28 +8,59 @@
     </head>
 
     <body>
-    <h1> Digital Ricoeur: Ricoeur's Social Network  </h1>
-    <p>This will serve as an interactive presentation of Ricoeur's Social Network, based on the frequency at which Ricoeur refers to other thinkers. 
-    <br>We currently have an <em> interactive </em> bar graph, using a CSV file with made-up data. 
-    <br>The CSV file comprises of four columns, <em> Thinker </em>, <em> Frequency </em>, <em> Year </em>, and <em> Title </em> of Ricoeur's publication. 
-    </p>
+        <h1> Digital Ricoeur: Ricoeur's Social Network  </h1>
+        <p>This will serve as an interactive presentation of Ricoeur's Social Network, based on the frequency at which Ricoeur refers to other thinkers. 
+        <br>We currently have an <em> interactive </em> bar graph, using a CSV file with made-up data. 
+        <br>The CSV file comprises of four columns, <em> Thinker </em>, <em> Frequency </em>, <em> Year </em>, and <em> Title </em> of Ricoeur's publication. 
+        </p>
 
+        <h2> Ricoeur's Best Friends: a bar graph </h2>
     <!-- Allow for input of start year and end year for ranged display of data  -->
-    <input type="text" id="startYear" size="4">
-    <span> ~ </span>
-    <input type="text" id="endYear" size="4">
-    <button onclick="grabDate()"> Update Range </button>
-    <br>
-    <span><b> Sort by: </b></span>
-    <span> Thinker </span>
-    <input type="radio" name="sortBy" value="Thinker" onclick="sortData()" checked="checked">
-    <span> Frequency </span>
-    <input type="radio" name="sortBy" value="Frequency" onclick="sortData()">
-    <span> 
-    <input type="button" id="reverse" onclick="checkReverse()">
-    <br>
+        <div class="visualization">
+            <div>
+                <input type="text" id="startYear" size="4">
+                <span class="sortSpan"> ~ </span>
+                <input type="text" id="endYear" size="4">
+                <button onclick="grabDate()"> Update </button>
+                <button onclick="resetDate()"> Reset </button>
+            </div>
+            <br>
+        
+            <div class="sortButton">
+                <span class="sortSpan"><b> Sorting by &nbsp;</b></span>
+            </div>
 
-    <script src = "./DR_SN.js"></script>
+            <div class="sortButton">
+                <input type="radio" name="sortBy" id="sort1" value="Thinker" onclick="sortData()" checked="checked">
+                <label for="sort1">   Thinker   </label>
+            </div>
+            <div class="sortButton">
+                <input type="radio" name="sortBy" id="sort2" value="Frequency" onclick="sortData()">
+                <label for="sort2"> Frequency </label>
+            </div>
+        
+            <div class="sortButton">
+                <span class="sortSpan">&nbsp; <b>in</b> &nbsp;</span>
+            </div>        
+            <div class="sortButton">
+                <input type="radio" name="reverse" id="sort3" value="Ascend" onclick="checkReverse()" checked="checked">
+                <label for="sort3"> Ascending </label>
+            </div>
+            <div class="sortButton">
+                <input type="radio" name="reverse" id="sort4" value="Descend" onclick="checkReverse()">
+                <label for="sort4"> Descending </label>
+            </div>
+            <div class="sortButton">
+                <span class="sortSpan"><b>&nbsp; order </b></span>
+            </div>
+            <br>
+        </div>
+        <br>
+        <div class = "bargraphDIV"></div>
+        <h2> Ricoeur's Best Friends: a line graph </h2>
+        <div class = "linegraphDIV"></div>
+        <script src = "./DR_SN_bargraph.js"></script>
+        <script src = "./DR_SN_linegraph.js"></script>
 
 
     </body>

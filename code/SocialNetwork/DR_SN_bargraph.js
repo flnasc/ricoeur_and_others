@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// .js file for interactive visualization fo Paul Ridcoeur's Social Network, a branch of Ricoeur and the Other.
+// .js file for interactive bargraph for Paul Ridcoeur's Social Network, a branch of Ricoeur and the Other.
 // Ricoeur and the Other is a part of Digital Ricoeur project
 // 
 // This is an interactive visualization effort of Paul Ricoeur's intellectual peers, as referred to by Ricoeur
@@ -13,10 +13,11 @@
 // Initialize the array for dataset
 var dataset = [], 
     barFiltered = [],
-    lineFiltered = [],
     // Variables for date range of the graph
     startYear = Number.MAX_SAFE_INTEGER,
+    refreshSY,
     endYear = Number.MIN_SAFE_INTEGER,
+    refreshEY,
     // Varaibles used for sorting
     sortBy,
     reverse,
@@ -25,7 +26,6 @@ var dataset = [],
     padding = 80;
 
 // Read in the .csv file
-// Right now this reads in one file, but maybe we should expand it to read in all .csv files?
 // Print out an error message if the file is unreadable.
 // Otherwise, save the CSV file into dataset then call visualize function
 function initialize() {
@@ -48,6 +48,8 @@ function initialize() {
                     endYear = dataset[i].Year;
                 }
             }
+            refreshSY = startYear;
+            refreshEY = endYear;
 
             // Display the date range we are currently working on
             // Also display the current sorting order
@@ -60,6 +62,7 @@ function initialize() {
             checkReverse();
         }
     });
+
 }
 
 // Update date range for the bar graph
@@ -74,6 +77,25 @@ function grabDate() {
     
     filterBar();
     sortData();
+}
+
+// If the user wants to refresh view to default
+// This returns to initial state w/o having to read in the file
+function resetDate() {
+    startYear = refreshSY;
+    endYear = refreshEY;
+
+    // Display the date range we are currently working on
+    // Also display the current sorting order
+    document.getElementById("startYear").value = startYear;
+    document.getElementById("endYear").value = endYear;
+
+    console.log(startYear);
+    console.log(endYear);
+
+    filterBar();
+    sortData();
+
 }
 
 // The user can input the dates by hitting enter instead of clicking Date Range
@@ -116,7 +138,7 @@ function sortData() {
             break;
         }
    }
-    d3.select("bargraph").remove();
+    d3.select("svg").remove();
     barGraph();
 }
 
@@ -139,32 +161,9 @@ function checkReverse() {
 
     console.log(reverse);
     sortData();
-    lineGraph();
 
 }
 
-function lineGraph() {
-    // Create svg frame for linegraph
-
-    
-    let line_data = dataset.slice(0);  
-    console.log(line_data);
-    // dataset is now independent of temp, and will not refer to temp
-    // i.e. modifying temp will no longer modify dataset
-    line_data = dataset.map(o => Object.assign({}, o));
-
-    var linegraph = d3.select(".linegraphDIV").
-        append("svg").
-        attr("class", "graph").
-        attr("height", height).
-        attr("width", width);
-    
-    var x = d3.scaleBand().range([padding, width - padding]),
-        y = d3.scaleLinear().range([height - padding, padding]),
-        z = d3.scaleOrdinal(d3.schemeCategory20);
-
-
-}
 
 // The main function
 // Set dimension of the SVG, create the element, then draw the graph
@@ -321,6 +320,7 @@ function filterBar() {
 
     // Create temporary arrays to process
     dateFilter = [];
+
     // This method allows for creating an independent copy of dataset
     // Makes a copy of dataset as temp
     let temp = dataset.slice(0);  
@@ -337,6 +337,9 @@ function filterBar() {
     }
     // Sort the temporary array to make summation easier
     dateFilter.sort(sort_by('Thinker'), false, function(a) {return a});
+
+
+
 
     // Initialize variables for summation
     sum = 0;
@@ -367,7 +370,15 @@ function filterBar() {
     }
     console.log(barFiltered);
 
+
+
 }
 
+function type (d, _, columns) {
+    for (var i = 1, n = columns.length, c; i < n; ++i) {
+        d[c = columns[i]] = +d[c];
+    }
+    return d;
+}
 initialize();
 checkInput();
