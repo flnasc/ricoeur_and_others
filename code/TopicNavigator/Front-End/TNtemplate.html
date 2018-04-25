@@ -18,11 +18,6 @@ body {
   width: 100%;
 }
 
-.jumpto {
-    color: black;
-    font-size: .8em;
-}
-
 p {
   line-height: 5px;
 }
@@ -84,23 +79,6 @@ h1 {
     box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 20%;
-    padding: 5px;
-    border-width: 0px;
-    border-color: black;
-    height: 250px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 #toTop {
   display: none;
   position: fixed;
@@ -127,27 +105,30 @@ h1 {
 table {
     width:100%;
     border-collapse: collapse;
-    border: 1px;
+    border: 1px solid rgba(0,0,0,0.12)
     padding: 40px;
 }
 
 th {
-    border: 2px solid #E0E0E0;
+    border: 1px solid rgba(0,0,0,0.12)
     padding-bottom: 10px;
     width: 25%;
     background: #9E9E9E;
 }
 
 td {
-    border: 2px solid #E0E0E0;
+    border: 1px solid rgba(0,0,0,0.12)
     padding-bottom: 10px;
+    padding-left: 5px;
     width: 25%;
 }
 
 tr {
-    border: 2px solid #E0E0E0;
+    border: 1px solid #E0E0E0;
     vertical-align: top;
     background: #FAFAFA;
+    padding-bottom: 10px;
+
 }
 
 tr:nth-child(even) {
@@ -175,10 +156,10 @@ tr:nth-child(even) {
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <button onclick="topFunction()" id="toTop" title="Go to top">&#8679;Top</button>
-
+<h1>DR-Topic Navigator</h1>
         <div style="padding-bottom: 20px">
 
-            <table style="border: none"><tr style="border: none">
+            <table style="border: none;"><tr style="border: none">
                 <th colspan="4"style="background: #F5F5F5;border: none;">Jump to Category:</th></tr>
                 <tr style="border: none"><td style="border: none">
                     <p><a style="color: black"href="#Action">&#8674 Action</a></p>
@@ -237,7 +218,8 @@ tr:nth-child(even) {
 
     function create_table() {
         var x = "", i, j;
-        x += '<table><th>Topics by Category</th>';
+        x += '<table>';
+        x += '<th>Topics by Category</th>';
 
         for (i=0; i<topics.length; i++) {
             x = x + '<tr><td><h2 style="margin: 5px"id="' + topics[i] + '">' + topics[i] +'</h2>';
