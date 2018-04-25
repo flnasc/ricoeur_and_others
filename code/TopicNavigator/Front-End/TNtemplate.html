@@ -86,13 +86,8 @@ h1 {
   right: 30px;
   z-index: 99;
   font-size: 25px;
-  /*border: 2px solid black;*/
-  /*outline: none;*/
-  /*background-color: linear-gradient ;*/
-  /*color: white;*/
   cursor: pointer;
   padding: 15px;
-  /*border-radius: 4px;*/
   border:1px solid #d7dada; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-size:12px;font-family:arial, helvetica, sans-serif; padding: 10px 10px 10px 10px; text-decoration:none;font-weight:bold; color: #575757;
   background-color: #f4f5f5; background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f5f5), to(#dfdddd));
   background-image: -webkit-linear-gradient(top, #f4f5f5, #dfdddd);
@@ -105,7 +100,7 @@ h1 {
 table {
     width:100%;
     border-collapse: collapse;
-    border: 1px solid rgba(0,0,0,0.12)
+    border: 2px solid rgba(0,0,0,0.12)
     padding: 40px;
 }
 
@@ -119,15 +114,14 @@ th {
 td {
     border: 1px solid rgba(0,0,0,0.12)
     padding-bottom: 10px;
-    padding-left: 5px;
-    width: 25%;
+    padding-left: 10px;
 }
 
 tr {
+    padding-bottom: 10px;
     border: 1px solid #E0E0E0;
     vertical-align: top;
     background: #FAFAFA;
-    padding-bottom: 10px;
 
 }
 
@@ -225,7 +219,7 @@ tr:nth-child(even) {
             x = x + '<tr><td><h2 style="margin: 5px"id="' + topics[i] + '">' + topics[i] +'</h2>';
             for (j =0; j<search_terms[i].length; j++){
               x = x + '<div style="padding: 0px; display: inline; line-height: 28px">';
-              x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/about;((%22c%22%20.%20%220sGYqH%2FbjxS96qpeU9ItA68y67jcoKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjQ3NDUiKSkgMCAoKSAoKSAoMCAoMSAoaCAtICgpIChsaWZ0ZWQuNTQtMCB1IC4gImh0dHBzOi8vZGlnaXRhbHJpY29ldXIub3JnLyIpIChsaWZ0ZWQuMjQ0MC04IC4gI2YpIChsaWZ0ZWQuMjQwNC02IC4gI3QpIChsaWZ0ZWQuMTIwMDYtMiAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTIwMjQtMyAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTU4NS00IC4gdGVtcDE1KSAobGlmdGVkLjIzODYtNSAuIGZpcnN0LT5sYXN0KSAobGlmdGVkLjI0NTgtOSAuIGFueSkgKGxpZnRlZC4yNDIyLTcgLiAjdCkgKGxpZnRlZC4xMTk4OC0xIC4gbGFzdC11c2VkKSAobGlmdGVkLjEwMzgtMTAgLiB0ZW1wMSkpKSAoYyAodiEgKDIpICNmICNmKSkpKQ==%22))?input_0=' + search_terms[i][j] +'">Primary Source</a><a href="#">Secondary Source</a></div></div>';
+              x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/;((%22c%22%20.%20%220n0EExs8u8tfeWjfL2iS3XUClxSooKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjE0NSIpKSAwICgpICgpICgwICgxIChoIC0gKCkgKGxpZnRlZC41NC0wIC4gIi8iKSAobGlmdGVkLjI0NDAtOCAuICNmKSAobGlmdGVkLjI0MDQtNiAuICN0KSAobGlmdGVkLjEyMDA2LTIgLiBsYXRlc3QtdG8tb2xkZXN0KSAobGlmdGVkLjEyMDI0LTMgLiBsYXRlc3QtdG8tb2xkZXN0KSAobGlmdGVkLjE1ODUtNCAuIHRlbXAxNSkgKGxpZnRlZC4yMzg2LTUgLiBmaXJzdC0+bGFzdCkgKGxpZnRlZC4yNDU4LTkgLiBhbnkpIChsaWZ0ZWQuMjQyMi03IC4gI3QpIChsaWZ0ZWQuMTE5ODgtMSAuIGxhc3QtdXNlZCkgKGxpZnRlZC4xMDM4LTEwIC4gdGVtcDEpKSkgKGMgKHYhICgyKSAjZiAjZikpKSk=%22))?input_0=' + search_terms[i][j] +'">Primary Source</a><a  href="https://digitalricoeur.org/;((%22c%22%20.%20%220n0EExs8u8tfeWjfL2iS3XUClxSooKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjE0NSIpKSAwICgpICgpICgwICgxIChoIC0gKCkgKGxpZnRlZC41NC0wIC4gIi8iKSAobGlmdGVkLjI0NDAtOCAuICNmKSAobGlmdGVkLjI0MDQtNiAuICN0KSAobGlmdGVkLjEyMDA2LTIgLiBsYXRlc3QtdG8tb2xkZXN0KSAobGlmdGVkLjEyMDI0LTMgLiBsYXRlc3QtdG8tb2xkZXN0KSAobGlmdGVkLjE1ODUtNCAuIHRlbXAxNSkgKGxpZnRlZC4yMzg2LTUgLiBmaXJzdC0+bGFzdCkgKGxpZnRlZC4yNDU4LTkgLiBhbnkpIChsaWZ0ZWQuMjQyMi03IC4gI3QpIChsaWZ0ZWQuMTE5ODgtMSAuIGxhc3QtdXNlZCkgKGxpZnRlZC4xMDM4LTEwIC4gdGVtcDEpKSkgKGMgKHYhICgyKSAjZiAjZikpKSk=%22))?input_0=' + search_terms[i][j] +'">Secondary Source</a></div></div>';
           }
         // x = x + '</div></td><td><button onclick="topFunction()" title="Go to top">&#8679; Top</button></td></tr> ';
     }
@@ -298,3 +292,4 @@ var search_terms = [
 </body>
 
 </html>
+
