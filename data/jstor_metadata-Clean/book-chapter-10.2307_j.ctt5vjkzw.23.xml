@@ -1,0 +1,897 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vjkzw</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>French Studies in and for the 21st Century</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Lane</surname>
+               <given-names>Philippe</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Worton</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>07</day>
+         <month>07</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9781846316555</isbn>
+      <isbn content-type="epub">9781846316692</isbn>
+      <publisher>
+         <publisher-name>Liverpool University Press</publisher-name>
+         <publisher-loc>Liverpool</publisher-loc>
+      </publisher>
+      <edition>NED - New edition, 1, 1</edition>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Liverpool University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vjkzw"/>
+      <abstract abstract-type="short">
+         <p>French Studies in and for the 21st Century draws together a range of key scholars to examine the current state of French Studies in the UK, taking account of the variety of factors which have made the discipline what it is. The book looks ahead to the place of French Studies in a world that is increasingly interdisciplinary, and where student demands, new technologies and transnational education are changing the ways in which we learn, teach, research and assess. Required reading for all UK French Studies scholars, the book will also be an essential text for the French Studies community worldwide as it grapples with current demands and plans for the future.</p>
+      </abstract>
+      <counts>
+         <page-count count="310"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.3</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.4</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coussins</surname>
+                           <given-names>Baroness Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xix</fpage>
+                  <abstract>
+                     <p>At the time of writing, a review of the national curriculum in England and Wales is imminent. As far as languages are concerned, this will be a crucial opportunity to reverse some of the disastrous consequences of previous policies and to introduce new ones, which positively promote both the importance and the pleasure of learning modern foreign languages.</p>
+                     <p>It is self-evident that the place of languages in schools will have a critical impact on their presence in higher education (HE), but the opposite is also true. University modern language departments should be much more closely attuned to the ways in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.5</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Emié</surname>
+                           <given-names>Bernard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xxi</fpage>
+                  <abstract>
+                     <p>The publication of this book comes at a time when humanities in general, and the teaching of modern foreign languages in particular, feel threatened because of uncertainty in relation to financial and economic circumstances. French Studies departments already faced difficulties when, in 2004, the education department for England decided that a foreign-language GCSE was no longer required to access higher education, a decision that resulted in the dropping of language teaching in many secondary schools. Learning a foreign language is perceived in the UK as being difficult and, the subject having in essence become optional, few pupils enrol in language</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lane</surname>
+                           <given-names>Philippe</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Worton</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The central purpose of this book is to offer a picture of French Studies today, an analysis – from the inside – of what the discipline has become and where it might and, indeed, must go in the future. We hope that this anatomisation of French Studies and the way in which it is taught, researched and managed in the UK will help to energise debates around the place of modern languages in the modern university.</p>
+                     <p>The world of higher education has been changing radically since the beginning of the twenty-first century, and the next ten years will witness the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>A Short History of French Studies in the UK</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Holmes</surname>
+                           <given-names>Diana</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>12</fpage>
+                  <abstract>
+                     <p>In October 1999 the journal<italic>French Cultural Studies</italic>brought out an original and engaging special issue entitled ‘Personal Voices, Personal Experiences’. It was composed of eight essays by academics of different backgrounds and generations, each working in some aspect of French Studies, all but one within the UK, and it put the emphasis on autobiographical trajectories, on how each had come to choose French as their discipline and its teaching and study as their career. Brian Rigby, the volume’s editor, commented in the introduction on how little has been written on the development of French as an academic discipline, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The exception anglo-saxonne?</title>
+                     <subtitle>Diversity and Viability of French Studies in the UK</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Armstrong</surname>
+                           <given-names>Adrian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>In March 2009, the Ministère des affaires étrangères et européennes held an international seminar in Sèvres, in collaboration with the Centre International d’Études Pédagogiques.¹ It emerged clearly from discussions at the seminar that French provision in UK universities contrasts with that in most other EU countries in three important respects.² First, UK French departments are relatively unusual in delivering a curriculum that includes a high volume and a wide variety of ‘content courses’, as practitioners often term them, alongside core language provision. Second, innovation in the delivery of that curriculum appears to be more widespread in UK universities. Increasing use</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Why French Studies Matters:</title>
+                     <subtitle>Disciplinary Identity and Public Understanding</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Forsdick</surname>
+                           <given-names>Charles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>Two dominant assumptions underpinning Michael Worton’s 2009 report for the Higher Education Foundation Council for England (HEFCE) on ‘Modern Foreign Languages provision in higher education in England’ are: (i) that the field is characterised by a set of persistent uncertainties regarding its present and future; and (ii) that the anxiogenic effects of this unstable context risk becoming detrimental to the sustainability of this essential area of academic activity and enquiry. Modern languages is often seen as divided between, on the one hand, the nurturing of linguistic proficiency among a broad range of students, and, on the other, the development of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Learning from France:</title>
+                     <subtitle>The Public Impact of French Scholars in the UK since the Second World War</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kelly</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>‘L’intellectuel est quelqu’un qui se mêle de ce qui ne le regarde pas.’¹ Sartre’s canonical definition of the intellectual suggests a basic question about the public impact of French scholars. To what extent have they intervened in British society, and how far have they stepped outside their areas of expertise to do so? In attempting to answer this question, the following discussion examines how scholars of French have engaged in activities that have shaped different aspects of life in the UK beyond the world of French Studies. Examining the current debate around the question of public impact, it will look</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Gender and the French Language:</title>
+                     <subtitle>The longue durée of French Studies in the UK</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cohen</surname>
+                           <given-names>Michèle</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Footitt</surname>
+                           <given-names>Hilary</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wygant</surname>
+                           <given-names>Amy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>This chapter seeks to explore the notion that the study of French in the UK today is framed by a series of historical assumptions about the nature of the French language, and about the implications of speaking French for those of us who are British-based. In this perspective, much of what we observe today in our university French departments may have deep-set historical roots. In the<italic>longue durée</italic>of French in the UK, the language has been represented, this chapter argues, as essentially feminine, and as alien to an English national identity constructed as masculine. A specifically English view about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Contemporary Women’s Writing in French:</title>
+                     <subtitle>Future Perspectives in Formal and Informal Research Networks</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rye</surname>
+                           <given-names>Gill</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>In the UK and elsewhere in the anglophone world, contemporary literature in French continues to be a strong field of study in both research and teaching. Traditionally lone scholars, researchers of literature are now increasingly being pressured by their institutions to network, to collaborate and, above all, to generate large sums of external research funding. Contemporary women-authored literature is not the threatened subject that some other contributions to this publication document – it is widely researched and taught on a range of undergraduate and postgraduate courses – except perhaps in the sense that if women’s writing is not made visible,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>French Studies and Discourses of Sexuality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Emma</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>In his scintillating volume,<italic>Freud, Proust and Lacan: Theory as Fiction</italic>, Malcolm Bowie writes of the ‘profoundly unsettling view of human sexuality enshrined’ in the later volumes of<italic>A la recherche du temps perdu</italic>.¹ Bowie writes wonderfully about the narrator’s attachment to Albertine:</p>
+                     <p>The asking of questions about Albertine – has she had lesbian relationships in the past? is she having, or contriving to have, such relationships now? how can truth be distinguished from falsehood in Albertine’s reports on her actions and feelings? – is presented as one of the narrator’s inescapable emotional needs. His mind comes to specialise ever</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Integrated Learning:</title>
+                     <subtitle>Teaching Literature in French</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gaunt</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harrison</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>Initially we were to contribute separate chapters to this collection, one on pre-modern French Studies, another on the place of literature in French Studies today. We decided, however, to write this piece together in the belief that the two questions are intimately related, on several levels (at least for UK universities, on which we shall focus). In practice, pre-modern studies in university French programmes are to a significant extent literary studies; and such pressures as exist to move away from pre-modern areas are closely linked to wider pressures to move away from literature of any era. Much of this chapter</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Oxford, Theatre and Quarrels</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Viala</surname>
+                           <given-names>Alain</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>118</fpage>
+                  <abstract>
+                     <p>Oxford University’s French subfaculty occupies a rather unusual position in the network of French Studies in the UK: the size of the department, the collegiate structure of the university, and certain of its very specific traditions all contribute to this singularity. But in recent years this department has, like so many others, undergone a series of necessary changes; some of them welcome and others less so. Certain of these changes will doubtless require development in the coming years: it is these changes that form the subject of this chapter.</p>
+                     <p>It begins with a rapid overview, rendered absolutely necessary by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Defining (or Redefining) Priorities in the Curriculum when the Good Times have Flown</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burgwinkle</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>‘Where are French Studies going in this era of financial constraints and cut-backs?’ This is a question that is posed repeatedly in the media as the bad news about budget cuts and falling enrolments filter out from schools and universities around the UK. Our first response is to shout out to anyone who is listening that of course university language courses are useful, necessary and enriching and that of course we should be encouraging students to pursue them in ever larger numbers. Governmental decisions in the past decade have ensured that our numbers are dropping – confirming what all the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>French Linguistics Research and Teaching in UK and Irish HE Institutions</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ayres-Bennett</surname>
+                           <given-names>Wendy</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beeching</surname>
+                           <given-names>Kate</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Larrivée</surname>
+                           <given-names>Pierre</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Myles</surname>
+                           <given-names>Florence</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The research and teaching of French linguistics in UK higher education (HE) institutions have a venerable history; a number of universities have traditionally offered philology or history of the language courses, which complement literary study. A deeper understanding of the way that the phonology, syntax and semantics of the French language have evolved gives students linguistic insights that dovetail with their study of the<italic>Roman de Renart</italic>, Rabelais, Racine or the<italic>nouveau roman</italic>. There was, in the past, some coverage of contemporary French phonetics but little on sociolinguistic issues. More recently, new areas of research and teaching have been developed,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>The Rise of Translation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Drugan</surname>
+                           <given-names>Jo</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rothwell</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>As is now widely recognised, translation has played a major role at key historical periods in the development of national cultures and vernacular languages across Europe, with France being no exception. The terms<italic>traduction</italic>and<italic>traducteur</italic>were introduced into French in the sixteenth century by Etienne Dolet (1509–46), a humanist and translator regarded as the first translation theorist (and infamously burnt at the stake for a doctrinally deviant ‘mistranslation’ of Plato). Translation in the Renaissance, a preoccupation of the Pléiade poets as it was of Montaigne, served both to make Classical works available to a wider audience and to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Teaching and Research in French Cinema</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Powrie</surname>
+                           <given-names>Phil</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reader</surname>
+                           <given-names>Keith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Teaching and research in French cinema has developed rapidly in a relatively short time since the mid- to late 1970s. At that time, teaching was confined to the occasional course unit in a handful of universities, and research was only just starting to emerge from work aimed at cinephile rather than academic readerships. This chapter starts by considering the ways in which teaching has evolved over that time, and then gives an account of developments in research, with a strong focus on the UK, but also taking into account work done in France and the USA.</p>
+                     <p>We can make four</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Popular Culture, the Final Frontier:</title>
+                     <subtitle>How Far Should We Boldly Go?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Looseley</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>This chapter is about the place of contemporary popular culture in French Studies.¹ Both ‘<italic>populaire</italic>’ and ‘popular’ are of course problematic epithets, but I do not wish to encumber this particular discussion with matters of definition, important as they are at an epistemological level.² I therefore use ‘popular culture’ in its common English sense, referring to contemporary industrialised forms and practices such as pop music, television, commercial cinema, pulp fiction, and so on, which reach a large, sociologically diverse audience. In French, such forms and practices have often been pejoratively referred to as<italic>la culture de masse</italic>, though this is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>An Area Studies Approach in European and Global Contexts:</title>
+                     <subtitle>French Studies in Portsmouth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Godin</surname>
+                           <given-names>Emmanuel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chafer</surname>
+                           <given-names>Tony</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>In the 1970s, staff in the School of Languages and Area Studies (SLAS) at Portsmouth Polytechnic (as it was then) decided to develop a new type of language degree. At that time, the traditional model was the ‘lang and lit’ degree programme. Students who wanted to study languages were more or less obliged to combine the study of their chosen language(s) with the study of (mostly) the literary classics of that country. There were a few exceptions: York University, for example, offered programmes in language and linguistics, Salford and Bath specialised in translation, while Aston offered students the opportunity to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>French Studies and the Postcolonial:</title>
+                     <subtitle>The Demise or the Rebirth of the French Department?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Over the past two decades, we have witnessed what Françoise Lionnet has termed the ‘becoming-transnational’ of French Studies.¹ French and the other modern languages had originally been constructed as academic subjects around the framework of the nineteenth-century European nation-state but, as the primacy of the nation state has come to be challenged in the era of globalisation, this structure has been increasingly questioned by scholars working from transnational, global and postcolonial perspectives.² The prominent North American critic Lawrence Kritzman has been prompted to ask, in light of these developments, whether the very existence of French Studies is now in question:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>The Development of War and Culture Studies in the UK:</title>
+                     <subtitle>From French Studies, Beyond, and Back Again</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Nicola</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hurcombe</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kelly</surname>
+                           <given-names>Debra</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>220</fpage>
+                  <abstract>
+                     <p>France provides a particularly complex and fascinating object of analysis for any investigation into the impact of war on modern and contemporary cultural production and cultural history, having been at war for almost fifty years of the twentieth century. This impact is characterised by radically different experiences and memories of the two world wars, and further complicated by enduring legacies of those wars, and of subsequent, brutal colonial wars. An understanding of the impact that the experiences of these different types of war have made on French cultural, social and political identity is essential for the broader analysis of developments</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>French Studies at the Open University:</title>
+                     <subtitle>Pointers to the Future</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coleman</surname>
+                           <given-names>Jim</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vialleton</surname>
+                           <given-names>Elodie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>At the Open University, French is taught by the largest but least conventional department of languages in the UK. Numbers of language students are now approaching 10,000 a year, which translates into over 3,000 full-time equivalent student (FTEs) numbers. In terms of recruitment, whether actual students or FTEs, the Open University is also the largest French department in the UK. This chapter describes our distinctive and innovative approach to teaching French, and our related research activities. It opens by setting language learning in the context of supported distance education, and concludes by proposing wider inter-university collaboration in the context of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>Opportunities and Challenges of Technologically Enhanced Programmes:</title>
+                     <subtitle>Online and Blended Learning at King’s College London</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Borel</surname>
+                           <given-names>Dominique</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>Blended learning, a mix of face-to-face and virtual interactions, and online courses have been developed at the Modern Language Centre (MLC) at King’s since 2004. They are a key component of the department’s strategy for fostering autonomous learning both within credit-bearing language courses, and for students enrolled on non degree-language programmes, while adhering to Quality Assurance Agency (QAA) criteria and promoting academic excellence. Incorporating an e-learning dimension into existing face-to-face programmes, and designing specific online material and courses has been a deliberate policy choice, both in support of the college’s own strategic plan, and in the desire to enhance the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>French Studies and Employability at Home and Abroad:</title>
+                     <subtitle>General Reflections on a Case Study</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bray</surname>
+                           <given-names>Maryse</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gill</surname>
+                           <given-names>Hélène</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Randall</surname>
+                           <given-names>Laurence</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>262</fpage>
+                  <abstract>
+                     <p>Ten years ago, the teaching of French in British universities was in decline. Five years ago it was in peril throughout the land, with many French departments closing. As an academic subject, French nosedived in terms of student recruitment figures, the discipline apparently destined to be confined to a branch of classics in Russell Group institutions. It was at risk from extinction in the former polytechnics where it became threatened even as a subsidiary subject in its market-friendly incarnation as Business French. To many, the choice was stark but clear – stake all on French for Business or die. But</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.27</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>Sartre in Middlesex, De Beauvoir in Oxford:</title>
+                     <subtitle>The Contribution of the ASMCF to the Study of France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cross</surname>
+                           <given-names>Máire Fedelma</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>272</fpage>
+                  <abstract>
+                     <p>The Association for the Study of Modern and Contemporary France (ASMCF) sees its contribution to promoting knowledge of France mainly, but not exclusively, through the area studies approach, which is broadly the study of the country including its political system, history, geography and general culture integrated with its language. That area studies is now a key term alongside languages and culture in the definition of French Studies is testimony to the achievements of the ASMCF and recognition of its place in the research and teaching of French.² The ASMCF has the largest membership of all the area studies associations in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.28</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>Culturetheque:</title>
+                     <subtitle>A New Tool for French Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Auer</surname>
+                           <given-names>Laurence</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+                  <abstract>
+                     <p>On 27 May 2010, the central project of the centenary celebrations of the Institut français du Royaume-Uni was unveiled: a digital platform called Culturetheque. The response of the French Institute in South Kensington, London to the new challenges posed by the digital revolution was to launch a new tool, which was unprecedented both in the UK and in France.</p>
+                     <p>Culturetheque offers French culture at home, on the Internet, for free, in an accessible and user-friendly way: books to read online, films to watch online, podcasts of conferences and live retransmissions. Culturetheque is not a simple online platform to learn French,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.29</book-part-id>
+                  <title-group>
+                     <title>Appendix 1.</title>
+                     <subtitle>Opening Speech. A Vast and Dynamic Field of Research and Teaching</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gourdault-Montagne</surname>
+                           <given-names>M. Maurice</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.30</book-part-id>
+                  <title-group>
+                     <title>Appendix 2.</title>
+                     <subtitle>A View from France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rebaud</surname>
+                           <given-names>Jean-Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>296</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjkzw.31</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>300</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

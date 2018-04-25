@@ -1,0 +1,636 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vkchb</book-id>
+      <subj-group>
+         <subject content-type="call-number">B59.M54 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy and civilization</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Cross-cultural studies</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Intercultural communication</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Migrating Texts and Traditions</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Sweet</surname>
+               <given-names>William</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="epub">9780776620312</isbn>
+      <isbn content-type="epub">0776620312</isbn>
+      <publisher>
+         <publisher-name>University of Ottawa Press</publisher-name>
+         <publisher-loc>Ottawa</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>University of Ottawa Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vkchb"/>
+      <abstract abstract-type="short">
+         <p>There can be little dispute that culture influences philosophy: we see this in the way that classical Greek culture influenced Greek philosophy, that Christianity influenced mediaeval western philosophy, that French culture influenced a range of philosophies in France from Cartesianism to post-modernism, and so on. Yet many philosophical texts and traditions have also been introduced into very different cultures and philosophical traditions than their cultures of origin – through war and colonialization, but also through religion and art, and through commercial relations and globalization. And this raises questions such as: What is it to do French philosophy in Africa, or Analytic philosophy in India, or Buddhist philosophy in North America? This volume examines the phenomenon of the ‘migration’ of philosophical texts and traditions into other cultures, identifies places where it may have succeeded, but also where it has not, and discusses what is presupposed in introducing a text or a tradition into another intellectual culture.</p>
+      </abstract>
+      <counts>
+         <page-count count="364"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sweet</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>What Does It Mean for Texts and Traditions to Migrate?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sweet</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>It is undeniable that philosophical texts and traditions from one culture are, and have been, found in very different cultures and intellectual milieus. Consider the presence of Buddhist philosophy in China, Korea and Japan—and more recently in North America and Europe. From its birthplace in India, Buddhism spread and developed throughout Asia (as Tibetan but also as East Asian, including Pure Land and Chan/Zen, in Japan and China, and as Seon in Korea), and also in North America—for example, Shambhala. Many philosophies originating in the West seem similarly to have travelled east and south; they have been introduced,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>The Migration of Aristotelian Philosophy to China in the 17th Century</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Shen</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Aristotle was the first among the Western philosophers to be systematically introduced into China by the Jesuits in the 17<sup>th</sup>century. The person of Aristotle and Scholastic commentaries on Aristotle’s philosophy were introduced and translated, or better, rewritten, into Chinese. The attempt to systematically introduce Aristotle’s philosophy was one of the missionary projects of Matteo Ricci and his colleagues in China, supposed by them to be a country of philosophers or run by philosophers. We could call this, therefore, the migration of Aristotle’s philosophy from the Western world to another world of philosophers in the East.</p>
+                     <p>In Julius Aleni’s<italic>Xixuefan</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>The Reformulation of the Philoponean Proofs in Mediaeval Jewish Thought</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hegedus</surname>
+                           <given-names>Gyongyi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>This essay seeks to provide three examples of how proofs about the createdness of the world, found in the works of the Aristotelian/Neo-Platonic philosopher John Philoponus (490–570) were reformulated in early medieval Jewish thought, namely, in two works of Saadya Gaon (882–942).¹ In the vivid atmosphere of the religious debates of 10<sup>th</sup>century Baghdad, it became necessary both for Muslim and Jewish thinkers to provide a system through which the statements of the Bible and of the Qur’an could be justified not by mere belief and acceptance but also by rationalistic proofs. The question of creation ex nihilo,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Putting Islam and ‘The West’ Together Again:</title>
+                     <subtitle>The Philosophy of M. M. Sharif</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Armour</surname>
+                           <given-names>Leslie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>The voices of reason are often drowned out when the talk turns to the prospects of a ‘clash of civilizations’. M. M. Sharif was one of the two most influential Muslim philosophers of the 20<sup>th</sup>century. Only Mohammed Iqbal (1877–1938), perhaps, equalled him. Sharif was the creator of an original philosophical system, the editor of the most impressive collection of studies on the history of Muslim philosophy, and the founder of the Pakistan Philosophical Congress. Yet he is little heard of now and, indeed, no library in North America or England has a complete set of his works.</p>
+                     <p>His</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>British Idealism as a Migrating Tradition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sweet</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>It has long been recognized that the philosophy of late-19<sup>th</sup>- and early-20<sup>th</sup>-century British Idealism had a significant influence in Britain, not only on the philosophical thought of the time, but also on religion, politics and social and public policy.¹ Its impact, however, was felt not only in Britain but throughout much of its empire and even beyond. Recent studies have noted the presence of the work of the British idealists in Canada, Australia and South Africa, and also in the United States, India, Japan and China.² Nevertheless, relatively little has been written concerning precisely how and how far the presence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Migration of Ideas and Afrikaans Philosophy in South Africa</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Duvenage</surname>
+                           <given-names>Pieter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>The phenomenon of philosophy in the Afrikaans language is the result of social and cultural circumstances that have played themselves out for more than two centuries in South Africa. From the 19<sup>th</sup>century, Afrikaans (and South African) philosophy has been influenced by British Idealism, continental thought (including phenomenology, existentialism, critical theory, hermeneutics, and post-structuralism), Anglo-American conceptual analysis, and philosophies informed by religious traditions, such as Reformational philosophy and Thomism. It is presently also no surprise that philosophers who work on postmodernism, postcolonialism, feminism, analytic philosophy and African philosophy do so by utilizing formulations of other contexts. Consequently, the following questions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Heidegger, Japanese Aesthetics, and the Idea of a ‘Dialogue’ between East and West</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kobayashi</surname>
+                           <given-names>Chinatsu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>The story of ‘modern Japanese philosophy’ offers an interesting case study of ‘migration’. The expression covers, roughly, the philosophical output in Japan during the first half of the 20<sup>th</sup>century, including the writings of the Kyoto School, founded around Kitaro Nishida.¹ This modern Japanese philosophy originated in the discovery by the Japanese of the Western philosophical tradition during the closing decades of the 19<sup>th</sup>century. There had been until then no knowledge of the latter and no recognizably independent Japanese tradition of philosophy. However, from the time of Kukai, Shinran and Dogen, there had been no lack of religious discourse</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Hermeneutics and the Migration of Philosophical Traditions in East Asia</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Huang</surname>
+                           <given-names>Cristal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Among the European philosophical traditions that have a presence in East Asia, continental philosophy and especially hermeneutics have a particularly strong following. Beginning in the mid-1980s, for example, a number of major Western texts—by Walter Benjamin, Hans-Georg Gadamer, Paul Ricoeur and Richard Rorty—became available in Chinese translation, and this interest shows no sign of abating.² In the present essay, I want to look at how those texts that focus on hermeneutics have been introduced, and arguably have migrated, into the East Asian milieu (specifically that of Taiwan) and ask how it is that the hermeneutical method has come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Dārā Shukoh and the Transmission of the Upaniṣads to Islam</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ganeri</surname>
+                           <given-names>Jonardon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>Hospitality, says Kant in “Towards Perpetual Peace”, is a cosmopolitan right, the right of a stranger to make use of that shared possession of the human race, the surface of the earth, to visit other places, the right “not to be treated with hostility because he has arrived on the land of another” as long as no violence is committed upon the host.¹ What might it mean to say that the stranger has a right to hospitality when the movement involved concerns texts and ideas? Viewed from the other side, what does it take for a tradition to have the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>A Buddhist ‘good life’ Theory:</title>
+                     <subtitle>Śāntideva’s Bodhicaryāvatāra</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Patrik</surname>
+                           <given-names>Linda E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>Scholars in diaspora carry their texts with them—as many texts as possible—to preserve their cultural and intellectual tradition when they are threatened by political forces and military invasions. The Tibetan scholars who fled Tibet in 1959 managed to bring out a large number of classic texts central to the Mahayana Buddhist philosophy and religion of pre-invasion Tibet. Among these texts was an old Indian Buddhist work on ethics, Śāntideva’s<italic>Bodhicaryāvatāra (Guide to the Bodhisattva Path)</italic>, which had itself been carried out of India centuries earlier during the time when Buddhism disappeared from its Indian birthplace. For over a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Sharing Insights:</title>
+                     <subtitle>Buddhism and Recent Aristotelian Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mason</surname>
+                           <given-names>Sheila</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>In the last few decades we have seen increasing turmoil in the world and an increasing concern about the weakening of moral bonds within the Western societies.¹ At the same time we have seen a great outpouring of writings on Buddhism in North America. Buddhist masters have founded centres for the study and practice of meditation, many North American men and women have become practitioners and teachers of Buddhism, some taking vows and becoming monks or nuns, while the Dalai Lama has become a public figure of great renown. Anyone with the inclination can easily find books, websites and courses</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Process Concepts of Text, Practice, and No Self in Buddhism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hoffman</surname>
+                           <given-names>Frank J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>Wittgenstein is said (by the editors of his<italic>Lectures and Conversations</italic>)¹ to have noticed that the religious believer may say that a religious belief—for example, belief in the Last Judgment—is well-established. Such beliefs may be held to be so because they regulate one’s life without being the result of a process of deliberation and decision. It is a matter of adopting a certain picture of how things are. By contrast, an ordinary question about a factual matter, such as whether there is a German airplane overhead (uttered in ambiguous circumstances), is one in which there is a clear</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>On Being Enabled to Say What Is “Truly Real”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCormick</surname>
+                           <given-names>Peter J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Many reflective persons today continue to investigate the deceptive nature of language. In the particular case of philosophy’s perennial struggles with religion, language continues to be at the centre of much critical attention. For without sustained and careful attention to the vagaries of language, taking the critical measure of the sense and significance of the dynamic relations between religious experience and its quite various reflective articulations cannot be satisfactory.²</p>
+                     <p>In this chapter I try to look carefully and sympathetically at one distinguished instance of what William Sweet has called “the phenomenon of the ‘migration’ of philosophical texts and traditions from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>The Philosophers of Al Andalus and European Modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lea</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>This chapter explores the development of the concept of autonomous reason within the Islamic tradition, with special emphasis on the philosophers of Al Andalus—those of the Iberian peninsula and the region of the Languedoc, following the Omayyad Muslim conquest from the 8<sup>th</sup>century. The chapter draws attention to important parallels that may show instances of the influence of their thinking during the European Renaissance and the Enlightenment as seen in the philosophical works of Descartes, Rousseau and Kant. After pointing out a number of similarities and possible influences, I also note the fact that Western philosophy after the Renaissance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Radhakrishnan and the Construction of Philosophical Dialogue across Cultural Traditions</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leighton</surname>
+                           <given-names>Denys P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Many humanities and social science scholars today are committed to, or at any rate, pay lip service to ideals of interdisciplinarity and methodological cross-fertilization. In light of this fact, it is remarkable that there should be so little dialogue between historians of philosophy (including those who study political and religious philosophy) and intellectual historians, particularly with respect to study of ‘non-Western’ thought systems or world views. A common tendency among intellectual historians today is to reduce history of philosophy to a minor province of philosophical hermeneutics. The increasingly ahistorical philosophical hermeneuticists, in turn, usually prioritize exposition and internal analysis of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>Philosophy-in-Place and Texts Out of Place</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Janz</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>Can a text migrate? What would it mean to use such a metaphor (and it is, without doubt, a metaphor)? We think of animals and people as migrating, sometimes by choice, sometimes by instinct, sometimes by compulsion. Migration is movement, but not just any movement. It is movement across geographical, national and/or cultural boundaries or differences. So, migration requires difference of some sort. We rarely speak of someone or something as having migrated if no change or adaptation was required, although of course at some level every move is by definition a change. Migration, then, must refer to specific kinds</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>Migrating Texts:</title>
+                     <subtitle>A Hermeneutical Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Huang</surname>
+                           <given-names>Kuan-Min</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>Where is the proper place of the text? A text is where it is appropriate to its place. This is our presupposition. With this presupposition of the text in regard to its place, we can begin to consider the conditions of migrating philosophical texts.</p>
+                     <p>A first observation: a migration of texts is an effect of place, and more precisely an effect ‘out of place’, an effect by which the texts’ original place is suspended or transformed. What is proper to a text or to a group of texts is put into question in this out-of-place effect called ‘migration’, but originally</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 17</label>
+                     <title>Text, Rationality, and Knowledge in Indian Philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deutsch</surname>
+                           <given-names>Eliot</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>It is not uncommon among Western philosophers who show some interest in non-Western thought to engage that thought as if it were put forward as a series of arguments that require little or no understanding beyond what the resources of their own tradition afford. Arguments are lifted out of the forms in which they are assumed only to be presented, not embedded, and then are dealt with in straightforward Western truth-value terms. The unstated assumption is that philosophers everywhere have addressed the same basic problems and adhere (or at least ought to adhere) to the same standards of what constitutes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.22</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>Migration: Explanation, Analysis, and Directions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sweet</surname>
+                           <given-names>William</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>This volume has aimed at helping to understand the presence, and the migration, of philosophical texts and traditions from their cultures of origin to new cultural and philosophical environments. It has provided examples or cases of where such a migration has occurred, but also of where there have been significant challenges to it. It has also sought to examine the phenomenon—what it means for texts and traditions to migrate—more closely. The volume has attempted to provide a better understanding of what we mean by texts and traditions, how they relate and the implications of this (for example, for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>337</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkchb.24</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,685 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1c5cj7s</book-id>
+      <subj-group>
+         <subject content-type="call-number">B105.B64C345 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Human body (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hermeneutics</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Carnal Hermeneutics</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>KEARNEY</surname>
+               <given-names>RICHARD</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>TREANOR</surname>
+               <given-names>BRIAN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>09</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823265886</isbn>
+      <isbn content-type="epub">9780823265916</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1c5cj7s"/>
+      <abstract abstract-type="short">
+         <p>Building on a hermeneutic tradition in which accounts of carnal embodiment are overlooked, misunderstood, or underdeveloped, this work initiates a new field of study and concern. Carnal Hermeneutics provides a philosophical approach to the body as interpretation. Transcending the traditional dualism of rational understanding and embodied sensibility, the volume argues that our most carnal sensations are already interpretations. Because interpretation truly goes "all the way down," carnal hermeneutics rejects the opposition of language to sensibility, word to flesh, text to body. In this volume, an impressive array of today's preeminent philosophers seek to interpret the surplus of meaning that arises from our carnal embodiment, its role in our experience and understanding, and its engagement with the wider world.</p>
+      </abstract>
+      <counts>
+         <page-count count="408"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Carnal Hermeneutics from Head to Foot</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TREANOR</surname>
+                           <given-names>BRIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The essays collected in this volume all address, in one way or another, the theme of carnal hermeneutics—that is to say, the surplus of meaning arising from our carnal embodiment, its role in our experience and understanding, and its engagement with the wider world. The voices represented here are diverse, each contributing to the view that the work of Hermes goes all the way down, from the event horizon of consciousness to the most sensible embodied experiences of our world.</p>
+                     <p>In the first section,<italic>Why Carnal Hermeneutics?</italic>, we show why our project of carnal hermeneutics is central to hermeneutics</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Wager of Carnal Hermeneutics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEARNEY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>What is the sense of sense? How do we read between the lines of skin and flesh? How do we interpret the world with our bodily senses, and especially those long neglected in Western philosophy—taste and touch? How, in other words, do we discern the world<italic>as</italic>this or that,<italic>as</italic>hospitable or hostile, as attractive or repulsive,<italic>as</italic>tasty or tasteless, as living or dying? These are key questions of carnal hermeneutics.</p>
+                     <p>From the moment we are born we live in the flesh. Infant skin responds to the touch of the mother, hands and feet unfurling, mouth opening</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Mind the Gap:</title>
+                     <subtitle>The Challenge of Matter</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TREANOR</surname>
+                           <given-names>BRIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Why “carnal” hermeneutics? Don’t we already talk enough about the body? After all, the body has, since the dawn of philosophy, been a topic of concern in one form or another. Plato talks about embodiment in the<italic>Republic</italic>and<italic>Philebus</italic>. Aristotle takes up the subject in<italic>De Anima</italic>, the<italic>Nicomachean Ethics, De Partibus Animalium</italic>, and other works. Augustine, Aquinas, Descartes, and others all write about the body; it has hardly been ignored. And don’t we already have enough flavors of hermeneutics? The latter half of the twentieth century was dominated by hermeneutics: Heidegger, Gadamer, and Ricoeur; the radicalization of these</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Rethinking Corpus</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NANCY</surname>
+                           <given-names>JEAN-LUC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>The meaning of this idiom is “to kill someone,” or metaphorically speaking “to reduce someone to nothing,” “to settle the score.” Life escapes through skin that’s been pierced by a weapon. Skin that is intact protects life, holding it together, but in order to do this, it has to tie itself together; it has to tie a knot in the cut umbilical cord. The cord is an extension of skin in the nourishing mass of placenta, but all the while it’s distinct from the mother’s body. It penetrates the placenta with tiny ramifications, but it is formed as an organ</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>From the Limbs of the Heart to the Soul’s Organs</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHRÉTIEN</surname>
+                           <given-names>JEAN-LOUIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>In the interpretation of the<italic>Song of Songs</italic>, according to which each one of us is the Beloved’s spouse, at least potentially, the soul, or “inner man,” is what receives the praises that the Beloved heaps on the spouse’s beauty, limb by limb. The soul is said to have a mouth, teeth, hair, cheeks, and so forth—all of which are immaterial limbs corresponding to the soul’s faculties, operations, and possibilities. Although these immaterial limbs are named in reference to the limbs of our carnal body, they are distinct from them and stand apart from them. At the very start</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>A Tragedy and a Dream:</title>
+                     <subtitle>Disability Revisited</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KRISTEVA</surname>
+                           <given-names>JULIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>The financial, economic, and political crisis that is spreading throughout Europe and the world today is showing itself to be an existential crisis in which we are lacking a new humanism. “New humanism” is humanism that is capable of recognizing its source in Christian humanism and its debt towards this tradition, notably Catholic, and at the same time taking account of new disciplines at the heart of new historic and social conditions.</p>
+                     <p>In this spirit the extreme states of human life, such as those of disability, are a testing experience and a possibility. This is my claim, which I make</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Incarnation and the Problem of Touch</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENRY</surname>
+                           <given-names>MICHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Incarnation, in the first place, refers to the condition of a being who possesses a body or, more precisely, a flesh. Are the body and the flesh thus the same thing? Like every fundamental question, the question of the body—or of the flesh—points back to a phenomenological foundation on the basis of which it can be elucidated. A phenomenological foundation should be understood as a pure appearing that is presupposed by everything else that appears to us. This pure appearing must appear first in order for anything else to appear and to be shown to us. Phenomenology is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>On the Phenomena of Suffering</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARION</surname>
+                           <given-names>JEAN-LUC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Life only lets itself be said in a negative mode, despite the fact that it precisely has the privilege of negating any negativity. For my life only conceals itself, withdraws and flees far from me as inaccessible and foreign, because it happens to me so intimately that I cannot<italic>watch it come</italic>to me, nor establish the least gap between it and me—this gap without which transcendence, intentionality, and horizon cannot operate or let anything show itself. I do not see my life, because I am it—or more exactly, because I am only within it. Life is that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Memory, History, Oblivion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RICOEUR</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>What I offer here is not a mere survey of my three-part volume<italic>Memory</italic>,<italic>History</italic>,<italic>Forgetting</italic>, but a kind of critical rereading proceeding from a reversal of standpoint. In what sense? The leading thread in my book is the<italic>writing of</italic>history in accordance with the lexical definition of history as historiography. Hence the ordering of the thematics: first, memory as such, then history as a human science, and finally oblivion or forgetting as a dimension of the general historical condition of human beings. Memory, according to this linear construction, was held merely as a matrix of history, whereas historiography</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Skin Deep:</title>
+                     <subtitle>Bodies Edging into Place</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CASEY</surname>
+                           <given-names>EDWARD S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>Some places are hard to bear—to bear bodily. For example, solitary confinement. It has been realized, much too belatedly, how devastating being kept alone in a prison cell continuously—for days, months, even years—can be for human beings. Lisa Guenther opens her recent book<italic>Solitary Confinement</italic>with the statement that “there are many ways to destroy a human being, but one of the simplest and most devastating is through prolonged solitary confinement.”¹ The effects studied so far have been mostly about the psychological impact of living in an entirely isolated way: it is known that many prisoners will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Touched by Touching</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WOOD</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>In this paper I take select concrete “instances” as opportunities for reflection, openings for imagining a broader practice of carnal hermeneutics. These instances include snatches of conversation, experiences, and works of art. The general assumption is that these cases exhibit many “thinks at a time,” that philosophical reflection can bring this out, and that such reflection feeds back into deepening the original experience. After years in the deconstructive trenches, I have been recently influenced by a certain strain of Wittgensteinian practice. I have come to think that the point of philosophy is to encourage and inculcate dispositions that take up</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Umbilicus:</title>
+                     <subtitle>Toward a Hermeneutics of Generational Difference</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’BYRNE</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>If we think of bodies, as Descartes did, as entities that cannot occupy the same place at the same time, we find ourselves thinking of solid forms—cones, cubes, spheres—that occupy space to the exclusion of others. Each geometrical shape is clear and distinct, so that when we imagine them as concrete forms their edges are sharp, their surfaces hard and their internal solidity unbroken by gaps or splits or emptinesses. We imagine solid bodies—steel balls, wooden cubes, glass prisms—that abut, touch one another, lie side by side, bump into each other, but cannot be in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Getting in Touch:</title>
+                     <subtitle>Aristotelian Diagnostics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALLOA</surname>
+                           <given-names>EMMANUEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>If we look at its history, hermeneutics never was anything but diacritical. In his seminal essay on the origins of hermeneutics (“Die Geburt der Hermeneutik,” 1900), Wilhelm Dilthey argued that hermeneutics was born in Alexandria, in the Hellenistic period. Although according to Dilthey the art of<italic>hermēneia</italic>(interpretation) was already practiced in classical Greece, it is only with the post-classical Alexandrian school of philology that hermeneutics became a self-standing discipline. As it were, the problem of the correct understanding becomes all the more insistent as the object of interpretation is far away: from the perspective of the Alexandrian philologists, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Between Vision and Touch:</title>
+                     <subtitle>From Husserl to Merleau-Ponty</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MORAN</surname>
+                           <given-names>DERMOT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>It is commonly recognized that Maurice Merleau-Ponty’s phenomenology of embodiment depends heavily on Edmund Husserl’s analyses of<italic>Leiblichkeit</italic>as found in the latter’s unpublished<italic>Ideen</italic>II.³ In this paper⁴ I shall argue that Merleau-Ponty, especially in his posthumously published<italic>Le Visible et l’invisible</italic>,⁵ significantly reinterprets and transforms the phenomenon of the “double sensation” (<italic>Doppelempfindung</italic>), i.e., one hand touching the other,⁶ discussed by Husserl. Husserl claims the double sensation belongs exclusively to touch and indicates a priority of touch over sight in the composition of the living organic body (<italic>Leib</italic>). In contrast, Merleau-Ponty rejects both of Husserl’s theses. For him, reversibility</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Biodiversity and the Diacritics of Life</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TOADVINE</surname>
+                           <given-names>TED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>Contestation over the line between life and death is perhaps the defining problem of contemporary philosophy no less than of today’s politics. From chemical weapons to drones to climate change, we confront negotiations over what counts as life as well as over the right, or the authority, to end it, if not also the responsibility to preserve it. The stakes are real in these efforts to mark off a singular line between life and death, the living and the nonliving, what will live and what will die, what is living within us and what is not. Yet as Derrida reminds</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>The Passion According to Teresa of Avila</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KRISTEVA</surname>
+                           <given-names>JULIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>Teresa of Avila (1515–1582) experienced and wrote about what we call mysticism at a time when Spain’s glory and power—that of the Conquistadors and the Golden Age—began its decline. Erasmus and Luther were shaking up traditional beliefs; new Catholics such as the Alumbrados attracted Jews and women; the Inquisition banned books in Castilian; and trials to determine the “<italic>limieza de sangre</italic>” multiplied. The daughter of a “<italic>christiana vieja</italic>” and a “<italic>converso</italic>,” Teresa, in her childhood, witnessed the case brought against her father’s family in which they had to prove they were truly Christian and not Jewish. Teresa’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.20</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Refiguring Wounds in the Afterlife (of Trauma)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAMBO</surname>
+                           <given-names>SHELLY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>As trauma theory narrated shattering endings, it turns, in a new century, to imagine impossible beginnings. How do we figure life? The task of carnal hermeneutics, as described by Richard Kearney, is to read between text and body, to think with multiple senses about the meaning of (embodied) life. How might carnal hermeneutics, as it draws on multiple senses, participate in the work of refiguring traumatic wounds? The essays in this volume note the privileging of the visual as the dominant sense in Western philosophy. The study of trauma, largely a Western enterprise, is often referred to through the image</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.21</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>This Is My Body:</title>
+                     <subtitle>Contribution to a Philosophy of the Eucharist</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FALQUE</surname>
+                           <given-names>EMMANUEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>“Blessed are those who are invited to<italic>the marriage supper of the lamb</italic>…. Let us rejoice and exult and give him glory, for the marriage of the Lamb has come, and his bride has made herself ready; to her it has been granted to be clothed with fine linen, bright and pure … Come, gather for the great<italic>supper of God</italic>” (Rev. 19:9, 7–8, 17; NRSV).¹ John’s call in Revelation is an invitation to the banquet. A “lamb” is standing there, sacrificed, ready to be viewed, worshiped, but also eaten. In a well-known controversial Flemish altar piece in St.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.22</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Original Breath</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACKENDRICK</surname>
+                           <given-names>KARMEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>In the beginning, God speaks.¹</p>
+                     <p>It is not clear that this marks a very promising start for a carnal hermeneutics. If we could somehow take a text by itself, out of its context and history, it might. But, of course, this story of Genesis enters into the long history of the Abrahamic faiths. There it encounters in subsequent millennia an insistence on a God who is beyond and outside all time and place. That already makes speaking very strange, and it becomes stranger still with the insistence that creation must be<italic>ex nihilo</italic>, that before this speaking creator there is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.23</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>On the Flesh of the Word:</title>
+                     <subtitle>Incarnational Hermeneutics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANOUSSAKIS</surname>
+                           <given-names>JOHN PANTELEIMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>306</fpage>
+                  <abstract>
+                     <p>We have to begin by reminding ourselves of this simple truth: that “the Word became flesh”—it was not the flesh that became word, it was not the carnal that became spiritual or must become spiritual. Contrary to the usual accusations brought against Christianity, to spiritualize the flesh and its affectations would simply amount to getting Christianity backwards—it would mean to undo Christianity and worse “in its name.” Finally, it would mean to unravel Christianity’s absolutely nonnegotiable claim, the claim by which Christianity stands or falls, that “the Word became flesh.”</p>
+                     <p>I do not mean to dismiss or ignore</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.24</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>317</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.25</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>381</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.26</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>385</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c5cj7s.27</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>393</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

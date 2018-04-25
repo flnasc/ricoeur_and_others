@@ -1,0 +1,981 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1g09v6s</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Edinburgh Companion to Poststructuralism</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Dillet</surname>
+               <given-names>Benoît</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>MacKenzie</surname>
+               <given-names>Iain</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Porter</surname>
+               <given-names>Robert</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>11</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748641222</isbn>
+      <isbn content-type="epub">9780748653690</isbn>
+      <isbn content-type="epub">0748653694</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Benoît Dillet</copyright-holder>
+         <copyright-holder>Iain MacKenzie</copyright-holder>
+         <copyright-holder>Robert Porter</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1g09v6s"/>
+      <abstract abstract-type="short">
+         <p>This Companion surveys the challenges and provocations raised by the major voices of poststructuralism: Foucault, Deleuze, Derrida, Cixous, Lyotard, Guattari, Kristeva, Irigaray, Barthes and Baudrillard. For students and researchers in philosophy, literature, art, geography, politics, sociology, law, film and cultural studies.</p>
+      </abstract>
+      <counts>
+         <page-count count="560"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacKenzie</surname>
+                           <given-names>Iain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Porter</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacKenzie</surname>
+                           <given-names>Iain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Porter</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>It would appear that we know poststructuralism. It has long since become an uncontroversial feature of conference proceedings and a wide range of scholarly publications, almost to the point, in some circles at least, that not to mention it is seen as a dereliction of one’s academic duties. More often than not, across many disciplines in the humanities and social sciences, convenors of academic modules and programmes are obliged to have a week on poststructuralism, usually alongside feminism, toward the end of the lecture series. That it has a well-established set of criticisms that accompany it also gives poststructuralism an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.6</book-part-id>
+                  <title-group>
+                     <title>[Part I: Introduction]</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In Chapter 1, ‘Poststructuralism and Modern European Philosophy’, Lumsden emphasises the connection between poststructuralism and post-Kantian idealism, Hegel in particular. Key here is Heidegger’s reading of the history of philosophy and how it has, implicitly and explicitly, functioned as the interpretative frame through which poststructuralism itself approaches the history of philosophy. This, for Lumsden, explains why Hegel, at least in the case of Deleuze and Derrida, is the confluence and culmination of all the problematic strains that run through modern philosophy.</p>
+                     <p>In Chapter 2, ‘From Marxism to Poststructuralism’, Choat shifts the focus away from Hegel to his most celebrated student</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Poststructuralism and Modern European Philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lumsden</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>The relation of poststructuralism to modern philosophy is an enormous topic. The sheer number of poststructuralist figures and the even more diverse range of modern philosophers make it difficult to do justice to the complex and diverse nature of the relation. One thing that is central to poststructuralist thought, as it is in the other great strand of twentieth-century European thought, hermeneutics, is a mindfulness that the concepts and approaches it has developed cannot be understood in isolation from the philosophical tradition. Gadamer sees his thought on a continuum with the tradition; his own philosophical innovations have to be understood</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>From Marxism to Poststructuralism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Choat</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Any intellectual movement that emerged in France between about 1945 and 1970 had to reckon with Marxism. The importance and influence that Marxism held in France during this period was atypical, however: from the early 1970s onwards Marxism faced a violent backlash, and in today’s intellectual and political scene it has little influence, while before the Second World War it had been rather marginal, both philosophically and organisationally. France’s theoretical culture has traditionally been dominated by a rationalism that is at odds with the socially and historically specific analyses of Marxism (Descartes is not necessarily a natural bedfellow of Marx).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>From Structuralism to Poststructuralism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lundy</surname>
+                           <given-names>Craig</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>As the immediate precursor to poststructuralism, the movement or paradigm of structuralism was naturally responsible for determining many of poststructuralism’s salient features. But what was structuralism, and how are we to understand its transformation into poststructuralism? In this chapter I will address these issues by first outlining the contours of what might be called the image of structuralism. An appreciation of this image is necessary for a full understanding of the shift from structuralism to poststructuralism. Nevertheless, an acknowledgement of its limitations, of the inconsistencies it suppresses and the inaccuracies it perpetrates, is equally necessary. As I will therefore demonstrate,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.10</book-part-id>
+                  <title-group>
+                     <title>[Part II: Introduction]</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In Chapter 4, ‘A History of the Method: Examining Foucault’s Research Methodology’, Hardy provides a survey of the key research methodologies developed by Foucault across his life and work. For Hardy, it is important to distinguish between the particular methods that Foucault actually used for undertaking research (say, for example, collecting data through archival research) and what could be more broadly termed ‘Foucault’s methodology’ as such: namely, the particular theoretical frameworks he created to order and interrogate his collected data. To this end, Hardy focuses his attention mainly on the two innovative theoretical frameworks that Foucault is most famous for:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>A History of the Method:</title>
+                     <subtitle>Examining Foucault’s Research Methodology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hardy</surname>
+                           <given-names>Nick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Since Foucault started publishing in the early 1960s much ink has been spilled by both his detractors and supporters alike.¹ An interesting point to note, however, is that each tends to assign to Foucault’s work a level of coherence and/or integration that is overall quite difficult to substantiate. One of the most famous of the supportive texts is by Dreyfus and Rabinow (1982), gained from their discussions and interviews with Foucault during his annual research trips to the University of California, Berkeley. Dreyfus and Rabinow appoint to Foucault’s work a definite methodological evolution that clearly separates his ‘archaeological’ and ‘genealogical’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Derrida, Deconstruction and Method</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Phillips</surname>
+                           <given-names>John W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>The problem of the relationship between words and things and, within the word, the difference between word and idea, has exercised more than twenty-five centuries of thought. The problem in grasping what is at stake in these relations and the differences that animate them lies in the fact that the only way to approach them is through the inherited concepts themselves: word, thing, idea. Couplings like form and matter, form and meaning, syntax and semantics, signifier and signified all owe their senses (we must not I suppose exclude sense and reference) to this ancient framework. Words like ‘sense’ and ‘word’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Écriture Féminine</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thompson</surname>
+                           <given-names>Zoë Brigley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>
+                        <italic>When I say I believe women</italic>&amp; men read &amp; write differently I mean that women &amp; men read &amp; write pretty differently. Whether this is biologically ‘essential’ or just straightforward like when you left the toaster burning or because women have a subordinated relationship to power in their guts I don’t know. Is this clear enough for you to follow.</p>
+                     <p>(Critchley 2010: 177, lines 1–8)</p>
+                     <p>In ‘<italic>When I say I believe woman</italic>’, the avant-garde poet Emily Critchley delves into problems of textuality and gender. With wryness and humour, Critchley riffs on the ideas of the French feminists – Hélène Cixous, Luce Irigaray</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Schizoanalysis:</title>
+                     <subtitle>An Incomplete Project</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Buchanan</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>There is no straightforward way to say what schizoanalysis is. The problem is not so much that the question is not answered by Deleuze and Guattari or that it is somehow unanswerable; rather the problem is that it has several answers. Unwilling to provide any kind of ‘formula’ or ‘model’ that would enable us to simply ‘do’ schizoanalysis as a tick-box exercise in which everything relates inexorably to one single factor (e.g. the family), which is what they thought psychoanalysis had become, Deleuze and Guattari observe a quite deliberate strategy of providing multiple answers to the questions their work raises.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.15</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>In Chapter 8, ‘Structure and Subject’, Williams establishes the mutual imbrication of these important concepts, showing how they have been historically and conceptually inseparable in both structuralism and poststructuralism. Arguing not only that the problematic of the subject itself remained a key figure of thought for all the various conceptions of structure and structuralism, but further that the subject<italic>persists</italic>(as both a radical paradox, and as an unresolved<italic>potentia</italic>) in all positions that announce its dissolution or deconstruction, Williams then poses the following crucial question: how might one now, in the wake of poststructuralism, think the space of subjectivity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Structure and Subject</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Caroline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>This chapter will examine the philosophical movement that has utilised and taken as its starting point the concepts of structure and subject. Both concepts are riddled with tensions and ambiguities, not least because they are used by a diverse collection of philosophers whose writings are commonly placed under the banner of structuralism and poststructuralism. They are concepts with their own distinct histories, their own logical and ontological bases (albeit contestable ones), but in the 1950s and 1960s, particularly in France, they come together, cross over and support one another, articulating a series of profound and influential problems and questions that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>How do we Recognise the Subject?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Widder</surname>
+                           <given-names>Nathan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>The question of the subject remains both central and contentious in poststructuralist thought, despite – or perhaps in accordance with – the poststructuralist declaration of the subject’s death. The issue primarily concerns where a revised notion of the subject will be positioned and what role it will take in relation to concepts of meaning, agency, thinking and politics. The matter, however, is not usually posed in this way, as many thinkers who broadly fall within poststructuralist circles have instead framed the question of the subject as a debate between those who would retain it and those who would throw away</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Foucault:</title>
+                     <subtitle>The Culture of Self, Subjectivity and Truth-telling Practices</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Besley</surname>
+                           <given-names>A. C. (Tina)</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>Western philosophy has had a continuous engagement with the problem of subjectivity and with the self as a locus of both consciousness and experience – a question that is deemed to be open to understanding, analysis and philosophical reflection – ever since the first moments of institutional philosophy in Ancient Greece. The notion of the self has been an object of inquiry, a problem and a locus for posing questions concerning knowledge, action and ethics since Antiquity. Plato and Aristotle in different ways inquired of the self in terms that we understand today as personhood and personal identity, viewing the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.19</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>In Chapter 11, ‘Derrida’s Language: Play,<italic>Différance</italic>and (Con)text’, Anderson defends the Derridean project against some of its most well-known and influential critics. Interrogating the notion that Derrida’s work implies the radicalisation of language as a ‘play of differences’, Anderson shows how this can be used to justify various types of readings (she notes the important influence of Richard Rorty in this context) that have reduced his work to an ‘anything goes’ philosophy. Further, other critics such as Searle and Habermas have, Anderson argues, unfairly labelled Derrida’s work as perpetuating indeterminacy and nihilism. Against these images and misreadings of Derrida,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Derrida’s Language:</title>
+                     <subtitle>Play, Différance and (Con)text</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Anderson</surname>
+                           <given-names>Nicole</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>On 9 May 1992, Barry Smith and eighteen cosignatories wrote a letter to the<italic>The Times</italic>in an attempt to sway Cambridge University dons not to award Derrida an Honorary Degree. (It failed. The vote was 336 to 204 in favour of Derrida.) This event became known as the ‘Cambridge Affair’. In this letter Barry Smith and company claim that Derrida’s writing ‘does not meet with accepted standards of clarity and rigour … his works employ a written style that defies comprehension … [and] consist in no small part of elaborate jokes and puns “logical phallusies” [sic] and the like’.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>Hélène Cixous and the Play of Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Puri</surname>
+                           <given-names>Tara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>270</fpage>
+                  <abstract>
+                     <p>For Hélène Cixous, words are powerful, mellifluous things capable not only of evoking memories and fantasies, but creating the world and the self. Her writing constantly plays with language, breaking it up and recomposing it, widening its gaps, showing its fractures, filling it up with puns, and inventing new portmanteau words. It is this irrepressible energy that makes so much of her writing epiphanic in its effect. Her formulation of<italic>écriture féminine</italic>, as articulated in<italic>The Newly Born Woman</italic>and ‘The laugh of the Medusa’, has everything to do with the potentiality that resides in words.</p>
+                     <p>The quote that I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.22</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>Luce Irigaray:</title>
+                     <subtitle>An Ode to A-(Luce)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Russell</surname>
+                           <given-names>Yvette</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>Like a great many of the authors discussed in this book, Irigaray would probably contest her labelling as a ‘poststructuralist’¹ and her work is so varied and draws on such a wide range of sources and methodological traditions that any categorisation risks excluding or eliding important aspects of her thinking. What I think is important, however, and the value that this opportunity provides is to look again at her work and to do so alongside those other authors whose work contributes to the great Western canon of philosophy, the interrogation of which Irigaray has dedicated a great deal of her</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.23</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>In Chapter 14, ‘Photography and Poststructuralism: the Indexical and Iconic Sign System’, Edge reflects on how the pecularity of the photographic sign sytem, and the study of photography generally, have been informed by poststructuralist thought in two important respects: one approach is concerned with the unique structure of the photograph, its indexicality; the other with the discursive effect of specific photographs in different locations – the iconic/symbolic element of the photograph. Drawing on the work of Kristeva, as well as an original case study on very early Victorian photography, Edge offers some fresh and very interesting insights on the indexical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.24</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Photography and Poststructuralism:</title>
+                     <subtitle>The Indexical and Iconic Sign System</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edge</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>In his final text<italic>Camera Lucida</italic>, first published in 1970, Roland Barthes gave his closing views on how photographs should be approached as a signifying system. ‘The important thing’, he proposes, ‘is that the photograph possesses an evidential force, and that its testimony bears not on the object but on the time. From a phenomenological viewpoint, in the photograph, the power of authentication exceeds the power of representation’ (Barthes 1984: 88–9). This final reflection by Barthes signposts the peculiarity of the photographic system which is made up of two signs, the indexical and the iconic; one belonging to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.25</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>Deleuze and the Image of Film Theory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Holohan</surname>
+                           <given-names>Conn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>In the two books he wrote on the cinematic image, Gilles Deleuze proposes a fundamental break in the history of film form. This break occurred, he declares, sometime around the end of the Second World War and finds its first expression in the work of Italian neorealist film-makers such as Roberto Rossellini. In Rossellini’s images of aimless characters wandering through the ruins of a bombed-out Europe, Deleuze uncovers a decisive rupture with the logic of classical cinema, a rejection of the possibility for action upon which classical narrative depends.<italic>Cinema 1: The Movement-Image</italic>and<italic>Cinema 2: The Time-Image</italic>were published</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.26</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>The Museum of Now</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cutler</surname>
+                           <given-names>Anna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>352</fpage>
+                  <abstract>
+                     <p>There is an ongoing debate in the museums sector about what it means to be a museum in the twenty-first century. This pursuit of meaning is not new to the discipline. Indeed there is a wealth of literature that explores the museum’s shifting social and cultural role since its emergence in the eighteenth century (Bennett 1985). Many narratives follow the development of the museum from private collections for the few, into their current status as public institutions for the many (with all the contention that this might imply). With such narratives to hand, institutions work from a foundation of experience</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.27</book-part-id>
+                  <title-group>
+                     <label>Chapter 17</label>
+                     <title>Institutions, Semiotics and the Politics of Subjectivity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peters</surname>
+                           <given-names>Michael A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>368</fpage>
+                  <abstract>
+                     <p>If I begin with Pierre-Félix Guattari it is because I believe he embodies some of the themes and motifs that define the intellectual movement that we name ‘poststructuralism’ and because in recent applications, developments and celebrations of the work of this group of intellectuals in the English-speaking world Guattari has been eclipsed by other more prominent thinkers and the radical nature of his work has been overlooked. Yet Guattari’s work illustrates and is emblematic of a number of distinctive aspects about the wider movement. He was consumed with the question of subjectivity, a political activist, strongly interventionist and his innovations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.28</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>383</fpage>
+                  <abstract>
+                     <p>In Chapter 18, ‘Here and Nowhere: Poststructuralism, Resistance and Utopia’, Sotiropoulos explores the thorny problem of a poststructuralist politics or, more particularly, a poststructuralist politics of resistance. By way of an illuminating and engaging cross-comparative analysis of Foucault, Deleuze and Derrida, Sotiropoulos argues that poststructuralism can itself be seen as an event of political resistance, that it works with and through various conceptions of utopia, mobilised as so many potential material movements immanent to becomings that are at play in the social and political world. However, this poststructuralist politics of resistance is not without limits, according to Sotiropoulos, as it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.29</book-part-id>
+                  <title-group>
+                     <label>Chapter 18</label>
+                     <title>‘Here and Nowhere’:</title>
+                     <subtitle>Poststructuralism, Resistance and Utopia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sotiropoulos</surname>
+                           <given-names>George</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>385</fpage>
+                  <abstract>
+                     <p>An apparently paradoxical fact in the reception that poststructuralism has met is that it has been simultaneously criticised for subverting liberal democracy and for being just another specimen of bourgeois thought, the only consensus being, it seems, in charges of ‘obscurantism’, ‘relativism’ and ‘nihilism’. There is of course also a kind of irony involved when poststructuralism is chided as ‘bourgeois’ by the vanguards of Marxist orthodoxy, who over the last decades have condemned every genuine insurrection against bourgeois order, from May ’68 to December 2008 in Greece. A revolutionary rhetoric does not make someone ‘revolutionary’ by default nor is critique</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.30</book-part-id>
+                  <title-group>
+                     <label>Chapter 19</label>
+                     <title>The Powers of the Outside in Deleuze and Cixous</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bergen</surname>
+                           <given-names>Véronique</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>trans.</role>
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>408</fpage>
+                  <abstract>
+                     <p>The term ‘poststructuralism’ will first be considered in relation to the play that it bestows on the term ‘structuralism’ in order to outline its double movement of legacy and secession that the former retains in relation to the latter. Before disembowelling, drilling deep into the notion to find its own attributes, it is necessary to make it resonate with the humus that it emerges from. The nature of the relationship between poststructuralism and structuralism presents both an organic link and a mutation, a continuity and a divergence. The lowest common denominator represented by the structuralist thought of Lévi-Strauss, Benvéniste, Genette</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.31</book-part-id>
+                  <title-group>
+                     <label>Chapter 20</label>
+                     <title>Politics in-between Nihilism and History</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Enaudeau</surname>
+                           <given-names>Corinne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">trans.</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Enaudeau</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>429</fpage>
+                  <abstract>
+                     <p>In ‘Energumen capitalism’, the review of<italic>Anti-Oedipus</italic>, Lyotard (1977) hits three birds with one stone. First, he is looking for other dissident interlocutors than those of<italic>Socialisme and Barbarie</italic>– the group with whom he shared the Marxist critique of Stalinism, Trotskism and Maoism, as well as militant activism, in particular during the Algerian war. Then, he sets out to guide the radicalism of Deleuze and Guattari back to a less simplistic conception of institutions (family, State, money), which supposedly immobilise the nomadism of flows. Finally, Lyotard starts to suspect his own ‘critical’ position. The history of revolutions and of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.32</book-part-id>
+                  <title-group>
+                     <title>[Part IV: Introduction]</title>
+                  </title-group>
+                  <fpage>443</fpage>
+                  <abstract>
+                     <p>In Chapter 21, ‘The Receptions of Poststructuralism’, Bowman illuminates how the reception(s) of poststructuralist ideas have been variously performed in the English-speaking world. Challenging the idea that there ever was a ‘French Poststructuralism’ residing somewhere (in Paris, perhaps), like an essence, prior to its construction and (performative) elaboration in the texts and contexts that came subsequently to be regarded as those of ‘French Poststructuralism’, he then goes on to show how the work of figures like Derrida, Barthes, Foucault, Lacan, Deleuze and others gets performatively elaborated in British Cultural Studies, Comparative Literature in the US, or in broader, more geographically</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.33</book-part-id>
+                  <title-group>
+                     <label>Chapter 21</label>
+                     <title>The Receptions of Poststructuralism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bowman</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>445</fpage>
+                  <abstract>
+                     <p>One of the most famous figures of poststructuralism, Jacques Derrida, died on 8 October 2004. Over the following days, weeks and months, newspapers and other media the world over contained reactions, responses, comments and obituaries to him. Many of these were surprisingly hostile; they were often irreverent and disrespectful; and often also mocking, joking and scornful. Some were starkly abusive and aggressive. In fact, many obituaries, reactions and responses to the news of Derrida’s death attacked or slandered not only his work but also cast aspersions on his character and personality. A large proportion made crass jokes about whether we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.34</book-part-id>
+                  <title-group>
+                     <label>Chapter 22</label>
+                     <title>From Liberation Theory to Postcolonial Theory:</title>
+                     <subtitle>The Poststructuralist Turn</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rooney</surname>
+                           <given-names>Caroline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>471</fpage>
+                  <abstract>
+                     <p>This chapter aims to address the ways in which the transition from liberation theory to postcolonial theory entails a historical intellectual encounter with poststructuralism, one that may be termed ‘the poststructuralist turn’. However, in broaching this question, the intention is not to propose that postcolonial theory is determined by its poststructuralist influences in a unilateral manner. That this constitutes a particular area of contention becomes apparent in a context where seminal postcolonial theorists attract attention in the light of their being highly influenced by European theory. For instance, Bart Moore-Gilbert, in discussing Homi Bhabha’s<italic>The Location of Culture</italic>states that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.35</book-part-id>
+                  <title-group>
+                     <label>Chapter 23</label>
+                     <title>The Pharmacology of Poststructuralism:</title>
+                     <subtitle>An Interview with Bernard Stiegler</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stiegler</surname>
+                           <given-names>Bernard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>conducted and translated by</role>
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>489</fpage>
+                  <abstract>
+                     <p>Epineuil–le–Fleuriel, 4 December 2011.</p>
+                     <p>
+                        <italic>Benoît Dillet: Is there a common politics to poststructuralism, which we inherit today? Is there a poststructuralist heritage in the way we do and we think politics today?</italic>
+                     </p>
+                     <p>Bernard Stiegler: This is a difficult question that requires a two-fold answer: yes … but …</p>
+                     <p>First of all, yes, were a politics possible today and tomorrow – and I fervently believe that it is possible – it would have to draw from this heritage. More precisely, it draws – and we will certainly come back to this later on – from a pharmacology, and what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.36</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>Poststructuralism Today?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dillet</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacKenzie</surname>
+                           <given-names>Iain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Porter</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>507</fpage>
+                  <abstract>
+                     <p>In the introduction we presented poststructuralism as an event from the perspective of its<italic>emergence</italic>in a complex philosophical and political environment. In conclusion we will address the nature of the poststructuralist event from the perspective of its<italic>submergence</italic>within current philosophical thought and political movements. To say that it is submerged is to claim that poststructuralism has rather sunk from view when one stares across the vista of contemporary theory. While the intellectual event that occurred in France in the 1960s and 1970s sent shock waves through the Anglo-American academy throughout the 1970s and 1980s such that there was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.37</book-part-id>
+                  <title-group>
+                     <title>Notes on the Contributors</title>
+                  </title-group>
+                  <fpage>527</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g09v6s.38</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>533</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

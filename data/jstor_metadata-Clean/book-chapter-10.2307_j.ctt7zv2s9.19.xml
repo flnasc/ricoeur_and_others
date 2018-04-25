@@ -1,0 +1,505 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7zv2s9</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1042.P75 1986</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Poetics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Dictionaries</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Princeton Handbook of Poetic Terms</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>PREMINGER</surname>
+               <given-names>ALEX</given-names>
+            </name>
+            <role>EDITOR</role>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>WARNKE</surname>
+               <given-names>FRANK J.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>HARDISON</surname>
+               <given-names>O. B.</given-names>
+               <suffix>JR.</suffix>
+            </name>
+         </contrib>
+         <role content-type="editor">ASSOCIATE EDITORS</role>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="other" id="contrib4">
+            <role>With a Select Reading List by</role>
+            <name name-style="western">
+               <surname>Brogan</surname>
+               <given-names>T. V. F.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="epub">9781400857982</isbn>
+      <isbn content-type="epub">1400857988</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON, NEW JERSEY</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1986</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7zv2s9"/>
+      <abstract abstract-type="short">
+         <p>This compact volume makes available a selection of 402 entries from the widely praised Princeton Encyclopedia of Poetry and Poetics, with emphasis on prosodic and poetic terms likely to be encountered in many different areas of literary study. The book includes detailed discussions of poetic forms, prosody, rhetoric, genre, and topics such as theories of poetry and the relationship of linguistics to poetry</p>
+         <p>Originally published in 1987.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="326"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.2</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <collab>THE EDITORS</collab>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.4</book-part-id>
+                  <title-group>
+                     <title>LIST OF ABBREVIATIONS BIBLIOGRAPHICAL</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.5</book-part-id>
+                  <title-group>
+                     <title>LIST OF ABBREVIATIONS GENERAL</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.6</book-part-id>
+                  <title-group>
+                     <title>LIST OF CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>xiv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.7</book-part-id>
+                  <title-group>
+                     <title>A</title>
+                  </title-group>
+                  <fpage>3</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.8</book-part-id>
+                  <title-group>
+                     <title>B</title>
+                  </title-group>
+                  <fpage>18</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.9</book-part-id>
+                  <title-group>
+                     <title>C</title>
+                  </title-group>
+                  <fpage>24</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.10</book-part-id>
+                  <title-group>
+                     <title>D</title>
+                  </title-group>
+                  <fpage>51</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.11</book-part-id>
+                  <title-group>
+                     <title>E</title>
+                  </title-group>
+                  <fpage>61</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.12</book-part-id>
+                  <title-group>
+                     <title>F</title>
+                  </title-group>
+                  <fpage>73</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.13</book-part-id>
+                  <title-group>
+                     <title>G</title>
+                  </title-group>
+                  <fpage>79</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.14</book-part-id>
+                  <title-group>
+                     <title>H</title>
+                  </title-group>
+                  <fpage>85</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.15</book-part-id>
+                  <title-group>
+                     <title>I</title>
+                  </title-group>
+                  <fpage>91</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.16</book-part-id>
+                  <title-group>
+                     <title>J</title>
+                  </title-group>
+                  <fpage>110</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.17</book-part-id>
+                  <title-group>
+                     <title>K</title>
+                  </title-group>
+                  <fpage>111</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.18</book-part-id>
+                  <title-group>
+                     <title>L</title>
+                  </title-group>
+                  <fpage>111</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.19</book-part-id>
+                  <title-group>
+                     <title>M</title>
+                  </title-group>
+                  <fpage>132</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.20</book-part-id>
+                  <title-group>
+                     <title>N</title>
+                  </title-group>
+                  <fpage>157</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.21</book-part-id>
+                  <title-group>
+                     <title>O</title>
+                  </title-group>
+                  <fpage>170</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.22</book-part-id>
+                  <title-group>
+                     <title>P</title>
+                  </title-group>
+                  <fpage>180</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.23</book-part-id>
+                  <title-group>
+                     <title>Q</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.24</book-part-id>
+                  <title-group>
+                     <title>R</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.25</book-part-id>
+                  <title-group>
+                     <title>S</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.26</book-part-id>
+                  <title-group>
+                     <title>T</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.27</book-part-id>
+                  <title-group>
+                     <title>U</title>
+                  </title-group>
+                  <fpage>286</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.28</book-part-id>
+                  <title-group>
+                     <title>V</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.29</book-part-id>
+                  <title-group>
+                     <title>W</title>
+                  </title-group>
+                  <fpage>298</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.30</book-part-id>
+                  <title-group>
+                     <title>Z</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zv2s9.31</book-part-id>
+                  <title-group>
+                     <title>POETIC GENRES, MODES, AND FORMS:</title>
+                     <subtitle>A SELECT READING LIST</subtitle>
+                  </title-group>
+                  <fpage>301</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,487 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7mh45</collection-id>
+      <volume>11</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctttssdt</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN45.C73 1994</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Discourse analysis, Narrative</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Criticism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Spain</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Critical Practices in Post-Franco Spain</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>LÓPEZ</surname>
+               <given-names>SILVIA L.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>TALENS</surname>
+               <given-names>JENARO</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>VILLANUEVA</surname>
+               <given-names>DARÍO</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">EDITORS</role>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>09</month>
+         <year>1994</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816624737</isbn>
+      <isbn content-type="ppub">0816624739</isbn>
+      <isbn content-type="epub">9780816686032</isbn>
+      <isbn content-type="epub">0816686033</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>MINNEAPOLIS; LONDON</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>1994</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.5749/j.ctttssdt"/>
+      <abstract abstract-type="short">
+         <p>Offers a sampling of Spanish critical work in literary theory and cultural studies. Contributors: Manuel Asensi, Juan Miguel Company-Ramón, Jesús González-Requena, Silvia L. López, Rafael Núñez-Ramos, Cristina Peña-Marín, José María Pozuelo-Yvancos, Jenaro Talens, Darío Villaneuva, Santos Zunzunegui.</p>
+      </abstract>
+      <counts>
+         <page-count count="224"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>The Politics of Theory in Post-Franco Spain</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>López</surname>
+                           <given-names>Silvia L.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Talens</surname>
+                           <given-names>Jenaro</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Villanueva</surname>
+                           <given-names>Darío</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>This volume presents a sample of contemporary critical work now being done in Spain. More often than not, “theory” is a word associated with France, Germany, and the United States. Seldom do we read how Spanish scholars are examining and using critical perspectives such as psychoanalysis, deconstruction, discourse analysis, text theory, or the aesthetics of reception. The essays presented here, submitted by professors of communication and literary theory in the Spanish university system, differ not only in their problematics but also in style and presentation from what one is accustomed to seeing in the United States. As editors of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.4</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Making Sense after Babel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Talens</surname>
+                           <given-names>Jenaro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Translators occupy the smallest print in the history of literature. They are more than the impersonal, they are the anonymous. With few exceptions, the name of the translator appears in small type on the credits page; it rarely appears on the title page, and almost never on the cover. It is as if the act of reading a text in a language different from the original were a most shameful activity. “Good manners” are that institutionalized behavior that allows this shameful activity to be kept secret; everyone pretends not to see what everyone else knows (even the translator knows that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>The Television Newscast:</title>
+                     <subtitle>A Postmodern Discourse</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>González-Requena</surname>
+                           <given-names>Jesús</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>López</surname>
+                           <given-names>Silvia L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>The production of reality today—that is, the production of those discourses that constitute it and that make consensus possible—demands enlargement and adaptation of the technology of the past into today’s “mass communication media.”</p>
+                     <p>The reason is unmistakable: the expansion of the capitalist market, the Industrial Revolution, and the progressive antagonism of scientific discourses in the configuration of reality accelerate the transformation of reality itself. The expansion of forces of production and the multiplication of specifically scientific and technological codes constitute two aspects of a movement that expands the order of the commodity into the most unimaginable segments of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Architectures of the Gaze</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zunzunegui</surname>
+                           <given-names>Santos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>López</surname>
+                           <given-names>Silvia L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>I shall begin with something evident. Museums—in particular, fine arts museums—have become in modern societies, at least in those that became what they are under the revolutionary impulse of Enlightenment philosophy, an exemplary space in which unanimous commemoration can take place. They are a space where the secular ritual occurs, through which a community sanctions a number of cultural achievements. Although these achievements bring an individual character to the community, at the same time they are supposed to link it to the whole of humanity in the realm of the spirit. These spaces have been designed for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>The Immutability of the Text, the Freedom of the Reader, and Aesthetic Experience</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Núñez-Ramos</surname>
+                           <given-names>Rafael</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>McMillen-Villar</surname>
+                           <given-names>Susan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>One of the features most commonly attributed to a work of art is the union, inseparability, or lack of distinction between form and substance, expression and content. Even though I think that this concept is well explained by some authors (especially Lotman and Mukarovsky), perhaps it would be appropriate to consider it from a pragmatic perspective, for only in that way may we appreciate its true relevance and its influence on the general functioning of literary phenomena. The unity of form and substance is not an autonomous value in the literary text that can be appreciated in itself. It is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Phenomenology and Pragmatics of Literary Realism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Villanueva</surname>
+                           <given-names>Darío</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Realism not only has shaped important schools and periods in the evolution of world literature, but also has constituted a basic constant in all literature since the formulation of the principle of mimesis in the<italic>Poetics</italic>of Aristotle. For this reason, it is one of the central points of literary theory most in need of a clarification of its conceptual limits. This effort, in turn, would contribute to the task—often opposed by various authors—of correcting the imprecision, polysemia, and ambiguity with which the realist principle is applied.</p>
+                     <p>This is no easy task, given the diverse implications surrounding realism,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>The Pragmatics of Lyric Poetry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pozuelo-Yvancos</surname>
+                           <given-names>José María</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Beckwith</surname>
+                           <given-names>Stacy N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>The lyric origins of the poem, as set down by linguistic poetics, have been established on the theoretical grounds that the poem is a linguistic object of a special type. Indeed, as a measure of its “poeticity” (<italic>poeticidad</italic>), one might describe the poem as having been derived from those rhetorical-elocutive origins (figures and tropes) of structural ordering (parallelism, coupling, isotopy, and the like) that I have discussed elsewhere (Pozuelo-Yvancos,<italic>La teoría del lenguaje literario</italic>). Yet until the mid-1970s, very few authors concerned themselves with the pragmatic specificity of the poem, or in other words, with poetry as a special form</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Reading in Process, the Antitext, and the Definition of Literature</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Asensi</surname>
+                           <given-names>Manuel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Giefer</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>In a previous work, dedicated to a<italic>theoría</italic>¹ of reading, I investigated the paradoxical movement that characterizes the relationship between the language of literary theory and that of literature. One of the core chapters of that work noted the characteristics of identity and difference that mediate between text and metatext. In dealing specifically with the question of difference, the problem of defining language or the literary text was brought to the foreground, a classical problem that was not addressed at the time because the investigation wandered along other paths. Nevertheless, the way was prepared for understanding that the question about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Subjectivity and Temporality in Narrative</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peña-Marín</surname>
+                           <given-names>Cristina</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Meuser-Blincow</surname>
+                           <given-names>Frances</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>The narrative carried out by a subject that addresses itself and takes itself as the protagonist of its own story raises a series of questions about the relationship between subjectivity and temporality, about the construction of narrative time, and also about the place that narrative occupies in the process of building identity.</p>
+                     <p>Recent studies of temporality in narrative texts resort, almost inevitably, to the distinction between time of the narration and time narrated. However, we must bear in mind that these temporalities do not usually exist as independent and separable entities. Such a dichotomy is intended to account for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Subject and Language:</title>
+                     <subtitle>Reflections on Lacan and Jinkis</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Company-Ramón</surname>
+                           <given-names>Juan Miguel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>McMillen-Villar</surname>
+                           <given-names>Susan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>Jorge E. Jinkis, in his fundamental article “A Topical Distinction: The Subject of the Enunciation and the I of Discourse,” follows the split present in Lacanian writings between enunciation and utterance. He analyzes the different conceptual value that Roman Jakobson’s shifter, that is, that which articulates utterance with true enunciation, has in Lacanian psychoanalysis. In order to account for the gap between enunciation and utterance, Lacan introduces a first distinction that splits the “I” of the discourse of the subject from the enunciation. What is at stake in Lacanian argumentation is, in short, that the discovery by psychoanalysis of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.13</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                     <subtitle>Aesthetics and Politics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lewis</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>The selection of essays presented in<italic>Critical Practices in Post-Franco Spain</italic>accurately reflects the balance of forces within Spanish literary theory since 1975. Fairly specific absences and emphases help to map the terrain. Gender criticism of Spanish literature remains primarily the work of scholars residing in North America. Today, in contrast to the 1960s and 1970s, Marxist theory enjoys little purchase among Spanish literary theorists or social philosophers. And, having coaxed a turn toward concepts that treat incompleteness, openness, and pragmatics as opposed to wholeness, closure, and universals, a diffuse but hegemonic “postmodernism” now overlies earlier Spanish traditions of linguistic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.14</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>183</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctttssdt.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>185</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

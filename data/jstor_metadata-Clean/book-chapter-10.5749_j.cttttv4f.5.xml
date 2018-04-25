@@ -1,0 +1,303 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7mhzx</collection-id>
+      <volume>64</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.cttttv4f</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Narrative as Communication</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Coste</surname>
+               <given-names>Didier</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="foreword-author" id="contrib2">
+            <role>Foreword by</role>
+            <name name-style="western">
+               <surname>Godzich</surname>
+               <given-names>Wlad</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>01</month>
+         <year>1990</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816617197</isbn>
+      <isbn content-type="ppub">0816617198</isbn>
+      <isbn content-type="epub">9780816682966</isbn>
+      <isbn content-type="epub">0816682968</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>1989</copyright-year>
+         <copyright-holder>the Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.5749/j.cttttv4f"/>
+      <abstract abstract-type="short">
+         <p>The first major treatise on narrative and narrative theory to make use of all the analytic tools developed in the last two decades.</p>
+      </abstract>
+      <counts>
+         <page-count count="400"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.3</book-part-id>
+                  <title-group>
+                     <title>Foreword:</title>
+                     <subtitle>The Time Machine</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Godzich</surname>
+                           <given-names>Wlad</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>When Tzvetan Todorov coined the term “narratology” in 1969 to designate the study of narrative he was responding to the then widespread belief that narrative was particularly amenable to being elevated to the status of an object of knowledge for a new science armed with its own concepts and analytic protocols. He was also responding to the hope, or perhaps more accurately, the desire, to lift all of literary and cultural studies to the dignity of science, a desire that strongly animated French structuralism. Todorov’s programmatic enthusiasm seemed warranted then: whereas the previous half-century had been punctuated by occasional studies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>D.C.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xviii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>The Nature and Purpose of Narratology</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>In the Preface to his<italic>Recent Theories of Narrative</italic>(1986), Wallace Martin does not hesitate to write: “When translations from French, German and Russian are added to the writings of English and American theorists, the only alternative to few books on narrative in general might appear to be none at all.”¹ And J.A. Berthoud, in his in-depth critique of Jameson, “Narrative and Ideology” (1985), states, “The attempt to construct a narrative grammar to account for our capacity to recognize and discuss plots or stories extractable from narrative texts has been thoroughly discredited.”² These two statements should certainly be qualified. Is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>The Structure and Formation of Narrative Meaning</title>
+                  </title-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>The several negative definitions of narratology I have given resulted from the mapping of the field proposed early in chapter 1: “(1) the processes by which narrative messages are formed and (2) the functions of such messages”. It should be clear, however, that these two areas represent analytic moments that, considered separately, would be relatively uninteresting. Neither should narratology include in its premises any simple one-way relation between point (1) and (2), which would foreclose the constitution of its object into an instance and/or an image of communication in general. The processes of formation of narrative messages do not determine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Narrative and Verbal Art:</title>
+                     <subtitle>Literariness in Communication</subtitle>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>So-called literary narrative is, at least in modern times and in urban, industrial societies, one of the grand categories of narrative communication, so central indeed, as we have already noted, that it has come to obfuscate the study and relevance of narrativeness in other semiotic systems, for example, film, television, advertising, photography, and drama, and appears as a model or a key antagonist for historiography, philosophy, and scientific Discourses. We must therefore try to determine the specific weight and implication of the concept “literary” in phrases like “literary narrative” and “literary work of art”; in other words, we have to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>A Manmade Universe? or, The Question of Fictionality</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>The few aspects of the verbal message discussed in chapters 2 and 3 were dependent on the structure of utterances and thus related to sign structure. Without indulging in the absurd wager of trying to isolate this structure from the many systems in which it happens to be produced, recognized, transformed, and exchanged as such, we have treated the sign thus far as if it were self-contained: we had not posited the possibility, let alone the necessity of an external space, a world without sign systems at large. At the new stage we are reaching now, the question is not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Who’s Who and Who Does What in the Tale Told</title>
+                  </title-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>Narrative meaning is concretized through the production and comprehension of narrative units of discourse (transactive and/or nontransactive narratemes) which involve noun phrases (NPs) as well as verb phrases (VPs). Moreover, the text of a linguistic narrative is also made of all sorts of discursemes that have subjects. It is now time to raise some of the many questions involved and propose some methodological directions in a field that has so often been obscured by ideological interests alien or opposed to a science of discourse.</p>
+                     <p>After a brief survey of two conceptual pairs of opposites that remain relevant and useful although</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Voices:</title>
+                     <subtitle>Knowing, Telling, and Showing It or Not</subtitle>
+                  </title-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>This chapter deals with the operations (of reading and inscribing) pertinent to the representation of enunciation in narrative. Genette writes in<italic>Nouveau Discours du récif:</italic>
+                     </p>
+                     <p>In the most sober narrative, someone talks to me, tells me a story, invites me to hear it as he tells it, and this invitation—trust or pressure—constitutes an unequivocal attitude of narration, hence the attitude of a narrator.</p>
+                     <p>And also:</p>
+                     <p>Whether it is a narrative or not, when I open a book, it is because I want the author to<italic>talk to me.</italic>And since I am not deaf or dumb yet, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Binding and Unfolding:</title>
+                     <subtitle>on Narrative Syntax</subtitle>
+                  </title-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>Like “discourse,” “syntax” is, in our context, one of the words that demand an accurate redefinition for a limited purpose, lest they invade with a battalion of loaded linguistic concepts our modest attempt to theorize the system and process of narrative communication. It is worth repeating: narrative is neither a language nor a chain of events but a particular manner of imposing design on a presented world and of presenting worlds through the operations required by the constraints of this design.</p>
+                     <p>Although syntax will still mean for us in this chapter “the study of principles and processes by which S’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Narrative Economy:</title>
+                     <subtitle>A Dissident Approach to Logic and Necessity</subtitle>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>At this stage of our inquiry, should we see narrative as a living species, we know probably a bit better how it is built, its anatomy and its locomotion, as well as some aspects of its physiology, but we have formulated only some very general hypotheses about its goals and motivations, its processes of reproduction, and its relations with the environment —“passive” adaptation and “active” modification. In other words, we have left value, demand, work, investment, profit, and interest on our horizon. This does not mean that such notions and, consequently, the metabolism and ecology of the narrative species are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Narrative within Genres and Media</title>
+                  </title-group>
+                  <fpage>252</fpage>
+                  <abstract>
+                     <p>Between the formation/cognition of narrative discourse and the construction of narrative significance, there is still one important mediation to consider: that of genre as technê and sociohistorical constraint. In fact, if we had not taken genre into account, implicitly at least, every time we studied individual examples of acts of narrative communication and their texts, we would have made an intolerable qualitative leap from the level of generality at which our method of analysis was situated to particular concrete situations. The purpose of this chapter is to put genre to work as efficiently as possible within the process of theorization</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>What Tales Tell Us to Do and Think, and How (Narrative and Didactic Constructions of Meaning)</title>
+                  </title-group>
+                  <fpage>297</fpage>
+                  <abstract>
+                     <p>I have hitherto described textual structures and the artistic communication system, among others, essentially as sets of material data and networks that constitute the preconditions for the formation of “primary” messages, that is, for the mental elaboration of relatively autonomous possible worlds. Such worlds could be considered mutually interchangeable in the eyes of an ideal, abstract “subject,” since they were approached on the basis of their production rules, not from the viewpoint of their desirability. Similarly, a nation’s industrial equipment and infrastructure can be described as able to produce heavy machinery and high tech means of transportation, without taking into</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.15</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>335</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.16</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttv4f.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>371</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

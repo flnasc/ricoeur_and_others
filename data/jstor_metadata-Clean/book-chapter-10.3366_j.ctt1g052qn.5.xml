@@ -1,0 +1,691 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1g052qn</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Between Deleuze and Foucault</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Morar</surname>
+               <given-names>Nicolae</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Nail</surname>
+               <given-names>Thomas</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Smith</surname>
+               <given-names>Daniel W.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>09</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781474415071</isbn>
+      <isbn content-type="epub">9781474415095</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Nicolae Morar</copyright-holder>
+         <copyright-holder>Thomas Nail</copyright-holder>
+         <copyright-holder>Daniel W. Smith</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1g052qn"/>
+      <abstract abstract-type="short">
+         <p>This collection combines 3 original essays by Deleuze and Foucault, in which they respond to each other's work, with 16 critical essays by key contemporary scholars working in the field.</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Between Deleuze and Foucault</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morar</surname>
+                           <given-names>Nicolae</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nail</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Daniel W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Gilles Deleuze and Michel Foucault are widely accepted to be central figures of post-war French philosophy. Foucault (1926–84) held a chair in the History of Systems of Thought at the prestigious Collège de France, and remains one of the most-cited authors in the humanistic disciplines. Deleuze (1925–95), who taught at the University of Paris-St Denis until his retirement in 1987, authored more than twenty-five books, and was one of the most important and influential European philosophers of the post-war period. Cultural theorists, historians, philosophers and others have devoted considerable effort to the critical examination of the work of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Deleuze and Foucault:</title>
+                     <subtitle>A Philosophical Friendship</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dosse</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>“Perhaps one day this century will be known as Deleuzian.”¹ Michel Foucault’s lucid remark, made in 1969, has often been repeated. As for Deleuze, “Gilles deeply admired Michel Foucault.”² Although they saw each other frequently and fought alongside each other for the same political causes, they never really worked together. Yet as the final tributes were being paid to Foucault at La Salpêtrière before a crowd of several hundred mourners, it was Deleuze who stood and read an excerpt from the preface to<italic>The Use of Pleasure</italic>. Some basic disagreements were surely motivated by a certain rivalry as to who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Theatrum Philosophicum</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Foucault</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>I must discuss two books of exceptional merit and importance:<italic>Difference and Repetition and The Logic of Sense</italic>.¹ Indeed, these books are so outstanding that they are difficult to discuss; this may explain, as well, why so few have undertaken this task. I believe that these words will continue to revolve about us in enigmatic resonance with those of Klossowski, another major and excessive sign, and perhaps one day, this century will be known as Deleuzian.</p>
+                     <p>One after another, I should like to explore the many paths that lead to the heart of these challenging tests. As Deleuze has said</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Michel Foucault’s Main Concepts</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deleuze</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Foucault refers to his work as “studies in history,” though he does not see it as “the work of an historian.” He does the work of a philosopher, but he does not work on the philosophy of history. What does it mean to think? Foucault has never dealt with any other problem (hence his debt to Heidegger). And the historical? It is formations which are stratified, made up of strata. But to think is to reach a non-striated material, somewhere between the layers, in the interstices. Thinking has an essential relation to history, but it is no more historical than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>When and How I Read Foucault</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Negri</surname>
+                           <given-names>Antonio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Klotz</surname>
+                           <given-names>Kristopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>72</fpage>
+                  <abstract>
+                     <p>The journal<italic>Aut Aut</italic>² – the first journal in Italy that took an interest in Michel Foucault – published an article in its final 1978 issue that I had written one year earlier, called “On the Method of the Critique of Politics.”³ In this text, I discussed the influence that Foucault’s work had had up to this point on the thought of the Italian revolutionary left, for which I had been a militant in the 1970s. Foucault’s latest work had been<italic>Discipline and Punish</italic>, translated into Italian in 1976. At that time, I had begun to work again on Marx,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Critical Problematization in Foucault and Deleuze:</title>
+                     <subtitle>The Force of Critique without Judgment</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koopman</surname>
+                           <given-names>Colin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>In a 1972 conversation concerning the role of philosophy in the work of social critique, Michel Foucault and Gilles Deleuze put forward a conception of critical theory that resonates widely throughout the varied terrains of their work. At the heart of the conception they constructed together in “Intellectuals and Power” is a radical revisioning of the work that philosophy should expect of itself insofar as philosophy can legitimately expect itself to engage present social, cultural, ethical and political problems. Foucault and Deleuze clearly expected such engagements of themselves. Much of their work is located, in different ways of course, at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Foucault’s Deleuzian Methodology of the Late 1970s</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Protevi</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>We will explore the Deleuzian nature of Foucault’s differential historical methodology in the mid-to-late 1970s. We will track formulations that suggest the key concept of<italic>Difference and Repetition:</italic>individuation as the integrating of a differential field or “multiplicity.”¹</p>
+                     <p>In<italic>Discipline and Punish</italic>(1975), Foucault uses “war” (or at least “battle”) as a “model” for understanding social relations:</p>
+                     <p>Now, the study of this micro-physics presupposes that the power exercised on the body is conceived not as a property, but as a strategy, that its effects of domination are attributed not to ‘appropriation,’ but to dispositions, maneuvers, tactics, techniques, functionings; that one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Deleuze’s Foucault:</title>
+                     <subtitle>A Metaphysical Fiction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gros</surname>
+                           <given-names>Frédéric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Bankston</surname>
+                           <given-names>Samantha</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Before all else, we need to acknowledge a previously held, reprehensible position: for a long time Deleuze’s book on Foucault² seemed to consist of a dogmatic rigidity that did not manage to break into the enthusiasm of what Foucault said. From cover to cover the book seemed<italic>ridiculous</italic>to us. It seemed far, so far from Foucault’s actual work, and with a menacing sort of passion we thought about<italic>demonstrating</italic>that in his book Deleuze had committed nothing more than a work of fiction. The reception of Deleuze’s presentation at the conference, “Michel Foucault, Philosopher,”³ only reinforced these poorly conceived</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Speaking Out For Others:</title>
+                     <subtitle>Philosophy’s Activity in Deleuze and Foucault (and Heidegger)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lawlor</surname>
+                           <given-names>Leonard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sholtz</surname>
+                           <given-names>Janae</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>There are many obvious intersections between Deleuze and Foucault: the relation of desire and pleasure; the structures of<italic>agencement and dispositif</italic>; and, the self-relation as the fold. These intersections are especially evident and determinable insofar as Deleuze wrote about Foucault and Foucault wrote about Deleuze. Yet, it is remarkable that<italic>both</italic>Deleuze and Foucault, each at the end of his life, wrote about philosophy itself. Of course, Deleuze’s last great book (written with Guattari), appearing in 1991, is called<italic>What is Philosophy?</italic>¹ Yet, Foucault’s last two courses at the Collège de France from 1982 to 1984 aim to answer the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Deleuze and Foucault:</title>
+                     <subtitle>Political Activism, History and Actuality</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Patton</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>160</fpage>
+                  <abstract>
+                     <p>This chapter sketches an account of the relationship between Deleuze and Foucault that seeks to delve beneath the superficial view that they were fellow travelers in philosophy as in politics. It is inspired by the view that the more closely one looks at their work the more one sees differences between them. Before turning to some of their differences, I note some of the essential facts about their relationship.¹</p>
+                     <p>Deleuze and Foucault first met in 1952 although they did not become friends until a decade later, following a failed attempt by Foucault to have Deleuze appointed at the University of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Becoming and History:</title>
+                     <subtitle>Deleuze’s Reading of Foucault</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sauvagnargues</surname>
+                           <given-names>Anne</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Feldman</surname>
+                           <given-names>Alex</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>174</fpage>
+                  <abstract>
+                     <p>Deleuze returned often to the “admiration” and “affection” he felt for Foucault.¹ In the 1970s, he began to present Foucault as the contemporary philosopher who had done the most to reframe the question of history. Coming from a philosopher who insists so much on the opposition between becoming and history, this admiration invites notice. Deleuze, like Foucault, but also with him, and while discovering his thought, confronts this new way of dealing with empirical historicity: to take it epistemologically, in the form of the archive, without, for all that, renouncing the critique of linear chronology and of teleological or causal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Foucault and the “Image Of Thought”:</title>
+                     <subtitle>Archaeology, Genealogy, and the Impetus of Transcendental Empiricism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thompson</surname>
+                           <given-names>Kevin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>200</fpage>
+                  <abstract>
+                     <p>In what follows I want to examine Foucault’s critical engagement, his<italic>Auseinandersetzung</italic>, with Deleuze’s transcendental empiricism.² This, of course, is a wide-ranging, complex, multifaceted, and, in many ways, diffuse topic as the encounter lasted over many years and went through significant permutations and shifts in response to developments in the thought and the lives of each of its participants. Accordingly, I want to explore here just one element of this engagement: the decisive role played by Deleuze’s critique of the traditional representationalist image of thought and his proposal for a discordant accord of thinking – one that would, as he</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>The Regularities of the Statement:</title>
+                     <subtitle>Deleuze on Foucault’s Archaeology of Knowledge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mader</surname>
+                           <given-names>Mary Beth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+                  <abstract>
+                     <p>Gilles Deleuze wrote over twenty-five books, but only one devoted to a philosopher contemporary to him. This was his 1985 work,<italic>Foucault</italic>(Paris: Les Éditions de Minuit), a collection of six separate pieces on the work of Michel Foucault (1926–84).¹ Although scarcely more than 130 pages long, the slim volume was immediately hailed as an indisputable reference for all interested in Foucault’s thought. Roger-Pol Droit held in<italic>Le Monde</italic>, “Whether it be to support or oppose him, it will no longer be possible to read Foucault without referring to [Deleuze’s book.]”² Together, the compiled studies address nearly the whole</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>Desire and Pleasure</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deleuze</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Daniel W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>[A] One of the essential theses of<italic>Discipline and Punish</italic>² concerned dispositifs of power.³ It seems essential to me in three respects:</p>
+                     <p>1) In itself and in relation to “leftism”: the profound political novelty of this conception of power, which is opposed to every theory of the State.</p>
+                     <p>2) In relation to Michel: since it allowed him to go beyond the duality of discursive formations and non-discursive formations, which was still present in<italic>The Archaeology of Knowledge</italic>, and to explain how the two types of formations are distributed or articulated segment by segment (without the one being reduced to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Against the Incompatibility Thesis:</title>
+                     <subtitle>A rather Different Reading of the Desire-Pleasure Problem</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morar</surname>
+                           <given-names>Nicolae</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gracieuse</surname>
+                           <given-names>Marjorie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>232</fpage>
+                  <abstract>
+                     <p>In the introductory chapter of<italic>Dits et Ecrits</italic>(Chronology), Daniel Defert reminds us of a joke between Foucault and Deleuze. In March 1972, soon after the publication of<italic>Anti-Oedipus</italic>, Foucault tells to his friend: “We have to get rid of Freudo-Marxism.”¹ To which Deleuze replies, “I’m taking care of Freud, will you deal with Marx?”² The revival of the concept of desire in the first volume of<italic>Capitalism and Schizophrenia</italic>represents to a certain extent not simply a radical critique of psychoanalysis and of the ‘Oedipus complex’, but maybe also Deleuze’s part of the bargain with his long-time friend.</p>
+                     <p>To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>Biopower and Control</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nail</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>What is the relationship between Foucault’s concept of biopower and Deleuze’s concept of control? Despite the similarities between these two concepts, there is not a single scholarly article that solely thematizes this question, nor a comparative survey of the answers given so far. This essay aims to fill this lacuna. Despite the lack of a full-length interrogation of this question, scholars have taken up several different positions on the relationship between these two concepts. While some distinguish the two concepts based on the content of what they act on (biopower on life vs control on economics), others distinguish them based</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>Two Concepts of Resistance:</title>
+                     <subtitle>Foucault and Deleuze</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Daniel W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>In a letter Deleuze addressed to Foucault in 1977, shortly after the publication of the first volume on<italic>The History of Sexuality</italic>(and which has since been published under the title “Desire and Pleasure”), Deleuze laid out several distinctions between his own philosophical trajectory and Foucault’s, one of which concerns, precisely, the status of Foucault’s concept of<italic>resistance</italic>. “It seems to me that Michel confronts a problem that does not have the same status for me,” Deleuze wrote.</p>
+                     <p>If<italic>dispositifs</italic>of power are in some way constitutive [for Foucault], there can only be phenomena of “resistance” against them, and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 17</label>
+                     <title>Meeting Deleuze</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rabinow</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>285</fpage>
+                  <abstract>
+                     <p>I must have sent him a letter; Deleuze’s response was rapid and welcoming. Can one imagine Deleuze and Foucault in the age of e-mail? This was not long after the death of Foucault and Deleuze’s loss and remorse were already clear. Finding his apartment not far from Clichy was easy although this section of Montmartre was not one that one thought of as being inhabited by painters and intellectuals in the late twentieth century. He greeted us warmly with his gravelly voice. I can’t remember if we shook hands as Deleuze had these long finger nails and such a gesture</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.22</book-part-id>
+                  <title-group>
+                     <label>Chapter 18</label>
+                     <title>Foucault and Prison</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deleuze</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rabinow</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Gilles Deleuze:</italic>So you want to begin with the GIP. You will have to double-check what I tell you. I have no memory; it is like trying to describe a dream; it’s rather vague. After ’68, there were many groups, very different groups, but necessarily compact ones. It was post-68. They survived; they all had a past. Foucault insisted on the fact that ’68 had no importance for him. He already had a history as an important philosopher, but he was not burdened with a history from ’68. That is probably what allowed him to form such a new type</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.23</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>294</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g052qn.24</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

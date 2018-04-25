@@ -1,0 +1,595 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1zgwhhb</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Linguistics</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Filología, comunicación y otros estudios</book-title>
+         <subtitle>Liber Amicorum en homenaje a Ramón Sarmiento González</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Sarmiento Guede</surname>
+               <given-names>José Ramón</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Vilches Vivancos</surname>
+               <given-names>Fernando</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(coordinadores)</role>
+      </contrib-group>
+      <pub-date>
+         <day>28</day>
+         <month>11</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9788491483137</isbn>
+      <isbn content-type="epub">9788491484479</isbn>
+      <publisher>
+         <publisher-name>Dykinson</publisher-name>
+         <publisher-loc>Madrid</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-holder>Los autores</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1zgwhhb"/>
+      <abstract abstract-type="short">
+         <p>Obra colectiva en homenaje a D. Ramón Sarmiento González catedrático de Lengua española de la URJC, quien al cumplir la edad reglamentaria ha decidido poner fin a casi cuarenta años dedicados a la docencia universitaria. Cursó la licenciatura en Filología Hispánica en la UAM; allí tuvo un gran maestro que le ha influido durante toda su vida de docente e investigador: el inolvidable don Fernando Lázaro Carreter de quien se ha considerado siempre como discípulo. Investigador incansable escribió y publicó gran número de artículos y libros y deja su impronta en compañeros de Universidad y Facultad. La obra recoge trabajos de compañeros, discípulos y amigos especialistas en Filología y Comunicación como agradecimiento, respeto y amistad...</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.3</book-part-id>
+                  <title-group>
+                     <title>NOTA DE LOS COORDINADORES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sarmiento Guede</surname>
+                           <given-names>José Ramón</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vilches Vivancos</surname>
+                           <given-names>Fernando</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.4</book-part-id>
+                  <title-group>
+                     <title>PRÓLOGO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bilbao</surname>
+                           <given-names>Fernando Suárez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>La vida universitaria, como todo en la vida, tiene su fin. Para los estudiantes que no van a seguir la carrera docente cuando terminan sus estudios y salen a enfrentarse a la vida laboral para la que hemos sentado unas bases, creemos que suficientes, que les permitan afrontarla con garantías de éxito tanto como personas, como profesionales.</p>
+                     <p>Para los docentes, los que hemos seguido vinculados académicamente con la institución universitaria, bien donde hemos estudiado, bien donde la vida nos ha llevado, cuando nos llega la edad de la jubilación.</p>
+                     <p>Y ese momento ha llegado para nuestro compañero, y no exagero</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.5</book-part-id>
+                  <title-group>
+                     <title>La lexicografía perceptiva y la perspectiva del destinatario del diccionario (una aproximación al estudio de las actitudes lingüísticas de los periodistas)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hernández</surname>
+                           <given-names>Humberto Hernández</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>Fue por los años ochenta cuando realicé mis primeras investigaciones sobre el uso del diccionario, su función en el aula, la idea que se tenía de él y las valoraciones que hacían alumnos y profesores. Las inicié a través de una serie de cuestionarios elaborados<italic>ad hoc</italic>, y, sin tener plena conciencia de ello, estaba realizando un estudio sobre las actitudes lingüísticas de los distintos sectores implicados en el proceso de enseñanza- aprendizaje. Trataba de averiguar, más concretamente, la opinión que tenían ciertos grupos de usuarios (profesionales no lingüistas) sobre el diccionario, cómo y por qué se han ido conformando</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.6</book-part-id>
+                  <title-group>
+                     <title>El primer libro de diálogos para la enseñanza del español en Inglaterra en el s. XVI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sánchez</surname>
+                           <given-names>Aquilino</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>El 13 de Julio de 1554 el príncipe Felipe, que contaba entonces con 26 años de edad, salió de La Coruña, rumbo a Inglaterra, para unirse en matrimonio con la reina de este país María Tudor. Para ocasión de tanta importancia, el príncipe iba acompañado de un séquito de no menos de 1.000 personas, entre nobles, caballeros, religiosos y servidores en general. Del puerto de La Coruña zarparon unos 80 barcos, más otros 30 que aún quedaron en puerto esperando a la tropa que aún no había llegado (de «cuatro mil soldados», según Andrés Muñoz (1554:66), cronista que describe el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.7</book-part-id>
+                  <title-group>
+                     <title>A vueltas con la obra literaria de Alonso Zamora Vicente</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lobato</surname>
+                           <given-names>Jesús Sánchez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>La obra literaria de Alonso Zamora Vicente no me ha sido ajena¹ —todo lo contrario— desde que, a mediados de los años sesenta del pasado siglo XX, cayera en mis manos<italic>Primeras hojas</italic>(1955). Poco tiempo después ya había leído<italic>Smith Ramírez</italic>, S.A. (1957), así como los cuentos que iban apareciendo dispersos en diversos formatos y<italic>Un balcón a la plaza</italic>(1965). La aparición del libro<italic>A traque barraque</italic>(1972) supuso para mí la constatación de que la obra de creación de AZV, tanto desde la perspectiva formal como desde lo que en ella se contaba, era muy diferente a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.8</book-part-id>
+                  <title-group>
+                     <title>La construcción del género en algunas lenguas artificiales a priori</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rodríguez</surname>
+                           <given-names>Carmen Galán</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>La historia de las ideas lingüísticas ha transcurrido desde sus inicios por un inestable camino de luces y sombras. Al amparo de la extrema ductilidad del lenguaje humano, la razón o el mito —según la época— han impuesto modelos heurísticos diferentes con los que abordar las zonas más oscuras de las lenguas donde se conjugan opuestos tan potentes como la asimetría y la proporción, la pluralidad de formas y la economía, la perfección regular y las excepciones; en suma, nuevas facetas de la clásica controversia griega entre convención (νόμος) y naturaleza (Φυσις), caos y cosmos, extendida al lenguaje y a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.9</book-part-id>
+                  <title-group>
+                     <title>La concepción de los signos del conocimiento según Andrés Bello</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cárdenas</surname>
+                           <given-names>Hernán Urrutia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>En su fecunda labor como investigador y educador, Andrés Bello (1791-1865)¹ destaca por su preocupación por la lengua como instrumento fundamental del desarrollo personal y social. En el discurso de inauguración de la Universidad de Chile (1843) les dice a los estudiantes:</p>
+                     <p>«Si queréis que vuestro nombre no quede encarcelado entre la Cordillera de los Andes y el mar del Sur, recinto demasiado estrecho para las aspiraciones del talento, si queréis que os lea la posteridad, haced buenos estudios, principalmente el de la lengua nativa»².</p>
+                     <p>Este convencimiento ya lo había hecho patente en su etapa londinense. En el trabajo que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.10</book-part-id>
+                  <title-group>
+                     <title>Los caminos de la retórica</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mayordomo</surname>
+                           <given-names>Tomás Albaladejo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>La Retórica ha encontrado algunas dificultades en los últimos tiempos para recuperar y para hacer valer su sistematización histórica¹; ha sido necesario volver a entender la Retórica como construcción activa y dinámica y no como acumulación inerte de materiales². Las reducciones y los descentramientos de los que fue objeto la Retórica³ la condujeron a una situación de gran precariedad en la determinación de su objeto y en su constitución metodológica, de la que solo podía salir gracias a la solidez de sus componentes y a la coherencia de su sistema históricamente configurado y mantenido desde la Antigüedad⁴, aunque con algunas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.11</book-part-id>
+                  <title-group>
+                     <title>Las enfermedades transmisibles continúan siendo un problema de salud pública en el siglo XXI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Miguel</surname>
+                           <given-names>Ángel Gil</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Con este capítulo, solo quiero hacer una pequeña contribución al homenaje al profesor Ramón Sarmiento, eminente lingüista, y gran profesor, al que sus alumnos recuerdan por su saber y por su cercanía. Él siempre ha sabido acercar la lengua y su buen uso a todas las ciencias, entre otras, a la medicina y, por eso, mi contribución hoy a su homenaje.</p>
+                     <p>Para ello, me centraré en la situación actual de las enfermedades transmisibles, ya que, aunque estamos en la era de la Cronicidad y de las enfermedades que denominamos crónicas, sin embargo, seguimos teniendo una gran incidencia de las enfermedades</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.12</book-part-id>
+                  <title-group>
+                     <title>Lenguaje no verbal, mujer y sexo en la publicidad</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vilches Vivancos</surname>
+                           <given-names>Fernando</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Como señalan Vozmediano y Vizcaíno, «La publicidad es lo público (del latín publicus); es decir, lo perteneciente al pueblo (populus) (…) La publicidad es, junto al diseño, un tándem para transmitir emociones y conquistar con lo público al público»².</p>
+                     <p>La publicidad es, en las sociedades contemporáneas, un conjunto de técnicas, estrategias, usos, formas y contextos de comunicación orientados a persuadir a las personas de algo o de la conveniencia de hacer algo. El fin obvio de la comunicación publicitaria es atraer la atención del destinatario hacia el anuncio, captar su interés por un objeto, una marca o una idea, estimular</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.13</book-part-id>
+                  <title-group>
+                     <title>Ramón Sarmiento y los libros de estilo</title>
+                     <subtitle>Valores y utilidad de los componentes normativos de la lengua y su relación con las prácticas profesionales en medios de comunicación, instituciones y empresas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaumont</surname>
+                           <given-names>José Fernández</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Si Ramón Sarmiento tuviera que actualizar al día de hoy su dilatado y destacado trabajo en materia de libros de estilo seguramente incluiría en su análisis y propuestas el término «posverdad» tan recurrente, especialmente entre los políticos, de una sociedad globalizada y fascinada por la información instantánea, acosada por alquimias diversas como<italic>big data</italic>, «internet de las cosas», «información en la nube» y otra infinidad de conceptos —neologismos la mayoría— que alfombran el lenguaje de los medios de comunicación, de los personajes que trabajan para las instituciones públicas y empresas privadas y de otras capas menos especializadas de la sociedad.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.14</book-part-id>
+                  <title-group>
+                     <title>El valor de los lenguajes y el poder de la persuasión</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fernández</surname>
+                           <given-names>Antonio Baraybar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>Cada uno de los capítulos de este libro sirve para rendir un homenaje merecido al profesor Ramón Sarmiento. Me siento un privilegiado en poder participar, pero, a su vez, me viene a la mente uno de los sonetos más conocidos de Lope de Vega: «<italic>Un soneto me manda hacer Violante/que en mi vida me he visto en tal aprieto</italic>». Agradezco la posibilidad brindada y, a la vez, me surge la inquietud de que esta modesta aportación pueda lograr expresar parte del afecto que sentimos sus antiguos compañeros de departamento hacia su persona.</p>
+                     <p>«<italic>Júzguense nuestros actos por la intención</italic>», tituló Michel</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.15</book-part-id>
+                  <title-group>
+                     <title>El rumor en la comunicación organizacional</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fernández</surname>
+                           <given-names>Luis Vicente Doncel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Para el autor de este modesto ensayo, es un honor participar en un libro homenaje al profesor Ramón Sarmiento. Sin duda uno de los grandes catedráticos de Lengua en España y con gran prestigio en nuestra Universidad. También es un reto comunicativo paradójico: escribir acerca del rumor dedicando el texto a una persona que sería ideal para que este tipo de comunicación no se produjera, pues, como veremos en las páginas que siguen, la claridad y la transparencia del comunicador, así como la confianza y credibilidad que suscite, son los mejores remedios contra esta lacra que afecta a las organizaciones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.16</book-part-id>
+                  <title-group>
+                     <title>Gramática y competencias transversales en educación universitaria:</title>
+                     <subtitle>diseño de una actividad de aprendizaje significativo en la asignatura de lengua española, basada en los fenómenos de laísmo, leísmo y loísmo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gómez</surname>
+                           <given-names>Raquel Pinilla</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>En los grados de Ciencias de la Comunicación (Periodismo, Comunicación Audiovisual y Publicidad), la enseñanza de la gramática de la lengua española ha de ser claramente una herramienta fundamental al servicio del desarrollo de la competencia comunicativa de los estudiantes. No se puede orientar la asignatura de Lengua española en estos grados como se hace en los grados de Filología o en aquellos especializados en lenguas o en sus didácticas. Álex Grijelmo (2006, 18) proclama al respecto: «quede para los científicos de la lengua el estudio detallado y complejo». Efectivamente, los alumnos de los grados de Comunicación tienen en la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.17</book-part-id>
+                  <title-group>
+                     <title>Lenguaje y estilo de la noticia científica</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>García-Cervigón</surname>
+                           <given-names>Alberto Hernando</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>La noticia, «la esencia del periodismo, la materia prima» (Grijelmo, 2014: 29), definida por Gonzalo Martín Vivaldi como el «género periodístico por excelencia que da cuenta, de un modo sucinto pero completo, de un hecho actual o actualizado, digno de ser conocido y divulgado, y de innegable repercusión humana» (1998: 369), es el tipo de discurso periodístico que con mayor precisión se ciñe al hecho o acontecimiento que se desea transmitir y, en consecuencia, el más rigurosamente objetivo en su propósito teórico y en la apariencia formal del lenguaje utilizado (Martínez Albertos, 2007: 288).</p>
+                     <p>Las noticias científicas, dentro de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.18</book-part-id>
+                  <title-group>
+                     <title>La sintaxis en el itinerario formativo del filólogo:</title>
+                     <subtitle>una visión a través del Grado en Lengua y Literatura españolas adaptado al espacio europeo de educación superior (EEES)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marañón</surname>
+                           <given-names>Carlos Oliva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>El<italic>Diccionario de la Real Academia Española de la Lengua (DRAE)</italic>define Sintaxis como «la parte de la gramática que estudia el modo en que se combinan las palabras y los grupos que estas forman para expresar significados, así como las relaciones que se establecen entre todas esas unidades»¹. Esta unidad de conocimiento de la gramática es fundamental para el quehacer del filólogo, quien se ocupa de establecer, analizar, jerarquizar y cohesionar los significados de las palabras en las oraciones y definir conceptos como «tema»² y «rema»³ tan habituales en el ámbito filológico.</p>
+                     <p>Los estudios vinculados a la Lengua Española</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.19</book-part-id>
+                  <title-group>
+                     <title>La comunicación organizacional desde la perspectiva del marketing interno.</title>
+                     <subtitle>Análisis de las principales herramientas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sarmiento Guede</surname>
+                           <given-names>José Ramón</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Esteban Curiel</surname>
+                           <given-names>Javier</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Antonovica</surname>
+                           <given-names>Arta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>La aparición de los medios sociales se presenta como uno de los mayores retos para los profesionales en la comunicación interna, tanto por el reto que supone gestionar las nuevas herramientas web 2.0, como la nueva forma de gestionar las relaciones internas a través de dichas herramientas (Gavilán<italic>et al</italic>., 2014).</p>
+                     <p>Ante este contexto, la comunicación en las organizaciones deja de tener una dirección unidireccional y pasa a tener una dirección multidireccional, en la que todos los empleados adquieren el rol de emisores y receptores, un papel en el discursos de tú a tú (peer to peer) y una mayor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.20</book-part-id>
+                  <title-group>
+                     <title>Análisis del uso del lenguaje del joker cinematográfico desde las teorías pragmáticas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rubio</surname>
+                           <given-names>Carolina Herranz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+                  <abstract>
+                     <p>Dentro del universo del cómic, encontramos gran variedad de géneros y de temáticas. Uno de los géneros más leídos es el de los superhéroes. Personajes como Superman, Batman, Spiderman o Wonder Woman están en el imaginario de muchos de nosotros como los superhéroes de nuestra infancia. Estos tienen unos poderes extraordinarios y dedican su vida a luchar contra las fuerzas del mal para defender las vidas de los seres humanos. Si hay algo que todos tienen en común, es que como protagonistas de sus historias se han tenido que enfrentar a sus antagonistas. Estos papeles han sido encarnados por una</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.21</book-part-id>
+                  <title-group>
+                     <title>La retórica y el teatro</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sanz y Simón</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>Si nos remontamos a otras épocas, nos percataremos de que la retórica existe prácticamente desde que la Humanidad es consciente de que puede persuadir a través de la comunicación.</p>
+                     <p>La retórica es el arte de hablar bien; es una sistematización del sentido común que hace que nos expresemos eficazmente. Su origen se establece en la Grecia clásica, donde se entiende como un conjunto de reglas y recursos que actúan en diferentes niveles en la construcción de un discurso.</p>
+                     <p>El teatro, por su parte, nace de la evolución de los rituales mágicos y sagrados en las diferentes culturas. En la edad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.22</book-part-id>
+                  <title-group>
+                     <title>AEIOU</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chao</surname>
+                           <given-names>José Manuel Santa Cruz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.23</book-part-id>
+                  <title-group>
+                     <title>Al hilo de las fotos:</title>
+                     <subtitle>Francisco Umbral y la fotografía</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gómez</surname>
+                           <given-names>Emilio Blanco</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>«El hombre lucha desesperadamente por encontrar su imagen, primero, y por imponerla, después», escribía Umbral en 1976,¹ tan solo un año más tarde de haber dado a estampa<italic>Mortal y rosa</italic>. Creo que hay pocas palabras, en la totalidad de su amplia obra, que resuman y expliquen mejor su trayectoria personal y su actitud como escritor. De hecho, de la lectura de los textos memorialísticos se desprende la visión de un joven que, en los primeros momentos, duda entre varias vocaciones artísticas (contempla incluso la posibilidad de dedicarse a la reflexión filosófica) para terminar eligiendo finalmente la prosa de arte</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.24</book-part-id>
+                  <title-group>
+                     <title>Te la influencia de los nuevos servicios de telecomunicación —redes sociales— en el lenguaje, la comunicación y, por último, en la sociedad</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>López</surname>
+                           <given-names>Francisco Javier Ramos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>En un libro homenaje por una distinguida carrera universitaria de un catedrático de Lengua Española, no veo mejor forma de contribuir que hacer una reflexión sobre la influencia de la tecnología en la comunicación entre las personas y, con ello, aportar un análisis de cómo las nuevas redes sociales están influyendo en la organización social.</p>
+                     <p>La transmisión de información ha estado condicionada por la tecnología disponible en cada momento histórico. La transmisión de información, en última instancia, permite la difusión y fijación del conocimiento y, con ello, las personas que componen una sociedad comparten un bagaje cultural, científico y normativo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.25</book-part-id>
+                  <title-group>
+                     <title>Epílogo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Grieken Salvador</surname>
+                           <given-names>Rafael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>345</fpage>
+                  <abstract>
+                     <p>Conocí al profesor Sarmiento a los pocos días de ser nombrado vicerrector de Investigación de la Universidad Rey Juan Carlos, hace ya cerca de quince años. Él pidió pasar por mi despacho para presentarse e hizo justamente eso. No vino con demandas, preocupaciones, sugerencias ni mucho menos quejas. Simplemente se acercó para saludar y ofrecer su ayuda en todo lo que fuera necesario.</p>
+                     <p>Decía el que fuera su director de tesis y mentor, el maestro Lázaro Carreter, que «la palabra es la materia básica para entender lo humano». Aquel episodio, nuestro primer encuentro, creo que, dentro de su sencillez, refleja</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.26</book-part-id>
+                  <title-group>
+                     <title>Tabula Gratulatoria</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1zgwhhb.27</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>348</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,580 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt9qh59s</book-id>
+      <subj-group>
+         <subject content-type="call-number">Q175.S42415 2009</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Science</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>General Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Scientific Understanding</book-title>
+         <subtitle>Philosophical Perspectives</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>de Regt</surname>
+               <given-names>Henk W.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Leonelli</surname>
+               <given-names>Sabina</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Eigner</surname>
+               <given-names>Kai</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>11</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780822943785</isbn>
+      <isbn content-type="epub">9780822971245</isbn>
+      <publisher>
+         <publisher-name>University of Pittsburgh Press</publisher-name>
+         <publisher-loc>Pittsburgh, Pa.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>University of Pittsburgh Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qh59s"/>
+      <abstract abstract-type="short">
+         <p>To most scientists, and to those interested in the sciences, understanding is the ultimate aim of scientific endeavor. In spite of this, understanding, and how it is achieved, has received little attention in recent philosophy of science.<italic>Scientific Understanding</italic>seeks to reverse this trend by providing original and in-depth accounts of the concept of understanding and its essential role in the scientific process. To this end, the chapters in this volume explore and develop three key topics: understanding and explanation, understanding and models, and understanding in scientific practice.Earlier philosophers, such as Carl Hempel, dismissed understanding as subjective and pragmatic. They believed that the essence of science was to be found in scientific theories and explanations. In Scientific Understanding, the contributors maintain that we must also consider the relation between explanations and the scientists who construct and use them. They focus on understanding as the cognitive state that is a goal of explanation and on the understanding of theories and models as a means to this end.The chapters in this book highlight the multifaceted nature of the process of scientific research. The contributors examine current uses of theory, models, simulations, and experiments to evaluate the degree to which these elements contribute to understanding. Their analyses pay due attention to the roles of intelligibility, tacit knowledge, and feelings of understanding. Furthermore, they investigate how understanding is obtained within diverse scientific disciplines and examine how the acquisition of understanding depends on specific contexts, the objects of study, and the stated aims of research.</p>
+      </abstract>
+      <counts>
+         <page-count count="380"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Focusing on Scientific Understanding</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DE REGT</surname>
+                           <given-names>HENK W.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEONELLI</surname>
+                           <given-names>SABINA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EIGNER</surname>
+                           <given-names>KAI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In the eyes of most scientists, and of educated laypeople, understanding is a central goal of science. In the past centuries scientific research has enormously increased our understanding of the world. Indeed, it seems a commonplace to state that the desire for understanding is a chief motivation for doing science. But despite the prima facie plausibility of these claims, it is not so clear what their precise content is. What do we mean when we say that scientists understand, for example, global climate change? What is involved in achieving scientific understanding of phenomena, be they the origin of the universe,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Understanding and Scientific Explanation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DE REGT</surname>
+                           <given-names>HENK W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In 1948, physicist Erwin Schrödinger delivered the Shearman Lectures at University College London. In 1954, these lectures were published as<italic>Nature and the Greeks</italic>. In this book Schrödinger argues that science, since it is a Greek invention and is based on the Greek way of thinking, is “something special,” that is, “it is not the only possible way of thinking about Nature.” Schrödinger then poses the following question: “What are the peculiar, special traits of our scientific world-picture?” and he answers it immediately by stating: “About one of these fundamental features there can be no doubt. It is the hypothesis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Understanding without Explanation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LIPTON</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>Explaining why and understanding why are closely connected. Indeed, it is tempting to identify understanding with having an explanation. Explanations are answers to why questions, and understanding, it seems, is simply having those answers. Equating understanding with explanation is also attractive from an analytic point of view, since an explanation is understanding incarnate. The explanation is propositional and explicit. It is also conveniently argument shaped, if we take the premise to be the explanation proper and the conclusion a description of the phenomenon that is being explained. So we are on the way to specifying the logic of understanding.</p>
+                     <p>Specifying</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Ontological Principles and the Intelligibility of Epistemic Activities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>HASOK CHANG</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>My main goal in this essay is to establish intelligibility as an epistemic virtue that is meaningful and desirable independently of any connection it might or might not have with truth.¹ In brief, my argument is that intelligibility consists of a kind of harmony between éour ontological conceptions and our epistemic activities. I will modify and broaden that formulation in the course of the discussion.</p>
+                     <p>I will start with an example to illustrate briefly the direction of my thinking. After that, I will make a more careful consideration of the nature of intelligibility. Then I will finish with some brief</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Reliability and the Sense of Understanding</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRIMM</surname>
+                           <given-names>STEPHEN R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>If we are fortunate, at some point while pursuing the answer to one of our explanation-seeking why-questions we will experience a sense of understanding. In other words, we will seem to “grasp” or “see” what it is that accounts for the thing we want to explain, a moment of “grasping” or “seeing” that is often accompanied by a distinctive phenomenology—perhaps even a phenomenology along the lines of the celebrated “aha” experience.</p>
+                     <p>In a series of articles J. D. Trout (2002, 2005, 2007) argues that the sense of understanding that we enjoy at these moments is deeply unreliable.¹ In other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Illusion of Depth of Understanding in Science</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>YLIKOSKI</surname>
+                           <given-names>PETRI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>100</fpage>
+                  <abstract>
+                     <p>Philosophers of science have a long tradition of making a connection between explanation and understanding, but only lately have they started to give the latter notion a substantial role in their theories. The reason is because understanding is an even more difficult notion than explanation. To my mind, the recent interest in understanding (exemplified by this volume), springs from the fact that explanation is a cognitive activity, and for too long theories of explanation have dismissed the cognitive dimension with the weak excuse of its being a too “subjective” ingredient for a theory of<italic>scientific</italic>explanation. Explanation is connected with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Understanding in Physics and Biology:</title>
+                     <subtitle>From the Abstract to the Concrete</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MORRISON</surname>
+                           <given-names>MARGARET</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>It is commonly thought that the greater the degree of abstraction used in describing phenomena the less understanding we have with respect to their concrete features. I want to challenge that myth by showing how mathematical abstraction—the characterization of phenomena using mathematical descriptions that seem to bear little or no relation to concrete physical entities/systems—can aid our understanding in ways that more empirically based investigations often cannot. What I mean here by “understanding” is simply having a theoretical account of how the system is constituted that enables us to solve problems, make predictions, and explain why the phenomena</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Understanding by Modeling:</title>
+                     <subtitle>An Objectual Approach</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KNUUTTILA</surname>
+                           <given-names>TARJA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MERZ</surname>
+                           <given-names>MARTINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>146</fpage>
+                  <abstract>
+                     <p>Scientific understanding has, so far, mainly been discussed in terms of the intelligibility of theories and the relation between understanding and explanation. In the course of this debate several theoretical virtues have been identified as being conducive to such understanding. Interestingly, the virtues addressed are the ones that have also occupied a prominent place in the discussion of models. The epistemic value of models, for example, has been ascribed to their providing us with visualizations (Nagel 1961; Griesemer 2004), specifying relevant causal mechanisms (Glennan 2005; Darden 2007), equipping us with mathematically tractable systems (Humphreys 2004), describing different kinds of phenomena</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Great Deluge:</title>
+                     <subtitle>Simulation Modeling and Scientific Understanding</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LENHARD</surname>
+                           <given-names>JOHANNES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Recently, a friend went to see her general practitioner in order to give her thyroid gland a checkup. The doctor took a blood sample to test a few parameters in the laboratory, and she performed an ultrasound scan on the thyroid gland. The result was not completely clear, and the doctor referred my friend to a specialized radiologist with the necessary instruments for a reliable diagnosis. She said that while my friend could simply hand over the results of the blood tests, she thought the radiologist would have little use for the ultrasound printout. This was not because it was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Understanding in Biology:</title>
+                     <subtitle>The Impure Nature of Biological Knowledge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LEONELLI</surname>
+                           <given-names>SABINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>This chapter offers an analysis of understanding in biology based on characteristic biological<italic>practices:</italic>ways in which biologists think and act when carrying out their research. De Regt and Dieks have forcefully claimed that a philosophical study of scientific understanding should “encompass the historical variation of specific intelligibility standards employed in scientific practice” (2005, 138). In line with this suggestion, I discuss the conditions under which contemporary biologists come to understand natural phenomena and I point to a number of ways in which the performance of specific research practices informs and shapes the quality of such understanding.</p>
+                     <p>My arguments are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Understanding in Economics:</title>
+                     <subtitle>Gray-Box Models</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOUMANS</surname>
+                           <given-names>MARCEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>210</fpage>
+                  <abstract>
+                     <p>In economics, models are built to answer specific questions. Each type of question requires its own type of model; it defines the empirical criteria that a model should meet and thereby instructs how the model should be constructed. This chapter will investigate a particular kind of question: namely, questions that ask for understanding, and which will be labeled as how’s thatquestions. To do so, these questions will be compared with other types of scientific questions, labeled as why-questions and how much-questions. The answer to a why-question is an explanation (see Nagel 1961, 15; van Fraassen 1988, 138). The answer to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Understanding in Physics:</title>
+                     <subtitle>Bottom-Up versus Top-Down</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DIEKS</surname>
+                           <given-names>DENNIS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>230</fpage>
+                  <abstract>
+                     <p>Physics is the paradigmatic example of a successful science. One of its great successes is its impressive track record of giving explanations of natural phenomena, by which these phenomena are made understandable. This much is generally granted, but things become less clear when one asks what these physical explanations exactly consist in. Philosophers of science have proposed a variety of analyses of explanation (nomological-deductive, causal, unification, to mention but a few), and it is not immediately obvious which of these proposals best captures physical practice.</p>
+                     <p>My position is that there is no unique answer to this question, that the question</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Understanding in the Engineering Sciences:</title>
+                     <subtitle>Interpretive Structures</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOON</surname>
+                           <given-names>MIEKE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>My account of scientific understanding focuses on scientific practices, especially the intellectual activities and abilities of scientists. I will use engineering sciences—which I consider laboratory sciences (compare Hacking 1992)—as a case for illustrating how scientists gain scientific understanding of phenomena, and how they exercise their understanding of scientific theories. Although my account was developed through the perspective of the engineering sciences, it is appropriate to the “basic” laboratory sciences as well.</p>
+                     <p>Engineering science is scientific research in the context of technology. The engineering sciences strive to explain, predict, or optimize the behavior of devices or the properties of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Understanding in Psychology:</title>
+                     <subtitle>Is Understanding a Surplus?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EIGNER</surname>
+                           <given-names>KAI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>Since Thomas Kuhn’s characterization of science by means of a list of epistemic values that provide “<italic>the</italic>shared basis for theory choice,” there is a debate in philosophy of science about what the epistemic values of science are (for example, Kuhn 1977; McMullin 1983; Longino 1990; Lacey 2005). Kuhn’s list comprised such values as empirical accuracy, consistency, scope, simplicity, and fruitfulness (Kuhn 1977, 321–22), which, as he argued, can be seen as constitutive of science. An enterprise could have different criteria for judging theories, but then it would not be science (331).</p>
+                     <p>In this chapter, I argue that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.18</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Understanding in Political Science:</title>
+                     <subtitle>The Plurality of Epistemic Interests</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VAN BOUWEL</surname>
+                           <given-names>JEROEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>298</fpage>
+                  <abstract>
+                     <p>Upon a first encounter with the field of International Relations (IR) studies, we stumble into a plurality of theoretical perspectives some of which, such as realism and liberalism, have already been around for decades, while others, such as constructivism, are more recent. A recent survey among IR scholars working in the United States gives us a rough idea of the weight attached to these different perspectives. Answering the question “What paradigm in International Relations are you primarily committed to in your research?” 25 percent chose realism/neorealism, 33 percent liberalism/neoliberalism, 15 percent constructivism, 7 percent Marxism/globalism, and 20 percent other, among</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.19</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Understanding in Historical Science:</title>
+                     <subtitle>Intelligibility and Judgment</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOSTER</surname>
+                           <given-names>EDWIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>314</fpage>
+                  <abstract>
+                     <p>Ideas about the role of understanding in different academic disciplines are sometimes incompatible. Regarding the empirical sciences, J. D. Trout (2002), for instance, launches a vigorous attack on “the sense of understanding” as a subjective and valuable concept in the evaluation of scientific explanations:</p>
+                     <p>The sense of understanding would be epistemically idle phenomenology were it not so poisonous a combination of seduction and unreliability. It actually does harm, sometimes making us squeamish about accepting true claims that we don’t personally understand, and more often operating in the opposite direction, causing us to overconfidently accept false claims because they have a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.20</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>335</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt9qh59s.21</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>339</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

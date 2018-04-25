@@ -1,0 +1,267 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt80fzm</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN3018.H85S26 2004</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Humphries, Barry</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Performing Arts</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A Portrait of the Artist as Australian</book-title>
+         <subtitle>L’Oeuvre bizarre de Barry Humphries</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>ST PIERRE</surname>
+               <given-names>PAUL MATTHEW</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>09</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773526440</isbn>
+      <isbn content-type="epub">9780773571624</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt80fzm"/>
+      <abstract abstract-type="short">
+         <p>A Portrait of the Artist as Australian offers the first critical assessment of Barry Humphries' entire career - as a daring postmodern deconstructionist on stage, film, and television, with sixty-seven stage shows, twenty-four film and thirty-four video appearances, thirty-four television series and seventy-one television appearances, and seventy-two audio recordings, but especially what he calls his "second career" as author of twenty-nine books. With an oeuvre that includes novels, biographies, autobiographies, editions, compilations, comic books, poetry, dramatic monologues, sketches, film scripts, and several unclassified works, Humphries is a literary and dramatic artist of considerable significance. Arguing that Humphries is one of Australia's greatest writers, Paul Matthew St Pierre reveals a multi-faceted artist whose success is rooted in music halls, Dadaism, and his identity as an Australian.</p>
+      </abstract>
+      <counts>
+         <page-count count="368"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.3</book-part-id>
+                  <title-group>
+                     <title>List of Tables</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.6</book-part-id>
+                  <title-group>
+                     <title>Illustrations</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Kid on the Halls:</title>
+                     <subtitle>Barry Humphries Speaks</subtitle>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>“Barry Humphries” are the most appropriate words with which to begin a book on Australian artist, showman, and (especially) writer Barry Humphries. Certainly, they are the most evocative words in my own lexicon, conjuring up the attractive figure of a man of the theatre, a player of men and women not only on stage but also in the audience. Given his versatility as a stage performer, and his elusive personality as a biographical subject (who may reveal himself but only when he is not looking),¹ one might posit various persons named Barry Humphries, a whole company of Barry Humphries. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>It All Begins with Bizarre:</title>
+                     <subtitle>Barry Humphries Makes Print</subtitle>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>When Barry Humphries published his “youthful folly”¹<italic>Bizarre</italic>(1965), a heterodox compilation of stories and pictures about eccentrics, freaks, aberrations, and monstrosities – Clive James called it “a freak show that you had to be a pathologist to find funny”² – he gave notice, to anyone willing to take notice, that he was a Dada prankster and a bookmaker, less like Charles Morton at Canterbury Hall than like William Burroughs, Gertrude Stein, bill bissett, Marcel Duchamp, Salvador Dali, and others for whom the propositions<italic>écrire des livres</italic>and<italic>faire des farces</italic>(“to write books” and “to play tricks ”) are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Humphries as Poet, Poet Taster, Lyricist, and Comic Singer</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Barry Humphries is an occasional poet. He deserves the designation “occasional” not because he writes poetry infrequently (which he does not), or even because he writes exceptional verse (which he does), but because he has the expertise to write poems for just about every occasion and because he has the facility to do it well and make it look easy. In his acknowledgments he refers to<italic>Neglected Poems and Other Creatures</italic>(1991) as “these occasional verses,” as if his poetry were merely a hit and miss amateur pastime. But it seems it has always been a hit with his audience, both</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Dressing Up Discourse, Dressing Down the Audience:</title>
+                     <subtitle>Humphries’ Stage Scripts</subtitle>
+                  </title-group>
+                  <fpage>100</fpage>
+                  <abstract>
+                     <p>Barry Humphries’ stage scripts have appeared in five books:<italic>A Nice Night’s Entertainment: Sketches and Monologues 1956–1981</italic>(1981);<italic>The Humour of Barry Humphries</italic>, compiled by John Allen;<italic>Shades of Sandy Stone: The Reveries of a Returned Man</italic>(1989), comprising “Shades of Sandy” and “Sandy Comes Home”;<italic>The Life and Death of Sandy Stone</italic>, edited by Collin O’Brien (1990); and<italic>Single Voices</italic>(1990), based on the BBC TV series, which features dramatic monologues by Roy Clarke, Sheila Hancock, Carla Lane, Bob Larbey, and John Sessions as well as Humphries (i.e., “Sandy Comes Home,” a monologue that Humphries adjudges “has been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Autobiography as Mockery,or Barry Humphries in a Mock-Turtle</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>One consequence of Humphries’ first autobiography,<italic>More Please</italic>(1992), was the 1993 J.R. Ackerley Prize for Autobiography. As Janet Frame says in her story “Prizes” (1963), “Life is hell, but at least there are prizes.”¹ She should know: winning the Hubert Church Award for her story collection<italic>The Lagoon</italic>(1951) saved her from a forced leucotomy. For Frame the prize had a consequence, whereas for Humphries the prize was a consequence, yet each prize was a take in an Aristotelian absurdity of cause and effect. Whether Humphries’ life is hell, only Humphries can say; but if Jean-Paul Sartre’s character Garcin</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Barry Humphries:</title>
+                     <subtitle>Scriptor or Descriptor? His ficcionnes</subtitle>
+                  </title-group>
+                  <fpage>186</fpage>
+                  <abstract>
+                     <p>With the possible exception of his white-Beckett-fence little narrative “A Novel Called Tid” (1958),<italic>Women in the Background</italic>(1995) is Barry Humphries’ first novel. It is also, along with<italic>My Gorgeous Life: An Adventure</italic>(1989),<italic>More Please</italic>(1992), and<italic>My Life as Me</italic>(2002), one of the very finest of his finery of books, a wonderfully comic narrative in which Humphries stands back of all his characters, even the backgrounded women. Humphries has said of the novel, “It is not a serious book. Everything I do is meant for comedy. But it has some serious subjects treated lightly.”¹ Rather than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Humphries’ Occasional Texts,or One Good Man’s Miscellany</title>
+                  </title-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>In<italic>More Please</italic>(1992) Humphries is candid (frank) and<italic>candide</italic>(ingenuous) in recounting his adventures with alcohol in the 1960s and his misadventures with alcoholism in the late 1960s (Dr Lászlo Zadór, Harley Street specialist, London, 1967; Elm Hill Nursing Home, London, 1967) and the early 1970s (St Vincent’s Hospital, Melbourne, 1970; Alcoholics Anonymous, Melbourne, 1970; Delmont Hospital, Sydney, 1970). In contrast, Richard Ouzounian, in “An Audience with … Dame Edna and Barry Humphries,” has noted that “Humphries has been candid with other journalists up to this point [2000], but he has never discussed his actual recovery.”¹ Yet, in fact, Humphries has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.14</book-part-id>
+                  <title-group>
+                     <title>APPENDICES</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.15</book-part-id>
+                  <title-group>
+                     <title>Addendum</title>
+                  </title-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>331</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt80fzm.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>355</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,890 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18gzdps</book-id>
+      <subj-group>
+         <subject content-type="call-number">CDD 930.1</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Arqueología social</subject>
+         <subj-group>
+            <subject content-type="lcsh">América Latina</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresos, conferencias, etc.</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Filosofía de la arqueología</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresos, conferencias, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Archaeology</subject>
+         <subject>Anthropology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>La arqueología social latinoamericana.</book-title>
+         <subtitle>De la teoría a la praxis</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Tantaleán</surname>
+               <given-names>Henry</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Aguilar</surname>
+               <given-names>Miguel</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(compiladores)</role>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9789586957427</isbn>
+      <isbn content-type="epub">9789586957458</isbn>
+      <publisher>
+         <publisher-name>Universidad de los Andes</publisher-name>
+         <publisher-loc>Bogotá D. C., Colombia</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Henry Tantaleán</copyright-holder>
+         <copyright-holder>Miguel Aguilar</copyright-holder>
+         <copyright-holder>Universidad de los Andes Facultad de Ciencias Sociales, Departamento de Historia, CESO</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7440/j.ctt18gzdps"/>
+      <abstract abstract-type="short">
+         <p>La arqueología social latinoamericana. De la teoría a la praxis, es una compilación de artículos escritos por arqueólogos, antropólogos e historiadores de la arqueología marxista de viejas y nuevas generaciones de toda América y España. Por primera vez se reúne un conjunto de textos que explora las diferentes formas en que los autores, inspirados en el materialismo histórico, han pensado, reflexionado y actuado en la sociedad desde la disciplina antropológica y arqueológica, a partir no sólo de la propuesta teórica que tuvo un fuerte auge en la arqueología latinoamericana de los años setenta, sino de las experiencias de investigación y la manera de llevarla a la praxis, Este libro es el resultado del simposio Arqueología Social Latinoamericana, llevado a cabo en julio de 2009 en la ciudad de México, en el Congreso de Americanistas y en la Escuela Nacional de Antropología e Historia, y espera mostrar que la arqueología social latinoamericana sigue aún vigente y que, más que nunca, se postula como una importante propuesta teórico-práctica para entender política y científicamente el pasado, actuar críticamente en el presente y, consecuentemente, tener propuestas de modelos sociales alternativos en el futuro.</p>
+      </abstract>
+      <counts>
+         <page-count count="499"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.3</book-part-id>
+                  <title-group>
+                     <title>PRÓLOGO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Patterson</surname>
+                           <given-names>Thomas C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Este es un libro esperado por mucho tiempo. Si bien las cuestiones subyacentes han estado girando a nuestro alrededor por algún tiempo, nadie ha podido reunirlos en un mismo camino. El resultado es una estimulante colección de ensayos que invitan a la reflexión para ver a la arqueología social inspirada en el materialismo histórico de Karl Marx y sus sucesores como un conjunto de prácticas críticas, autorreflexivas, integradoras y, necesariamente, comprometidas. El resultado es un volumen que abre nuevos caminos en su amplitud y alcance.</p>
+                     <p>Los autores reconocen que el interés de Marx en la historia, en sentido amplio, se</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.4</book-part-id>
+                  <title-group>
+                     <title>PROEMIO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lull</surname>
+                           <given-names>Vicente</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>La obra de Marx sigue siendo el referente principal al que cualquier víctima de la explotación y la coerción capitalistas acude para mantener la esperanza de que un cambio social es posible y materialmente viable.</p>
+                     <p>Se trata de un referente que no sólo continúa vivo en cualquiera de sus dos formas (efectiva o latente), sino que se ha manifestado superador de los experimentos paramarxistas del realismo socialista. Extraordinariamente, el legado de Marx se mantiene también a pesar de la enconada lucha por silenciarlo. El enemigo sigue siendo el mismo de antaño: las fuerzas de la reacción que con su imaginería</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.5</book-part-id>
+                  <title-group>
+                     <title>LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA:</title>
+                     <subtitle>DE LA TEORÍA A LA PRAXIS. UNA INTRODUCCIÓN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tantaleán</surname>
+                           <given-names>Henry</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aguilar</surname>
+                           <given-names>Miguel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>Estas palabras que Karl Marx escribió tempranamente, y que también se pueden leer como epitafio en su actual tumba en Londres, pueden ser tomadas como una llamada de atención a la academia y encierran una crítica a la actitud parsimoniosa de su práctica. La razón de ser de este libro puede encontrarse en esa frase; por ese motivo nos sentimos muy complacidos y orgullosos de presentar este volumen sobre la arqueología social latinoamericana (ASL), la cual no es otra que una arqueología marxista que, por razones geográfico-nacionales, terminó etiquetándose de esa manera. Sin lugar a dudas, este es un libro</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.6</book-part-id>
+                  <title-group>
+                     <title>EL ARQUEÓLOGO MILITANTE:</title>
+                     <subtitle>THOMAS PATTERSON Y LA PRÁCTICA DE LA ARQUEOLOGÍA SOCIAL</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tantaleán</surname>
+                           <given-names>Henry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>Thomas Patterson ha sido y es una gran inspiración para arqueólogos y arqueólogas de varias partes del mundo pero, sobre todo, para nuestra tan golpeada Latinoamérica. En los momentos actuales, cuando reflexionar sobre nuestra práctica termina en la contemplación y la autocomplacencia, Patterson nos ha recordado y se ha recordado a sí mismo que debemos tener presente de dónde procedemos y hacia dónde debemos dirigirnos. Su producción intelectual originada e inspirada por su consecuencia con la realidad social trasciende las fronteras del idioma inglés, y nos provee de importantes documentos y testimonios de una manera de hacer arqueología comprometida.</p>
+                     <p>Para</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.7</book-part-id>
+                  <title-group>
+                     <title>¿EL FIN DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA?</title>
+                     <subtitle>REFLEXIONES SOBRE LA TRASCENDENCIA HISTÓRICA DEL PENSAMIENTO MARXISTA SOBRE EL PASADO DESDE LA GEOPOLÍTICA DEL CONOCIMIENTO LATINOAMERICANO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Navarrete</surname>
+                           <given-names>Rodrigo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>Mucho se ha debatido sobre el impacto, la trascendencia, la continuidad, las limitaciones y posibilidades de la arqueología social latinoamericana (ASL) como bloque consolidado epistémica y políticamente en las últimas casi cuatro décadas (Fournier 1992, 1997, 1999; Gándara 1985, 1993; McGuire 1992; McGuire y Navarrete 1999; Meneses 1991; Navarrete 1995, 2006; Oyuela-Caycedo 1994; Oyuela-Caycedo<italic>et al</italic>. 1997; Patterson 1994; Politis 1995). Sin embargo, pocos han sido los trabajos que han colocado sus particularidades dentro del contexto de la geopolítica del conocimiento global y local bajo una perspectiva histórica interactiva y dialógica entre comunidades nacionales y agentes sociales que, en primer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.8</book-part-id>
+                  <title-group>
+                     <title>HACIA UNA CRÍTICA DE LA PRÁCTICA DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jackson</surname>
+                           <given-names>Donald</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Troncoso</surname>
+                           <given-names>Andrés</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Salazar</surname>
+                           <given-names>Diego</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>La arqueología social latinoamérica (ASL), surgida hacia los inicios de la década de los setenta, establecía las bases para romper con la contradicción, entre las posiciones progresistas y las prácticas neocolonialistas de numerosos arqueólogos latinoamericanos, a partir de una consistente y sólida producción teórica.¹</p>
+                     <p>Así, desde una perspectiva marxista fundamentada en un profundo conocimiento del materialismo histórico y dialéctico, se inicia una nutrida producción teórica (Bate 1974, 1977, 1978, 1981, 1982; Lumbreras 1981, 1983, 1988, 1989, 2005; Montané 1980; Vargas 1985, 1986; Sanoja 1982, 1984; Sanoja y Vargas 1978; González 1979, 1981; Álvarez y Fiore 1993, entre otros). Estas contribuciones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.9</book-part-id>
+                  <title-group>
+                     <title>UNA NOTA SOBRE DIALÉCTICA EN LA “ARQUEOLOGÍA SOCIAL”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bate</surname>
+                           <given-names>Luis Felipe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>En primer lugar, debo aclarar que no soy organizador de esta reunión. El reconocimiento a los esfuerzos organizativos para realizar este evento en la Escuela Nacional de Antropología e Historia (ENAH) corresponde enteramente a Lidia Iris Rodríguez y Omar Olivo. Y he aceptado gustoso la invitación a participar, en tanto se ha constituido en un muy justo y merecido homenaje a la obra del colega y amigo Tom Patterson.</p>
+                     <p>Por lo demás, si de mí hubiera dependido, no la habría denominado “arqueología social latinoamericana” (ASL). Como he señalado en otros escritos, preferiría calificarla como arqueología marxista o materialista histórica. Y,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.10</book-part-id>
+                  <title-group>
+                     <title>¿ESTRUCTURA OCULTA O NARRATIVA CAUSAL?:</title>
+                     <subtitle>LA EXPLICACIÓN EN LA ARQUEOLOGÍA SOCIAL AMEROIBÉRICA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gándara</surname>
+                           <given-names>Manuel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Una de las características que distingue a la arqueología social de otras posiciones teóricas en arqueología, desde los padres fundadores como Childe, hasta los avances más recientes, es su énfasis en la explicación. A diferencia de la arqueología tradicional, a la que reaccionaron los primeros arqueólogos sociales, para nosotros no es suficiente decir solamente qué pasó en la historia, sino por qué. He sostenido en otro lado (Gándara 1995) que el objetivo cognitivo central de la posición, es decir, el tipo de conocimiento que nos interesa producir, es de corte explicativo. Ello no implica que otros objetivos cognitivos, como la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.11</book-part-id>
+                  <title-group>
+                     <title>LA DIGNIDAD DEL PASADO:</title>
+                     <subtitle>SOBRE LA CONSTRUCCIÓN DE LAS REALIDADES A TRAVÉS DE LA ARQUEOLOGÍA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monterroso</surname>
+                           <given-names>Diego Vásquez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Como prolongación de la modernidad y del pensamiento ilustrado, la arqueología ha buscado acceder al pasado de la forma lo más objetiva posible. Desde los primeros intentos por una sistematización metodológica en el siglo XIX, pasando por la enajenación en el método y la pérdida de su cualidad como ciencia social, hasta las propuestas más enfocadas en responder a los contextos sociales actuales e incluso como herramienta de emancipación política y social, la arqueología ha mantenido la base de su razón de ser: el acceder de una forma positiva¹ a la realidad, anulando todo aquello que oliera a subjetividad o,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.12</book-part-id>
+                  <title-group>
+                     <title>FILOSOFÍA DE LA CIENCIA EN LA PRAXIS ARQUEOLÓGICA:</title>
+                     <subtitle>BREVE ANÁLISIS ONTOLÓGICO, EPISTEMOLÓGICO Y METODOLÓGICO DE LAS “VANGUARDIAS” TEÓRICAS Y DEL “CADUCO” MATERIALISMO DIALÉCTICO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bonilla</surname>
+                           <given-names>Bernardo Flores</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>En los círculos académicos y en el ámbito de la filosofía de la ciencia predomina el posmodernismo o posmodernidad (PM) como la “vanguardia” teórica que ha venido a redimir e iluminar a la subjetiva e ingenua ciencia “pre-posmoderna”. El posmodernismo trajo consigo conceptos como teoría del caos, teoría de la complejidad, efecto mariposa, y términos como dialogía, democracia de factores, atractores extraños, etcétera, que se propusieron para salvar a la ciencia de su estancamiento empírico-positivista. Quienes introdujeron esta corriente por alguna razón ignoraron que el positivismo empírico ya había sido superado mucho tiempo atrás por una concepción filosófica (aplicada a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.13</book-part-id>
+                  <title-group>
+                     <title>CULTURA COMO CATEGORÍA EN LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA:</title>
+                     <subtitle>DE LA NEGACIÓN POLÍTICA A LA NEGACIÓN CIENTÍFICA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>del Olmo</surname>
+                           <given-names>Omar Olivo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>En el 2006 se llevó a cabo el encuentro de Arqueología Social Ameroibérica, en el cual participamos. En aquella ocasión, nuestra inquietud principal radicaba en el hecho de poder clarificar el desarrollo teórico y político de la posición que aquí abordaremos. La idea era básicamente contrastar la producción, qué se hizo más, qué se hizo menos, qué temas y problemas han sido mayormente abordados, y qué relevancia tuvieron en el desarrollo de la posición. De aquí se desprendieron más inquietudes, pues el acceso a la bibliografía es, en pocas palabras, difícil. Entonces propusimos y trabajamos en una recopilación de textos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.14</book-part-id>
+                  <title-group>
+                     <title>CULTURA Y ETNICIDAD. ALGUNOS COMENTARIOS AL INTERIOR DE LA CUESTIÓN ÉTNICO-NACIONAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rodríguez</surname>
+                           <given-names>Lidia Rodríguez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>La discusión de lo étnico es un tema fundamental de la ciencia antropológica. Las sociedades étnicas han sido un tema constante en polémicas discusiones desde la visión científica de la antropología, como una forma de entender los procesos históricos de la humanidad, y desde las políticas estatales orientadas a estructurar una sociedad nacional. En este sentido, ciencia y política estatal han confluido a través de diversas políticas culturales en las que han situado a las sociedades étnicas –mayormente indígenas– como el centro de sus acciones.</p>
+                     <p>En el marxismo, el debate de las sociedades étnicas al interior de los Estados nacionales</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.15</book-part-id>
+                  <title-group>
+                     <title>APORTES TEÓRICOS Y ÉTICOS POLÍTICOS DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA EN LA OBRA DE MARIO SANOJA E IRAIDA VARGAS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pacheco</surname>
+                           <given-names>Lino Meneses</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>En Venezuela, y sin temor a equivocarnos, en toda América, mientras más antiguo y más fantásticos son los contextos arqueológicos y los objetos que se encuentran en ellos, la valoración intelectual y popular de éstos adquiere mayor relevancia. De esta realidad se desprende la imagen más notoria que se tiene de un arqueólogo como persona que estudia objetos y restos muy antiguos, que en la mayoría de los casos se desvinculan de la historia venezolana.</p>
+                     <p>Esta realidad tiene correspondencia con la tradición de algunos profesores venezolanos de arqueología de la Universidad Central de Venezuela, que nos decían en sus clases</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.16</book-part-id>
+                  <title-group>
+                     <title>LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA Y LA SOCIALIZACIÓN DEL CONOCIMIENTO HISTÓRICO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rojas</surname>
+                           <given-names>Gladys Gordones</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>Hacer arqueología es hacer historia, aseveración esta que para muchos cae en eso que se llama comúnmente, con cierto desdén, “un lugar común”, pero que desde el desarrollo de nuestra ciencia los lugares “comunes” nos han permitido desarrollar los planteamientos que alimentan la investigación más allá de las paredes de los centros del “saber oficial”, y su vinculación a la socialización de un saber y su pertinencia en la estructuración de la historia nacional.</p>
+                     <p>En este sentido, es necesario preguntarnos cómo se da el manejo de la información arqueológica en la conformación de los procesos históricos venezolanos y en nuestra</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.17</book-part-id>
+                  <title-group>
+                     <title>BALANCE CRÍTICO DE LA PARTE II:</title>
+                     <subtitle>DISCUSIÓN TEÓRICA Y EPISTEMOLÓGICA DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA</subtitle>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>En esta sección se presentaron una serie de textos que plantearon una discusión teórica y que enfatizaron los aspectos ontológicos y epistemológicos utilizados y reactualizados de la arqueología social latinoamericana (ASL). Como el lector o lectora pudo apreciar, se presentaron una serie de planteamientos teóricos que sobresalieron por su construcción cognitiva y conceptual pero, también, por una no tan consensuada diversidad dentro de la unidad de la ASL. Esta diversidad, como señaló Navarrete en este volumen (ver parte I), proviene de las diferentes posiciones teóricas que manejan cada uno de sus proponentes y que están acordes con su contexto nacional</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.18</book-part-id>
+                  <title-group>
+                     <title>ARQUEOLOGÍA MATERIALISTA HISTÓRICA:</title>
+                     <subtitle>DE LA AGENDA AL PROGRAMA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ochoa</surname>
+                           <given-names>Guillermo Acosta</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bate</surname>
+                           <given-names>Luis Felipe</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martínez</surname>
+                           <given-names>Patricia Pérez</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Serrano</surname>
+                           <given-names>Arturo Jiménez</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Torres</surname>
+                           <given-names>Enrique Méndez</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>González</surname>
+                           <given-names>Iran Rivera</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>El presente texto intenta ser una propuesta, a la vez que un análisis crítico del quehacer de la llamada arqueología social ameroibericana (ASAI) –a la cual preferimos denominar simplemente como arqueología materialista histórica–,¹ destacando el qué y el cómo se debe orientar una arqueología comprometida socialmente, más que sólo diagnosticar lo que se ha hecho. Sobre esto último, no obstante, reconocemos que es necesario reflexionar acerca de la praxis concreta de la AMH en nuestro país como diagnóstico de lo que se ha hecho y como base para el programa futuro.</p>
+                     <p>No es aquí el objetivo hacer una evaluación</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.19</book-part-id>
+                  <title-group>
+                     <title>UN ACERCAMIENTO AL POBLAMIENTO DEL TERRITORIO MEXICANO DESDE LA REGIÓN DE LA ALTA MONTAÑA VERACRUZANA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alcaraz</surname>
+                           <given-names>Paris Ferrand</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>261</fpage>
+                  <abstract>
+                     <p>El presente texto pretende abordar un tema prácticamente inédito en el estado de Veracruz, México, particularmente en la región de la alta montaña veracruzana, tomando en cuenta los vestigios que se asocian con la megafauna y a partir de los cuales podemos definir un paleopaisaje. A partir de lo anterior se propone que la región pudo haber sido utilizada por los cazadores nómadas que fueron poblando el territorio, ya que la región presentaba, entonces, un “oasis” dentro del cual podrían haber obtenido los recursos necesarios para subsistir.</p>
+                     <p>Desde el inicio de la propuesta de trabajo se consideró pertinente trabajar con</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.20</book-part-id>
+                  <title-group>
+                     <title>HACIA UNA PRAXIS DE LA ARQUEOLOGÍA SOCIAL EN LA CUENCA NORTE DEL LAGO TITICACA, PERÚ</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tantaleán</surname>
+                           <given-names>Henry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>En este capítulo describiremos sintéticamente el desarrollo de nuestra más reciente praxis arqueológica en la cuenca norte del Titicaca (Puno, Perú). Con esta praxis tratamos de reconocer la producción de la vida social mediante los restos de la materialidad social de un área concreta de estudio: el valle del río Quilcamayo-Tintiri. Para ello desarrollamos una metodología, con el objeto de poder registrarlos y analizarlos de la manera más realista posible. Gracias a los conocimientos adquiridos en nuestra experiencia en el área de la cuenca norte del lago Titicaca (Tantaleán 2006, 2008) desarrollamos una serie de planteamientos que contrastamos en una</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.21</book-part-id>
+                  <title-group>
+                     <title>EL PERÍODO FORMATIVO, LA COSTA DE TARAPACÁ Y NUEVAS POSIBILIDADES PARA UNA ARQUEOLOGÍA SOCIAL LATINOAMERICANA EN CHILE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rodríguez</surname>
+                           <given-names>Mauricio Uribe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>307</fpage>
+                  <abstract>
+                     <p>A partir de nuestro acercamiento al período Formativo de Tarapacá abordamos algunos conceptos y modelos que han orientado el estudio de su evolución sociocultural, intentando esclarecer paradigmas y posiciones teóricas en juego para tratar arqueológicamente dicha complejidad. Discutimos las formas de entender la evolución en el norte chileno y la aplicación del concepto para avanzar en el estudio de las sociedades prehispánicas de los Andes centro-sur. Nuestra postura sobre la evolución sigue una línea tanto antropológica como materialista según lo hemos planteado previamente (Uribe y Adán 2003, 2004), marcando diferencia con el marxismo ortodoxo, el procesualismo y enfrentando al posmodernismo,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.22</book-part-id>
+                  <title-group>
+                     <title>PROYECTOS DE ESTUDIO DE ARQUEOLOGÍA SOCIAL EN LA REGIÓN HISTÓRICA DEL ESTRECHO DE GIBRALTAR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ramos</surname>
+                           <given-names>José</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>Desde una posición teórica (Gándara 1993; Bate 1998) enmarcada en la arqueología social, estamos trabajando desde la Universidad de Cádiz en el estudio del proceso histórico de las sociedades cazadoras-recolectoraspescadoras del Pleistoceno y en sociedades tribales comunitarias y clasistas iniciales del Holoceno de la región histórica del Estrecho de Gibraltar, en el sur de Europa y en el norte de África (Fig. 1).</p>
+                     <p>El objetivo a largo plazo es el análisis del pasado para la comprensión crítica del presente. Tenemos esperanza en que la educación y el espíritu crítico ayuden a la transformación social.</p>
+                     <p>Por coherencia ideológica intentamos desarrollar un</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.23</book-part-id>
+                  <title-group>
+                     <title>TEORÍA Y PRAXIS DE UNA GEOARQUEOLOGÍA DIALÉCTICA PARA EL SIGLO XXI</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arteaga</surname>
+                           <given-names>Oswaldo</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roos</surname>
+                           <given-names>Anna-María</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>365</fpage>
+                  <abstract>
+                     <p>En la presente síntesis los autores firmantes exponemos de una manera resumida los cometidos y resultados geoarqueológicos que vienen compartiendo con otros colegas como geólogos, geógrafos, antropólogos e historiadores de las universidades de Sevilla y Cádiz (España), de Bremen, Kiel y Bochum (Alemania), y de Nantes (Francia). Todos nosotros colaboramos dedicando nuestro esfuerzo mancomunado a conseguir los objetivos de una investigación centrada en el estudio de los cambios ocurridos en las antiguas líneas de costa del ámbito atlántico-mediterráneo de Andalucía. A su vez, analizamos este proceso en relación con los impactos antrópicos (sociohistóricos) que durante el Holoceno han coadyuvado de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.24</book-part-id>
+                  <title-group>
+                     <title>BALANCE CRÍTICO DE LA PARTE III:</title>
+                     <subtitle>PRÁCTICAS TEÓRICO-METODOLÓGICAS DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA</subtitle>
+                  </title-group>
+                  <fpage>403</fpage>
+                  <abstract>
+                     <p>En esta parte del libro se abordó uno de los componentes más esperados de la arqueología social latinoamericana (ASL): las practicas teórico-metodológicas de la ASL. Este conjunto de textos representan un intento por llevar a cabo muchos de los presupuestos teóricos de esta tendencia, por medio del uso de metodologías comunes a las metodologías arqueológicas tradicionales (<italic>v</italic>.<italic>gr</italic>. reconocimiento sistemático, prospección, excavación y técnicas complementarias), pero tratando de hacerlas suyas con mayor o menor éxito, con el objetivo de entender, explicar e incluso interpretar en clave marxista los materiales arqueológicos.</p>
+                     <p>Como se verá, estos intentos, en principio propositivos, han logrado</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.25</book-part-id>
+                  <title-group>
+                     <title>LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA, ENTRE EL HACER Y EL DECIR</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Etayo</surname>
+                           <given-names>Daniel Torres</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>409</fpage>
+                  <abstract>
+                     <p>La presente ponencia, ahora publicada como un capítulo de libro, la había comenzado a realizar con la esperanza de que pudiera ser expuesta personalmente en México, pero dificultades ajenas a mi voluntad y relacionadas con la política anticubana desarrollada por el gobierno de Estados Unidos y sus cómplices me impiden asistir. Debido a esto he tenido que hacer algunas modificaciones al trabajo, pues ésta ha de ser leída gracias al apoyo de los colegas peruanos y mexicanos, a quienes quiero agradecer de antemano. En aras de no aburrirlos con una lectura tediosa, he tratado de ser muy breve y de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.26</book-part-id>
+                  <title-group>
+                     <title>ARQUEOLOGÍA, MONUMENTOS Y COMUNIDADES EN LA BIoSFERA LAUCA:</title>
+                     <subtitle>POSIBILIDADES DE LA PRÁCTICA DE LA ARQUEOLOGÍA SOCIAL EN EL NORTE DE CHILE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Poblete</surname>
+                           <given-names>Daniella Jofré</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>415</fpage>
+                  <abstract>
+                     <p>En Chile son escasas las propuestas de trabajo que involucren la participación de comunidades indígenas en el manejo de monumentos arqueológicos. Existen algunas iniciativas en la zona norte, específicamente con comunidades atacameñas de San Pedro de Atacama (Ayala<italic>et al</italic>. 2003, Ayala 2009) y con comunidades aymara de Arica y Parinacota (Romero 2003; Corporación Nacional de Desarrollo Indígena [Conadi] 2008). La legislación chilena cuenta con un organismo público, el Consejo de Monumentos Nacionales (en adelante CMN), que desde 1970 es el encargado de resguardar el patrimonio nacional. Sin embargo, las posibilidades de colaboración pública-privada en territorios de poblaciones originarias están</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.27</book-part-id>
+                  <title-group>
+                     <title>EL PATRIMONIO CULTURAL EN EL NEOLIBERALISMO.</title>
+                     <subtitle>APUNTES PARA UNA REFLEXIÓN SOBRE LA ARQUEOLOGÍA SOCIAL EN PERÚ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Portocarrero</surname>
+                           <given-names>Ricardo Chirinos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Palomino</surname>
+                           <given-names>Nilton Ríos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>Durante las dos últimas décadas, como nunca antes en la historia de la República de Perú, el patrimonio cultural viene siendo desprotegido, utilizado como mera mercancía y en muchos casos destruido. Esta problemática se acentuó desde la aplicación del modelo económico neoliberal en nuestro país.</p>
+                     <p>El mecanismo utilizado por los grupos de poder económico para controlar nuestros mercados y adueñarse del patrimonio nacional es la aplicación –como en casi toda Latinoamérica– del modelo económico neoliberal: políticas de ajuste estructural, flexibilización del empleo, liberalización del mercado, reducción del tamaño del Estado y las privatizaciones (de telecomunicaciones, energía, ferrocarriles, puertos y también</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.28</book-part-id>
+                  <title-group>
+                     <title>ARQUEOLOGÍA Y REIVINDICACIONES POLITÍCO-SOCIALES:</title>
+                     <subtitle>INTEGRANDO COLECTIVOS PARA LA DEFENSA DEL PATRIMONIO CULTURAL Y LA SEGURIDAD ALIMENTARIA DE LOS PUEBLOS Y COMUNIDADES DE LATINOAMÉRICA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Prouve</surname>
+                           <given-names>Manuel Aguirre-Morales</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>451</fpage>
+                  <abstract>
+                     <p>En las circunstancias actuales que vive Perú –donde siguen creciendo la extrema pobreza y la malnutrición– es indispensable que los conocimientos sobre el manejo productivo y sostenible de su territorio, así como la explotación integral y racional de sus recursos naturales, aparentemente lograda durante el pasado precolombino, sean debida y científicamente estudiados, bajo la premisa y posibilidad de que pudieran ser la clave para la seguridad alimentaria de la mayor parte de su población en un futuro no muy lejano.</p>
+                     <p>No se trata de una propuesta de autarquía económica y política “trasnochada” (como fuera el caso de la aplicada en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.29</book-part-id>
+                  <title-group>
+                     <title>HACIA UNA ARQUEOLOGÍA MILITANTE:</title>
+                     <subtitle>LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA DESDE SU CONTEXTO POLÍTICO PERIFÉRICO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aguilar</surname>
+                           <given-names>Miguel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>467</fpage>
+                  <abstract>
+                     <p>Cuando la sociedad se convirtió en un espacio donde confluían las contradicciones sociales y las desigualdades del pasado material y la realidad actual; cuando esa contradicción concentró el poder económico, político y social de millones de seres humanos, quizá de todo el mundo, en manos de un grupo reducido de personas de manera gradual desde los orígenes de las organizaciones humanas hasta nuestros días, fue cuando esas mismas condiciones materiales de subsistencia desiguales nos obligaron a los científicos sociales a hacer de las aulas universitarias escenarios de discusión de soluciones y alternativas a las consecuencias del sistema que parece condenar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.30</book-part-id>
+                  <title-group>
+                     <title>BALANCE CRÍTICO DE LA PARTE IV:</title>
+                     <subtitle>PRÁCTICAS SOCIOPOLÍTICAS DE LA ARQUEOLOGÍA SOCIAL LATINOAMERICANA</subtitle>
+                  </title-group>
+                  <fpage>479</fpage>
+                  <abstract>
+                     <p>El conjunto de textos de esta parte del libro quiere recordar que la arqueología social latinoamericana (ASL), como lo ha proclamado desde sus inicios, ha tenido una vocación por mantener los vínculos con la realidad social de la que nunca debió haberse alejado. De esta manera podría, entre otras cuestiones, recuperar la sustancia de la cual se originaron primordialmente muchos de los conceptos que operan actualmente y utilizamos muchos de nosotros. Al hacer esto, también pueden compartir sus deseos por un mundo mejor no sólo intelectual o académico sino, sobre todo, social, al integrarse y caminar en conjunto con la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.31</book-part-id>
+                  <title-group>
+                     <title>UTILIZAR LA ARQUEOLOGÍA SOCIAL PARA HACER HABLAR AL PERRO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGuire</surname>
+                           <given-names>Randall H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>485</fpage>
+                  <abstract>
+                     <p>A menudo, la arqueología es como un perro que habla. Que el perro pueda hablar fascina a la gente, aunque ellos no tienen interés en lo que el perro diga. Desde la década de los setenta, la arqueología social latinoamericana (ASL) ha estado haciendo hablar al perro utilizando la teoría marxista para hacerle decir cosas importantes acerca del mundo moderno. La ASL ha dicho algunas cosas importantes aunque una cantidad de arqueólogos la han criticado rotundamente y desestimado por hacer demasiado hincapié en conceptos, definiciones y etiquetas, y no lo suficiente en la práctica de la arqueología. La actual crisis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18gzdps.32</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>502</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

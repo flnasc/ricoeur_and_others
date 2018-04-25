@@ -1,0 +1,347 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.cttn32mh</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt3fgrm7</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Unexpected</book-title>
+         <subtitle>Narrative Temporality and the Philosophy of Surprise</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Currie</surname>
+               <given-names>Mark</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>17</day>
+         <month>01</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748676293</isbn>
+      <isbn content-type="epub">9780748676309</isbn>
+      <isbn content-type="epub">0748676309</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Mark Currie</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt3fgrm7"/>
+      <abstract abstract-type="short">
+         <p>This new study asks how stories affect the way we think about time and, in particular, how they condition thinking about the future. Focusing on surprise and the unforeseeable, the book argues that stories are mechanisms that reconcile what is taking place with what will have been. This relation between the present and the future perfect offers a grammatical formula quite different from our default notions of narrative as recollection or recapitulation. It promises new understandings of the reading process within the strange logic of a future that is already complete. It also points beyond that to some of the key temporal concepts of our epoch: prediction and unpredictability, uncertainty, the event, the untimely and the messianic. The argument is worked out in new readings of Sarah Waters’ Fingersmith, Kazuo Ishiguro’s Never Let Me Go and Julian Barnes’ The Sense of an Ending.Key Features: An original discussion of the relation of time and narrativeAn important intervention in narratologyA striking general argument about the workings of the mindProvides an overview of the question of surprise in philosophy and literature</p>
+      </abstract>
+      <counts>
+         <page-count count="192"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.3</book-part-id>
+                  <title-group>
+                     <title>Series Editor’s Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McQuillan</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Currie</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>What Lies Ahead</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In what lies ahead there is a central claim about the temporality of narrative: namely, that it operates according to a tense structure quite different from the one we normally assume for it. This tense structure is the future perfect, the tense that refers to something that lies ahead and yet which is already complete, not what<italic>will happen</italic>, but what<italic>will have happened</italic>. There is a hint of the impossible in the future perfect. It seems to ascribe to the future the one property that it cannot possess, but it will be my claim that this hint of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>A Flow of Unforeseeable Novelty</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Special problems attach to thinking about what has not yet taken place, and it is far from obvious that the theory of narrative should have anything to say about those problems. But that is what this book aims to do: to consider the role of narrative in our conceptualisation and our cognitive control of the future, and to explore the experience of reading fiction in relation to the idea of time flow.</p>
+                     <p>The problems, at first sight, mainly derive from the non-existence of the future: from the fact that thinking about what has not yet taken place differs from thinking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Narratological Approaches to the Unforeseeable</title>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>There is narrative theory that concerns itself with the unforeseeable, but not in what might be thought of as the mainstream of contemporary narratology. Questions of surprise, of the unexpected, the reversal of fortune, of chance and contingency are present in the philosophical traditions of writing about narrative and nearly absent from the new, ‘postclassical’ narratologies and cognitive narratologies that have dominated the systematic and theoretical study of narrative since the mid-1990s. There is a larger issue here, about the absence of a more general kind of any systematic analysis of narrative temporality in postclassical narratology, and within this, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Prediction and the Age of the Unknowable</title>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>There is the future that we can predict, and then there is the unexpected. In an obvious way, the unexpected is the failure of prediction, and in a less obvious way, it comes into view as a result of the success of prediction. Prominent unexpected events, such as 9/11, the tsunami in the Indian Ocean in 2004, the financial meltdown of 2008, are moments that highlight our everyday reliance upon and expertise in prediction. Expert prediction is what we hold to account in the event of the unexpected. In moments of catastrophe, in cases of child abuse and murder, for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>What Will Have Happened:</title>
+                     <subtitle>Writing and the Future Perfect</subtitle>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>‘I cannot predict what is going to happen’, Bergson says, ‘but I foresee that I am going to have known it.’ This empty foresight offers a grammatical form, the future perfect, which links together the structure of an existential moment, the engagement with a fictional plot, and contemporary epochal self-consciousness. In 1977, Robert Champigny published a philosophical study of mystery stories titled<italic>What Will Have Happened</italic>, a tense form that creates a conjunction between a prospective present and the retrospective future. Speaking of the investigative sequence of a mystery story or detective fiction, what makes aesthetic sense for Champigny ‘is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Untimely and the Messianic</title>
+                  </title-group>
+                  <fpage>78</fpage>
+                  <abstract>
+                     <p>Unexpected events, by standing out against the backdrop of routine and predictable moments, can make us see the originality of every moment, the novelty and unexpectedness of the present in general. Time, says Elizabeth Grosz, is ‘a kind of evanescence that appears only at those moments when our expectations are (positively or negatively) surprised’ (Grosz 2004, 5). This is not, for Grosz, the usual cliché, where a sensation to which we are normally dead comes into being as the defamiliarising effect of the unexpected, or the power of now elevates special people above the mundane. The unexpected, or the ‘untimely’,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Narrative Modality:</title>
+                     <subtitle>Possibility, Probability and the Passage of Time</subtitle>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>In the previous two chapters we have encountered, in Mallarmé and Badiou, but also in Nietzsche and Grosz, a thematisation of action as a kind of wager or bet upon what will have happened. The idea of the future as a wager suggests probability as a more obvious mathematics of the future perfect than set theory. There can be no question that our cognitive control of the future must involve us in an assessment of the probability of events that we foresee, and it seems likely that the events that we do not foresee are the lowest probability events. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Temporal Perspective:</title>
+                     <subtitle>Narrative Futurity and the Distribution of Knowledge</subtitle>
+                  </title-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>The idea that the perspectival structure of fictional discourse is crucial for its representation of temporality finds an extended exploration if we change tradition from semantics, and the way that semantics has informed contemporary narratology, to the phenomenology of internal time-consciousness, and by extension, to phenomenological approaches to the temporality of literature. A foundational argument here is Roman Ingarden’s discussion of temporal perspective in<italic>The Cognition of the Literary Work of Art</italic>, which explores the idea of temporal perspective in fiction as a special case of the more general phenomena of temporal perspective in the human experience of time. As</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Maximum Peripeteia:</title>
+                     <subtitle>Reversal of Fortune and the Rhetoric of Temporal Doubling</subtitle>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>In<italic>Fingersmith</italic>, by Sarah Waters, something very unexpected happens. It happens at the end of Part One, after six chapters, about one-third of the way through the novel, and it turns everything upside down. We had thought that Sue Trinder, our narrator, was part of a plot to cheat an heiress out of her fortune by having her committed to a mental asylum, but in fact the heiress, Maud, was also part of a plot, of which we knew nothing, to have Sue locked up in the madhouse. The scene in which Sue travels to the asylum with her partner</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Freedom and the Inescapable Future</title>
+                  </title-group>
+                  <fpage>148</fpage>
+                  <abstract>
+                     <p>Many of the perspectives that we have explored on the difference between narrative and life seem to return to what Ricoeur calls the ‘paradox of emplotment’ which ‘inverts the effect of contingency into an effect of necessity’. It has often been said that narrative somehow banishes chance. Leland Monk says this in his study of chance in the British novel, that ‘chance is that which cannot be represented in narrative’ despite the manifest efforts to do so in the novel of the late Victorian and modern period. Mallarmé, Monk claims, understood that, ‘though a throw of the dice will never</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>The Philosophy of Grammar</title>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>This study began from Genette’s notion that we should organise the analysis of narrative around categories borrowed from the grammar of the verb. It is now possible to be specific about what must be added to a grammatical approach if we are to do any justice to the complex philosophical approaches to the future that we have been exploring, and to the particular valence of the unexpected. We found, in each section of the argument, a tight complementarity between thinking forwards and thinking backwards, that the cognitive functions of prospect and retrospect are difficult to separate, and that surprise has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.16</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>176</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgrm7.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>181</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

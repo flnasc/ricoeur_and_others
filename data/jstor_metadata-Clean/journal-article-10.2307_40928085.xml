@@ -1,0 +1,843 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">theorysociety</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j100635</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>Theory and Society</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>Springer</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">03042421</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">15737853</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">40928085</article-id>
+         <title-group>
+            <article-title>Sociology, narrative, and the quality versus quantity debate (Goethe versus Newton): Can computer-assisted story grammars help us understand the rise of Italian fascism (1919-1922)?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Roberto P.</given-names>
+                  <surname>Franzosi</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>11</month>
+            <year>2010</year>
+         </pub-date>
+         <volume>39</volume>
+         <issue>6</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i40041727</issue-id>
+         <fpage>593</fpage>
+         <lpage>629</lpage>
+         <permissions>
+            <copyright-statement>© Springer Science+Business Media B.V. 2010</copyright-statement>
+         </permissions>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/40928085"/>
+         <abstract>
+            <p>At the heart of this article is a structural approach to narrative, based on the work of Propp, Labov, van Dijk, Halliday, and others. The article highlights the structural features of narrative—basically, the organization of the genre around the semantic template actor-action-actor (syntactically rendered as subject-verb-object but where, in narrative, the subject is typically a social actor and the verb a social action) and the modifiers of each element of this triplet, such as time and space of action—and shows how to implement this structure in a computer environment and how to use this methodological tool in socio-historical research (namely, the rise of Italian fascism, 1919-22). But, taking a cue from Halliday's cover jacket of his An Introduction to Functional Grammar, with its representation of a color circle, the paper takes the reader on an intellectual journey from Newton to Goethe—and the quality versus quantity debate—to Goethe and Propp, to end, back home, with Simmel and Weber.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>eng</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <fn-group xmlns:xlink="http://www.w3.org/1999/xlink">
+         <title>[Footnotes]</title>
+         <fn id="d13733e189a1310">
+            <label>1</label>
+            <p>
+               <mixed-citation id="d13733e196" publication-type="other">
+Corbett and Lightbown (1979, pp. 219-230).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e203a1310">
+            <label>2</label>
+            <p>
+               <mixed-citation id="d13733e210" publication-type="other">
+(Corbett and Lightbown 1979, p. 46-47).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e217a1310">
+            <label>3</label>
+            <p>
+               <mixed-citation id="d13733e224" publication-type="other">
+Gage 1993, pp. 166-167, 194).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e231a1310">
+            <label>4</label>
+            <p>
+               <mixed-citation id="d13733e238" publication-type="other">
+Halliday (1994, p. 150).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e244" publication-type="other">
+Franzosi
+(2004a,b, pp. 124, 217, 255, 382 n. 67).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e255a1310">
+            <label>5</label>
+            <p>
+               <mixed-citation id="d13733e262" publication-type="other">
+Franzosi (2004a,b, pp. 123-124, 253, 361 n. 44, 48, 49);</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e268" publication-type="other">
+Chafe (1970)
+and Palmer (1994).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e278a1310">
+            <label>6</label>
+            <p>
+               <mixed-citation id="d13733e285" publication-type="other">
+Skvoretz's assessment (1993, 140)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e291" publication-type="other">
+Heise 's critique on this point, 1993).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e298a1310">
+            <label>7</label>
+            <p>
+               <mixed-citation id="d13733e305" publication-type="other">
+Gibson (2000, 2003, 2005a,b),</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e312a1310">
+            <label>8</label>
+            <p>
+               <mixed-citation id="d13733e319" publication-type="other">
+www.pc-ace.com.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e326a1310">
+            <label>10</label>
+            <p>
+               <mixed-citation id="d13733e333" publication-type="other">
+(Pavia 18/07/1921).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e340a1310">
+            <label>11</label>
+            <p>
+               <mixed-citation id="d13733e347" publication-type="other">
+Franzosi (1990a,b, 1995).</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e353" publication-type="other">
+www.pc-ace.com</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e361a1310">
+            <label>13</label>
+            <p>
+               <mixed-citation id="d13733e368" publication-type="other">
+Franzosi 2004a, p. 293).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e375a1310">
+            <label>15</label>
+            <p>
+               <mixed-citation id="d13733e382" publication-type="other">
+Glaser and Straus (1967, pp. 10, 40, 185-186).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e389a1310">
+            <label>16</label>
+            <p>
+               <mixed-citation id="d13733e396" publication-type="other">
+Collins (1985),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e402" publication-type="other">
+King (1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e408" publication-type="other">
+Herrnson (1995),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e415" publication-type="other">
+McCullough and Vinod
+(1999, 2003a,b).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e425a1310">
+            <label>17</label>
+            <p>
+               <mixed-citation id="d13733e432" publication-type="other">
+Baldassini's work on fascists' diaries (2002).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e439a1310">
+            <label>18</label>
+            <p>
+               <mixed-citation id="d13733e446" publication-type="other">
+Lévi-Strauss 0984a, pp. 175-176:</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e453a1310">
+            <label>19</label>
+            <p>
+               <mixed-citation id="d13733e460" publication-type="other">
+Lévi-Strauss (1984a, pp. 177, 178, 178, 178-179).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e468a1310">
+            <label>20</label>
+            <p>
+               <mixed-citation id="d13733e475" publication-type="other">
+Lévi-Strauss (1984a, pp. 179, 179, 180, 181, 186, and 188).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e482a1310">
+            <label>21</label>
+            <p>
+               <mixed-citation id="d13733e489" publication-type="other">
+Propp (1984, pp. 68, 68)</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e495" publication-type="other">
+Lévi-Strauss (1984b, p. 189).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e502a1310">
+            <label>22</label>
+            <p>
+               <mixed-citation id="d13733e509" publication-type="other">
+Propp (1984, pp. 68, 68, 68-69).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e516a1310">
+            <label>23</label>
+            <p>
+               <mixed-citation id="d13733e523" publication-type="other">
+Steiner and Davydov (1977),</mixed-citation>
+            </p>
+            <p>
+               <mixed-citation id="d13733e529" publication-type="other">
+Steiner (1980-81; 1986).</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e536a1310">
+            <label>24</label>
+            <p>
+               <mixed-citation id="d13733e543" publication-type="other">
+Goethe in the Preface and in Chapters 1, 2, 8,
+and 9.</mixed-citation>
+            </p>
+         </fn>
+         <fn id="d13733e553a1310">
+            <label>25</label>
+            <p>
+               <mixed-citation id="d13733e560" publication-type="other">
+Franzosi 2004a, pp. 266-269).</mixed-citation>
+            </p>
+         </fn>
+      </fn-group>
+      <ref-list>
+         <title>References</title>
+         <ref id="d13733e576a1310">
+            <mixed-citation id="d13733e580" publication-type="other">
+Abbott, A. (1983). Sequences of social events: concepts and methods for the analysis of order in social
+orocesses. Historical Methods. 16. 129-147.</mixed-citation>
+         </ref>
+         <ref id="d13733e590a1310">
+            <mixed-citation id="d13733e594" publication-type="other">
+Abbott, A. (1 990). Conceptions of time and events in social science methods. Historical Methods, 23(4),
+140-150.</mixed-citation>
+         </ref>
+         <ref id="d13733e604a1310">
+            <mixed-citation id="d13733e608" publication-type="other">
+Abbott, A. (1992). From causes to events: notes on narrative positivism. Sociological Methods and
+Research, 20(4), 428-455.</mixed-citation>
+         </ref>
+         <ref id="d13733e618a1310">
+            <mixed-citation id="d13733e622" publication-type="other">
+Abbott, A. (1995). Sequence analysis: new methods for old ideas. Annual Review of Sociology, 21, 93-113.</mixed-citation>
+         </ref>
+         <ref id="d13733e630a1310">
+            <mixed-citation id="d13733e634" publication-type="other">
+Abbott, A. (1997). Of time and place: the contemporary relevance of the Chicago School. Social Forces,
+7S(A' 1149-1182.</mixed-citation>
+         </ref>
+         <ref id="d13733e644a1310">
+            <mixed-citation id="d13733e648" publication-type="other">
+Abbott, A., &amp; Hrycak, A. (1990). Measuring resemblance in sequence data. The American Journal of
+Sociology, 96, 144-185.</mixed-citation>
+         </ref>
+         <ref id="d13733e658a1310">
+            <mixed-citation id="d13733e662" publication-type="other">
+Abbott, A., &amp; Barman, E. (1997). Sequence comparison via alignment and Gibbs sampling: A formal
+analysis of the emergence of the modern sociological article. In A. E. Raftery (Ed.), Sociological
+methodology, Vol. 27 (pp. 47-87). Oxford: Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e675a1310">
+            <mixed-citation id="d13733e679" publication-type="other">
+Abell, P. (1987). The syntax of social life. The theory and method of comparative narratives. Oxford:
+Clarendon.</mixed-citation>
+         </ref>
+         <ref id="d13733e689a1310">
+            <mixed-citation id="d13733e693" publication-type="other">
+Abell, P. (1 993). Some aspects of narrative method. In P. Abell (Ed.), Narrative methods. Special issue of
+The Journal of Mathematical Sociology, Vol. 18, Nos. 2-3 (pp. 93-134).</mixed-citation>
+         </ref>
+         <ref id="d13733e703a1310">
+            <mixed-citation id="d13733e707" publication-type="other">
+Abell, P. (2004). Narrative explanation: an alternative to variable-centred explanation? Annual Review of
+Sociology, 30, 287-310.</mixed-citation>
+         </ref>
+         <ref id="d13733e718a1310">
+            <mixed-citation id="d13733e722" publication-type="other">
+Agar, M. &amp; Hobbs, J. R. (1982). Interpreting discourse: coherence and the analysis of ethnographic
+interviews. Discourse Processes, 5, 1-32.</mixed-citation>
+         </ref>
+         <ref id="d13733e732a1310">
+            <mixed-citation id="d13733e736" publication-type="other">
+Amrine, F. (1996a). Goethe in the history of science, Vol.1: Bibliography, 1 776-1 949. Studies in Modern
+German Literature, Vol. 29. Bern, Switzerland: Peter Lang.</mixed-citation>
+         </ref>
+         <ref id="d13733e746a1310">
+            <mixed-citation id="d13733e750" publication-type="other">
+Amrine, F. (1996b). Goethe in the history of science, Vol.11: Bibliography, 1950-1990. Studies in Modern
+German Literature, Vol. 30. Bern, Switzerland: Peter Lang.</mixed-citation>
+         </ref>
+         <ref id="d13733e760a1310">
+            <mixed-citation id="d13733e764" publication-type="other">
+Amrine, F. (1999). Goethe in the history of science, Vol. HI. Studies in Modern German Literature, Vol. 3 1 .
+Bern, Switzerland: Peter Lang.</mixed-citation>
+         </ref>
+         <ref id="d13733e774a1310">
+            <mixed-citation id="d13733e778" publication-type="other">
+Amrine, F. R., Zucker, F. J., &amp; Wheeler, H. (Eds.) (1987). Goethe and the sciences: A reappraisal. Boston:
+Reidel Publishing Co.</mixed-citation>
+         </ref>
+         <ref id="d13733e788a1310">
+            <mixed-citation id="d13733e792" publication-type="other">
+Atkinson, A. C. (1988). Transformations unmasked. Technometrics, 30(3), 311-18.</mixed-citation>
+         </ref>
+         <ref id="d13733e800a1310">
+            <mixed-citation id="d13733e804" publication-type="other">
+Bal, M. (1977). Narratologie. Essais sur la signification narrative dans quatre romans modernes. Paris:
+Editions Klincksieck.</mixed-citation>
+         </ref>
+         <ref id="d13733e814a1310">
+            <mixed-citation id="d13733e818" publication-type="other">
+Baldassini, C. (2002). Fascismo e memoria. L'autorappresentazione dello squadrismo. Contemporanea.
+Rivista di storia dell'800 e del 900 5(3), 475-505.</mixed-citation>
+         </ref>
+         <ref id="d13733e828a1310">
+            <mixed-citation id="d13733e832" publication-type="other">
+Barthes, R. (1977[1966]). Introduction to the structural analysis of narratives. In R. Barthes (Ed.), Image
+music text. Essays selected and translated by Stephen Heath (pp. 79-124). London: Fontana Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e842a1310">
+            <mixed-citation id="d13733e846" publication-type="other">
+Bailyn, B. (1982). The challenge of modern historiography. The American Historical Review, 87(1), 1-24.</mixed-citation>
+         </ref>
+         <ref id="d13733e853a1310">
+            <mixed-citation id="d13733e857" publication-type="other">
+Bearman, P. S., &amp; Stovel, K. (2000). Becoming a Nazi: a model for narrative networks. Poetics, 27(2-3), 69-90.</mixed-citation>
+         </ref>
+         <ref id="d13733e864a1310">
+            <mixed-citation id="d13733e868" publication-type="other">
+Belsley, D., Edwin K., &amp; Roy W. (1980). Regression diagnostics, identifying influential data and sources
+of collinearity. New York: John Wiley &amp; Sons.</mixed-citation>
+         </ref>
+         <ref id="d13733e879a1310">
+            <mixed-citation id="d13733e883" publication-type="other">
+Benveniste, E. (1971 [1966]). Problems in general linguistics. Coral Gables, FL: University of Miami
+Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e893a1310">
+            <mixed-citation id="d13733e897" publication-type="other">
+Bortoft, H. (1996). The wholeness of nature. Goethe's way of science. Edinburgh: Floris Books.</mixed-citation>
+         </ref>
+         <ref id="d13733e904a1310">
+            <mixed-citation id="d13733e908" publication-type="other">
+Böhme, G. (1987). Is Goethe's theory of color science? In F. R. Amrine, F. J. Zucker, &amp; H. Wheeler
+(Eds.), Goethe and the sciences: A reappraisal (pp. 147-173). Boston: Reidel Publishing Co.</mixed-citation>
+         </ref>
+         <ref id="d13733e918a1310">
+            <mixed-citation id="d13733e922" publication-type="other">
+Bremond, C. (1964). Le message narratif. Communications, 4, 4-32.</mixed-citation>
+         </ref>
+         <ref id="d13733e929a1310">
+            <mixed-citation id="d13733e933" publication-type="other">
+Bremond, C. (1966). La logique des possibles narratifs. Communications, 8, 60-76.</mixed-citation>
+         </ref>
+         <ref id="d13733e940a1310">
+            <mixed-citation id="d13733e944" publication-type="other">
+Burke, K. (1969[1962]). A grammar of motives. Berkeley: University of California Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e952a1310">
+            <mixed-citation id="d13733e956" publication-type="other">
+Carley, K. (1993). Coding choices for textual analysis: a comparison of content analysis and map analysis.
+In P. Marsden (Ed.), Sociological methodology, Vol. 23 (pp. 75-126). Oxford: Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e966a1310">
+            <mixed-citation id="d13733e970" publication-type="other">
+Chafe, W. L. (1970). Meaning and the structure of language. Chicago: The University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e977a1310">
+            <mixed-citation id="d13733e981" publication-type="other">
+Chatman, S. (1978). Story and discourse. Narrative structure in fiction and film. Ithaca: Cornell
+University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e991a1310">
+            <mixed-citation id="d13733e995" publication-type="other">
+Cohan, S., &amp; Shires, L. M. (1988). Telling stories: A theoretical analysis of narrative fiction. New York:
+Routledge.</mixed-citation>
+         </ref>
+         <ref id="d13733e1005a1310">
+            <mixed-citation id="d13733e1009" publication-type="other">
+Collins, R. (1984). Statistics versus words. In R. Collins (Ed.), Sociological theory (pp. 329-62). San
+Francisco: Jossey-Bass Publishers.</mixed-citation>
+         </ref>
+         <ref id="d13733e1019a1310">
+            <mixed-citation id="d13733e1023" publication-type="other">
+Collins, H. M. (1985). Changing order: Replication and induction in scientific practice. Chicago:
+University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1034a1310">
+            <mixed-citation id="d13733e1038" publication-type="other">
+Corbett, M., &amp; Lightbown, R. (1979). The comely frontispiece. The emblematic title-page in England
+1550-1660 London: Rontiedge &amp;. Kegan Paul</mixed-citation>
+         </ref>
+         <ref id="d13733e1048a1310">
+            <mixed-citation id="d13733e1052" publication-type="other">
+Corsaro, W., &amp; Heise, D. (1990). Event structure models from ethnographic data. In C. C. Clogg (Ed.),
+Sociological methodology, Vol. 20 (pp. 1-57). Oxford: Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e1062a1310">
+            <mixed-citation id="d13733e1066" publication-type="other">
+Earl, J., Martin, A., McCarthy, J. D., &amp; Soûle, S. A. (2004). The use of newspaper data in the study of
+collective action. Annual Review of Sociology, 30, 65-80.</mixed-citation>
+         </ref>
+         <ref id="d13733e1076a1310">
+            <mixed-citation id="d13733e1080" publication-type="other">
+Ebach, M. C. (2005). Anschauung and the archetype: the role of Goethe's delicate empiricism in
+comparative biology. Janus Head, 8('), 254-270.</mixed-citation>
+         </ref>
+         <ref id="d13733e1090a1310">
+            <mixed-citation id="d13733e1094" publication-type="other">
+Fararo, T. J. (1993). Generating narrative forms. Journal of Mathematical Sociology, 18(2-3), 153-181.</mixed-citation>
+         </ref>
+         <ref id="d13733e1101a1310">
+            <mixed-citation id="d13733e1105" publication-type="other">
+Fararo, T. J., &amp; Skvoretz, J. (1986). Action and institution, network and function: the cybernetic concept
+of social structure. Sociological Forum, 7(2), 219-250.</mixed-citation>
+         </ref>
+         <ref id="d13733e1116a1310">
+            <mixed-citation id="d13733e1120" publication-type="other">
+Fink, K. J. (1991). Goethe's history of science. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1127a1310">
+            <mixed-citation id="d13733e1131" publication-type="other">
+Franzosi, R. (1987). The press as a source of socio-historical data: issues in the methodology of data
+collection from newspapers. Historical Methods, 20(1), 5-16.</mixed-citation>
+         </ref>
+         <ref id="d13733e1141a1310">
+            <mixed-citation id="d13733e1145" publication-type="other">
+Franzosi, R. (1989). From words to numbers: a generalized and linguistics-based coding procedure for
+collecting event-data from newspapers. In C. Clogg (Ed.), Sociological methodology, Vol. 19 (pp.
+263-298). Oxford: Basil Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e1158a1310">
+            <mixed-citation id="d13733e1162" publication-type="other">
+Franzosi, R. (1990). Strategies for the prevention, detection and correction of measurement error in data
+collected from textual sources. Sociological Methods and Research, 18(4), 442-471.</mixed-citation>
+         </ref>
+         <ref id="d13733e1172a1310">
+            <mixed-citation id="d13733e1176" publication-type="other">
+Franzosi, R. (1994a). From words to numbers: a set theory framework for the collection, organization, and
+analysis of narrative data. In P. Marsden (Ed.), Sociological methodology, Vol. 24 (pp. 105-136).
+Oxford: Basil Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e1189a1310">
+            <mixed-citation id="d13733e1193" publication-type="other">
+Franzosi, R. (1994b). Outside and inside the regression black box: a new approach to data analysis.
+Quality and Quantity, 28, 21-53.</mixed-citation>
+         </ref>
+         <ref id="d13733e1204a1310">
+            <mixed-citation id="d13733e1208" publication-type="other">
+Franzosi, R. (1996). A sociologist meets history: critical reflections upon practice. Journal of Historical
+Sociology, 9(3), 354-392.</mixed-citation>
+         </ref>
+         <ref id="d13733e1218a1310">
+            <mixed-citation id="d13733e1222" publication-type="other">
+Franzosi, R. (1998). Narrative as data. Linguistic and statistical tools for the quantitative study of historical
+events. In M. van der Linden, &amp; L. Griffin (Eds.), New methods in historical sociology/social history.
+Special issue oí International Review of Social History. New Methods in Historical Sociology/Social
+History, Vol. 43 (pp. 81-104).</mixed-citation>
+         </ref>
+         <ref id="d13733e1238a1310">
+            <mixed-citation id="d13733e1242" publication-type="other">
+Franzosi, R. (1999). The return of the actor, networks of interactions among social actors during periods of
+high mobilization (Italy, 1919-22). In D. Rucht, R. Koopmans (Eds.), Protest event analysis. Special
+issue of Mobilization, Vol. 4, No. 2 (pp. 131-149).</mixed-citation>
+         </ref>
+         <ref id="d13733e1255a1310">
+            <mixed-citation id="d13733e1259" publication-type="other">
+Franzosi, R. (2004a). From words to numbers: Narrative, data, and social science. Cambridge:
+Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1269a1310">
+            <mixed-citation id="d13733e1273" publication-type="other">
+Franzosi, R. (2004b). Content analysis. In A. Bryman &amp; M. Hardy (Eds.), Handbook of data analysis (pp.
+547-566). Thousand Oaks: Sage.</mixed-citation>
+         </ref>
+         <ref id="d13733e1283a1310">
+            <mixed-citation id="d13733e1287" publication-type="other">
+Franzosi, R. (2008). Content analysis, 4 vols. Thousand Oaks: Sage.</mixed-citation>
+         </ref>
+         <ref id="d13733e1295a1310">
+            <mixed-citation id="d13733e1299" publication-type="other">
+Franzosi, R. (2009). Narratives and networks: Mapping social relations during revolutionary periods
+(Italy, 1919-1922). Paper submitted for publication to Politics &amp; Society.</mixed-citation>
+         </ref>
+         <ref id="d13733e1309a1310">
+            <mixed-citation id="d13733e1313" publication-type="other">
+Franzosi, R. (2010). Quantitative narrative analysis. Thousand Oaks: Sage.</mixed-citation>
+         </ref>
+         <ref id="d13733e1320a1310">
+            <mixed-citation id="d13733e1324" publication-type="other">
+Frege, G. (1948). Sense and reference. The Philosophical Review, 57(3), 209-230.</mixed-citation>
+         </ref>
+         <ref id="d13733e1331a1310">
+            <mixed-citation id="d13733e1335" publication-type="other">
+Gage, J. (1993). Colour and culture. Practice and meaning from antiquity to abstraction. Little, Brown
+and Company: Boston.</mixed-citation>
+         </ref>
+         <ref id="d13733e1345a1310">
+            <mixed-citation id="d13733e1349" publication-type="other">
+Genette, G. (1980[1972]). Narrative discourse: An essay in method. Ithaca: Cornell University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1356a1310">
+            <mixed-citation id="d13733e1360" publication-type="other">
+Gibson, D. (2000). Seizing the moment: the problem of conversational agency. Sociological Theory, 18(3),
+368-382.</mixed-citation>
+         </ref>
+         <ref id="d13733e1371a1310">
+            <mixed-citation id="d13733e1375" publication-type="other">
+Gibson, D. (2003). Participation shifts: order and differentiation in group conversation. Social Forces, 81
+(4), 1135-1181.</mixed-citation>
+         </ref>
+         <ref id="d13733e1385a1310">
+            <mixed-citation id="d13733e1389" publication-type="other">
+Gibson, D. (2005a). Taking turns and talking ties: network structure and conversational sequences. The
+American Journal of Sociology, 110(6), 1561-1597.</mixed-citation>
+         </ref>
+         <ref id="d13733e1399a1310">
+            <mixed-citation id="d13733e1403" publication-type="other">
+Gibson, D. (2005b). Concurrency and commitment: network scheduling and its consequences for
+diffusion. Journal of Mathematical Sociology, 29(4), 295-323.</mixed-citation>
+         </ref>
+         <ref id="d13733e1413a1310">
+            <mixed-citation id="d13733e1417" publication-type="other">
+Glaser, B. G., &amp; Strauss, A. L. (1967). The discovery of grounded theory: Strategies for qualitative
+research. New York: Aldine.</mixed-citation>
+         </ref>
+         <ref id="d13733e1427a1310">
+            <mixed-citation id="d13733e1431" publication-type="other">
+Gonzalez García, J. M. (1992). Las huellas de Fausto. La herencia de Goethe en la sociología de Max
+Weber. Madrid: Tecnos.</mixed-citation>
+         </ref>
+         <ref id="d13733e1441a1310">
+            <mixed-citation id="d13733e1445" publication-type="other">
+Hallidav. M. A. K. 09940 985 Y). An introduction to functional grammar. London: Edward Arnold.</mixed-citation>
+         </ref>
+         <ref id="d13733e1453a1310">
+            <mixed-citation id="d13733e1457" publication-type="other">
+Heise, D. R. (1979). Understanding events: Affect and the construction of social action. New York:
+Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1467a1310">
+            <mixed-citation id="d13733e1471" publication-type="other">
+Heise, D. R. (1989). Modeling event structures. Journal of Mathematical Sociology, 14, 139-169.</mixed-citation>
+         </ref>
+         <ref id="d13733e1478a1310">
+            <mixed-citation id="d13733e1482" publication-type="other">
+Herrnson, P. S. (1995). Replication, Verification, Secondary Analysis, and Data Collection in Political
+Science. Political Science and Politics, 28(3), 452-455.</mixed-citation>
+         </ref>
+         <ref id="d13733e1492a1310">
+            <mixed-citation id="d13733e1496" publication-type="other">
+Heisenberg, W. (1974). Goethe's view of nature and the world of science and technology. In: Across the
+frontiers (pp. 122-141). Translated from the German by Peter Heath. New York: Harper &amp; Row.
+Lecture originally published in German in 1967 in Goethe-New Series of the Goethe Society
+Yearbook, ed. Andreas B. Wachsmuth, Vol. 29, Weimar, pp. 27-42.</mixed-citation>
+         </ref>
+         <ref id="d13733e1512a1310">
+            <mixed-citation id="d13733e1516" publication-type="other">
+Heisenberg, W. (1952). The Teachings of Goethe and Newton on Colour in the Light of Modern Phsyics.
+In: Philosophic problems of nuclear science (pp. 60-76). Translated by F. C. Hayes. New York:
+Pantheon Books. Lecture originally published in German in 1941 in Geist der Zeit, 19:261-275.</mixed-citation>
+         </ref>
+         <ref id="d13733e1529a1310">
+            <mixed-citation id="d13733e1533" publication-type="other">
+Keller, E. F. (1983). A feeling for the organism: The life and work of Barbara McClintock. New York:
+Henry Holt.</mixed-citation>
+         </ref>
+         <ref id="d13733e1544a1310">
+            <mixed-citation id="d13733e1548" publication-type="other">
+King, G. (1995). Replication, replication. Political Science and Politics, 28(3), 443-499.</mixed-citation>
+         </ref>
+         <ref id="d13733e1555a1310">
+            <mixed-citation id="d13733e1559" publication-type="other">
+Kohler Riessman, C. (1993). Narrative analysis. Thousand Oaks: Sage.</mixed-citation>
+         </ref>
+         <ref id="d13733e1566a1310">
+            <mixed-citation id="d13733e1570" publication-type="other">
+Labov, W. (1972). Language in the Inner City. Philadelphia: University of Pennsylvania Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1577a1310">
+            <mixed-citation id="d13733e1581" publication-type="other">
+Labov, W., &amp; Waletzky, J. (1967). Narrative analysis. In J. Helm (Ed.), Essays on the verbal and visual
+arts (pp. 12-44). Seattle: University of Washington Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1591a1310">
+            <mixed-citation id="d13733e1595" publication-type="other">
+Lakoff, G., &amp; Johnson, M. (1980). Metaphors we live by. Chicago: University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1602a1310">
+            <mixed-citation id="d13733e1606" publication-type="other">
+Levine, J. (1993). Exceptions are the rule. An inquiry into methods in the social sciences. Boulder:
+Westview Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1617a1310">
+            <mixed-citation id="d13733e1621" publication-type="other">
+Lévi-Strauss, C. (1960). La structure et la forme. Reflexions sur un ouvrage de Vladimir Propp. Cahiers de
+I' Institute de Science économique appliquée. Series M, No. 7, 1-36. Reprinted in International journal of
+Slavic Linguistics and Poetics 3 (1960): 122-149, under the title "L'analyse morphologique des contes
+russes." Its English translation appeared in Claude Lévi-Strauss, 1976, 115-145, Structural Anthropology.
+Volume 2. Translated from the French by Monique Lay. New York: Basic Books.</mixed-citation>
+         </ref>
+         <ref id="d13733e1640a1310">
+            <mixed-citation id="d13733e1644" publication-type="other">
+Lévi-Strauss, C. (1984a). Structure and form: Reflections on a work by Vladimir Propp. In: Vladimir
+Propp. Theory and History of Folklore (pp. 167-188). Translated by Ariadna Y. Martin and Richard P.
+Martin and others. Edited, with an introduction and notes, by Anatoly Liberman. Minneapolis:
+University of Minnesota Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1660a1310">
+            <mixed-citation id="d13733e1664" publication-type="other">
+Lévi-Strauss, C. (1984b). Postscript. In: Vladimir Propp, Theory and History of Folklore (p. 189).
+Translated by Ariadna Y. Martin and Richard P. Martin and others. Edited, with an introduction and
+notes, by Anatoly Liberman. Minneapolis: University of Minnesota Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1677a1310">
+            <mixed-citation id="d13733e1681" publication-type="other">
+Matthaei, R. (1971). Goethe's colour theory. Arranged and edited by Rupprecht Matthaei. London: Studio Vista.</mixed-citation>
+         </ref>
+         <ref id="d13733e1688a1310">
+            <mixed-citation id="d13733e1692" publication-type="other">
+McCullough, B. D., &amp; Vinod, H. D. (1999). The numerical reliability of econometric software. Journal of
+Economic Literature, 37(2), 633-665.</mixed-citation>
+         </ref>
+         <ref id="d13733e1702a1310">
+            <mixed-citation id="d13733e1706" publication-type="other">
+McCullough, B. D., &amp; Vinod, H. D. (2003a). Verifying the solution from a nonlinear solver: a case study.
+The American Economic Review, 93(3), 873-892.</mixed-citation>
+         </ref>
+         <ref id="d13733e1717a1310">
+            <mixed-citation id="d13733e1721" publication-type="other">
+McCullough, B. D., &amp; Vinod, H. D. (2003b). Econometrics and software. The Journal of Economic
+Perspectives, 17(1), 223-224.</mixed-citation>
+         </ref>
+         <ref id="d13733e1731a1310">
+            <mixed-citation id="d13733e1735" publication-type="other">
+Medawar, P. B. (1979). Advice to a young scientist. New York: Basic Books.</mixed-citation>
+         </ref>
+         <ref id="d13733e1742a1310">
+            <mixed-citation id="d13733e1746" publication-type="other">
+Merton, R. K. (1973 [195 7]). The sociology of science. Theoretical and empirical investigations. Edited
+and with an introduction by Norman W. Storer. Chicago, IL: The University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1756a1310">
+            <mixed-citation id="d13733e1760" publication-type="other">
+Monk, R. (1991). Ludwig Wittgenstein. The duty of genius. London: Vintage.</mixed-citation>
+         </ref>
+         <ref id="d13733e1767a1310">
+            <mixed-citation id="d13733e1771" publication-type="other">
+Olzak, S. (1989). Analysis of events in the study of collective action. Annual Review of Sociology, 15, 119-141.</mixed-citation>
+         </ref>
+         <ref id="d13733e1778a1310">
+            <mixed-citation id="d13733e1782" publication-type="other">
+Ortiz, D. G., Myers, D. J., Walls, E. N., &amp; Diaz, M.-E. D. (2005). Where do we stand with newspaper
+data? Mobilization: An International Ouarterlv, 10(3' 397-419.</mixed-citation>
+         </ref>
+         <ref id="d13733e1793a1310">
+            <mixed-citation id="d13733e1797" publication-type="other">
+Palmer. F. R. (1994Y Grammatical roles and relations. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1804a1310">
+            <mixed-citation id="d13733e1808" publication-type="other">
+Prince, G. (1973). A grammar of stories; an introduction. De proprietatibus litterarum; Series minor; Vol.
+13. Paris: Mouton.</mixed-citation>
+         </ref>
+         <ref id="d13733e1818a1310">
+            <mixed-citation id="d13733e1822" publication-type="other">
+Propp, V (1928). Morfologia skazki [Morphology of the folktale]. Gosudarstvennyj Institut istorii
+iskusstv. Voprosy poètiki, vol. 12. Leningrad: Academia.</mixed-citation>
+         </ref>
+         <ref id="d13733e1832a1310">
+            <mixed-citation id="d13733e1838" publication-type="other">
+Propp, V. (1958[1928]). Morphology of the folktale. Edited with an introduction by Svatava Pirkova-
+Jakobson. Translated by Laurence Scott. Indiana University Research Center in Anthropology,
+Folklore, and Linguistics, Publication 10. Bloomington, Indiana. International Journal of American
+Linguistics 14 (4). Bibliographical and Special Series of the American Folklore Society 9.
+Philadelphia.</mixed-citation>
+         </ref>
+         <ref id="d13733e1857a1310">
+            <mixed-citation id="d13733e1861" publication-type="other">
+Propp, V. (1966). Struttura e storia nello studio della favola. In: Morfologia della fiaba. Con un intervento
+di Claude Lévi-Strauss e una replica dell' autore. 201-27. Turin: Einaudi.</mixed-citation>
+         </ref>
+         <ref id="d13733e1871a1310">
+            <mixed-citation id="d13733e1875" publication-type="other">
+Propp, V. (1984). Theory and history of folklore. Translated by Ariadna Y. Martin and Richard P. Martin
+and others. Edited, with an Introduction and Notes, by Anatoly Liberman. Minneapolis: University of
+Minnesota Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1889a1310">
+            <mixed-citation id="d13733e1893" publication-type="other">
+Ricoeur, P. (1984). Time and narrative. Vol. 1. Translated by Kathleen McLaughlin and David Pellauer.
+Chicago, IL: The University of Chicago Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1903a1310">
+            <mixed-citation id="d13733e1907" publication-type="other">
+Rimmon-Kenan, S. (1983). Narrative fiction: Contemporary poetics. London: Methuen.</mixed-citation>
+         </ref>
+         <ref id="d13733e1914a1310">
+            <mixed-citation id="d13733e1918" publication-type="other">
+Robbins, B. D., &amp; C. Holdrege (Eds.). (2005). Goethe's delicate empiricism. Janus Head, Vol. 8, No. 1.</mixed-citation>
+         </ref>
+         <ref id="d13733e1925a1310">
+            <mixed-citation id="d13733e1929" publication-type="other">
+Seamon, D. (1998). Goethe, nature, and phenomenology: An introduction. In D. Seamon &amp; A. Zajonc
+(Eds.), Goethe's way of science (pp. 1-14). Albany: State University of New York Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1939a1310">
+            <mixed-citation id="d13733e1943" publication-type="other">
+Seamon, D., &amp; Zajonc, A. (Eds.). (1998). Goethe's way of science. Albany: State University of New York Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e1950a1310">
+            <mixed-citation id="d13733e1954" publication-type="other">
+Skvoretz, J. (1993). Generating narratives from simple action structures. Journal of Mathematical
+Sociology, 18(2-3), 135-140.</mixed-citation>
+         </ref>
+         <ref id="d13733e1965a1310">
+            <mixed-citation id="d13733e1969" publication-type="other">
+Skvoretz, J., &amp; Fararo, T. J. (1989). Action structures and sociological action theory. Journal of
+Mathematical Sociology, 14(2-3), 111-137.</mixed-citation>
+         </ref>
+         <ref id="d13733e1979a1310">
+            <mixed-citation id="d13733e1983" publication-type="other">
+Skvoretz, J., &amp; Fararo, T. J. (1996). Generating symbolic interaction: production system models.
+Sociological Methods and Research, 25, 60-102.</mixed-citation>
+         </ref>
+         <ref id="d13733e1993a1310">
+            <mixed-citation id="d13733e1997" publication-type="other">
+Smith, T. (2007). Narrative boundaries and the dynamics of ethnic conflict and conciliation. Poetics, 35,
+22-46.</mixed-citation>
+         </ref>
+         <ref id="d13733e2007a1310">
+            <mixed-citation id="d13733e2011" publication-type="other">
+Steiner, P. (1980/81). Three metaphors of Russian formalism. Poetics Today 2(lb), 59-116.</mixed-citation>
+         </ref>
+         <ref id="d13733e2018a1310">
+            <mixed-citation id="d13733e2022" publication-type="other">
+Steiner, P. (1986). Russian formalism: A metapoetics. Ithaca: Cornell University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e2029a1310">
+            <mixed-citation id="d13733e2033" publication-type="other">
+Steiner, P., &amp; Davydov, S. (1977). The biological metaphor in Russian formalism: the concept of
+morphology. Substance, 6(16), 149-158.</mixed-citation>
+         </ref>
+         <ref id="d13733e2044a1310">
+            <mixed-citation id="d13733e2048" publication-type="other">
+Todorov, T. (1977[19711). The poetics of prose. Oxford: Basil Blackwell.</mixed-citation>
+         </ref>
+         <ref id="d13733e2055a1310">
+            <mixed-citation id="d13733e2059" publication-type="other">
+Todorov, T. (1981 [1968]). Introduction to poetics. Sussex: The Harvester Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e2066a1310">
+            <mixed-citation id="d13733e2070" publication-type="other">
+Todorov, T. (1990[1978]). Genres in discourse. Cambridge: Cambridge University Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e2077a1310">
+            <mixed-citation id="d13733e2081" publication-type="other">
+Tomashevski, B. (1965 [1925]). Thematics. In L. Lee, &amp; M. Reis (Eds.), Russian formalist criticism: Four
+essays (pp. 61-95). Lincoln: University of Nebraska Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e2091a1310">
+            <mixed-citation id="d13733e2095" publication-type="other">
+Toolan, M. (1988). Narrative: A critical linguistic introduction. London: Routledge.</mixed-citation>
+         </ref>
+         <ref id="d13733e2102a1310">
+            <mixed-citation id="d13733e2106" publication-type="other">
+Touraine, A. (1984). Le retour de l'acteur: Essai de sociologie. Paris: Fayard.</mixed-citation>
+         </ref>
+         <ref id="d13733e2114a1310">
+            <mixed-citation id="d13733e2118" publication-type="other">
+Trew, A. (1979). Theory and ideology at work. In R. Fowler, R. Hodge, G. Kress, &amp; A. Trew (Eds.),
+Language and control (pp. 94-116). London: Routledge &amp; Kegan Paul.</mixed-citation>
+         </ref>
+         <ref id="d13733e2128a1310">
+            <mixed-citation id="d13733e2132" publication-type="other">
+van Dijk, T. (1980). Story comprehension: an introduction. Poetics, 9, 1-21.</mixed-citation>
+         </ref>
+         <ref id="d13733e2139a1310">
+            <mixed-citation id="d13733e2143" publication-type="other">
+van Dijk, T. (1983). Discourse analysis: its development and application to the structure of news. Journal
+of Communication, 33, 20-43.</mixed-citation>
+         </ref>
+         <ref id="d13733e2153a1310">
+            <mixed-citation id="d13733e2157" publication-type="other">
+von Goethe, J. W. (1970 [1840]). Theory of colours. Translated from the German with notes by Charles
+Lock Eastlake. Introduction by Deane B. Judd. Cambridge, Mass.: The M.I.T. Press.</mixed-citation>
+         </ref>
+         <ref id="d13733e2167a1310">
+            <mixed-citation id="d13733e2171" publication-type="other">
+von Goethe, J. W. (1988). Scientific studies. Edited and translated by Douglas Miller. Vol. 12, Suhrkamp
+Edition in 12 Volumes. New York: Suhrkamp Publishers.</mixed-citation>
+         </ref>
+         <ref id="d13733e2181a1310">
+            <mixed-citation id="d13733e2185" publication-type="other">
+von Goethe, J. W. (1996). Goethe on science. An anthology of Goethe's scientific writings. Selected and
+introduced by Jeremy Naydler. With a Ffrward by Henri Bortoft. Edinburgh: Floris Books.</mixed-citation>
+         </ref>
+         <ref id="d13733e2196a1310">
+            <mixed-citation id="d13733e2200" publication-type="other">
+von Goethe, J. W. (1998). Maxims and reflections. Translation by Elisabeth Stopp and introduction and
+notes by Peter Hutchinson. London: Penguin Books.</mixed-citation>
+         </ref>
+         <ref id="d13733e2210a1310">
+            <mixed-citation id="d13733e2214" publication-type="other">
+Weber, M. (1975 [1926]). Max Weber: A biography. Translated from the German and edited by Harry
+Zohn. New York: Wiley.</mixed-citation>
+         </ref>
+         <ref id="d13733e2224a1310">
+            <mixed-citation id="d13733e2228" publication-type="other">
+White, H. V (1987). The Content of the form. Narrative discourse and historical representation.
+Baltimore: The Johns Hopkins University Press.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

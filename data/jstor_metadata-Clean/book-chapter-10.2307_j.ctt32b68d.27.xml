@@ -1,0 +1,773 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32b68d</book-id>
+      <subj-group>
+         <subject content-type="call-number">BP172.B834 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Islam</subject>
+         <subj-group>
+            <subject content-type="lcsh">Relations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Christianity</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Christianity and other religions</subject>
+         <subj-group>
+            <subject content-type="lcsh">Islam</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Taqlid</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Tradition (Theology)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Islamic modernism</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Modernism (Christian theology)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Tradition and Modernity</book-title>
+         <subtitle>Christian and Muslim Perspectives</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>MARSHALL</surname>
+               <given-names>DAVID</given-names>
+            </name>
+            <role>Editor</role>
+         </contrib>
+         <contrib contrib-type="other" id="contrib2">
+            <role>Afterword by</role>
+            <name name-style="western">
+               <surname>Williams</surname>
+               <given-names>Rowan</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>20</day>
+         <month>05</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781589019492</isbn>
+      <isbn content-type="ppub">1589019490</isbn>
+      <isbn content-type="epub">9781589019829</isbn>
+      <isbn content-type="epub">1589019822</isbn>
+      <publisher>
+         <publisher-name>Georgetown University Press</publisher-name>
+         <publisher-loc>Washington, DC</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Georgetown University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt32b68d"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Tradition and Modernity</italic>focuses on how Christians and Muslims connect their traditions to modernity, looking especially at understandings of history, changing patterns of authority, and approaches to freedom. The volume includes a selection of relevant texts from 19th- and 20th-century thinkers, from John Henry Newman to Tariq Ramadan, accompanied by illuminating commentaries.</p>
+      </abstract>
+      <counts>
+         <page-count count="248"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.3</book-part-id>
+                  <title-group>
+                     <title>Participants</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARSHALL</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This volume is a record of the proceedings of the ninth Building Bridges seminar for Christian and Muslim scholars, convened by the Archbishop of Canterbury, Dr. Rowan Williams, and held at Georgetown University, Washington, DC, from May 25–27, 2010. The focus of this seminar on Christian and Muslim approaches to the relationship between tradition and modernity was a natural continuation of discussions at earlier Building Bridges seminars, notably on the interface between science and religion in 2009. Following an established pattern, after an opening day of public lectures, the second and third days were spent in private sessions discussing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.6</book-part-id>
+                  <title-group>
+                     <title>Tradition and History in Islam:</title>
+                     <subtitle>Primitivism in Islamic Thought and Scripture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CORNELL</surname>
+                           <given-names>VINCENT J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>7</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This remarkable passage was written in the late 1580s by ʿAbd al-ʿAzīz al-Fishtālī (d. 1621), the court historian of the Moroccan Sultan Aḥmad al-Manṣūr al-Dhahbī (“The Golden Conqueror,” r. 1578–1603). Aḥmad al-Manṣūr’s father, Muḥammad al-Shaykh al-Mahdī (d. 1557), reunited Morocco after more than a century of civil war and foreign invasion. He was a descendant of the Prophet Muḥammad and claimed for himself the caliphal titles of <italic>amīr al-muʾ minīn</italic> (Commander of the Faithful) and imām. Aḥmad al-Manṣūr was the greatest ruler of the Saʿdian Dynasty, which dominated Morocco from 1554 to 1659. In many ways his reign was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.7</book-part-id>
+                  <title-group>
+                     <title>Tradition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOSKICE</surname>
+                           <given-names>JANET</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Tradition, put simply, is what is handed on. The English word “tradition” derives from the Latin “to hand over, to deliver.”</p>
+                     <p>It may be helpful, before specifically discussing “tradition” in Christian thought, to consider how much in human life is “passed on” by others. Here are two musical examples. The first is from my own workplace—the choristers of the Jesus College chapel. I want to draw attention not to the antiquity of the particular pieces of music they sing (for they sing works both ancient and modern) but to the practice of choral singing itself. The choir is composed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.8</book-part-id>
+                  <title-group>
+                     <title>Religious Authority and the Challenges of Modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JENKINS</surname>
+                           <given-names>PHILIP</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Societies live by their myths. If asked about the modern history of religious authority, many Americans at least would turn to the legendary 1925 Scopes trial, the bitter confrontation between supporters and critics of Darwinian evolution, as mediated through the film <italic>Inherit the Wind</italic> (1960). Here, we think, reason and science ran rings around obscurantism and faith, and that victory marked the end of the Bible’s credibility as an infallible source of divine wisdom. While obviously this did not mark the end of religion, it set strict limits to the scope of religion’s claims, particularly in the public sphere. Religion,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.9</book-part-id>
+                  <title-group>
+                     <title>Between Traditional and New Forms of Authority in Modern Islam</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ŞENTÜRK</surname>
+                           <given-names>RECEP</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract abstract-type="extract">
+                     <p>If the traditional authority structure in Islam had always been polyphonic, modernization made it even more so. “Islam” means submission to God’s authority alone, as expressed in the divine revelation, the Qurʾān and the Ḥadīth. Yet the authority to interpret the divine revelation is not the monopoly of a person, group, or institution. On the contrary, all Muslims, men and women, are required to study the Qurʾān and even memorize some of it.¹ The only source of authority is expertise and knowledge, which the ʿ<italic>ulamā</italic>ʾ, scholars of religion, enjoyed over the centuries. Secularization, the spread of education, developments in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.10</book-part-id>
+                  <title-group>
+                     <title>Freedoms of Speech and Religion in the Islamic Context</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AN-NAʿIM</surname>
+                           <given-names>ABDULLAHI AHMED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One premise of this essay is that freedoms of speech and religion are necessary means for each human person to pursue what she holds as the ultimate purpose and meaning of her life. In other words, people tend to link the value of rights such as freedoms of speech and religion to the purpose for which they are asserting those rights rather than to affirm them for their independent abstract value. This does not mean that entitlement to the right should be made conditional upon satisfying some commonly preconceived purpose of free speech or authoritatively sanctioned meaning of the religion</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.11</book-part-id>
+                  <title-group>
+                     <title>Christianity, Modernity, and Freedom</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HART</surname>
+                           <given-names>DAVID BENTLEY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>67</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Modernity—to the degree that it was or is a kind of cultural project or epochal ideology—understands itself as the history of freedom. Or rather, I suppose I should say, the one grand cultural and historical narrative that we as modern persons tend to share, and that most sharply distinguishes a modern from a premodern vision of society, is the story of liberation, the story of the ascent of the individual out of the shadows of hierarchy and subsidiary identity into the light of full recognition, dignity, and autonomy. And a powerful narrative it is, whether we prefer it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.12</book-part-id>
+                  <title-group>
+                     <title>John Henry Newman (1801–90)</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newman</surname>
+                           <given-names>John Henry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The following essay is directed towards a solution of the difficulty which has been stated,—the difficulty, as far as it exists, which lies in the way of our using in controversy the testimony of our most natural informant concerning the doctrine and worship of Christianity, viz. the history of eighteen hundred years. The view on which it is written has at all times, perhaps, been implicitly adopted by theologians, and, I believe, has recently been illustrated by several distinguished writers of the continent, such as De Maistre and Möhler: viz. that the increase and expansion of the Christian Creed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.13</book-part-id>
+                  <title-group>
+                     <title>Newman on Revelation, Hermeneutics, and Conscience</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FIELDS</surname>
+                           <given-names>STEPHEN M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract abstract-type="extract">
+                     <p>John henry newman (1801–90) stands undoubtedly as the most important Catholic thinker to emerge between the Council of Trent of the sixteenth century and the Second Vatican Council of 1963–65. If the first council posited Catholicism’s authoritative answer to the Protestant reformers, the second rightly hails Newman as its “Father.”¹ His influential essay on the development of Christian doctrine put forth a theory that made possible the council’s work of expanding Catholicism’s traditional teachings with fresh insights, precisely in order to perfect their meaning. Because the council provided a major impetus for the last half-century’s movements in ecumenism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.14</book-part-id>
+                  <title-group>
+                     <title>Muḥammad ʿAbduh (1849–1905)</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ʿAbduh</surname>
+                           <given-names>Muḥammad</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>97</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The europeans believe that there is no difference between the doctrine of destiny and fate (<italic>al-qaḍāʾ wa al-qadar</italic>) and the doctrine of the theological school of the Predestinarians (<italic>al-Jabrīyya</italic>), who say that the human being is compelled absolutely in all of his acts. They imagine that with the doctrine of destiny (<italic>al-qaḍāʾ</italic>) Muslims see themselves as a feather floating in the air and buffeted by the wind wherever it goes. Indeed, if it were to occur to the minds of people that they have no choice in word or deed or in motion or rest, and that all of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.15</book-part-id>
+                  <title-group>
+                     <title>Muḥammad ʿAbduh:</title>
+                     <subtitle>A Sufi-Inspired Modernist?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CORNELL</surname>
+                           <given-names>VINCENT J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Chronologically the earliest of the Muslim reformers to be discussed in this volume, Muḥammad ʿAbduh is the most ambiguous in terms of understanding the full extent of his legacy in the century since his death. With the possible exception of his teacher and political mentor Jamāl al-Dīn al-Afghānī (1838–97), he is arguably the most overinterpreted figure in modern Islamic thought. Indeed, it may be useful to think of ʿAbduh as the “Illustrated Man” of contemporary Sunnī Islam. Much as with the figure that is the frame device for Ray Bradbury’s classic work of science fiction,¹ the stories that are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.16</book-part-id>
+                  <title-group>
+                     <title>Sayyid Abū l-Aʿlāʾ Mawdūdī (1903–79)</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mawdūdī</surname>
+                           <given-names>Sayyid Abū l-Aʿlāʾ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Now I wish you further to understand clearly the principles of modern civilization which we desire to uproot and also the principles which we want to establish in their place.</p>
+                     <p>Modern civilization on which revolves the whole present-day organisation of the world (intellectual, moral, cultural, political and economic) is, in reality, based on three fundamental principles which are:</p>
+                     <p>1. Secularism, that is irreligiousness or worldliness;</p>
+                     <p>2. Nationalism; and</p>
+                     <p>3. Democracy.</p>
+                     <p>Of these the first principle “secularism” implies that the Divine guidance, the worship of God, and obedience to Him should be confined to the personal life of each individual and except for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.17</book-part-id>
+                  <title-group>
+                     <title>Mawdūdī and the Challenges of Modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAEED</surname>
+                           <given-names>ABDULLAH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Abū l-a ʿlāʾ mawdūdī (often referred to as Mawlānā Mawdūdī) was born in 1903 as the youngest of three sons. He lived with his family in Aurangabad, a well-known town in the former state of Hyderabad (Deccan, now known as Maharashtra), in India. His family was strongly religious and had a long tradition of spiritual leadership, with a number of Mawdūdī’s ancestors serving as leaders of Sufi orders. Mawdūdī attended high school and began undergraduate studies, but these were interrupted by the death of his father. However he continued to educate himself with the help of various prominent scholars, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.18</book-part-id>
+                  <title-group>
+                     <title>Lesslie Newbigin (1909–98)</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newbigin</surname>
+                           <given-names>Lesslie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The christian mission is the clue to world history, not in the sense that it is the “winning side” in the battle with the other forces of human history, but in the sense that it is the point at which the meaning of history is understood and at which men are required to make the final decisions about that meaning. It is, so to say, not the motor but the blade, not the driving force but the cutting edge. Christians do not go through the battles of history as the master race. They go through them as the servant people,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.19</book-part-id>
+                  <title-group>
+                     <title>Newbigin and the Critique of Modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WESTON</surname>
+                           <given-names>PAUL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Following lesslie newbigin’s death in 1998, the obituary in <italic>The Times</italic> described him as “one of the foremost missionary statesmen of his generation,” and “one of the outstanding figures on the world Christian stage in the second half of the century.”¹ Born in 1909 to Quaker parents, he studied at Cambridge University and went to India in 1936 as an ordained missionary with the Church of Scotland. He spent the best part of thirty-eight years there until retirement in 1974. During his early years there, he was involved in the discussions that led to the formation of the ecumenical Church</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.20</book-part-id>
+                  <title-group>
+                     <title>Alasdair MacIntyre (1929– )</title>
+                     <subtitle>Text</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacIntyre</surname>
+                           <given-names>Alasdair</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It is now possible to return to the question from which this enquiry into the nature of human action and identity started: In what does the unity of an individual life consist? The answer is that its unity is the unity of a narrative embodied in a single life. To ask “What is the good for me?” is to ask how best I might live out that unity and bring it to completion. To ask “What is the good for man?” is to ask what all answers to the former question must have in common. But now it is important</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.21</book-part-id>
+                  <title-group>
+                     <title>MacIntyre on Tradition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILBANK</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Is the notion of tradition applicable to all cultural phenomena, both secular and religious? Or is it to be associated especially with religious phenomena? We speak very easily of both cultural and religious traditions, and in general we tend to contrast a “traditioned” mode of life with a “modern” mode of life that is seen as having emanated from the West. “Tradition” as a category then appears to be at once global, ecumenical, and nostalgic. It is seen in contrast to the “modern,” which—though contemporary and now global—is also regarded as parochial because of its specifically European lineage.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.22</book-part-id>
+                  <title-group>
+                     <title>Seyyed Hossein Nasr (1933– )</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nasr</surname>
+                           <given-names>Seyyed Hossein</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The contemporary muslim who lives in the far corners of the Islamic world and has remained isolated and secluded from the influence of modernism may be said to live still within a homogeneous world in which the tensions of life are those of normal human existence. But the Muslim who lives in the centres of the Islamic world touched in one degree or another by modernism lives within a polarized field of tension created by two contending world views and systems of values. This tension is often reflected within his mind and soul, and he usually becomes a house divided</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.23</book-part-id>
+                  <title-group>
+                     <title>Seyyed Hossein Nasr on Tradition and Modernity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LUMBARD</surname>
+                           <given-names>JOSEPH E. B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Born in tehran in 1933, Seyyed Hossein Nasr has been at the forefront of discussions of the relation between Islam and modernity for more than four decades. He has published more than five hundred articles and more than fifty books that have been translated into some twenty languages. Nasr is one of only three intellectuals who have delivered the Gifford Lectures in Natural Theology (1980–81) and also been included in the Library of Living Philosophers (2000), the others being John Dewey (Gifford 1928–29, Library 1939) and Alfred North Whitehead (Gifford 1927–28, Library 1941). <italic>Knowledge and the Sacred</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.24</book-part-id>
+                  <title-group>
+                     <title>Elisabeth Schüssler Fiorenza (1938– )</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fiorenza</surname>
+                           <given-names>Elisabeth Schüssler</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the greek old testament <italic>ekklēsia</italic> means the “assembly of the people of Israel before God.” In the New Testament <italic>ekklēsia</italic> comes through the agency of the Spirit to visible, tangible expression in and through the gathering of God’s people around the table, eating together a meal, breaking the bread, and sharing the cup in memory of Christ’s passion and resurrection. <italic>Christian</italic> spirituality means eating together, sharing together, drinking together, talking with each other, receiving each other, experiencing God’s presence through each other, and, in doing so, proclaiming the gospel as God’s alternative vision for everyone, especially for those who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.25</book-part-id>
+                  <title-group>
+                     <title>Elisabeth Schüssler Fiorenza:</title>
+                     <subtitle>A Christian Feminist Responds to Betrayals of the Tradition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARDNER</surname>
+                           <given-names>LUCY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The theme of tradition, the handing on of something to be both treasured and handed on again, harbors within it the apparently counter theme of betrayal. All traditions are vulnerable to betrayal for, in the very process of handing on, the original gift may be distorted or even lost. Different traditions no doubt develop different strategies for minimizing the element of betrayal, often centering on the authority to interpret, but these strategies themselves bear witness to the impossibility of reducing the risk of betrayal to zero. Yet the theme of betrayal remains itself ambiguous, for while the guardians or recipients</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.26</book-part-id>
+                  <title-group>
+                     <title>Tariq Ramadan (1962– )</title>
+                     <subtitle>Texts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ramadan</surname>
+                           <given-names>Tariq</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The work of categorization left by scholars through the ages is phenomenal. Specialists in the foundations of law and jurisprudence (<italic>usul al-fiqh</italic>), who labored at this exercise of extrapolating and categorizing rules on the basis of a reading that was both careful to be faithful to the norm and profoundly rational, have bequeathed to us an unparalleled heritage. A careful reading of these works reveals that very precise modes of grasping the sources were set down very early. Consideration of the language was supported by a double process of distinguishing on the one hand between the unequivocal and the equivocal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.27</book-part-id>
+                  <title-group>
+                     <title>Tariq Ramadan’s Tryst with Modernity:</title>
+                     <subtitle>Toward a European Muslim Tradition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIZVI</surname>
+                           <given-names>SAJJAD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the introduction to a significant recent collection of essays on the concept of religion, Hent de Vries writes:</p>
+                     <p>“Religion” may—or may not—be here to stay. As a “concept” (but which or whose exactly?), from one perspective it might seem to be losing its received reference (the transcendent, the world beyond, and the life hereafter) and its shared relevance (a unified view of the cosmos and all beings in it; a doctrine of the origin, purpose and end of all things; an alert, enlightened or redeemed sense of self; a practice and way of life), if it had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.28</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WILLIAMS</surname>
+                           <given-names>ROWAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Modernity and the scatter of terms related to it are agreed to be slippery words. They are hardly ever used neutrally, just to describe what happens to be the cultural position at the present moment. They may be used in both positive and negative ways: “modernization” is assumed unthinkingly to be a good thing; “modernism” is a bad thing in the vocabulary of traditional Catholic thought; “modernity” is now commonly used for a cluster of cultural and intellectual habits generated (broadly) by the European Enlightenment and supposedly transcended by the advent of a “postmodern” era. When we discuss tradition and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b68d.29</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

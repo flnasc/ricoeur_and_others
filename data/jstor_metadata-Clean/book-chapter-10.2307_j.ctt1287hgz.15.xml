@@ -1,0 +1,366 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1287hgz</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ostension</book-title>
+         <subtitle>Word Learning and the Embodied Mind</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Engelland</surname>
+               <given-names>Chad</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>07</day>
+         <month>11</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262028097</isbn>
+      <isbn content-type="epub">9780262320610</isbn>
+      <isbn content-type="epub">0262320614</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1287hgz"/>
+      <abstract abstract-type="short">
+         <p>Ostension is bodily movement that manifests our engagement with things, whether we wish it to or not. Gestures, glances, facial expressions: all betray our interest in something. Ostension enables our first word learning, providing infants with a prelinguistic way to grasp the meaning of words. Ostension is philosophically puzzling; it cuts across domains seemingly unbridgeable -- public--private, inner--outer, mind--body. In this book, Chad Engelland offers a philosophical investigation of ostension and its role in word learning by infants. Engelland discusses ostension (distinguishing it from ostensive definition) in contemporary philosophy, examining accounts by Quine, Davidson, and Gadamer, and he explores relevant empirical findings in psychology, evolutionary anthropology, and neuroscience. He offers original studies of four representative historical thinkers whose work enriches the understanding of ostension: Wittgenstein, Merleau-Ponty, Augustine, and Aristotle. And, building on these philosophical and empirical foundations, Engelland offers a meticulous analysis of the philosophical issues raised by ostension. He examines the phenomenological problem of whether embodied intentions are manifest or inferred; the problem of what concept of mind allows ostensive cues to be intersubjectively available; the epistemological problem of how ostensive cues, notoriously ambiguous, can be correctly understood; and the metaphysical problem of the ultimate status of the key terms in his argument: animate movement, language, and mind. Finally, he argues for the centrality of manifestation in philosophy. Taking ostension seriously, he proposes, has far-reaching implications for thinking about language and the practice of philosophy.</p>
+      </abstract>
+      <counts>
+         <page-count count="336"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Minding Ostension</subtitle>
+                  </title-group>
+                  <fpage>xv</fpage>
+                  <abstract>
+                     <p>Plato marked a turning point in the appreciation of language by philosophers. In the<italic>Cratylus</italic>, he shows that words are thoroughly conventional. Those who coin them do so with only a superficial understanding of the things spoken about. Accordingly, philosophical knowledge comes from inquiring into the natures of things rather than from learning to speak. Despite discovering the conventionality of language, Plato still accords speech a crucial role. Insight into the nature of things occurs by means of a conversation carried out with conventional terms: “For this knowledge is not something that can be put into words like other sciences;</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Philosophy of Action, Perception, and Play</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>How do children learn the meaning of their first words? Thinkers from every theoretical persuasion admit they must make the right association of sound and sense in order for communication to occur. For example, John Locke writes: “To make words serviceable to the end of communication, it is necessary as has been said that they excite in the hearer exactly the same idea they stand for in the mind of the speaker. Without this men fill one another’s heads with noise and sounds; but convey not thereby their thoughts, and lay not before one another their ideas, which is the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Science of Prelinguistic Joint Attention</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>How children learn their first words is a burning issue in contemporary psychology, a topic whose interest is not only ontogenetic but phylogenetic: how children learn their first words might shed light on how humans long ago instituted their first words. This book likewise takes as its point of departure the question of how children learn their first words, but it asks the question in the philosophical, not the psychological voice. That is, it seeks to disclose the prelinguistic resources logically presupposed by first word acquisition, and one of the things logically presupposed is the availability of another’s attention through</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Wittgenstein:</title>
+                     <subtitle>Ostension Makes Language Public</subtitle>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>When G. E. Moore wished to refute skepticism about the existence of the external world, he proved the existence of two hands as follows: “By holding up my two hands, and saying, as I make a certain gesture with the right hand, ‘Here is one hand’, and adding, as I make a certain gesture with the left, ‘and here is another.’”² Moore thought the proof worked because he knew that the premise was true. As readers of Wittgenstein’s<italic>On Certainty</italic>are aware, Moore’s use of the word “know” greatly troubles Wittgenstein. In thinking it through, Wittgenstein realizes that a skeptic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Merleau-Ponty:</title>
+                     <subtitle>Gestural Meaning and the Living Body</subtitle>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>Edmund Husserl, the founder of the phenomenological movement, focused his research primarily on the origin of mathematics, logic, and science. Yet the phenomenological method of investigation bore fruit in other areas as well. His<italic>Ideas II</italic>, which circulated in manuscript form to Heidegger and later to Merleau-Ponty, proved revolutionary for its inquiry into the living body and the surrounding world.² Heidegger finds attractive Husserl’s new emphasis on the “experiential context as such.”³ Indeed, Merleau-Ponty avers that Heidegger’s<italic>Being and Time</italic>“springs from an indication given by Husserl and amounts to no more than an explicit account of the ‘natürlicher weltbegriff’</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Augustine:</title>
+                     <subtitle>Word Learning by Understanding the Movements of Life</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Augustine is not only the first thinker to pose and answer the problem of first word acquisition; he is also the first to pose and answer the problem of other minds. Bodily movement, the movement native to living beings, establishes the natural prelinguistic context for us to share attention and thereby to share words. We acquire words by following the bodily movement of language speakers as they approach, point, and look toward what they are talking about. Wittgenstein famously criticized this account for several reasons. First, it applies only to certain kinds of words, not to all or even most</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Aristotle:</title>
+                     <subtitle>Natural Movement and the Problem of Shared Understanding</subtitle>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>Augustine provides a compelling account of word learning through ostension, complete with descriptions of animate intersubjectivity and rigorous awareness of the problem of disambiguation. Animate movement advertises affects to other animate minds in the context of sharing a life together. In developing this account, Augustine makes liberal use of “life,” “nature,” and “animate movement,” but he does not unpack these concepts. It is here that Aristotle’s expertise recommends itself. My consideration of Aristotle is not intended to be of merely historical interest. As I detailed in the first chapter, I join a variety of thinkers, both analytic and continental, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Phenomenology:</title>
+                     <subtitle>Discovering Ostension</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>In the American elementary school activity called show-and-tell, children bring something interesting from home to show to their classmates. Attention focuses on the item shown, and the presence of the item serves as the point of departure for the child to speak about it. “This is Santa on a surfboard. It’s something my mom bought in Hawaii when she was a girl. Every Christmas, I get to hang it on our Christmas tree.” Telling can speak about many absent things, but it begins with something present: the shown thing. The interplay of showing and speech in this game recalls the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Mind:</title>
+                     <subtitle>The Logic of Ostension</subtitle>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>In<italic>Charlie and the Chocolate Factory</italic>, chocolatier Willy Wonka lets his guests peer into a room full of a most curious treat: “There you are! Square candies that look round!”² The children protest that the candies look square, not round, but thereupon Wonka flings open the glass doors and all the candies look round to see who has entered the room. (The little sugar cubes have tiny pink faces painted on them.) The word “look” involves a kind of mirroring. It can mean the act of turning to see what’s there, or it can mean what appears there to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Epistemology:</title>
+                     <subtitle>Disambiguating Ostension</subtitle>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Many years ago during a visit to the beach, my grandfather picked up a broken conch shell. He called his grandchildren around him and solemnly declared, “This is a<italic>Pingus pangus pongerongus</italic>.” Now that he has passed away, there is a heated disagreement among us: is a<italic>Pingus pangus pongerongus</italic>any broken shell, or does it have to be a broken conch shell of the same shape and size? His humorous ostensive definition was ambiguous, and what’s true of<italic>Pingus pangus pongerongus</italic>is true of all ostensive definitions, as Quine, Wittgenstein, and Augustine argue. One and the same gesture might</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Metaphysics:</title>
+                     <subtitle>Movement, Manifestation, and Language</subtitle>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Woody Allen joked that he was expelled from college because he cheated on a metaphysics exam: “I looked into the soul of the boy sitting next to me.”² In this book, I have followed the mainstream position of Western philosophy and science that literal mind reading or a “sixth sense” is not a natural human endowment. Instead, animate movement effectively enables our minds to commune so that we can subsequently share the world in speech. In this chapter on metaphysics, I wish to clarify conceptually the resources involved in sharing the world.</p>
+                     <p>In the phenomenological account of chapter 7, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Conclusion:</title>
+                     <subtitle>The Origin of the Human Conversation</subtitle>
+                  </title-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>“Has philosophy lost contact with people?” wondered Quine in a 1979<italic>Newsday</italic>column. He was responding to Mortimer Adler, an Aristotelian and Great Books enthusiast, who maintained that professional philosophy no longer appealed to the general literate public. Quine acknowledges that the menu of philosophy has become exotic, and only connoisseurs will appreciate its offerings today. But Quine takes umbrage at the suggestion that this specialization should be taken as a shortcoming. It rather constitutes philosophy’s maturation into a scientific discipline. The linguistic turn had the great merit of undermining modern introspective notions, which proved inadequate for accounting for our</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.17</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>223</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.18</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1287hgz.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

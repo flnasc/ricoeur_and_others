@@ -1,0 +1,545 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt18dzrxd</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18fs8kn</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Ireland Beyond Boundaries</book-title>
+         <subtitle>Mapping Irish Studies in the Twenty-First Century</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>HARTE</surname>
+               <given-names>LIAM</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>WHELAN</surname>
+               <given-names>YVONNE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>11</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780745321851</isbn>
+      <isbn content-type="epub">9781849642279</isbn>
+      <publisher>
+         <publisher-name>Pluto Press</publisher-name>
+         <publisher-loc>LONDON; DUBLIN; ANN ARBOR, MI</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>Liam Harte</copyright-holder>
+         <copyright-holder>Yvonne Whelan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt18fs8kn"/>
+      <abstract abstract-type="short">
+         <p>Ireland Beyond Boundaries provides an authoritative, up-to-date account of the development of Irish Studies over the past two decades. The fourteen contributors examine some of the key debates that have underpinned recent scholarship and analyse critical concerns that have shaped the subject’s remarkable growth. The book is divided into two parts. Part One traces the institutional fortunes of Irish Studies in Ireland, the USA, Canada, Australia and Britain. Part Two features in-depth critical accounts of specific trends and themes within Irish historiography, literary criticism, religion, migration, music, cultural geography, sport and media culture. Throughout the collection there is a recurring engagement with the role of interdisciplinary approaches within Irish Studies and its impact on teaching and research. Combining synoptic overviews with informed analyses, Ireland Beyond Boundaries is an essential text for all those working in the field.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures and Tables</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harte</surname>
+                           <given-names>Liam</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whelan</surname>
+                           <given-names>Yvonne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Where Irish Studies is Bound</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harte</surname>
+                           <given-names>Liam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Reviewing Colin Graham’s<italic>Deconstructing Ireland</italic>(2001) in 2003, Eugene O’Brien declared:</p>
+                     <p>That Irish Studies is a significant discipline within the academy is without question, as attendance at IASIL, ACIS, or EFACIS conferences will indicate. However, what is needed at a meta-level, it seems to me, is a range of enquiry into the grounds of this discipline in terms of its epistemological and ethical status. (O’Brien, 2003: 223)</p>
+                     <p>The present volume can be read, at least in part, as a response to this call for meta-discursive reflection, one which also subjects O’Brien’s presupposition about Irish Studies’ institutional embeddedness to critical scrutiny.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Changing Transatlantic Contexts and Contours:</title>
+                     <subtitle>Irish Studies in the United States</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mahony</surname>
+                           <given-names>Christina Hunt</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The special relationship that exists between Ireland and the United States has been the subject of much rhetoric, especially since the founding of the Irish state. This link is rehearsed at appropriate intervals, usually at times of political or emotional significance, such as President John F. Kennedy’s 1963 visit to Ireland or the signing of the Good Friday Agreement in 1998. The perception in Ireland of Irish political clout in America has always been somewhat distorted, however, and cannot compare with the special relationship between the US and Britain. Irish clout is also asserted in the social and cultural realm,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Reconfiguring Irish Studies in Canada:</title>
+                     <subtitle>Writing Back to the Centre</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kenneally</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>28</fpage>
+                  <abstract>
+                     <p>Since its emergence as an academic subject in the 1960s, Irish Studies in Canada has evinced some of the tendencies characteristic of the discipline in general, while also moving in directions that can offer instructive critical models for further development both at home and abroad. Despite Canada’s relatively small academic population, the accomplishments of the founding generation of Irish Studies scholars over the past four decades constitute an impressive body of work. However specific their original areas of research, many of these scholars embraced and contributed to the international trend to expand both the objects of their scrutiny and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>10,000 Miles Away:</title>
+                     <subtitle>Irish Studies Down Under</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Malcolm</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>When viewed in terms of the substantial numbers of Irish people who emigrated during the nineteenth century, mainly to the United States, and during the twentieth century, mainly to Britain, those who came either voluntarily or involuntarily to Australia were comparatively few. Yet, in terms of their proportion of the Australian population, the Irish and their descendants loomed larger than in any other major emigrant destination (Fitzpatrick, 1994: 6–7). Therefore, whether or not one agrees with the bold interpretation of Patrick O’Farrell (1933–2003) quoted above, it is indisputable that for some 150 years after European settlement of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>‘Our Revels Now are Ended’:</title>
+                     <subtitle>Irish Studies in Britain – Origins and Aftermath</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Richards</surname>
+                           <given-names>Shaun</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>48</fpage>
+                  <abstract>
+                     <p>In 2003<italic>Irish University Review</italic>published a special issue on the Irish Literary Revival. Featuring the work of ‘an emerging generation of cultural critics’, the gathered essays offered ‘new scholarship’ and ‘new perspectives’ on the Revival, one of the most significant moments in Irish literary history (Kelleher, 2003: viii). Adrian Frazier’s<italic>Irish Times</italic>review acknowledged the quality of the collection but expressed surprise at the apparent consensus among the contributions, along with the absence of committed dispute and debate. Frazier’s criticisms return us to the origins of Irish Studies in Britain, a moment when ‘academic wars’ raged and ‘theory’, new</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Teaching Irish Studies in Ireland:</title>
+                     <subtitle>After the End</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>The events of 28 July 2005 alter our perspective. If we are to believe the statements of intent, and all concerned pass this high test of character, the announcement by the Irish Republican Army that it will decommission its arms marks an end of the Troubles and, albeit less significantly, a defining moment in the Irish culture wars of the last 40 years. Perhaps this sanguine vision is deceptive and the protracted peace process will persist in being characterised by sporadic slides into crisis. If so, then this vision of an end to the culture wars will also deceive; but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Intellectual and the State:</title>
+                     <subtitle>Irish Criticism Since 1980</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCarthy</surname>
+                           <given-names>Conor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>This chapter concerns critical authority, and the ways that critical authority has developed and changed in Irish criticism since the 1980s. The term<italic>authority</italic>is used here to refer to the position of the critic in his or her text regarding the work he or she is analysing; to the discursive location of the critic; to the critic’s institutional location; and finally the relationship of all of these to the final source of authority in modern society, the state (Said, 1984). The case I wish to argue is that the political and economic condition of Ireland in the period in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Forty Shades of Grey?:</title>
+                     <subtitle>Irish Historiography and the Challenges of Multidisciplinarity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Daly</surname>
+                           <given-names>Mary E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>Historians place considerable value on the perspective given by the passing of time, so there are obvious difficulties in trying to assess major developments in the writing of modern Irish history over the past 15 to 20 years. But having entered this caveat, there are some trends that can be identified, including a significant expansion in the number of books and articles; greater diversity in research topics; increased specialisation and the concomitant emergence of historiographical debates that are accessible only to experts in particular fields; an end to the belief that it is possible to arrive at an objective –</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Religious Field in Contemporary Ireland:</title>
+                     <subtitle>Identity, Being Religious and Symbolic Domination</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Inglis</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>Ireland is an anomaly in more ways than one.¹ On a map of the world, it appears as a small island stuck out in the Atlantic on the edge of Europe. In global terms, it seems insignificant. Yet for two years in a row at the beginning of this century the Irish Republic appeared at the top of the globalisation index compiled by the US<italic>Foreign Policy</italic>journal, which declared it the most globalised society in the world. This was mainly because it had the most open economy, though the survey also showed that the Irish tend to travel more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>‘A Decent Girl Well Worth Helping’:</title>
+                     <subtitle>Women, Migration and Unwanted Pregnancy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ryan</surname>
+                           <given-names>Louise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>In the autumn of 2003 I was invited to a conference in a British university during which there was a lively discussion about Irish Studies. I found it thought-provoking but also a little frustrating. I concluded that the primary reason for my frustration was the lack of clarity and agreement about what constituted Irish Studies. The subject that was being discussed and critiqued did not reflect my experiences of teaching and researching in an Irish Studies Centre and, as I listened, I became increasingly aware of just how capacious a concept Irish Studies is. Perhaps that is one of its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Beating the Bounds:</title>
+                     <subtitle>Mapping an Irish Mediascape</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pettitt</surname>
+                           <given-names>Lance</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>This chapter considers two questions about the relations between the past and the present. Firstly, how might we set out to write a cultural history of Ireland’s media? Secondly, sensing that we are on the cusp of change, having recently crossed the threshold into a new century, what precisely are the difficulties in defining and analysing the nature of an Irish mediascape? The study of media institutions, texts and audiences in and about Ireland is a relatively new sub-field that has emerged piecemeal from diverse disciplinary origins, a second-generation of scholarship within what has come to be called Irish Studies.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Placing Geography in Irish Studies:</title>
+                     <subtitle>Symbolic Landscapes of Spectacle and Memory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whelan</surname>
+                           <given-names>Yvonne</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harte</surname>
+                           <given-names>Liam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>The cultural turn of the late 1980s had great ramifications for the practice of social and cultural geography. Freshly invigorated by postmodern and poststructuralist ideas, geographers set about challenging traditional approaches and methodologies within the discipline and the neglect of geographical perspectives in other fields. The critical human geography that began to take shape announced the interpretive significance of space and the arrival of ‘a new animating polemic on the theoretical and political agenda, one which rings with significantly different ways of seeing time and space together, the interplay of history and geography’ (Soja, 1989: 11). As space became a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Listening to the Future:</title>
+                     <subtitle>Music and Irish Studies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smyth</surname>
+                           <given-names>Gerry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>I think it is fair to say that music has not loomed large in the legend of Irish Studies.¹ When I say ‘Irish Studies’ I don’t mean the long-established and widely dispersed ‘study’ of diverse Irish cultural produce – the consumption, discussion, appreciation and review of Irish culture that, like the poor, has always been with us. I mean, rather, the specialised academic field that began to emerge as a discrete intellectual and institutional concern during the 1970s, and which, as I understand the matter, forms the focus of the present collection. Irish Studies has in fact tended to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Beyond Sectarianism:</title>
+                     <subtitle>Sport and Irish Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cronin</surname>
+                           <given-names>Mike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>Ireland has a long and rich sporting heritage. Whether in Gaelic games, soccer, rugby, golf, horse or dog racing, the Irish have regularly produced champions and heroes who have captivated the public imagination. Since the evolution of modern organised sport in the late nineteenth century right up to its saturation of the mass media in the twenty-first, the Irish have shown themselves to be passionate about, and in many cases obsessed by, sport. In essence, sport is about those who watch and those who play. It is about passion, belief, occasional joy, frequent heartbreak and, all too commonly, standing on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.19</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.20</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>263</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18fs8kn.21</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>265</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

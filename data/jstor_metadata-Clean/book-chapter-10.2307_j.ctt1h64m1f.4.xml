@@ -1,0 +1,529 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1h64m1f</book-id>
+      <subj-group>
+         <subject content-type="call-number">HM480.P47 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Théorie critique</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Communication</subject>
+         <subj-group>
+            <subject content-type="lcsh">Aspect social</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Perspectives critiques en communication</book-title>
+         <subtitle>Contextes, théories et recherches empiriques</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Sous la direction de</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Aubin</surname>
+               <given-names>France</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Rueff</surname>
+               <given-names>Julien</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>10</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760544574</isbn>
+      <isbn content-type="epub">9782760544581</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+         <publisher-loc>Québec</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Presses de l’Université du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1h64m1f"/>
+      <abstract abstract-type="short">
+         <p>Cette introduction aux perspectives critiques présente un large éventail d’approches théoriques élaborées en sciences sociales ou en philosophie, allant du XVIIIe siècle, avec la philosophie critique de Kant, jusqu’aux développements les plus contemporains en économie critique de la communication, en études de genre ou encore en philosophie sociale, en passant par Marx, Engels, Foucault, Habermas, Bourdieu et Honneth pour ne nommer que ces derniers. Ces approches accordent toutes une place centrale à l’analyse des pathologies sociales, que ce soit les inégalités économiques, les phénomènes de domination coloniale ou postcoloniale, la privation des droits politiques, le mépris à l’endroit des minorités culturelles, les maux du travail, les rapports de pouvoir de genre ou la surveillance de masse. Elles sont abordées ici par une quinzaine d’auteurs comme autant de ressources conceptuelles pour appréhender des objets de recherche communicationnels comme le journalisme, la propagande politique, la publicité politique, les médias sociaux, les industries culturelles ou les relations publiques. De quoi parle le théoricien critique ? Quelles sont les finalités des perspectives critiques ? Quels phénomènes sociaux, culturels, politiques ou économiques retiennent l’attention des chercheurs critiques ? Quelles sont les limites de ces approches ? Quelles formes prennent-elles ? Résolument pédagogique, cet ouvrage se donne pour triple objectif de contextualiser des constructions conceptuelles a priori peu accessibles, de les exposer clairement afin d’en faciliter l’appropriation, mais aussi de démontrer leur pertinence pour la réalisation de recherches empiriques dans le domaine de la communication.</p>
+      </abstract>
+      <counts>
+         <page-count count="346"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rueff</surname>
+                           <given-names>Julien</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aubin</surname>
+                           <given-names>France</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Inégalités économiques, privations de droits politiques, mépris des minorités culturelles, domination masculine, violences policières, racismes, néocolonialismes, guerres, rapports de domination de genre, esclavagismes, crises écologiques, pathologies du travail : autant de raisons – parmi tant d’autres phénomènes problématiques – de ne pas célébrer avec suffisance et empressement la « fin de l’histoire » annoncée par Francis Fukuyama (1992). Les promesses émancipatrices du libéralisme (politique ou économique) semblent avoir été quelque peu contrariées par les évolutions historiques des vingt-cinq dernières années. Rien d’étonnant alors à ce que l’inéluctabilité des effets vertueux de la démocratie libérale, que ceux-ci concernent les Étatsnations ou les relations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.4</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 1</label>
+                     <title>KANTISME ET COMMUNICATION:</title>
+                     <subtitle>POUR UN HORIZON CRITIQUE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kane</surname>
+                           <given-names>Oumar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>L’influence d’Emmanuel Kant sur la philosophie moderne figure sans conteste parmi les plus importantes et les plus fécondes si l’on considère la reprise de ses thématiques d’investigation et le nombre de théoriciens qui sont entrés en dialogue avec lui, tantôt pour revendiquer son héritage, tantôt pour s’en distancier.</p>
+                     <p>Pour étudier Kant, il faut d’abord se rappeler que le philosophe de Königsberg a été un des philosophes les plus importants du XVIII<sup>e</sup>siècle, le siècle des Lumières, caractérisé par d’importants bouleversements tant sur le plan politique ou scientifique que dans le domaine du symbolique, celui des représentations que les acteurs sociaux</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.5</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 2</label>
+                     <title>PHILOSOPHIE SOCIALE ET CRITIQUE IMMANENTE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Voirol</surname>
+                           <given-names>Olivier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>Avant l’apparition de la sociologie au début du XIX e siècle, les grandes questions traitées par cette discipline l’étaient par la philosophie, avec ses différents accents mis sur la morale, la politique ou encore la connaissance. À l’aube de la modernité, plusieurs philosophes, comme Hobbes, Locke ou encore Montesquieu, avaient fait de la société un objet de réflexion privilégié, s’interrogeant sur les conditions de possibilité de la vie sociale, sur les liens unissant les individus entre eux, ou encore sur les formes du vivre ensemble. Avec l’émergence de la sociologie, et plus généralement des sciences sociales, ces questions ont été</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.6</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 3</label>
+                     <title>QU’EST-CE QUE LA CRITIQUE FOUCALDIENNE?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bonenfant</surname>
+                           <given-names>Maude</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>En 1990, la Société française de philosophie publie le compte-rendu de la séance du 27 mai 1978 pendant laquelle Michel Foucault (1926-1984) présentait une conférence portant le titre « Qu’est-ce que la critique ? » . Aux dires même de l’auteur, cette conférence aurait tout aussi bien pu porter le titre de « Qu’est-ce que l’<italic>Aufklärung</italic>? [les Lumières] » , faisant directement référence au texte d’Emmanuel Kant<italic>« Was ist Aufklärung? »</italic>. Cet article du philosophe allemand, publié en 1784 dans la<italic>Berlinische Monatschrift</italic>, un journal berlinois, a inspiré une grande partie de la réflexion de Foucault sur la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.7</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 4</label>
+                     <title>LA CRITIQUE DES INDUSTRIES CULTURELLES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bouquillion</surname>
+                           <given-names>Philippe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>La question des industries culturelles occupe depuis presque un siècle, avec les premières réflexions des auteurs dits de l’École de Francfort, une place importance au sein des recherches critiques. L’objectif de cette contribution est d’identifier et de présenter quelques-uns des principaux questionnements, concepts et notions proposés par ces auteurs lorsqu’ils s’intéressent à la culture industrialisée, tout en examinant comment ces apports continuent, jusqu’à aujourd’hui, à étayer ce qu’il y a de critique dans certaines des recherches contemporaines sur les industries culturelles. Les perspectives ouvertes par les penseurs francfortiens continuent en effet à inspirer des chercheurs de notre temps, dont les</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 5</label>
+                     <title>HABERMAS, RECONSTRUCTION DE LA RAISON ET COMMUNICATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aubin</surname>
+                           <given-names>France</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Le présent chapitre est structuré en trois grandes rubriques, suivant le gabarit adopté pour l’ouvrage collectif : à savoir une brève contextualisation de l’œuvre et de l’auteur ; la présentation de certains concepts ; et la proposition de travaux qui les mobilisent. Le volet conceptuel abordera principalement les théories susceptibles d’être utiles aux recherches s’intéressant à la communication, soit celles de l’espace public, de l’agir communicationnel et de l’éthique de la discussion, tandis que le volet opérationnalisation se concentrera sur l’espace public. À noter qu’étant donné la grande variabilité du vocabulaire mobilisé par les traducteurs de Habermas et par l’auteur</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 6</label>
+                     <title>AXEL HONNETH ET LA THÉORIE DE LA RECONNAISSANCE SOCIALE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rueff</surname>
+                           <given-names>Julien</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Les chapitres précédents, en offrant un aperçu des recherches de Max Horkheimer, de Theodor Adorno, de Walter Benjamin et de Jürgen Habermas, constituent une introduction à ce que d’aucuns appellent « la première et la deuxième génération » de l’École de Francfort. Dans la continuité de ce mouvement argumentatif, nous entendons à notre tour apporter des éclaircissements sur ladite « troisième génération » de l’École de Francfort, en nous concentrant particulièrement sur la philosophie sociale de l’actuel directeur de l’Institut de Recherche Sociale de Francfort : Axel Honneth. Ce chapitre ne prétend donc aucunement dresser un portrait d’ensemble de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 7</label>
+                     <title>L’ÉCONOMIE POLITIQUE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mosco</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Traduction de</role>
+                        <name name-style="western">
+                           <surname>Aubin</surname>
+                           <given-names>France</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>L’économie politique est l’étude des rapports sociaux, et en particulier des rapports de pouvoir, qui sont en jeu dans la production, la distribution et la consommation des ressources, y compris les ressources communicationnelles (Mosco, 2009 [1996]). Le mérite d’une telle formulation tient à ce qu’elle rend visible le fonctionnement du secteur économique des communications. Par exemple, il peut s’agir du circuit qu’empruntent les produits communicationnels allant des producteurs de cinéma d’Hollywood, aux distributeurs, aux exploitants de salles et finalement jusqu’aux consommateurs, dont les achats, les téléchargements et l’attention sont ensuite réintégrés dans la chaîne de production. On peut aussi viser</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 8</label>
+                     <title>MARX, LES MARXISTES ET LA CRITIQUE DE L’ÉCONOMIE POLITIQUE DE LA COMMUNICATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ouellet</surname>
+                           <given-names>Maxime</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>Alors que l’on croyait l’auteur du<italic>Capital</italic>mort et enterré dans les décombres de l’histoire et que les élites du capitalisme globalisé chantaient les louanges de la culture postmoderne produite par les nouvelles technologies de la communication, on assiste à un regain d’intérêt pour les écrits de Marx depuis l’éclatement de la crise financière de 2008. La crise a suscité un emballement médiatique portant sur la redécouverte de thèses marxiennes :<italic>Marx is Back</italic>titrait la page couverture du<italic>Times</italic>de Londres en 2008,<italic>Marx Rises Again</italic>, observait une chronique du<italic>New York Times</italic>en 2014 (Douthat, 2014). Selon le</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 9</label>
+                     <title>LA CRITIQUE DU CAPITALISME COGNITIF</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Proulx</surname>
+                           <given-names>Serge</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>Le lien entre économie et connaissance a été depuis longtemps exploré par les ingénieurs, industriels, ergonomes, économistes et sociologues. Ainsi, les premiers entrepreneurs de la révolution industrielle étaient conscients que leurs machines n’étaient pas simplement « énergétiques » (au sens d’une machine qui démultiplie l’énergie de la vapeur, de l’électricité…). Ces machines énergétiques incorporaient aussi simultanément des connaissances scientifiques et techniques : les connaissances des scientifiques se prolongeaient ainsi dans les dispositifs technologiques inventés par les ingénieurs et techniciens. Par ailleurs, en ce qui concerne l’organisation de l’entreprise, le taylorisme signifia la mobilisation des connaissances des sciences de l’ingénieur pour</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 10</label>
+                     <title>IDÉOLOGIE ET PENSÉE DOMINANTE CHEZ MARX ET ENGELS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gulli</surname>
+                           <given-names>Florian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>L’idéologie désigne, dans la perspective d’une critique sociale, le discours dominant d’une époque; on parle par exemple d’« idéologie néolibérale ». L’idéologie est alors un ensemble d’idées liées aux intérêts d’une classe sociale. Elle se définit par sa fonction : justifier rationnellement ses intérêts économiques et politiques. C’est un discours au service de la puissance, non de la vérité. Inutile par conséquent de l’apprécier du point de vue de sa conformité au réel, il faut le juger à son efficacité. Et il est efficace quand il parvient à faire consentir les dominés à leur propre domination. L’existence de l’idéologie nous</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.14</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 11</label>
+                     <title>LA SOCIOLOGIE CRITIQUE AU TRAVAIL:</title>
+                     <subtitle>APPORTS ET LIMITES DE L’ŒUVRE DE PIERRE BOURDIEU</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carbasse</surname>
+                           <given-names>Renaud</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>La sociologie de Pierre Bourdieu peut être une porte d’entrée intéressante pour analyser et comprendre les rapports de pouvoir à l’oeuvre au sein de phénomènes communicationnels et sociaux. Ce chapitre vise à présenter certains éléments d’un appareillage théorique riche et complexe, qui a été appliqué à un vaste nombre de terrains et d’objets de recherche depuis le milieu des années 1970. L’apport des outils conceptuels de Bourdieu permet de doter l’analyse d’une dimension sociale importante qui pourrait manquer à certaines approches critiques. Cette porte d’entrée sociologique permet de dépasser le cadre de l’analyse économique : Bourdieu insiste sur l’importance de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.15</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 12</label>
+                     <title>LA RÉCEPTION DES MÉDIAS AU PRISME DES CULTURAL STUDIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>George</surname>
+                           <given-names>Éric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>La réception des médias est devenue un champ de recherche dès le début du XX<sup>e</sup>siècle, logiquement au moment où les médias dits de masse, à savoir le cinéma, la radio, puis la télévision, commençaient à se déployer. Nous proposons ici d’aborder ce champ en mettant l’accent sur un ensemble de travaux qui se sont faits connaître sous le vocable de<italic>Cultural Studies</italic>. Ce champ nous intéresse tout particulièrement dans le cadre de cet ouvrage, car il est à l’origine de réflexions sur les relations entre médias et sociétés, réflexions que l’on peut classer comme relevant des perspectives critiques. Pour</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.16</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 13</label>
+                     <title>CONTRIBUTIONS DES FÉMINISMES AUX ÉTUDES EN COMMUNICATION MÉDIATIQUE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bellerive</surname>
+                           <given-names>Karine</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yelle</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Formé de multiples groupes de lutte contre les inégalités entre les femmes et les hommes, le mouvement des femmes prend naissance à la fin du XIX<sup>e</sup>siècle en Occident et commence à intégrer le milieu universitaire près d’un siècle plus tard, dans les années 1970 (Gubin<italic>et al</italic>., 2004). À cette époque, les femmes sont de plus en plus nombreuses à effectuer des études supérieures ; parmi celles-ci, des pionnières abordent les rapports sociaux de sexe dans leurs travaux. La recherche féministe s’exprime en premier lieu dans les domaines de la sociologie et de la littérature, puis s’impose progressivement dans</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.17</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 14</label>
+                     <title>GENRE ET COMMUNICATION:</title>
+                     <subtitle>DES APPROCHES CRITIQUES EN TENSION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cervulle</surname>
+                           <given-names>Maxime</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>La critique féministe qui a émergé durant les années 1970 en lien avec un large mouvement social repose sur une théorie de l’oppression et de l’exploitation des femmes. Elle a pris corps dans un ensemble de travaux connus dans le monde francophone sous le nom de<italic>féminisme matérialiste</italic>. Ce dernier étudie les relations entre les modes de production domestique et capitaliste, employant la méthode de Marx pour mettre au jour la division sexuée du travail et, plus largement, les rapports sociaux de sexe qui organisent la société. Le féminisme matérialiste a profondément remis en cause la naturalité de la catégorie</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.18</book-part-id>
+                  <title-group>
+                     <title>NOTICES BIOGRAPHIQUES</title>
+                  </title-group>
+                  <fpage>321</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m1f.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>325</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

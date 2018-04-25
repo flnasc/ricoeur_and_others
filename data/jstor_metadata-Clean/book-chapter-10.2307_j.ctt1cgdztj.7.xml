@@ -1,0 +1,233 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cgdztj</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Storied Revelations</book-title>
+         <subtitle>Parables, Imagination and George MacDonald’s Christian Fiction</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Kreglinger</surname>
+               <given-names>Gisela H.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="foreword-author" id="contrib2">
+            <role>Foreword by</role>
+            <name name-style="western">
+               <surname>Peterson</surname>
+               <given-names>Eugene H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>09</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780718893293</isbn>
+      <isbn content-type="epub">9780718842147</isbn>
+      <publisher>
+         <publisher-name>The Lutterworth Press</publisher-name>
+         <publisher-loc>Cambridge, United Kingdom</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Gisela H. Kreglinger</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cgdztj"/>
+      <abstract abstract-type="short">
+         <p>George MacDonald, the Victorian poet and theologian, observed that his was a culture saturated with Christian jargon but often void of a profound understanding of the gospel for its own time and culture. The language of Scripture no longer penetrated people’s hearts, thoughts, and attitudes; it no longer transformed people’s lives. MacDonald, called to be a pastor, turned to story and more specifically the "parabolic" as a means of spiritual awakening. He created fictive worlds in which the language of Jesus would find a new home and regain its revelatory power for his particular Victorian audience. 'Storied Revelations' explores the interface between the Bible and George MacDonald’s fiction. The way Jesus uses language in the parables sheds light on our understanding of MacDonald’s careful use of language in his fiction. Further still, many of MacDonald’s stories are infused with the language of the Bible, often in rather surprising ways.</p>
+      </abstract>
+      <counts>
+         <page-count count="236"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peterson</surname>
+                           <given-names>Eugene H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+                  <abstract>
+                     <p>This is a most timely book. Timely, because the lives of Americans are increasingly distracted, and diverted—hijacked by the computer into cyberspace where it is possible to live without relationships, without grounding, without connection, without commitments, without ritual, without worship. A great number of wise and insightful observers for several decades now have been calling our attention to the resulting cultural, political, and spiritual poverty.</p>
+                     <p>One of the great storytellers in the Christian tradition is George MacDonald, whose storytelling has entered into the Christian mind as a bulwark against the scourge of meaninglessness. MacDonald was a Scottish pastor who</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Parables—used by Jesus to reveal to us the Kingdom of God, used to move us from being bystanders to active recipients of God’s work of revelation—are constantly at risk of being buried into “mummies of prose” as George MacDonald puts it. We become so familiar with the language of Scripture and are so far removed from the context in which these parables had their meaning that Jesus’ parables no longer work on us in this revelatory and transforming way. Each new generation must recover the vibrant, often shocking dimension of Jesus’ parables and create a new context in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>George MacDonald:</title>
+                     <subtitle>Poet and Theologian</subtitle>
+                  </title-group>
+                  <fpage>4</fpage>
+                  <abstract>
+                     <p>MacDonald is primarily a theological thinker and writer. This seems surprising to many as he is mostly known today for his fiction and fairytales and his influence on the famous Inklings, especially C. S. Lewis and J. R. R. Tolkien. This book explores MacDonald’s theological rationale for writing Christian fiction, arguing that it is precisely in his less overt theological works of fiction that one finds some of his most profound thinking on the lived dimension of Christian faith. When MacDonald has been considered as a serious theologian (as is the case in two of the most recent important works</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Patterns of Subversion and Promise:</title>
+                     <subtitle>Jesus’ Parables</subtitle>
+                  </title-group>
+                  <fpage>14</fpage>
+                  <abstract>
+                     <p>Jesus was a master of using parables to shape the imagination and consequently the lives of his followers and foes alike. While Jesus’ parables are in some ways quite different from George MacDonald’s Christian fiction, there are significant ways in which MacDonald’s works resemble and imitate the way Jesus taught in and through parable. MacDonald’s fiction, especially<italic>Phantastes</italic>and<italic>Lilith</italic>, are complex literary creations, and while I shall argue in this book that parabolic patterns reminiscent of the parables of Jesus are an important way by which one can understand these works, it is by no means the only or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Patterns of Subversion and Promise:</title>
+                     <subtitle>Romanticism</subtitle>
+                  </title-group>
+                  <fpage>60</fpage>
+                  <abstract>
+                     <p>The influence of Friedrich von Hardenberg, better known as Novalis, is well known in MacDonald scholarship, though few have been able to penetrate the complexity of Novalis’ thought, especially in regard to his Christian faith and the extent to which he influenced George MacDonald. C. S. Lewis, however, recognizes the depth of influence and writes:</p>
+                     <p>As you know, ‘Heinrich Von Ofterdingen’ wh. I am reading is a very Macdonaldy book—indeed Novalis is perhaps the greatest single influence on Macdonald—full of ‘holiness’, gloriously German-romantic (i.e. a delicious mingling of earthy homeliness and magic, also of a sort of spiritual</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>George MacDonald’s Theological Rationale for Story and the “Parabolic”</title>
+                  </title-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>George MacDonald’s theological rationale for story and the “parabolic” is closely connected to his understanding of Scripture, language, creation, and how God reveals himself in and through it. In order to understand MacDonald’s view of Scripture, especially as related to the “parabolic” and the role Scripture plays in his understanding of revelation and spiritual transformation, it is important to locate him in his historical context. Only by outlining the general attitude towards Scripture and closely related questions such as the role of science in Victorian Britain can we properly understand MacDonald’s response to the challenges of his time and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Patterns of Subversion and Promise:</title>
+                     <subtitle>Lilith</subtitle>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Lilith</italic>, first written in 1890, is MacDonald’s last fantastic novel. It is often considered to be his most difficult and disturbing piece of writing. He revised his first draft several times over a period of five years and completed the final version in 1895. The editing process for this novel was intense and long, and Richard Reis argues that of all the manuscripts we have of MacDonald’s works, none shows so much careful re-writing as the<italic>Lilith</italic>manuscripts.¹ This gives us some indication that<italic>Lilith</italic>is a well thought out piece of writing with its imagery carefully and purposefully chosen.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.11</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>We have suggested in the beginning of this book that George MacDonald is primarily a theological thinker and writer. What sort of a theologian is MacDonald? His pastoral concern was for his audience to come to know God in personal and transformative ways. His focus was on the lived dimension of the Christian faith. The way he sought to minister to his Christian audience was through story. While MacDonald employed a wide range of literary styles, the “parabolic” is a dimension of his writing that has received surprisingly little attention.</p>
+                     <p>The “parabolic” is an important genre both in Jesus’ proclamation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.12</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>213</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgdztj.13</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>222</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

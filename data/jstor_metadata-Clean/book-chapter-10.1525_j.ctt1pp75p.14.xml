@@ -1,0 +1,592 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1pp75p</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3248.G34G37 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Gadamer, Hans Georg, 1900–</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Gadamer’s Repercussions</book-title>
+         <subtitle>Reconsidering Philosophical Hermeneutics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>EDITED BY</role>
+            <name name-style="western">
+               <surname>Krajewski</surname>
+               <given-names>Bruce</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>22</day>
+         <month>11</month>
+         <year>2003</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520231863</isbn>
+      <isbn content-type="epub">9780520927957</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2004</copyright-year>
+         <copyright-holder>the Regents of the University of California</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.1525/j.ctt1pp75p"/>
+      <abstract abstract-type="short">
+         <p>Certainly one of the key German philosophers of the twentieth century, Hans-Georg Gadamer also influenced the study of literature, art, music, sacred and legal texts, and medicine. Indeed, while much attention has been focused on Gadamer's writings about ancient Greek and modern German philosophy, the relevance of his work for other disciplines is only now beginning to be properly considered and understood. In an effort to address this slant, this volume brings together many prominent scholars to assess, re-evaluate, and question Hans-Georg Gadamer's works, as well as his place in intellectual history. The book includes a recent essay by Gadamer on "the task of hermeneutics," as well as essays by distinguished contributors including Jürgen Habermas, Richard Rorty, Gerald Bruns, Georgia Warnke, and many others. The contributors situate Gadamer's views in surprising ways and show that his writings speak to a range of contemporary debates—from constitutional questions to issues of modern art. A controversial final section attempts to uncover and clarify Gadamer's history in relation to National Socialism. More an investigation and questioning than a celebration of this venerable and profoundly influential philosopher, this collection will become a catalyst for any future rethinking of philosophical hermeneutics, as well as a significant starting place for rereading and reviewing Hans-Georg Gadamer.</p>
+      </abstract>
+      <counts>
+         <page-count count="331"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>B. K.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.4</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.5</book-part-id>
+                  <title-group>
+                     <title>LIST OF ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.6</book-part-id>
+                  <title-group>
+                     <title>Introduction.</title>
+                     <subtitle>From Word to Concept: The Task of Hermeneutics as Philosophy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GADAMER</surname>
+                           <given-names>HANS-GEORG</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Palmer</surname>
+                           <given-names>Richard E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>I would first like briefly to justify the theme I have chosen, namely: “from word to concept.” The subject matter is a topic belonging both to philosophy and to hermeneutics. In truth, concepts are really one of the distinguishing marks of philosophy. Indeed, philosophy first entered Western culture in this form. For this reason the concept is the first thing I would like to discuss. Of one thing I am sure: the concept, which very often presents itself as something strange and demanding, must begin to speak if it is to be really grasped. For this reason I would first</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>After Historicism, Is Metaphysics Still Possible?</title>
+                     <subtitle>On Hans-Georg Gadamer’s 100th Birthday</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HABERMAS</surname>
+                           <given-names>JÜRGEN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Malone</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Understanding and Event [Verstehen und Geschehen]</italic>was to be the title of<italic>Truth and Method</italic>after the publisher expressed his dissatisfaction with the dry suggestion<italic>Principles of a Philosophical Hermeneutics</italic>and the pioneering title<italic>Truth and Method</italic>had not yet been hit upon. Over the decades, this book has stimulated philosophical discussion in Germany as no other. Its career is not so much owing to its manifestly hostile stance toward the human sciences, which misunderstand their “understanding” as method; rather, its success can be explained by the relevance of one basic question that Gadamer’s hermeneutics seeks to answer. The original</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Being That Can Be Understood Is Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RORTY</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In a book called<italic>Reason in the Age of Science,</italic>Hans-Georg Gadamer asked the question: Can “philosophy” refer to anything nowadays except the theory of science?¹ His own answer to this question is affirmative. It may seem that the so-called “analytic” tradition in philosophy—the tradition that goes back to Frege and Russell and whose most prominent living representatives are Quine, Davidson, Dummett, and Putnam—must return a negative answer. For that tradition is often thought of as a sort of public relations agency for the natural sciences.</p>
+                     <p>Those who think of analytic philosophy in this way often describe Gadamer’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>On the Coherence of Hermeneutics and Ethics:</title>
+                     <subtitle>An Essay on Gadamer and Levinas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUNS</surname>
+                           <given-names>GERALD L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>30</fpage>
+                  <abstract>
+                     <p>My purpose in what follows is to take up the relation of hermeneutics and ethics as it emerges in a post-Heideggerian philosophical context. In terms of proper names this means giving an account of the conceptual symmetries and differences between Gadamer’s philosophical hermeneutics and Emmanuel Levinas’s ethical theory, which is sometimes called an ethics of alterity or of responsibility, in order to contrast it with subject-centered theories that emphasize thinking and acting in accord with rules, principles, duties, codes, beliefs, teachings, communities, theories of the right and the good, and so on, where to be in accord with such things,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Gadamer and Romanticism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOWIE</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>The contemporary Western philosophical scene can be characterized in terms of divisions and interactions between approaches to philosophy which assume that their task is inextricably linked to the development of the natural sciences and approaches which often regard this assumption with considerable suspicion. Philosophers who adopt the former approach have the obvious advantage that the project of which they see themselves as a part produces more and more results which are in principle—if not in practice—publicly testable and which appear to confirm their underlying assumption that science is converging towards an already constituted reality as it is “in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Literature, Law, and Morality</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WARNKE</surname>
+                           <given-names>GEORGIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>82</fpage>
+                  <abstract>
+                     <p>Richard Posner lists several reasons to think that morality and law are enterprises distinct from literature: the fact that the heinous actions of German lawyers and citizens in the 1930s and 1940s coexisted with Germany’s status as one of the most cultured nations of the world; the circumstance that one of the well-known abilities of many well-read people is to remain insensitive to the suffering of others; the fact that moral atrocities fill the literary canon without affecting either the aesthetic virtues of the work or its reader’s own moral attitudes; and, finally, the distance between the concerns of law</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>A Critique of Gadamer’s Aesthetics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KELLY</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>There are three main critiques through which Hans-Georg Gadamer develops his conception of aesthetics, which has a central role in his philosophical hermeneutics, which in turn is his principal contribution to philosophy in the twentieth century, all of which he amazingly witnessed. He offers a critique of the philosophy of art which regards art as a lie and that denies it is capable of making truth claims; a critique of aesthetic consciousness as an alienated abstraction from the experience of truth in art; and a critique of the subjectivization of modern aesthetics, which he traces back to Immanuel Kant’s<italic>Critique</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>On Dialogue:</title>
+                     <subtitle>To Its Cultured Despisers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARSHALL</surname>
+                           <given-names>DONALD G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>The terms “conversation” and “dialogue” lie at the heart of Hans-Georg Gadamer’s description of understanding. In a phrase that draws together many lines of his thought, he speaks of “the conversation that we ourselves are” (TM378).¹ Although “understanding a text and reaching an understanding in a conversation” appear to be very different (TM378), Gadamer’s analysis enables the insight that describing “the task of hermeneutics as entering into dialogue with the text” is “more than a metaphor” (TM368). To understand something is to reach an understanding with another about it, and that can only be achieved through a conversation that sustains</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Gadamer’s Philosophy of Dialogue and Its Relation to the Postmodernism of Nietzsche, Heidegger, Derrida, and Strauss</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BEINER</surname>
+                           <given-names>RONALD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>The reflections that follow are a response to Catherine Zuckert’s interesting and provocative book,<italic>Postmodern Platos.</italic>¹ The premise of the book is that there is a widely perceived crisis in the status and identity of Western philosophy, and leading thinkers since Nietzsche have felt obliged to return to the origins of philosophy in Plato in order to clarify what philosophy means and what it might continue to mean in the light of this crisis. In addition to Nietzsche, Zuckert examines four other thinkers—Heidegger, Hans-Georg Gadamer, Leo Strauss, and Jacques Derrida—who share the conviction that Plato must be confronted</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Meaningless Hermeneutics?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEINSHEIMER</surname>
+                           <given-names>JOEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>158</fpage>
+                  <abstract>
+                     <p>Ronald Beiner’s contribution to this collection strikes me as particularly far reaching, especially with respect to his argument that Gadamer avoids “the labyrinth of esotericism.” Beiner contends that unlike Nietzsche, Derrida, Heidegger, and even Strauss, Gadamer does not try to “read under or though or behind the text.” That is, he does not assume that “the ‘subtext’ is more meaningful than the text.” For this reason, according to Beiner, Gadamer must be (for better or worse) excluded from the ranks of postmodern thinkers. This argument, I believe, opens up something important about Gadamer, but its implications extend far beyond the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Radio Nietzsche, or, How to Fall Short of Philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WAITE</surname>
+                           <given-names>GEOFF</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>A good place to start is from where and whom we distance ourselves, even if ultimately we all think, make our decisions, and act “in the emptiness of a distance taken.”¹ Well-known statements by Gadamer observe a certain distance from Nietzsche, and Gadamer is not the explicit subject of my intervention in this anthology devoted to him and his repercussions. An essay on Nietzsche may be out of place,<italic>hors de saison et de combat,</italic>so I should justify my inclusion here with a prologue.</p>
+                     <p>Distance from Nietzsche demarcated Gadamer from other philosophers in what<italic>mirabile dictu</italic>has just been</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>The Art of Allusion:</title>
+                     <subtitle>Hans-Georg Gadamer’s Philosophical Interventions under National Socialism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OROZCO</surname>
+                           <given-names>TERESA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Gaiger</surname>
+                           <given-names>Jason</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+                  <abstract>
+                     <p>On February 11, 1995, Gadamer reached the age of ninety-five. The tributes that were paid to him were justifiably numerous; in the<italic>Frankfurter Allgemeine Zeitung</italic>he was celebrated as “the most successful philosopher of the Federal Republic,” placed even before Jürgen Habermas, to whom the title of philosopher was awarded only with certain reservations.¹ The worldwide influence of Gadamer’s thinking is closely connected with the reception of his principal work,<italic>Truth and Method</italic>(1960). In 1979, Habermas characterized Gadamer’s achievement as the “urbanization of the Heideggerian province.” The bridges that Gadamer has built consist above all in an elaboration of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>On the Politics of Gadamerian Hermeneutics:</title>
+                     <subtitle>A Response to Orozco and Waite</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ZUCKERT</surname>
+                           <given-names>CATHERINE H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>In “The Art of Allusion: Hans-Georg Gadamer’s Philosophical Interventions under National Socialism,” Teresa Orozco accuses Gadamer of having written “Plato and the Poets” to justify Nazi suppression of liberal humanist education and “Plato’s Educational State” to support national conservative efforts to reform the regime. Geoffrey Waite repeats her accusation in “Radio Nietzsche.” Whereas most twentieth-century readers of Nietzsche have unintentionally fostered his elitist politics by adopting a perspectivist reading, Waite charges, Orozco shows that Gadamer did so intentionally. In my view, there is little evidence to support either charge.</p>
+                     <p>Gadamer never joined the National Socialist Party. “For this reason,” Orozco</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>The Protection of the Philosophical Form:</title>
+                     <subtitle>A Response to Zuckert</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OROZCO</surname>
+                           <given-names>TERESA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>translated by</role>
+                        <name name-style="western">
+                           <surname>Malone</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>244</fpage>
+                  <abstract>
+                     <p>Although I do not share all the premises of the Gadamerian conception of dialogue, I am convinced that an examination of some of Catherine H. Zuckert’s objections to my article can contribute to a better understanding of Gadamer’s philosophical interventions under National Socialism. Her commentary gives me the opportunity to clarify some misunderstandings.¹ It is both striking and paradoxical that in Zuckert’s polemic, the hermeneutic postulate of openness to the opinions of others and the paradigm of understanding summon up less tolerance and moderation whenever a critical examination of the stock of tradition leads to undesirable results. It should be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Salutations:</title>
+                     <subtitle>A Response to Zuckert</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WAITE</surname>
+                           <given-names>GEOFF</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>256</fpage>
+                  <abstract>
+                     <p>With her promotion of “mediation,” “dialogue,” and “moderation,” Catherine H. Zuckert is to be saluted for her triumphant response to the essays of Orozco and Waite, a response that could be used as a textbook case for careful study, not necessarily for its specific object of analysis (needless to say), but for its overall and well-nigh seamless hermeneutic approach and rhetorical technique. Any momentary appearance to the contrary, this concession is ultimately<italic>not</italic>meant ironically. Certainly Zuckert’s response has the virtue of exemplifying the temper of our times. This is to say that it not only could be read with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.21</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>307</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.22</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>311</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pp75p.23</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>317</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

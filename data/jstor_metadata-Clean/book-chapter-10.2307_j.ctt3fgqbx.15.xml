@@ -1,0 +1,401 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt3fgqbx</book-id>
+      <subj-group>
+         <subject content-type="call-number">B765.T54A687 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Thomas, Aquinas, Saint, 1225?-1274</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Augustine, Saint, Bishop of Hippo</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Aquinas the Augustinian</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Dauphinais</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>David</surname>
+               <given-names>Barry</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Levering</surname>
+               <given-names>Matthew</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813214924</isbn>
+      <isbn content-type="epub">9780813220406</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt3fgqbx"/>
+      <abstract abstract-type="short">
+         <p>The book is composed of eleven essays by an international group of renowned scholars from the United States, England, Switzerland, Holland, and Italy</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Partly in response to neo-Thomistic criticisms of Augustine, the relationship between Augustine’s thought and Thomas Aquinas’s received a central place in the French Dominican Marie-Dominique Chenu’s research on Aquinas. Thomas Aquinas inherits from Augustine a theological and philosophical patrimony, says Chenu, “outside of which it is impossible to conceive a Saint Thomas.”¹ During the thirteenth century, he notes, “the works of Augustine were being more assiduously read in the original form,” and Augustine’s major writings formed the basis of the new university libraries.² He recognizes that Augustine’s influence on Aquinas is deeper for some theological topics than for others,³ and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Trinitarian Theology as Spiritual Exercise in Augustine and Aquinas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Emery</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>English translation by</role>
+                        <name name-style="western">
+                           <surname>Ku</surname>
+                           <given-names>John Baptist</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>St. Thomas presents his speculative Trinitarian doctrine as an extension or personal development of the teaching of the Fathers and of St. Augustine in particular. Thus, for example, when he introduces his teaching on Trinitarian relations, St. Thomas explains that he is going to unfold it “by following the statements of the holy [Fathers]”;¹ and when he shows the plurality of the persons, he announces that he is going to do it “especially in accordance with the way by which Augustine manifested it,”² in other words, by means of the analogy of the word and of love. In Thomas’s Trinitarian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Aquinas the Augustinian?</title>
+                     <subtitle>On the Uses of Augustine in Aquinas’s Trinitarian Theology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marshall</surname>
+                           <given-names>Bruce D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Deep in the <italic>Summa theologiae</italic>’s questions on the Trinity, St. Thomas Aquinas detects a problem in the Trinitarian theology of St. Augustine. The issue, very extensively discussed in medieval Trinitarian theology from the twelfth century on, is whether the divine essence generates, or is generated—whether the essence itself, and not merely one or another of the divine Persons, can rightly be said to generate or beget anything, or to be generated or begotten by anything. The answer is an emphatic no: “The essence does not generate the essence.”¹ Generating and being generated are each characteristics which are proper or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Theology and Theory of the Word in Aquinas:</title>
+                     <subtitle>Understanding Augustine by Innovating Aristotle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goris</surname>
+                           <given-names>Harm</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In contemporary discussions, Aquinas’s theory of the word plays a role mainly in certain philosophical issues, in particular the semantic and epistemological status of the inner word <italic>(verbum interius)</italic> or concept and the question whether Aquinas represents some form of direct realism or representationalism.¹ Generally, however, little attention is paid to the fact that Aquinas’s theory of the word evolved over the course of his career. This neglect can have serious consequences for the interpretation of Aquinas’s position.²</p>
+                     <p>In this essay, I shall trace the development of Aquinas’s reflection on what a word is.³ I shall not go into the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Augustine, Aristotelianism, and Aquinas:</title>
+                     <subtitle>Three Varieties of Philosophical Adaptation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rist</surname>
+                           <given-names>John M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Etienne Gilson used to claim, not least in <italic>Being and Some Philosophers</italic>, that Platonists are regularly confused (at best) about the relation between essence and existence: I presume that his attention was primarily directed not at some ancient Platonist, but at Avicenna, who, in distinguishing essence and existence, was induced to argue that existence is an accident of essence.¹ For Plotinus and ancient Neoplatonists, of course, the “essence” of a thing is associated with the degree of its unity as that thing, and that unity, indicating not <italic>that</italic> a thing is but <italic>what</italic> a thing is, is determined by its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Imago Dei:</title>
+                     <subtitle>A Test Case for St. Thomas’s Augustinianism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Callaghan</surname>
+                           <given-names>John P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>100</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The topic of man as the <italic>imago Dei</italic> is a prominent theme in St. Thomas’s major systematic works, including his Scriptum super libros sententarium Magistri Petri Lombardi (Commentary on the Sentences), the Quaestiones disputatae de veritate <italic>(De veritate)</italic> and the Summa theologiae <italic>(Summa)</italic>. His theological approach to the theme is deeply informed by St. Augustine, in particular his De Trinitate. Thus, the topic presents a paradigm instance for considering St. Thomas as an Augustinian. In his exhaustive and excellent treatment of St. Thomas on the <italic>imago Dei</italic>, To the Image of the Trinity: A Study in the Development of St.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Augustine and Aquinas on Original Sin:</title>
+                     <subtitle>Doctrine, Authority, and Pedagogy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract abstract-type="extract">
+                     <p>My interest in this topic stems from my graduate school days, when I began studying the Fathers and then the moral teaching of Thomas Aquinas. When it came to assessing the reach and influence of Augustine’s teachings in the thirteenth century, our teachers instructed us always to remember that Augustine’s principal conduit was the <italic>Libri sententiarum</italic> of Peter Lombard, who had gathered together quotations from many theological figures but most especially from Augustine and had placed them into his “book of opinions,” arranging them dogmatically, in order to cover the Christian religion.¹ The success of Lombard’s text, both inside the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>“Without Me You Can Do Nothing”:</title>
+                     <subtitle>St. Thomas with and without St. Augustine on John 15:5</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mansini</surname>
+                           <given-names>Guy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Both St. Augustine and St. Thomas commented on the Gospel according to John. As we might expect, St. Thomas learned much about the fourth gospel from St. Augustine. In his own commentary, St. Thomas cites him more than any other patristic writer. However, and again as we should expect, he had lights of his own in meditating on the Light that shone in the darkness, the Light that neither St. Augustine nor St. Thomas supposed they could comprehend. “As Augustine says, to attain to God with the mind is a great blessing, but to comprehend Him is impossible.”¹ This essay</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Aquinas, Augustine, and the Medieval Scholastic Crisis concerning Charity</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sherwin</surname>
+                           <given-names>Michael S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract abstract-type="extract">
+                     <p>One of the dangers of applying the scholastic method of dialectical questioning to the study of theology is that one may pose a question that one’s culture does not yet know how to answer, or at least not answer well. This is precisely what happened when the early scholastics of the twelfth century started to pose questions about Augustine’s portrayal of charity.¹ The crisis was perhaps inevitable. The twelfth century witnessed a remarkable blossoming of interest in the nature of love, especially of love as desire.² It was a unique historical moment. With the marriage of Eleanor of Aquitaine to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Augustine and Aquinas on the Good Shepherd:</title>
+                     <subtitle>The Value of an Exegetical Tradition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Levering</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract abstract-type="extract">
+                     <p>How does the patristic-medieval tradition of biblical interpretation flow from and shape a Christological understanding of ecclesial authority? In seeking to answer this question, this essay will focus upon exegesis of Jesus’ depiction of himself in John’s Gospel as the “good shepherd” (Jn 10:1–18). I will proceed in three steps. First, I will summarize two recent attempts by biblical exegetes, one Catholic and one Protestant, to expose the meaning of John 10:1–18. Second, I will survey Augustine’s reading of this passage in his commentary on John’s Gospel. Third, I will examine in detail Aquinas’s exegesis of this passage,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Reading Augustine through Dionysius:</title>
+                     <subtitle>Aquinas’s Correction of One Platonism by Another</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hankey</surname>
+                           <given-names>Wayne J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Nothing presents more problems for those who would enter the mentality of the medieval philosophical theologian than the task which has been set for this volume. Trying to judge the influence on Thomas Aquinas’s doctrine of one of his authoritative ancient sources requires us to surrender, at least provisionally, what we think we know about the authority in question. As heirs of Renaissance and modern philology, and of the modern constructions of the history of philosophy, we will almost certainly have a different, perhaps even opposed, view of the source than a medieval theologian would have had. Ironically, our problem</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Wisdom Eschatology in Augustine and Aquinas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamb</surname>
+                           <given-names>Matthew L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>258</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The theme “Aquinas the Augustinian” provides an occasion to overcome some contemporary stereotypes that pit a Platonic St. Augustine against an Aristotelian St. Thomas Aquinas. Augustine, in this scenario, is a world-despising rigorist wrapped up in a subject-centered, self-communicative approach to questions, whereas Aquinas is identified with a world-affirming, object-centered metaphysical approach.¹ There are differences between the two theological giants. But the differences are far more complementary than contradictory. The erection of contradictory contrasts has occasioned misreadings by contemporary writers unaware of the Cartesian or Kantian lenses through which they project onto the ancient texts typically modern and postmodern dualisms</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.16</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgqbx.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

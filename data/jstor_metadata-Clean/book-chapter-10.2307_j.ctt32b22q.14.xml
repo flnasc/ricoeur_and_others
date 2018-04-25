@@ -1,0 +1,702 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32b22q</book-id>
+      <subj-group>
+         <subject content-type="call-number">BS2615.52.R43 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bible. N.T. John</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism, interpretation, etc</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Thomas, Aquinas, Saint, 1225?–1274. Super Evangelium S. Joannis lectura</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Reading John with St. Thomas Aquinas</book-title>
+         <subtitle>Theological Exegesis and Speculative Theology</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Dauphinais</surname>
+               <given-names>Michael</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Levering</surname>
+               <given-names>Matthew</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813214054</isbn>
+      <isbn content-type="epub">9780813219219</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt32b22q"/>
+      <abstract abstract-type="short">
+         <p>This volume fits within the contemporary reappropriation of St. Thomas Aquinas, which emphasizes his use of Scripture and the teachings of the church fathers without neglecting his philosophical insight.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Like all medieval biblical commentaries, Aquinas’s <italic>Commentary on John</italic> consists to a significant degree in speculative theological questioning inspired by the biblical text. Proceeding on the assumption that it would not have been possible for St. John to have written what he wrote without the ecclesial light of faith and without engaging speculative questions, Aquinas’s commentary recommends a similar movement in the thought of the biblical interpreter: speculative thinking about divine realities emerges from within biblical exegesis itself. The circular movement from biblical exegesis to speculative theology and back again must be a continual one for the health of both</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Authorial Intention and the<italic>Divisio textus</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boyle</surname>
+                           <given-names>John F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Beryl Smalley in her landmark book, <italic>The Study of the Bible in the Middle Ages,</italic> sought to show, among other things, that not all of those who commented on the Bible in the Middle Ages were, in her words, theologians. Some were also scholars.¹ The mark of the scholar was an interest in the literal sense apart from and in contrast to the Middle Ages’ seeming fixation on the spiritual or mystical senses of Scripture. In particular, Smalley was interested in those scholars whose work was a kind of anticipation of modern biblical scholarship, especially of an historical critical flavor.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>The Theological Role of the Fathers in Aquinas’s<italic>Super Evangelium S. Ioannis Lectura</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Stephen F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Many modern studies on the nature of theology according to St. Thomas Aquinas have been centered on his claim for a scientific study of divine revelation. This stress perhaps to a great extent is due to our modern concentration on the opening question of the <italic>Summa theologiae,</italic> where the second article asks: “Whether sacred doctrine is a science?” The immediate context is the preceding article: “ Whether besides the philosophical disciplines any further doctrine is required?” By placing sacred doctrine in contrast to the teachings of the philosophical disciplines, Aquinas invites us to compare the kind of science that each</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>Biblical Exegesis and the Speculative Doctrine of the Trinity in St. Thomas Aquinas’s<italic>Commentary on St. John</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Emery</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The theological exposition of the Gospel of St. John is certainly to be considered the most fully complete and most profound commentary that St. Thomas Aquinas has left us.¹ According to M.-D. Philippe, the <italic>Commentary on St. John</italic> is “the theological work par excellence of St. Thomas”: this commentary enables us to enter into the theological intelligence of St. Thomas, even better than does the <italic>Summa theologiae</italic> or the <italic>Summa contra gentiles.</italic>² This special value of the <italic>Commentary on the Gospel of St. John</italic> is to be found notably in the importance of the speculative developments of the biblical exposition,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>What Does the Spirit Have to Do?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marshall</surname>
+                           <given-names>Bruce D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract abstract-type="extract">
+                     <p>From the West as well as the East, among Roman Catholics as well as Protestants, Christian theologians now regularly suggest that western theology suffers from a “pneumatological deficit.” The Western theological tradition accounts for the temporal actions of the triune God, so these critics worry, without giving the Holy Spirit anything to do. In contrast to the Father and especially the Son, the Spirit has no action of his own, and no property, effect, or relationship to us that is unique to him. As a result, the Spirit himself tends to vanish.¹ Where we should expect traditional theology to speak</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.9</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Does the Paschal Mystery Reveal the Trinity?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Levering</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>78</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When a biblical scholar such as N. T. Wright, a confessing Christian with a deserved reputation for theological depth, faults Patristic and medieval theology for a distortion of the biblical portrait of God, his argument deserves attention from theologians.¹ This is even more the case when his view corresponds to a movement in Protestant (Barth, Moltmann) and Catholic (Mühlen, Balthasar) Trinitarian theology to employ the Paschal mystery of Jesus Christ as the fundamental datum for speculation into the life of the Trinity.² Anne Hunt, in her study of this theological movement, speaks for many of these theologians in arguing that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.10</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>The Analogy of Mission and Obedience</title>
+                     <subtitle>A Central Point in the Relation between<italic>Theologia</italic>and<italic>Oikonomia</italic>in St. Thomas Aquinas’s<italic>Commentary on John</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Waldstein</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+                  <abstract abstract-type="extract">
+                     <p>
+                        <italic>Obedientia est maxima virtutum,</italic> “Obedience is the greatest of all virtues,” St. Thomas Aquinas says, citing Gregory the Great with approval.¹ At least, as he is careful to point out in another place, it is the greatest of all the moral virtues. Only the theological virtues are greater.² Again citing Gregory he says, <italic>Obedientia non tam est virtus quam mater omnium virtutum,</italic> “Obedience is not so much a virtue, but the mother of all the virtues.”³ Or in a more sweeping judgment, <italic>Omne bonum, quantumcumque bonum est per se, per obedientiam redditur melius,</italic> “Every good, however good it is in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.11</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Creation in St. Thomas Aquinas’s<italic>Super Evangelium S. Joannis Lectura</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burrell</surname>
+                           <given-names>David B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It will hardly seem strange to remind ourselves that appropriating Aquinas for our times may well require deconstructing appropriations effected in other intellectual climes, especially those of the last century. Indeed, an outstanding note of these earlier readings had been their unilateral focus on Aquinas the philosopher, generating a fast distinction between “philosophy” and “theology”—a distinction that hardened into an institutional separation between such faculties in Catholic colleges and universities. There emerged a bridging discipline, to be sure, called “natural theology,” which purported to treat theological issues from “reason alone.” Yet the issues so treated—typically the existence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.12</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Eternity and Time in St. Thomas Aquinas’s Lectures on St. John’s Gospel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamb</surname>
+                           <given-names>Matthew L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In commenting on John 3:24 “For he gives the Spirit without measure,” Aquinas makes the startling affirmation that the grace of Christ is not only more than sufficient to save the entire world, but that it is more than sufficient to save “even many worlds, if they were to exist” (<italic>Ioan</italic>. 3, lect. 6, n. 544). To understand the concrete universality of Jesus Christ, the reader must overcome an all too contemporary tendency, rooted in nominalism, to oppose the universal and the particular, the metaphysical and the historical, as if one was only “conceptual” and the other “concrete.” In trinitarian</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.13</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>Divine Providence and John 15:5</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Long</surname>
+                           <given-names>Steven A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>140</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“Without me you can do nothing” (Jn 15:5). One of the chief meanings of these words according to St. Thomas Aquinas is—as he writes in chapter 67 of the first part of the third volume of the <italic>Summa contra gentiles</italic>—“That in all things that operate God is the cause of their operating.” St. Thomas further writes in chapter 67:</p>
+                     <p>Hence it is clear that in all things that operate God is the cause of their operating. For everyone that operates is in some way a cause of being, either of essential or of accidental being. But nothing is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.14</book-part-id>
+                  <title-group>
+                     <label>TEN</label>
+                     <title>The Concept of “Life” in the<italic>Commentary on St. John</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leget</surname>
+                           <given-names>Carlo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The concept of “life” is without any doubt a key word in both Aquinas’s theology and the Gospel of St. John. This can easily be shown as regards both statistics and content.¹ In this essay I will address two questions. The first question is how Thomas deals with this concept in his <italic>Commentary on St. John</italic>. In answering this question I will refer to other works of Aquinas where he deals with the concept of “life” and show how these interrelate. The second question concerns the way Aquinas’s exegesis relates to doing theology at the threshold of the third millennium.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.15</book-part-id>
+                  <title-group>
+                     <label>ELEVEN</label>
+                     <title>Christ the Teacher in St. Thomas’s<italic>Commentary on the Gospel of John</italic>
+                     </title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sherwin</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The first chapter of the Gospel of John describes an encounter between Jesus and two disciples of John the Baptist. These two disciples are following Jesus when suddenly Jesus turns to them and asks, “What do you seek?” The disciples respond, “Rabbi [which is translated as ‘teacher’ in English, or <italic>magister</italic> in Latin], where do you dwell?” (Jn 1:38). In his <italic>Commentary on the Gospel of St. John,</italic> Thomas Aquinas portrays this encounter as a model of all encounters with Christ that lead to discipleship. Aquinas regards it as initiating a unique relationship, the relationship between Christ, the master, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.16</book-part-id>
+                  <title-group>
+                     <label>TWELVE</label>
+                     <title>“Come and See”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Janet E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>194</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Why is it that some people accept Christ as the Son of God and their Savior and others do not? Why is it that some respond to evangelization and others do not? Certainly, sometimes inadequate knowledge or unpersuasive arguments make an evangelizer ineffective. Perhaps the evangelizer’s own life is not a model of what he is preaching and thus his teaching is unattractive. But when Christ is the evangelizer, none of these negatives could possibly apply. Is there any explanation why some recognize Christ for who he is when they are invited to “Come and see” and others do not?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.17</book-part-id>
+                  <title-group>
+                     <label>THIRTEEN</label>
+                     <title>And Jesus Wept</title>
+                     <subtitle>Notes towards a Theology of Mourning</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schenk</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>212</fpage>
+                  <abstract abstract-type="extract">
+                     <p>To investigate historical texts with systematic intent demands at the start that we develop a rough idea of the goal that might be served by the texts that we plan to examine more closely. In the best case, the sense of where we are headed will make us aware of those texts most relevant to our question. This anticipation of a plausible end is also the condition of the possibility of ever being taught by the texts that an initial aim is untenable; the preconception of a systematic goal is what makes possible its verification or falsification along with the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.18</book-part-id>
+                  <title-group>
+                     <label>FOURTEEN</label>
+                     <title>The Extent of Jesus’ Human Knowledge according to the Fourth Gospel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ashley</surname>
+                           <given-names>Benedict M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>241</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The First and Second Parts of the <italic>Summa theologiae</italic> of St. Thomas Aquinas prepare for his exploration of the mystery of the Person and work of Jesus Christ our Savior. His treatment of the Church, the sacraments, and the goal of history are all considered as the completion of his own work during his earthly and risen life. In his exploration in the Third Part of his <italic>Summa theologiae</italic> of the Person and work of Jesus, St. Thomas Aquinas drew heavily on his previous study of the fourth Gospel.¹ In the <italic>Prologue</italic> of his commentary on this Gospel (n. 1)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.19</book-part-id>
+                  <title-group>
+                     <label>FIFTEEN</label>
+                     <title>Anti-Docetism in Aquinas’s<italic>Super Ioannem</italic>
+                     </title>
+                     <subtitle>St. Thomas as Defender of the Full Humanity of Christ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gondreau</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>254</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Biblical scholars have long noted the anti-docetic overtones of John’s Gospel. These overtones targeted the latent tendencies in the primitive Christian community to deny, in varying degrees, the reality of Christ’s humanity. (From the Greek δoκέω, “to seem,” docetism, which was the first great challenge to Christological faith, alleges that Christ only <italic>appeared</italic> to have come in the flesh.)¹ What is less known, and what remains one of the most unappreciated elements of his thought, is St. Thomas’s own rather pronounced anti-docetism.² Aquinas’s anti-docetism is borne out of his reading of the New Testament, and in particular of the Gospel</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.20</book-part-id>
+                  <title-group>
+                     <label>SIXTEEN</label>
+                     <title>Aquinas and Christ’s Resurrection</title>
+                     <subtitle>The Influence of the<italic>Lectura super Ioannem</italic>20–21 on the<italic>Summa theologiae</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Valkenberg</surname>
+                           <given-names>Pim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>277</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When I published a revised version of my dissertation on <italic>Place and Function of Holy Scripture in the Theology of St. Thomas Aquinas,</italic> I realized that the choice of this subject was to a large extent determined by the ecumenical atmosphere of my theological education at the Catholic Theological University of Utrecht, now the home of the Thomas Institute at Utrecht.¹ First, therefore, let me make some preliminary remarks on the theological significance of reading John with Aquinas, issuing from my present theological position at the Catholic University of Nijmegen, in which I am involved in interreligious dialogue and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.21</book-part-id>
+                  <title-group>
+                     <label>SEVENTEEN</label>
+                     <title>“That the Faithful Become the Temple of God”</title>
+                     <subtitle>The Church Militant in Aquinas’s<italic>Commentary on John</italic>
+                     </subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bauerschmidt</surname>
+                           <given-names>Frederick Christian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Where <italic>did</italic> Thomas Aquinas put his ecclesiology? Theologians today generally accept the claim that Thomas has no “ecclesiology” as we would understand that term, by which I mean that he never takes up the Church as a distinct locus for comprehensive theological discussion.¹ Did the famously absent-minded saint simply misplace it? One searches the <italic>Summa theologiae</italic> in vain for a treatise <italic>de ecclesiae.</italic>² The situation seems even less promising in his <italic>Commentary on the Gospel of St. John,</italic> where the commentary genre itself does not tend to the systematic treatment of anything. Yet this does not mean that Thomas’s commentary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.22</book-part-id>
+                  <title-group>
+                     <label>EIGHTEEN</label>
+                     <title>“And They Shall All Be Taught by God”</title>
+                     <subtitle>Wisdom and the Eucharist in John 6</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dauphinais</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>312</fpage>
+                  <abstract abstract-type="extract">
+                     <p>John 6 offers a unique view of Jesus Christ. It begins with a miracle of the loaves and fishes, continues with a miracle of Jesus walking on water, and then culminates with the bread of life discourse. Almost all biblical scholars and theologians recognize some connection between the miraculous multiplication of physical bread and the subsequent discourse on the bread of life. But what is the character of that living bread come down from heaven? Is the bread of life simply equivalent to Jesus’ wisdom from on high, or is it the Eucharistic flesh of Jesus? Although some contemporary biblical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.23</book-part-id>
+                  <title-group>
+                     <label>NINETEEN</label>
+                     <title>The Role of the Apostles in the Communication of Revelation according to the<italic>Lectura super Ioannem</italic>of St. Thomas Aquinas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bonino</surname>
+                           <given-names>Serge-Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bede</surname>
+                           <given-names>Teresa</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Levering</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>318</fpage>
+                  <abstract abstract-type="extract">
+                     <p>God does not need human beings. The First Cause has no need of secondary causes to accomplish his ends. In the government of the universe, however, God has recourse to secondary causes in order to communicate in a hierarchical way the perfections that he imparts to creatures and in order to bring them to himself. In particular, God employs intermediaries in order to communicate to spiritual creatures the perfection that is supernatural knowledge.</p>
+                     <p>Now, as Dionysius says (Coel. Hier. iv), the divinely established law of such things is that they be revealed immediately by God to higher persons, through whom</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.24</book-part-id>
+                  <title-group>
+                     <title>About the Contributors</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.25</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                     <subtitle>St. Thomas Aquinas and the Bible</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <role>Compiled by</role>
+                        <name name-style="western">
+                           <surname>Baglow</surname>
+                           <given-names>Christopher T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>351</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.26</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>363</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b22q.27</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>372</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

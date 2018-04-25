@@ -1,0 +1,906 @@
+<article dtd-version="1.0" article-type="research-article">
+   <front>
+      <journal-meta>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">bmsbullsocimeth</journal-id>
+         <journal-id xmlns:xlink="http://www.w3.org/1999/xlink" journal-id-type="jstor">j50010625</journal-id>
+         <journal-title-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <journal-title>BMS: Bulletin of Sociological Methodology / Bulletin de Méthodologie Sociologique</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>AIMS</publisher-name>
+         </publisher>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="ppub">07591063</issn>
+         <issn xmlns:xlink="http://www.w3.org/1999/xlink" pub-type="epub">20702779</issn>
+      </journal-meta>
+      <article-meta>
+         <article-id xmlns:xlink="http://www.w3.org/1999/xlink" pub-id-type="jstor">24359736</article-id>
+         <title-group>
+            <article-title>METHODES ET PRATIQUES FORMALISEES D'ANALYSE DE CONTENU ET DE DISCOURS DANS LA RECHERCHE SOCIOLOGIQUE FRANCAISE CONTEMPORAINE. ETAT DES LIEUX ET ESSAI DE CLASSIFICATION</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib>
+               <string-name xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <given-names>Jacques</given-names>
+                  <surname>Jenny</surname>
+               </string-name>
+            </contrib>
+         </contrib-group>
+         <pub-date xmlns:xlink="http://www.w3.org/1999/xlink">
+            <day>1</day>
+            <month>3</month>
+            <year>1997</year>
+         </pub-date>
+         <issue>54</issue>
+         <issue-id xmlns:xlink="http://www.w3.org/1999/xlink">i24359731</issue-id>
+         <fpage>64</fpage>
+         <lpage>122</lpage>
+         <self-uri xmlns:xlink="http://www.w3.org/1999/xlink"
+                   xlink:href="http://www.jstor.org/stable/24359736"/>
+         <abstract>
+            <p>An initial awareness is needed of the debates regarding the choice of research approaches in sociology and the diversity and specificity of methods currently being used in the domain of textual data analysis in France. In general the influence of the French socio-linguistic tradition looms large, including, on the one hand, the older works of Michel Pécheux on the "discursive formations" and his A.A.D. (Analyse Automatique du Discours, 1969), and on the other hand, two main perspectives of the "Ecole Française d'Analyse du/de Discours" - which refer to the "speech act" concept and to the problematics of enunciation, and emphasizes the processes and "sociodiscursive practices" between socially-located speakers. Such theoretical conceptions and specific requirements lead to build on methodologies different from the classic, theme-based content analysis, though not yet translated into an operational software. Then the main software developments currently having an impact (at least potential) on practices of computer-aided sociological analysis of textual data, in France, are classified : from the lexicometric using procedures of "French Data Analysis" ('Analyse Factorielle des Correspondances' of Benzecri, and so on...), to a set of "expert-systems" working on specific theoretical frameworks, through more classical methods of content analysis and coding-sorting-retrieving socio-semantic procedures, eventually with various statistical methods. L'auteur expose d'abord quelques considèrations épistémologiques générales sur les présupposés implicites des méthodes de recherche sociologique, abusivement séparées en qualitatives et quantitatives, et des interrogations spécifiques sur le statut des corpus textuels et des pratiques socio-discursives dans différents domaines et selon divers types de problématique en sociologie. Puis, après un résumé des problématiques sociolinguistiques de l'"énonciation", propres aux courants de l'Analyse de Discours à la française", il propose une classification des principaux lieux d'élaboration théorico-méthodologique ayant (ou susceptibles d'avoir) un impact sur les pratiques informatisées d'analyse textuelle: de la lexicométrique inspirée de l'"Analyse des données a la française", actuellement dominante, a des quasi-systèmes-experts, branchés sur des problématiques sociologiques particulières, en passant par des méthodes plus "classiques" d'analyse de contenu thématique, de type socio-sémantique, et de codification a posteriori de réponses à des questions ouvertes et autres énoncés produits en langage naturel.</p>
+         </abstract>
+         <custom-meta-group xmlns:xlink="http://www.w3.org/1999/xlink">
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>fre</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <back>
+      <ref-list>
+         <title>NOTE</title>
+         <ref id="d16259e107a1310">
+            <label>1</label>
+            <mixed-citation id="d16259e114" publication-type="other">
+Copyright Current Sociology, 1997.</mixed-citation>
+            <mixed-citation id="d16259e120" publication-type="other">
+Jenny (1996)</mixed-citation>
+         </ref>
+      </ref-list>
+      <ref-list>
+         <title>NOTES BIBLIOGRAPHIQUES</title>
+         <ref id="d16259e136a1310">
+            <mixed-citation id="d16259e140" publication-type="other">
+Achard Pierre (1986) Analyse de Discours et sociologie du langage,
+langage et Société (37): 5-53 + bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e150a1310">
+            <mixed-citation id="d16259e154" publication-type="other">
+Achard Pierre (1987) On the Methodology of Discours Analysis and
+Content Analysis, B.M.S. (13): 24-32,</mixed-citation>
+         </ref>
+         <ref id="d16259e164a1310">
+            <mixed-citation id="d16259e168" publication-type="other">
+Achard Pierre (1987) L'analyse de discours est-elle brevetable?,
+Langage et Société (42) décembre: 45-70.</mixed-citation>
+         </ref>
+         <ref id="d16259e178a1310">
+            <mixed-citation id="d16259e182" publication-type="other">
+Achard Pierre (1994) Sociologie du langage el analyse d'enquêtes. De
+l'hypothèse de la rationalité des réponses. Sociétés contemporaines
+(18/19) juin-septembre: 67-100.</mixed-citation>
+         </ref>
+         <ref id="d16259e196a1310">
+            <mixed-citation id="d16259e200" publication-type="other">
+Achard fi erre (1995) Formation discursive, dialogisme et sociologie,
+Langages (117) mars: 82-95.</mixed-citation>
+         </ref>
+         <ref id="d16259e210a1310">
+            <mixed-citation id="d16259e214" publication-type="other">
+Aiva Edna (1993) La liberté d'action et de pensée des professionnels
+et les contraintes en milieu carcéral. Paris, T.R.A.S.S.: 37-42.</mixed-citation>
+         </ref>
+         <ref id="d16259e224a1310">
+            <mixed-citation id="d16259e228" publication-type="other">
+Anger René et Sauvat André (1994) Etude bibliographique sur des
+méthodes informatiques d'analyse et compréhension des textes.
+Mémoire de D.E.A. Université de Technologie de Compiègne: 42 p. +
+Annexes.</mixed-citation>
+         </ref>
+         <ref id="d16259e244a1310">
+            <mixed-citation id="d16259e248" publication-type="other">
+Archimag (juin 1994 à octobre 1995) n. 73, 75. 77, 83, 85 et 86.</mixed-citation>
+         </ref>
+         <ref id="d16259e255a1310">
+            <mixed-citation id="d16259e259" publication-type="other">
+Armonv Victor et Duchastel Jules (1995) La catégorisation socio-
+sémantique, in JADT 1995, vol. II: 193-200.</mixed-citation>
+         </ref>
+         <ref id="d16259e269a1310">
+            <mixed-citation id="d16259e273" publication-type="other">
+Bachelet Catherine et Moscarola Jean (1995) La communication
+interne: diagnostic par l'analyse du discours des acteurs, in JADT
+1995, vol. II: 135-144.</mixed-citation>
+         </ref>
+         <ref id="d16259e287a1310">
+            <mixed-citation id="d16259e291" publication-type="other">
+Barthes Roland (1964) Eléments de sémiologie, in Le degré zéro de
+l'écriture. Paris, Gonthier, 2ème éd.: 79-177.</mixed-citation>
+         </ref>
+         <ref id="d16259e301a1310">
+            <mixed-citation id="d16259e305" publication-type="other">
+Battagliola Françoise, Bertaux-Wiame Isabelle, Ferrand Michèle et
+Imbert Françoise (1993) A propos des biographies: regards croisés
+sur questionnaires et entretiens. Population (2): 325-346.</mixed-citation>
+         </ref>
+         <ref id="d16259e318a1310">
+            <mixed-citation id="d16259e322" publication-type="other">
+Baudelot Christian (1994) Littératures électroniques. Textes,
+hypertextes, approches quantitatives des données textuelles. Grande
+journée d'information, Paris, ENS rue d'Ulm, 30 Novembre. Exposés
+et/ou démonstrations de logiciels, par Etienne Brunei (INaLF),
+Christine Ducourtieux (ENS), Daniel Béguin (ENS), André Salem
+(tNaLF), Eric Guichard (ENS) et Michel Gollac (INSEE).</mixed-citation>
+         </ref>
+         <ref id="d16259e345a1310">
+            <mixed-citation id="d16259e349" publication-type="other">
+Baulac Yves (1995) Exploration de données textuelles avec Le
+Sphinx, in JADT 1995, vol. II: 73-80.</mixed-citation>
+         </ref>
+         <ref id="d16259e359a1310">
+            <mixed-citation id="d16259e363" publication-type="other">
+Beaudoin Valérie et Lahlou Saadi (1993) L'analyse lexicale: outil
+d exploration des représentations, Cahier de recherche du CREDOC
+(48).</mixed-citation>
+         </ref>
+         <ref id="d16259e376a1310">
+            <mixed-citation id="d16259e380" publication-type="other">
+Beaudoin Valérie et Aucouturier Anne-Lise (1995) Histoires
+d'insertion. Analyse lexicale de 580 récits de parcours de jeunes.
+Travail et Emploi (65): 19-38.</mixed-citation>
+         </ref>
+         <ref id="d16259e394a1310">
+            <mixed-citation id="d16259e398" publication-type="other">
+Becue Monica el Haeusler Laurence (1995) Vers une post-
+codification automatique, in JADT 1995 vol. I: 35-42,</mixed-citation>
+         </ref>
+         <ref id="d16259e408a1310">
+            <mixed-citation id="d16259e412" publication-type="other">
+Benzécri Jean-Paul et al. (1981) Pratique de l'analyse des données.
+Tome 3: Linguistique et Lexicologie. Paris, Dunod: 566 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e422a1310">
+            <mixed-citation id="d16259e426" publication-type="other">
+Blanche! Alain et al (1985) L'entretien dans les sciences sociales.
+L'écoute, la parole et le sens (préface de Max Pages). Paris, Dunod;
+290 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e439a1310">
+            <mixed-citation id="d16259e443" publication-type="other">
+Bonnafous Simone et Toumier Maurice (1995) Analyse du discours,
+lexicométrie, communication et politique. Langages (117) mars: 67-
+81.</mixed-citation>
+         </ref>
+         <ref id="d16259e456a1310">
+            <mixed-citation id="d16259e460" publication-type="other">
+Bourque Gilles et Duchastel Jules (1995) Citoyenneté et identité
+nationale: une analyse de notions-clés, in JADT 1995. vol. II: 185-
+192.</mixed-citation>
+         </ref>
+         <ref id="d16259e473a1310">
+            <mixed-citation id="d16259e477" publication-type="other">
+Boutet Josiane (1994) Construire le sens. Berne. Peter Lang: 217 p.
++ bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e488a1310">
+            <mixed-citation id="d16259e492" publication-type="other">
+Boutet Josiane, Gardin Bernard et Lacoste Michèle (1995) Discours
+en situation de travail, Langages (117) mars: 12-31. On retrouve
+ces auteur(e)s et d'autres, parmi lesquelles les sociologues Anni
+Borzeix et Danièle Kergoat, dans un ouvrage collectif dirigé par
+Josiane Boutet, sous le titre Paroles au travail. Paris L'Harmattan,
+1995: 267 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e515a1310">
+            <mixed-citation id="d16259e519" publication-type="other">
+Brugidou Mathieu et Le Quéau Pierre (1995) L'analyse des
+entretiens non-directifs par la méthode des rafales, in JADT 1995.
+vol. II: 57-64.</mixed-citation>
+         </ref>
+         <ref id="d16259e532a1310">
+            <mixed-citation id="d16259e536" publication-type="other">
+Brunei Etienne (1981) 1m vocabulaire français de 1789 à nos jours,
+d'après les données du Trésor de la langue française, Genève-Paris,
+Slatkine-Champion. Auteur du logiciel de lexicométrie statistique
+Hyperbase.</mixed-citation>
+         </ref>
+         <ref id="d16259e552a1310">
+            <mixed-citation id="d16259e556" publication-type="other">
+Brunei Etienne (1995) Web et la statistique, in JADT 1995. vol. Il: p.
+83.</mixed-citation>
+         </ref>
+         <ref id="d16259e566a1310">
+            <mixed-citation id="d16259e570" publication-type="other">
+Canguilhem Georges (1950) Essai sur quelques problèmes
+concernant le normal et le pathologique. Strasbourg, Presses
+Universitaires de Strasbourg, 1950: 159 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e583a1310">
+            <mixed-citation id="d16259e587" publication-type="other">
+Cervoni Jean (1987) L'énonciation. Paris. PUF. coll. Linguistique
+nouvelle.</mixed-citation>
+         </ref>
+         <ref id="d16259e598a1310">
+            <mixed-citation id="d16259e602" publication-type="other">
+Charaudeau Patrick (1995) Une analyse sémiolinguistique du
+discours. Langages (117) mars: 96-111.</mixed-citation>
+         </ref>
+         <ref id="d16259e612a1310">
+            <mixed-citation id="d16259e616" publication-type="other">
+Chateauraynaud Francis (1991) La faute professionnelle. Une
+sociologie des conflits de responsabilité. Paris, Métaillié.</mixed-citation>
+         </ref>
+         <ref id="d16259e626a1310">
+            <mixed-citation id="d16259e630" publication-type="other">
+Chateaureynaud Francis et Charriau Jean-Pierre (1992)
+Hétérogénèse d'une machine sociologique. Technologies Idéologies
+Pratiques (X/2-5): 337-349.</mixed-citation>
+         </ref>
+         <ref id="d16259e643a1310">
+            <mixed-citation id="d16259e647" publication-type="other">
+Chat eau ravnaud Francis (1995) Une vision noire du monde. Céline,
+le peuple et la critique d'authenticité. Rapport d'enquête non publié:
+56 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e660a1310">
+            <mixed-citation id="d16259e664" publication-type="other">
+Cibois Philippe ( 1985) Belle-Ile: débat de presse sur un été chaud.
+Etude par la méthode "synoptique". Déviance et Société (IX/4): 313-
+332.</mixed-citation>
+         </ref>
+         <ref id="d16259e677a1310">
+            <mixed-citation id="d16259e681" publication-type="other">
+Cibois Philippe (1995) Tri-Deux, version 2.2 de janvier, B.M.S. (46)
+mars: 119-124.</mixed-citation>
+         </ref>
+         <ref id="d16259e692a1310">
+            <mixed-citation id="d16259e696" publication-type="other">
+Clavier Viviane. Lallich-Boidin Geneviève, Rouault Jacques et Timini
+Ismaïl (1995) Analyse automatique du discours: perspectives 1995.
+in JADT 1995. vol. "l: 163-171.</mixed-citation>
+         </ref>
+         <ref id="d16259e709a1310">
+            <mixed-citation id="d16259e713" publication-type="other">
+Constant Patrick (1995) L'analyseur syntaxique SYLEX.
+Communication à la 5ème Ecole d'été du CNET (Centre National des
+Télécommunications): 8 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e726a1310">
+            <mixed-citation id="d16259e730" publication-type="other">
+Coulter Jeff (1994) Logique et praxéologie. Esquisse d'une "socio-
+logique" de la pratique, Sociétés contemporaines (18-19), juin-
+septembre: 43-65.</mixed-citation>
+         </ref>
+         <ref id="d16259e743a1310">
+            <mixed-citation id="d16259e747" publication-type="other">
+Courtial Jean-Pierre et Juan J, (1986) L'obtention de cartes
+stratégiques de la recherche scientifique à partir de l'analyse des
+mots associés dans les fichiers documentaires. B.M.S. (12) octobre:
+22-38.</mixed-citation>
+         </ref>
+         <ref id="d16259e763a1310">
+            <mixed-citation id="d16259e767" publication-type="other">
+Courtial Jean-Pierre, Degenne Alain et Juan J. (1990) Analyse des
+mots associés et Analyse de similitude dans les fichiers
+documentaires, Informatique et sciences humaines (70-71) 15ème
+année: 95-105.</mixed-citation>
+         </ref>
+         <ref id="d16259e783a1310">
+            <mixed-citation id="d16259e789" publication-type="other">
+Culioli Antoine (1991) Pour une linguistique de l'énonciation.
+Opérations et représentations, Tome 1. Paris, Ophiys: 213 p. +
+bibliographie et index français et anglais. En dépit de son
+vocabulaire ésotérique et de son formalisme rigoureux, cet ouvrage
+stimule la réflexion bien au-delà de sa discipline propre, sur des
+phénomènes ou procédures langagiers que nous croyons bien
+connaître pour les pratiquer sans eflort conscient: par exemple, le
+concept de "notion" et les domaines notionncls avec leurs
+attracteurs et leur gradient, les opérations de détermination par
+extraction, fléchage ou parcours, etc. Un sociologue peut-il faire
+l'économie de cette initiation, sans pour autant devenir pseudo-
+linguiste?</mixed-citation>
+         </ref>
+         <ref id="d16259e832a1310">
+            <mixed-citation id="d16259e836" publication-type="other">
+Degenne Alain (1986) Des ordinateurs, pour quoi faire?. Le Courrier
+du CNRS (65) mai-juillet.</mixed-citation>
+         </ref>
+         <ref id="d16259e846a1310">
+            <mixed-citation id="d16259e850" publication-type="other">
+Dejours Christophe (1993) Projet de création d'un D.E.A. au CNAM
+(Conservatoire National des Arts et Métiers). Paris.</mixed-citation>
+         </ref>
+         <ref id="d16259e860a1310">
+            <mixed-citation id="d16259e864" publication-type="other">
+Dendani Mohamed (1994) L'application de la lexicométrie dans une
+perspective sociologique, B.M.S. (43): 34-52.</mixed-citation>
+         </ref>
+         <ref id="d16259e874a1310">
+            <mixed-citation id="d16259e878" publication-type="other">
+Doise Willem, Clemence Alain et Lorenzi-Cioldi Fabio (1992)
+Représentations sociales et analyses de données. Grenoble, Presses
+Universitaires de Grenoble: 246 p. + bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e891a1310">
+            <mixed-citation id="d16259e895" publication-type="other">
+Drouard Alain et Jenny Jacques (1986) Quelques usages de la
+notion de Solidarité dans les textes et les discours sociaux,
+politiques et scientifiques. Rapport de convention de recherche avec
+la MIRE (Ministère des Affaires Sociales et de la Solidarité nationale).
+Paris: 37 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e914a1310">
+            <mixed-citation id="d16259e918" publication-type="other">
+Duchastel Jules (1992) La sociologie et l'analyse de texte par
+ordinateur. Technologies, Idéologies. Pratiques (X/2-4): 253-264.</mixed-citation>
+         </ref>
+         <ref id="d16259e929a1310">
+            <mixed-citation id="d16259e933" publication-type="other">
+Duchastel Jules et Armony Victor (1996) Textual Analysis in
+Canada: An Interdisciplinary Approach to Qualitative Data, Current
+Sociology (44-3) hiver: 259-278.</mixed-citation>
+         </ref>
+         <ref id="d16259e946a1310">
+            <mixed-citation id="d16259e950" publication-type="other">
+Ebel Marianne et Fiala Pierre (1983) Sous le consensus, la
+xénophobie. Paroles, arguments, contextes (1961-1981). Lausanne,
+Institut de Science politique: 434 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e963a1310">
+            <mixed-citation id="d16259e967" publication-type="other">
+Fenoglio Irène (1993) Performatif et jeux avec les mots, Comptes-
+rendus des séances du Groupe Analyse du Discours de la revue
+Langage et Société (1990-1993). Paris, MSH-IRESCO: 44-60</mixed-citation>
+         </ref>
+         <ref id="d16259e980a1310">
+            <mixed-citation id="d16259e984" publication-type="other">
+Fenoglio Irène (1996) Question du contexte et événement
+d énonciation, SCOLIA (6): 215-234.</mixed-citation>
+         </ref>
+         <ref id="d16259e994a1310">
+            <mixed-citation id="d16259e998" publication-type="other">
+Ferber Jacques (1993) L'intelligence artificielle distribuée, Le
+Courrier du CNRS (80). Dossiers scientifiques: la recherche en
+informatique: 87-88.</mixed-citation>
+         </ref>
+         <ref id="d16259e1011a1310">
+            <mixed-citation id="d16259e1015" publication-type="other">
+Ferret Stéphane (1996) Le bateau de Thésée. Le problème de
+l'identité à travers le temps. Paris, Ed. de Minuit: 139 p. +
+bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e1029a1310">
+            <mixed-citation id="d16259e1033" publication-type="other">
+Fiala Pierre, Boutet Josiane et Ebel Marianne (1982) Relations
+paraphrastiques et construction sociale du sens. Analyse d'une
+formule dans les discours xénophobes. Modèles linguistiques (IV/1):
+39-79.</mixed-citation>
+         </ref>
+         <ref id="d16259e1049a1310">
+            <mixed-citation id="d16259e1053" publication-type="other">
+Fiala Pierre (1987) Pour une approche discursive de la phraséologie.
+Remarques en vrac sur la locutionalité, Langage et Société (42): 27-
+44.</mixed-citation>
+         </ref>
+         <ref id="d16259e1066a1310">
+            <mixed-citation id="d16259e1070" publication-type="other">
+Fiala Pierre (1989) Figements et phraséologie. Etat des recherches
+actuelles, in Courants sociolinguistiques. sous la direction de
+Gabrielle Drigeard. Pierre Fiala et Maurice Tournier. Paris,
+Klincksieck, Publications de l'INALF: 137-155.</mixed-citation>
+         </ref>
+         <ref id="d16259e1086a1310">
+            <mixed-citation id="d16259e1090" publication-type="other">
+Fiala Pierre (1994) L'interprétation en lexicométrie. Une approche
+quantitative des données lexicales. Langue française (103): 113-122.</mixed-citation>
+         </ref>
+         <ref id="d16259e1100a1310">
+            <mixed-citation id="d16259e1104" publication-type="other">
+Fielding N. G. and M. Lee R.M. eds. (1991) Using Computers in
+Qualitative Research. London, Sage Publications.</mixed-citation>
+         </ref>
+         <ref id="d16259e1114a1310">
+            <mixed-citation id="d16259e1118" publication-type="other">
+Flouzat Delphine (1995) Analyse des Attendus d'ordonnances de
+juges pour enfants. Document annexé au rapport d'enquête de
+Léomant C.. Segond P. et Sotteau-Léomant N.: 19 p. + annexes.</mixed-citation>
+         </ref>
+         <ref id="d16259e1132a1310">
+            <mixed-citation id="d16259e1136" publication-type="other">
+Fuchs Catherine (1994) Paraphrase et énonciation. Paris, Ophrys:
+174 p. + bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e1146a1310">
+            <mixed-citation id="d16259e1150" publication-type="other">
+Gardin Jean-Claude (1986) Archéologie et calculateurs: vers une
+archéologie théorique. Le Courrier du CNRS (65) mai-juillet.</mixed-citation>
+         </ref>
+         <ref id="d16259e1160a1310">
+            <mixed-citation id="d16259e1164" publication-type="other">
+Ghiglione Rodolphe et Blanchet Alain (1991) Analyse de contenu et
+Contenus d'analyse. Paris, Dunod: 129 p. + annexe et bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e1174a1310">
+            <mixed-citation id="d16259e1178" publication-type="other">
+Ghiglione Rodolphe, Kekenbosch Christiane et Landré Agnès (1995)
+L'analyse cognitivo-discursive. Grenoble, PUG: 139 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1188a1310">
+            <mixed-citation id="d16259e1192" publication-type="other">
+Giami Alain, Korpès Jean-Louis, Lavigne Chantai et Scelles Régine
+(1995) Un exemple d'articulation de méthodes d'analyse qualitatives
+et quantitatives sur des entretiens semi-directifs: les représentations
+du handicap, B.M.S. (47): 49-77.</mixed-citation>
+         </ref>
+         <ref id="d16259e1208a1310">
+            <mixed-citation id="d16259e1212" publication-type="other">
+Glady Marc (1986) Les opérations socio-cognitives mobilisées par un
+questionnaire d'association de mots, B.M.S. (9) janvier: 4-22.</mixed-citation>
+         </ref>
+         <ref id="d16259e1223a1310">
+            <mixed-citation id="d16259e1227" publication-type="other">
+Gretmas Algirdas-Julien (1986) Sémantique structurale. Paris, PUF,
+nouvelle édition.</mixed-citation>
+         </ref>
+         <ref id="d16259e1237a1310">
+            <mixed-citation id="d16259e1241" publication-type="other">
+Grêlon André (1978) Interviewer?. Umgage et Société (4) mai: 41-62.</mixed-citation>
+         </ref>
+         <ref id="d16259e1248a1310">
+            <mixed-citation id="d16259e1252" publication-type="other">
+Guérin-Pace France et Garnier Bénédicte (1995) La statistique
+textuelle pour le traitement simultané de réponses à des questions
+ouvertes et fermées sur le thème de l'environnement, in JADT 1995.
+vol. Il: 37-44.</mixed-citation>
+         </ref>
+         <ref id="d16259e1268a1310">
+            <mixed-citation id="d16259e1272" publication-type="other">
+Guillaumin Colette (1972) L'idéologie raciste, genèse et langage
+actuel. Paris-La Haye, Mouton: 248 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1282a1310">
+            <mixed-citation id="d16259e1286" publication-type="other">
+Hagège Claude (1985) L'homme cie paroles. Contribution linguistique
+aux sciences humaines. Paris, Fayard: 406 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1296a1310">
+            <mixed-citation id="d16259e1300" publication-type="other">
+Harris Z.S. (1952) Discours Analysis, Language. Trad, française in
+Langages (13) 1969: 8-45.</mixed-citation>
+         </ref>
+         <ref id="d16259e1311a1310">
+            <mixed-citation id="d16259e1315" publication-type="other">
+Huguet Michèle (1971) Les femmes dans les grands ensembles. De la
+représentation à la mise en scène. Paris, éds. du CNRS: 295 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1325a1310">
+            <mixed-citation id="d16259e1329" publication-type="other">
+JADT (19951 III Giomate internazionali di Analisi Statistica dei Dali
+Testuali. sous la direction de Sergio Bolasco. Ludovic Lebart et
+André Salem, 2 volumes (410 p. et 409 p.). Rome, C.I.S.U.,
+Université "La Sapienza" de Rome et Université de Saleme. La
+branche française de cette communauté scientifique très active
+organise aussi des écoles d'été, destinées aux sociologues,
+psychologues, éthologues. ethnologues, professionnels des enquêtes
+et sondages, de la recherche bio-médicale, du marketing, de la
+gestion et de la communication, du génie logiciel.</mixed-citation>
+         </ref>
+         <ref id="d16259e1361a1310">
+            <mixed-citation id="d16259e1365" publication-type="other">
+Jalaudin Christophe (1995) Fratagmes, Contribution de la
+statistique textuelle à l'étude sociologique des fratries, in JADT
+1995, vol. 11: 387-394.</mixed-citation>
+         </ref>
+         <ref id="d16259e1378a1310">
+            <mixed-citation id="d16259e1382" publication-type="other">
+Jenny Jacques (1981) Proposals for a Descriptive Analysis of
+Multidimensional Contingency Tables of unarrayed Numerical
+Distributions, Quality and Quantity. (15-4) août: 365-401.</mixed-citation>
+         </ref>
+         <ref id="d16259e1395a1310">
+            <mixed-citation id="d16259e1399" publication-type="other">
+Jenny Jacques (1983) Les discours sociaux sur "la Jeunesse" dans
+les années 60: production, circulation, évolution et articulation avec
+les pratiques sociales et représentations collectives, in la Jeunesse
+en questions. Orientations de recherche et Sources documentaires, La
+Documentation française, sous la direction de Jean-Charles Lagrée
+et Paula Lew-Faï, Paris: 19-44.</mixed-citation>
+         </ref>
+         <ref id="d16259e1422a1310">
+            <mixed-citation id="d16259e1426" publication-type="other">
+Jenny Jacques (1986) Les nouveaux systèmes documentaires.
+Archimag, (6/7) juillet-octobre: 15-17.</mixed-citation>
+         </ref>
+         <ref id="d16259e1437a1310">
+            <mixed-citation id="d16259e1441" publication-type="other">
+Jenny Jacques (1989) Types homogènes calculés et/ou Classes
+significatives construites: réflexions épistémologiques sur les modes
+de traitement de la complexité, in Enquêtes statistiques et
+Indicateurs de pratiques familiales. Collectif, Paris, CNRS-IRESCO:
+67-76.</mixed-citation>
+         </ref>
+         <ref id="d16259e1460a1310">
+            <mixed-citation id="d16259e1464" publication-type="other">
+Jenny Jacques (1995) Rapports sociaux de sexe et autres rapports
+de dominance sociale: pour une intégration conceptuelle des
+rapports sociaux fondamentaux, Cahiers du Gedisst (13): 109-130.</mixed-citation>
+         </ref>
+         <ref id="d16259e1477a1310">
+            <mixed-citation id="d16259e1481" publication-type="other">
+Jenny Jacques (1996) Analyses de contenu et de discours dans la
+recherche sociologique française: pratiques micro-informatiques
+actuelles et potentielles. Current Sociology (44-3) hiver: 279-290.</mixed-citation>
+         </ref>
+         <ref id="d16259e1494a1310">
+            <mixed-citation id="d16259e1498" publication-type="other">
+Juin R., Le Saout R. et Roux N. (1994) Essai de lexicométrie
+informatique: la Manifestation du 1er Mai dans la grande presse
+nationale, in Communications au Colloque Crises et Métamorphoses
+ouvrières. Nantes, LERSCO.</mixed-citation>
+         </ref>
+         <ref id="d16259e1514a1310">
+            <mixed-citation id="d16259e1518" publication-type="other">
+Kelle U. éd., Prein G. and Bird K. (1995) Computer-Aided Qualitative
+Data Analysis. Theory. Methods and Practice. London, Sage
+Publications: 240 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1531a1310">
+            <mixed-citation id="d16259e1535" publication-type="other">
+Kergoat Daniéle (1995) La reproduction et le changement: place de
+la parole, in Paroles au travail. Coll. sous la direction de Josiane
+Boutet. Paris. L'Harmattan: 267 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1549a1310">
+            <mixed-citation id="d16259e1553" publication-type="other">
+Kintsch W. et Van Dijk T.A. (1978) Toward a Model of text
+comprehension and production. Psychological Review (85): 363-384.</mixed-citation>
+         </ref>
+         <ref id="d16259e1563a1310">
+            <mixed-citation id="d16259e1567" publication-type="other">
+Kintsch W. (1988) The role of knowledge in discours comprehension:
+a construction-integration model. Psychological Review (95): 163-
+182.</mixed-citation>
+         </ref>
+         <ref id="d16259e1580a1310">
+            <mixed-citation id="d16259e1584" publication-type="other">
+Kuckartz Udo (1990) New Developments in Qualitative Computing:
+Max. A new Program for linking Quality and Quantity, Xllème
+Congrès Mondial de Sociologie. Madrid, juillet: 14 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1597a1310">
+            <mixed-citation id="d16259e1601" publication-type="other">
+Lahlou Saadi (1995) L'analyse textuelle dans les enquêtes: point de
+vue d'un utilisateur. Séminaire de méthodes d'enquêtes de l'INED.
+Paris, 17 janvier. Confrontation des résultats produits par les
+logiciels Spad-T, Alceste et Lexicol.</mixed-citation>
+         </ref>
+         <ref id="d16259e1617a1310">
+            <mixed-citation id="d16259e1621" publication-type="other">
+Lahlou Saadi (1995) Vers une théorie de l'interprétation en analyse
+statistique des données textuelles, in JADT 1995, vol. I: 221-227.</mixed-citation>
+         </ref>
+         <ref id="d16259e1631a1310">
+            <mixed-citation id="d16259e1635" publication-type="other">
+Lallich-Boidin Geneviève et Rouault Jacques (1995) Coopération
+statistique-linguistique pour l'analyse textuelle, in JADT 1995. vol. 1:
+45-54.</mixed-citation>
+         </ref>
+         <ref id="d16259e1649a1310">
+            <mixed-citation id="d16259e1653" publication-type="other">
+Latour Bruno (1984) Les Microbes: guerre et pave - suivi de
+Irréductions. Pans. Métaillié: 300 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1663a1310">
+            <mixed-citation id="d16259e1667" publication-type="other">
+Lavigne Chantai et Scelles Régine (1996) Application de deux
+logiciels d'analyse automatique de données textuelles à l'entretien de
+recherche en psychologie et à l'étude des représentations, European
+Journal oj Mental Disability, septembre: 20-32 + traduction en
+anglais.</mixed-citation>
+         </ref>
+         <ref id="d16259e1686a1310">
+            <mixed-citation id="d16259e1690" publication-type="other">
+Lebart Ludovic et Salem André (1994) Statistique textuelle. Paris.
+Dunod: 282 p. + annexes, glossaire, bibliographie, index.</mixed-citation>
+         </ref>
+         <ref id="d16259e1700a1310">
+            <mixed-citation id="d16259e1704" publication-type="other">
+Lecomte Alain, Léon Jacqueline et Marandin Jean-Marie (1984)
+Analyse du discours, stratégies de description textuelle. Mots (9):
+142-165.</mixed-citation>
+         </ref>
+         <ref id="d16259e1717a1310">
+            <mixed-citation id="d16259e1721" publication-type="other">
+Leimdorfer François et Tessonneau Alex-Louise (1987) Quelques
+remarques sur le sociologique et le sociolinguistique dans la revue
+Langage et Société. Langage et Société (42) décembre: 11-25.</mixed-citation>
+         </ref>
+         <ref id="d16259e1734a1310">
+            <mixed-citation id="d16259e1738" publication-type="other">
+Leimdorfer François (1994) Le pouvoir de nommer et le discours
+juridique, deux exemples d'acte de parole en droit, Sociétés
+contemporaines ( 18-19) juin-septembre: 145-164.</mixed-citation>
+         </ref>
+         <ref id="d16259e1752a1310">
+            <mixed-citation id="d16259e1756" publication-type="other">
+Lemel Yannick (1984) Le sociologue des pratiques du quotidien entre
+l'approche ethnographique et l'enquête statistique, Economie et
+Statistiques ( 168): 5-11.</mixed-citation>
+         </ref>
+         <ref id="d16259e1769a1310">
+            <mixed-citation id="d16259e1773" publication-type="other">
+Léomant Christian; Segond Pierre et Sotteau-Léomant Nicole (1995)
+Le milieu ouvert, judiciaire: réalités et représentations. Une recherche-
+formation dans les Yuelines. Paris-Vaucresson, Eds. du CNRS: 122
+p. + annexes.</mixed-citation>
+         </ref>
+         <ref id="d16259e1789a1310">
+            <mixed-citation id="d16259e1793" publication-type="other">
+Le Roux Dominique. Berri Jawad, Malrieu Denise et Minel Jean-Luc
+(1995) Pour automatiser l'activité résumante: le projet Séraphin, in
+JADT 1995, vol. 1: 345-352,</mixed-citation>
+         </ref>
+         <ref id="d16259e1806a1310">
+            <mixed-citation id="d16259e1810" publication-type="other">
+Lévy André (1983) Organisation et discours. Connexions (39): 21-45.</mixed-citation>
+         </ref>
+         <ref id="d16259e1817a1310">
+            <mixed-citation id="d16259e1821" publication-type="other">
+Maingueneau Dominique, éd. (1995) Les analyses du discours en
+France. Langages (117).</mixed-citation>
+         </ref>
+         <ref id="d16259e1831a1310">
+            <mixed-citation id="d16259e1835" publication-type="other">
+Maingueneau Dominique et Cossuta Frédéric (1995) L'analyse des
+discours constituants. Langages (117) mars: 112-127.</mixed-citation>
+         </ref>
+         <ref id="d16259e1846a1310">
+            <mixed-citation id="d16259e1850" publication-type="other">
+Malrieu Jean-Pierre, La cohérence idéologique des énoncés: une
+méthode d'estimation. Intellectica (XX-1) 1995: 185-215.</mixed-citation>
+         </ref>
+         <ref id="d16259e1860a1310">
+            <mixed-citation id="d16259e1864" publication-type="other">
+Mangabeira Wilma (1992) O Uso de Computadores na Analise
+Qualitativa: Uma Nova Tendencia na Pesquisa Sociologica, Boletim
+Informativo e Bibliografico de Ciencas Sociais (34) 2ème semestre:
+83-95.</mixed-citation>
+         </ref>
+         <ref id="d16259e1880a1310">
+            <mixed-citation id="d16259e1884" publication-type="other">
+Mangabeira Wilma (1996), editor. Qualitative Sociology and
+Computer Programs: Advent and Diffusion of Computer-Assisted
+Qualitative Data Analysis Software (CAQDAS), Current Sociology (44-
+3) hiver: 187-321.</mixed-citation>
+         </ref>
+         <ref id="d16259e1900a1310">
+            <mixed-citation id="d16259e1904" publication-type="other">
+Marandin Jean-Marie (1993) Analyseurs syntaxiques. Equivoques et
+problèmes, T.A.L. vol. 34/1.</mixed-citation>
+         </ref>
+         <ref id="d16259e1914a1310">
+            <mixed-citation id="d16259e1918" publication-type="other">
+Missika Jean-Louis (1995) Chirac, Balladur, Jospin. Leur discours.
+Télérama (2362) 19 avril.</mixed-citation>
+         </ref>
+         <ref id="d16259e1928a1310">
+            <mixed-citation id="d16259e1932" publication-type="other">
+Moscarola Jean (1995) Balladur. Chirac, Jospin, les mots d'une
+campagne. Quelques exemples d'analyse lexicale avec Le Sphinx, in
+JADT 1995. vol. 11:257-264.</mixed-citation>
+         </ref>
+         <ref id="d16259e1946a1310">
+            <mixed-citation id="d16259e1950" publication-type="other">
+Moscovici Serge (1976) La psychanalyse, son image et son public.
+Paris, PUF, 2ème édition.</mixed-citation>
+         </ref>
+         <ref id="d16259e1960a1310">
+            <mixed-citation id="d16259e1964" publication-type="other">
+Mots. Mots-Ordinateurs-Textes-Sociétés, revue sous-titrée "Travaux
+de lexicométrie et de lexicologie politique de l'Institut National de la
+Langue Française" et éditée par les Presses de la FNSP (Fondation
+Nationale des Sciences Politiques), Paris.</mixed-citation>
+         </ref>
+         <ref id="d16259e1980a1310">
+            <mixed-citation id="d16259e1984" publication-type="other">
+Mucchielli Alex (1994) Les méthodes qualitatives. Paris, P.U.F., coll.
+Que sais-je?, 2ème édition: 121p.</mixed-citation>
+         </ref>
+         <ref id="d16259e1994a1310">
+            <mixed-citation id="d16259e1998" publication-type="other">
+Pécheux Michel (1975) Les vérités de La Palice. Linguistique,
+sémantique, philosophie. Paris, Maspéro: 270 p. + bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e2008a1310">
+            <mixed-citation id="d16259e2012" publication-type="other">
+Pellegrin Marie-Louise (1993) Représentation et/ou énonciation? La
+Psvchosociologie, Jean Stoetzel et la "Théorie des Opinions ", Sociétés
+(41): 319-326.</mixed-citation>
+         </ref>
+         <ref id="d16259e2025a1310">
+            <mixed-citation id="d16259e2029" publication-type="other">
+Pharo Patrick (1992) Civility before law. Human Studies (15): 335-
+359.</mixed-citation>
+         </ref>
+         <ref id="d16259e2040a1310">
+            <mixed-citation id="d16259e2044" publication-type="other">
+Pharo Patrick (1992) Le logiciel Civilité, in Rapport d'activité du CSE
+(Centre de Sociologie de l'Ethique), CNRS. 1991-1992: 87-88.</mixed-citation>
+         </ref>
+         <ref id="d16259e2054a1310">
+            <mixed-citation id="d16259e2058" publication-type="other">
+Puget Dominique (1994) L'apport de l'Intelligence Artificielle pour la
+prise en compte des notions de syntaxe et de sémantique dans les
+Systèmes de Recherche d'Informations, Bulletin du Centre des
+Hautes Etudes Documentaires: 33-48.</mixed-citation>
+         </ref>
+         <ref id="d16259e2074a1310">
+            <mixed-citation id="d16259e2078" publication-type="other">
+Quéré Louis (1994) Sociologie et sémantique. Le langage dans
+l'organisation sociale de l'expérience, Sociétés contemporaines (18-
+19) juin-septembre: 17-41.</mixed-citation>
+         </ref>
+         <ref id="d16259e2091a1310">
+            <mixed-citation id="d16259e2095" publication-type="other">
+Rastier F. (1987) Sémantique interprétative. Paris, PUF.</mixed-citation>
+         </ref>
+         <ref id="d16259e2102a1310">
+            <mixed-citation id="d16259e2106" publication-type="other">
+Reinert Max (1986) Présentation du logiciel Aleeste â l'aide d'un
+exemple, Psychologie et éducation (X/2): 58-72.</mixed-citation>
+         </ref>
+         <ref id="d16259e2116a1310">
+            <mixed-citation id="d16259e2120" publication-type="other">
+Reinert Max (1990) Aleeste: une méthodologie d'analyse des données
+textuelles et une application: Aurélia de G. de Nerval, B.M.S. (26).</mixed-citation>
+         </ref>
+         <ref id="d16259e2131a1310">
+            <mixed-citation id="d16259e2135" publication-type="other">
+Reinert Max (1993) Les "mondes lexicaux" et leur "logique" à travers
+l'analyse statistique d'un corpus de récits de cauchemars, Langage
+et Société (66), décembre: 5-39.</mixed-citation>
+         </ref>
+         <ref id="d16259e2148a1310">
+            <mixed-citation id="d16259e2152" publication-type="other">
+Reinert Max (1995) Quelques aspects du choix des unités d'analyse
+et de leur contrôle dans la méthode Aleeste, in JADT 1995, vol. 1: 27-
+34.</mixed-citation>
+         </ref>
+         <ref id="d16259e2165a1310">
+            <mixed-citation id="d16259e2169" publication-type="other">
+Richard-Zapella Jeannine (1995) Colloque international sur le
+questionnement social. Rouen. 16-17 mars.</mixed-citation>
+         </ref>
+         <ref id="d16259e2179a1310">
+            <mixed-citation id="d16259e2183" publication-type="other">
+Salem André (1988) Approches du temps lexical. Statistique
+textuelle et séries chronologiques, Mots (17): 105-143.</mixed-citation>
+         </ref>
+         <ref id="d16259e2193a1310">
+            <mixed-citation id="d16259e2197" publication-type="other">
+Salem André (1995) Les unités lexieométriques, in JADT 1995, vol. 1:
+19-26.</mixed-citation>
+         </ref>
+         <ref id="d16259e2207a1310">
+            <mixed-citation id="d16259e2211" publication-type="other">
+Seffah Ahmed et Meunier Jean-Guy (1995) ALADIN: un atelier de
+génie logiciel orienté objets pour l'analyse cognitive de textes, in
+JADT 1995. vol. II: 105-112.</mixed-citation>
+         </ref>
+         <ref id="d16259e2225a1310">
+            <mixed-citation id="d16259e2229" publication-type="other">
+Sofres éditeur (1990) La sémiométrie au service de vos stratégies de
+marketing et de communication. Document publicitaire, mai: 25 p.</mixed-citation>
+         </ref>
+         <ref id="d16259e2239a1310">
+            <mixed-citation id="d16259e2243" publication-type="other">
+Sowa J. F. (1992) Conceptual Graphs as a universal knowledge
+representation. Computers Mathem, Applic. (23/2-5): 5-93.</mixed-citation>
+         </ref>
+         <ref id="d16259e2253a1310">
+            <mixed-citation id="d16259e2257" publication-type="other">
+T.B.M.S. (1986) Textual-Base Management Systems: Database
+Power unleashed. P.C. Magazine. 25 novembre: 211-229.</mixed-citation>
+         </ref>
+         <ref id="d16259e2267a1310">
+            <mixed-citation id="d16259e2271" publication-type="other">
+Teil Geneviève (1991) Un outil de Sociologie Assistée par Ordinateur
+{S.A.O ). in Ces raisons que la raison ignore. Paris, L'Harmattan, coll.
+Logiques sociales: 21 1-243.</mixed-citation>
+         </ref>
+         <ref id="d16259e2284a1310">
+            <mixed-citation id="d16259e2288" publication-type="other">
+Teil Geneviève (1994) L'analyse des goûts alimentaires par les
+réseaux, in Courtial Jean-Pierre et ai. Science cognitive et Sociologie
+des Sciences. Paris. PUF: 148-172.</mixed-citation>
+         </ref>
+         <ref id="d16259e2301a1310">
+            <mixed-citation id="d16259e2305" publication-type="other">
+Teil Geneviève (1994) Le logiciel Candide d'analyse de textes, in
+Décrire le goût des fromages. Publications INRA, Etudes d'Economie
+et de Sociologie Rurales (17). Grignon, mars: 31-44.</mixed-citation>
+         </ref>
+         <ref id="d16259e2319a1310">
+            <mixed-citation id="d16259e2323" publication-type="other">
+Terrenoire Jean-Paul (1994) Langage(s) en pratique(s). Introduction
+au dossier, Sociétés contemporaines (18/19) juin-septembre: 5-13.</mixed-citation>
+         </ref>
+         <ref id="d16259e2333a1310">
+            <mixed-citation id="d16259e2337" publication-type="other">
+Tesnière Lucien (1959) Eléments de syntaxe structurale. Paris,
+Klincksieck.</mixed-citation>
+         </ref>
+         <ref id="d16259e2347a1310">
+            <mixed-citation id="d16259e2351" publication-type="other">
+Timbal-Duclaux Louis (1989) Les quatre couleurs du texte: la grille
+d'audit de l'efficacité des textes et des discours, Bulletin
+d'information de l'ANSULF: la Science en Français, (88/3-4): 29-54.</mixed-citation>
+         </ref>
+         <ref id="d16259e2364a1310">
+            <mixed-citation id="d16259e2368" publication-type="other">
+Topic-Aleth (1995) L'alliance du texte intégral et du langage
+naturel, Archimag (88) octobre: p. 32. Ce linguisticiel est disponible
+en architecture client/serveur sous Unix/PC-Windows, à partir de
+100.000F. ht.</mixed-citation>
+         </ref>
+         <ref id="d16259e2384a1310">
+            <mixed-citation id="d16259e2388" publication-type="other">
+Tournier Maurice (1986 ) La lexicométrie socio-politique. Le Courrier
+du CNRS (65): 24-32.</mixed-citation>
+         </ref>
+         <ref id="d16259e2398a1310">
+            <mixed-citation id="d16259e2402" publication-type="other">
+D'Unrug Marie-Christine (1974) Analyse de contenu et acte de
+parole. Paris, éd. Universitaires: 270 p. + bibliographie.</mixed-citation>
+         </ref>
+         <ref id="d16259e2413a1310">
+            <mixed-citation id="d16259e2417" publication-type="other">
+Varro Gabrielle (1994) Analyse de contenu et analyse de discours: à
+propos du prénom. Sociétés contemporaines (18-19). juin-septembre:
+121-144.</mixed-citation>
+         </ref>
+         <ref id="d16259e2430a1310">
+            <mixed-citation id="d16259e2434" publication-type="other">
+Vergés Pierre (1992) L'évocation de l'argent: une méthode pour la
+définition du noyau central d'une représentation. Bulletin de
+Psychologie (405) Tome XLV: 203-209</mixed-citation>
+         </ref>
+         <ref id="d16259e2447a1310">
+            <mixed-citation id="d16259e2451" publication-type="other">
+Vergés Pierre (1996) Représentations sociales partagées,
+périphériques, indifférentes, d'une minorité: méthodes d'approche.
+Cahiers Internationaux de Psychologie sociale, à paraître.</mixed-citation>
+         </ref>
+         <ref id="d16259e2464a1310">
+            <mixed-citation id="d16259e2468" publication-type="other">
+Vincent Diane (1984) Les ponctuants de la langue. Thèse de
+Doctorat inédite. Montréal, Université de Montréal.</mixed-citation>
+         </ref>
+         <ref id="d16259e2478a1310">
+            <mixed-citation id="d16259e2482" publication-type="other">
+Vincent Diane (1986) Que fait la sociolinguistique avec l'Analyse du
+Discours et vice-versa?. Langage et Société (38) décembre: 7-17.</mixed-citation>
+         </ref>
+         <ref id="d16259e2492a1310">
+            <mixed-citation id="d16259e2496" publication-type="other">
+Wald Paul (1994) Juifs et Hongrois. Constitution discursive des
+catégories sociales dans un corpus de courrier des lecteurs
+(Budapest, 1990), Sociétés contemporaines (18-19), juin-septembre:
+101-119.</mixed-citation>
+         </ref>
+         <ref id="d16259e2513a1310">
+            <mixed-citation id="d16259e2517" publication-type="other">
+Zaffran Joël (1996) Le projet d'intégration scolaire des enfants
+déficients à l'école primaire ordinaire et les relations entre les
+différents partenaires intégrants adultes. Langage et Société. A
+paraître.</mixed-citation>
+         </ref>
+         <ref id="d16259e2533a1310">
+            <mixed-citation id="d16259e2537" publication-type="other">
+Zysberg André (1986) Impact de l'informatique sur la recherche
+historique. Le Courrier du CNRS (65) mai-juillet.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

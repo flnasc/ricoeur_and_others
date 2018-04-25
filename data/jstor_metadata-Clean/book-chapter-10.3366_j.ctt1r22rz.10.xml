@@ -1,0 +1,211 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1r22rz</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The World, the Flesh and the Subject</book-title>
+         <subtitle>Continental Themes in Philosophy of Mind and Body</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Gilbert</surname>
+               <given-names>Paul</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Lennon</surname>
+               <given-names>Kathleen</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>04</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748614981</isbn>
+      <isbn content-type="epub">9780748679782</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>Paul Gilbert</copyright-holder>
+         <copyright-holder>Kathleen Lennon</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1r22rz"/>
+      <abstract abstract-type="short">
+         <p>The book aims to bring together these three themes - the world, the flesh and the subject - to resolve many of the puzzles that beset contemporary philosophy of mind.</p>
+      </abstract>
+      <counts>
+         <page-count count="164"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In a recent TV drama one of the characters falls in love with another. ‘It’s only chemicals,’ his friend assures him, but when the friend finds himself in the same position he is unable to take the same view of his own situation. It would be a caricature to represent the dominant paradigm in contemporary Anglo-American philosophy of mind as holding of all our psychological states, ‘It’s only chemicals.’ Yet this paradigm – functionalism – does hold that each of them is, in fact, a physiological state, but one individuated in terms of its function in mediating between sensory inputs</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Character of Experience</title>
+                  </title-group>
+                  <fpage>4</fpage>
+                  <abstract abstract-type="extract">
+                     <p>For much of the last century philosophy of mind has been dominated by the attempt to give an account of mental states that does not have recourse to the Cartesian picture of them as essentially private, in the sense of being only providentially connected with the behaviour through which they are expressed. The states that have seemed particularly recalcitrant to such attempts are our experiences in perception and bodily sensation; for these paradigmatically have a subjective character – a something it is like to have them, as Thomas Nagel puts it¹ – that apparently eludes explanation in terms of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Constraints of Experience</title>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Let us suppose that we reject the ‘myth of the given’ or the idea of ‘contents’ of consciousness whose character explains what it is like to have our experiences, and adopt instead an account in terms of the ways things can become intentional objects of experience through the manner of our bodily interactions with them. This may still leave us with the uneasy feeling that something the ‘given’ was meant to suggest has dropped out of our story, namely, the way in which our perceptions and especially our bodily sensations are not only what we <italic>make</italic> of them – not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Imagination and the Imaginary</title>
+                  </title-group>
+                  <fpage>46</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In much contemporary work there has been a shift from a conception of the imagination to explorations of the imaginary (or imaginaries).¹ In this chapter we want to explore the move from imagination, conceived of as some kind of faculty, perhaps that of creating inner or outer images, to the notion of the imaginary. We will suggest that the world, the experiences of which constitute our subjectivity, is an imaginary world and that the embodiment which constitutes our mode of being in that world is an imaginary embodiment. Here the notion of imaginary existence is not, as in many theories</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Desire</title>
+                  </title-group>
+                  <fpage>66</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Within much contemporary analytic philosophy of mind desires are conceived of primarily as the inner states which provide us, together with beliefs, with reasons for forming intentions and consequently acting. When linked with beliefs, such desires then cause us to act in appropriate ways. Desires therefore have a role both in providing premises for practical reasoning and a causal, functional role in terms of the agent’s behaviour. Weaving these two roles together has been one of the challenges of contemporary materialism. Within standard accounts of practical reasoning the agent derives an intention or proceeds to action on the basis of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Emotions</title>
+                  </title-group>
+                  <fpage>90</fpage>
+                  <abstract abstract-type="extract">
+                     <p>By the time you have reached this point in the book you may be exasperated, excited, intrigued or merely bored. Whatever your reaction, if you have any reaction at all you will most likely be experiencing some emotion. But what are emotions, and why do we experience them? Could we be much the sort of creatures that we are, with all our other experiences, thoughts and desires, and yet be devoid of emotional feelings? And if we could not, is that because our emotions somehow derive from these other psychological states, or do they add some indispensable element to them?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Reason, Agency and Understanding</title>
+                  </title-group>
+                  <fpage>112</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the previous chapter our discussion of emotion drew attention to an often made contrast between intentional engagements with the world, explicable in terms of reason, and emotional responses, themselves bodily, which apparently fall outside the sphere of purposive, intentional engagement. This contrast worked on a picture of intentional action which involved mental deliberation and the operation of impersonal standards of reasoning, and a picture of emotion as disruptive bodily eruptions of a personal kind which assail otherwise rational subjects. By the end of the chapter, however, this contrast had been undermined, by an account of our bodily emotional responses</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Ourselves and Others</title>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In previous chapters we have offered an account of subjectivity in terms of an embodied perspective onto a world of objects. These intentional objects of consciousness are themselves mutually constituted by the perspectives of subjects so that the world and the subject are interdependent. The subjectivity involved here is expressed in a body whose comportment towards the world maps the shape the world takes for the subject and thereby maps the content of such subjectivity itself.</p>
+                     <p>In this chapter the focus of our attention will shift to the role played in the constitution of subjectivity by other subjects. Here a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r22rz.12</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>158</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

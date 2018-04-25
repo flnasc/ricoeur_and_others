@@ -1,0 +1,727 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1bgzcz6</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Cinema of Theo Angelopoulos</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Koutsourakis</surname>
+               <given-names>Angelos</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Steven</surname>
+               <given-names>Mark</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>10</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748697953</isbn>
+      <isbn content-type="epub">9780748697960</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Angelos Koutsourakis</copyright-holder>
+         <copyright-holder>Mark Steven</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1bgzcz6"/>
+      <abstract abstract-type="short">
+         <p>Bringing together established and emerging scholars from multiple disciplines, the collection's unique contribution is to show how Angelopoulos created singularly intricate forms whose aesthetic contours invite us to think critically about modern history.</p>
+      </abstract>
+      <counts>
+         <page-count count="336"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.5</book-part-id>
+                  <title-group>
+                     <title>Note on the Text</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.6</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kluge</surname>
+                           <given-names>Alexander</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Katona</surname>
+                           <given-names>Eszter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>x</fpage>
+                  <abstract>
+                     <p>In film history, there is one sentence that is for me irrefutably true: the not-filmed criticises that which is filmed. A variant of this assertion can be found in Angelopoulos’ To Βλέμμα του Οδυσσέα (<italic>Ulysses’ Gaze</italic>, 1995), in which a Greek director (played by Harvey Keitel) comes back from the USA to Europe and goes in search of undeveloped rolls of film by the Manakis brothers from 1905. This film is about the question of tradition, about the contradictions between the past and the present historical moments. Angelopoulos tells a story about Greece while directing his gaze to other countries.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.7</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>Angelopoulos and the Lingua Franca of Modernism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koutsourakis</surname>
+                           <given-names>Angelos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Steven</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The twenty-eighth Cannes Film Festival in 1975 was marked by the enthusiastic reception of a film that did not officially represent Greece, the country of its production. The right-wing government of the time refused to nominate it because it considered the leftist portrayal of modern national history offensive. Yet a Greek filmmaker and his crew managed to smuggle a copy of this film and show it as part of Pierre-Henri Deleau’s renowned programme, the Directors’ Fortnight. The filmmaker was Theo Angelopoulos and the film O Θίασος ( (<italic>The Travelling Players</italic>, 1975). While the organisers of the festival were trying to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Theo Angelopoulos as Film Critic</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chalkou</surname>
+                           <given-names>Maria</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Most of the prominent filmmakers of New Greek Cinema – a politicised, auterist and art-oriented trend which dominated the Greek filmscape of the 1970s and 1980s – started their careers as assistant directors and film practitioners in the studios of the Greek commercial film industry of the 1950s and 1960s. Theo Angelopoulos, one of New Greek Cinema’s leading directors, followed, however, a different path and entered the field professionally as a film intellectual. After studying filmmaking in Paris, he returned to Athens and, from 1964 to 1967, worked as a film critic for the newspaper Δημοκρατική Αλλαγή (<italic>Democratic Change</italic>), while between 1969</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Two Short Essays on Angelopoulos’ Early Films</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Oshima</surname>
+                           <given-names>Nagisa</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Ross</surname>
+                           <given-names>Julian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>People come up with all sorts of ideas. Some even think it might be interesting to make a film director meet another film director. How nice would it be for two people to meet who have such a thing in common! In fact, it would be quite burdensome for a filmmaker. This is because we have nothing to talk about. All filmmakers have their minds filled with their own thoughts. We are left with nothing else to talk about. Although we would speak to critics and newspaper journalists whose job it is to lend us an ear, talking to other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Generative Apogee and Elegiac Expansion:</title>
+                     <subtitle>European Film Modernism from Antonioni to Angelopoulos</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ford</surname>
+                           <given-names>Hamish</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>Michelangelo Antonioni’s early 1960s cinema has long been recognised as one of the key influences on Theo Angelopoulos’ filmmaking. The director himself has often been quoted as describing Antonioni’s epochal<italic>L’avventura</italic>(1960) as a seminal moment in his development, reportedly watching it thirteen times while a student in Paris during the early 1960s (cited in Archimandritis 2013: 26). What exactly is it about Antonioni’s work that was so formative for Angelopoulos, and how can we see its effects play out in his own subsequent films? More than simply illustrating authorial influence, by examining the connections between these two filmmakers as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The Gestus of Showing:</title>
+                     <subtitle>Brecht, Tableaux and Early Cinema in Angelopoulos’ Political Period (1970–80)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koutsourakis</surname>
+                           <given-names>Angelos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>The question of the Brechtian quality of Angelopoulos’ political period might initially appear outmoded and obsolete given that a number of scholars have already acknowledged Brecht’s influence, predominantly in the filmmaker’s historical tetralogy. None of the scholars in question, however, have attempted to approach the Brechtian aspect of Angelopoulos with reference to the former’s writings on film, nor from the perspective of the Brechtian concept of<italic>Gestus</italic>and its application within the film medium. This is the task of the current chapter, which aims to clarify the often hinted at but not theoretically qualified Brechtian aspect of Angelopoulos’ cinema.</p>
+                     <p>Before</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Angelopoulos’ Gaze:</title>
+                     <subtitle>Modernism, History, Cinematic Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sinnerbrink</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>The films of the late Theo Angelopoulos have been praised for their historical ambition, political themes and explorations of memory, but also for their commitment to cinematic modernism. For some critics, like David Bordwell, Angelopoulos is a late modernist auteur whose ‘anachronistic’ cinematic style bears the hallmarks of 1960s and ’70s ‘political modernism’ (1997: 106; see also Rodowick 1988). For others, like Fredric Jameson, Angelopoulos’ work is best understood as hybrid or transitional: grounded in an aesthetic and historical sensibility that combines progressive elements, which render collective memory through a materialist aesthetic, and regressive elements, which revert to an individualistic,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Angelopoulos and Collective Narrative</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jameson</surname>
+                           <given-names>Fredric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>The easier way to explain our failure to grant Theo Angelopoulos the position he deserves in modern cinema – that he is less theoretically experimental than Godard or less politically ostentatious than Pasolini we can grant, but why we fail to love seeing his films more than those of Antonioni or Fellini remains something of a mystery – clearly lies in the character of modern Greek history, which is far less familiar than that of the western European countries. Greece has gone through a collective experience of which most other modern nations have only known bits and pieces: revolution, fascism, occupation, civil</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Theo Angelopoulos’ Early Films and the Demystification of Power</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Karalis</surname>
+                           <given-names>Vrasidas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>Theo Angelopoulos’ trilogy of History consists of Μέρες του ’36 (<italic>Days of ’36</italic>, 1972), Ο Θίασος (<italic>The Travelling Players</italic>, 1975) and Οι Κυνηγοί (<italic>The Hunters</italic>, 1977). In Ο Μεγαλέξανδρος (<italic>Megalexandros</italic>, 1980), the last film of this period, Angelopoulos adopts the idea of representation not as a reconstruction of things past but as the visualisation of their ability to lose their historicity and be transformed into legends and epic tales. Some scholars (see Bordwell 2005: 143) and the editors of this book consider the film to be the logical offspring of the aforementioned films and they see it as an addition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Megalexandros:</title>
+                     <subtitle>Authoritarianism and National Identity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Georgakas</surname>
+                           <given-names>Dan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>In critical commentaries on the work of Theo Angelopoulos, Ο Μεγαλέξανδρος (<italic>Megalexandros</italic>or<italic>Alexander the Great</italic>, 1980) is usually omitted from extended discussion. The film does not relate directly to the themes of the historical films that preceded it or to the voyage and border films that followed. In many respects, however,<italic>Megalexandros</italic>is a template for Angelopoulos’ approach to politics and offers insight into the aesthetic choices that characterised his entire career.<italic>Megalexandros</italic>seeks to join history, myth and current events seamlessly with a healthy disrespect for all things authoritarian. In that sense, the film, for all its difficulties,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Tracks in the Eurozone:</title>
+                     <subtitle>Late Style Meets Late Capitalism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Steven</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Many of Theo Angelopoulos’ otherwise affectionate critics deride the final film he completed as an artistic failure. In Fredric Jameson’s view, Η Σκόνη του Χρόνου (<italic>The Dust of Time</italic>, 2008) is an unsuccessful attempt ‘to break new ground by transferring the paradigm of discontinuous collective temporalities to the drama of individuals’, doing so in such a way that the historical terrain Angelopoulos once charted so heroically persists only on a distant horizon. The director himself concedes the objective basis of this transformation. He insists that, in his final films, ‘history becomes something of a fresco in the background. Put another</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Cinematography of the Group:</title>
+                     <subtitle>Angelopoulos and the Collective Subject of Cinema</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphet</surname>
+                           <given-names>Julian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>It would be arguable that the gold standard of commercial narrative film, the ‘affection image’ or facial close-up, is a fatal error for any cinema of the Left; that Griffith’s pioneering innovations in the conventions of close-up cinematography were nothing less than a capture of the fledgling discourse of narrative cinema for the forces of sentimental reaction, leaving a legacy of bourgeois individualism lodged within the very grammar of the form. The conventions of eye-line matching and shot-reverse-shot montage, and the anchoring of emotional catharsis in the fetishised face as such, have tended to predispose commercial film narrative towards an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>The Narrative Imperative in the Films of Theo Angelopoulos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Eades</surname>
+                           <given-names>Caroline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>To examine the presence and significance of literary references in Theo Angelopoulos’ films, one can start by looking at the influence of antiquity in his work.¹ Since his historical tetralogy – Μέρες του ’36 (<italic>Days of ’36</italic>, 1972), Ο Θίασος (<italic>The Travelling Players</italic>, 1975) Οι Kυνηγοί (<italic>The Hunters</italic>, 1977), and Ο Μεγαλέξανδρος (Megalexandros, 1980) – Angelopoulos’ oeuvre has been imbued with allusions and direct references to classical texts: Greek tragedies at first,<italic>The Odyssey</italic>throughout his work, and various passages from Plato and Ovid more sporadically. But his interest in the poetic function of language also led him to draw inspiration</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Syncope and Fractal Liminality:</title>
+                     <subtitle>Theo Angelopoulos’ Voyage to Cythera and the Question of Borders</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nobus</surname>
+                           <given-names>Dany</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pouli</surname>
+                           <given-names>Nektaria</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>Intertwined and iterative as Angelopoulos’ films may be, Ταξίδι στα Κύθηρα (<italic>Voyage to Cythera</italic>, 1984) occupies a special place in the director’s oeuvre. Speaking to the French film critic Michel Ciment shortly after its release, Angelopoulos conceded that<italic>Voyage to Cythera</italic>was his ‘least Greek’ and his ‘least deep-rooted’ film, insofar as it was intended to express a ‘general illbeing’ (cited in Ciment 1985: 26). Anyone familiar with Greece’s tumultuous political history during the twentieth century will find this statement surprising, given the film’s central concern (or so it would seem) with the impossible homecoming of an exiled communist Αντάρτης</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.20</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>Landscape in the Mist:</title>
+                     <subtitle>Thinking Beyond the Perimeter Fence</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donald</surname>
+                           <given-names>Stephanie Hemelryk</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>Angelopoulos’ Τοπίο στην Ομίχλη (<italic>Landscape in the Mist</italic>, 1988) meditates on some of the key themes from his larger oeuvre: the repetitions in Greek history, leaving Greece (and staying put), mobility, the courage of children and the fragility of humankind, and God. The key protagonists in the film are two runaway children, the eleven-year-old Voula (Tania Palaiologou), and the five-year-old Alexander (Michalis Zeke), and a young adult Orestes (Stratos Tzortzoglou). Voula bears the name of Angelopoulos’ late sister,¹ producing an emotional proximity and equivalence with the filmmaker that supports an argument I wish to make in this paper, namely that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.21</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>An ‘Untimely’ History</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rollet</surname>
+                           <given-names>Sylvie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Precious</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>An essential (albeit controversial) point should immediately be made clear: the work of Angelopoulos is not ‘modernist’ in the sense that Anglo-Saxon critics have given to this term to qualify, in art history, a time past, but still belonging to modernity.¹ From end to end, Angelopoulos’ work is, in fact, traversed by history. Yet modernity is defined precisely by our awareness of unsurpassable historicity. In the words of Jacques Rancière, we have entered into the ‘ age of history’. He adds that it is also the ‘age of cinema’, as this late art possesses a singular power of ‘historicity and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.22</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>Angelopoulos and the Time-image</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rushton</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>Theo Angelopoulos began his film career as a sombre political modernist. His early films offer biting critiques of Greece’s past and present, yet always with the distant hope that Greece’s future could be prosperous, and that the faults of its recent past could be remedied by a potentially glorious future. The earlier films do have melancholic endings, but in their melancholy the endings are signals or appeals for change: they are attempts to transform melancholy into hope. This outlook soon began to change, and the seeds of a more deep-seated pessimism were sown in Ο Μεγαλέξανδρος (<italic>Megalexandros</italic>, 1980). Any sense</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.23</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 16</label>
+                     <title>Memory Under Siege:</title>
+                     <subtitle>Archive Fever in Theo Angelopoulos’ Ulysses’ Gaze</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kamboureli</surname>
+                           <given-names>Smaro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>[I]t is impossible to have peace and normality not because the Balkan peoples could not in principle have much better relations with one another, but because the interests at stake in the Balkans are too great to permit such a development. The way I see it, the roots of the problem go way back in time and all the various conflicts were encouraged, at one time or another. There is a joke I often tell which I heard on my first trip. Before the war a foreign journalist went to Bosnia and was walking about in a town which had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.24</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 17</label>
+                     <title>‘Nothing Ever Ends’:</title>
+                     <subtitle>Angelopoulos and the Image of Duration</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grønstad</surname>
+                           <given-names>Asbjørn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>In February 2005, Theo Angelopoulos came to the Cinémathèque in Bergen, which screened a retrospective of his work. During an interview session before Ο Μελισσοκόμος (<italic>The Beekeeper</italic>, 1986) he said something that has stayed with me: ‘Everything that has existed will always exist. Nothing fades away, nothing dies’. Everything that has existed will always exist. Experiences. Actions. Feelings. Suffering. Love. Ideas. Thoughts. People. The discursive tenor of the director’s statement is philosophical, or perhaps poetic, but it seems that it is also embodied by his film aesthetic, which functions to bracket temporality itself. There is the impossible spatial coexistence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.25</book-part-id>
+                  <title-group>
+                     <title>AFTERWORD</title>
+                     <subtitle>Theo Angelopoulos’ Unfinished Odyssey: The Other Sea</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Horton</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>The film Η Άλλη Θάλασσα (<italic>The Other Sea</italic>) was to be Theo Angelopoulos’ concluding film for the trilogy that began with Το Λιβάδι που Δακρύζει (<italic>The Weeping Meadow</italic>, 2003) and continued with Η Σκόνη του Χρόνου (<italic>The Dust of Time</italic>, 2008). But early during the 2012 filming of<italic>The Other Sea</italic>he was struck by a motorcycle on the set of his film in Piraeus and died several hours later. In these few pages I wish to share both the nature of this unfinished odyssey he was filming and my personal experience with this tragically interrupted project. But first we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.26</book-part-id>
+                  <title-group>
+                     <title>Theo Angelopoulos’ Filmography</title>
+                  </title-group>
+                  <fpage>292</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.27</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>301</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.28</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>304</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bgzcz6.29</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>317</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

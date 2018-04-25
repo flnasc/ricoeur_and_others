@@ -1,0 +1,820 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x0610</book-id>
+      <subj-group>
+         <subject content-type="call-number">BS1315.52.S37 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bible. O.T. Ruth</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism interpretation, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bible. O.T. Song of Solomon</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism, interpretation, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Scrolls of Love: Ruth and the Song of Songs</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Hawkins</surname>
+               <given-names>Peter S.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Stahlberg</surname>
+               <given-names>Lesleigh Cushing</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823225712</isbn>
+      <isbn content-type="epub">9780823248971</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x0610"/>
+      <abstract abstract-type="short">
+         <p>Scrolls of Love is a book of unions. Edited by a Jew and a Christian who are united by a shared passion for the Bible and a common literary hermeneutic, it joins two biblical scrolls and gathers around them a diverse community of interpreters. It brings together Ruth and the Song of Songs, two seemingly disparate texts of the Hebrew Bible, and reads them through a number of the methodological and theological perspectives. Respectful of traditional biblical scholarship, the collection of essays moves beyond it; alert to contemporary trends, the volume returns venerable interpretive tradition to center stage. Most significantly, it is interfaith. Despite the fact that Jews and Christians share a common text in the Hebrew Scripture, the two communities have read their Bibles in isolation from one another, in ignorance of the richness of the other's traditions of reading. Scrolls of Love brings the two traditions into dialogue, enriching established modes of interpretation with unconventional ones. The result is a volume that sets rabbinic, patristic, and medieval readings alongside feminist, psychoanalytic, and autobiographical ones, combining historical, literary, and textual criticism with a variety of artistic reinterpretations-wood cuts and paper cuts, poetry and fiction. Some of the works are scholarly, with the requisite footnotes to draw readers to further inquiry: others are more reflective than analytic, allowing readers to see what it means to live intimately with Scripture. As a unity, the collection presents Ruth and Song of Songs not only as ancient texts that deserve to be treasured but as old worlds capable of begetting the new.</p>
+      </abstract>
+      <counts>
+         <page-count count="408"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hawkins</surname>
+                           <given-names>Peter S.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stahlberg</surname>
+                           <given-names>Lesleigh Cushing</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Scrolls of Love</italic>is a book of unions. Edited by a Christian and a Jew who are united by a shared passion for the Bible and a common literary hermeneutic,<italic>Scrolls of Love</italic>joins two biblical scrolls (<italic>megillot</italic>) and gathers around them a diverse community of interpreters. It brings together the book of Ruth and the Song of Songs, two seemingly disparate texts of the Hebrew Bible, and reads them through a diversity of methodological and theological perspectives. Respectful of traditional biblical scholarship, the collection of essays moves beyond it; alert to contemporary trends, the volume returns venerable interpretive tradition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.5</book-part-id>
+                  <title-group>
+                     <title>“ALL THAT YOU SAY, I WILL DO”:</title>
+                     <subtitle>A SERMON ON THE BOOK OF RUTH</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>Ellen F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The first words of Ruth: “In the days when the judges were judging, there was a famine in the land.” “The days when the judges were judging”—if you have read the seventh book of the Bible, then you know that it was a time of political chaos, with Philistine enemies pressing hard on Israel’s flank, and the “national leadership” (if you can call it that) worse than a bad joke. Yes, early on there was Deborah, a great judge, but things deteriorated pretty steadily after that. By the end of the period of the book of Judges, when our</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.6</book-part-id>
+                  <title-group>
+                     <title>BEGINNING WITH RUTH:</title>
+                     <subtitle>AN ESSAY ON TRANSLATING</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>Ellen F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>The first and altogether the most important thing I have to say about preparing my annotated translation of the book of Ruth is that I did not do it alone.¹ I did it with my first-year Hebrew students. Reading Ruth with beginning Hebrew students while I was, for the first time, preparing a translation for publication turned out to be a stroke of holy luck. The translation is substantially different and better because we were beginning together. As it turned out, I needed reading partners for the counterintuitive reason that the Hebrew of Ruth is so easy to read. In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.7</book-part-id>
+                  <title-group>
+                     <title>SUBVERTING THE BIBLICAL WORLD:</title>
+                     <subtitle>SOCIOLOGY AND POLITICS IN THE BOOK OF RUTH</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LaCocque</surname>
+                           <given-names>André</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>20</fpage>
+                  <abstract>
+                     <p>It is essential that we read Ruth in light of a complex social environment that in many ways the book is reacting<italic>against</italic>. This means taking into account the status of women in ancient Israel and, more broadly, the ancient Near East. It also means considering the status of foreigners within these same surroundings. Both issues become especially intense in a tale whose title character is both female and foreign.</p>
+                     <p>We cannot speak of a unified status for either women or foreigners in ancient history or throughout the vast expanse of the Levant. In general, however, it can be said</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.8</book-part-id>
+                  <title-group>
+                     <title>THE BOOK OF RUTH AS COMEDY:</title>
+                     <subtitle>CLASSICAL AND MODERN PERSPECTIVES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aschkenasy</surname>
+                           <given-names>Nehama</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>More than any other biblical story or cycle of tales, the book of Ruth belongs to the dramatic genre. Structured as a series of short, eventful scenes animated by spirited, dynamic dialogue, it can be easily adapted for the stage. The conversation in the book of Ruth is either between two protagonists or between a protagonist and “chorus” (in the form of the women of Bethlehem, or the workers in the field, or the elders at the gate), but there are usually no more than two principal interlocutors in any given scene. The story’s narrator possesses only limited omniscience, offering</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.9</book-part-id>
+                  <title-group>
+                     <title>TRANSFIGURED NIGHT:</title>
+                     <subtitle>MIDRASHIC READINGS OF THE BOOK OF RUTH</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kates</surname>
+                           <given-names>Judith A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Unlike the skepticism they brought to other<italic>megillot</italic>(scrolls) such as Esther and the Song of Songs, the rabbis never questioned the sacredness of the book of Ruth. Without a doubt, as the Talmudic phrase would have it, this text was,<italic>n<sup>ə</sup>ʾemra b<sup>ə</sup>ruaḥ hakodesh</italic>—that is, spoken by means of the breath or by the spirit of holiness. The Talmud also ascribes its authorship to the prophet Samuel, who is understood to have written it in order to explain the ancestry of David (b. Baba Batra 14b).</p>
+                     <p>Throughout the Talmud and early collections of midrash, we find commentary and reflection</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.10</book-part-id>
+                  <title-group>
+                     <title>DARK LADIES AND REDEMPTIVE COMPASSION:</title>
+                     <subtitle>RUTH AND THE MESSIANIC LINEAGE IN JUDAISM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Polen</surname>
+                           <given-names>Nehemia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Jewish tradition celebrates Shavuot as the festival of the Giving of the Torah, the anniversary of the time when, fifty days after the Exodus, God came down on Mount Sinai and spoke the Decalogue (the “Ten Commandments”) to Israel. So it is that every year synagogue congregations take out the Torah scroll from the Holy Ark, place it on the reading table, and read from Exodus 19–20 as a public reenactment of that ancient covenantal proclamation. But just before that happens, another, much smaller scroll is opened and read: the scroll of Ruth.¹</p>
+                     <p>The significance of this smaller scroll</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.11</book-part-id>
+                  <title-group>
+                     <title>RUTH AMID THE GENTILES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hawkins</surname>
+                           <given-names>Peter S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>In the penultimate stanza of his “Ode to a Nightingale,” Keats imagines that the bird’s “immortal” music, consoling him in his quite mortal solitude, may also have been heard by “hungry generations” long before him:</p>
+                     <p>The voice I hear this passing night was heard</p>
+                     <p>In ancient days by emperor and clown:</p>
+                     <p>Perhaps the self-same song that found a path</p>
+                     <p>Through the sad heart of Ruth, when, sick for home,</p>
+                     <p>She stood in tears amid the alien corn.¹</p>
+                     <p>Critics of the poem are surprised by this “unexpected allusion” to the Book of Ruth.² They conjecture that the poignancy of the young</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.12</book-part-id>
+                  <title-group>
+                     <title>RUTH SPEAKS IN YIDDISH:</title>
+                     <subtitle>THE POETRY OF ROSA YAKUBOVITSH AND ITSIK MANGER</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hellerstein</surname>
+                           <given-names>Kathryn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Erich Auerbach famously characterized the direct discourse of the Hebrew Bible as serving “to indicate thoughts which remain unexpressed,” in contrast to speech in Homer’s<italic>Odyssey</italic>, which serves “to manifest, to externalize thoughts.”¹ However, when the first speech occurs in the book of Ruth 1:8, Naomi, pausing on the road home back toward Bethlehem, in the land of Judah, addresses her widowed Moabite daughters-in-law in what seems to me a forthright way that makes her thoughts and feelings utterly explicit: “Go, return each of you to her mother’s house; the Lord deal kindly with you as ye have dealt with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.13</book-part-id>
+                  <title-group>
+                     <title>RUTH</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yakubovitsh</surname>
+                           <given-names>Roza</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Manger</surname>
+                           <given-names>Itsik</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Hellerstein</surname>
+                           <given-names>Kathryn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>110</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.14</book-part-id>
+                  <title-group>
+                     <title>PRINTING THE STORY:</title>
+                     <subtitle>THE BIBLE IN ETCHINGS, ENGRAVINGS, AND WOODCUTS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parker</surname>
+                           <given-names>Margaret Adams</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>It can be argued that printmaking in Europe grew up alongside the printed Christian Bible. The print’s beginnings in Western Europe¹ coincided roughly with the development of the printing press and movable type. Indeed, the impact of the biblical print is in some ways analogous to that of the printed text. Just as the printing press made possible the broader dissemination of the Bible, the print made biblical images widely available. Likewise, translations of the Bible into local vernaculars made the text accessible to those who could not read the Latin Vulgate, just as the printed image “told” the biblical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.15</book-part-id>
+                  <title-group>
+                     <title>TRANSLATING EROS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bloch</surname>
+                           <given-names>Chana</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>“Kiss me, make me drunk with your kisses! Your sweet loving / is better than wine.”¹ The great love poem that begins with these words does not follow the conventional romantic plot: boy meets girl, boy and girl get acquainted, boy proposes marriage. That the two are already intimate is clear from the very first words of the Song of Songs. Love, not marriage, is what they propose, and the woman, who is called the Shulamite, does most of the proposing. She, in fact, is the one who issues that first urgent invitation. If she declares that his loving is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.16</book-part-id>
+                  <title-group>
+                     <title>“I AM BLACK AND BEAUTIFUL”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LaCocque</surname>
+                           <given-names>André</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>In<italic>Romance, She Wrote: A Hermeneutical Essay on Song of Songs</italic>,¹ I argue that the Song contains erotic descriptions that neither ask for nor require justification. In vivid contrast to the prophetic writings, in which eros is employed only in condemnation, it affirms, even revels in, sensual life. In fact, the Song’s eroticism is deliberately subversive in its challenge to the institutions of the Hellenistic era (ca. 333–175 bce), the probable time of its composition. I take it that the book’s author is a woman and that this female authorship adds to its polemical celebration of “free” love, that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.17</book-part-id>
+                  <title-group>
+                     <title>READING THE SONG ICONOGRAPHICALLY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Davis</surname>
+                           <given-names>Ellen F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>Among the most important questions for biblical interpreters to ask is the question of genre:<italic>As what</italic>are we to read this text? In the modern period, it was Hermann Gunkel who brought that question to the fore. As he demonstrated, the issue confronts us as soon as the opening pages of Genesis.¹ Do we read this as history (cum science) or as myth, as something that happened at a certain time—history, or as (citing the description of myth offered by the Roman historian Sallust) “something that happens over and over again”?</p>
+                     <p>When it comes to interpreting the Song</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.18</book-part-id>
+                  <title-group>
+                     <title>UNRESOLVED AND UNRESOLVABLE:</title>
+                     <subtitle>PROBLEMS IN INTERPRETING THE SONG</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brettler</surname>
+                           <given-names>Marc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>The statement that best encapsulates the problems of the Song of Songs is the simile attributed to Sa’adiya Gaon, the head of the Babylonian Jewish community in the tenth century: “It is like a lock whose key is lost or a diamond too expensive to purchase.”¹ The double simile is odd, since we typically discard locks whose keys we have lost, and certainly do not consider them to be fine diamonds. Yet, it is a perfect description of the Song: Its magnificence is well recognized, yet it refuses to be unlocked (though many have claimed to have found its missing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.19</book-part-id>
+                  <title-group>
+                     <title>ENTERING THE HOLY OF HOLIES:</title>
+                     <subtitle>RABBINIC MIDRASH AND THE LANGUAGE OF INTIMACY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kates</surname>
+                           <given-names>Judith A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>In the midst of a Mishnaic debate about the canonical status of the books of Ecclesiastes and Song of Songs (<italic>M. Yadaim</italic>3:5), a debate couched in the Mishnah’s halakhically technical terms of whether or not these books “render the hands ritually impure,” we hear an impassioned outcry from Rabbi Akiva: “God forbid!—no man in Israel ever disputed about the Song of Songs [saying that] it does not render the hands ritually impure, for the entire world is not worth as much as the day on which the Song of Songs was given to Israel; for all the Writings</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.20</book-part-id>
+                  <title-group>
+                     <title>INTRADIVINE ROMANCE:</title>
+                     <subtitle>THE SONG OF SONGS IN THE ZOHAR</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Green</surname>
+                           <given-names>Arthur</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>214</fpage>
+                  <abstract>
+                     <p>The Zohar is the great medieval Jewish compendium of mysticism, myth, and esoteric teaching. It may be considered the greatest work of Jewish literary imagination in the Middle Ages. Surely it constitutes one of the most important bodies of religious texts of all times and places. It is also a lush garden of sacred eros, filled to overflowing with luxurious plantings of love between master and disciples, among the mystical companions themselves, between the souls of Israel and the<italic>shekhinah</italic>, God’s lovely bride, but most of all between the male and female elements that together make up the Godhead. Revered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.21</book-part-id>
+                  <title-group>
+                     <title>THE LOVE SONG OF THE MILLENNIUM:</title>
+                     <subtitle>MEDIEVAL CHRISTIAN APOCALYPTIC AND THE SONG OF SONGS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Matter</surname>
+                           <given-names>E. Ann</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>228</fpage>
+                  <abstract>
+                     <p>The Latin Middle Ages was a period of great Christian interest in the Song of Songs. Judging from the surviving texts, at least twenty Latin line-by-line expositions of Solomon’s love songs were written between the seventh and the eleventh centuries, and over thirty survive from the twelfth century alone.¹ These are curious works of literature in a number of ways. For one thing, they were the product of an intellectual elite made up entirely of celibate men living in religious (usually monastic) communities. For another (and this is the reason that monks could have such an open interest in something</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.22</book-part-id>
+                  <title-group>
+                     <title>THE BODY OF THE TEXT AND THE TEXT OF THE BODY:</title>
+                     <subtitle>MONASTIC READING AND ALLEGORICAL SUB/VERSIONS OF DESIRE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burrows</surname>
+                           <given-names>Mark S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>244</fpage>
+                  <abstract>
+                     <p>In his classic and still controversial study,<italic>Love’s Body</italic>, Norman O. Brown suggested that:</p>
+                     <p>The reality is flesh. But flesh is a figure, the reality of which is yet to be unveiled. The reality of body is not given, but to be made real, to be realized; the body is to be built; to be built not with hands but by the spirit. It is the poetic body; the made body; Man makes himself, his own body, in the symbolic freedom of the imagination. The eternal body of Man is the Imagination, that is, God himself, the Divine Body, Jesus:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.23</book-part-id>
+                  <title-group>
+                     <title>THE FEMALE VOICE:</title>
+                     <subtitle>HILDEGARD OF BINGEN AND THE SONG OF SONGS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fassler</surname>
+                           <given-names>Margot</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>Hildegard of Bingen was deeply engaged with Scripture, and one of the ways to understand her thought is by tracing her treatment of particular figures from the Bible or especially important passages from favored sections of the text. How did she organize her commentaries—written, visual, and sonic? How did she take the common coin of theological understanding and turn it into a practiced, embodied knowing within communal action? These are the questions addressed here, and they are grappled with by focusing primarily upon this theologian/composer/poet’s treatment of the Song of Songs.¹ Hildegard knew the book as a source of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.24</book-part-id>
+                  <title-group>
+                     <title>THE HARLOT AND THE GIANT:</title>
+                     <subtitle>DANTE AND THE SONG OF SONGS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pertile</surname>
+                           <given-names>Lino</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>268</fpage>
+                  <abstract>
+                     <p>In his treatise the<italic>Monarchy</italic>, Dante argues against those who maintained that the foundation of faith consists in the traditions of the church. He distinguishes three stages in the history of Scripture: before the church (i.e. the Old and the New Testament), with the church (the early fathers), and after the church (the<italic>decretales</italic>). In defining the first stage, the stage<italic>ante Ecclesiam</italic>, Dante states that “this is what the Church says speaking to her bridegroom: ‘Draw me after thee.’ ”¹ The standard footnote tells us that this sentence—“Trahe me post te” in the Vulgate’s Latin—is a quotation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.25</book-part-id>
+                  <title-group>
+                     <title>IN THE ABSENCE OF LOVE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Walsh</surname>
+                           <given-names>Carey Ellen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>283</fpage>
+                  <abstract>
+                     <p>As is true of no other Scripture, I find myself compelled to return to the Song of Songs time and again. A return to a text as rich as this one can only be stimulating, for rereading is its own reward. And yet, coming back to the Song brings me something more—an infusion of joy. In afterlife, the Song has a formidable presence: It lingers in the present, gathering up the past of its origins and thus ensuring its own future. The Song is robustly alive in every rereading.</p>
+                     <p>As other essays in this collection will show, the Song</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.26</book-part-id>
+                  <title-group>
+                     <title>SONG? SONGS? WHOSE SONG?:</title>
+                     <subtitle>REFLECTIONS OF A RADICAL READER</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fontaine</surname>
+                           <given-names>Carole R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>294</fpage>
+                  <abstract>
+                     <p>On radical readers reading.…</p>
+                     <p>As a classically trained biblical scholar suspicious of the current penchant for autobiographical criticism, with its elevation of the interpreter to the level of the text, it is with chagrin that I find myself embarking here on this kind of essay—and for the<italic>second</italic>time, no less.¹ Yet despite my scruples, it strikes me as important to reflect on how and why one comes to any reading, be it radical or otherwise. After all, we read in company, and when we read in good company, our readings grow and change, though never so as to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.27</book-part-id>
+                  <title-group>
+                     <title>HONEY AND MILK UNDERNEATH YOUR TONGUE:</title>
+                     <subtitle>CHANTING A PROMISED LAND</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Osherow</surname>
+                           <given-names>Jacqueline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>306</fpage>
+                  <abstract>
+                     <p>When I think now of my introduction to the Song of Songs—at Jewish summer camp, at fifteen, when they were looking for volunteers to chant it—I can’t decide whether to emphasize that it was a fluke or one of those moments in life for which we Ashkenazic Jewish reserve the untranslatable Yiddish word<italic>beshert</italic>, which means a host of untranslatable Yiddish things, including, as I’m using it here: “profoundly and irrevocably predestined.” Perhaps I will reveal a bit too much about myself if I tell you that, for me, they are precisely the same thing—the fluke and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.28</book-part-id>
+                  <title-group>
+                     <title>“WHERE HAS YOUR BELOVED GONE?”:</title>
+                     <subtitle>THE SONG OF SONGS IN CONTEMPORARY ISRAELI POETRY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stahlberg</surname>
+                           <given-names>Lesleigh Cushing</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>In an essay in this volume, Ellen Davis contests the predominant scholarly understanding that the Song of Songs gained its place within the canon entirely because the rabbis<italic>mis</italic>read the book, taking it not as a poem about human love, but as pertaining rather to the love of God and Israel. She contends that this scholarly view represents a misunderstanding, that in fact “the Song was correctly understood by those who accorded it a place among Israel’s Scriptures.”¹ Thus, in Davis’s view, the Song “really is, in large part, about the love that obtains between God and Israel—or, more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.29</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>331</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.30</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>369</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.31</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>373</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0610.32</book-part-id>
+                  <title-group>
+                     <title>INDEX OF SCRIPTURAL CITATIONS</title>
+                  </title-group>
+                  <fpage>377</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

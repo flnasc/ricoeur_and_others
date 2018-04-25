@@ -1,0 +1,290 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1npn3q</book-id>
+      <subj-group>
+         <subject content-type="call-number">QP356.C4713 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Neurosciences</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Neurophysiology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Neuropsychology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Biological Sciences</subject>
+         <subject>Philosophy</subject>
+         <subject>Ecology &amp; Evolutionary Biology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Good, the True, and the Beautiful</book-title>
+         <subtitle>A Neuronal Approach</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>CHANGEUX</surname>
+               <given-names>JEAN-PIERRE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>translated and revised by</role>
+            <name name-style="western">
+               <surname>Garey</surname>
+               <given-names>Laurence</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>29</day>
+         <month>05</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300161397</isbn>
+      <isbn content-type="ppub">0300161395</isbn>
+      <isbn content-type="epub">9780300166422</isbn>
+      <isbn content-type="epub">0300166427</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>New Haven; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Yale University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1npn3q"/>
+      <abstract abstract-type="short">
+         <p>In this fascinating and bold discussion, a renowned neurobiologist serves as guide to the most complex physical object in the living world: the human brain. Taking into account the newest brain research-morphological, physiological, chemical, genetic-and placing these findings in the context of psychology, philosophy, art, and literature, Changeux ventures into the unexplored territories where these diverse disciplines intersect.</p>
+         <p>Changeux's book draws on Plato's notion that the Good, the True, and the Beautiful are celestial essences or ideas, independent but so intertwined as to be inseparable. Placing these essences within the characteristic features of the human brain's neuronal organization, the author addresses unsolved questions in neuroscience today. With imagination and deep insight, Changeux illuminates the evolution of the brain and deciphers what new developments in neuroscience may portend for the future of humanity.</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.3</book-part-id>
+                  <title-group>
+                     <title>Translator’s Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Garey</surname>
+                           <given-names>Laurence</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments for the French Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Changeux</surname>
+                           <given-names>Jean-Pierre</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The human brain is the most complex physical object in the living world. It remains one of the most difficult to understand. If you tackle it head-on, you risk total failure. In the jungle of nerve cells (the neurons) and their interconnections at synapses, of which it is composed, we must try to identify pertinent features of its organization and function, Ariadne’s thread to the center of the labyrinth. My thirty years of teaching at the<italic>Collège de France</italic>have provided me with an exceptional laboratory of ideas to help grasp this thread. They have had a profound influence on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.6</book-part-id>
+                  <title-group>
+                     <label>I</label>
+                     <title>The Beautiful:</title>
+                     <subtitle>NEUROESTHETICS</subtitle>
+                  </title-group>
+                  <fpage>5</fpage>
+                  <abstract>
+                     <p>The term<italic>neuroesthetics</italic>is of recent origin. It was coined by Semir Zeki, and the first conference on the theme was held in San Francisco in 2002. It reflected a somewhat older concept, such as that expounded by Alexander Luria in the 1970s, aimed at finding the neural basis for contemplating and creating artworks and studying it scientifically. In the next pages I shall attempt to link some personal aspects of art and esthetics to various biological observations, in the hope that the reader will accept plausible, but not definitive, interrelationships.</p>
+                     <p>Ethics strives for a life of “goodness”; science seeks</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.7</book-part-id>
+                  <title-group>
+                     <label>II</label>
+                     <title>The Good:</title>
+                     <subtitle>NEUROSCIENCE AND ETHICAL NORMATIVITY</subtitle>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Since David Hume (1711–1776), philosophy, as well as common sense, has differentiated science from morality. Science establishes facts (“what is”), whereas morality decides “what should be,” but many admit that we cannot distinguish what should be from what is. I shall consider whether it is plausible to take an opposite, although perhaps rather surprising, approach and ask whether we can favor what should be from our knowledge about what is. In fact, such a question belongs to a long philosophical tradition, including Hume, Henri de Saint-Simon (1760–1825), Auguste Comte, Charles Darwin, and contemporary ethologists. My idea is to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.8</book-part-id>
+                  <title-group>
+                     <label>III</label>
+                     <title>Truth:</title>
+                     <subtitle>A NATURALISTIC CONCEPT OF THE WORLD</subtitle>
+                  </title-group>
+                  <fpage>124</fpage>
+                  <abstract>
+                     <p>Western philosophy grew from that of the ancient Greeks at the end of the seventh century bce. Among the first were the Milesians: Thales (ca. 624–548 bce), Anaximander (ca. 611–547 bce), and Anaximenes (ca. 570–500 bce). As Geoffrey Lloyd recounted in 1970, this was a time of important technological progress, the end of the Bronze Age and the beginning of the Iron Age. Classification developed from observation and rationalization. These early philosophers discovered nature and distinguished between natural and supernatural, and they then avoided the supernatural. Thales declared that gods were everywhere, but he left them there.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.9</book-part-id>
+                  <title-group>
+                     <label>IV</label>
+                     <title>The Molecular Biology of the Brain</title>
+                  </title-group>
+                  <fpage>226</fpage>
+                  <abstract>
+                     <p>Before science developed, humans elaborated mythical reflections to give some meaning to events and experiences they encountered and to establish classifications that were “superior to chaos,” as Claude Lévi-Strauss said. Theories included creation by gods and spontaneous generation. Common concepts included great floods to punish sins and re-create the world, and creation of life in a primeval ocean by successive steps. In the West the myth of dualism of body and soul emerged. The dualist, creationist view was opposed from ancient Greece onward by more materialist concepts, some of which emphasized that diverse elements could be combined randomly to form</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.10</book-part-id>
+                  <title-group>
+                     <label>V</label>
+                     <title>Molecules and the Mind</title>
+                  </title-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Neurotransmitters and their receptors appeared very early in animal evolution, and their structural genes have not changed much since. We have even found ancestors of the nicotinic acetylcholine receptor in ancient bacteria! Our understanding of this receptor has progressed greatly in the last few years, and it remains easily the best known of all neurotransmitter receptors and is one of the best reference models.</p>
+                     <p>Since ancient times we have accepted the concept of active chemical substances in the human body. In 1877 Emil du Bois-Reymond suggested two possible mechanisms: “At the boundary of the contractile substance, either there exists a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.11</book-part-id>
+                  <title-group>
+                     <label>VI</label>
+                     <title>Where Do We Stand Today?</title>
+                     <subtitle>FROM NEURONAL MAN TO THE PHYSIOLOGY OF TRUTH</subtitle>
+                  </title-group>
+                  <fpage>314</fpage>
+                  <abstract>
+                     <p>Since my first lectures at the Collège de France more than thirty years ago, my aim has been clear: to take up the challenge of molecular biology and apply its paradigms and methods to a study of the brain and its most highly integrated functions, such as consciousness and thought. So where do we stand all these years later? Let us try to establish some new facts and some research perspectives for the decades to come.</p>
+                     <p>
+                        <italic>Neuronal Man</italic>appeared in 1983, and its English version in 1985. It attempted to establish a pertinent causal relationship between structure and function, taking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.12</book-part-id>
+                  <title-group>
+                     <label>VII</label>
+                     <title>Epilogue</title>
+                  </title-group>
+                  <fpage>344</fpage>
+                  <abstract>
+                     <p>Recent progress in neuroscience and its integration in dynamic evolutionary processes, which include culture and its history, prompt us to rethink certain central philosophical questions, such as the significance of death. Death is an essential biological phenomenon directly related to the evolution of species. It has taken on a special dimension in the history of humanity. Buff on rightly said that “death is as natural as life.” Many philosophical and religious fundamentals, which emphasize the sacred character of life, maintain the balance by doing the same for its interruption by death. I feel it is opportune today more than ever</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.13</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>In the third part of his<italic>Elements of Physiology</italic>, which deals with the brain, Diderot humorously suggested that “the wise man is only a compound of molecules,” and a few lines later, “organization and life: that is the soul; only, the organization is so variable.” My aim in this book has been to give a free hand to ideas about the molecule and about the soul, from bottom up as well as from top down, in the context of our brain. It has been to try to grasp, step by step, the place of the rather erratic evolution of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.14</book-part-id>
+                  <title-group>
+                     <title>Selected Bibliography</title>
+                  </title-group>
+                  <fpage>357</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1npn3q.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>367</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,619 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt805xv</book-id>
+      <subj-group>
+         <subject content-type="call-number">ML410.A59188 2001</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Anhalt, István, 1919–</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Music</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Istvan Anhalt</book-title>
+         <subtitle>Pathways and Memory</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>ELLIOTT</surname>
+               <given-names>ROBIN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>SMITH</surname>
+               <given-names>GORDON E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>11</month>
+         <year>2001</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773521025</isbn>
+      <isbn content-type="epub">9780773568754</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2001</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt805xv"/>
+      <abstract abstract-type="short">
+         <p>Istvan Anhalt, born into a Jewish family in Budapest in 1919, studied with Zoltán Kodály before being conscripted into a forced labour camp during World War II. In the late 1940s he studied under Nadia Boulanger and Soulima Stravinsky before emigrating to Canada in 1949, where he has been an important figure in the Canadian music scene for the last fifty years.</p>
+      </abstract>
+      <counts>
+         <page-count count="496"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.3</book-part-id>
+                  <title-group>
+                     <title>Figures and Tables</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.4</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SMITH</surname>
+                           <given-names>GORDON E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xvii</fpage>
+                  <abstract>
+                     <p>Musician, writer, composer, teacher, and colleague – Istvan¹ Anhalt has been a major figure on the Canadian music scene for five decades. Born into a Jewish family in Budapest in 1919, Anhalt studied at the Franz Liszt Academy of Music with Zoltán Kodály before being conscripted into a forced labour camp during the war. In the late 1940s he studied in Paris with Louis Fourestier, Nadia Boulanger, and Soulima Stravinsky, and emigrated to Canada in 1949, sponsored by a Lady Davis Fellowship for displaced European intellectuals and artists. Settling first in Montreal, he taught at McGill University for twenty-two years,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.7</book-part-id>
+                  <title-group>
+                     <title>Illustrations</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Life in Europe (1919–49)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELLIOTT</surname>
+                           <given-names>ROBIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Anhalt is an uncommon family name, and among people of Jewish origin it is exceptionally rare. In the course of his own casual but fairly extensive genealogical research into his family origins, Istvan Anhalt uncovered only one other Jewish family of that name in Europe, located in Poland.¹ According to an unsubstantiated and likely unprovable story told to Anhalt by his father, the family ancestors came from Dessau, the town where the princes of Anhalt-Dessau had their residence.² As the name Anhalt was reserved for members of the ruling family in Dessau, it must have been adopted by Anhalt’s ancestors</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Life in Montreal (1949–71)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELLIOTT</surname>
+                           <given-names>ROBIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>Anhalt’s emigration to Canada was part of a significant postwar demographic movement. In 1946 the Canadian government approved emergency measures to allow the immigration of refugees and displaced persons in a belated attempt to make amends for having done so little to provide safe haven for the oppressed of Europe during the war. Between 1947 and 1952, over 165,000 people arrived in Canada under the terms of these emergency measures. Like Anhalt, the majority of them came by boat from Europe and were processed through Halifax’s Pier 21, a large two-storey immigration building with barred windows on the waterfront in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Kingston Years (1971–present)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SMITH</surname>
+                           <given-names>GORDON E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>The pathway that led Istvan Anhalt from McGill to Queen’s appeared only after much reflection. As seen in chapter 2, Anhalt’s decision to leave his full-time professorship at McGill University for Queen’s in 1971 did not come easily. He had worked at McGill since his arrival in Canada in 1949 with good results, building up the theory and composition department, establishing the Electronic Music Studio, and forming his reputation as a teacher and a composer. Over the twenty-two year period in Montreal, Anhalt had also found a stimulating circle of colleagues and friends, both English and French speaking. As an</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Instrumental Solo and Chamber Music</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELLIOTT</surname>
+                           <given-names>ROBIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Anhalt’s purely instrumental solo and chamber music dates, with one important exception, from early in his career. Most of the music he composed in Europe falls into this category, as do the works he wrote during his first six years in Canada. The only chamber music work to date that reflects the style of Anhalt’s later operatic, vocal, and orchestral compositions is<italic>Doors … shadows (Glenn Gould in memory)</italic>. The works under consideration here, with place and date of completion in parentheses, are as follows:</p>
+                     <p>Capriccio for solo piano (Ainring, Germany, 1 March 1946)</p>
+                     <p>String Quartet (Paris, ?1946–47)</p>
+                     <p>Piano</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Orchestral Works</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BECKWITH</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>Istvan Anhalt’s orchestral oeuvre contains eight works:<italic>Concerto in stilo di Handel</italic>, a neobaroque concerto composed during his studies in Paris; Interludium and<italic>Funeral Music</italic>, two short works from his first years in Montreal; Symphony, his major work of the 1950s;<italic>Symphony of Modules</italic>, his major work of the 1960s; and then, in a sudden creative burst of the late 1980s, a triptych of large-scale orchestral essays –<italic>Simulacrum</italic>,<italic>SparkskrapS</italic>, and<italic>Sonance·Resonance (Welche Töne?)</italic>.</p>
+                     <p>The first two pieces have remained unperformed; scores are preserved in the Anhalt fonds of the National Library of Canada. The fonds also contains sketches and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Electroacoustic Music</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEANE</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>132</fpage>
+                  <abstract>
+                     <p>Istvan Anhalt first heard electronic music during a broadcast in the late 1950s on cbc radio, hosted by Helmut Blume. Blume often travelled in Europe, and he had acquired, in Germany, broadcast tapes of two works by Karlheinz Stockhausen. One of the works Anhalt heard was<italic>Studie ii</italic>(1954), a work created from white noise¹ carefully filtered to produce striking contrasts in timbre. The second and more recent work was<italic>Gesang der Jünglinge</italic>(1955–56), a remarkable piece created through transformations of the voice of a boy soprano mixed with electronically produced sounds. This latter work remains one of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Alternatives of Voice:</title>
+                     <subtitle>Anhalt’s Odyssey from Personalized Style to Symbolic Expression</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENJAMIN</surname>
+                           <given-names>WILLIAM E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>164</fpage>
+                  <abstract>
+                     <p>Over the past half-century, Istvan Anhalt has produced a body of work as technically refined, as rich in meaning, and as fully engaged with musicality as any other from this period. There are reasons why it does not enjoy the wide recognition accorded other oeuvres, of which many have less potential to reward the discerning listener. The professional cost of reaching full production only after the age of fifty can be cited – if easily explained by way of thirty-five years of unstinting devotion to teaching – as can the fractured state of musical politics (like all politics) in Canada,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Words for Music:</title>
+                     <subtitle>The Composer as Poet</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOREY</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>Anhalt is a poetic composer, one who values words for both sound and meaning. Moreover, he is intrigued by the ways in which words and music meet, and in his book<italic>Alternative Voices</italic>¹ he offers original and penetrating discussions of the changing treatment of text in conjunction with music. What distinguishes<italic>Alternative Voices</italic>is the way in which Anhalt examines texted musical compositions from the verbal side of things, rather than more conventionally from the musical side, and it is this approach that serves as a model for the following consideration of Anhalt’s compositions that use texts.²</p>
+                     <p>About half of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Between the Keys:</title>
+                     <subtitle>Istvan Anhalt Writing on Music</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CLARKSON</surname>
+                           <given-names>AUSTIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>324</fpage>
+                  <abstract>
+                     <p>Words about music enliven the distances that separate the musical idea from the experience of music like the threads of rain that, in the lines of the haiku, sew sky to earth. When composers who are drawn to express themselves in language as well as in music also devise their own verbal texts for vocal compositions, there is a reciprocal effect – as though the rain threads upwards as well as down.</p>
+                     <p>There is a dynamic engagement between speech about music and music itself, between reflection on music and musical thought, that differs greatly from one composer to another. For</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Istvan Anhalt Fonds at the National Library of Canada</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KALLMANN</surname>
+                           <given-names>HELMUT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>342</fpage>
+                  <abstract>
+                     <p>The Istvan Anhalt fonds comprises one of the largest and most detail-intensive units among the over 300 fonds and collections housed in perpetuity in the Manuscript Section of the Music Division of the National Library of Canada.¹ The Anhalt fonds remains in a state of growth as the composer continues to compose, lecture, and write. It remains Anhalt’s intention to offer the library further blocks of material as he is ready to part with them. This essay examines the Anhalt fonds with a view to determining what it contains, how one gains access to it, and for what ends one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.18</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Reflections on a Colleague and Friend</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROCHBERG</surname>
+                           <given-names>GEORGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>These are reflections and ruminations, thoughts and feelings about my friend Istvan Anhalt and our long friendship of over forty years.¹ We first met at the International Conference of Composers held at Stratford, Ontario, in the summer of 1960. It’s hard to pinpoint precisely what drew us together. Surely our initial responses to each other’s music, but beyond that, those human places from which music itself arises. One of William Blake’s proverbs comes to mind: “the bird a nest, the spider a web, man friendship.” Genuine friendship is not possible without the kinship of shared attitudes, tastes, interests. But too</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.19</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>G.E.S.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>367</fpage>
+                  <abstract>
+                     <p>Throughout his career in Canada, Istvan Anhalt has demonstrated a stimulating talent not only for composing but also for writing about music. For all of his own major compositions he has provided at least one and in some instances several essays explaining the work’s aesthetic and musical qualities. His major contribution as an engaged and profound thinker about music is his book<italic>Alternative Voices</italic>, in which he brings his wide learning to bear on the subject of contemporary vocal and choral composition. It seems fitting, then, to include Anhalt’s voice here, in a number of essays that deal with his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.20</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>An Operatic Triptych in Multiple Texts</title>
+                  </title-group>
+                  <fpage>369</fpage>
+                  <abstract>
+                     <p>The first work in this triptych,<italic>La Tourangelle</italic>, was the outcome of a cbc Radio commission. Its story is told elsewhere on these pages. The composition took place during the years 1970–75, and the premiere in the summer of 1975. It was followed by<italic>Winthrop</italic>, which I began in the fall of 1975 and completed in 1983. During the early 1980s, while still at work on<italic>Winthrop</italic>, I began to think that eventually I should consider adding a third work, one based on the story of a Jewish figure, thus endeavouring to tell about the group with which I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.21</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>On the Way to Traces:</title>
+                     <subtitle>A Dialogue with the Self</subtitle>
+                  </title-group>
+                  <fpage>400</fpage>
+                  <abstract>
+                     <p>Q: Would you play some music from your new opera<italic>Traces (Tikkun)</italic>which, I hear, will soon receive its premiere?</p>
+                     <p>A: I would do it gladly but I cannot because no part of it has been recorded as yet.</p>
+                     <p>Q: Play it on the piano, then.</p>
+                     <p>A: You would not want me to make a hash of it this way, with or without attempting to add some of the vocal part. I am not much of a singer, and the piece demands a fairly high level of vocal agility, besides.</p>
+                     <p>Q: That’s a pity. Are we to be left then</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.22</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>From “Mirage” to Simulacrum and “Afterthought”</title>
+                  </title-group>
+                  <fpage>412</fpage>
+                  <abstract>
+                     <p>I am here to speak about<italic>Simulacrum</italic>, which I shall do. Alongside this, I shall also have things to say about memory, recall, and about certain specific things I remember that, in one way or another, found their way into<italic>Simulacrum</italic>as I was composing the piece.</p>
+                     <p>But first, the question of where to start. Where should the story begin? Where does<italic>anything</italic>begin? Now, the answer that comes to mind to the last question is that it depends, of course, on the perspective. It hinges on how far one is prepared to go back in time, which in turn</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.23</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Three Songs of Love</title>
+                     <subtitle>(The Story Behind)</subtitle>
+                  </title-group>
+                  <fpage>426</fpage>
+                  <abstract>
+                     <p>There are two versions of this piece for women’s choir: the first was written as an a cappella work, in 1951 in Montreal; the other, with two added wind instruments (flute, clarinet), in 1997 in Kingston. The sentiment and thought behind it, however, go back to the year 1941. Its contents were also influenced by events and conditions that occurred in my life in 1951–52, and after a long hiatus, in the mid-1990s.</p>
+                     <p>The terrain of these pieces is that of private lives in which fundamental intimate relationships take shape and are enacted. These appear to be universal and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.24</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>A Continuing Thread?</title>
+                     <subtitle>Perhaps</subtitle>
+                  </title-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>I am writing this in December 1997, about a year and a half after the premiere of<italic>Traces</italic>(<italic>Tikkun</italic>). I am now in the midst of composing a new work for voices and orchestra which I am calling “A Voice-Drama for the Imagination.” As on earlier occasions, the thought that these works might be related, in some way, to my earlier works for voices (<italic>Comments, Cento, Foci, Thisness</italic>, and others) keeps coming back to mind. I now believe that there is a connection linking these pieces together; as a result, they could be, or perhaps even ought to be, regarded</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.25</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Millennial Mall (Lady Diotima’s Walk):</title>
+                     <subtitle>A Voice-Drama for the Imagination</subtitle>
+                  </title-group>
+                  <fpage>445</fpage>
+                  <abstract>
+                     <p>Finally here … I’m late … came from a distance … My name … Lady Diotima – Diotima for short … At one time I was called “Diotima the sorceress,” but I never cared for that tag. Others remembered me as the noted courtesan, a friend of the wise … Oh love! They treated me with respect when it came to this theme … They also listened raptly when I discoursed about ambivalence … about feeling to be<italic>in</italic>a thing and<italic>out</italic>of it<italic>at one and the same time</italic>. Take, for example, this mall, which we are about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.26</book-part-id>
+                  <title-group>
+                     <title>APPENDIX:</title>
+                     <subtitle>List of Istvan Anhalt’s Compositions and Writings</subtitle>
+                  </title-group>
+                  <fpage>465</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt805xv.27</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>469</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,547 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125wf1</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">cust17194</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2430.F724 F6856 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Foucault, Michel, 1926–1984</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Derrida, Jacques</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Political Science</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Foucault/Derrida Fifty Years Later</book-title>
+         <subtitle>The Futures of Genealogy, Deconstruction, and Politics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Custer</surname>
+               <given-names>Olivia</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Deutscher</surname>
+               <given-names>Penelope</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Haddad</surname>
+               <given-names>Samir</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>11</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="epub">9780231542999</isbn>
+      <isbn content-type="epub">0231542992</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7312/cust17194"/>
+      <abstract abstract-type="short">
+         <p>Early in their careers, Michel Foucault and Jacques Derrida argued over madness, reason, and history in an exchange that profoundly influenced continental philosophy and critical theory. In this collection, Amy Allen, Geoffrey Bennington, Lynne Huffer, Colin Koopman, Pierre Macherey, Michael Naas, and Judith Revel, among others, trace this exchange in debates over the possibilities of genealogy and deconstruction, immanent and transcendent approaches to philosophy, and the practical and theoretical role of the archive.</p>
+      </abstract>
+      <counts>
+         <page-count count="264"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>V</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>IX</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.4</book-part-id>
+                  <title-group>
+                     <title>ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>XI</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="editor" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUSTER</surname>
+                           <given-names>OLIVIA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEUTSCHER</surname>
+                           <given-names>PENELOPE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="editor" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HADDAD</surname>
+                           <given-names>SAMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>XIII</fpage>
+                  <abstract>
+                     <p>There was no debate. There never was a moment when Derrida and Foucault were sitting opposite each other, on display for an audience, arguing back and forth, controlled by a mediator or provoked by a journalist. There can be no images, no transcript. Of course, the history of philosophy is full of debates whose reality and vitality does not depend on an empirical encounter of the sort Foucault had with Chomsky: writers and readers frequently proceed by staging two authors as figures to stake out opposing positions. But the strange quarrel explored in these essays is not quite of that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Foucault-Derrida Debate on the Argument Concerning Madness and Dreams</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACHEREY</surname>
+                           <given-names>PIERRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">TRANSLATED BY</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAZENAVE</surname>
+                           <given-names>JENNIFER</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUSTER</surname>
+                           <given-names>OLIVIA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HADDAD</surname>
+                           <given-names>SAMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The starting point for the discussion between Foucault and Derrida was the 1961 publication of Foucault’s first major work,<italic>History of Madness</italic>. This began a trajectory that, over the course of the next twenty years, contributed considerably to transforming theoretical debates at the crossroads of the sciences, history, and philosophy.</p>
+                     <p>Let us recall that in speaking of a history of madness Foucault marked from the outset his decision to wrest madness, or rather what he called “the experience of madness,” from the supposedly natural status assigned to it by psychiatric medicine. This medicine, with its spontaneous and naive positivism, had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Looking Back at History of Madness</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUFFER</surname>
+                           <given-names>LYNNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Over fifty years have passed since Derrida’s “Cogito and the History of Madness” triggered a philosophical quarrel whose reverberations still haunt us. But why concern ourselves today with what many regard as a debate whose moment has passed? I want to ask: In knowing the debate so well, have we passed something over?¹ Have we really read the strange<italic>histoire</italic>—history and story—that compelled Derrida to “start to speak” (CH 32/52) in the first place?</p>
+                     <p>Michel Foucault’s<italic>History of Madness</italic>was first published in French in 1961 as<italic>Folie et déraison: Histoire de la folie à l’âge classique</italic>by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Violence and Hyperbole:</title>
+                     <subtitle>FROM “COGITO AND THE HISTORY OF MADNESS” TO THE DEATH PENALTY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NAAS</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>38</fpage>
+                  <abstract>
+                     <p>About two-thirds of the way through the second year of<italic>The Death Penalty</italic>, Derrida takes a step back for a moment from the texts and figures he has been reading for the past several weeks in order to reflect upon the progress of the seminar as a whole. He steps back from his readings of Kant, Heidegger, Theodor Reik, and others on questions of reason, calculation, cruelty, punishment, and, of course, the death penalty, in order to suggest that the question they have been revolving around from the very beginning of the seminar will have been less that of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Must Philosophy Be Obligatory?:</title>
+                     <subtitle>HISTORY VERSUS METAPHYSICS IN FOUCAULT AND DERRIDA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOOPMAN</surname>
+                           <given-names>COLIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>The latter decades of the twentieth century were witness to a resounding critique of the traditional tasks of philosophy. During these years, many of the canonical aspirations of philosophy fell into a certain kind of disrepute on a number of fronts. In America the most influential spokesperson for the assault on the standard assumptions of modern philosophy was Richard Rorty. In Germany the scandal was associated with Jürgen Habermas and the Frankfurt School. But perhaps the North Atlantic milieu in which philosophy came under the severest critical attack was France, where a range of thinkers came to be presented as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>“The Common Root of Meaning and Nonmeaning”:</title>
+                     <subtitle>DERRIDA, FOUCAULT, AND THE TRANSFORMATION OF THE TRANSCENDENTAL QUESTION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHURANA</surname>
+                           <given-names>THOMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>One way foucault and derrida’s debate about the<italic>History of Madness</italic>has been framed is as articulating the methodological contrast of their respective endeavors. On this reading, at stake in the debate is the way in which archaeology or discourse analysis, in Foucault’s sense, and Derridean deconstruction relate to each other. This is a rich question, and in what follows, I focus on just one of its dimensions—the transformation of the transcendental question that is at stake primarily on Derrida’s side of the debate.</p>
+                     <p>The transformation of the transcendental question is in fact a project that, in general, Foucault</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Philosophies of Immanence and Transcendence:</title>
+                     <subtitle>READING HISTORY OF MADNESS WITH DERRIDA AND HABERMAS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALLEN</surname>
+                           <given-names>AMY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>The critical reception of foucault’s work, particularly his early work, is marked by a curious convergence. Two of Foucault’s staunchest critics are philosophers who otherwise have very little in common, indeed, who had their own, quite heated and very public, debate: Jacques Derrida and Jürgen Habermas.¹ Moreover, the content of Derrida’s and Habermas’s criticisms of the early Foucault is strikingly similar; both philosophers deploy a kind of performative contradiction argument against Foucault’s critique of reason (though only Habermas uses that specific terminology). As Colin Koopman puts the point: “Thinkers who usually see themselves as opposed to one another—for example,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Foucault, Derida:</title>
+                     <subtitle>THE EFFECTS OF CRITIQUE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REVEL</surname>
+                           <given-names>JUDITH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">TRANSLATED BY</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HADDAD</surname>
+                           <given-names>SAMIR</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUSTER</surname>
+                           <given-names>OLIVIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>A body of thought is too often reduced to a “silhouette” that one thinks is a summary. In thus personifying the work of philosophy, we take away its thickness. But this complexity does not exist in isolation, any more than it can be frozen in time in the form of an unchanging position. Bodies of thought enrich and transform each other through the play of interactions and reactions, strategies and exchanges, and conflicts and ruptures. One body of thought thus implicates others. This relation is not constructed simply by borrowing from, or subscribing to, other thoughts, any more than the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>A Petty Pedagogy?</title>
+                     <subtitle>TEACHING PHILOSOPHY IN DERRIDA’S “COGITO AND THE HISTORY OF MADNESS”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HADDAD</surname>
+                           <given-names>SAMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>On june 14, 1973,<italic>Le Monde</italic>published a two-page spread with the title “Jacques Derrida: Le déconstructeur.” Aimed at introducing Derrida’s work to a broader public, it consisted of a number of short articles, such as a summary of his publications, a glossary of several “Indécidables” (trace or<italic>gramme, différance</italic>, supplement, etc.), a list of pithy one-liners culled from his texts, and an interview with Philippe Sollers on Derrida’s relation to literature. The articles were uniformly positive, with one exception—a short column in the center of the right page, which read as follows:</p>
+                     <p>Michel Foucault and Jacques Derrida have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Power and the “Drive for Mastery”:</title>
+                     <subtitle>DERRIDA’S FREUD AND THE DEBATE WITH FOUCAULT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TRUMBULL</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>In the 1990s, nearly thirty years after the publication of “Cogito and the History of Madness,” Derrida returned to Foucault in a text intended to mark the thirtieth anniversary of Foucault’s<italic>Histoire de la folie</italic>. In “‘To Do Justice to Freud’” (“‘Être juste avec Freud’”), Derrida revisits some of the central questions in the contretemps around<italic>History of Madness</italic>and “Cogito and the History of Madness,” but he does so in the context of an engagement with Foucault that extends the debate in a new direction. The turn in the debate is announced straightaway in the title: at issue, now,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>“This Death Which Is Not One”:</title>
+                     <subtitle>REPRODUCTIVE BIOPOLITICS AND THE WOMAN AS EXCEPTION IN THE DEATH PENALTY, VOLUME 1</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEUTSCHER</surname>
+                           <given-names>PENELOPE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>To<italic>recall</italic>—in derrida’s work there was “always a telephone.” It was just one of the technologies promising to annul distance, while calling into question the immediacy it promised and the distance it promised to annul.¹ Yet, as Eric Prenowitz writes, the telephone held a more peculiar interest: from “Plato’s Pharmacy,” through Derrida’s many reflections on teletechnologies (generalized in<italic>Echographies</italic>), to the ongoing dialogues with Hélène Cixous² that were also repeated openings to sexual difference. Consistent with those openings, the telephone becomes, at one point in his<italic>The Death Penalty, Volume 1</italic>, an umbilical cord. Here is Derrida describing teletechnology</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>From Reprisal to Reprise</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CUSTER</surname>
+                           <given-names>OLIVIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>As is no doubt the case for all who think with, and through,<italic>both</italic>Derrida and Foucault, rereading the initial exchange in their quarrel provokes a mixture of emotions for me. Pleasure at the familiarity as they show off what have since become signature moves, hilarity and occasional bafflement at the degree to which they manage to be inaudible to one another, admiration for their brilliance tinged with a certain regret when caustic wit seems to veer into exaggerated aggression, and a lingering sense that this exchange does more to explain why it should be difficult to follow both of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Truth About Parrhēsia:</title>
+                     <subtitle>PHILOSOPHY, RHETORIC, AND POLITICS IN LATE FOUCAULT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENNINGTON</surname>
+                           <given-names>GEOFFREY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Rather than rehearse the now well-trodden “debate” around the “Cogito” essay itself, which has arguably been a<italic>dialogue de sourds</italic>—in which historically inclined readers are impressed by the historical nature of Foucault’s reply to Derrida and his parting jibe at Derrida’s supposedly “historically well-determined little pedagogy,” and philosophically inclined readers are more impressed by Foucault’s failure to respond to Derrida’s more general questions except by means of invective¹—in this essay I will try to approach some of these questions more obliquely via Foucault’s attempts in his last lecture courses to reformulate the relationships between philosophy, rhetoric, truth, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.18</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>221</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">cust17194.19</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,258 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1h1hqrm</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The World of Dante</book-title>
+         <subtitle>Six Studies in Language and Thought</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Chandler</surname>
+               <given-names>S. Bernard</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Molinaro</surname>
+               <given-names>J. A.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>1966</year>
+      </pub-date>
+      <isbn content-type="ppub">9781442639058</isbn>
+      <isbn content-type="epub">9781442652682</isbn>
+      <publisher>
+         <publisher-name>University of Toronto Press</publisher-name>
+      </publisher>
+      <permissions>
+         <copyright-year>1966</copyright-year>
+         <copyright-holder>University of Toronto Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3138/j.ctt1h1hqrm"/>
+      <abstract abstract-type="short">
+         <p>In celebration of the 700th anniversary of the birth of Dante in 1265 the Dante Society of Toronto invited six internationally known scholars to address its members. Together, these contributions indicate the range and direction of Dante studies in North America today.</p>
+      </abstract>
+      <counts>
+         <page-count count="144"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>S. B. C.</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>J. A. M.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.4</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.5</book-part-id>
+                  <title-group>
+                     <title>Notes on the Editors and Authors</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.6</book-part-id>
+                  <title-group>
+                     <title>Dante and the Drama of Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAMBON</surname>
+                           <given-names>GLAUCO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>At the peak of his creative effort, Dante acknowledged crucial difficulties of subject matter:</p>
+                     <p>perch’a risponder la materia è sorda (<italic>Par</italic>. I, 129)¹</p>
+                     <p>and of language:</p>
+                     <p>ché non è impresa da pigliare a gabbo</p>
+                     <p>discriver fondo a tutto l’universo,</p>
+                     <p>né da lingua che chiami mamma o babbo (<italic>Inf</italic>. XXXII, 7–9);</p>
+                     <p>Oh quanto è corto il dire e come fioco</p>
+                     <p>al mio concetto! e questo, a quel ch’i’vidi,</p>
+                     <p>è tanto, che non basta a dicer “poco” (<italic>Par</italic>. XXXIII, 121–3).</p>
+                     <p>To dismiss such an avowed inadequacy of expressive power as merely a rhetorical device is to ignore Dante’s lifelong concern</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.7</book-part-id>
+                  <title-group>
+                     <title>The River of Death:</title>
+                     <subtitle>Inferno II, 108</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRECCERO</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>In the twenty-fifth canto of the<italic>Poradiso</italic>, as Dante is about to be examined on the virtue of Hope, Beatrice introduces him to St. James as the man to whom it was “granted to come from Egypt to Jerusalem, in order to see, before the prescribed limits of his warfare” (XXV, 55–57). With these words, Beatrice glosses Dante’s journey in retrospect, according to the figure of Exodus, the Old Testament story that was taken by mediaeval exegetes to be a foreshadowing of the coming of Christ. By describing this particular journey in terms of the master-plan of Christian history,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.8</book-part-id>
+                  <title-group>
+                     <title>The Living Poet and the Myth of Time:</title>
+                     <subtitle>Christian Comedy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAHONEY</surname>
+                           <given-names>JOHN F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>It would be a fairly easy matter to begin this, or any other, attempt at a new evaluation of Dante’s artistic accomplishment by assuming that the<italic>Commedia</italic>is<italic>the</italic>great poem in western literary history. Any scholar, on the other hand, would much prefer to have his readers come to this conclusion as a result of his argument. As bromidic an introductory remark as this may seem to be, it is a necessary one. Students of Dante, as has often been remarked, have been cheered by his emergence from the age of pedantic scholarship. In the twenty years which have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.9</book-part-id>
+                  <title-group>
+                     <title>Dante’s Three Communities:</title>
+                     <subtitle>Mediation and Order</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAZZEO</surname>
+                           <given-names>JOSEPH ANTHONY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>The divina commedia is a journey from misery to bliss, from illusion and ignorance to perfect love and knowledge, from clamour to peace, and from slavery to freedom. As a work of art, I think we have no other to compare with it in philosophic richness and perfection of execution, both in its grand design and its smallest detail. In a way, it is hard to think of it as having been written over many years. In spite of its epic proportions and encyclopaedic character, its astonishing union of massive erudition and poetic splendour and variety, the poem is so</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.10</book-part-id>
+                  <title-group>
+                     <title>Dante’s Katabasis and Mission</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAROLLI</surname>
+                           <given-names>GIAN ROBERTO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>80</fpage>
+                  <abstract>
+                     <p>Dante’s creative task has been defined as of “superhuman difficulty.” This is clearly discernible in the language of the poem; for although the<italic>Commedia</italic>, considered as a whole, seems astonishingly light and simple—thanks to its clear and orderly structure—there is no single passage that does not reflect tension and effort; one is left with the impression that the work at every step demanded of Dante a boundless devotion, an unstinting expenditure of himself. No less devotion, no less unstinting expenditure of self is demanded of Dante scholars when they are faced by the difficult question of whether or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h1hqrm.11</book-part-id>
+                  <title-group>
+                     <title>The Twins of Latona</title>
+                     <subtitle>AND OTHER SYMMETRICAL SYMBOLS FOR JUSTICE IN DANTE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VON RICHTHOFEN</surname>
+                           <given-names>ERICH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Dante, who was born under the constellation of Gemini, has a marked tendency to express himself in similes designating pairs or couples. To this group of images belongs that of Latona’s children, and also other symmetrical symbols reflecting some fundamental aspects of Dante’s complex conception of justice.¹</p>
+                     <p>Let me begin with a brief comment on the poet’s characteristic technique of contrasting geometrically two extreme poles. This is done in order to harmonize them, for instance papal and imperial power, or to oppose them as irreconcilable expressions of good and evil, as that of<italic>veltro</italic>and<italic>lupa</italic>, the hound and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

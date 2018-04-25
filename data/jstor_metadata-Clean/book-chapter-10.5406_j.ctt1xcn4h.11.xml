@@ -1,0 +1,334 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1xcn4h</book-id>
+      <subj-group>
+         <subject content-type="call-number">B105.W6D87 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Women philosophers</subject>
+         <subj-group>
+            <subject content-type="lcsh">Europe</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Eight Women Philosophers</book-title>
+         <subtitle>Theory, Politics, and Feminism</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Duran</surname>
+               <given-names>Jane</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>14</day>
+         <month>10</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">9780252030222</isbn>
+      <isbn content-type="epub">9780252091056</isbn>
+      <publisher>
+         <publisher-name>University of Illinois Press</publisher-name>
+         <publisher-loc>Urbana; Chicago</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Jane Duran</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.5406/j.ctt1xcn4h"/>
+      <abstract abstract-type="short">
+         <p>Spanning over nine hundred years, Eight Women Philosophers is the first singly-authored work to trace the themes of standard philosophical theorizing and feminist thought across women philosophers in the Western tradition. Jane Duran has crafted a comprehensive overview of eight women philosophers--Hildegard of Bingen, Anne Conway, Mary Astell, Mary Wollstonecraft, Harriet Taylor Mill, Edith Stein, Simone Weil, and Simone de Beauvoir--that underscores the profound and continuing significance of these thinkers for contemporary scholars. _x000B_Duran devotes one chapter to each philosopher and provides a sustained critical analysis of her work, utilizing aspects of Continental theory, poststructuralist theory, and literary theory. She situates each philosopher within her respective era and in relation to her intellectual contemporaries, and specifically addresses the contributions each has made to major areas such as metaphysics/epistemology, theory of value, and feminist theory. She affirms the viability and importance of recovering these women's overlooked work and provides a powerful answer to the question of why the rubric "women philosophers" remains so valuable.</p>
+      </abstract>
+      <counts>
+         <page-count count="328"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.3</book-part-id>
+                  <title-group>
+                     <title>preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.4</book-part-id>
+                  <title-group>
+                     <title>acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.5</book-part-id>
+                  <title-group>
+                     <title>introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The current project of retrieving the work of women philosophers is in many ways similar to earlier projects of recovery. In a sense, the work of women philosophers has been buried, literally and metaphorically, and its finding requires both actual excavation and careful archival search. Other such projects, including those having to do with persons of color or victims of societal transgression, remind us of the importance of salvaging work from the past.¹</p>
+                     <p>Contemporary work has helped us come to grips with the notion that much of the writing done by women thinkers in the past may be philosophical in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.6</book-part-id>
+                  <title-group>
+                     <label>one</label>
+                     <title>HILDEGARD OF BINGEN</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In approaching Hildegard of Bingen (1098–1179) philosophically, one immediately runs into the oldest and most cherished conundrum with respect to female philosophers. It appears to be the case that many female thinkers whose work might be deemed to be philosophical wrote in styles that were somewhat nonstandard, even for their respective times. Thus, arguments have frequently been made that such women are absent from the canon because of the fact that their work was demonstrably nonphilosophical, rather than due to their sex. Counterarguments to the effect that at least some minor male thinkers normally found in any group of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.7</book-part-id>
+                  <title-group>
+                     <label>two</label>
+                     <title>ANNE CONWAY</title>
+                  </title-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>The world of Anne Conway (1631–79), although it may be easier for us to enter than was Hildegard’s, is still remote in time and space. Seventeenthcentury England was a cauldron of conflicting beliefs, many of which owed their origins to religious concerns that today’s readers will find difficult to assimilate. In addition, although at least a few women—such as Mary Astell—seemed to be able to rise from comparatively impoverished backgrounds to a life of gentility, the class distinctions in English life are so marked during this time period that we may experience a failure of imagination in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.8</book-part-id>
+                  <title-group>
+                     <label>three</label>
+                     <title>MARY ASTELL</title>
+                  </title-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>Mary Astell’s (1666–1731) life and work mirrored each other; she remains, even now, a contradictory and contentious figure, whose writings are an odd amalgam of Tory principles and far-seeing calls for reform and change. Although she is described as a “pamphleteer,” the body of her work is sufficiently large, and her circle of acquaintances sufficiently vast, that she, like Anne Conway, is best thought of as a philosopher—although, in Astell’s case, as one with a decidedly political bent.¹</p>
+                     <p>The statistical rarity of a woman from Astell’s fairly humble background achieving acquaintance, and even intimacy, with well-born women, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.9</book-part-id>
+                  <title-group>
+                     <label>four</label>
+                     <title>MARY WOLLSTONECRAFT</title>
+                  </title-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>Mary Wollstonecraft (1759–97), unlike Mary Astell or Anne Conway, is indisputably recognized as an important thinker of her time, and such recognition has in general not flagged since the early part of the nineteenth century. Unlike Hildegard, but perhaps like Anne Conway, Wollstonecraft is certainly recognized as a philosopher, for her works are lengthy enough and conceptually oriented enough that she is often included in anthologies of philosophical thought.¹ Thus, unlike Mary Astell—although both women are paradigmatically political thinkers—Wollstonecraft is not often labeled a “pamphleteer.”</p>
+                     <p>In the heady atmosphere of the French Revolution, Wollstonecraft, with the assistance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.10</book-part-id>
+                  <title-group>
+                     <label>five</label>
+                     <title>HARRIET TAYLOR MILL</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>In the process of beginning to work on Harriet Taylor Mill (1807–58) as a thinker, we need to remember not only the details of her personal life, but the time in which she lived and wrote. Insofar as political and social philosophy were concerned, this was a period dominated by Bentham’s utilitarianism and the economics of Ricardo (the latter, work that John Stuart Mill [JSM] did a great deal to both promulgate and criticize).</p>
+                     <p>The goal of the utilitarians was a simple one: to promote a better society. Although it might be objected that this had been the goal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.11</book-part-id>
+                  <title-group>
+                     <label>six</label>
+                     <title>EDITH STEIN</title>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>When we think of Edith Stein (1891–1942) today, more than one image comes to mind, but although she is by no means unknown, many of the images have little to do with philosophy. We may be tempted to think, for example, of the controversy surrounding her beatification and later canonization, or we may think of her as one of “three women in dark times,” as the title of one book exhorts us to.</p>
+                     <p>¹ Then again, if we choose to focus on Stein’s philosophical work—much of which, unfortunately, has not yet been translated into English—we will probably</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.12</book-part-id>
+                  <title-group>
+                     <label>seven</label>
+                     <title>SIMONE WEIL</title>
+                  </title-group>
+                  <fpage>194</fpage>
+                  <abstract>
+                     <p>Simone Weil (1909–43) is widely regarded as one of the outstanding thinkers of twentieth-century France, and over a period of time her work has gained in importance. It is cited in a number of areas of endeavor and disciplines. Far from being regarded merely as a philosopher, Weil is frequently thought of in other terms, as a religious thinker or, as some would have it, a mystic. Her work has in common with the thought of Edith Stein a devotion to belief and an attempt to get to the core of things, while with that other Simone, Simone de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.13</book-part-id>
+                  <title-group>
+                     <label>eight</label>
+                     <title>SIMONE DE BEAUVOIR</title>
+                  </title-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>Of all of the women whose work I have investigated here, Simone de Beauvoir (1908–86) is by far the best known and, with the possible exception of Simone Weil, the only one whose work has already more or less passed into the pantheon of philosophy. Indeed, there is enough contemporary debate about her work and commentary on it that it does not seem necessary to reinvent the wheel; we can count Simone de Beauvoir as a philosopher, and as one whose work has been recognized.¹</p>
+                     <p>There are several facts that go a long way toward explaining why it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.14</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>An historical endeavor across a long span of time, by its very nature, is fraught with difficulties. I have assumed that it is possible to make a comparative analysis of the work of eight women thinkers whose lives range from the eleventh to the twentieth centuries and who, although they are all European in the broad sense, encompass cultures ranging from the Teutonic to the Anglo-Saxon to the French. If it is difficult to compare the lives of women crossculturally, it is also difficult to compare the lives of women across time—we know so little about the eleventh century,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.15</book-part-id>
+                  <title-group>
+                     <title>notes</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.16</book-part-id>
+                  <title-group>
+                     <title>index</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1xcn4h.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>309</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

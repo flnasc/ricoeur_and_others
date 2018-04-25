@@ -1,0 +1,689 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1djmdk3</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Filosofía</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Pensamiento crítico</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Filosofía: conceptos fundamentales</book-title>
+         <subtitle>Una nueva introducción al pensamiento crítico</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Sánchez</surname>
+               <given-names>Cristóbal Orrego</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>01</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9789561417281</isbn>
+      <isbn content-type="epub">9789561418455</isbn>
+      <publisher>
+         <publisher-name>Ediciones UC</publisher-name>
+         <publisher-loc>Santiago, Chile</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Inscripción N° 261.579</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1djmdk3"/>
+      <abstract abstract-type="short">
+         <p>Este libro es una introducción a los temas filosóficos que sirven de base al auténtico pensamiento crítico. Después de defender las opciones filosóficas por la verdad, el bien, la belleza, la razón y el realismo, se explican los conceptos claves de la metafísica, la lógica, la retórica, la filosofía del hombre y la teología natural. Más allá de la acumulación de conceptos y de argumentos, Filosofía: conceptos fundamentales se ofrece a los lectores como una excelente guía para el ejercicio riguroso y profundo de sus capacidades racionales y como una sólida fundamentación de la dignidad de la persona humana.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.3</book-part-id>
+                  <title-group>
+                     <title>ABREVIATURAS</title>
+                  </title-group>
+                  <fpage>13</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCCIÓN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Orrego</surname>
+                           <given-names>Cristóbal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>“Todos los hombres desean por naturaleza saber”.¹ Así comienza uno de los libros fundacionales de la filosofía. Esta convicción preside las conversaciones, tantas veces peripatéticas, y también las clases formales, los seminarios académicos, el apasionado trabajo científico de quienes nos dedicamos a la Universidad. Los 40 temas filosóficos que ahora se presentan constituyen una introducción a la filosofía especulativa que sirve de base al auténtico pensamiento crítico.</p>
+                     <p>No se trata de exposiciones acabadas de cada tema, sino de la exposición de algunos conceptos filosóficos fundamentales tal como han cristalizado tras siglos y siglos de enseñanza en la tradición filosófica, especialmente</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>FILOSOFÍA CONSCIENTE VS. MANIPULACIÓN INCONSCIENTE</title>
+                  </title-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>La vida no tiene precio, pero tiene su costo. Nos enfrentamos ante severas opciones intelectuales y vitales. En la filosofía también hay alternativas abiertas. Si no se toma la senda adecuada, dejan de tener sentido las propuestas más difíciles y comprometedoras del resto de la síntesis de la sabiduría clásica, que presentamos en esta pequeña obra para inconformistas. Existe la alternativa entre hacer una filosofía consciente y asumir una filosofía inconsciente; la opción entre ser un jurista que va al fondo de los asuntos o uno que se limita a repetir las leyes;⁴ se ha de escoger entre el realismo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>JURISTA VS. LEGULEYO</title>
+                  </title-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>Este capítulo es una interpelación muy concreta dirigida a los estudiantes de derecho. La alternativa que propone, sin embargo, puede adaptarse a cualquier profesión. El estudiante de derecho debería plantearse la cuestión de si va a aprender el derecho con cierto nivel de profundidad o va a memorizar un montón de leyes, que se pueden aplicar relativamente bien sin estudiar cinco años. Por lo tanto, tiene que optar entre estudiar derecho con mentalidad filosófica o con mentalidad meramente pragmática; si estudiar derecho con la actitud del que busca la verdad y la justicia o con la actitud del que quiere</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>FILÓSOFO VS. SOFISTA</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Estamos acostumbrados a oír, de vez en cuando, en el fragor de una discusión, que uno de los participantes le dice a otro: “¡Tú eres un sofista!”. ¿Qué quiere decir esto? ¿A qué alude? O: “Ese comentarista –un personaje de la radio, la televisión o la prensa escrita– es un sofista”. Normalmente es una descalificación que reconoce que una persona habla bien, pero desconoce el valor de lo que afirma: nos engaña, aun cuando no sepamos cómo desenmascararlo. Tiene un buen discurso, una buena pluma, pero –en alguna parte, a veces bien escondida– hay una trampa con la que nos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>AUT, AUT VS. ET, ET</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>He propuesto, en los capítulos anteriores, una serie de opciones. O filósofo consciente o persona inconsciente, que repite las ideas de otro; o jurista profundo, que va a las causas de las cosas y a los principios, o simple leguleyo que se aprende de memoria algunas leyes y tramita papeles sin saber su porqué. O ser un Sócrates, con voluntad de verdad, o un Calicles, un sofista escéptico, con voluntad de poder y éxito. Son opciones radicales:<italic>aut, aut</italic>. Mas ahora me permito un paréntesis para introducir matices en las opciones que veremos después.</p>
+                     <p>En nuestra actitud filosófica, o incluso</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.9</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>SOBRE SABIOS Y EXPERTOS:</title>
+                     <subtitle>SABIDURÍA VS. TÉCNICA</subtitle>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>A veces dos realidades o posiciones contrapuestas exigen una opción, ya sea radical, como la que hay entre la verdad y el error, ya sea moderada, como la que existe entre ser un jurista profundo, conocedor de los principios y de las explicaciones fundamentales del derecho, y ser un abogado superficial y tramitador. El debate entre Calicles y Sócrates, que Platón presenta magistralmente en su diálogo<italic>Gorgias</italic>, deja claro que, en algunas materias, la opción es realmente decisiva, porque engendra un<italic>tipo de persona</italic>totalmente distinto. Sin embargo, no siempre es así. Ahora vamos a reflexionar sobre la opción entre,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.10</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>AMAR LA VERDAD:</title>
+                     <subtitle>CONFIAR EN QUE ES POSIBLE</subtitle>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>La verdad no está de moda. La sexta opción fundamental que deseo proponer, al inicio de esta andadura, subyace al genuino compromiso filosófico, entendido como algo que va más allá de la erudición sobre los textos famosos de los grandes autores. Hemos de optar o bien por la verdad, a cuyo servicio nos dedicamos con plena conciencia de nuestras limitaciones, o bien por dos posibilidades humanas que se oponen, cada una a su manera, al ideal de la verdad: por un lado, el escepticismo, que desespera de alcanzarla, y, por otro, la mentira y el engaño, que deforman la verdad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.11</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>HEDONISMO Y FILOSOFÍA:</title>
+                     <subtitle>¿PASARLO BIEN O HACER EL BIEN?</subtitle>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>La disputa entre Sócrates y Calicles nos pone ante los ojos la opción entre el bien honesto y la reducción de todo lo bueno al placer o a la utilidad.<sup>55</sup>O: ¿todo el sentido de la vida está en pasarlo bien o en hacer un bien que supera los placeres?</p>
+                     <p>La antigua sabiduría griega sostenía que solamente se puede saber si una persona ha sido feliz en el momento de su muerte, cuando la vida humana se puede sumar en una totalidad. Así dice Deyanira, uno de los personajes en<italic>Las traquinias</italic>, de Sófocles: “Hay una máxima que surgió entre</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.12</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>TÚ Y NOSOTROS:</title>
+                     <subtitle>BIEN COMÚN VS. INDIVIDUALISMO</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Con cierta frecuencia me han formulado, con no poco desconcierto, la siguiente pregunta: “¿Por qué ha habido un ataque tan sistemático a la familia como institución, en la historia de los últimos dos siglos, aunque en forma acelerada en la segunda mitad del siglo XX?”. No se trata de un desprecio a las familias concretas –nada más apreciado en todas partes–, sino a la familia como institución, con sus características esenciales: el matrimonio monógamo, indisoluble, fecundo; los hijos, nacidos bajo el amparo del matrimonio entre su padre y su madre; la vinculación de la institución familiar con la política</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.13</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>LA CÁRCEL DE LA MENTE:</title>
+                     <subtitle>REALISMO VS. IDEALISMO</subtitle>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>La opción entre el<italic>idealismo</italic>y el<italic>realismo</italic>filosófico es de las más radicales. La mayoría de la gente adopta una posición en este punto, casi sin darse cuenta, en medio de la confrontación cultural entre las distintas filosofías. Quizás nos conviene comenzar con un reconocimiento de la ambigüedad de las palabras: “idealismo” y “realismo” significan demasiadas cosas distintas. A veces decimos de uno que es<italic>idealista</italic>porque persigue metas nobles,<italic>ideales</italic>de bien, de belleza, de justicia, de paz, de caridad, que nunca se pueden realizar del todo, a los cuales podemos acercarnos, no obstante su dificultad y su</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.14</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>HONESTIDAD INTELECTUAL:</title>
+                     <subtitle>¡NADA DE NEUTRALIDAD!</subtitle>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>La opción por la honestidad intelectual es, en definitiva, una consecuencia del compromiso con la honestidad en todos los terrenos. Si uno comienza engañando en cuestiones intelectuales, es muy fácil que termine engañando en cualquier otro asunto. El amor a la verdad es como un faro orientador de toda la vida. Si se rechaza su luz, podemos comenzar engañando sabiendo que estamos engañando, y después terminar engañándonos a nosotros mismos, porque a nadie le gusta vivir en la mentira. Por eso, si iniciamos una andadura filosófica, la condición fundamental es el amor a la verdad. No se trata ya de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.15</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>UNA MENTE ORDENADA:</title>
+                     <subtitle>DEFENSA DE LA LÓGICA</subtitle>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>Los libros especializados de lógica y de retórica exponen con detalle y con rigor todo cuanto se necesita para pensar con la mente bien ordenada y para pronunciar las palabras justas y eficaces en la noble tarea de buscar la verdad y darla a conocer. Si no ordenamos bien nuestra mente, es muy probable que no seamos capaces siquiera de seguir los razonamientos que otros han descubierto acerca de las cuestiones filosóficas. Si no hablamos bien, con orden y con agrado, no podemos participar con provecho en el diálogo racional. Por eso dedicaremos unos pocos capítulos a introducirnos en las</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.16</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>LA LÓGICA FORMAL</title>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>A veces decimos que “Pedro es muy lógico”, o que “Juan es poco lógico”. Nos referimos así a la<italic>lógica espontánea</italic>, más o menos rigurosa en cada persona, ese orden interior que la razón sigue en su proceso de conocimiento de la verdad. Sobre esa lógica espontánea se edifica la lógica considerada como arte, es decir, como un saber práctico, que se puede definir como “el arte que dirige los actos de la razón para proceder en el conocimiento de la verdad ordenadamente, con facilidad y sin error”.<sup>106</sup>
+                     </p>
+                     <p>En este sentido, la lógica se puede cultivar como quien aprende el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.17</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>LA ANALOGÍA:</title>
+                     <subtitle>RIGOR Y FLEXIBILIDAD MENTAL</subtitle>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>Muchos debates se entrampan por falta de rigor o de flexibilidad mental respecto de los conceptos que se usan, y no por graves problemas de argumentación o de razonamiento. En materia jurídica, por ejemplo, hay un debate acerca si la ley injusta es ley o no es ley, porque un famoso adagio, muy antiguo, dice:<italic>Lex injusta non lex</italic>(“la ley injusta no es ley”). San Agustín lo formula así: “Desterrada la justicia, ¿qué son los reinos sino grandes piraterías? Y las mismas piraterías, ¿qué son sino pequeños reinos?”.<sup>109</sup>Detrás de estos modos de decir hay pensamientos muy profundos, que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.18</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>EL COMIENZO DEL RIGOR:</title>
+                     <subtitle>APRENDER A DEFINIR</subtitle>
+                  </title-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>Hemos visto que la lógica, como arte y como ciencia, abarca tres grandes capítulos: los conceptos, las proposiciones y el raciocinio. El concepto es un<italic>ente de razón</italic>(<italic>i.e</italic>., que solo existe en nuestra mente), en el cual y por medio del cual conocemos la esencia abstracta de una cosa. En general, los conceptos representan de forma mental el modo de ser universal de los seres reales, un modo de ser que se realiza solo en cosas individuales existentes en sí fuera de nuestra mente. Sin embargo, podemos crear conceptos de cosas que no existen, imaginarias, como cuando pensamos en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.19</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>EL MOMENTO DE LA VERDAD:</title>
+                     <subtitle>JUZGAR, AFIRMAR O NEGAR</subtitle>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>La lógica de las proposiciones estudia el segundo acto fundamental de la inteligencia humana, después del concepto y antes del raciocinio: el juicio. El juicio es la<italic>operación de la mente que compone o divide</italic>, es decir, que une o separa conceptos por medio del verbo ser, explícito o bien implícito en otro verbo. La<italic>proposición</italic>es la expresión lógica del juicio. En todo juicio, por lo tanto, hay un sujeto y un predicado, y, explícito o implícito, el verbo ser, que señala realidad. El verbo ser tiene muchos significados vinculados entre sí: es analógico.<sup>118</sup>Puede significar la realidad de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.20</book-part-id>
+                  <title-group>
+                     <label>16.</label>
+                     <title>RAZONAR CON RIGOR:</title>
+                     <subtitle>DEDUCCIÓN E INDUCCIÓN</subtitle>
+                  </title-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>Las proposiciones expresan el contenido objetivo de los juicios. Entre ellas, las proposiciones<italic>enunciativas o asertivas</italic>, que tienen la cualidad de ser verdaderas o falsas, son las más estudiadas por la lógica. Hemos mencionado otros tipos de proposiciones, que no son propia o directamente verdaderas o falsas porque su función no es describir la realidad. Se trata de las proposiciones imperativas, interrogativas, apelativas y otras semejantes. Las proposiciones, que se forman sobre la base de los conceptos, pueden combinarse, a su vez, para constituir el tercer tipo de operación del intelecto humano: el raciocinio o razonamiento. La inteligencia avanza en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.21</book-part-id>
+                  <title-group>
+                     <label>17.</label>
+                     <title>PERSUADIR:</title>
+                     <subtitle>LA PALABRA AL SERVICIO DE LA VERDAD</subtitle>
+                  </title-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>La gran confrontación entre Sócrates y los sofistas<sup>130</sup>abarcó, entre otras cuestiones, la de qué tan objetiva puede ser la ciencia, de modo particular la ética, el saber especulativo y práctico sobre las virtudes, y, por otra parte, el problema de la relación entre la retórica y la verdad. El<italic>Gorgias</italic>trata sobre el arte de persuadir y de usar las palabras. Gorgias piensa que con las palabras se puede hacer, de la mejor razón, la peor, y de la peor razón, la mejor, y que, por lo tanto,<italic>el arte de persuadir no tiene límites</italic>.<sup>131</sup>Sócrates, aunque no parece</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.22</book-part-id>
+                  <title-group>
+                     <label>18.</label>
+                     <title>FALACIAS O SOFISMAS</title>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Una falacia, sofisma o paralogismo (nombre más técnico) es un argumento que parece válido y verdadero, pero que, en realidad, es inválido y oculta un error. Es un truco típico del sofista, quien quiere convertir la peor razón en la mejor, sin que el auditorio se dé cuenta. Hay, por tanto, dos elementos fundamentales en la falacia: una apariencia de verdad y de validez lógica y un error lógico al servicio de una falsedad de fondo. El estudio de los sofismas aborda precisamente esos errores ocultos.</p>
+                     <p>La existencia de los sofismas nos muestra que la inteligencia humana está hecha para</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.23</book-part-id>
+                  <title-group>
+                     <label>19.</label>
+                     <title>LO NATURAL Y LO RACIONAL:</title>
+                     <subtitle>PHYSIS, LOGOS, POLIS</subtitle>
+                  </title-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>La lógica y la argumentación retórica son instrumentos para ordenar las ideas y para transmitirlas persuasivamente a los demás; pero no van al fondo de las cosas. Comenzaremos ahora, pues, a introducirnos en asuntos más sustanciales, más complejos también, que considero relevantes para abrir la inteligencia a contemplar la amplitud de la filosofía. Ofreceré primero una mirada a tres realidades relacionadas entre sí: la naturaleza, la razón y la comunidad política:<italic>physis, logos y polis</italic>. En la época en que se elaboraron tales conceptos, la<italic>polis</italic>era la unidad política más amplia. Las ciudades estaban demasiado desconectadas entre sí para</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.24</book-part-id>
+                  <title-group>
+                     <label>20.</label>
+                     <title>LA NOCIÓN METAFÍSICA DE NATURALEZA</title>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>El capítulo precedente versó sobre la correspondencia entre<italic>physis, logos y polis</italic>. No es difícil sentirse identificado con algunas de esas posiciones, porque están en el ambiente intelectual que nos rodea. La idea de naturaleza como simple materia sin valor, disponible para cualquier cosa, a la que corresponde el<italic>logos calculante</italic>y una<italic>polis</italic>ordenada fundamentalmente a la producción, a la riqueza, al progreso en un sentido solo técnico, seduce nuestra voluntad de dominación y de autonomía moral respecto de la naturaleza. La naturaleza concebida como un<italic>caos informe</italic>, a la que corresponde una noción irracional del<italic>logos</italic>, una<italic>antilógica</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.25</book-part-id>
+                  <title-group>
+                     <label>21.</label>
+                     <title>SOBRE LAS DIFERENTES NATURALEZAS</title>
+                  </title-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>A principios de 2012, en la que quizás sea la más grande reunión científica en el mundo, la de la American Association for the Advancement of Science, en Vancouver, un grupo de científicos propuso que los delfines y las ballenas sean considerados como<italic>personas</italic>; por lo tanto, que se les reconozcan los derechos de libertad e igualdad y el derecho a la vida, que son los derechos más básicos de la persona. La propuesta tiene precedentes en el proyecto Gran Simio, que comenzó en 1993, que en España dio lugar a un proyecto legislativo, y que ha sido apoyado por</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.26</book-part-id>
+                  <title-group>
+                     <label>22.</label>
+                     <title>EL MOVIMIENTO:</title>
+                     <subtitle>ACTO Y POTENCIA</subtitle>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>Un concepto metafísico, presente en el sentido común, suscita algunas dificultades cuando se formula de modo más riguroso, como hace la filosofía. Se trata de una distinción que refleja una realidad profunda y, al mismo tiempo, tiene un<italic>carácter operativo</italic>,<sup>148</sup>es decir, que, aunque las personas no suelen tratarla de manera específica y temática, está implícita en el lenguaje y sirve para resolver auténticos problemas sustantivos. Me refiero a la distinción entre<italic>acto y potencia</italic>, que, inicialmente, es la distinción entre<italic>ser en acto y ser en potencia</italic>. El problema filosófico que llevó a tematizar esta distinción es el llamado</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.27</book-part-id>
+                  <title-group>
+                     <label>23.</label>
+                     <title>HILEMORFISMO:</title>
+                     <subtitle>LA ESTRUCTURA ÍNTIMA DE LA NATURALEZA</subtitle>
+                  </title-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>Los conceptos de acto y de potencia están implícitos en el lenguaje ordinario y están presupuestos en la noción de naturaleza, entendida como aquello que una cosa es en cuanto principio de sus operaciones, pues en cuanto tal principio hace referencia a aquello hacia lo cual tiende. La naturaleza es algo en acto; pero puede desplegarse en dirección hacia una perfección que todavía no es, es decir, hacia una perfección que el ser posee en potencia, según su naturaleza. Otras distinciones conceptuales estructuran nuestra mente porque corresponden a la estructura misma de la realidad. Nuestra mente se adapta a la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.28</book-part-id>
+                  <title-group>
+                     <label>24.</label>
+                     <title>LAS CATEGORÍAS:</title>
+                     <subtitle>SUSTANCIA Y ACCIDENTES</subtitle>
+                  </title-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>En el campo de la bioética hay un debate acerca de cómo tratar a determinados cuerpos humanos biológicamente vivos. ¿Son personas o no son personas? Un embrión humano congelado fuera del vientre de una mujer, un feto humano que no ha nacido, un niño de 2 años, un joven que está en estado vegetativo persistente, un anciano de 80 años con demencia senil, un adolescente con síndrome de Down: todos son seres biológicamente humanos, que viven en unas circunstancias o con unas características que son claramente una modificación de lo que es normal en la naturaleza,<italic>i.e</italic>., de lo que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.29</book-part-id>
+                  <title-group>
+                     <label>25.</label>
+                     <title>LOS TRASCENDENTALES DEL SER:</title>
+                     <subtitle>UNIDAD, VERDAD, BONDAD, BELLEZA</subtitle>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>Nuestras controversias morales, más allá de los asuntos concretos (<italic>v.gr</italic>., la licitud de las drogas, de la tortura o de la venganza privada), arriban a menudo a la cuestión más abstracta de si hay o no<italic>algo objetivo</italic>de bueno o de malo en nuestras acciones y elecciones. Lo mismo pasa con las decisiones judiciales. El juez, ¿debe discernir qué es lo objetivamente justo o injusto en un caso, o solo debe mediar entre intereses contrapuestos, igual de subjetivos? En política, cuando se apela al bien común para justificar una decisión, de manera inmediata surge el rechazo o la sospecha,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.30</book-part-id>
+                  <title-group>
+                     <label>26.</label>
+                     <title>LAS CUATRO CAUSAS:</title>
+                     <subtitle>MATERIAL Y FORMAL, EFICIENTE Y FINAL</subtitle>
+                  </title-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>Un gurú de los negocios, imitado por algunos políticos, ha cifrado su éxito en este descubrimiento: que el fundador de Apple, los hermanos Wright y Martin Luther King tenían<italic>algo en común</italic>. Los simples mortales, cuando intentan explicar el éxito de estos líderes, se fijan primero en qué es lo que ellos hacen; después, analizan el cómo, y, finalmente, el porqué. En cambio, estos líderes tienen en común que ponen por delante de todo el<italic>porqué</italic>, y solo de manera secundaria el<italic>cómo</italic>, y, por último, deciden el<italic>qué</italic>. Los hermanos Wright se cayeron veinte veces hasta que al final</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.31</book-part-id>
+                  <title-group>
+                     <label>27.</label>
+                     <title>SOBRE EL SER Y LA ESENCIA:</title>
+                     <subtitle>UN QUÉ ES QUE ES</subtitle>
+                  </title-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Los capítulos precedentes han ido acostumbrando nuestros pobres ojos a la luz superior de la metafísica. Hemos visto la objetividad de la verdad y el rigor de la lógica; la distinción entre lo real y lo aparente; la noción de naturaleza y la variedad de las naturalezas; la verdad del cambio, que supone un sujeto que permanece a través del movimiento, y la distinción metafísica entre el acto y la potencia; las composiciones metafísicas subyacentes al cambio sustancial (<italic>i.e</italic>., materia prima y forma sustancial) y al cambio accidental (<italic>i.e</italic>., sustancia y accidentes); las categorías del ser (<italic>i.e</italic>., la de sustancia</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.32</book-part-id>
+                  <title-group>
+                     <label>28.</label>
+                     <title>MADRE TONTA Y MAESTRA MUDA:</title>
+                     <subtitle>SOBRE EL LOGOS EN LA NATURALEZA</subtitle>
+                  </title-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>La naturaleza es una<italic>madre tonta</italic>y una<italic>maestra muda</italic>. En realidad, solo la cumbre de lo natural, que es lo racional,<sup>212</sup>permite escuchar a la naturaleza y descifrar su inteligibilidad intrínseca, que remite a la Inteligencia Creadora. En el hombre se da el<italic>logos</italic>, se da la razón que puede comprender lo inteligible que hay en la naturaleza física. La naturaleza, incluso cuando alguien pueda considerarla como la madre naturaleza, hablando metafóricamente, es el ámbito en el cual el hombre nace. Según la tradición judeocristiana, es el ámbito creado en el cual el hombre es creado como ser que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.33</book-part-id>
+                  <title-group>
+                     <label>29.</label>
+                     <title>LA IMAGEN DEL HOMBRE Y SU FELICIDAD</title>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>En<italic>Las instrucciones del microondas</italic>,<sup>216</sup>un pequeño divertimento literario, el capítulo central, por desgracia incomprendido, glosa las instrucciones de un microondas alemán. Son muy divertidas. Descienden a los detalles más increíbles, como, por ejemplo: “No meta su mascota en el microondas”. A nadie le llama la atención que estos aparatos vengan con un manual de uso, que explica hasta el último detalle sobre cómo es el artefacto, para que pueda cumplir su función y de verdad sirva a aquello a lo cual está destinado. En la misma línea hay todo tipo de libros sobre cómo cuidar a su mascota, cómo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.34</book-part-id>
+                  <title-group>
+                     <label>30.</label>
+                     <title>LA UNIDAD DE LA PERSONA HUMANA:</title>
+                     <subtitle>CUERPO Y ALMA</subtitle>
+                  </title-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>La visión clásica y cristiana del ser humano, vista desde la perspectiva filosófica, incluye solo aquellos rasgos que podría comprender una persona –en principio– con su razón humana natural, sin el auxilio de la fe cristiana. Sin embargo, desde un punto de vista histórico no se puede negar que los trazos más profundos de esa imagen del hombre fueron incorporados a la tradición filosófica perenne por influjo del cristianismo. Pensemos, por ejemplo, en una ideología actual, el liberalismo político democrático, que se edifica sobre la base de que todos los ciudadanos tienen igual dignidad y libertad, y, según pretenden deducir</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.35</book-part-id>
+                  <title-group>
+                     <label>31.</label>
+                     <title>LOS GRADOS DE VIDA Y LAS FUNCIONES VITALES</title>
+                  </title-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>El problema ético-jurídico de la llamada “muerte cerebral”, como criterio para determinar si una persona está efectivamente muerta, constituye un debate de actualidad con la única consecuencia práctica –importante, desde luego– de que, al paciente declarado muerto, se le pueden extraer sin escrúpulos los órganos para trasplantarlos. La cuestión es: ¿está realmente muerto o está vivo? ¿Por qué hay tanto debate? Porque la apariencia externa es que está vivo; sin embargo, hay un diagnóstico que, apoyándose en el cese irreversible de las funciones encefálicas, afirma que, en realidad, está muerto. La muerte en sí no se puede observar sensiblemente, porque</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.36</book-part-id>
+                  <title-group>
+                     <label>32.</label>
+                     <title>LAS POTENCIAS DEL ALMA HUMANA:</title>
+                     <subtitle>EL CONOCIMIENTO</subtitle>
+                  </title-group>
+                  <fpage>269</fpage>
+                  <abstract>
+                     <p>Analizaremos las potencias propiamente humanas, primero las cognoscitivas y después las apetitivas.</p>
+                     <p>Comencemos por definir de manera filosófica qué es conocer. La definición clásica de conocimiento refleja, de un modo ordenado, la experiencia que todos tenemos. Si no tuviéramos esta experiencia, de nada serviría dar una definición. En efecto, la definición captura la esencia de la realidad que ya conocemos. Esa definición clásica afirma que el conocimiento es la<italic>posesión intencional e inmaterial de una forma</italic>. Esto significa que un aspecto de la realidad, que es la forma, es poseído interiormente por el animal; pero esta posesión acaece en el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.37</book-part-id>
+                  <title-group>
+                     <label>33.</label>
+                     <title>LAS POTENCIAS DEL ALMA HUMANA:</title>
+                     <subtitle>LOS APETITOS O TENDENCIAS</subtitle>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>Los animales se mueven impulsados por inclinaciones que responden al conocimiento que han adquirido de los objetos convenientes o inconvenientes. Tras haber analizado el conocimiento tanto sensible –parecido al que se da en los brutos– como intelectual o racional –propio de los humanos–, nos corresponde ahora estudiar los apetitos o tendencias. El análisis ha de situarse en el marco de una<italic>noción genérica</italic>de apetito. En un sentido técnico, el apetito es la inclinación o tendencia que tiene una cosa, cualquier cosa, hacia un bien que la perfecciona. Las cosas se mueven, pasan de la potencia al acto,<sup>265</sup>lo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.38</book-part-id>
+                  <title-group>
+                     <label>34.</label>
+                     <title>LA VOLUNTAD Y EL LIBRE ALBEDRÍO</title>
+                  </title-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>La imagen clásica y cristiana del hombre lo destaca como cumbre de la creación material, por ser imagen y semejanza de Dios. Se distingue así de todas esas visiones que o bien exaltan al hombre como si fuera un dios, totalmente autónomo respecto de su Creador y respecto de la naturaleza humana, o bien lo reducen a ser un animal más no esencialmente superior a los otros. Algunos unen esas dos visiones en una sola amalgama irracional: se creen como autónomos y dueños del mundo y de su propio ser, y, a la vez, como nada más que un montón</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.39</book-part-id>
+                  <title-group>
+                     <label>35.</label>
+                     <title>EL ALMA HUMANA:</title>
+                     <subtitle>ESPÍRITU INMORTAL</subtitle>
+                  </title-group>
+                  <fpage>299</fpage>
+                  <abstract>
+                     <p>El tema del alma humana, considerada como espiritual e inmortal, constituye un problema difícil de la antropología filosófica clásica y moderna. El fuerte influjo del materialismo cientificista de los siglos XIX y XX, por otra parte, ha agudizado el carácter problemático del lenguaje mismo sobre el alma. Incluso en ambientes cristianos ha dejado de hablarse del “alma”, porque les parecía a muchos que la connotación platonizante del término llevaba a olvidar al hombre –cuerpo y alma–, con todas sus realidades materiales cotidianas, y a espiritualizar de tal manera la vida que se olvidaba el valor de las cosas de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.40</book-part-id>
+                  <title-group>
+                     <label>36.</label>
+                     <title>SOBRE HOMBRES Y SIMIOS</title>
+                  </title-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>Desde el siglo XIX, con las teorías de Charles Darwin, ha sido cada vez más importante la cuestión antropológica sobre el lugar del ser humano en el cosmos. La relevancia psicológica, moral y política del asunto no puede resaltarse bastante.</p>
+                     <p>Dos errores contrapuestos nos pueden iluminar acerca de la gravedad del asunto. Por una parte, se puede cometer el error cartesiano, combinado con el utilitarista, de creer que toda la naturaleza no es más que una gran máquina, que está a nuestra disposición. Así nosotros podemos tratar las cosas de una manera opuesta al carácter preciso que tienen como especies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.41</book-part-id>
+                  <title-group>
+                     <label>37.</label>
+                     <title>DIOS, DIOSES Y HOMBRES</title>
+                  </title-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>La teología natural estudia, desde una perspectiva solo racional, el problema del origen y el sentido último del universo en que nos encontramos. Por lo tanto, la teología natural es una parte de la filosofía que se distingue de la teología de la fe. Como nosotros vivimos en una época cristiana –o post cristiana, más o menos, según los lugares–, estamos muy acostumbrados a oír la expresión “teología” sin apellido para referirse al estudio racional de las cuestiones que se saben por fe, por una revelación sobrenatural. La Universidad ofrece cursos de este tipo de teología de la fe,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.42</book-part-id>
+                  <title-group>
+                     <label>38.</label>
+                     <title>LA DEMOSTRACIÓN METAFÍSICA DE LA EXISTENCIA DE DIOS</title>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>La metafísica es la cumbre de la especulación filosófica y como su núcleo más difícil. Por eso, el acercamiento de la mente humana a la existencia de Dios o de alguna forma de divinidad ha procedido, en general, o bien desde la primitiva revelación –de alguna manera preservada, con mezcla de errores–, o bien a partir de un raciocinio metafísico de sentido común (no formulado de forma rigurosa), porque la inteligencia humana es por naturaleza metafísica. Desde la niñez consideramos las experiencias más elementales del mundo para interrogarnos por sus causas. Oímos hablar de Dios (o de dioses) y,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.43</book-part-id>
+                  <title-group>
+                     <label>39.</label>
+                     <title>LA ESENCIA DE DIOS</title>
+                  </title-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>Una definición mínima de Dios es necesaria para preguntar si acaso Dios existe. Aunque los expertos en filosofía discrepan acerca de cuál puede ser de forma exacta esta definición mínima, anterior a una determinación de los atributos divinos que completan el conocimiento humano de su esencia, me parece que la pregunta por la existencia de la divinidad se refiere a alguna realidad que tenga estas dos características mínimas: (i)<italic>superioridad y trascendencia en el ser</italic>: debe tratarse de una realidad<italic>superior y trascendente</italic>con relación a la realidad inmediata visible y, de modo especial, en relación con los seres humanos;</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.44</book-part-id>
+                  <title-group>
+                     <label>40.</label>
+                     <title>DIOS Y LA ÉTICA</title>
+                  </title-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>Cómo se concibe la naturaleza influye en cómo se concibe la política. La imagen que tenemos del hombre repercute en las concepciones que tenemos de lo bueno y de lo malo, y al revés: nuestras convicciones sobre lo bueno y lo malo también afectan la imagen que tenemos de nosotros mismos. Si uno se convence, por ejemplo, a nivel moral, de que<italic>es bueno lo que maximiza el placer y minimiza el dolor</italic>–si se adopta una ética hedonista–, entonces, lo más probable es que uno se empieza a concebir a sí mismo como un hámster, cuyo horizonte fundamental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.45</book-part-id>
+                  <title-group>
+                     <title>EPÍLOGO:</title>
+                     <subtitle>BREVES CONSIDERACIONES PARA UN ESTUDIANTE DE DERECHO</subtitle>
+                  </title-group>
+                  <fpage>361</fpage>
+                  <abstract>
+                     <p>Thomas Hobbes, uno de los más influyentes pensadores políticos y teológicos de la modernidad, escribió un pequeño libro titulado<italic>A Dialogue Between a Philosopher and a Student of Jurisprudence</italic>(<italic>Un diálogo entre un filósofo y un estudiante de derecho</italic>). El filósofo logró, en pocos siglos, cambiar el modo de pensar del jurista. La sociedad dejó de verse como algo natural, para concebirse como un artificio, un pacto social al servicio de la composición de intereses y de la paz entre hombres que por naturaleza son antisociales, lobos para el hombre, ávidos de dominar a los demás y siempre temerosos. La</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1djmdk3.46</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

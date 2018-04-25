@@ -1,0 +1,924 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7ms88</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt806sg</book-id>
+      <subj-group>
+         <subject content-type="call-number">JL65 1992 D44 1992</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Canada</subject>
+         <subj-group>
+            <subject content-type="lcsh">Politics and government</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Civil rights</subject>
+         <subj-group>
+            <subject content-type="lcsh">Canada</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Democracy with Justice/La juste democratie</book-title>
+         <subtitle>Melanges en l'honneur de/Essays in Honour of Khayyam Zev Paltiel</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Gagnon</surname>
+               <given-names>Alain G.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Tanguay</surname>
+               <given-names>A. Brian</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>05</month>
+         <year>1992</year>
+      </pub-date>
+      <isbn content-type="ppub">9780886291556</isbn>
+      <isbn content-type="epub">9780773573741</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Ottawa; Canada</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1992</copyright-year>
+         <copyright-holder>Carleton University Press Inc</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt806sg"/>
+      <abstract abstract-type="short">
+         <p>The essays in this volume (22 in English, 5 in French), examine themes important to the late Professor Paltiel, including individual vs. collective rights, constitutional change, lobbying and modern Quebec politics.</p>
+      </abstract>
+      <counts>
+         <page-count count="461"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Alain-G.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanguay</surname>
+                           <given-names>A. Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.4</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.5</book-part-id>
+                  <title-group>
+                     <title>Democracy with Justice:</title>
+                     <subtitle>An Introduction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Alain-G.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanguay</surname>
+                           <given-names>A. Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Members of the political science community in Canada were saddened to hear of the sudden death of one of their most respected colleagues, Khayyam Zev Paltiel, on April 17, 1988. For those of us who had spent some time at Carleton University, either as students or as teachers, and who came to know Khayyam, the loss was particularly painful. Many of us in the Political Science department at Carleton had unthinkingly assumed that there would always be a Khayyam Paltiel wandering the corridors of the sixth floor in the Loeb Building, a copy of the<italic>Globe and Mail</italic>or the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.6</book-part-id>
+                  <title-group>
+                     <title>The Life and Times of K.Z. Paltiel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paltiel</surname>
+                           <given-names>Jeremy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>My father, K.Z. Paltiel, was born into a well-to-do family in the Jewish neighbourhood of Montreal on March 16, 1922. This was the same neighbourhood evoked by the poet A.M. Klein and later satirized by Richler. His father, Aaron David, who immigrated from Romania just before the turn of the century, had started off as a dry-goods merchant in Northern Ontario in Porcupine and North Bay, but settled down in Montreal around the time of the First World War and built up a successful business as a real estate developer and property manager. His mother, Bella Ruth, was a much</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.7</book-part-id>
+                  <title-group>
+                     <title>Khayyam Paltiel:</title>
+                     <subtitle>Friend, Colleague, Teacher and Scholar</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McFarlane</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>18</fpage>
+                  <abstract>
+                     <p>I first met Khayyam Paltiel 50 years ago. We had both recently graduated from high school in Montreal, and in the unsettled period of 1939 and early 1940, we were both uncertain about what to do or where to go. This was a period when our fellow high school graduates were joining the RCAF as air-crew trainees, or the army and the RCN as officers, but at that time, as my Member of Parliament informed me in a letter after a discussion with the Minister, these paths were closed to all of those with non-Caucasian background, including Jews. Hence, it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.8</book-part-id>
+                  <title-group>
+                     <title>Khayyam Paltiel:</title>
+                     <subtitle>Some Memories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whitaker</surname>
+                           <given-names>Reg</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>24</fpage>
+                  <abstract>
+                     <p>It is a very great honour for me to remember Khayyam Paltiel, a man who was to me, in turn, teacher, research director, colleague, and friend. It is a daunting task when one is called upon to provide a theme appropriate to a man as complex and as many-talented as Khayyam. I briefly pondered the idea of providing a serious summation of the value of Khayyam’s intellectual legacy as embodied in his published writings, of reflecting on the significance of his work on political finance, political patronage, interest groups, nationalism, minority rights and so on. Eventually I chose not to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.9</book-part-id>
+                  <title-group>
+                     <title>The Constitutional Dialectic and the Conundrum of Hate Legislation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosen</surname>
+                           <given-names>Paul L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>Constitutional democracy with its veneration of the rule of law and the condition of equality seems, as it enters the last decade of the twentieth century, to be more sharply defined than ever before as the regime which best satisfies the human quest for freedom and dignity. As the ideological conflict of this tumultuous century abates, and parousiastic regimes¹ retreat, teeter and collapse, history offers the astonishing prospect of an underlying democratic movement taking the form of a constitutional dialectic. This dialectic in its present mature stage is a conversation, conducted by legislatures, courts and citizens, about the fundamental questions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.10</book-part-id>
+                  <title-group>
+                     <title>Collective Action in the Age of the Charter</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bazowski</surname>
+                           <given-names>Raymond</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>52</fpage>
+                  <abstract>
+                     <p>In an article written shortly before the passage of the Constitution Act, 1982, Peter Russell declared that in Canada there was no informed discussion about the proper purview of courts in a democratic society. As a consequence, Russell said, future court decisions based on the Charter would provide Canadians with a crash course in the promises and perils of judicial policy-making (Russell, 1982:33). After seven years of this crash course, what lessons have we learned about judicial policymaking? The most conspicuous lesson is that, in spite of numerous predictions to the contrary, Canadian courts have shown themselves, in cases covering</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.11</book-part-id>
+                  <title-group>
+                     <title>National Minorities, Rights and Signs:</title>
+                     <subtitle>The Supreme Court and Language Legislation in Quebec</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Galipeau</surname>
+                           <given-names>Claude Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Khayyam Zev Paltiel had an interest in the question of the right of national minorities to self-determination. In particular, he was an advocate of the right to self-government for aboriginal peoples and<italic>Québécois</italic>(see Paltiel, 1987). In this sense he was a democrat. He believed that the democratic aspirations of a people are part of fundamental justice. He wanted democracy with justice.</p>
+                     <p>In this chapter, I address the problem of provincial control of language policy. My aim is to explore the conflict between self-government in Quebec with respect to language policy, on the one hand, and principles of individual rights,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.12</book-part-id>
+                  <title-group>
+                     <title>Ontario’s New Freedom of Information and Protection of Privacy Act in Practice</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rowat</surname>
+                           <given-names>Donald C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>The topic of this chapter would no doubt have pleased Khayyam Paltiel, because he was intensely interested in the improvement of our democratic institutions and procedures. As is well known, Ontario’s new right of access to governmental and personal documents is an example of a democratic reform that has been adopted in many western democracies. Perhaps I should first explain why I decided to focus on the system established in Ontario. One reason is that it is very recent. The schemes in Quebec, New Zealand, Australia and its state of Victoria, and the federal scheme in Canada, were all adopted</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.13</book-part-id>
+                  <title-group>
+                     <title>Limited Government versus the State:</title>
+                     <subtitle>Meech Lake and the Moral Grammars of Choice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nutbrown</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>“Politics,” Michael Oakeshott has argued, “is the activity of attending to the general arrangements of a set of people whom chance or choice have brought together” (1967:112). In light of the extraordinary political changes taking place in Eastern Europe and elsewhere, this view of politics seems rather staid and unspirited. But Oakeshott’s point is worth repeating: as a learning process deeply rooted in the particular historical circumstances of a people, ordinary politics is a matter of intimations. It is the activity of translating and inscribing the allusive fluctuations of everyday collective existence into familiar and routine terms of reference. Politics,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.14</book-part-id>
+                  <title-group>
+                     <title>From the Constitution Act, 1982 to the Meech Lake Accord, 1987:</title>
+                     <subtitle>Individual Rights for All versus Collective Rights for Some</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Behiels</surname>
+                           <given-names>Michael D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>The partisan and passionate debate surrounding the Meech Lake Accord of 1987 was due, in large measure, to the fact that it was dominated, in the words of Alan Cairns, by “special interest advocacy that is sustained by the driving ambitions of governments and by private interests with stakes in the constitution” (Cairns, 1989:32). The very structure of our Constitution ensures a conflict between competing vested interests. The amending formula, which is controlled exclusively by the first ministers, pits governments and their legislatures against one another. The<italic>Canadian Charter of Rights and Freedoms,</italic>which provides protection for specific groups of citizens as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.15</book-part-id>
+                  <title-group>
+                     <title>The Meech Lake Impasse in Theoretical Perspective</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McRae</surname>
+                           <given-names>Kenneth D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>140</fpage>
+                  <abstract>
+                     <p>In spite of notable efforts by medieval theologians and modern constitutional lawyers to render their respective crafts esoteric, some things remain fundamentally simple. That is to say, their essentials can be understood by lay people possessing a little detachment and good will. Among these simple matters we may rank the basic relationship between Francophones and Anglophones in Canada, which appears reasonably clear to most informed observers outside the country, but which is obscured for many Canadians by the shadows and myths of the cave society in which they pass their lives. My main argument in this paper is that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.16</book-part-id>
+                  <title-group>
+                     <title>The Orgins of Canadian Politics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stewart</surname>
+                           <given-names>Gordon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>When historians begin talking about political culture real social scientists are inclined to wince. To take a political culture approach even to modern politics is full of problems; to attempt a historical account of the evolution of a particular polity’s culture is fraught with so many serious methodological questions that it seems wiser, and certainly safer, to avoid the challenge altogether. In his 1983 survey of the discipline of political science, Dennis Kavanagh, of the University of Nottingham, sets out the dilemma well. Kavanagh provides a minimalist definition of political culture, first devised by Talcott Parsons and Edward Shils in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.17</book-part-id>
+                  <title-group>
+                     <title>The Comparative Study of Clientelism and the Realities of Patronage in Modern Societies:</title>
+                     <subtitle>Israeli and Canadian Trends</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roniger</surname>
+                           <given-names>Luis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>The study of patronage and clientelism — which has burgeoned in the social sciences since the late 1960s — can be considered part of a broader reaction against evolutionary assumptions about the presumed generalized move of modern society towards Western liberal forms of political development and bureaucratic-universalism. From different vantage points, these assumptions were seriously questioned by the research of scholars who analyzed the actual operation of modern institutions. Thus, over and above their concrete contribution, works by Khayyam Paltiel on the financing of modern parties and studies on political machines by J. Scott, René Lemarchand and Keith Legg — among others —have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.18</book-part-id>
+                  <title-group>
+                     <title>From Parties to Symbols and Entourages:</title>
+                     <subtitle>The Changing Use of Political Patronage in Canada</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Noel</surname>
+                           <given-names>S. J. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>“The power of rewarding modest worth is perhaps the sweetest blessing that attends Rank &amp; authority, for our Great Master tells us that it is more blessed to give than to receive.” Thus wrote the Reverend John Strachan in 1818 (Spragge, 1946:186). For understandable reasons, however, prime ministers, premiers, and others in high political office have been inclined to view the business of bestowing discretionary rewards — that is, the dispensing of patronage — in a less altruistic light, and their power over it as less of a blessing than, as Brian Mulroney put it, “a pain in the neck” (Simpson, 1988:355).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.19</book-part-id>
+                  <title-group>
+                     <title>Les nouvelles formes du patronage</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lemieux</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Comme les anciennes formes de patronage politique, les nouvelles formes consistent en des tentatives liées entre elles, de la part des patrons et des clients, pour améliorer leurs moyens de pouvoir face á des rivaux, dans le cas des patrons, et face á des autorités, dans le cas des clients. C’est du moins notre définition du patronage politique (Lemieux, 1977, 1987), ce qui exclut, comme on le verra, certaines modalités de corruption et de conflit d’intérêts qui sont parfois identifiées au patronage politique.</p>
+                     <p>Aprés avoir commenté cette définition du patronage politique, nous le distinguerons du patronage autre que politique, de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.20</book-part-id>
+                  <title-group>
+                     <title>La pratique du patronage et la poursuite de l’idéal démocratique</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hudon</surname>
+                           <given-names>Raymond</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>L’expression “gouvernement par le peuple souverain” véhicule peut-être le cliché, le lieu commun. Mais elle a aussi couramment supposé une volonté d’egalité entre les citoyens qui venait conditionner la poursuite de l’idéal démocratique. De ce point de vue, on a souvent présumé que “l’égale dignité de la personne humaine” se trouvait bien reconnue dans l’extension du suffrage universel. Ce faisant, on négligeait de noter l’immense décalage parfois reperable entre la reconnaissance en principe et la promotion-protection en pratique du droit de vote de chaque citoyenne et citoyen.</p>
+                     <p>C’est en 1982 que les droits démocratiques sont consacrés droits constitutionnels par la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.21</book-part-id>
+                  <title-group>
+                     <title>A Political Economy Approach to Interest Representation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jenson</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>Thinking about modes of interest representation has undergone several permutations in recent years, as major alterations in post-war electoral coalitions mark the emergence of new political actors, partisan strategies, and forms of state/society and global relations. The diversity of literatures analyzing neo-corporatism, new social movements, New Left and post-modern politics indicates that the theoretical perspectives on liberal democracy which dominated political science and sociology after 1945 required reconceptualization. Moreover, since the political events provoking new theory occurred in conjunction with a profound crisis and restructuring of economic relations, even political economy approaches began to reassess representation.</p>
+                     <p>This chapter, based on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.22</book-part-id>
+                  <title-group>
+                     <title>New Social Movements and Unequal Representation:</title>
+                     <subtitle>The Challenge of Influencing Public Policy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Phillips</surname>
+                           <given-names>Susan D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>As a scholar of Canadian politics, Khayyam Z. Paltiel was concerned with the appropriate and equitable representation of interests in the policy process. In particular, he addressed the issue of whether interest groups have displaced political parties as the fundamental agents of representation and democratic legitimation in the Canadian political system and he examined the impact of special interest groups on the Canadian state (1989, 1982). Because interest groups of all kinds have proliferated since the 1960s, they now are often in vigorous competition with each other, as well as with political parties, in the policy-making process. However, interest groups</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.23</book-part-id>
+                  <title-group>
+                     <title>Sustainable Development and the Challenges Facing Canadian Environmental Groups in the 1990s</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Conway</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>276</fpage>
+                  <abstract>
+                     <p>The existence of an increased level of environmental consciousness, of the kind experienced in the 1980s, will create new opportunities for change. However, this situation in itself does not prefigure what the outcomes of that change will look like. Relations with our environment will not be set once and for all or encapsulated in one big “action plan,” but will arise out of much trial and error, changed individual behaviour, political dispute and compromise, and diverse policy initiatives developed over time and unique to specific circumstances.</p>
+                     <p>Canadians concerned with how we will adjust to environmentally sustainable development in the 1990s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.24</book-part-id>
+                  <title-group>
+                     <title>Les associations patronales comme groupes de pression dans la révolution tranquille</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sarra-Bournet</surname>
+                           <given-names>Micheal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>Lors d’un colloque sur les groupes de pression tenu en 1981, le Professeur Paltiel avait entretenu les participants du rôle de l’État dans l’émergence de nouveaux groupes d’intérêts publics dans les années 1960, et de l’effet de l’arrivée de ces nouveaux groupes sur l’action des plus anciens (Paltiel, 1982). C’est ce qui a inspiré le sujet abordé dans ce chapitre.</p>
+                     <p>II existe déjà de nombreuses monographies décrivant les associations patronales (Marier, 1949; Asselin, 1954; Senécal, 1954; Pellegrino, 1967; L. Bélanger, 1970; Bauer, 1976). D’autres traitent d’idéologie (Hudon, 1976; Tremblay, 1977; Payeur, 1979; Pratte, 1985; Plouffe, 1987; Leblanc, 1988; Roy, 1988).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.25</book-part-id>
+                  <title-group>
+                     <title>La représentation des intérêts:</title>
+                     <subtitle>les schemas corporatistes au Canada</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Archibald</surname>
+                           <given-names>Clinton</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>304</fpage>
+                  <abstract>
+                     <p>S’attaquer à un traitement de la représentation des intéréts, à l’intérieur d’un livre portant sur la démocratic et la quête de justice, en hommage à l’un des grands politicologues canadiens, Khayyam Zev Paltiel, un des plus grands specialistes qu’ait produit notre pays dans le domaine de l’analyse des moyens d’atteindre une meilleure representation des groupes et un meilleur forum électoral, constitue une entreprise hasardeuse à plus d’un titre. Encore davantage quand on accouple ce traitement à des schemes d'amenagement socio-politique!</p>
+                     <p>Hasardeuse parce qu’on a vite dénoncé, dans nos cercles marxisants, les tentatives neo-corporatistes de chez nous, comme n’étant que des</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.26</book-part-id>
+                  <title-group>
+                     <title>Devenir “maîtres chez nous”:</title>
+                     <subtitle>émergence d’une bourgeoisie balzacienne au Quebec</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Alain-G.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paltiel</surname>
+                           <given-names>Khayyam Zev</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>318</fpage>
+                  <abstract>
+                     <p>Les années 1980 ont été marquées au Québec par l’explosion des activités entrepreneuriales d’une nouvelle classe des affaires jeune, innovatrice et dynamique. L’augmentation fulgurante des inscriptions aux écoles de commerce du Québec — les séminaires des années 1980 — la hausse des investissements et la vigoureuse reprise de la Bourse de Montréal après une incartade vers le gouffre de l’oubli témoignent de pépanouissement de ce que K.Z. Paltiel appelle la bourgeoisie balzacienne, ou la bourgeoisie des affaires (Paltiel, 1985-86). Ce phénomène annonce d’ailleurs une réorientation plus profonde encore du milieu socio-culturel du Québec. Comme le note Graham Fraser: “[À partir de 1983]</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.27</book-part-id>
+                  <title-group>
+                     <title>The Changing Face of Class Politics in Quebec:</title>
+                     <subtitle>The Representation and Expression of Business Interests in the Policy Process</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wise</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>340</fpage>
+                  <abstract>
+                     <p>The 1980s witnessed the rise of a new and powerful francophone business class in the province of Quebec, which Gagnon and Paltiel (1986) have called a “Balzacian bourgeoisie.” This is a fitting concept, for it alludes to the great French writer and social critic of the July Monarchy, who documented the changes in social structure resulting from the industrial revolution in France, particularly the ascendancy of a commercial class whose concerns were with wealth, position and power. In similar fashion, economic change has brought Quebec’s new francophone business class to a dominant place within politics, government and society, so that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.28</book-part-id>
+                  <title-group>
+                     <title>Khayyam Zev Paltiel and Theories of Public Financing</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alexander</surname>
+                           <given-names>Herbert E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>Khayyam Zev Paltiel was a Renaissance man. The breadth of his knowledge, the depth of his understanding, the height of his wisdom, the frequency of his insights, all attest to a unique human being with great talent and vision. Colleagues, students, friends, family, all learned from him on innumerable subjects. His range of concerns is manifest from the panel discussions listed for this conference. The overarching theme of “Democracy with Justice” is most appropriate because it informed all of Khayyam’s thinking processes and his concerns. One remembers fondly his originality, his wit, his deep laughter, at times his outrage at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.29</book-part-id>
+                  <title-group>
+                     <title>Ethical Elections:</title>
+                     <subtitle>Political Finance and Related Issues in France and Ireland</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gibbons</surname>
+                           <given-names>Kenneth M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>370</fpage>
+                  <abstract>
+                     <p>The centrality of “clean, fair, honest elections” — what might reasonably be called ethical elections — in a democratic system is widely understood by citizens, politicians and academics alike. The very nature of democratic legitimacy rests, in large part, on the integrity of the electoral process, however this integrity might be defined. Given normal expectations typical of many sociopolitical concepts, this definition will vary in detail from one political system to another, or from one subsystem to another within the same political system.</p>
+                     <p>Nevertheless, the publicly perceived need for ethical elections seems almost a banality, until it is confronted by Paltiel’s accurate</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.30</book-part-id>
+                  <title-group>
+                     <title>Popular Financing of Parties in Quebec:</title>
+                     <subtitle>Analysis of the Financial Reports of Parties, 1978-1989</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Massicotte</surname>
+                           <given-names>Louis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>383</fpage>
+                  <abstract>
+                     <p>In his useful summary of world political finance, K.Z. Paltiel observed some years ago that parties generally had been unable to rely exclusively on individuals for raising funds, without the assistance of corporate, union or government bureaucracies (Paltiel, 1981). On 26 August 1977, royal assent was given in the Province of Quebec to a Bill (No.2) regulating political party financing. This legislation was, and has remained, quite unique by Canadian standards, insofar as it prohibited contributions from corporations, labour unions and individuals living outside the province: only provincial electors could henceforth contribute to parties (Massicotte, 1984). What the new Act</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.31</book-part-id>
+                  <title-group>
+                     <title>Reflections on Political Marketing and Party “Decline” in Canada . . . or, A Funny Thing Happened on the Way to the 1988 Election</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tanguay</surname>
+                           <given-names>A. Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract>
+                     <p>Are Canada’s political parties in “decline” ? Do they matter less to voters and citizens now than they did during that mythical golden age of Macdonald, Laurier, Mackenzie King, and St. Laurent? Are they less successful now than they once were in mobilizing voters, structuring political choices, or generating policy ideas? These are the sorts of questions that Khayyam Paltiel addressed in one of his last published works (Paltiel, 1989), a wide-ranging survey of the impact of changing political technologies (polling, consulting, direct mail, and so on) on the health of party organizations in both Canada and the United States.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.32</book-part-id>
+                  <title-group>
+                     <title>The Dysfunctions of Canadian Parties:</title>
+                     <subtitle>An Exploratory Mapping</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Meisel</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>407</fpage>
+                  <abstract>
+                     <p>The study of political parties, like that of other subjects, is from time to time jolted by the appearance of seminal works so enriching and transforming the art that they elevate it to a new plateau. The books by Ostrogorski (1902), Michels (1915), Key (1942), Schattschneider (1942), Duverger (1954), McKenzie (1955), Eldersveld (1964), and Sartori (1976), among others, comprise such milestones on our road to the mastery of the party phenomenon. A potentially similar formative flashpoint burst on the scene in 1949, when R.K. Merton’s “Manifest and Latent Functions” (a revision of an earlier paper) appeared in the first edition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.33</book-part-id>
+                  <title-group>
+                     <title>Selective Annotated Bibliography:</title>
+                     <subtitle>The Work of Khayyam Zev Paltiel (in chronological order)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thomas</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Haire</surname>
+                           <given-names>Jeff Allan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>1966. “Democracy Within the Parties: The Problem of Party Finance.” Paper delivered at the Third Annual Conference on the Canadian Party System, Exchange for Political Ideas in Canada. Toronto, Glendon College, York University, June.</p>
+                     <p>From a very early time in his academic career Paltiel was concerned with the inequalities that party and campaign financing introduced into the Canadian political system. Paltiel was critical of the ever-growing distance between the supposed democratic principles of the system and the vast differences in group power and influence that characterized the environment in which party and campaign financing operated. This article is typical not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.34</book-part-id>
+                  <title-group>
+                     <title>For My Father Khayyam Zev Paltiel March 16, 1922 - April 17, 1988</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paltiel</surname>
+                           <given-names>Ari Meir</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>445</fpage>
+                  <abstract>
+                     <p>My Father was a man full of paradox. He used to say: “Consistency is the soul of mediocrity.” He was not consistent, and he was not mediocre. His love for us was unmistakable, but was hardly ever expressed aloud. His scholarly prose was crystal clear and unambiguous, and yet his letters were scrawled in a scratchy vertical script, almost illegible to the uninitiated, and which often had hardly one personal word except his signature — “Daddy.” His mind was methodical, decisive, and fastidious, and yet his desk was a litter of unsorted papers, books, articles, notes, bills . . . He</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806sg.35</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>448</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

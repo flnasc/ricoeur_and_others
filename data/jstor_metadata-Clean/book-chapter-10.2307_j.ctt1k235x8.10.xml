@@ -1,0 +1,920 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1k235x8</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Historiografía y Teoría de la Historia del Pensamiento, la Literatura y el Arte</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>de Haro</surname>
+               <given-names>Pedro Aullón</given-names>
+            </name>
+            <role>(Editor)</role>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Agud</surname>
+               <given-names>Ana</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>de Haro</surname>
+               <given-names>Pedro Aullón</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>Caerols</surname>
+               <given-names>José Joaquín</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name name-style="western">
+               <surname>Carreres</surname>
+               <given-names>Vicente</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name name-style="western">
+               <surname>Cascudo</surname>
+               <given-names>Teresa</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib7">
+            <name name-style="western">
+               <surname>Nava</surname>
+               <given-names>Antonio Constán</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib8">
+            <name name-style="western">
+               <surname>Donoso</surname>
+               <given-names>Isaac</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib9">
+            <name name-style="western">
+               <surname>Falero</surname>
+               <given-names>Alfonso</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib10">
+            <name name-style="western">
+               <surname>Gabaldón</surname>
+               <given-names>Jesús García</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib11">
+            <name name-style="western">
+               <surname>Gouveia</surname>
+               <given-names>Margarida Maia</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib12">
+            <name name-style="western">
+               <surname>Ariza</surname>
+               <given-names>Javier Hernández</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib13">
+            <name name-style="western">
+               <surname>Hye-Kyung</surname>
+               <given-names>Lee</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib14">
+            <name name-style="western">
+               <surname>Kristal</surname>
+               <given-names>Efraín</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib15">
+            <name name-style="western">
+               <surname>Lafarga</surname>
+               <given-names>Francisco</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib16">
+            <name name-style="western">
+               <surname>Marco</surname>
+               <given-names>Mª Rosario Martí</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib17">
+            <name name-style="western">
+               <surname>Mesa-Sanz</surname>
+               <given-names>Juan Francisco</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib18">
+            <name name-style="western">
+               <surname>M’gom</surname>
+               <given-names>M’bare</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib19">
+            <name name-style="western">
+               <surname>Alfonso</surname>
+               <given-names>Ricardo Miguel</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib20">
+            <name name-style="western">
+               <surname>Fandos</surname>
+               <given-names>José Manuel Mora</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib21">
+            <name name-style="western">
+               <surname>de Murcia Conesa</surname>
+               <given-names>Antonio</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib22">
+            <name name-style="western">
+               <surname>del Olmo</surname>
+               <given-names>Mª Teresa</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib23">
+            <name name-style="western">
+               <surname>Pegenaute</surname>
+               <given-names>Luis</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib24">
+            <name name-style="western">
+               <surname>Herranz</surname>
+               <given-names>Fernando Miguel Pérez</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib25">
+            <name name-style="western">
+               <surname>González</surname>
+               <given-names>Ángel Poncela</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib26">
+            <name name-style="western">
+               <surname>Portús</surname>
+               <given-names>Javier</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib27">
+            <name name-style="western">
+               <surname>Rivas</surname>
+               <given-names>Fernando</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib28">
+            <name name-style="western">
+               <surname>Laffond</surname>
+               <given-names>José Carlos Rueda</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib29">
+            <name name-style="western">
+               <surname>Silván</surname>
+               <given-names>Alfonso</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib30">
+            <name name-style="western">
+               <surname>Timoshenko</surname>
+               <given-names>Natalia</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib31">
+            <name name-style="western">
+               <surname>Zarzo</surname>
+               <given-names>Esther</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>08</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9788490854396</isbn>
+      <isbn content-type="epub">9788490855096</isbn>
+      <publisher>
+         <publisher-name>Dykinson</publisher-name>
+         <publisher-loc>Madrid</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Los autores</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1k235x8"/>
+      <abstract abstract-type="short">
+         <p>La Historiografía ha sido sometida en el curso de la época moderna tanto a su confirmación inicial de mayor rango humanístico como a su depauperación en el siglo XX por negligencia regional en sectores tan decisorios por su objeto como la literatura, la filosofía o el arte. El gran dominio contemporáneo estructural-formalista significó por principio la destrucción de los conceptos de tiempo e historia en el ámbito operacional de las ciencias humanas. Ya de la Ilustración cabe interpretar que desempeñó una función ambivalente en este sentido. Aún cabría argüir que nos hallamos ante una deficiencia o depauperación solidaria respecto del proceso conducente al nuevo estado de cosas actual, es decir la aminoración generalizada de los estudios humanísticos serios en favor de las simples prácticas profesionales; la aminoración de los criterios críticos y su relegación a los intervenidos medios de opinión pública; la imposición permanente de las ciencias sociales so pretexto de convergencia sobre las humanas propiamente dichas; la doble y paralela liquidación de las artes de la lectura y la memoria; y por último, digamos, el abocamiento a un resituado momento “final" de la Historia y la progresión confirmada de la Globalización… En cualquier caso, todo ello no exime sino que exige, cuando menos, un análisis de los hechos y el intento de establecimiento de un diagnóstico bien fundado.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.3</book-part-id>
+                  <title-group>
+                     <title>Prefacio</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>P. A. de H.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.4</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Introducción a una Epistemología historiográfica como Historia universal de las Ideas y las Formas literarias y artísticas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Haro</surname>
+                           <given-names>Pedro Aullón</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>La Historiografía, tanto en su sentido general de estudio de la Historia como en el más técnico o historiológico, requiere a nuestro juicio una asunción humanística firme, la propia de una entidad en proceso pero no por ello inestable sino disciplinar en virtud del mundo de cultura al que ha de servir. Esto es estrictamente un requisito (o en nuestro tiempo todavía lo es) para el género de las Historias especiales, por conceptos de materia, así de las literaturas, las ideas estéticas o del pensamiento, la ciencia o el arte. De no ser así, habríamos dado en disolución, no ya</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.5</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Historia de los términos Historia e Historiografía</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mesa-Sanz</surname>
+                           <given-names>Juan Francisco</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>Inestimable es la parte que conservamos de la Historia Universal de Polibio, pero de los cuarenta libros de que constaba, sólo tenemos íntegros los cinco primeros, y fragmentos de los restantes. Su método positivo y verdaderamente científico contrasta con todo lo que le precedió, y le da un lugar aparte en el cuadro de la historiografía antigua.</p>
+                     <p>(Menénez Pelayo, M.,<italic>Historia de los heterodoxos españoles</italic>, 1880-1881, ed. E. Sánchez Reyes, Madrid, CSIC, 1946-1948, VIII, 221)².</p>
+                     <p>La primera referencia en lengua española al término<italic>historiografía</italic>aparece en el citado texto de Menéndez Pelayo. Por ello, puede sorprender que la distinción que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.6</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Historiografía griega y método comparatista</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Silván</surname>
+                           <given-names>Alfonso</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>Puede parecer extraño que la primera tentativa que nos ha llegado en la tradición crítica en lengua griega de relacionar con cierto orden los historiadores más importantes de su legado no tenga en cuenta a Polibio (s. II a. d. C.), inaugurador del método comparatista sistemático en el campo específico de la indagación de los hechos que desemboca en la primera historia universal conservada con que cuenta Occidente¹. Resulta tanto más llamativo por cuanto que quien lleva cabo el cotejo es uno de los más conspicuos continuadores, siglo y medio más tarde, de su inmensa empresa de escritura de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.7</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>El concepto de ‘historia’ y su campo terminológico en las fuentes enciclopédicas modernas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>del Olmo Ibáñez</surname>
+                           <given-names>Mª Teresa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Lo que se presenta aquí es una descripción y evaluación de la terminología directa del léxico de Historia en las fuentes enciclopédicas modernas y diccionarios especializados a fin de intentar establecer cuál es la noción establecida y difundida a través de esas obras y la posible entidad de su repercusión. Para ello, se rastreará en las obras escogidas la presencia de cualesquiera términos utilizados como encabezamiento o incluidos en el desarrollo explicativo de los conceptos a seleccionar. Se dará cuenta del tratamiento otorgado al vocablo “historia” en general y a todas aquellas derivaciones del mismo, de acuerdo a la elaboración</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.8</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Historia, memoria y tiempo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zarzo</surname>
+                           <given-names>Esther</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>La pregunta por el método en Historia es crucial, sobre todo desde el momento en que, superado el cientificismo metodológico del positivismo, se reconoce la mutua determinación del objeto y el método como característica definitoria de las ciencias humanas. La<italic>techne</italic>histórica debe dar respuesta a una serie de problemáticas fundamentales de orden ontológico, gnoseológico, epistemológico y axiológico¹. ¿Cuál es la naturaleza de lo histórico?, ¿es el pasado un objeto sustantivo o un constructo siempre contemporáneo?, ¿cómo se relacionan las tres dimensiones clásicas del tiempo?, ¿existe algún tipo de motor o finalidad que guie el devenir histórico?, ¿es posible esbozar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.9</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>Verdad y Tiempo en la historiografía de la Historia de la Filosofía:</title>
+                     <subtitle>Kant y las derivas del método kantiano</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>González</surname>
+                           <given-names>Ángel Poncela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>La historiografía de la Historia de la Filosofía ha de enfrentarse desde un principio al problema de la relación entre verdad y tiempo. La Filosofía es comprendida como ciencia de la verdad que introduce el<italic>lógos</italic>con la pretensión de ordenar la diversidad de los hechos humanos acaecidos en el tiempo; actos caóticos, contingentes que son sujetos a la medida universal de la razón. La Historia de la Filosofía está contenida en un corpus de textos que recoge la verdad, pero que a su vez es producto del pensamiento de autores sometidos a la contingencia histórica de escuelas o épocas.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.10</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Historiografía e historia de la filosofía</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Herranz</surname>
+                           <given-names>Fernando Miguel Pérez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Si hojeamos los índices de las historias de la filosofía que se encuentran habitualmente en las bibliotecas, observaremos un módulo o patrón que se repite insistentemente¹: la división en tres épocas, o etapas: la antigüedad, que puede abarcar también el pensamiento indio, egipcio y aun chino; la edad media, centrada en el cristianismo, aunque a veces se amplía con las filosofías hebrea e islámica²; la edad moderna, alrededor de la nueva ciencia de Galileo, que suele desdoblarse en moderna y contemporánea y reincorpora, a veces, el pensamiento no occidental. Un módulo que se repite con independencia de la escuela o</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.11</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>La evolución de la historiografía literaria clásica</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caerols</surname>
+                           <given-names>José Joaquín</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Cierto afán enciclopédico y ese gusto por el detalle y la noticia recóndita que caracterizan al filólogo clásico (también a los especialistas de otras lenguas, supongo) hacen a éste particularmente proclive a considerar el género de las Historias de las literaturas griega y latina instrumento no ya útil, sino imprescindible en su biblioteca, aunque, paradójicamente, se resista a consultarlos con la frecuencia que sería esperable, salvo en casos de absoluta necesidad*. Esta contradictoria actitud tiene que ver, en buena medida, con esa otra paradoja que entraña el término “clásico” aplicado a las literaturas en lengua griega y latina: al hacer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.12</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Una síntesis de historiografía patrística</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rivas</surname>
+                           <given-names>Fernando</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>Según Collingwood, “en el desarrollo de la historiografía europea podemos diferenciar tres grandes fases: la primera habría tenido lugar en Grecia, durante el siglo V a.C., y en ella surgiría la idea de la historia como una forma de investigación; la segunda habría nacido en el IV d.C. con la aparición de la historiografía patrística, y culminaría con la tercera fase, que se dio en el s. XIX, en la que la historia adoptará su modalidad científica”¹.</p>
+                     <p>La segunda fase de la historiografía europea, la historiografía patrística, debe ser incluida dentro del proyecto apologético que comenzó en el cristianismo con</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.13</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Historiografía de la traducción</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lafarga</surname>
+                           <given-names>Francisco</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pegenaute</surname>
+                           <given-names>Luis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>Antoine Berman afirma, en un lugar muchas veces citado, que “la constitución de la historia de la traducción es la primera tarea para una teoría<italic>moderna</italic>de la traducción”¹. En sentido parecido se han pronunciado, por ejemplo, Susan Bassnett, José Lambert, Jean Delisle, Judith Woodsworth, etc.² La llamada de atención de Berman no ha sido desatendida, pues en el rico acervo bibliográfico producido en el seno de la disciplina de los Estudios de Traducción ocupan un lugar destacado los trabajos de corte histórico (ya sea, por ejemplo, el estudio de una traducción, un autor traducido, un traductor o un teórico</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.14</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Introducción a la ‘historia de la ciencia’ como género</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ariza</surname>
+                           <given-names>Javier Hernández</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>El objeto que aquí nos ocupa es tratar de explicar el modo de operar que en cuanto género literario presenta la moderna historiografía de la(s) ciencia(s); es decir, se trata de mostrar en una primera aproximación aquellos aspectos que son clave para la comprensión de una común manera de obrar. Para llevar a cabo este acercamiento, de la extensa bibliografía históricocientífica disponible he considerado sobre todo las síntesis que se han venido publicando en España en las últimas décadas¹, pues cabe afirmar que representan un compendio del genéro. Sin embargo no se puede olvidar que la científica es una historiografía</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.15</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>La historiografía estética:</title>
+                     <subtitle>PASADO Y PRESENTE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carreres</surname>
+                           <given-names>Vicente</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>Según se mire, hoy la estética triunfa o declina. Mientras para unos entona, como el arte mismo, su canto del cisne, para otros es ahora cuando vive su verdadera plenitud. Los primeros entienden que, a pesar de la persistencia de las palabras, ni el arte es ya el arte, ni la estética es lo que quiso ser en el momento en que tomó carta de naturaleza. Los segundos, por el contrario, arguyen que, lejos de retraerse, la estética estaría invadiendo todos los ámbitos de la vida: los nuevos mundos virtuales, la cultura de la imagen no permiten distinguir con claridad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.16</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>Musicología histórica e historiografía</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cascudo</surname>
+                           <given-names>Teresa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract>
+                     <p>“El musicólogo es, en primer lugar y ante todo, un historiador”¹. Esta frase, dicha a mediados de la década de los sesenta del siglo pasado por Palisca (1921-2001), uno de los musicólogos más destacados de la segunda mitad del siglo XX, sintetiza una postura según la cual la historia de la música constituye el interés primario de todo musicólogo², siendo así cualquier consideración acerca de los hechos y objetos musicales en la historia, por sí misma, una investigación histórica, independientemente del punto de vista, de los métodos utilizados y de los objetivos perseguidos³. Este punto de vista, bastante extendido, explica</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.17</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>La historiografía artística:</title>
+                     <subtitle>Las artes plásticas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Portús</surname>
+                           <given-names>Javier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>419</fpage>
+                  <abstract>
+                     <p>La Historia del Arte como disciplina según la entendemos hoy en día no nace hasta que en el siglo XVIII Winckelmann elige como tema de investigación un periodo cronológicamente alejado, la Grecia clásica, y centra su interés en el estudio de las obras en sí y su contexto, de sus características formales y las leyes internas de su evolución, independientemente de su contenido iconográfico o de la personalidad de sus autores¹.</p>
+                     <p>Pero del interés por dejar memoria escrita de hechos o personalidades artísticos que se consideran destacables poseemos testimonios en lo que se refiere a la cultura occidental desde la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.18</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>Historiografía y cine:</title>
+                     <subtitle>De la representación de la realidad a la recepción del entretenimiento</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Laffond</surname>
+                           <given-names>José Carlos Rueda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>449</fpage>
+                  <abstract>
+                     <p>Está fuera de toda duda el alcance del cine como discurso recreador de la realidad y como estrategia de información, persuasión y entretenimiento. Su impacto sociocultural constituye el eje vertebral para numerosos estudios centrados en la historia del medio desde su nacimiento oficial en Europa (1895) y Estados Unidos (1896). Por supuesto, resulta imposible hacerse eco de todos ellos. Las siguientes páginas proponen únicamente un esbozo, una cartografía selectiva, sobre diversos planos: la naturaleza dual del cine como suma de relatos documentales o de ficción; algunas cuestiones sobre periodización, estilo y análisis del film, o sobre las relaciones entre género,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.19</book-part-id>
+                  <title-group>
+                     <label>16.</label>
+                     <title>La historia de los conceptos y su relación con la historia de la filosofía y la historia social</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Murcia Conesa</surname>
+                           <given-names>Antonio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>463</fpage>
+                  <abstract>
+                     <p>La historia de los conceptos o<italic>Begriffsgeschichte</italic>tiene una presencia muy relevante desde hace décadas en diferentes disciplinas históricas y diversos mundos académicos, más allá del ámbito universitario y editorial alemán en el que se acuñó. Si entre los historiadores del derecho, la política o la ciencia su repercusión es considerable, entre los filósofos ha sido objeto de una atención más profunda y continuada. Sin duda esa atención es inseparable de la importante contribución de la historia conceptual a la historiografía filosófica. Pero aún más obedece a dos virtudes que podemos llamar, no sin cierta precaución, “ilustradas”: por un lado,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.20</book-part-id>
+                  <title-group>
+                     <label>17.</label>
+                     <title>Una historiografía difícil:</title>
+                     <subtitle>India</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Agud</surname>
+                           <given-names>Ana</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>483</fpage>
+                  <abstract>
+                     <p>Los occidentales aprendimos pronto a hacer “historia”. Desde que los humanistas del Renacimiento europeo decidieron retrotraer la cultura europea a la Grecia clásica que recién empezaba a redescubrirse, los historiógrafos griegos y romanos fueron aceptados como maestros en una actividad que aprendimos de ellos y se hizo “obligatoria”: estudiar el propio pasado para aprender de sus errores y aciertos. La cultura occidental fue así desde muy pronto una cultura historiográfica, empeñada en construir y habitar un relato coherente de su propio devenir histórico. Nuestra historiografía es de calidad y significación muy variables a lo largo de los siglos y sus</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.21</book-part-id>
+                  <title-group>
+                     <label>18.</label>
+                     <title>El estudio comparatista de la historia literaria de Asia del Este según Cho Dong-il</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hye-kyung</surname>
+                           <given-names>Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>515</fpage>
+                  <abstract>
+                     <p>Me propongo exponer y subrayar la importancia del<italic>Estudio comparatista de la historiografía literaria de Asia del Este</italic>(동아시아문학사비교론, “dong-asiamunhaksabiguioron”)¹, de Cho Dong-il. En esta obra el autor expone sus ideas, criterios y sugerencias a fin de avanzar hacia una posible elaboración historiográfica de la literatura universal tomando como punto de partida la comparación de las historias de la literatura de los cuatro países de Asia del Este. A tal fin hace esbozo del proceso histórico comparado de las literaturas de Corea, China, Japón y Vietnam y se propone a su vez la paralela comprehensión sintética correspondiente a los países</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.22</book-part-id>
+                  <title-group>
+                     <label>19.</label>
+                     <title>Hacia una historiografía literaria en Japón</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Falero</surname>
+                           <given-names>Alfonso</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>525</fpage>
+                  <abstract>
+                     <p>La reconstrucción del proceso de formación de la historiografía literaria en Japón ha de atender a la cuestión terminológica, a qué se entienda por “literatura” e “historia de la literatura”. En el caso de Japón la cuestión, naturalmente, no debe ser reducida a una simple e hipotética postura de autoafirmación culturalista. Más bien a la inversa. El movimiento de occidentalización, y precedente de la globalización de nuestro tiempo, que acompaña a la restauración Meiji (a partir de la década de 1860), introduce un elemento de ruptura con las tradiciones heredadas, a la vez que no puede sino desplegarse mediante una</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.23</book-part-id>
+                  <title-group>
+                     <label>20.</label>
+                     <title>Evolución de la historiografía literaria angloamericana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alfonso</surname>
+                           <given-names>Ricardo Miguel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>567</fpage>
+                  <abstract>
+                     <p>De forma relativamente paralela a como acontece en otros países europeos, el surgimiento del Neoclasicismo en Inglaterra trae consigo, entre otras cosas, el inicio de la investigación literaria de carácter historiográfico. Aunque el inicio de la producción historiográfica es más tímido en las Islas Británicas que en otros lugares, el estudio de la evolución de la literatura adquiere en esa época una relevancia que hasta entonces apenas se había dejado notar. Junto al creciente interés acerca de las diversas literaturas nacionales, siempre más impetuoso y sistemático en el continente, se forja paulatinamente en el siglo XVIII inglés el estudio del</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.24</book-part-id>
+                  <title-group>
+                     <label>21.</label>
+                     <title>La historiografía literaria alemana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marco</surname>
+                           <given-names>María Rosario Martí</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>585</fpage>
+                  <abstract>
+                     <p>En la Alemania del siglo XVI se inicia una cadena de historiadores que no tiene parangón en su esfuerzo por reunir elementos de cultura nacional¹. Se recordará que el XIX es época de figuras egregias: Hegel (<italic>Philosophie der Geschichte</italic>, 1830²), Leopold von Ranke (<italic>Geschichte der romanischen und germanischen Völkern</italic>, 1824), Johann Gustav Droysen (<italic>Geschichte des Hellenismus</italic>, 1843), Heinrich von Treitschke (<italic>Deutsche Geschichte im 19. Jahrhundert</italic>, 1879-1894), Theodor Mommsen (<italic>Römische Geschichte</italic>, 1856) y Jacob Burckhardt (<italic>Die Kultur der Renaissance in Italien</italic>, 1860), entre otros, que elevan definitivamente la disciplina. En la base de la historiografía clásica alemana no hay únicamente formas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.25</book-part-id>
+                  <title-group>
+                     <label>22.</label>
+                     <title>La evolución de la historiografía literaria eslava</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gabaldón</surname>
+                           <given-names>Jesús García</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>623</fpage>
+                  <abstract>
+                     <p>El estudio de la historia literaria eslava o, más apropiadamente, de las literaturas eslavas, constituye en gran medida una de las tareas pendientes de la Filología Eslava, así como de otras disciplinas humanísticas afines a ella. En el presente trabajo, concebido como aproximación sintética y personal, esbozaremos las tendencias fundamentales de la evolución de la historiografía literaria eslava desde el siglo XVIII a su situación actual; expondremos los principales problemas de investigación que se plantean en la historia literaria existente, centrándonos en los conceptos críticos, períodos y movimientos literarios; y, por último, intentaremos atalayar una perspectiva integrada para la investigación</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.26</book-part-id>
+                  <title-group>
+                     <label>23.</label>
+                     <title>Introducción a la historiografía literaria rusa</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kuznetsova</surname>
+                           <given-names>Natalia Timoshenko</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>643</fpage>
+                  <abstract>
+                     <p>La historiografía literaria rusa puede ser conceptuada en seis giros metodológicos: 1) el Historicismo monumental dinámico de la época medieval de la Rus de Kiev, en el que los hechos y el concepto de la literatura se entendían en sentido bíblico; 2) la recopilación y la manipulación historiográfica propia de la política del Gran Ducado Moscovita como Estado centralizado en los siglos XVI-XVII; 3) primeros planteamientos teórico-historiográficos y elaboración de índices bibliográficos en la época de la Ilustración; 4) el siglo XIX hasta la segunda década del XX, caracterizado por la aparición de las primeras Historias literarias y la consolidación</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.27</book-part-id>
+                  <title-group>
+                     <label>24.</label>
+                     <title>En torno a la historia del concepto de historia literaria hispanoamericana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kristal</surname>
+                           <given-names>Efraín</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>675</fpage>
+                  <abstract>
+                     <p>La historia de la literatura hispanoamericana es fenómeno reciente. No es sino en el siglo XX cuando se alcanza a contemplar las literaturas hispanoamericanas del siglo XIX en su conjunto, e incluso textos escritos en épocas anteriores. Durante la formación de las nuevas repúblicas nadie dudaba de que el pasado literario hispanoamericano fuera español. Hubo, sin embargo, diferencias y polémicas en torno al papel de la literatura española respecto de las nuevas repúblicas independientes. Las posturas de Andrés Bello y Domingo Faustino Sarmiento representan polos opuestos y de alguna manera paradigmáticos en este asunto. Para Bello la emancipación intelectual de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.28</book-part-id>
+                  <title-group>
+                     <label>25.</label>
+                     <title>Historiografía comparatista de las letras filipinas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donoso</surname>
+                           <given-names>Isaac</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>689</fpage>
+                  <abstract>
+                     <p>La creación literaria presenta en el archipiélago filipino varias problemáticas que hasta la fecha no han sido resueltas, siendo la principal la fragmentación lingüística que impide tener una visión de conjunto de la producción existente. A las numerosas lenguas autóctonas de la familia austronésica hay que sumar la adopción de las principales lenguas internacionales de la Edad Moderna: español, inglés, chino y árabe (y, en extensión, sus fenómenos lingüísticos de aculturación: el criollo<italic>chabacano</italic>, el<italic>patois</italic>urbano<italic>taglish</italic>, el chino<italic>lan-nang</italic>o<italic>min nan</italic>filipino, e incluso la escritura<italic>ŷāwī</italic>para escribir lenguas filipinas islamizadas).</p>
+                     <p>Ante este escenario babélico, la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.29</book-part-id>
+                  <title-group>
+                     <label>26.</label>
+                     <title>Análisis de la historiografía literaria en Brasil</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gouveia</surname>
+                           <given-names>Margarida Maia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Traducción de</role>
+                        <name name-style="western">
+                           <surname>Pose</surname>
+                           <given-names>Francisco Javier Varela</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>707</fpage>
+                  <abstract>
+                     <p>Los primeros documentos que interesan a los orígenes de la historiografía literaria de Brasil datan del siglo XIX, en pleno Romanticismo, y son ciertamente consecuencia de las preocupaciones nacionalistas dominantes en la época. Se trata de estudios realizados por europeos,<italic>Geschcichte der Poesie und Beredsamkeit seit dem ende des 13 Jahrhunderts</italic>, del alemán Freidrich Bouterwek (1805), y la<italic>Histoire de la littérature du Midi en Europe</italic>, del suizo Simonde de Sismondi (1813), monografías ambas generalistas que, a pesar de, o precisamente por ello, recogen básicamente referencias de los autores naturales de Brasil.</p>
+                     <p>A estas obras sucede la aportación de Almeida</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.30</book-part-id>
+                  <title-group>
+                     <label>27.</label>
+                     <title>Historiografía árabe islámica (siglos xviii-xx).</title>
+                     <subtitle>PERSPECTIVA ESPAÑOLA Y EUROPEA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nava</surname>
+                           <given-names>Antonio Constán</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>715</fpage>
+                  <abstract>
+                     <p>Abordar la historia que se encarga de la Historia del mundo árabe, tanto medieval como contemporáneo, requiere varias perspectivas. Por un lado, la historiografía del mundo occidental sobre dicho objeto; por otro, la historiografía que parte del propio lugar del objeto de estudio¹, la cual en ciertos casos se vincula al llamado “orientalismo”.</p>
+                     <p>El corpus de documentos correspondiente, que exige un acercamiento desde uno o varios prismas de observación², es relativo a una historiografía árabe caracterizable no ya como disciplina de una cultura y lengua sino que por necesidad a atiende varios campos entrecruzadamente históricos, ya etnográfico, genealógico, geográfico, o</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.31</book-part-id>
+                  <title-group>
+                     <label>28.</label>
+                     <title>La historiografía de la literatura africana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fandos</surname>
+                           <given-names>José Manuel Mora</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>733</fpage>
+                  <abstract>
+                     <p>Salvadas algunas obras precedentes aisladas, un esbozo de la historiografía de la literatura africana se refiere principalmente a una tradición de trabajos académicos realizados a partir de los años 60 del siglo XX, hasta nuestra actualidad: media centuria en la que se ha podido observar una evolución constructiva en cuanto a criterios de diverso tipo, una peculiar evolución marcada en buena medida por factores históricos, políticos, culturales y académicos. Así, presentar un panorama historiográfico de la literatura africana de un modo inteligible, supone primeramente una breve contextualización histórica que permita entender mínimamente las motivaciones y los condicionantes generales de dichas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.32</book-part-id>
+                  <title-group>
+                     <label>29.</label>
+                     <title>Sobre la historiografía literaria hispanoafricana</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>N’gom</surname>
+                           <given-names>M’bare</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>767</fpage>
+                  <abstract>
+                     <p>La literatura africana en lengua castellana empezó a atraer la atención teórica y crítica de los estudiosos en la década de los años noventa del siglo XX. Si bien la primera novela en castellano escrita por un africano en África sale a la luz editorial a mediados de los años 50, la literatura africana de expresión española fue, hasta bien entrada la posindependencia africana, la gran ausente del debate sobre las literaturas de África en lenguas transcontinentales. En las otras colonias europeas de África, las primeras manifestaciones literarias en lengua francesa o inglesa ocurren durante el período de entre-guerras. En</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1k235x8.33</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>782</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,985 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vjz47</book-id>
+      <subj-group>
+         <subject content-type="call-number">BS1225.52.I58 2013</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bible. Old Testament</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism, interpretation, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Interested Readers</book-title>
+         <subtitle>Essays on the Hebrew Bible in Honor of David J. A. Clines</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Aitken</surname>
+               <given-names>James K.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Clines</surname>
+               <given-names>Jeremy M. S.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Maier</surname>
+               <given-names>Christl M.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>11</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9781589839267</isbn>
+      <isbn content-type="epub">9781589839250</isbn>
+      <publisher>
+         <publisher-name>SBL Press</publisher-name>
+         <publisher-loc>Atlanta</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>the Society of Biblical Literature</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vjz47"/>
+      <abstract abstract-type="short">
+         <p>Readers of the Hebrew Bible are interested readers, bringing their own perspectives to the text. The essays in this volume, written by friends and colleagues who have drawn inspiration from and shown interest in the scholarship of David Clines, engage with his work through examining interpretations of the Hebrew Bible in areas of common exploration: literary/exegetical readings, ideological-critical readings, language and lexicography, and reception history. The contributors are James K. Aitken, Jacques Berlinerblau, Daniel Bodi, Roland Boer, Athalya Brenner, Mark G. Brett, Marc Zvi Brettler, Craig C. Broyles, Philip P. Chia, Jeremy M. S. Clines, Adrian H. W. Curtis, Katharine J. Dell, Susan E. Gillingham, Susanne Gillmayr-Bucher, Edward L. Greenstein, Mayer I. Gruber, Norman C. Habel, Alan J. Hauser, Jan Joosten, Paul J. Kissling, Barbara M. Leung Lai, Diana Lipton, Christl M. Maier, Heather A. McKay, Frank H. Polak, Jeremy Punt, Hugh S. Pyper, Deborah W. Rooke, Eep Talstra, Laurence A. Turner, Stuart Weeks, Gerald O. West, and Ian Young.</p>
+      </abstract>
+      <counts>
+         <page-count count="485"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aitken</surname>
+                           <given-names>James K.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clines</surname>
+                           <given-names>Jeremy M. S.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Maier</surname>
+                           <given-names>Christl M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.5</book-part-id>
+                  <title-group>
+                     <title>The Encounter with the Courtesan in the Gilgameš Epic and with Rahab in Joshua 2</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bodi</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>According to William Moran,¹ the story in the Gilgameš Epic is structured around three seven-day periods, each being associated with a profound transformation of Gilgameš or his companion Enkidu.</p>
+                     <p>1. In the first seven-day period (7 days + 7 nights in the Old Babylonian version, or 6 days + 7 nights in the Standard Babylonian version), Enkidu, the wild man who lives on the steppe with the animals, becomes humanized by epic lovemaking with Šamhat, sent to seduce him. His encounter with her serves to underline a sharp nature-culture contrast. She is the agent of acculturation: besides human lovemaking she</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.6</book-part-id>
+                  <title-group>
+                     <title>(Divine) Silence Is Golden:</title>
+                     <subtitle>A New Reading of the Prologue of Job</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brettler</surname>
+                           <given-names>Marc Zvi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>It is a privilege to participate in this volume honoring David. He supported me early in my career, accepting my dissertation as a JSOT Supplement volume; he welcomed me to Sheffield when I was on sabbatical in England and wanted to discuss my second book, and has always been supportive of my work. His range, creativity, skill, boldness, and love of fun have served as a model for me, as has his ability to combine solid old-style philology with modern approaches to biblical studies.</p>
+                     <p>I have attempted to write this article in one of David’s many styles—as a short</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.7</book-part-id>
+                  <title-group>
+                     <title>Memories, Myths, and Historical Monuments:</title>
+                     <subtitle>Yahweh’s Developing Character in the Psalms</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Broyles</surname>
+                           <given-names>Craig C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>The book of Psalms makes clear categorization and dogma impossible.¹ It is arguably the book of the Bible with the widest scope. Its tradition and literary history spans from the premonarchic period to the Second Temple period, and from social circles as varied as north and south, and from royal court and priestly temple to rural clan settings. We go from premonarchic victory songs to postexilic literary acrostics.</p>
+                     <p>In this paper I attempt to trace the developing sources of tradition and memory reflected in the Psalms throughout the preexilic, exilic, and postexilic periods. I focus on psalms that can be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.8</book-part-id>
+                  <title-group>
+                     <title>“A Psalm of David, When…”:</title>
+                     <subtitle>Reflections on Some Psalm Titles in the Hebrew Bible</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Curtis</surname>
+                           <given-names>Adrian H. W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>In a paper that emanated from a colloquium involving contributors from the universities of Lausanne, Neuchâtel, Sheffield, and Manchester, I offered some thoughts on the apparent allusions to historical events contained in the Hebrew book of Psalms.¹ This short paper will look at the thirteen or so psalm titles in the Hebrew Bible that appear to contain allusions to episodes in the story of David. The necessity for an approximation in the second sentence of this discussion highlights that there is not even complete agreement about their number, let alone their purpose and implication. There is widespread agreement on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.9</book-part-id>
+                  <title-group>
+                     <title>“Moab Is My Washpot” (Ps 60:8 [MT 10]):</title>
+                     <subtitle>Another Look at the MLF (Moabite Liberation Front)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gillingham</surname>
+                           <given-names>Susan E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>“I stand to be corrected, but I believe that every interpretation of and commentary on this psalm ever written adopts the viewpoint of the text, and, moreover, assumes that the readers addressed by the scholarly commentator share the ideology of the text and its author.” So writes David Clines in his “Psalm 2 and the MLF (Moab Liberation Front).” ¹ A study of the reception history of this psalm undoubtedly bears this out: David is indeed one of very few to question the ideological stance of the psalmist.² He looks at Ps 2 from the point of view of its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.10</book-part-id>
+                  <title-group>
+                     <title>Solomon:</title>
+                     <subtitle>Wisdom’s Most Famous Aspirant</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gillmayr-Bucher</surname>
+                           <given-names>Susanne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>Wisdom’s most established aspirant is also her most (in)famous disappointment. Equipped with a burning ambition to establish himself as a worthy successor on the throne of David and his ability for critical reflection, blessed with God’s gift of a wise heart and the world’s admiration, Solomon nonetheless deceives all hopes when he turns his back on Wisdom by following her rival “Lady Folly.”</p>
+                     <p>The image of Solomon as a wise king has been widely acknowledged. His role as wisdom’s aspirant, however, is usually neglected. The many voiced image of the great king presented in this story overwhelms the low key</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.11</book-part-id>
+                  <title-group>
+                     <title>The Unexpected Visitor:</title>
+                     <subtitle>The Elihu Speeches in Personal Voice Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gruber</surname>
+                           <given-names>Mayer I.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>In the second of his three monumental volumes on the book of Job in the Word Bible Commentary series, David Clines notes that, in the modern period, Elias Busitas in 1772 was the first scholar to suggest that the Elihu speeches found in Job, chapters 32–37, constituted later editions to the book of Job.¹</p>
+                     <p>As Clines points out, among the reasons commonly advanced in favor of the idea that the Elihu speeches are not integral to the original design of the book of Job, we may mention three arguments:²</p>
+                     <p>1. Unlike the other speakers in the book, Elihu has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.12</book-part-id>
+                  <title-group>
+                     <title>Reading as an Earth Being:</title>
+                     <subtitle>Rereading Genesis 2–3—Again</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Habel</surname>
+                           <given-names>Norman C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>I am honored to contribute to this Festschrift for a fellow Australian. I especially appreciate the support David has given for the publication of the Earth Bible series and the forthcoming Earth Bible commentaries. And I applaud his scholarly contributions to the interpretation of many biblical texts, especially the book of Job.</p>
+                     <p>The reception of Gen 2–3 has been a hermeneutical issue for several thousand years. The orientation of the readers of this text has changed radically, from generation to generation and from culture to culture, especially in recent years.</p>
+                     <p>In 1963 I was invited to deliver a paper</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.13</book-part-id>
+                  <title-group>
+                     <title>Self-Defense and Identity Formation in the Depiction of Battles in Joshua and Esther</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kissling</surname>
+                           <given-names>Paul J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>Although most traditional scholarship, situated as it has been in militaristic societies, describes the battles depicted in Joshua as a “conquest,” in fact the two major phases of that “conquest” are self-defense, first against an attack by a coalition of kings from the south of Canaan against the Gibeonites, who had recently joined Israel, and then defense against an attack on all of Israel by a coalition of kings from the north. The absorption of outsiders preceding an anticipated battle, the hyperbolic language of total destruction, the rules regarding the spoils of war, the extraordinary (divine) interventions, and the self-defensive</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.14</book-part-id>
+                  <title-group>
+                     <title>Egypt-Watching:</title>
+                     <subtitle>Orientalism in the Hebrew Bible</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lipton</surname>
+                           <given-names>Diana</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>In<italic>Orientalism</italic>,¹ Edward Said set out his influential account of the way that the West views the East, a perspective characterized by fantasies of licentiousness and rampant sexuality, heightened human fecundity and agricultural abundance, dubious moral values, wealthy despotic rulers, and practitioners of the unnatural arts. Later on, in<italic>Culture and Imperialism</italic>,² Said joined his critics in nuancing some aspects of his work. Most significantly, he broke down the East-West dichotomy that lay at the heart of his earlier manifesto. Orientalism was not after all a matter of geographic direction—the way the West regards the East—but of differentiation,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.15</book-part-id>
+                  <title-group>
+                     <title>Reading Back and Forth:</title>
+                     <subtitle>Gender Trouble in Jeremiah 2–3</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Maier</surname>
+                           <given-names>Christl M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>The scholarly interests of David Clines are varied and cover a wide range of methods, starting from philological and text-critical analyses, source and redaction-critical studies, literary inquiries, to ideological criticism. His two-volume anthology<italic>On the Way to the Postmodern</italic>impressively demonstrates David’s exegetical and hermeneutical competence.¹ In order to cover that range of approaches, the editors of this Festschrift sought to classify its contributions under six different rubrics. Interestingly, all colleagues whom we asked to write a “historical” piece either had to decline due to their overcommitment to other tasks or in the end decided to deliver an essay that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.16</book-part-id>
+                  <title-group>
+                     <title>Dreams:</title>
+                     <subtitle>Had, Recounted, and Interpreted—Power Plays in the Joseph Story?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McKay</surname>
+                           <given-names>Heather A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>People who have dreams may choose to tell them to others or to keep them private. If they choose to tell them, what are their motives? Is “retelling” a dream merely a form of innocent amusement or entertainment? Is retelling a nightmare a way of finding calm? Is the telling of a wish-fulfillment dream no more than a means of sharing with a friend or relative one’s hopes for a wished-for outcome? Or, perhaps less pleasantly, is telling a “dream” a means of giving some flavor of authenticity to a lie one wishes to tell to that other person?</p>
+                     <p>Anyone</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.17</book-part-id>
+                  <title-group>
+                     <title>“What You See Is What You Get”:</title>
+                     <subtitle>The Passion of a Literary Character?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Talstra</surname>
+                           <given-names>Eep</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>What do biblical scholars mean when they say that the Old Testament speaks of Yhwh as a God of pathos or passion?¹ What does this imply when God is simultaneously considered a character in the plot of a religious classic, that is, the Bible? In the studies of biblical theology by Walter Brueggemann and Jack Miles,² the God of pathos belongs to the writer’s religious dictionary. Brueggemann strongly emphasizes the idiom that the Bible is “speech about God.” In his view this means that “Yahweh lives in, with, and under this speech”; and we, its readers, should feel urged to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.18</book-part-id>
+                  <title-group>
+                     <title>Desperately Seeking Yhwh:</title>
+                     <subtitle>Finding God in Esther’s “Acrostics”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Turner</surname>
+                           <given-names>Laurence A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>The enigma of God’s absence from the MT of Esther has intrigued readers for centuries. This study will investigate the claims made for the literary phenomenon of acrostics, which allegedly reveal the divine name in the book. Particular attention will be given to popular works of the last century or so, in which such arguments are regularly made and which show no signs of diminishing.</p>
+                     <p>God’s absence from Esther is mentioned by the great majority of commentators, regardless of their particular interest in the book. Indeed, a bewildering number of solutions have been suggested over the years. The majority of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.19</book-part-id>
+                  <title-group>
+                     <title>The Bible in the Presidential Elections of 2012, 2008, and 2004, and the Collapse of American Secularism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berlinerblau</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>Biblical scholars who study the way the Scriptures are used in American politics are confronted with a unique dilemma—one that the great scholar from across the pond in whose honor this essay is presented would certainly find droll. For the truth of the matter is that our vast erudition, specialized training, and broad linguistic competencies often fail to illuminate the subject matter that we explore. In a strange way, knowing as much as we do about the Bible is often a distinct intellectual handicap. To put it in colloquial terms,<italic>our knowledge is no good here!</italic>
+                     </p>
+                     <p>This is because of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.20</book-part-id>
+                  <title-group>
+                     <title>Three Questions on Economics for G. E. M. de Ste. Croix</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boer</surname>
+                           <given-names>Roland</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>The Marxist classicist, Geoffrey Ernest Maurice de Ste. Croix, belongs to the venerable if less-populated tradition of Marxist economic minimalism in regard to the ancient world, a tradition that includes Karl Polanyi and Moses Finley.¹ Ste. Croix’s major contribution is to have mounted a sustained and largely persuasive argument for the importance of class in the economies of ancient Greece and Rome, an argument that has profound relevance for biblical analysis.² In what follows, I provide a brief account of Ste. Croix’s central argument before exploring three questions concerning his account: one concerns trade, which is profoundly useful, and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.21</book-part-id>
+                  <title-group>
+                     <title>Reading as a Canaanite:</title>
+                     <subtitle>Paradoxes in Joshua</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brett</surname>
+                           <given-names>Mark G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>Professor David Clines has authored a number of provocative works in which he has argued, in various ways, for the rights of readers over against authors. In this essay I will engage with only two versions of the argument and make some observations on the relationships between them. In one version, which might be termed<italic>Ideologiekritik</italic>, he suggests that it is incumbent on critical readers to block the flow of ideology from biblical texts to scholarly commentary.¹ If this first version of the argument can be understood as a restriction on hermeneutical trade, then ironically, the second version sounds decidedly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.22</book-part-id>
+                  <title-group>
+                     <title>Occupy Central:</title>
+                     <subtitle>Scribal Resistance in Daniel, the Long Road to Universal Suffrage</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chia</surname>
+                           <given-names>Philip P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>247</fpage>
+                  <abstract>
+                     <p>Sixteen years down the road, in the battle for democracy since Hong Kong’s return to China, church leaders in Hong Kong clashed publicly in 2013, arguing “for” and “against” the “Occupy Central (2014)” Movement,¹ a civil disobedience or a civil nonviolent resistance action, first initiated in January 2013 by a law academic at the University of Hong Kong, Benny Tai Yiu-ting,² a professed Christian, who launched the campaign with an intention to paralyze the financial and administration district of Hong Kong, the Central District, in order to force the (central) government (of China) to fulfill its promise to implement “genuine”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.23</book-part-id>
+                  <title-group>
+                     <title>Voice and Ideology in Ecclesiastes:</title>
+                     <subtitle>Reading “Cross the Grains”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lai</surname>
+                           <given-names>Barbara M. Leung</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>Two notions, rooted in the rubrics of biblical interpretation in general and reading strategy in particular, form the conceptual framework and specific directives for this endeavor. First, the biblical text is an ideological production. This not only means that all texts have ideology, but that interpreters also read the text from their respective ideological formations.² The ideologies of the ancient community of Israel ingrained in the Hebrew Bible are “historically and culturally far removed from the ideologies of our owndays.”³ Engaging in ideological critical reading is, in essence, the merging of the two horizons—the horizon of the ancient text</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.24</book-part-id>
+                  <title-group>
+                     <title>Possibilities and Prospects of Postcolonial Biblical Interpretation:</title>
+                     <subtitle>A South African Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Punt</surname>
+                           <given-names>Jeremy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>Biblical scholarship is (generally) self-reflective and self-critical. Scholars investigate and interpret biblical texts while exploring the value as well as the limitations of theories and methodologies in their work.¹ Older, existing theories are adjusted and new models are probed and developed.² Various biblical scholars see in postcolonial biblical interpretation a further development along the lines of ideological criticism—even if not perpetuating it. But what is postcolonial biblical interpretation? And how does it manifest in South(ern) Africa? The answer is of course determined by both inquirer and respondent, constituted as they are<italic>within</italic>and constitutive as they are<italic>of</italic>of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.25</book-part-id>
+                  <title-group>
+                     <title>Deploying the Literary Detail of a Biblical Text (2 Samuel 13:1–22) in Search of Redemptive Masculinities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>West</surname>
+                           <given-names>Gerald O.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>297</fpage>
+                  <abstract>
+                     <p>Until recently African biblical hermeneutics was characterized as a comparative project.¹ Analysis was done of both the biblical text and the African context, and the two sets of analysis were then “compared,” in a range of different ways.² What has become more evident on closer scrutiny,³ however, is that this “comparison” of text and context is a mediated process, involving a third pole, that of forms of ideological/theological appropriation.⁴</p>
+                     <p>Because the two “comparative” poles have been apparent to the scholarly gaze for longer than the third pole, they have received more careful critical attention. The critical techniques and discourses that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.26</book-part-id>
+                  <title-group>
+                     <title>Neologisms:</title>
+                     <subtitle>A Septuagint Problem</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aitken</surname>
+                           <given-names>James K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>What makes a new word? Invention in the material world or technological innovation are common causes in our day for vocabulary innovation: computer, mainframe, mobile (phone), tweet, blog. Such innovations lead to the creation of new words, or as in some of these cases (e.g., mobile), an extended denotation of an already existing word. An invention such as the bicycle not only gave us the new word itself, but led to the semantic extension of the verb “to ride.”¹ No longer did we ride only animals, but now we could also ride bicycles or other vehicles. Less tangible but equally</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.27</book-part-id>
+                  <title-group>
+                     <title>The Invention of Language in the Poetry of Job</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Greenstein</surname>
+                           <given-names>Edward L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>The book of Job, particularly its poetic core, appears to contain more unique words and linguistic usages than any comparable work from the ancient Near East. The distinctive language of Job has been attributed to a number of literary factors. For one thing, the characters and events are set in a much earlier, legendary period—the time of the patriarchs.¹ Not only does Job enjoy a lifestyle that is reminiscent of the rural, sheep-and-goat-herding Hebrew patriarchs, but the description of Job and his situation in the narrative framework of the book features language and allusions to the stories of Genesis.²</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.28</book-part-id>
+                  <title-group>
+                     <title>Linguistic Clues as to the Date of the Book of Job:</title>
+                     <subtitle>A Mediating Position</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Joosten</surname>
+                           <given-names>Jan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>347</fpage>
+                  <abstract>
+                     <p>In an influential article published in 1974, Avi Hurvitz showed that the language of the prose tale of Job has several features aligning it with the Late Biblical Hebrew (LBH) known from Persian-period writings such as Chronicles, Ezra–Nehemiah, Esther, Ecclesiastes, and Daniel.¹ Since the book of Job, a fictional story addressing universal human problems, is otherwise hard to date, the contribution of historical linguistics was much appreciated by commentators.² More recently, however, Ian Young has argued that Hurvitz did not make a decisive argument for the lateness of the prose tale of Job.³ Part of Young’s argument is hard</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.29</book-part-id>
+                  <title-group>
+                     <title>Speaker, Addressee, and Positioning:</title>
+                     <subtitle>Dialogue Structure and Pragmatics in Biblical Narrative</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Polak</surname>
+                           <given-names>Frank H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>359</fpage>
+                  <abstract>
+                     <p>How does the narrator indicate speaker and addressee in the dialogue? This issue may look like a mere technicality, of no interest for exegesis, history of religion, and literary criticism, but actually it is of highest importance, for it relates to the status of the speaking characters. On the face of it, the matter seems rather trivial: when the participants in the dialogue are unknown to the reader, they are to be mentioned by name and/or title, for the sake of clarity; but when it is clear whose move it is, no explicit indication is necessary. But, as indicated at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.30</book-part-id>
+                  <title-group>
+                     <title>Notes on Some Hebrew Words in Ecclesiastes</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weeks</surname>
+                           <given-names>Stuart</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>373</fpage>
+                  <abstract>
+                     <p>Biblical scholars in general are well provided with lexicographical resources—not least among them now the<italic>Dictionary of Classical Hebrew</italic>, edited by David Clines. The inclusion by this work of new words and meanings found only in Ben Sira and the Qumran texts has been especially helpful for those of us working on late biblical materials, and students of Ecclesiastes, in particular, have had the benefit also in recent years of Antoon Schoors’s magisterial work on the language of Qoheleth, the second volume of which is devoted to a consideration of the book’s vocabulary.¹ There are many words in Ecclesiastes,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.31</book-part-id>
+                  <title-group>
+                     <title>Patterns of Linguistic Forms in the Masoretic Text:</title>
+                     <subtitle>The Preposition מ׀ “From”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Young</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>385</fpage>
+                  <abstract>
+                     <p>All scholars agree that there is linguistic variety in the Hebrew Bible. The dominant explanation of the distribution of linguistic forms in the Masoretic Text (MT) of the Hebrew Bible in modern scholarship has been in terms of a simple equation between the language of the MT and the language of the “original author” of the text in question. Current scholarship on the textual transmission of the Hebrew Bible, however, makes this explanation only one out of several—and not one of the more likely ones.</p>
+                     <p>In this study I will discuss the patterns of distribution of the preposition מן</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.32</book-part-id>
+                  <title-group>
+                     <title>The Bible in the Twenty-First Century—Where and How?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brenner</surname>
+                           <given-names>Athalya</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>403</fpage>
+                  <abstract>
+                     <p>David Clines has been an original interpreter of things biblical for decades. His brands of interpretation have always been interesting, original, and erudite, combining the old and the new “on the way to the [post] modern.” His love of the Hebrew bible,¹ unromantic and nonromanticizing, critical yet steadfast, shines through his oeuvre: a veritable Torah scholar. He read and still reads in context and out of context, from various perspectives and directions: so to speak from left-to-right, his own idiom,² and also from right-to-left.³ In his work as a scholar, publisher, teacher, and administrator, he made a profoundly serious difference</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.33</book-part-id>
+                  <title-group>
+                     <title>Nineteenth-Century British Job Oratorios</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dell</surname>
+                           <given-names>Katharine J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>415</fpage>
+                  <abstract>
+                     <p>In this paper I am interested in the way Job is treated in the nineteenth-century oratorio tradition in Britain. Sacred oratorio¹ took off in the nineteenth-century and had two primary forms—one of a more meditative nature (e.g., Handel’s<italic>Messiah</italic>) and the other of a more dramatic character (e.g., Mendelssohn’s<italic>Elijah</italic>).² Old Testament narratives were particularly suited to the dramatic variety, although the book of Job, unusually, provided both—action from the dramatic events recounted in the prologue and epilogue, and meditation from the dialogue, notably Job’s own speeches and God’s reply. Three oratorios based on Job represent well the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.34</book-part-id>
+                  <title-group>
+                     <title>Judging Judges Scholarship</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hauser</surname>
+                           <given-names>Alan J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>431</fpage>
+                  <abstract>
+                     <p>This essay is dedicated to David Clines, whose commitment to the reassessment, reconfiguration, and advancement of biblical scholarship has been a hallmark of his career and whose breadth of scholarly interests serves as a model to us all. David’s accomplishments in a variety of venues of biblical scholarship have truly been remarkable, as has been his assistance to other scholars in getting their works disseminated, both through the press he founded, and through the numerous journals he launched. David is a remarkable scholar and friend.</p>
+                     <p>How things have changed! The time from the middle of the twentieth century to the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.35</book-part-id>
+                  <title-group>
+                     <title>Boaz Reawakened:</title>
+                     <subtitle>Modeling Masculinity in the Book of Ruth</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pyper</surname>
+                           <given-names>Hugh S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>445</fpage>
+                  <abstract>
+                     <p>Among his other signal contributions to the development of biblical studies, David Clines has been a pioneering voice in the study of masculinity in biblical texts. It is a mark of his importance in this field that he contributes some “final reflections” to Ovidiu Creangă’s edited volume on<italic>Men and Masculinity in the Hebrew Bible and Beyond</italic>, in addition to contributing a chapter himself.¹ In these reflections, while acknowledging that the volume marks a coming of age for such studies, he makes a threefold plea for further work. First, he calls for a broadening of the theoretical base of masculinity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.36</book-part-id>
+                  <title-group>
+                     <title>From London to Amsterdam:</title>
+                     <subtitle>Handel’s Esther Reincarnated</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rooke</surname>
+                           <given-names>Deborah W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>459</fpage>
+                  <abstract>
+                     <p>G. F. Handel’s oratorios were a development of the later years of his career, being written during the period 1732–1752. Most of the oratorios were “sacred dramas,” that is, operatic versions of Old Testament narratives, and they often had political as well as theological resonances. The oratorios were a chance development, having their origin in a piece written initially by Handel in 1718 or thereabouts for private performance at Cannons, the country seat of James Brydges (later duke of Chandos). The piece in question was<italic>Esther</italic>, a short, three-act musical drama, which tells a much-truncated version of the story</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.37</book-part-id>
+                  <title-group>
+                     <title>Bibliography of David J. A. Clines 2003–2013</title>
+                  </title-group>
+                  <fpage>475</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjz47.38</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>483</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

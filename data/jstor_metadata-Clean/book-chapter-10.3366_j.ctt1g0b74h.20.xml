@@ -1,0 +1,610 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1bgz98w</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1g0b74h</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Form and Object</book-title>
+         <subtitle>A Treatise on Things</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Garcia</surname>
+               <given-names>Tristan</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <role content-type="translator">Translated by</role>
+         <contrib contrib-type="translator" id="contrib2">
+            <name name-style="western">
+               <surname>Ohm</surname>
+               <given-names>Mark Allan</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib3">
+            <name name-style="western">
+               <surname>Cogburn</surname>
+               <given-names>Jon</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>17</day>
+         <month>03</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748681495</isbn>
+      <isbn content-type="epub">9780748681518</isbn>
+      <isbn content-type="epub">0748681515</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Mark Allan Ohm</copyright-holder>
+         <copyright-holder>Jon Cogburn</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1g0b74h"/>
+      <abstract abstract-type="short">
+         <p>What is a thing? What is an object? Tristan Garcia decisively overturns 100 years of Heideggerian orthodoxy about the supposedly derivative nature of objects to put forward a new theory of ontology that gives us deep insights into the world and our place in it.</p>
+      </abstract>
+      <counts>
+         <page-count count="488"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.3</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>x</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.5</book-part-id>
+                  <title-group>
+                     <title>Translators’ Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ohm</surname>
+                           <given-names>Mark Allan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cogburn</surname>
+                           <given-names>Jon</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rouge</surname>
+                           <given-names>Baton</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>As a novelist, Tristan Garcia has received widespread recognition and awards, including the<italic>Prix de Flore</italic>. But it is his most recent philosophical work,<italic>Forme et objet: Un traité des choses</italic>, that secures his place as one of the most significant systematic philosophers in contemporary France.</p>
+                     <p>Garcia’s philosophical prose is lucid, in general presenting no special problems for the translator. However, a few key technical terms and phrases are so central to his system that any nonidiomatic English translation would invariably mislead the reader. Thus, explaining our translational choices requires some presentation of the system itself. In English, ‘comprehension’ almost</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.6</book-part-id>
+                  <title-group>
+                     <title>Series Editor’s Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harman</surname>
+                           <given-names>Graham</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.7</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Our time is perhaps the time of an epidemic of things.</p>
+                     <p>A kind of ‘thingly’ contamination of the present was brought about through the division of labour, the industrialisation of production, the processing of information, the specialisation of the knowledge of things, and above all the desubstantialisation of these things. In Western philosophical traditions, things were often ordered according to essences, substrata, qualities, predicates,<italic>quidditas</italic>and<italic>quodditas</italic>, being and beings. Precluding anything from being equally ‘something’, neither more nor less than any other thing, thus becomes a rather delicate task. We live in this world of things, where a cutting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.8</book-part-id>
+                  <title-group>
+                     <label>Part I</label>
+                     <title>Thing</title>
+                  </title-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>1. Two questions define the limits of our reflection. First, what is everything composed of? Second, what do all things compose?</p>
+                     <p>The first question concerns the nature, identity, or mere definition of what concerns principles, what is primary, primitive, or elementary, or the irreducible component of everything that is. If a wall is made of bricks, an organism of cells, a sentence of words, a word of letters, an atom’s nucleus of particles bound by forces, then what<italic>whole</italic>are they made of? Of matter, substances, heterogeneous multiplicities, the structures of our understanding, our cognition, our language, a god’s will,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.9</book-part-id>
+                  <title-group>
+                     <label>Part II</label>
+                     <title>Thing and World</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>The world is not the a priori container that pre-exists the things it contains, nor the a posteriori mental construction of the fictional set of all things. The world is strictly<italic>contemporaneous</italic>with things, or, more precisely, with each thing. If things exist, then a world exists.</p>
+                     <p>Now, things exist, and therefore a world exists.</p>
+                     <p>Some represent the world as the physical universe, the primary, material world. Others reflexively represent a secondary representation or a mental construction to totalise and unify the set of existent things.</p>
+                     <p>But these representations only apply to determinate worlds: the world of matter (which for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.10</book-part-id>
+                  <title-group>
+                     <label>Part III</label>
+                     <title>Being and Comprehending</title>
+                  </title-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>1. Can one be without being<italic>something</italic>?</p>
+                     <p>Either one is something (a thing is another thing: a lamp is a source of light), or one is something other than something (a thing is the world: a lamp is (in) the world, a light is (in) the world).</p>
+                     <p>Either one is a thing, or one is the world.</p>
+                     <p>Being nothing is still being<italic>something</italic>(since nothing is something, even if it is only a word, a false concept, or the union between a before-thing, the negative contemporaneous with a thing, and the absence following the thing).</p>
+                     <p>Therefore, being is not one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.11</book-part-id>
+                  <title-group>
+                     <label>Chapter I</label>
+                     <title>Universe</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Objects in each other form big things. The biggest possible thing is what we call the<italic>universe</italic>. While the world is the reverse side or the form of each thing, the universe is a big thing, the identity of which is variable. The universe is always defined with a superlative: ‘the biggest thing’. Thus, we cannot conceive of a more important thing at the present moment, and we do not know if we will find a means to augment it further in the future.</p>
+                     <p>The maximal comprehension of objects is what we call the<italic>universal</italic>. To be universal, or to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.12</book-part-id>
+                  <title-group>
+                     <label>Chapter II</label>
+                     <title>Objects and Events</title>
+                  </title-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>Small or large<italic>existent</italic>objects are not enough to make a universe.</p>
+                     <p>They must be<italic>present</italic>.</p>
+                     <p>One may claim that objects exist in a dead or absent universe.</p>
+                     <p>The fact that objects once<italic>were</italic>but are no more would produce an absence of objects. Objects would exist, but they would be absent.</p>
+                     <p>But the universe<italic>is not</italic>merely existent; it is<italic>present</italic>. Being (and comprehension) is not enough to account for the fact that things are<italic>there</italic>.</p>
+                     <p>Objects can be by always being absent, which means that a universe where objects<italic>are</italic>could very well turn out to be a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.13</book-part-id>
+                  <title-group>
+                     <label>Chapter III</label>
+                     <title>Time</title>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>The problem of defining time concerns the status attributed to the present.</p>
+                     <p>Since at least Saint Augustine,¹ understanding time from the present only leads to confusion. The past is not, since it is no longer present; the future is not, since it is not yet present; and the present is only insofar as it slips by and is already no more, since its being is to become. Augustinian confusion essentially comes from the desire to define the present as presence (to the mind), and presence as being or as existence. The present is what is present, and what is present</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.14</book-part-id>
+                  <title-group>
+                     <label>Chapter IV</label>
+                     <title>Living Things</title>
+                  </title-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>A living thing is an event that intensifies something novel in the universe. The emergence and development of living organisms is not a rupture that<italic>introduces</italic>something novel into the universe, nor is it the mere continuation of physico-chemical novelties which occurred when there were no existent living things anywhere in the universe. Even though living things are local events, which are mere fractions of the objective universe, living things are also events that considerably intensify the universe. Living things augment the universe more than formally (by simply adding new things). Living things<italic>give value</italic>to the universe (by adding</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.15</book-part-id>
+                  <title-group>
+                     <label>Chapter V</label>
+                     <title>Animals</title>
+                  </title-group>
+                  <fpage>204</fpage>
+                  <abstract>
+                     <p>Animals are living beings defined<italic>among</italic>other living beings and<italic>by</italic>a specific animal: the human animal. Animality is defined through a division of living things into kingdoms, themselves divided into branches, classes, orders, families, genera, and species. Species are the fundamental classes of the division of living things. The divisions into species make animal species<italic>events</italic>rather than<italic>objects</italic>.</p>
+                     <p>In the history of Western knowledge, species were once a principle of dividing several things into objects, which were dependent upon the living object’s ancestral relations and resemblances. Georges Cuvier’s fixist conception of species ‘includes the individuals which descend from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.16</book-part-id>
+                  <title-group>
+                     <label>Chapter VI</label>
+                     <title>Humans</title>
+                  </title-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>The identity of humanity is partially nomadic and extendable: ‘what is humanity’ is an animal species, but ‘what humanity is’ is variable.</p>
+                     <p>The Brazilian anthropologist and metaphysician Eduardo Viveiros de Castro shows how Amerindian ‘perspectivism’ defines<italic>what humanity</italic>is as a form rather than as an object: the form of what is a subject of its cosmos. The determination of<italic>what is humanity</italic>thus depends on an adopted view, on an object considered as subject:</p>
+                     <p>Typically, humans see humans as humans, animals as animals and spirits (if they see them) as spirits; however animals (predators) and spirits see humans as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.17</book-part-id>
+                  <title-group>
+                     <label>Chapter VII</label>
+                     <title>Representations</title>
+                  </title-group>
+                  <fpage>242</fpage>
+                  <abstract>
+                     <p>What is a representation? This concept can be understood in at least two ways: on the one hand, the representation of an object by an<italic>object</italic>; on the other hand, the representation of an object by a<italic>subject</italic>. Subjective representation always appears as ‘self’-representation, a representation which only is what it is through self-presence. The representation that I have of the table that I see before me only remains what it is as long as it is my representation, and not someone else’s. If some other person takes my place in front of this table and obtains a visual representation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.18</book-part-id>
+                  <title-group>
+                     <label>Chapter VIII</label>
+                     <title>Arts and Rules</title>
+                  </title-group>
+                  <fpage>260</fpage>
+                  <abstract>
+                     <p>What exactly is a<italic>rule</italic>?</p>
+                     <p>It seems that a rule is a paradox, a seemingly blatant contradiction. In order for a rule to exist, one must claim that it is impossible to do certain things that can be done. For example, it is<italic>impossible</italic>, in French, to combine a verb conjugated in the second person with a first person subject; it is<italic>impossible</italic>, in English, to write word ‘bird’ as ‘burd’. Of course these rules, by definition, vary with use, context, register, and through all the regular and irregular articulations which a linguistic theory can shed light on.¹ To modalise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.19</book-part-id>
+                  <title-group>
+                     <label>Chapter IX</label>
+                     <title>Culture</title>
+                  </title-group>
+                  <fpage>279</fpage>
+                  <abstract>
+                     <p>In<italic>Beyond Nature and Culture</italic>,¹ Philippe Descola claims that the idea of ‘culture’ arose from a tension between at least two of the 164 meanings of the term catalogued by Alfred Kroeber and Clyde Kluckhorn.² Culture, in the singular, is defined as a distinctive characteristic of humanity, in a sense close to ‘civilisation’. Cultures, in the plural, are defined as a plurality of human modes of organisation. In 1871, Edward Burnett Tylor stated that: Culture or Civilisation, taken in its wide ethnographic sense, is that complex whole, which includes knowledge, belief, art, morals, law, custom, and any other capabilities and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.20</book-part-id>
+                  <title-group>
+                     <label>Chapter X</label>
+                     <title>History</title>
+                  </title-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>The problem of universal history does not result from the possibility of organising the universe in time, but rather from considering time as a universe. How is it possible to grasp time – structured by the present (maximal presence), the past (weakening of presence), and the future (maximal absence) – as a cumulative order of all past instants, from the most remote to the most present? We raised this question in Chapter III of this book. Universal history inscribes objects and events in an order of comprehension, which leads to the present and points towards the future. The cultural structuring of time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.21</book-part-id>
+                  <title-group>
+                     <label>Chapter XI</label>
+                     <title>Economy of Objects</title>
+                  </title-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>The future of the economy is the future of the<italic>utility</italic>of objects. Utilitarian thinkers sought to construct a formal distribution channel of uses, curtailing the systems of cultural rules and historical progress.</p>
+                     <p>Utilitarianism was a minority position in nineteenth-century English philosophy. After many twists and turns, it gradually spread across all branches of modern knowledge: economics, animal ethics, morality, political science, and law. This ‘consequentialist’ moral theory focuses on an action’s consequences, and not on an action’s intention or intrinsic value. The theory recommends acting so that every being’s well-being increases. It is not egoistic (since it does not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.22</book-part-id>
+                  <title-group>
+                     <label>Chapter XII</label>
+                     <title>Values</title>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Picture a flat, valueless world.</p>
+                     <p>This is a world where nothing is more beautiful than another thing, where truth is no different from fiction, where fictions, illusions, and contradictions have some actual value, and where what is evil is not negative and subtracts nothing from the world. Each thing is<italic>equally</italic>in the world. This is clearly the formal world of Book I. Not only is this world possible, but it is the only<italic>world</italic>. Nonetheless, this world is not the objective and evential universe in which we live together as objects exchangeable and replaceable with other objects. It is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.23</book-part-id>
+                  <title-group>
+                     <label>Chapter XIII</label>
+                     <title>Classes</title>
+                  </title-group>
+                  <fpage>356</fpage>
+                  <abstract>
+                     <p>The universe is both<italic>valued</italic>and<italic>classified</italic>. Valuation and classification are the two fundamental actions which give order to the universe. By valuing objects and events, one intensifies things with either more or less of the Beautiful, the True, and the Good. By classifying objects and events, one does not consider the intensity of things, but their extension and the way they belong to other objects or events.</p>
+                     <p>An object is never alone in a thing which comprehends it, because only things are alone. An object which is red is never alone in redness. A being which is human is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.24</book-part-id>
+                  <title-group>
+                     <label>Chapter XIV</label>
+                     <title>Genders</title>
+                  </title-group>
+                  <fpage>366</fpage>
+                  <abstract>
+                     <p>Genders are classes which have this particular characteristic: they are not divided and redivided on the same level, but they divide several different universal levels. Classes group together and exclude objects and events inside the same universe on the same plane. Genders group together and exclude objects and events inside the same universe from plane to plane.</p>
+                     <p>Classes section and arrange the universe at any given level.</p>
+                     <p>Genders divide the universe into different levels.</p>
+                     <p>The relations between human groups of interests or ideas are class relations because the relations are strictly located<italic>between</italic>them. The relations between man and woman</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.25</book-part-id>
+                  <title-group>
+                     <label>Chapter XV</label>
+                     <title>Ages of Life</title>
+                  </title-group>
+                  <fpage>385</fpage>
+                  <abstract>
+                     <p>An individual is an object in classes and in genders. However, an individual is neither the<italic>terminus ad quem</italic>nor the<italic>terminus a quo</italic>of the objectivisation of human life. An individuated life is itself divided into temporal objects commonly called ‘ages’.</p>
+                     <p>‘Ages of life’ are the primary objects that an individuated life comprehends, itself comprehended in classes and in genders. Today, among these ages, one in particular captivates, since it seems to be at the centre of ages, the heart of life, the object in the very middle of becoming: adolescence.</p>
+                     <p>We are far from the time when humans</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.26</book-part-id>
+                  <title-group>
+                     <label>Chapter XVI</label>
+                     <title>Death</title>
+                  </title-group>
+                  <fpage>410</fpage>
+                  <abstract>
+                     <p>Death is the end of an individuated life’s presence. Some parts of an organism can live or be maintained even though the individual is or will no longer be living. This end does not entail the destruction of what lived, which is still something as a body, as a memory, or as an author of residual traces in the physical universe. Rather, it denotes the absence without return of what lived.</p>
+                     <p>What ends with death is not a life, but this life’s presence. The being which was living and which is no longer living is absent from the world; the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.27</book-part-id>
+                  <title-group>
+                     <title>The Chance and the Price</title>
+                  </title-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>To have one or many children and grandchildren. To succeed in what I do. To triumph in my sport or in my occupational field. To have money. To have financial, economic, or political power. To be desired. To enjoy a series of present moments. To be good, just, virtuous, and valued until the end. To be beautiful or to add beauty to this world. To be faithful to a truth or an idea, and to follow it, defend it, and give my body and my existence to it. To bind myself to something eternal. To be saved. To not be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.28</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>439</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.29</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>453</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1g0b74h.30</book-part-id>
+                  <title-group>
+                     <title>Name Index</title>
+                  </title-group>
+                  <fpage>460</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

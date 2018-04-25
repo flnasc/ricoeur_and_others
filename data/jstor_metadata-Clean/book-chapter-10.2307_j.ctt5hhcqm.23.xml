@@ -1,0 +1,1001 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5hhcqm</book-id>
+      <subj-group>
+         <subject content-type="call-number">P90.P468 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Communication</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Philosophy of Communication</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Chang</surname>
+               <given-names>Briankle G.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Butchart</surname>
+               <given-names>Garnet C.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262516976</isbn>
+      <isbn content-type="epub">9780262305396</isbn>
+      <isbn content-type="epub">0262305399</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5hhcqm"/>
+      <abstract abstract-type="short">
+         <p>To philosophize is to communicate philosophically. From its inception, philosophy has communicated forcefully. Socrates, Plato, and Aristotle talk a lot, and talk ardently. Because philosophy and communication have belonged together from the beginning--and because philosophy comes into its own and solidifies its stance through communication--it is logical that we subject communication to philosophical investigation. This collection of key works of classical, modern, and contemporary philosophers brings communication back into philosophy's orbit. It is the first anthology to gather in a single volume foundational works that address the core questions, concepts, and problems of communication in philosophical terms. The editors have chosen thirty-two selections from the work of Plato, Leibniz, Hegel, Husserl, Heidegger, Wittgenstein, Benjamin, Lacan, Derrida, Sloterdijk, and others. They have organized these texts thematically, rather than historically, in seven sections: consciousness; intersubjective understanding; language; writing and context; difference and subjectivity; gift and exchange; and communicability and community. Taken together, these texts not only lay the foundation for establishing communication as a distinct philosophical topic but also provide an outline of what philosophy of communication might look like.</p>
+      </abstract>
+      <counts>
+         <page-count count="688"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.4</book-part-id>
+                  <title-group>
+                     <title>Publisher Credits</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chang</surname>
+                           <given-names>Briankle G.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Butchart</surname>
+                           <given-names>Garnet C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>To philosophize is to communicate philosophically, and to communicate philosophically is to impart the wisdom of which philosophy speaks and which is spoken at the same time. Would philosophy—ever universalizing and universalized in its claims—be able to stand fast as what it claims to be if it did not impart anything, if it refused to communicate, if it simply remained silent? Even if philosophy managed somehow to keep silent, could this silence be anything other than philosophy’s choice of expression, an expression wisely chosen by philosophy to keep its silence? And could this silence be anything other than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Of ʺThisʺ Communication</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chang</surname>
+                           <given-names>Briankle G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>I shall speak about communication.¹ With the statement “I shall speak about communication,” I have just made known what I am about to do. However, in saying this, by saying, “I shall speak about communication,” am I not communicating? In this instance, the act of my saying and what is thus said appear to stand in happy agreement, the latter being little more than a self-reflective report on the former, thereby saying nothing but affirming that this saying, this report, is taking place. Indeed, I begin by making a promise presaging what I shall speak about, and yet this making,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Phaedrus</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>Plato</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Phaedrus. By all means, let’s talk.</p>
+                     <p>Socrates. Well, then, we ought to examine the topic we proposed just now: When is a speech well written and delivered, and when is it not?</p>
+                     <p>Ph. Plainly</p>
+                     <p>So. Won’t someone who is to speak well and nobly have to have in mind the truth about the subject he is going to discuss?</p>
+                     <p>Ph. What I have actually heard about this, Socrates, my friend, is that it is not necessary for the intending orator to learn what is really just, but only what will seem just to the crowd who will act as judges.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>New System of the Nature of the Communication of Substances</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leibniz</surname>
+                           <given-names>Gottfried Wilhelm</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>The system of occasional causes must be partly accepted and partly rejected. Each substance is the true and real cause of its own immanent actions, and has the power of acting, and although it is sustained by the divine concourse nevertheless it cannot happen that it is merely passive, and this is true both in the case of corporeal substances and incorporeal ones. But on the other hand, each substance (excepting God alone) is nothing except the occasional cause of its transeunt actions towards another substance. Therefore the true reason of the union between soul and body, and the reason</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Sense Certainty:</title>
+                     <subtitle>Or the ʺThisʺ and ʺMeaningʺ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hegel</surname>
+                           <given-names>Georg Wilhelm Friedrich</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>90. The knowledge or knowing which is at the start or is immediately our object cannot be anything else but immediate knowledge itself, a knowledge of the immediate or of what simply<italic>is</italic>. Our approach to the object must also be<italic>immediate</italic>or<italic>receptive</italic>; we must alter nothing in the object as it presents itself. In<italic>ap</italic>prehending it, we must refrain from trying to<italic>com</italic>prehend it.</p>
+                     <p>91. Because of its concrete content, sense-certainty immediately appears as the<italic>richest</italic>kind of knowledge, indeed a knowledge of infinite wealth for which no bounds can be found, either when we<italic>reach out</italic>into space and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The End of Philosophy and the Task of Thinking</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heidegger</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>The title designates the attempt at a reflection that persists in questioning. Questions are paths toward an answer. If the answer could be given it would consist in a transformation of thinking, not in a propositional statement about a matter at stake.</p>
+                     <p>The following text belongs to a larger context. It is the attempt undertaken again and again ever since 1930 to shape the question of<italic>Being and Time</italic>in a more primordial fashion. This means to subject the point of departure of the question in<italic>Being and Time</italic>to an immanent criticism. Thus it must become clear to what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Conditions of the Question:</title>
+                     <subtitle>What Is Philosophy?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deleuze</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Perhaps the question “What is philosophy?” can only be posed late in life, when old age has come, and with it the time to speak in concrete terms. It is a question one poses when one no longer has anything to ask for, but its consequences can be considerable. One was asking the question before, one never ceased asking it, but it was too artificial, too abstract; one expounded and dominated the question, more than being grabbed by it. There are cases in which old age bestows not an eternal youth, but on the contrary a sovereign freedom, a pure</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Fifth Meditation:</title>
+                     <subtitle>Uncovering of the Sphere of Transcendental Being as Monadological Intersubjectivity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Husserl</surname>
+                           <given-names>Edmund</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>As the point of departure for our new meditations, let us take what may seem to be a grave objection. The objection concerns nothing less than the claim of transcendental phenomenology to be itself transcendental<italic>philosophy</italic>and therefore its claim that, in the form of a constitutional problematic and theory moving within the limits of the transcendentally reduced ego, it can solve the transcendental problems pertaining to the<italic>Objective world</italic>. When I, the meditating I, reduce myself to my absolute transcendental ego by phenomenological epoché do I not become<italic>solus ipse</italic>; and do I not remain that, as long as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Being-in-the-World as Being-With and Being-Oneʹs-Self.</title>
+                     <subtitle>The ʺTheyʺ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heidegger</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Our analysis of the worldhood of the world has constantly been bringing the whole phenomenon of Being-in-the-world into view, although its constitutive items have not all stood out with the same phenomenal distinctness as the phenomenon of the world itself. We have Interpreted the world ontologically by going through what is ready-to-hand within-the-world; and this Interpretation has been put first, because Dasein, in its everydayness (with regard to which Dasein remains a constant theme for study), not only is in a world but comports itself towards that world with one predominant kind of Being. Proximally and for the most part</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Foundations of a Theory of Intersubjective Understanding</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schutz</surname>
+                           <given-names>Alfred</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>As we proceed to our study of the social world, we abandon the strictly phenomenological method. We shall start out by simply accepting the existence of the social world as it is always accepted in the attitude of the natural standpoint, whether in everyday life or in sociological observation. In so doing, we shall avoid any attempt to deal with the problem from the point of view of transcendental phenomenology. We shall, therefore, be bypassing a whole nest of problems whose significance and difficulty were pointed out by Husserl in his<italic>Formal and Transcendental Logic</italic>, although he did not there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Platonic Dialogue</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Serres</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The logicians’ extended discussion of the notion of symbol is well known.¹ Without entering into the detail of the arguments that separate the Hilbertian realists, the nominalists following Quine, those who subscribe to the Polish school, and so on, I shall take up a fragment of the issue here, while giving it a new twist.</p>
+                     <p>When I want to communicate with another person, I have at hand a number of old and new methods: languages, systems of writing, means of storing, of transmitting, or of multiplying the message—tapes, telephone, printing press, and so on.² It is not important for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>On Language as Such and on the Language of Man</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benjamin</surname>
+                           <given-names>Walter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Every expression of human mental life can be understood as a kind of language, and this understanding, in the manner of a true method, everywhere raises new questions. It is possible to talk about a language of music and of sculpture, about a language of justice that has nothing directly to do with those in which German or English legal judgments are couched, about a language of technology that is not the specialized language of technicians. Language in such contexts means the tendency inherent in the subjects concerned—technology, art, justice, or religion—toward the communication of mental meanings. To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Building Dwelling Thinking</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heidegger</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>In what follows we shall try to think about dwelling and building. This thinking about building does not presume to discover architectural ideas, let alone to give rules for building. This venture in thought does not view building as an art or as a technique of construction; rather, it traces building back into that domain to which everything that<italic>is</italic>belongs. We ask:</p>
+                     <p>1. What is it to dwell?</p>
+                     <p>2. How does building belong to dwelling?</p>
+                     <p>We attain to dwelling, so it seems, only by means of building. The latter, building, has the former, dwelling, as its goal. Still, not every building</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>The A Priori Foundation of Communication and the Foundation of the Humanities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Apel</surname>
+                           <given-names>Karl-Otto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>(What sort of relation between science and the humanities should be postulated within the context of contemporary society?)</p>
+                     <p>I do not believe that the question concerning the relation between science and the humanities is any more settled, or more clearly established, today than when it was brought to the fore in the days of Dilthey and Neo-Kantianism. It is true that, from time to time, speakers at congresses affirm that the old controversy between understanding and explanation has been overcome and rendered obsolete. And their audience may applaud their appeal not to split the unity of science, not to re-establish</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The Subject and Power</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Foucault</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>285</fpage>
+                  <abstract>
+                     <p>The ideas which I would like to discuss here represent neither a theory nor a methodology.</p>
+                     <p>I would like to say, first of all, what has been the goal of my work during the last twenty years. It has not been to analyze the phenomena of power, nor to elaborate the foundations of such an analysis.</p>
+                     <p>My objective, instead, has been to create a history of the different modes by which, in our culture, human beings are made subjects. My work has dealt with three modes of objectification, which transform human beings into subjects.</p>
+                     <p>The first is the modes of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>An Eye at the Edge of Discourse</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Malabou</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>I’d like to talk about a strange state of vision:<italic>the vision of thought</italic>. What is it to<italic>see</italic>a thought? To see a thought coming? To be present at its emergence, at the moment when it is still no more than a promise, plan, or sketch, but is already strong enough to live? What is it to see before writing, when a brand-new thought can already be apprehended sensibly, sensually, like a body? How should we approach that strange state of half-carnal, half-intelligible vision that oversees the torments of the text even as it establishes the suspended spatial presence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Philosophical Investigations</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wittgenstein</surname>
+                           <given-names>Ludwig</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>315</fpage>
+                  <abstract>
+                     <p>1. “Cum ipsi (majores homines) appellabant rem aliquam, et cum secundum eam vocem corpus ad aliquid movebant, videbam, et tenebam hoc ab eis vocari rem illam, quod sonabant, cum eam vellent ostendere. Hoc autem eos velle ex motu corporis aperiebatur: tamquam verbis naturalibus omnium gentium, quae fiunt vultu et nutu oculorum, ceterorumque membrorum actu, et sonitu vocis indicante affectionem animi in petendis, habendis, rejiciendis, fugiendisve rebus. Ita verba in variis sententiis locis suis posita, et crebro audita, quarum rerum signa essent, paulatim colligebam, measque jam voluntates, edomito in eis signis ore, per haec enuntiabam.” (Augustine,<italic>Confessions</italic>, I. 8.)¹</p>
+                     <p>These words, it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Premises</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hamacher</surname>
+                           <given-names>Werner</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>335</fpage>
+                  <abstract>
+                     <p>Understanding is in want of understanding.</p>
+                     <p>The thoughts pursued here cannot be summarized in this proposition concerning understanding without encountering resistance—not in this proposition nor in the three or four sentences into which it can be analyzed and expanded.</p>
+                     <p>That understanding is in want of understanding—a proposition to be read as the principle of understanding, as an announcement or summation, as a demand or complaint—will not have said anything about understanding unless it itself is understood, and unless it is understood that this proposition speaks also of the impossibility of understanding and thus the impossibility of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Signature Event Context</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Derrida</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>369</fpage>
+                  <abstract>
+                     <p>Is it certain that there corresponds to the word<italic>communication</italic>a unique, univocal concept, a concept that can be rigorously grasped and transmitted: a communicable concept? Following a strange figure of discourse, one first must ask whether the word or signifier “communication” communicates a determined content, an identifiable meaning, a describable value. But in order to articulate and to propose this question, I already had to anticipate the meaning of the word<italic>communication</italic>: I have had to predetermine communication as the vehicle, transport, or site of passage of a<italic>meaning</italic>, and of a meaning that is<italic>one</italic>. If<italic>communication</italic>had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Eighth Series of Structure | Twenty-Fourth Series of the Communication of Events | Twenty-Sixth Series of Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deleuze</surname>
+                           <given-names>Gilles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>391</fpage>
+                  <abstract>
+                     <p>Lévi-Strauss has indicated a paradox in the form of an antinomy, which is similar to Lacan’s paradox: two series being given, one signifying and the other signified, the first presents an excess and the latter a lack. By means of this excess and this lack, the series refer to each other in eternal disequilibrium and in perpetual displacement. As the hero of<italic>Cosmos</italic>says, there are always too many signifying signs. The primordial signifier is of the order of language. In whatever manner language is acquired, the elements of language must have been given all together, all at once, since</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>Ethics as First Philosophy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Levinas</surname>
+                           <given-names>Emmanuel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>407</fpage>
+                  <abstract>
+                     <p>The correlation between<italic>knowledge</italic>, understood as disinterested contemplation, and<italic>being</italic>, is, according to our philosophical tradition, the very site of intelligibility, the occurrence of meaning (<italic>sens</italic>). The comprehension of being—the semantics of this verb—would thus be the very possibility of or the occasion for wisdom and the wise and, as such, is<italic>first philosophy</italic>. The intellectual, and even spiritual life, of the West, through the priority it gives to knowledge identified with Spirit, demonstrates its fidelity to the first philosophy of Aristotle, whether one interprets the latter according to the ontology of book Γ of the<italic>Metaphysics</italic>or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>Subjectivity in Language</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benveniste</surname>
+                           <given-names>Emile</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>419</fpage>
+                  <abstract>
+                     <p>If language is, as they say, the instrument of communication, to what does it owe this property? The question may cause surprise, as does everything that seems to challenge an obvious fact, but it is sometimes useful to require proof of the obvious. Two answers come to mind. The one would be that language is<italic>in fact</italic>employed as the instrument of communication, probably because men have not found a better or more effective way in which to communicate. This amounts to stating what one wishes to understand. One might also think of replying that language has such qualities as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.27</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>Formula of Communication</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lacan</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>427</fpage>
+                  <abstract>
+                     <p>We always come back, then, to our twofold reference to speech and language. In order to free the subject’s speech, we introduce him to the language of his desire, that is, to the<italic>primary language</italic>in which—beyond what he tells us of himself—he is already speaking to us unbeknown to himself, first and foremost, in the symbols of his symptom.</p>
+                     <p>It is certainly a language that is at stake in the symbolism brought to light in analysis. This language, corresponding to the playful wish found in one of Lichtenberg’s aphorisms, has the universal character of a tongue that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.28</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>The Instance of the Letter in the Unconscious, or Reason since Freud</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lacan</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>435</fpage>
+                  <abstract>
+                     <p>While the theme of the third volume of<italic>La Psychanalyse</italic>² commissioned this contribution by me, I owe this deference to what will be discovered here by introducing it in situating it between writing and speech—it will be halfway between the two.</p>
+                     <p>Writing is in fact distinguished by a prevalence of the<italic>text</italic>in the sense that we will see this factor of discourse take on here—which allows for the kind of tightening up that must, to my taste, leave the reader no other way out than the way in, which I prefer to be difficult. This, then, will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.29</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>Differance</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Derrida</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>463</fpage>
+                  <abstract>
+                     <p>The verb “to differ” [<italic>différer</italic>] seems to differ from itself. On the one hand, it indicates difference as distinction, inequality, or discernibility; on the other, it expresses the interposition of delay, the interval of a<italic>spacing</italic>and<italic>temporalizing</italic>that puts off until “later” what is presently denied, the possible that is presently impossible. Sometimes the<italic>different</italic>and sometimes the<italic>deferred</italic>correspond [in French] to the verb “to differ.” This correlation, however, is not simply one between act and object, cause and effect, or primordial and derived.</p>
+                     <p>In the one case “to differ” signifies nonidentity; in the other case it signifies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.30</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>The Fetishism of the Commodity and Its Secret | The Process of Exchange</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marx</surname>
+                           <given-names>Karl</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>489</fpage>
+                  <abstract>
+                     <p>A commodity appears at first sight an extremely obvious, trivial thing. But its analysis brings out that it is a very strange thing, abounding in metaphysical subtleties and theological niceties. So far as it is a use-value, there is nothing mysterious about it, whether we consider it from the point of view that by its properties it satisfies human needs, or that it first takes on these properties as the product of human labour. It is absolutely clear that, by his activity, man changes the forms of the materials of nature in such a way as to make them useful</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.31</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>The Reason of the Gift</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marion</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>509</fpage>
+                  <abstract>
+                     <p>We give without account. We give without accounting, in every sense of the word. First, because we give<italic>without ceasing</italic>. We give in the same way we breathe, every moment, in every circumstance, from morning until evening. Not a single day passes without our having given, in one form or another, something to someone, even if we rarely, if ever, “give everything.”¹ Also, we give without keeping account,<italic>without measure</italic>, because giving implies that one gives at a loss, or at least without taking into account either one’s time or one’s efforts: one simply does not keep account of what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.32</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>The Madness of Economic Reason:</title>
+                     <subtitle>A Gift without Present</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Derrida</surname>
+                           <given-names>Jacques</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>539</fpage>
+                  <abstract>
+                     <p>At the same time we are thinking the impossible, and it is at the same time.</p>
+                     <p>What does “at the same time” mean to say? Where could one ever place oneself in order to say “at the same time”? And to say what is meant, for example in some language or another, by “at the same time”?</p>
+                     <p>It is as if we were looking for complications, for<italic>midi à quatorze heures</italic>as we say in French, literally, for noon at two o’clock, and as if we wanted to show that we were given to, and even gifted at, tracking the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.33</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>Something Like:</title>
+                     <subtitle>ʺCommunication … without Communicationʺ</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lyotard</surname>
+                           <given-names>Jean-Francois</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>567</fpage>
+                  <abstract>
+                     <p>With a view to dramatizing the question laid down, “Art and Communication,” I would just like to recall the regime of representation which is proper, or which has been thought proper, at least since Kant, to aesthetic reception; and, in order to pick out this regime, I will just quote two sentences, aphorisms, which appear to contradict one another perfectly:</p>
+                     <p>No work of art should be described or explained through the categories of communication.</p>
+                     <p>One could even define taste as the faculty of judging what renders our feeling, proceeding from a given representation, universally<italic>communicable</italic>without the mediation of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.34</book-part-id>
+                  <title-group>
+                     <label>29</label>
+                     <title>Of Being Singular Plural</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nancy</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>577</fpage>
+                  <abstract>
+                     <p>We say “people are strange.”¹ This phrase is one of our most constant and rudimentary ontological attestations. In fact, it says a great deal. “People” indicates everyone else, designated as the indeterminate ensemble of populations, lineages, or races [<italic>gentes</italic>] from which the speaker removes himself. (Nevertheless, he removes himself in a very particular sort of way, because the designation is so general—and this is exactly the point—that it inevitably turns back around on the speaker. Since I say that “people are strange,” I include myself in a certain way in this strangeness.)</p>
+                     <p>The word “people” does not say</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.35</book-part-id>
+                  <title-group>
+                     <label>30</label>
+                     <title>The Paradox of Sovereignty | Form of Law | The Ban and the Wolf</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Agamben</surname>
+                           <given-names>Giorgio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>601</fpage>
+                  <abstract>
+                     <p>1.1. The paradox of sovereignty consists in the fact the sovereign is, at the same time, outside and inside the juridical order. If the sovereign is truly the one to whom the juridical order grants the power of proclaiming a state of exception and, therefore, of suspending the order’s own validity, then “the sovereign stands outside the juridical order and, nevertheless, belongs to it, since it is up to him to decide if the constitution is to be suspended<italic>in toto</italic>” (Schmitt,<italic>Politische Theologie</italic>, p. 13). The specification that the sovereign is “<italic>at the same time</italic>outside and inside the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.36</book-part-id>
+                  <title-group>
+                     <label>31</label>
+                     <title>Becoming-Media:</title>
+                     <subtitle>Galileoʹs Telescope</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vogl</surname>
+                           <given-names>Joseph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>627</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Medium</italic>means middle and in the middle, mediation and mediator; it calls for a closer questioning of the role, workings, and materials of this “in-between.” Media studies’ field of inquiry is quite rightly a broad one, stretching from prehistoric registers of the tides and stars to the ubiquitous contemporary mass media, encompassing physical transmitters (such as air and light), as well as schemes of notation, whether hieroglyphic, phonetic, or alphanumeric. It includes technologies and artifacts like electrification, the telescope, or the gramophone alongside symbolic forms and spatial representations such as perspective, theater, or literature as a whole. However, the very</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.37</book-part-id>
+                  <title-group>
+                     <label>32</label>
+                     <title>Actio in Distans:</title>
+                     <subtitle>On Forms of Telerational World-Making</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sloterdijk</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>635</fpage>
+                  <abstract>
+                     <p>The crisis of the philosophical<italic>epoché</italic>is the defining characteristic of the present age. Orientation in complex realities has become extremely difficult; in the turbulence of contemporary life, it is hard to perform Husserl’s basic philosophical operation—stepping back from the image of reality while bracketing one’s own existential intentions—with any degree of conviction. This experience is not entirely new: in<italic>One-Way Street</italic>, written between the two world wars, Walter Benjamin already bade farewell to illusions of adequate distance:</p>
+                     <p>Fools lament the decay of criticism. For its day is long past. Criticism is a matter of correct distancing. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5hhcqm.38</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>649</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,832 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt175x2ht</book-id>
+      <subj-group>
+         <subject content-type="call-number">BX1793.D38 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Democracy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Religious aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Catholic Church</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Christianity and culture</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Democracy, Culture, Catholicism: Voices from Four Continents</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Schuck</surname>
+               <given-names>Michael J.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Crowley-Buck</surname>
+               <given-names>John</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>11</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823267309</isbn>
+      <isbn content-type="epub">9780823267330</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt175x2ht"/>
+      <abstract abstract-type="short">
+         <p>Compiling scholarly essays from a unique three-year Democracy, Culture and Catholicism International Research Project, Democracy, Culture, Catholicism richly articulates the diverse and dynamic interplay of democracy, culture, and Catholicism in the contemporary world. The twenty-five essays from four extremely diverse cultures--those of Indonesia, Lithuania, Peru, and the United States--explore the relationship between democracy and Catholicism from several perspectives, including historical and cultural analysis, political theory and conflict resolution, social movements and Catholic social thought.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schuck</surname>
+                           <given-names>Michael J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This volume is the result of the Democracy, Culture, and Catholicism International Research Project (DCCIRP), a three-year project led by the Joan and Bill Hank Center for the Catholic Intellectual Heritage at Loyola University Chicago. The twenty-three chapters in this volume explore dynamic relationships between democracy, culture, and Catholicism in the modern world. The volume pays special attention to the shifting interplay between these features of life in four diverse countries: Lithuania, Indonesia, Peru, and the United States. Why explore these three features and why focus on these four countries?</p>
+                     <p>As part of its mission to encourage new scholarship in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.4</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>When looking at the relationships between democracy, culture, and Catholicism within the Lithuanian context, what immediately comes to the fore are interactions characterized by trauma, distrust, and tragedy. The origins of this bleak picture can be traced back to Lithuania’s history, to the decades this nation and its people spent alternating under the rule of Soviet, Nazi, and (again) Soviet occupation. The themes of trauma and distrust come out clearly in the chapters included in this section. The concepts of democracy, culture, and Catholicism, so foundational to the objectives of this book, remain indeterminate in the Lithuanian context. This is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.5</book-part-id>
+                  <title-group>
+                     <title>Democracy and Catholicism in Twentieth-Century Lithuania</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Streikus</surname>
+                           <given-names>Arūnas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Lithuania, like many other countries of Eastern Europe, has a very complicated story of democratization during the twentieth century. It is the story of a people who underwent staggering shifts from national independence to German occupation to horrifying Soviet oppression to reacquired freedom in less than one hundred years. The following overview divides this stunning narrative into four periods: 1905–1926, 1927–1939, 1940–1969, and 1970–1990.</p>
+                     <p>After the collapse of the Russian Empire in 1918, Lithuania began its first modern experiment in democratic governance. This involved efforts at free elections, proportional representation, a strong legislative branch, and a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.6</book-part-id>
+                  <title-group>
+                     <title>A Theological Reading of the Lithuanian Church during the Soviet Period:</title>
+                     <subtitle>Martyria, Koinonia, Diakonia, and Leiturgia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Šimkunas</surname>
+                           <given-names>Vidmantas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>One way to understand the Roman Catholic Church in Lithuania during the period of Soviet oppression is through a historical-theological lens. This approach begins with the position, restated in the Second Vatican Council document<italic>Lumen Gentium</italic>, that the Church is not just a social institution but also “a kind of sacrament or sign of intimate union with God, and of the unity of all humankind.” Because the Church lives this sacramentality in history, a full interpretation of that life must be sensitive to both the historical and the theological dimensions of its existence.</p>
+                     <p>This chapter interprets the historical life of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.7</book-part-id>
+                  <title-group>
+                     <title>Traumatized Society, Democracy, and Religious Faith:</title>
+                     <subtitle>The Lithuanian Experience</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gailienė</surname>
+                           <given-names>Danutė</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>Severe traumatization has a deep and long-lasting impact on individuals and societies. In societies that have experienced mass political, economic, and cultural crises, the effects of trauma remain even after the crises have abated. Today, more than twenty years after regaining democratic independence, the people of Lithuania are still experiencing the traumatic effects of successive occupations of their country by the Soviet Union in 1940, Nazi Germany between 1941 and 1944, and the Soviet Union from 1944 to 1990. One might argue that Lithuania’s efforts at building democracy have been hampered by the effects of social trauma.</p>
+                     <p>Why does this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.8</book-part-id>
+                  <title-group>
+                     <title>Christianity and Politics in Post-Soviet Lithuania:</title>
+                     <subtitle>Between Totalitarian Experience and Democracy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Putinaitė</surname>
+                           <given-names>Nerija</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>Stereotypes about Christianity and attitudes of Christians toward public action were engrained into the minds of Lithuanian people during the Soviet regime and are evident in contemporary Lithuania. As clearly outlined in the chapters by Streikus and Šimkunas, the Soviet ideological apparatus sought to annihilate the influence of Christianity from the lives of people. From the beginning of the Soviet occupation of Lithuania in 1940–1941, and especially from 1944 until Stalin’s death in 1953, the Christian churches in Lithuania were brutally attacked as “the biggest obstacle to the smooth sovietisation of the occupied country.”¹ Many priests were deported, parishioners</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.9</book-part-id>
+                  <title-group>
+                     <title>Montaigne, Julian, and “Others”:</title>
+                     <subtitle>The Quest for Peaceful Coexistence in Public Space</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Posner</surname>
+                           <given-names>David M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>In his brief essay “De la liberté de conscience,”¹ Michel de Montaigne (1533–1592) holds up as his hero the fourth-century Roman emperor Julian, surnamed by later (hostile) generations the Apostate. Julian (331–361/363 ce) was so labeled for having abandoned, upon becoming emperor, the Christian faith in which he was raised, and further for restoring paganism to the empire, thereby disestablishing Christianity as the empire’s official religion. This caused Saint Augustine to make of Julian one of the principal villains in his<italic>City of God</italic>, a view that subsequent church fathers and other Catholic thinkers were only too happy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.10</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>What profoundly marks Catholicism’s relationship to democracy and culture in Indonesia is the fact that Catholics are a minority in a majority Muslim country. Yet, given the profound commitment of Indonesians to the principles of democracy, Catholics have often found themselves at the table of political and civic discourse and involved in the processes of democratization. Nevertheless, the contributions Catholics have made to Indonesian society and government have always remained in the shadow of their minority status. Because of this status, Indonesian Catholics struggle to find their voice and to come to terms with the reality of precisely how effective</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.11</book-part-id>
+                  <title-group>
+                     <title>Catholics in Indonesia and the Struggle for Democracy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wardaya</surname>
+                           <given-names>Baskara T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Colonized for over 150 years and gaining independence only after World War II, Indonesia is relatively new to the idea and practice of democracy. In the first two decades of Indonesian independence, democracy was difficult to put into practice because the country was undergoing a transitional period from being a colonial territory to an independent nation. Under the threat of domestic rebellion and the impact of the Cold War, Indonesia tried to democratize, but it never fully succeeded.</p>
+                     <p>Beginning in the mid-1960s, Indonesia was ruled by an authoritarian government that paid only lip service to democracy. This facade was used</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.12</book-part-id>
+                  <title-group>
+                     <title>Musyawarah and Democratic Lay Catholic Leadership in Indonesia:</title>
+                     <subtitle>The Ongoing Legacy of John Dijkstra, SJ, and Ikatan Petani Pancasila</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Priyotamtama</surname>
+                           <given-names>Paulus Wiryono</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>The postcolonial Indonesian farmers organization Ikatan Petani Pancasila was founded in 1954 by the Jesuit priest John Baptista Dijkstra, SJ.¹ From this organization was born Bina Swadaya, a rural community development institution which became the largest NGO in Indonesia. The key figure in the development of Bina Swadaya was Bambang Ismawan.² Since their respective beginnings, Ikatan Petani Pancasila and Bina Swadaya have trained lay Catholics to build democratic processes and structures into social movements under the inspiration of the philosophy of<italic>musyawarah</italic>(mutual dialogue). In order to develop a long-term strategy of Catholic lay formation in democratic leadership, it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.13</book-part-id>
+                  <title-group>
+                     <title>The Influence of Catholic Social Teaching on the Democratic Practice of Corporate Social Responsibility:</title>
+                     <subtitle>A Study from Indonesia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yudianti</surname>
+                           <given-names>Francisca Ninik</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>110</fpage>
+                  <abstract>
+                     <p>Corporate Social Responsibility (CSR) is driven by the idea that businesses are part of society and therefore ought to contribute positively to social conditions and goals. Some of these conditions and goals include the democratic principles of respect for human rights, the rule of law, and transparent decision-making. CSR proponents argue that businesses should be held accountable not only for their economic impact on society but also for the other non-economic consequences of their activities on society and the natural environment.¹ There is growing pressure on businesses to respect human rights and the rule of law wherever they operate, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.14</book-part-id>
+                  <title-group>
+                     <title>The Performing Art of Kethoprak and the Democratic “Power to Will” in Indonesia</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Susanto</surname>
+                           <given-names>Albertus Budi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Since the fall of the thirty-year military regime of President Suharto in May 1998, Indonesia had been widely considered the largest democracy in the world. Twelve years later, the 2010 Economist Intelligence Unit’s Democracy Index, however, only ranked Indonesia sixtieth out of 167 countries with a “flawed democracy.”¹ The ranking was based on five categories: electoral processes and pluralism, the functioning of government, political participation, political culture, and civil liberties.</p>
+                     <p>The ranking invites the question: How can Indonesia reverse this decline in democratization? Are there indigenous Indonesian traditions that can assist democratization? Paulus Wiryono Priyotamtama has pointed out the importance</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.15</book-part-id>
+                  <title-group>
+                     <title>Alter/native Democracies:</title>
+                     <subtitle>Muslim and Catholic Negotiations of Culture, Religion, and Citizenship in the Twenty-First Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hermansen</surname>
+                           <given-names>Marcia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>In June 2009, Pope Benedict XVI issued an encyclical letter entitled<italic>Caritas in veritate</italic>. This letter was directed to Christians and all those interested in seriously engaging questions regarding democracy, justice, and development in the modern world. The pontiff concluded by stating that in our times democracy offers the best political system for providing justice and freedom.¹</p>
+                     <p>In many modern democratic nations where Catholics live together with Muslims in majority/minority relationships, challenges to justice and equality persist and are addressed constitutionally in a variety of ways. However, both older and newer issues that challenge the ability of democratic processes to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.16</book-part-id>
+                  <title-group>
+                     <title>Comparative Insights Regarding Religion and Democracy in a Muslim Context</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Powell</surname>
+                           <given-names>Russell</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Considering the role of democracy in the United States, Peru, Lithuania, and Indonesia presents opportunities for comparing the influence of culture and dominant religion on the development of political and legal systems. In particular, it invites inquiry into similarities and distinctions between predominantly Muslim societies and predominantly Christian or Catholic societies in their approaches to democracy. Examining the role of Islam in Turkish law and politics as a comparative example, this chapter explores approaches to reconciling religious identity with legal secularism (the mechanism states use to insulate themselves from religious influence) in liberal democracies.</p>
+                     <p>Some liberal political philosophers presume that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.17</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>Of the four countries represented in this book, Peru is the most predominantly Catholic. What this means is that Peru represents some of the most established, yet complex, sets of relationships between democracy, culture, and Catholicism surveyed in this book. The Church’s presence is seen and felt on all social and political levels. This means that the Catholic Church has, at one time or another, stood alongside opposing forces in Peru’s continuing process of social and political democratization. The themes that run throughout the chapters in this section are the themes of power and authority: Who has it? Who should</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.18</book-part-id>
+                  <title-group>
+                     <title>The Relationship of Patronage and Legitimacy between the Catholic Church and the Peruvian State</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beltrán</surname>
+                           <given-names>María Soledad Escalante</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>The goal of this chapter is to offer a brief overview of the relationship between the Roman Catholic Church and the Peruvian state in the modern era. This will include a discussion of church-state relations prior to the Second Vatican Council of the Roman Catholic Church (1962–1965) and an analysis of two key periods during and after the Council: 1958–1977 and 1978–1980. This complex history is discussed using the interpretive lenses of “legitimacy” and “patronage.”</p>
+                     <p>Before the Second Vatican Council, it was a common theological and philosophical approach in Roman Catholicism to refer to the Church as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.19</book-part-id>
+                  <title-group>
+                     <title>Catholicism and the Struggle for Memory:</title>
+                     <subtitle>Reflections on Peru</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gehri</surname>
+                           <given-names>Gonzalo Gamio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>The work of memory is an ethical act. Among its foci can be the recollection of violence. In 2001, a truth and reconciliation commission, or Comisión de la Verdad y Reconciliación (CVR), was established by the transitional government of Valentín Paniagua to examine atrocities committed during the 1980s and 1990s, when Peru was plagued by the worst violence in its history. The CVR was given a two-year term to produce a rigorous research on the violence. The final report was completed and published in 2003.</p>
+                     <p>The CVR is a rich but shocking place to investigate the condition, roles, and relationships</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.20</book-part-id>
+                  <title-group>
+                     <title>The Catholic Church, Indigenous Rights, and the Environment in the Peruvian Amazon Region</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Espinosa</surname>
+                           <given-names>Oscar A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>In recent years, there have been signs of a renewed and more intimate relationship between the Catholic Church and the indigenous movement in the Amazon region of Peru. After almost two decades of little public activity, the Amazonian bishops have explicitly expressed their concern for, and solidarity with, the claims of indigenous persons to both their land and rights.</p>
+                     <p>This chapter examines the public declarations of the Amazonian bishops in defense of indigenous rights and the environment. These declarations evolved in a new historical context in Peru marked by two opposing forces: the aggressive expansion of large enterprises in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.21</book-part-id>
+                  <title-group>
+                     <title>Religion as a Political Factor in Latin America:</title>
+                     <subtitle>The Peruvian Case</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Trelles</surname>
+                           <given-names>Jorge Aragón</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>Research conducted in some Latin American countries has shown the existence of connections between self-reported levels of religious devoutness, church attendance, and specific political attitudes and orientations (e.g., trust in the government or satisfaction with the democracy). In light of this, the goal sought in this chapter is twofold. First, to contribute to a better understanding of the way religion can be considered as a political factor in Latin America. Second, through analyzing public opinion data, to provide an initial answer to the question as to whether Peru is a country where some religious beliefs and practices are associated with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.22</book-part-id>
+                  <title-group>
+                     <title>The Catholic Church and the Leftist Populist Regimes of Latin America:</title>
+                     <subtitle>Venezuela, Ecuador, and Bolivia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Klaiber</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>After Latin America returned to democracy in the 1980s, the Catholic Church faded as a subject of academic research interest. Many specialists turned to the new topic of evangelical growth. However, the Catholic Church did not disappear and it continued to wield much influence, especially on the grassroots level. In this regard, it is interesting to note that in public opinion polls the Catholic Church continues to receive the highest rating as the institution in which most people have confidence.¹</p>
+                     <p>A striking example of this is the Church’s emergence in Cuba as the acceptable mediator between the regime and civil</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.23</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>What greatly marks the relationships between democracy, culture, and Catholicism in the United States are the particular political and theological contexts from which the identity of US citizens emerged. The republic was established on the principles of democracy, and its culture was greatly affected and influenced by the prominent place enjoyed by Protestant Christianity among the people. Catholicism was an “outsider” religion that was not to be trusted and, worse, appeared to be completely incompatible with the political and cultural milieu of the nation. What the authors in this section seek to illustrate is the positive role Catholicism has played</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.24</book-part-id>
+                  <title-group>
+                     <title>Roman Catholic Sisters and the Cultivation of Citizenship in the United States:</title>
+                     <subtitle>Rich and Contentious Legacies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>Bren Ortega</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>In 2009, an extraordinary exhibit started touring the United States. What made this exhibit so remarkable was that it was telling a story to the US public about an important part of their history that few had heard before.<italic>Women and Spirit: Catholic Sisters in America</italic>presented the complex, compelling story of what Catholic sisters have contributed and continue to contribute to the lives of not just Catholic Americans but all Americans. Working in education, health care, social work, disaster relief, immigration aid, and numerous other fields, Catholic sisters built remarkable institutions and formed democratic citizens.</p>
+                     <p>Roman Catholic women religious</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.25</book-part-id>
+                  <title-group>
+                     <title>“First Be Reconciled”:</title>
+                     <subtitle>Restorative Justice and Deliberative Democracy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Neill</surname>
+                           <given-names>William R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>So wrote Dorothy Day, founder of the Catholic Worker Movement, in December 1945. But seeing “these least” remains a hard grace for a society so given to incarcerating its own. As Robert Bolt reminds us in his play,<italic>A Man for All Seasons</italic>, our perceptions invariably betray our “moral squints,” our tacit beliefs or prejudices.¹ This chapter first considers the ethical implications of mass incarceration in the United States from the prevailing “moral squint” of retributive justice. It then explores an alternative view from the rich, yet contested perspective of restorative justice in deliberative democracy. The chapter concludes by assessing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.26</book-part-id>
+                  <title-group>
+                     <title>Access to Information:</title>
+                     <subtitle>Citizenship, Representative Democracy, and Catholic Social Thought</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sullivan</surname>
+                           <given-names>Barry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>No government can operate entirely in the round. Some amount of secrecy is both necessary and inevitable.¹ But secrecy is fundamentally an affront to representative democracy, and it always exacts a cost. Secrecy engenders distrust, frustrates accountability, encourages arbitrary action, compromises the value of citizen participation, and disrespects human dignity. Secrecy also adds to the sense that government is distant and unresponsive. Institutions practice secrecy at their peril, yet many yield to its siren song. Institutions practice secrecy to various degrees and for various reasons: sometimes leaders or others have something terrible to hide, but often it simply seems easier</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.27</book-part-id>
+                  <title-group>
+                     <title>Foundations of Human Rights:</title>
+                     <subtitle>The Work of Francisco de Vitoria, OP</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Araujo</surname>
+                           <given-names>Robert John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>To the extent that our modern understanding of democracy includes respect for human rights, a debt is owed to Francisco de Vitoria, OP, a sixteenth-century Dominican priest who made an important but often unrecognized contribution to the advancement of human rights. This chapter examines de Vitoria’s contribution and, by extension, the importance of the Catholic intellectual tradition to human rights theory then and now. Underlying this chapter is a question raised by the Second Vatican Council’s Pastoral Constitution on the Church in the Modern World (<italic>Gaudium et spes</italic>):<italic>quid est homo</italic>? What is man? What is the human person?¹ The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.28</book-part-id>
+                  <title-group>
+                     <title>[Introduction]</title>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>Any foray into the relationship between democracy, culture, and Catholicism calls for critical reflection on two interrelated questions: first, what exactly do we mean by the terms “democracy,” “culture,” and “Catholicism,” and, second, what foundation(s) can we provide for their alleged relationality. The final section of this volume attempts a response to these questions by turning to the notion of praxis. A praxis-oriented approach is one that combines the theoretical and the practical, so that they may mutually inform and correct each other in the dialectical process of deliberation. Theory without practice is ineffective; practice without theory is irresponsible. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.29</book-part-id>
+                  <title-group>
+                     <title>Rendering unto Caesar?</title>
+                     <subtitle>State Regulation of Religion and the Role of Catholicism in Democratic Transitions and Consolidation in Predominantly Catholic Countries</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schraeder</surname>
+                           <given-names>Peter J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>297</fpage>
+                  <abstract>
+                     <p>Observers of the complex relationship between church and state have noted throughout history that religious activity seems greater where religion is more free from state regulation.¹ Yet it is only recently that social scientists began systematically working out the mechanisms by which varying levels of church-state separation have contributed to enhanced religious vitality and religiously based political activism, most notably in support for transitions toward democracy. Indeed, the last quarter century has been marked by an increase in scholarship exploring the role and compatibility of various religious traditions with the spread and consolidation of democratic practices. Such research has included</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.30</book-part-id>
+                  <title-group>
+                     <title>Civil Discourse and Religion in Transitional Democracies:</title>
+                     <subtitle>The Cases of Lithuania, Peru, and Indonesia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ingram</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>310</fpage>
+                  <abstract>
+                     <p>On January 19, 2004, world-renowned German political theorist Jürgen Habermas met with Cardinal Joseph Ratzinger (later Pope Benedict XVI) to discuss religion as one of the cultural foundations of the democratic state.¹ Two points of convergence emerged from their discussion. First, both agreed that reason alone cannot sustain respect for individual dignity and the common good without more substantive faith commitments. Second, they agreed that these values, however complementary they might be philosophically, are difficult to harmonize in practice. Agreeing on policies that respect the right of each to pursue his or her own conception of the good appears all</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.31</book-part-id>
+                  <title-group>
+                     <title>Epilogue on Democracy, Culture, Catholicism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schuck</surname>
+                           <given-names>Michael J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>In the<italic>Nichomachean Ethics</italic>, Aristotle famously defined the human being as a<italic>zoon politikon</italic>, a political animal. Small wonder, then, that group endeavors often reap rewards. For scholars, such rewards include the satisfaction of exploring ideas with new colleagues. Again, from Aristotle: “The whole is more than the sum of its parts.”¹ As a collection of chapters by new acquaintances from very different cultures, this volume’s emergent whole presents an intriguing montage. Like any montage, there are pieces present and pieces absent. This epilogue considers both.</p>
+                     <p>One piece present within many chapters of this volume is social suffering. This is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.32</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>337</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.33</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>339</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt175x2ht.34</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>342</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

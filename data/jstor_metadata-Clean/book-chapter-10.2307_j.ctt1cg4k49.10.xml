@@ -1,0 +1,230 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cg4k49</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Principalities and Powers</book-title>
+         <subtitle>Revising John Howard Yoder’s Sociological Theology</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Pitts</surname>
+               <given-names>Jamie</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>10</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780718893316</isbn>
+      <isbn content-type="epub">9780718842161</isbn>
+      <publisher>
+         <publisher-name>The Lutterworth Press</publisher-name>
+         <publisher-loc>Cambridge, United Kingdom</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Jamie Pitts</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cg4k49"/>
+      <abstract abstract-type="short">
+         <p>The present book is an attempt to grapple with Yoder’s critics in order to decide how to move forward with a revised “Yoderian" theology. Pitts suggests how that revision should be accomplished by first providing an overview of the current state of Yoder scholarship and this book’s place within it; then proposing an argument that Yoder’s theology can profitably read as a “sociological theology" that exhibits reductive tendencies, but which can be revised to be non-reductive; and finally offering an outline and justification of the proposed method of revision, which involves putting Yoder’s theology of the principalities and powers into conversation with the reflexive sociology of Pierre Bourdieu.</p>
+      </abstract>
+      <counts>
+         <page-count count="266"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>iv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.5</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xxi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+                  <abstract>
+                     <p>Glen Stassen tells a story about the time he approached John Howard Yoder after a session at the Society of Christian Ethics. Noting that many of the papers bore the mark of his friend’s thought, Stassen said, “Your influence is really spreading.” Yoder’s simple response: “Not mine. Jesus.’”¹</p>
+                     <p>Whatever one thinks about the accuracy, not to mention the humility, of this response, there is little doubt that Yoder’s Jesus-centered writings have gained a wide readership. Since 1999, four special journal issues, six monographs, and six collections of essays have focused on his life and thought,² and there is a steady</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Revising Yoderʹs Theology of Creation</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>One of the persistent criticisms of John Howard Yoder is the insufficiency of his doctrine of creation. Both friends and foes of his Anabaptist approach worry that he places so much emphasis on the redemptive and eschatological work of Jesus in overcoming the fall that he denies the present goodness of creation. As Yoder himself put it in an early discussion of the powers, after the fall “we have no access to the good creation of God.”¹ Others indicate that his exclusive interest in the socio-political dimensions of Jesus’ ministry blinds him to personal and spiritual aspects of created humanity.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Revising Yoderʹs Theological Anthropology</title>
+                  </title-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>John Howard Yoder frequently described his basic outlook as that of a “free church” theologian.¹ Anabaptist convictions about the meaning of Christian discipleship led to the rejection of infant baptism, the separation of church and state, and the elevation of a scripture-centered community ethic above doctrine as a principle of unity.² In each case, the impetus to free the church from identification with the civil community was derived from a command of Christ as recorded in the New Testament: baptize believers (Matt 18; Mark 16); do not take up the sword or otherwise resist evil (Matt 5:39); order your community</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Revising Yoderʹs Theology of Violence</title>
+                  </title-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>The social and spiritual context of human beings suggests that the refusal of grace, as much as its acceptance, is not just an inner or individual phenomenon. Yoder’s sociological theology unsurprisingly casts sin in broad structural and cosmic terms. The powers are fallen, meaning, the created social structures are now badly malformed. God’s intended peaceful order has been disrupted and violence is the norm. As a Christian pacifist, Yoder was concerned to expose how violence is implicated in the everyday language and practices of Christians. Some critics argue that he was so focused on violence that he lost sight of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Revising Yoderʹs Theological Method</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>The powers’ dynamic autonomization never escapes the grip of providence. The fallen powers are created powers. As neither wholly good, nor wholly evil, the shape of the powers must be discerned. Yoder’s theological method privileges a form of discernment rooted in the practical encounter between specific Christian communities and specific powers. Discernment is ultimately a function of mission. Theologians’ contribution to this mission is limited, according to Yoder, yet indispensable for the discernment process. The theologian’s gifts of linguistic analysis and scriptural and historical memory are useful because they facilitate a comparison of the powers with the way of Jesus.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Revising Yoderʹs Ecclesial Politics</title>
+                  </title-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Alongside his christocentric pacifism, Yoder is perhaps best known for posing the church as an alternative political body to the nation state. In imitation of the politics of Jesus, Christian communities are to share goods, welcome the excluded, and practice reconciliation, servant leadership, and the priesthood of believers.¹ When it does these things, the church becomes “a proclamation of the lordship of Christ to the powers from whose dominion the church has begun to be liberated.”² Through faithfulness to its master, not compromise, the church fulfills its call “to contribute to the creation of structures more worthy of human society.”³</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Revising Yoderʹs Theology of Christian Particularity</title>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>At the center of John Howard Yoder’s theology of the principalities and powers is the conviction that Jesus Christ was crucified and then raised from the dead and made lord of the cosmos. Christ’s lordship is universal, knowing no bounds and hindered by no opposing powers. Hence, even in their continuing rebellion, the powers are instruments of divine order. This instrumentalization of the powers denies them their autonomy, and is part of their redemptive subordination. The church participates in the redemption of the powers through intense relating to the triune God, relating that is especially empowered by the present Holy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.13</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>This book has been a sustained attempt to revise John Howard Yoder’s sociological theology so that it might better avoid charges of reducing theology to sociology, method to ideology, and expansive Christian witness to narrow socio-political perfectionism. Pierre Bourdieu’s relational sociology has been the primary tool of revision, as it enables amendments to Yoder’s social theoretical assumptions that render them more clearly non-reductive. Several of Bourdieu’s key concepts were put into conversation with Yoder’s theology of the principalities and powers, his broader<italic>oeuvre</italic>, and his critics. This conversation facilitated revisions to Yoder’s thought in several areas: creation, anthropology violence, method,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4k49.15</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

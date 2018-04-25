@@ -1,0 +1,387 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1nph7v</book-id>
+      <subj-group>
+         <subject content-type="call-number">Q173.B54713 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Science</subject>
+         <subj-group>
+            <subject content-type="lcsh">Miscellanea</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Complexity (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Simplicity</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Psychology</subject>
+         <subject>General Science</subject>
+         <subject>Ecology &amp; Evolutionary Biology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Simplexity</book-title>
+         <subtitle>Simplifying Principles for a Complex World'</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>BERTHOZ</surname>
+               <given-names>ALAIN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>Translated by</role>
+            <name name-style="western">
+               <surname>Weiss</surname>
+               <given-names>Giselle</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>01</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300169348</isbn>
+      <isbn content-type="ppub">0300169345</isbn>
+      <isbn content-type="epub">9780300177923</isbn>
+      <isbn content-type="epub">0300177925</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>New Haven; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Yale University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1nph7v"/>
+      <abstract abstract-type="short">
+         <p>In this book a noted physiologist and neuroscientist introduces the concept of<italic>simplexity</italic>, the set of solutions living organisms find that enable them to deal with information and situations, while taking into account past experiences and anticipating future ones. Such solutions are new ways of addressing problems so that actions may be taken more quickly, more elegantly, and more efficiently.</p>
+         <p>In a sense, the history of living organisms may be summed up by their remarkable ability to find solutions that avoid the world's complexity by imposing on it their own rules and functions. Evolution has resolved the problem of complexity not by simplifying but by finding solutions whose processes-though they can sometimes be complex-allow us to act in the midst of complexity and of uncertainty. Nature can inspire us by making us realize that simplification is never simple and requires instead that we choose, refuse, connect, and imagine, in order to act in the best possible manner. Such solutions are already being applied in design and engineering and are significant in biology, medicine, economics, and the behavioral sciences.</p>
+      </abstract>
+      <counts>
+         <page-count count="288"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.5</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Making the Complex Simplex</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Why propose the neologism<italic>simplexity</italic>to describe the properties of life when the term<italic>simplicity</italic>already exists? It is more than just a play on words. The word connotes the remarkable fact that biological devices, or processes, appeared in the course of evolution to allow animals and people to survive on our planet. Given the complexity of natural processes, the developing and growing brain must find solutions based on simplifying principles. These solutions make it possible to process complex situations very rapidly, elegantly, and efficiently, taking past experience into account and anticipating the future. They also enable us—by means</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.6</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Sketching a Theory of Simplexity</title>
+                  </title-group>
+                  <fpage>12</fpage>
+                  <abstract>
+                     <p>I would like to try to sketch out a theory of simplexity. A sketch is not a final drawing; it is the expression of an intention, an idea, imprecise and indecisive, the bearer of its own evolution. It is a question that hints at its response, a kind of free association. Let me suggest that a simplex process is one governed by several<italic>principles,</italic>implemented successively or in parallel. My list of principles is intended to define a framework, incomplete and open to discussion, whose aim is to delimit the concept of simplexity. To avoid any misunderstanding, let me emphasize</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.7</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Gaze and Empathy</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Throughout evolution, solutions have been devised to permit living organisms to act rapidly and efficiently. My hypothesis is that incredibly numerous and varied solutions—the diversity of life—are found in very different organisms. Simplexity responds to the same rules as language or culture: It encompasses both diversity and universality, as is evident in the opposing ideas of American linguist Noam Chomsky (who stresses the universality of grammar)¹ and his French contemporary Claude Hagège (who emphasizes the diversity of language).² The problem is present as well in the work of the late anthropologist Claude Lévi-Strauss, who based his structural anthropology</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.8</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Attention</title>
+                  </title-group>
+                  <fpage>40</fpage>
+                  <abstract>
+                     <p>Ticks care only about butyric acid and temperature. Their<italic>Umwelt</italic>is very limited! This is a primitive form of selective attention. In humans, attentional mechanisms are numerous and much subtler and also involve memory and context. But attention does not only depend on cognitive factors. Emotion, sexual desire, and motivations play very important roles in determining the focus of attention and its general properties. Finally, attention is inextricably linked to the problem of intersubjectivity, that is, our relationships with others. Already in animals attention can follow rules that are deeply embedded in social relations. One spectacular example is “imprinting,” described</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.9</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>The Brain as Emulator and Creator of Worlds</title>
+                  </title-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>Our analysis of simplexity is guided by the central idea that not only action but also the<italic>act</italic>(a much broader concept, which I have discussed in several previous books) must be at the center of all analysis of the functioning of living organisms. To act, the perceiving brain relies on simplifying principles. Psychology and the neurosciences have now established profound links between perception and action. For this reason, I have introduced the term<italic>percaction</italic>in my courses at the Collège de France. The simplifying principles, too, link perception to action. Of course, it is impossible to describe all the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.10</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>Simplexity in Perception</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>A remarkable property of the nervous system is its ability to encode continuous phenomena by pulses, that is, discrete signals. For example, the length of a muscle is encoded by a pulse frequency fired by receptors known as neuromuscular “spindles.” When the length of a muscle varies, these delicate receptors—in series with the muscle motor fibers—fire pulses whose frequency is proportional to length and velocity of the change in length. Rotation of the head is encoded by variations in the firing frequency of sensory cells in the vestibular organs of the inner ear that detect acceleration. Frequency coding</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.11</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>The Laws of Natural Movement</title>
+                  </title-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Have you ever seen an anatomical cutaway—one of those images that reveal the extraordinary complexity of the network of subcutaneous nerves that link the muscles to the spinal cord and ultimately to the brain? One of the problems posed by this complex network is that of transmission delays. In the human male, the distance from the foot to the cerebellum is around 1.80 meters, whereas a distance of barely 15 centimeters separates the neck from the cerebellum. As a result, if the speed of transmission along the nerves was the same for the feet and the neck, it would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.12</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>The Simplex Gesture</title>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>Animal and human gestures are used for action but also as signposts, symbols, and to indicate intention. They are neither simple nor complex. They are simplex because, in a very global and immediate way, they enable the brain to grasp a reality, an emotion, a thought, or a complex social relationship. Gesture is a fundamental mark of culture and art, which are always simplex expressions. Gesture is essential to them. Drawing, painting, music, mime, acting, sculpture, and dance are always expressed in gestures. For this reason, we must not be content with a physiology (or a philosophy) of action. We</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.13</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Walking:</title>
+                     <subtitle>A Challenge to Complexity</subtitle>
+                  </title-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>Walking has played a fundamental role in all animal species throughout evolution. When aquatic life gave way to terrestrial life, a whole set of problems had to be resolved, beginning with integrating the four elements of walking: posture, locomotor rhythm, gaze, and gesture. To the reader who might think that we are about to launch into a question of restricted and basic motor physiology, that is, far removed from cognitive function, I would say that posture is none other than “preparation to act,”¹ and locomotion is not only about making successive steps but also navigating in space. Indeed, some clinicians</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.14</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Simplex Space</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>Let us now quickly review the neural basis of spatial processing in the brain. The goal here is not to present a course on physiology but to show how the spatialization of perception, action, memory, and decision making reduces complexity, sometimes by way of detours that, in turn, engender simplexity This theory has been revisited several times since neuroscientist and, later, Nobel Laureate Santiago Ramón y Cajal revealed the remarkable diversity of neuronal morphology. It seems obvious when we recall that the body, or even the outside world, is represented in the brain by neural maps organized by “topies,” which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.15</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Perceiving, Experiencing,and Imagining Space</title>
+                  </title-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>The preceding chapter presented examples of the variety and the importance of brain mechanisms dealing with or using space. We also touched upon the problem of the relation between space and time and how it may contribute to simplexity. Now we will explore some of the more challenging questions relating to the role of space. Specifically, we will consider the foundations of geometry, first because, as we have seen, the brain is structured according to geometric kinematic laws, and second because mathematicians specializing in geometry use the word “simplex.”</p>
+                     <p>When I first thought of coining the word “simplexity,” I admit</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.16</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>The Spatial Foundations of Rational Thought</title>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract>
+                     <p>Tom Thumb imagined a remarkably simplex solution to the most complex of problems: finding his way back in a forest that was not familiar to him. He stuffed his pockets with pebbles that he tossed along the route. Likewise, Ariadne offered a simplex solution to Theseus when he left to vanquish the Minotaur in the labyrinth: She gave him a ball of string to unroll as he went that showed him the way out. Over the course of evolution, the problem of finding, or refinding, one’s way has given rise to numerous biological solutions. Desert ants use polarized sunlight. Rodents</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.17</book-part-id>
+                  <title-group>
+                     <title>Epilogue</title>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Examining the concept of simplexity applied to life reveals an exceptional wealth of simplex mechanisms that have appeared over the course of evolution. We have proposed a number of principles as the basis of a theory of simplexity: the fundamental role of inhibition, specialization and modularity, anticipation, detours, cooperation, and redundancy. We suspect there are others. However, it is clear that we have only begun to glimpse the fundamental biological mechanisms that enabled simplexity to emerge in life. Those are for future science to decipher. Our investigation leads to a compelling conclusion. We can understand nothing about life if we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.18</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1nph7v.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

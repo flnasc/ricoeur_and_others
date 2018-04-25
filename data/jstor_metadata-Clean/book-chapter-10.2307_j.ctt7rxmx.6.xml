@@ -1,0 +1,886 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt4z9hc</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7rxmx</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Music</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Brahms and His World</book-title>
+         <subtitle>(Revised Edition)</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>FRISCH</surname>
+               <given-names>WALTER</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>KARNES</surname>
+               <given-names>KEVIN C.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>07</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691143446</isbn>
+      <isbn content-type="ppub">0691143447</isbn>
+      <isbn content-type="epub">9781400833627</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON; OXFORD</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7rxmx"/>
+      <abstract abstract-type="short">
+         <p>Since its first publication in 1990,<italic>Brahms and His World</italic>has become a key text for listeners, performers, and scholars interested in the life, work, and times of one of the nineteenth century's most celebrated composers. In this substantially revised and enlarged edition, the editors remain close to the vision behind the original book while updating its contents to reflect new perspectives on Brahms that have developed over the past two decades. To this end, the original essays by leading experts are retained and revised, and supplemented by contributions from a new generation of Brahms scholars. Together, they consider such topics as Brahms's relationship with Clara and Robert Schumann, his musical interactions with the "New German School" of Wagner and Liszt, his influence upon Arnold Schoenberg and other young composers, his approach to performing his own music, and his productive interactions with visual artists.</p>
+         <p>The essays are complemented by a new selection of criticism and analyses of Brahms's works published by the composer's contemporaries, documenting the ways in which Brahms's music was understood by nineteenth- and early twentieth-century audiences in Europe and North America. A new selection of memoirs by Brahms's friends, students, and early admirers provides intimate glimpses into the composer's working methods and personality. And a catalog of the music, literature, and visual arts dedicated to Brahms documents the breadth of influence exerted by the composer upon his contemporaries.</p>
+      </abstract>
+      <counts>
+         <page-count count="480"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.3</book-part-id>
+                  <title-group>
+                     <title>Preface and Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frisch</surname>
+                           <given-names>Walter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Karnes</surname>
+                           <given-names>Kevin C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.4</book-part-id>
+                  <title-group>
+                     <title>Preface and Acknowledgments from the First Edition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frisch</surname>
+                           <given-names>Walter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.5</book-part-id>
+                  <title-group>
+                     <title>Permissions and Credits</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.6</book-part-id>
+                  <title-group>
+                     <title>Time and Memory:</title>
+                     <subtitle>Concert Life, Science, and Music in Brahms’s Vienna</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOTSTEIN</surname>
+                           <given-names>LEON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>How can one grasp the nature and impact of Brahms’s musical language and communication in his own time? In the first instance one has to guard against an uncritical sense of the stability of musical texts, their meaning, and how they can be read and heard. The acoustic, cultural, and temporal habits of life of the late nineteenth century in which Brahms’s music functioned demand reconsideration if the listener in the early twentyfirst century wishes to gain a historical perspective on Brahms’s music and its significance. A biographical strategy and the history of critical reception themselves are insufficient.</p>
+                     <p>Brahms’s considerable</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.7</book-part-id>
+                  <title-group>
+                     <title>Johannes Brahms, Solitary Altruist</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OSTWALD</surname>
+                           <given-names>PETER F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Brahms was a Janus-like figure who looked backward, seeking inspiration from the older Baroque and Classical traditions, while at the same time he looked forward and seemed the embodiment of modernism. A man of many contrasts, Brahms was devoted to his homeland in north Germany, but chose to live in southern Europe. He adored his parents and enjoyed family life, but never married. He was a kind and generous man, but often adopted an extremely rude manner toward others. He was fiercely independent, yet would mourn bitterly the loss of friends and relatives.He amassed a small fortune, but always lived</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.8</book-part-id>
+                  <title-group>
+                     <title>Brahms the Godfather</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AVINS</surname>
+                           <given-names>STYRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>The title of this essay is not capricious. Brahms was godfather to at least sixteen children, a little-known facet of his life that accords strangely with his current reputation as a lonesome and solitary man. His first godchild, Johanna Cossel, was the daughter of his first piano teacher. Brahms was barely twenty years old when asked to fill this office, a sign of esteem, trust, and honor. Thirty-seven years later he agreed to stand godfather to the child of another of Cossel’s daughters, Marie. In between were many little Johanneses and Johannas, plus one Felix and one Max Hermann. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.9</book-part-id>
+                  <title-group>
+                     <title>Clara Schumann and Johannes Brahms</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REICH</surname>
+                           <given-names>NANCY B .</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>The friendship between Johannes Brahms and Clara Schumann has always been the subject of much speculation.¹ Those published accounts that sensationalize the “passionate friendship” (the title of a popular book on the subject) neglect the deeper personal and artistic bonds between the pianist and the composer.² Theirs was a many-layered relationship—a friendship that began in 1853 between a mature performing artist and a beardless young composer, and endured for forty-three years. As with Robert Schumann, Clara Schumann was for Brahms both muse and musician: the inspiration for much of his music and the sharer of his genius.</p>
+                     <p>Clara Schumann</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.10</book-part-id>
+                  <title-group>
+                     <title>The Pianos of Johannes Brahms</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOZARTH</surname>
+                           <given-names>GEORGE S .</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRADY</surname>
+                           <given-names>STEPHEN H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>The pianos Johannes Brahms encountered in Hamburg during his youth would have been essentially the same as the early Romantic fortepianos of Beethoven and Schubert. By the time Brahms wrote his final compositions half a century later, the piano had evolved to a state of construction—if not hammer design and voicing—virtually identical with the modern instrument. The two grand pianos commonly associated with Brahms—the Conrad Graf piano (no. 2616) presented by its Viennese builder to Clara Schumann in 1839 as a “reverential souvenir” and passed on to Brahms in 1856,¹ and an 1868 instrument by Johann Baptist</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.11</book-part-id>
+                  <title-group>
+                     <title>Brahms, the Third Symphony, and the New German School</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRODBECK</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>During the first week of May 1883, Leipzig played host to the twentieth Tonkünstler-Versammlung of the Allgemeiner Deutscher Musikverein, the organization founded by Franz Brendel some years earlier to promote the musical avant-garde. The opening of the congress was marked by C. F.Kahnt, publisher of the<italic>Neue Zeitschrift für Musik</italic>, with a reverential greeting of the group’s honorary president: “Welcome, thou most admirable master Franz Liszt, who, though deeply mourning for having recently lost Pollux and having now like Castor to pass through life’s course alone, yet with thine presence honors this festivity, and with thine appearance places upon it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.12</book-part-id>
+                  <title-group>
+                     <title>The “Brahms Fog”:</title>
+                     <subtitle>On Analyzing Brahmsian Influences at the Fin de Siècle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRISCH</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>In a letter written in April 1894 to his friend Adalbert Lindner, the twenty-one-year-old Max Reger staunchly defended Brahms against his opponents.Although the music may at first be difficult to grasp, Reger noted, “Brahms has nevertheless come so far that all truly intelligent and sensitive musicians, unless they want to make fools of themselves, must acknowledge him as the greatest of living composers.” Reger continued: “Even if Lessmann takes such pains to destroy Brahms and the Brahms fog (to use Tappert’s term), the Brahms fog will survive. And I much prefer it to the white heat of Wagner and Strauss.”¹</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.13</book-part-id>
+                  <title-group>
+                     <title>Between Work and Play:</title>
+                     <subtitle>Brahms as Performer of His Own Music</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MOSELEY</surname>
+                           <given-names>ROGER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>At the beginning of the twenty-first century, we can hear Brahms’s music wherever and whenever we like. But can we locate its source? The composer himself is long dead, even if his defiant gaze and formidable beard still haunt us. His printed musical texts survive, of course, taking up generous shelf space in libraries, music shops, and homes throughout the world, but their circles and lines will always remain mutely imprisoned on the page. Some have preferred this state of affairs, believing that musical notes are better seen than heard. The theorist Heinrich Schenker, for instance, believed that “a composition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.14</book-part-id>
+                  <title-group>
+                     <title>Brahms, Max Klinger, and the Promise of the Gesamtkunstwerk:</title>
+                     <subtitle>Revisiting the Brahms-Phantasie (1894)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>On the first day of January 1894, the artist Max Klinger sent Brahms a remarkable gift in the form of his newest creation. That gift, a volume consisting of forty-one etchings and engravings interspersed with the complete scores of six of Brahms’s vocal works, Klinger called the<italic>Brahms-Phantasie</italic>.¹ By the time Klinger unveiled his tribute to Brahms, he had achieved considerable renown as a visual artist. Indeed, as Hugo von Hofmannsthal declared, he was considered by some to be “the most original artist that Germany has the honor of calling her own.”² But the<italic>Brahms-Phantasie</italic>was something more than just</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.15</book-part-id>
+                  <title-group>
+                     <title>Five Early Works by Brahms (1862)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schubring</surname>
+                           <given-names>Adolf</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED, INTRODUCED, AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>FRISCH</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>In his musical testament and swan song, “Neue Bahnen,” Robert Schumann wrote that he had always thought that, with music on the upturn in recent times,</p>
+                     <p>there inevitably must appear a musician called to give expression to his times in ideal fashion; a musician who would reveal his mastery not in a gradual evolution, but like Athene would spring fully armed from Zeus’s head. And such a one<italic>has</italic>appeared; a young man over whose cradle Graces and Heroes have stood watch. His name is<italic>Johannes Brahms,</italic>and he comes from Hamburg, where he has been working in quiet obscurity,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.16</book-part-id>
+                  <title-group>
+                     <title>Discovering Brahms (1862–72)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hanslick</surname>
+                           <given-names>Eduard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED, INTRODUCED, AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>Johannes Brahms has now presented himself as composer and virtuoso before the public in a concert of his own.⁶ Brahms’s compositions do not number among those immediately understandable and captivating works that carry one along in their flight. Their esoteric character, nobly disavowing every sort of popular effect, combined with their significant technical difficulties, assures that a broad embrace of these works will be much longer in coming than Schumann delightedly prophesized for his darling as a parting blessing.ᦍ In Vienna, none of Brahms’s larger compositions had previously been performed, and among his smaller works we had heard only a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.17</book-part-id>
+                  <title-group>
+                     <title>The Brahms Symphonies (1887)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kretzschmar</surname>
+                           <given-names>Hermann</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED BY</role>
+                        <name name-style="western">
+                           <surname>GILLESPIE</surname>
+                           <given-names>SUSAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib3" xlink:type="simple">
+                        <role>INTRODUCED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Brahms, who emerged from the circles of the Romantics, embodies the enduring principle of the Romantic tendency: the principle of mixed moods and rapid movement in the life of the emotions. But Brahms surpasses all previous representatives of musical Romanticism in the versatility of his spirit, acquired in the course of a wonderfully purposeful and energetic development, and in the objectivity, stringency, and diversity of his style. Among all the symphonic composers of our century, Brahms is the only one who equals Beethoven in the logic and economy of his structure, the unbroken expansiveness of his material and creations, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.18</book-part-id>
+                  <title-group>
+                     <title>Brahms’s A Cappella Choral Pieces, op. 104 (1892)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schenker</surname>
+                           <given-names>Heinrich</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED, INTRODUCED, AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>There are six voices in the choir: soprano, first and second altos, tenor, first and second basses. The melodic construction makes clear that its invention was inspired from the start by an antiphonal exchange:</p>
+                     <p>The deliberate retention of the antiphonal structure—the whole choir comes together only to express the point “Trag ein Nachtwind euch seufzend in meines zurück” (Let a night wind bear you back, sighing, to mine) and four measures before the end—enables the choir to represent, as it were, two individuals, embodied in the soprano and the tenor. The other voices exhibit little individuality in a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.19</book-part-id>
+                  <title-group>
+                     <title>Brahms’s Four Serious Songs, op. 121 (1914)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kalbeck</surname>
+                           <given-names>Max</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED BY</role>
+                        <name name-style="western">
+                           <surname>MILLER</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib3" xlink:type="simple">
+                        <role>INTRODUCED AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Brahms left us several written statements about his<italic>Four Serious Songs</italic>, the maestro’s final work, designated opus 121. These statements—sometimes running parallel to, other times diverging from his verbal remarks—might seem to contradict each other. At first glance, the contradictions appear to be profound. However, a closer look does away with them completely. The first thing one notes is the jovial, almost frivolous tone with which Brahms speaks of the “godless<italic>Schnadahüpferln</italic>,” the “<italic>Schnadahüpferln</italic>of May 7,” or simply the “<italic>Schnadahüpferln</italic>,” as if it were obvious that he could only be referring, with this term, to the Four</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.20</book-part-id>
+                  <title-group>
+                     <title>“A Modern of the Moderns”:</title>
+                     <subtitle>Brahms’s First Symphony in New York and Boston</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib1" xlink:type="simple">
+                        <role>SELECTED AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>BOZARTH</surname>
+                           <given-names>GEORGE S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>287</fpage>
+                  <abstract>
+                     <p>The real interest of the evening centered upon the Brahms Symphony, which stood at the head of the programme. There is no living musician about whose compositions there is a greater variety of opinions, or these opinions more changeable, than the same Johannes Brahms. People whose patience is limited, and whose ears itch for taking melodies—well or ill elaborated—may find enchantment at a first hearing of such limpid works as Raff’s “Leonore” Symphony. But let a Brahms “Requiem,” or wonderfully complex and original variations, or symphony, for the first time sound forth, and they will compare the work to muddy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.21</book-part-id>
+                  <title-group>
+                     <title>Johannes Brahms:</title>
+                     <subtitle>The Last Days Memories and Letters</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hanslick</surname>
+                           <given-names>Eduard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">TRANSLATED BY</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GILLESPIE</surname>
+                           <given-names>SUSAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOMAN</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOMAN</surname>
+                           <given-names>CAROLINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib5" xlink:type="simple">
+                        <role>INTRODUCED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="other">ANNOTATED BY</role>
+                     <contrib contrib-type="other" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOTSTEIN</surname>
+                           <given-names>LEON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib7" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>307</fpage>
+                  <abstract>
+                     <p>Alas, we have lost him, too, the true, great master and loyal friend! He, who until recently was able to vaunt the fact that he had never been sick in his entire life, not even for a single day! That had continued to be the case until the end of the summer, when he suddenly became sick without realizing it himself. In Ischl, some friends pointed out to him that his face had acquired a sickly yellow hue. With the explanation that he never looked at himself in the mirror, he cut the conversation short, since it irritated him. Brahms,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.22</book-part-id>
+                  <title-group>
+                     <title>My Early Acquaintance with Brahms</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heuberger</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED, INTRODUCED, AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>AVINS</surname>
+                           <given-names>STYRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>339</fpage>
+                  <abstract>
+                     <p>I saw Brahms for the first time in November 1867. He came to my home town of Graz, where on November 11 and 14 he gave concerts with Joachim (at the Saale der Ressource).² I remember precisely the deep impression that the performance of Beethoven’s Sonata for Piano and Violin in C Minor, op. 30, no. 2, made on me. The two Brahms compositions played by the Master—at that time a blond, lean, markedly professorial type—appeared to me as decidedly perplexing stuff . . . and yet, they were the E-flat-minor Scherzo (op. 4) and the Handel Variations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.23</book-part-id>
+                  <title-group>
+                     <title>Remembering Johannes Brahms:</title>
+                     <subtitle>Brahms and His Krefeld Friends</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>von Beckerath</surname>
+                           <given-names>Heinz</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>TRANSLATED BY</role>
+                        <name name-style="western">
+                           <surname>EISINGER</surname>
+                           <given-names>JOSEF</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib3" xlink:type="simple">
+                        <role>INTRODUCED AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>AVINS</surname>
+                           <given-names>STYRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>349</fpage>
+                  <abstract>
+                     <p>On the morning of a lovely, sunny day in the early spring of the year 1885, an animated, chatty group of people wandered through the countryside of the Lower Rhine. The high-spirited company had traveled by train from Krefeld to the village of Grefrath, which is situated on the main train line to Holland. In those days Grefrath was one of many settlements in the vicinity of Krefeld in whose houses chattered the looms of the Krefeld silk manufacturers. The villages were all spotlessly clean and friendly. To the west of Grefrath the view is limited by the range of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.24</book-part-id>
+                  <title-group>
+                     <title>Johannes Brahms as Man, Teacher, and Artist</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jenner</surname>
+                           <given-names>Gustav</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">TRANSLATED BY</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GILLESPIE</surname>
+                           <given-names>SUSAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KAESTNER</surname>
+                           <given-names>ELISABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib4" xlink:type="simple">
+                        <role>INTRODUCED BY</role>
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="other">ANNOTATED BY</role>
+                     <contrib contrib-type="other" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOTSTEIN</surname>
+                           <given-names>LEON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="other" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KARNES</surname>
+                           <given-names>KEVIN C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>381</fpage>
+                  <abstract>
+                     <p>It was in Leipzig in late December of the year 1887 that I first met Brahms.He had traveled there to oversee the performance of two of his newest works, the Double Concerto and the Piano Trio in C Minor, and he knew that I was coming from Kiel to visit him, to ask him to give his opinion of my musical abilities based on a selection of my compositions. This is how it came about.³</p>
+                     <p>On the advice of one of my teachers I had sent several of my songs to Simrockin Berlin to inquire whether he might be inclined</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.25</book-part-id>
+                  <title-group>
+                     <title>Brahms and the Newer Generation:</title>
+                     <subtitle>Personal Reminiscences by Alexander von Zemlinsky and Karl Weigl</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib1" xlink:type="simple">
+                        <role>TRANSLATED, INTRODUCED, AND ANNOTATED BY</role>
+                        <name name-style="western">
+                           <surname>FRISCH</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>425</fpage>
+                  <abstract>
+                     <p>When I think of the time during which I had the fortune to know Brahms personally—it was during the last two years of his life—I can recall immediately how his music affected me and my colleagues in composition, including Schoenberg. It was fascinating, its influence inescapable, its effect intoxicating. I was still a pupil at the Vienna Conservatory and knew most of Brahms’s works thoroughly. I was obsessed by this music. My goal at the time was nothing less than the appropriation and mastery of this wonderful, singular compositional technique.</p>
+                     <p>I was introduced to Brahms at the occasion of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.26</book-part-id>
+                  <title-group>
+                     <title>“Dedicated to Johannes Brahms”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib1" xlink:type="simple">
+                        <role>PREPARED BY</role>
+                        <name name-style="western">
+                           <surname>FRISCH</surname>
+                           <given-names>WALTER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>Max Klinger,<italic>Amor und Psyche</italic>[46 prints] (Munich, 1880)</p>
+                     <p>Gustav Wendt [trans.],<italic>Sophocles’s Tragödien</italic>(Stuttgart, 1884)</p>
+                     <p>Adalbert Kupferschmied,<italic>Linguistisch-kulturhistorische Skizzen und Bilder aus der deutschen Steiermark</italic>(Karlsruhe, 1888)</p>
+                     <p>Eduard Hanslick,<italic>Musikalisches Skizzenbuch: Neue Kritiken und Schilderungen.</italic>Die Moderne Oper, part 4 (Berlin, 1888)</p>
+                     <p>Hugo Riemann,<italic>Katechismus der Kompositionslehre: Musikalische Formenlehre</italic>(Leipzig, 1889)</p>
+                     <p>Hedwig Kiesenkamp [pseud. L. Rafael],<italic>Ebbe und Fluth: Gedichte</italic>(Leipzig, 1896)</p>
+                     <p>Robert Schumann,<italic>Concert-Allegro mit Introduction,</italic>piano and orchestra, D Minor-Major, op. 134 (1855)</p>
+                     <p>Clara Schumann, Three Romances, piano, op. 21 (1855)</p>
+                     <p>Robert Schumann,<italic>Des Sängers Fluch</italic>(Uhland), Ballade for soloists, chorus, and orchestra, op. 139 (1858)</p>
+                     <p>Woldemar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.27</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>443</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.28</book-part-id>
+                  <title-group>
+                     <title>Notes on the Contributors</title>
+                  </title-group>
+                  <fpage>459</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rxmx.29</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>463</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

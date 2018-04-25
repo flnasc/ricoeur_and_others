@@ -1,0 +1,324 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1sq5v00</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Literature Against Criticism</book-title>
+         <subtitle>University English and Contemporary Fiction in Conflict</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Eve</surname>
+               <given-names>Martin Paul</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>17</day>
+         <month>10</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781783742738</isbn>
+      <isbn content-type="epub">9781783742752</isbn>
+      <publisher>
+         <publisher-name>Open Book Publishers</publisher-name>
+         <publisher-loc>Cambridge, UK</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Martin Paul Eve</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1sq5v00"/>
+      <abstract abstract-type="short">
+         <p>This is a book about the power game currently being played out between two symbiotic cultural institutions: the university and the novel. As the number of hyper-knowledgeable literary fans grows, students and researchers in English departments waiver between dismissing and harnessing voices outside the academy. Meanwhile, the role that the university plays in contemporary literary fiction is becoming increasingly complex and metafictional, moving far beyond the ‘campus novel’ of the mid-twentieth century. Martin Paul Eve’s engaging and far-reaching study explores the novel's contribution to the ongoing displacement of cultural authority away from university English. Spanning the works of Jennifer Egan, Ishmael Reed, Tom McCarthy, Sarah Waters, Percival Everett, Roberto Bolaño and many others, Literature Against Criticism forces us to re-think our previous notions about the relationship between those who write literary fiction and those who critique it.</p>
+      </abstract>
+      <funding-group>
+         <award-group>
+            <funding-source>Birbeck University, Birkbeck Library</funding-source>
+         </award-group>
+      </funding-group>
+      <counts>
+         <page-count count="248"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[vii]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.3</book-part-id>
+                  <title-group>
+                     <title>About the Author</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.4</book-part-id>
+                  <title-group>
+                     <title>Style</title>
+                  </title-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.6</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Authors, Institutions, and Markets</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>For those working in university English departments in the early twenty-first century, these words will probably sound all too familiar: “[t]his man possesses great eloquence. See that he is denied justice for some time and arrange for all his grandiose speeches to be recorded”. Yet, despite the plausibility of the scenario, this passage is not a sadistic<italic>diktat</italic>issued from a university administrator to an unsuspecting humanities underling, perhaps enforcing lecture capture or a similar contemporary technology. It comes instead, in rough translation, from a Ninth- or Tenth- Dynasty Ancient Egyptian story called the<italic>Tale of the Eloquent Peasant</italic>. Briefly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.7</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>What, Where?</title>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>A few remarks on textual selection, then. To continue a theme from the preceding discussion of scientism and<italic>On Beauty</italic>, a central anxiety for academic literary studies in the contemporary era of scientific dominance pertains to the extent to which groupings, taxonomies, and classifications are methodologically derived and how far they help us to understand literary production. How sound are our methods of textual selection? Are there a set of scientific methods that could aid us in the selection of texts? These questions are important because, regardless of the fact that many defences of the humanities resist the language of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.8</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Aesthetic Critique</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>It is an often overlooked facet of early university English programmes in the United States that there was greater agreement between academicians on the texts to be taught than on the very rationale for the study of literature. As Gerald Graff has demonstrated, while some felt in the early period that literature could not even<italic>be</italic>taught and simply stood alone as art, those who wanted to professionalise the discipline began prescribing set lists of texts for examination. Surprisingly, as Graff notes, there was consensus on these texts, mostly because this gave the appearance of a coherent object of study</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.9</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Political Critique</title>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>If, as shown in the previous chapter,<italic>C</italic>can be considered a text focused on aesthetic critique (i.e. an interrogation of its own conditions of aesthetic possibility and self-situation within a specific literary history and/or taxonomy, independently of the university), then this is the type of metafiction that is<italic>most</italic>vulnerable to the accusation of political nihilism. A purely formalist mode, after all, whether in the university or in fiction seems to disavow politics, even if<italic>Remainder</italic>does make an ethical critique of representational art.¹ While certain texts exemplify an aesthetic critique of the process of canonisation, taking this element</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.10</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Sincerity and Truth</title>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Although slightly older than the commonly-supposed professionalising Arnoldian origin, the discipline of English studies is relatively young, having come into being as “English language and literature” in 1828 at the University of London (now UCL rather than the federated research university that currently takes the name University of London).¹ Over the course of the discipline’s short history, however, a range of aspects has remained ever-present and unsatisfactorily resolved under the heading of ‘value’. As John Hartley traces it, these debates can be subdivided into three phases (simplifying for reasons of comprehensibility). The first is to chart the lineage of Matthew</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.11</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>Labour and Theory</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Although it may be unwise to speak of the ‘career’ of a writer so evidently in full-flow as Jennifer Egan, it is nonetheless true that certain trends can already be seen over the arc of her writing since 1995. Whether the foremost of these areas is the emergence of new technologies and the way in which they shape our concepts of (re)mediation or in Egan’s seemingly broader interest in the place of affect in experimental fiction will remain a topic for a scholarly debate that is only beginning to give Egan her due. It is also apparent, however, that certain</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.12</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Genre and Class</title>
+                  </title-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>In the preceding parts of this book, I have demonstrated several reasons why contemporary fiction may choose to represent the academy, mostly focusing on the fact that in contemporary metafiction, the critical space is shared by the academy and fiction. This results in a struggle for the right to express critique and then a legitimation battle. Beginning with Tom McCarthy’s oblique engagement with the academy through his public intellectualism and canny understanding of generic conventions, I suggested that C, although not a work that directly depicts academia, is a novel tightly bound to formalist criticism and canon formation and a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.13</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Discipline and Publish</title>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>As mentioned in the opening to the final part of this book, succinct critiques of teleology find their apex in Theodor Adorno’s well-known opening to<italic>Negative Dialectics</italic>where he writes that philosophy lives on because the moment of its realisation was missed.¹ This statement — a clear reference to Marx’s proclamation in the<italic>Theses on Feuerbach</italic>(1845/1888) that philosophers have so far only interpreted the world, but that the point is to change it — came at a time when it seemed that the potential for revolutionary action was past. In his perpetual pessimism, Adorno advocates for a return to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.14</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Throughout this book I have demonstrated a variety of ways in which the university — and specifically university English — is used and abused in works of contemporary fiction. While far from a conclusive study, the representative range of texts here examined leads to several conclusions about the interaction between the novel and the academy. Roughly speaking, these findings can be schematised into aesthetic and political critique, legitimation, and disciplinary feedback loops.</p>
+                     <p>My argument has been, to reverse the order in which this book initially progressed, that the ‘writing back’ to the academy that Judith Ryan has previously identified has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.15</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>209</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.16</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>227</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1sq5v00.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>239</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,300 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.cttq46qk</book-id>
+      <subj-group>
+         <subject content-type="call-number">BD418.3.R68 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Externalism (Philosophy of mind)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Externalism</book-title>
+         <subtitle>Putting Mind and World Back Together Again</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Rowlands</surname>
+               <given-names>Mark</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>23</day>
+         <month>09</month>
+         <year>2003</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773526495</isbn>
+      <isbn content-type="epub">9780773584266</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; Ithaca</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2003</copyright-year>
+         <copyright-holder>Mark Rowlands</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.cttq46qk"/>
+      <abstract abstract-type="short">
+         <p>The externalist conception of the mind was one of the most significant developments in the philosophy of mind in the second half of the twentieth century. Despite its central importance, however, most recent work on externalism has been very technical, often making the basic ideas and principles difficult for students to grasp. As well, comparatively little work has been done to situate externalism in the history of philosophy, in either analytic and continental traditions. Mark Rowlands remedies both these problems, presenting a clear and accessible introduction to externalism that is grounded in wider developments in the history of philosophy. Rowlands discusses Sartre's radical reversal of idealism and the Husserlian views that prompted it; Wittgenstein's attack on the assimilation of meaning and understanding to an inner process; Putnam's and Burge's thought experiments and the externalism about content to which those experiments gave rise; the scope and limits of content externalism; and the extension of externalism to consciousness.</p>
+      </abstract>
+      <counts>
+         <page-count count="257"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.3</book-part-id>
+                  <title-group>
+                     <title>Preface and acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rowlands</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Introduction:</title>
+                     <subtitle>internalism and externalism</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In the 1966 film<italic>Fantastic Voyage,</italic>starring Raquel Welch, humans are shrunk down to the size of body cells and injected into another (full-size) human being. Actually, it was a little spaceship of sorts that was injected, but Raquel was inside it. I can’t remember precisely what the reason for this injection was, but, as I recall, some sort of errand of mercy was involved. So, let us engage in what philosophers call a<italic>thought-experiment.</italic>You are Raquel Welch aboard your little spaceship. But this ship has been modified. Instead of having to be injected into the blood supply, it now</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Cartesianism</title>
+                  </title-group>
+                  <fpage>7</fpage>
+                  <abstract>
+                     <p>There is a view of the mind that seems overwhelmingly natural to us. No one really knows why this is. Maybe the view simply is a natural one. Maybe it only seems that way for some other reason – cultural or whatever. No one really knows. However it came to be that way, it now pretty much passes as common sense. The view is pervasive and tenacious, not only as an explicit doctrine but, perhaps even more significantly, in the clandestine influence it has on explicit doctrines of the mind. In effect, it has the status of what Wittgenstein would call</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Idealism</title>
+                  </title-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>Suppose we separate mind and world in the manner prescribed by Cartesian internalism. A mind is an interiority: mental phenomena are located exclusively inside the skin of any organism that possesses them, and possession of such phenomena by a creature is logically independent of whatever exists or occurs in the world outside that skin. Then we are immediately presented with a problem, one that has been and continues to be enormously influential. It is sometimes called the<italic>matching problem.</italic>The matching problem, then, is a direct result of the sort of separation of mind and world essential to Cartesian internalism.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>The “radical reversal” of idealism</title>
+                  </title-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>An influential combination of Cartesianism and idealism is to be found in the phenomenology of Edmund Husserl. However, in the work of followers of Husserl we find the roots of what Jean-Paul Sartre, one of those followers, dubs a “radical reversal” of idealism. This radical reversal provides the basis of a very different view of the mind: anti-Cartesian and anti-idealist. Indeed, in this radical reversal of idealism we find what is, in effect, an important source of externalism. This chapter is concerned with Husserlian phenomenology and the radical reversal engendered by it.</p>
+                     <p>The focus for the chapter is provided by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>The attack on the inner</title>
+                  </title-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>Sartre’s attack on the idea that consciousness has contents is, in effect, an attack on the idea that the mental possesses features that are hidden, inner and constituted or revealed by the individual’s inwardly directed awareness. This attack is continued by the Austrian philosopher, Ludwig wittgenstein.¹ Although developing wide-ranging arguments concerning mentality in general, the focus of Wittgenstein’s concern is items such as meaning and understanding – meaning something by one’s use of a sign and understanding something by way of someone else’s (or indeed your) use of a sign. Accordingly, I shall focus, at least initially, on these.</p>
+                     <p>Wittgenstein’s discussion</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Content externalism</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>As we saw in Chapter 3, what Kant referred to as his “Copernican revolution” in philosophy was motivated by the<italic>matching problem.</italic>According to Kant, if our knowledge-acquiring faculties are capable of yielding knowledge of the world, as they certainly seem to be, then this must be because they must, in some way, match up to the world. There must be some sort of<italic>fit</italic>or<italic>match</italic>between the nature of our knowledge-acquiring faculties and the nature of the world. The question of how knowledge is possible, then, translates into a question about how this matching can occur. Kant’s answer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>The scope and limits of content externalism</title>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Chapter 6 examined the arguments for content externalism and an essentially defensive reaction to those arguments – a reaction that is Cartesian in spirit – based on the dual component theory, along with the associated idea of the mental state narrowly individuated. It was argued that this Cartesian reaction to the arguments for externalism faces serious difficulties. Nonetheless, we have not yet worked out the implications of the arguments themselves. If an essentially Cartesian strategy to limit their scope does not work, we have, as yet, done nothing to work out what that scope is. This is the task of this chapter.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Externalism and first-person authority</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>The Cartesian conception of the mind, as we have seen, is composed not just of ontological theses concerning the nature of mental phenomena, but also epistemological theses concerning our knowledge of, or access to, such phenomena. These latter we summed up in the slogan: “each person knows his or her mind<italic>first</italic>and<italic>best”</italic>– the principle of<italic>epistemic internalism.</italic>This chapter examines the implications of content externalism for this principle.</p>
+                     <p>It is pretty clear that Descartes is committed to at least some version of the principle of epistemic internalism. Consider, for example, the following from the<italic>Regulae,</italic>§8: “Nothing can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Vehicle externalism</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Content externalism, as we have seen, is best understood as the thesis that some of those mental states that possess their content essentially – namely, prepositional attitudes – are individuation dependent on objects, properties, relations and so on occurring outside the skins of the subjects of mental states. As such, content externalism is severely restricted in both its scope and force. It applies neither to cognitive processes nor to the architectures or mechanisms in which those processes are realized. It does not apply to phenomenal states – experiences of various forms – at least not if the essential properties of these states are phenomenal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>Externalism and consciousness</title>
+                  </title-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>In Chapter 6 we saw that the scope of traditional content externalism seemed to be quite narrow. In particular, two central features of the mental seemed untouched by the arguments for content externalism. The first of these, cognitive processes and the architectures that underwrite them, were discussed in Chapter 9, where it was argued that a suitable extension of externalism – from content to vehicle externalism – would underwrite the externality of cognitive processes and architectures. The second feature of the mental arguably untouched by the arguments for content externalism is consciousness, and this is the subject of this chapter.</p>
+                     <p>
+                        <italic>Phenomenal</italic>consciousness</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>Externalist axiology</title>
+                  </title-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>The Cartesian tradition yields a very definite conception of what<italic>value</italic>– moral, aesthetic and so on – must be. Or, rather, it yields a specific framework of possibilities for the sort of thing value must be. The view of the mind as essentially an interiority – something located entirely inside the skins of mental subjects – presents us with a stark choice when trying to understand the nature of value. Either value must derive from the inside – from the activities of the mind – or it must exist on the outside, objectively present in the world independently of those activities. Broadly speaking, the former</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Conclusion:</title>
+                     <subtitle>externalism, internalism, and idealism</subtitle>
+                  </title-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>Chapter 1 characterized the concept of Cartesian internalism in terms of two claims, one concerning the location of mental phenomena and the other concerning the possession of such phenomena by a subject.</p>
+                     <p>
+                        <italic>The Location Claim:</italic>any mental phenomenon is spatially located inside the boundaries of the subject, S, that has or undergoes it.</p>
+                     <p>
+                        <italic>The Possession Claim:</italic>the possession of any mental phenomenon by a subject S does not depend on any feature that is external to the boundaries of S.</p>
+                     <p>The notion of a boundary, here, is understood as a physical boundary between organism and environment, in this case, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.16</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.17</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttq46qk.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>243</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,404 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18d84hj</book-id>
+      <subj-group>
+         <subject content-type="call-number">CDD 307.1</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Desarrollo urbano</subject>
+         <subj-group>
+            <subject content-type="lcsh">Aspectos sociales</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Urbanismo</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ordenamiento territorial</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Globalizacion</subject>
+         <subj-group>
+            <subject content-type="lcsh">Aspectos sociales</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>El Desarrollo Territorial Integrado</book-title>
+         <subtitle>una estrategia sustentable de construcción social del territorio, en el contexto de la globalización, a partir del concepto de topofília.</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>YORY</surname>
+               <given-names>CARLOS MARIO</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="foreword-author" id="contrib2">
+            <role>PRÓLOGO DE</role>
+            <name name-style="western">
+               <surname>MAX-NEEF</surname>
+               <given-names>MANFRED</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>11</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="epub">9789588537696</isbn>
+      <publisher>
+         <publisher-name>Universidad Piloto de Colombia</publisher-name>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt18d84hj"/>
+      <abstract abstract-type="short">
+         <p>Esta publicación está dirigida a estudiantes y profesionales de Arquitectura, Diseño, Ingeniería Civil y Administración y Gestión Ambiental, por lo tanto, contempla los elementos necesarios para elaborar un contexto general, el cual se trata a partir de los aspectos básicos sobre los factores climáticos y de la biodiversidad, para luego abordar su papel en las construcciones y particularmente sobre las envolventes arquitectónicas.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.2</book-part-id>
+                  <title-group>
+                     <title>Agradecimientos</title>
+                  </title-group>
+                  <fpage>11</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.3</book-part-id>
+                  <title-group>
+                     <title>Nota al lector</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>El autor</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.4</book-part-id>
+                  <title-group>
+                     <title>Prólogo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Max-Neef</surname>
+                           <given-names>Manfred</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>Hace algunos años recibí una invitación para realizar una gira de conferencias en Australia. Tuve la oportunidad de conocer y recorrer Perth, Adelaide, Melbourne, Gelong, Ballarat, Sydney y Canberra. Lo que me impresionó profundamente de ese viaje – sentimiento compartido con mi esposa que me acompañaba – fue que todas las ciudades eran hermosas, cuidadas, impecablemente limpias y acogedoras. Nunca me había ocurrido estar en un país en el que todas las ciudades visitadas me regalaran esa sorprendente satisfacción. Lo comentamos mucho y nos provocó interesantes reflexiones y observaciones. La pregunta fundamental era obvia: ¿Por qué? ¿Qué se da aquí</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.5</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>21</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.6</book-part-id>
+                  <title-group>
+                     <title>INTRODUCCIÓN:</title>
+                     <subtitle>LA RUTA DE LA INVESTIGACIÓN Y SU PLAN</subtitle>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>El<italic>problema central</italic>que aborda este trabajo es el de<italic>la pérdida del sentido de lo local que acompaña, frecuentemente, la propia pérdida del sentido de pertenencia y de los nexos de apropiación de los habitantes de las grandes metrópolis</italic>(particularmente en los países de América Latina) producto, en gran medida (aunque no de manera exclusiva), del embate homogenizador de la globalización y de sus secuelas de exclusión social, deterioro ambiental, desequilibrio territorial y debilitamiento de las instituciones y de los colectivos sociales; características, todas estas, que se suman a los grandes conflictos socio-espaciales que de manera atávica caracterizan estas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.7</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO I</label>
+                     <title>EL CONCEPTO DE TOPOFILIA Y SU PAPEL EN LA CONSTRUCCIÓN SOCIAL DEL TERRITORIO</title>
+                  </title-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Sin lugar a dudas, uno de los aspectos más inquietantes que supone la globalización (y su particular idea del lugar)³ es el que tiene que ver con el destino de la sociedad humana en el marco ambiental (tanto local como global) en el que ésta se inscribe; destino que se encuentra ligado, inexorablemente, a la propia suerte del planeta.</p>
+                     <p>Desde esta perspectiva, la construcción de sociedades fuertes y, del mismo modo, de gobiernos fortalecidos, supone también la construcción de unos fuertes y comprometidos lazos entre estas y los lugares específicos (<italic>topos</italic>) que habitan; unos lazos que, dada la innegable naturaleza</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.8</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO II</label>
+                     <title>LA CIUDAD ACTUAL EN EL MARCO DE LA GLOBALIZACIÓN:</title>
+                     <subtitle>UNA PREOCUPACIÓN ESTRATÉGICA POR EL LUGAR</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Como señala el<italic>Informe de la Comisión Nacional de Educación, Ciencia y Desarrollo</italic>de El Salvador en documento editado en junio de 1996, la globalización implica “considerar el mundo como mercado, fuente de insumos y espacio de acción tanto para la producción como para la adquisición y la comercialización de productos”, lo que supone la creación de un mercado mundial (en el que circulen libremente los capitales financiero, comercial y productivo) caracterizado por el aumento del comercio exterior, la libre exportación de capital, el menor uso de materias primas, la desconcentración de los procesos productivos y, especialmente, la multiplicación de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.9</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO III</label>
+                     <title>CULTURA URBANA Y CULTIVO DE CIUDAD, O EL RETO DE “HACERSE A UN LUGAR” EN EL CONTEXTO URBANO DE NUESTRAS CIUDADES</title>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>La ciudad es, no cabe duda, un escenario de comunicación, un espacio donde, por excelencia, se pone en juego la naturaleza exiliada y desprotegida<sup>21</sup>de la condición humana a través de un complejo<sup>22</sup>intercambio de relaciones simbólicas y mediáticas<sup>23</sup>. Simbólicas porque nos expresamos siempre a partir de un sistema de valores desde el cual hacemos patente nuestra aprehensión de la realidad y el mundo; y mediáticas porque ese juego de valores se pone en juego a través del ejercicio de toda una gama de “roles” (maneras de ser y hacer inducidos por la adopción y/o construcción de imaginarios sugeridos, transmitidos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.10</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO IV</label>
+                     <title>EL DESARROLLO URBANO SUSTENTABLE:</title>
+                     <subtitle>CONCEPTOS BÁSICOS, RETOS Y POSIBILIDADES CONCEBIDOS EN “CLAVE” DE LUGAR</subtitle>
+                  </title-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>Según informe de Naciones Unidas (2002), a partir del año 2000 poco más del 50% de la población mundial habita en ciudades, viéndose afectadas, particularmente, las del llamado “Tercer Mundo”<sup>38</sup>puesto que se estima que de las 20 megaciudades (ciudades con una población mayor a 8 millones de habitantes), 14 se encuentran ubicadas en estos países. La situación no podía ser más dramática en lo que compete a la urgente necesidad de contar con los adecuados mecanismos, tanto para frenar el gigantismo de estas grandes urbes<sup>39</sup>, como para responder adecuadamente a los múltiples problemas que las aquejan y que, en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.11</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO V</label>
+                     <title>HACIA LA FORMULACIÓN DE POLÍTICAS LOCALES DE DESARROLLO URBANO SUSTENTABLE CONCEBIDAS A PARTIR DE LA CONSTRUCCIÓN SOCIAL DEL TERRITORIO</title>
+                  </title-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>Es de aclarar que “al decir” latinoamericano, hablamos de<italic>sustentabilidad</italic>y no de<italic>sostenibilidad</italic>(denominación europea) ya que si bien ambos conceptos aluden a lo mismo; es decir, al equilibrio socio-ambiental como pauta y patrón del desarrollo, el uso que se hace de ellos varía según el enfoque del contexto geográfico y ¿Por qué no, político? donde se apliquen.</p>
+                     <p>Para Latinoamérica es claro que de lo que se trata es de “sustentar”, sinónimo de “alimentar”, “cuidar” y, en alguna medida, “hacer crecer” en el sentido de “madurar”; para Europa el asunto pasa por la idea de “sostener”, “preservar”, en última</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.12</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VI</label>
+                     <title>LOS COMPONENTES DEL PLANTEAMIENTO TOPOFÍLICO:</title>
+                     <subtitle>CLAVES PARA EL EJERCICIO DE UN PROYECTO DE CIUDAD SUSTENTABLE</subtitle>
+                  </title-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>De manera general, asumimos la<italic>participación</italic>como la interacción de grupos o personas en procesos de construcción de bienes colectivos. De manera más restringida, la entendemos como la interacción de la ciudadanía con el Estado en los procesos de definición y aplicación de políticas públicas. Interacción que apunta a revelar necesidades y preferencias de la gente y a obtener una atención más adecuada y oportuna a sus demandas, promoviendo modificaciones en la calidad y la distribución de los bienes y servicios públicos.</p>
+                     <p>En este sentido, la<italic>participación</italic>puede ser vista como un cambio de actitud de los ciudadanos -<italic>pero</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.13</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VII</label>
+                     <title>LA DIMENSIÓN TOPOFÍLICA DE LA PLANIFICACIÓN URBANA Y EL ORDENAMIENTO TERRITORIAL</title>
+                  </title-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Con el fin de explicitar brevemente la forma de vinculación del planteamiento topofílico a los planes de desarrollo local y, desde éstos, a los consecuentes planes de desarrollo urbano, en general, consideramos importante establecer los siguientes considerandos:</p>
+                     <p>a. Los planes de desarrollo de las grandes ciudades deben estar dirigidos al mejoramiento integral de las condiciones de vida ciudadanas en términos tanto físicos (mejoramiento y ampliación de la infraestructura, equipamiento y dotación existente), como ambientales y psicológicos (propiciando unas condiciones amables y gratas que apunten al enriquecimiento del hábitat humano).</p>
+                     <p>b. En razón de lo anterior, los mencionados planes no pueden</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.14</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VIII</label>
+                     <title>LA ESTRATEGIA TOPOFÍLICA:</title>
+                     <subtitle>COMPONENTES Y CONTENIDO</subtitle>
+                  </title-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>Como hemos señalado a lo largo de este trabajo, la presente propuesta propende por el fortalecimiento de los lazos de pertenencia y/o arraigo entre los diferentes individuos que conforman una comunidad y el espacio físico y significacional que habitan, a partir de la puesta en marcha de una estrategia que integre construcción colectiva del territorio con “empoderamiento” local. Estrategia que, orientada en principio a las grandes ciudades de América Latina, apunta a la consolidación del carácter de cada una de las localidades,<sup>78</sup>zonas o distritos en que las mismas han sido divididas dentro del marco de la descentralización político-administrativa que,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.15</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO IX</label>
+                     <title>DE LA CIUDAD A LA REGIÓN:</title>
+                     <subtitle>REPENSANDO EL ORDENAMIENTO TERRITORIAL EN EL CONTEXTO DE LA GLOBALIZACIÓN A PARTIR DE LA RELACIÓN ENTRE TOPOFILIA Y DESARROLLO TERRITORIAL INTEGRADO</subtitle>
+                  </title-group>
+                  <fpage>319</fpage>
+                  <abstract>
+                     <p>Hasta aquí hemos llevado a cabo una reflexión que ha puesto de manifiesto la necesidad, no sólo de re-conceptualizar nuestra relación con el mundo, a partir de la manera como concebimos y construimos el lugar, entendido como espacio habitado, sino de proponer y aplicar nuevas estrategias de planificación capaces de ordenar el territorio en función de sus lógicas internas pero, sobre todo, en atención a la indispensable relación que éste debe guardar con las múltiples escalas con las cuales se encuentra tan afectado como comprometido.</p>
+                     <p>En este sentido, y particularmente en el contexto de la globalización, no es concebible un</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.16</book-part-id>
+                  <title-group>
+                     <label>X.</label>
+                     <title>COMENTARIOS FINALES</title>
+                  </title-group>
+                  <fpage>347</fpage>
+                  <abstract>
+                     <p>La Globalización es, sin duda, el más grande fenómeno del mundo actual y, por lo mismo, su mayor reto. Las fuertes contradicciones que le son inherentes, particularmente en lo que se refiere al permanente juego de inclusiones y exclusiones que realiza su carácter selectivo y manipulador, hacen necesario entender tanto el origen del mismo y su proceso histórico, como sus presupuestos teóricos y filosóficos, con el fin de construir un marco de pensamiento desde donde abordarla y/o enfrentarla; marco que supone la “capitalización” de la memoria histórico-cultural de los diferentes actores involucrados en sus distintos contextos a fin de establecer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.17</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA</title>
+                     <subtitle>GENERAL EMPLEADA</subtitle>
+                  </title-group>
+                  <fpage>363</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.18</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA</title>
+                     <subtitle>ASOCIADA CONSULTADA</subtitle>
+                  </title-group>
+                  <fpage>370</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18d84hj.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>387</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

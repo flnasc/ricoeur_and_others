@@ -1,0 +1,545 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">mpub.4585194</book-id>
+      <subj-group>
+         <subject content-type="nlm">Neuroscience</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Health Sciences</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Neuroscientific Turn</book-title>
+         <subtitle>Transdisciplinarity in the Age of the Brain</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Littlefield</surname>
+               <given-names>Melissa M.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Johnson</surname>
+               <given-names>Jenell M.</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">Editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472118267</isbn>
+      <isbn content-type="epub">9780472028351</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>the University of Michigan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3998/mpub.4585194"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>The Neuroscientific Turn</italic>brings together 19 scholars from a variety of fields to reflect on the promises of and challenges facing emergent "neurodisciplines" such as neuroethics, neuroeconomics, and neurohistory. In the aftermath of the Decade of the Brain, neuroscience has become one of the hottest topics of study---not only for scientists but also, increasingly, for scholars from the humanities and social sciences. While the popular press has simultaneously lauded and loathed the coming "neurorevolution," the academy has yet to voice any collective speculations about whether there is any coherence to this neuroscientific turn; what this turn will and should produce; and what implications it has for inter- or transdisciplinary inquiry.</p>
+         <p>Melissa M. Littlefield and Jenell M. Johnson provide an initial framework for this most recent of "turns" by bringing together 14 original essays by scholars from the humanities, social sciences, and neurosciences. The resulting collection will appeal to neuroscientists curious about their colleagues' interest in their work; scholars and students both in established neurodisciplines and in disciplines such as sociology or English wondering about how to apply neuroscience findings to their home disciplines; and to science, technology, and society scholars and students interested in the roles of interdisciplinarity and transdisciplinarity in the construction of knowledge.</p>
+      </abstract>
+      <counts>
+         <page-count count="254"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.2</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.4</book-part-id>
+                  <title-group>
+                     <title>Preface:</title>
+                     <subtitle>A Neuro-Pivot</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Illes</surname>
+                           <given-names>Judy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Theorizing the Neuroscientific Turn—Critical Perspectives on a Translational Discipline</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Littlefield</surname>
+                           <given-names>Melissa M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Jenell M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The application of neuroscience to fields beyond medicine¹ has been characterized as revolutionary, akin to the industrial and information revolutions (Lynch 2009, 10) and evidence of the birth of a “neurosociety” in which all domains of life and knowledge production are (or soon will be) under the sign of the “neuro.” Each day, it seems, the popular press reports new neuroscientific findings with breathless wonder. Recent headlines have claimed that neuroscience has the power to read our minds (Sample 2007), erase our memories (Carey 2009), predict our propensity for violence (Harrell 2010), and alter the neural fabric of our identities.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>“The Paradise of Non-Experts”:</title>
+                     <subtitle>The Neuroscientific Turn of the 1840s United States</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murison</surname>
+                           <given-names>Justine S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>To examine a neuroscientific “turn,” as this collection aims to do, is to give a particular shape to intellectual history. As opposed to a “revolution,” a “turn” signifies a quieter if no less profound pivot. Pivots turn away from and turn toward, in this case away from psychoanalytic models and toward contemporary neuroscientific ones. Current fascination among humanists and social scientists with neuroscience arguably came at a moment of exhaustion with a century-long attachment to Freudian psychoanalysis. Long a rich language of the psyche as expressed in somatic traces, psychoanalytic terms like<italic>anxiety</italic>and the<italic>unconscious</italic>have persisted in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>The Performativity of a Historical Brain Event:</title>
+                     <subtitle>Revisiting 1517 Strassburg</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bell</surname>
+                           <given-names>Jameson Kismet</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Since the early nineteenth century, the military surgeon Hans von Gersdorff’s (ca. 1455–1529)<italic>Feldtbuch der Wundartzney</italic>(1517) and medical doctor Lorenz Fries’s (ca. 1490–1530)<italic>Spiegel der Artzney</italic>(1518) have been used as a keying mechanism to help delimit the boundaries of the modern brain.¹ Gersdorff’s book includes fugitive sheets (<italic>fliegende Blätter</italic>), one of which represents an anatomized body and brain in a single sheet broadside; copies of this fugitive sheet were subsequently reprinted the next year in Fries’s text. In the history of the brain, these images mark the beginning of all subsequent, similarly represented cerebral cortices.² Hans</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>The Neural Metaphor</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gotman</surname>
+                           <given-names>Kélina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>When Descartes complained that the Ancients had misunderstood the nature and quality of the passions of the soul, in his work of the same name (1649), he drew on the brain’s mechanisms, as well as the fibrous ligaments called nerves, to describe the motion of the body, soul, and passions. He argued that whereas it appeared that the soul moves the body to act, and injects it with animal spirits, in fact the body moves of its own accord, through various mechanical operations effected by the nerves, the muscles, and the brain; and that the soul, whose thoughts could be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>Brainhood, Selfhood, or “Meat with a Point of View”:</title>
+                     <subtitle>The Value of Fiction for Neuroscientific Research and Neurological Medicine</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Birge</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Describing the dearth of collaboration between neuroscientists and humanists who study consciousness, literary scholar Norman Holland provides a dynamic vision of the two groups’ research.</p>
+                     <p>I think of neuroscience and the human sciences as like two very small human beings energetically tunneling in from opposite sides of a very large Alp. . . . I imagine the neuroscientists tunneling in from the west, and the humanists from the east. I am afraid the neuroscientists on the west side of the Alp do not listen much to sounds of digging from the humanists on the east side. Humanists, however, listen very</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Neuroscience and the Quest for God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hendrix</surname>
+                           <given-names>Scott E.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>May</surname>
+                           <given-names>Christopher J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>Modern writers such as Will Durant have described the medieval period as an “age of faith” (1950, iii), and despite the danger of gross generalization, in its broad strokes it is difficult for a modern researcher to deny the characterization. In fact, for countless premodern Europeans during the Middle Ages and beyond, belief in God’s divine plan served as an organizing principle through which they understood themselves and their world. Considering the power of the Catholic Church during these centuries, this theistic focus should come as no surprise, nor should it surprise us that many people during this period desired</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Literacy in a Biocultural World:</title>
+                     <subtitle>Integrating Sociocultural Studies of Literacy and Neuroscientific Research</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gorzelsky</surname>
+                           <given-names>Gwen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>In “Brains, Maps, and the New Territory of Psychology,” Anne Beaulieu persuasively argues that brain mapping “recasts [social and environmental] aspects in biological terms” (2003, 563).¹ Beaulieu draws on critiques of popular discussions of brain imaging such as Joseph Dumit’s work, and on the responses of many neuroscientists to Posner and Raichle’s book on the promise of brain imaging, which targets both interested lay readers and scientists. The journal<italic>Behavioral and Brain Sciences</italic>devotes nearly sixty pages to a précis of the book, twenty-seven peer commentaries, and the authors’ responses to those commentaries (Posner and Raichle 1995). Like Dumit’s text,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Pragmatic Neuroethics and Neuroscience’s Potential to Radically Change Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Racine</surname>
+                           <given-names>Eric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zimmerman</surname>
+                           <given-names>Emma</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Neuroscience research is increasingly informing ethics scholarship and ethics practices under the impetus of the fields of the neuroscience of ethics and of social neuroscience. This neuroturn within the field of ethics promises to enhance understanding of ourselves and of our fellow human beings. It has been argued that this knowledge will be a route to foster happiness in individual lives and the foundation of brain-based ethical norms and behaviors that will lead to greater social well-being (Changeux 1996, 1981). For example, Gazzaniga states that neuroscience will bring radical changes to ethics: “Neuroethics is more than just bioethics for the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Fast-Moving Objects and Their Consequences:</title>
+                     <subtitle>A Response to the Neuroscientific Turn in Practice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaulieu</surname>
+                           <given-names>Anne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>152</fpage>
+                  <abstract>
+                     <p>In various stages of the preparation of this book, the four essays in this part were labeled as new voices from the neuroscientific turn. These metaphors invoke sound and motion, and call to mind the experience of the Doppler shift—the changing frequency of a wave, as the source or listener move relative to each other. (This is the sound modulation that any three-yearold will enthusiastically imitate as a fast-moving motorcycle zooms by—neeeeeaaaaooooow.) This dynamic image seems very appropriate, not only because it highlights the fast pace of change in disciplinary configurations in relation to neuroscience, but also because</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Neuroeconomics:</title>
+                     <subtitle>A Cautionary Primer</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosenquist</surname>
+                           <given-names>James Niels</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rothschild</surname>
+                           <given-names>Casey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Neuroeconomics</italic>is a term that has received significant media exposure over the past decade (Bonanno et al. 2008). It has been hailed as a discipline that can answer a number of fundamental questions in the area of economics, while it offers up a new set of findings that can augment and potentially alter standard economic practice (Camerer, Loewenstein, and Prelec 2005). It is, along with its close cousin behavioral economics, one of the fastest growing subdisciplines in the field and even has its own listing in the<italic>Journal of Economic Literature</italic>classification system.¹</p>
+                     <p>While neuroeconomics (NE) has received its fair</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Functional Brain Imaging:</title>
+                     <subtitle>Neuro-Turn or Wrong Turn?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fitzpatrick</surname>
+                           <given-names>Susan M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>180</fpage>
+                  <abstract>
+                     <p>Research questions of interest to neuroscientists share a natural overlap with those pursued by scholars studying philosophy, art, music, history, or literature. The common ground is a shared desire to understand the workings of the human mind. What initially attracts someone to study neuroscience, regardless of what aspects of nervous system function an individual career may become focused on (e.g., basic functions of the synapse), is the allure of contributing knowledge that deepens our understanding of our minds. Many neuroscientists want to know how it is that the activities of the cells of the nervous system, individually and collectively, contribute</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>A Clinical Neuroscientist Looks Neuroskeptically at Neuroethics in the Neuroworld</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whitehouse</surname>
+                           <given-names>Peter J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>As a clinically oriented cognitive neuroscientist, I celebrated the past successes and future promises of science during The Decade of the Brain (1990–2000). I listened as we were told that we were well on our way to understanding how the mind worked, how we might enhance our thinking, and how the use of stem cells and other powerful biological approaches would eventually cure neurological diseases such as Alzheimer’s. I heard the call for a new field of ethical inquiry to help us manage these powerful new abilities to manipulate ourselves and others.</p>
+                     <p>My participation in the party was, however,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>The Mind-Sciences in a Literature Classroom</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Michelson</surname>
+                           <given-names>Bruce</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>216</fpage>
+                  <abstract>
+                     <p>The controversy is severe; provocative research is evolving rapidly—and for the humanities the stakes are higher than usual. To the study of cultural history and the teaching and criticism of imaginative literature, this revolution under way in the neurosciences is not just another chance to play with terminology and imperfectly understood perspectives borrowed from other disciplines. With potential to destabilize and transform so many commonplace assumptions about the nature of thinking and the dynamics of consciousness, twenty-first-century neuroscience challenges basic conventions about the structure and continuity of the mind and the self, conventions that subtend not only everyday humanist</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.18</book-part-id>
+                  <title-group>
+                     <title>Afterword:</title>
+                     <subtitle>Twisting the Neurohelix</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dumit</surname>
+                           <given-names>Joseph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>This book indexes a new neuroscientific turn in what we probably should think of as the neurohelix. If the first twist was neuroscience, the second twist the critical analyses of neuroscience by science and technology studies, the third twist the turning to humanities topics by neuroscientists, and the fourth twist the appropriation of neuroscience results into humanities and social sciences relatively uncritically, then this fifth twist is the mutual engagement of these groups, trying to sort out what we actually have learned from all of these studies of brains as if they were persons, and studies of persons as if</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.19</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.4585194.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>
