@@ -61,7 +61,7 @@ def findXmlFile(term,f):
 
 	for dirName, subdirList, files in os.walk(rootdir):
 		# print('Found directory: %s' % dirName)
-		if(dirName == "../../../data/jstor_metadata"):
+		if(dirName == "../../../data/jstor_metadata-Clean"):
 
 			for file in files:
 				if file.endswith(".xml"):
@@ -70,10 +70,10 @@ def findXmlFile(term,f):
 					#depending on whehter it a book chapter or journal
 					if(file.startswith("book")):
 						parseBookChapterXmlFile(term, item, file, f)
-						print("Parsed ", file, " for: ", term)
+						#print("Parsed ", file, " for: ", term)
 					if(file.startswith("journal")):
 						parseJournalChapterXmlFile(term, item, file, f)						
-						print("Parsed", file, " for: ", term)
+						#print("Parsed", file, " for: ", term)
 
 # Parse through and find articles that match key word
 def parseJournalChapterXmlFile(term, item, file,f):
@@ -332,48 +332,48 @@ def writeCounters(term,f):
 
 def main():
 
-	terms = ['history']
+	#terms = ['history']
 
-	# terms = ["history","philosophy","truth","work","time","explanation","event",
- #    "evil","myth","sin","man","theology","world","experience",
- #    "testimony","freedom","meaning","witness","hope","consciousness","time",
- #    "choice","attention","freedom","act","project","consciousness","decision",
- #    "language","text","translation","work","time","word","meaning",
- #    "memory","die","time","history","representation","past","work",
- #    "concept","labor","ideology","alienation","production","man","relation",
- #    "par","consciousness","world","cf","meaning","reduction","phenomenology",
- #    "critique","experience","text","interpretation","understanding","tradition","ideology",
- #    "language","philosophy","time","history","work","problem","relation",
- #    "phenomenology","sense","consciousness","ego","world","experience","body",
- #    "death","time","life","work","memory","narrator","relation",
- #    "language","theory","philosophy","system","science","problem","question",
- #    "ideology","critique","action","situation","psychoanalysis","process","concept",
- #    "man","history","power","work","world","violence","word",
- #    "body","action","movement","effort","object","world","consciousness",
- #    "substance","philosophy","problem","soul","science","form","question",
- #    "discourse","text","meaning","world","work","language","reference",
- #    "psychoanalysis","theory","meaning","work","language","interpretation","point",
- #    "ideology","concept","order","system","relation","function","action",
- #    "pleasure","pain","life","imagination","object","body","feeling",
- #    "pp","translation","cit","der","op","philosophy","du",
- #    "project","decision","consciousness","action","description","relation","possibility",
- #    "meaning","interpretation","symbol","reflection","language","symbolism","consciousness",
- #    "conscience","sense","logic","question","gift","rule","justice",
- #    "emotion","habit","body","consciousness","desire","movement","action",
- #    "action","sense","question","identity","character","relation","person",
- #    "freedom","death","consciousness","consent","necessity","man","experience",
- #    "image","world","fiction","imagination","sense","meaning","language",
- #    "utopia","language","sense","imagination","action","ideology","world",
- #    "man","reflection","thing","point","idea","synthesis","finitude",
- #    "dream","work","philosophy","experience","point","interpretation","man",
- #    "text","discourse","revelation","sense","world","language","faith",
- #    "gt","lt","ego","principle","reality","death","desire",
- #    "metaphor","level","meaning","language","word","discourse","sense",
- #    "freedom","consciousness","life","character","necessity","man","nature",
- #    "justice","idea","law","sense","state","fact","order",
- #    "logic","theory","philosophy","language","law","science","reality",
- #    "text","interpretation","language","explanation","discourse","world","relation",
- #    "time","work","text","story","reader","history","fiction"]
+	terms = ["history","philosophy","truth","work","time","explanation","event",
+    "evil","myth","sin","man","theology","world","experience",
+    "testimony","freedom","meaning","witness","hope","consciousness","time",
+    "choice","attention","freedom","act","project","consciousness","decision",
+    "language","text","translation","work","time","word","meaning",
+    "memory","die","time","history","representation","past","work",
+    "concept","labor","ideology","alienation","production","man","relation",
+    "par","consciousness","world","cf","meaning","reduction","phenomenology",
+    "critique","experience","text","interpretation","understanding","tradition","ideology",
+    "language","philosophy","time","history","work","problem","relation",
+    "phenomenology","sense","consciousness","ego","world","experience","body",
+    "death","time","life","work","memory","narrator","relation",
+    "language","theory","philosophy","system","science","problem","question",
+    "ideology","critique","action","situation","psychoanalysis","process","concept",
+    "man","history","power","work","world","violence","word",
+    "body","action","movement","effort","object","world","consciousness",
+    "substance","philosophy","problem","soul","science","form","question",
+    "discourse","text","meaning","world","work","language","reference",
+    "psychoanalysis","theory","meaning","work","language","interpretation","point",
+    "ideology","concept","order","system","relation","function","action",
+    "pleasure","pain","life","imagination","object","body","feeling",
+    "pp","translation","cit","der","op","philosophy","du",
+    "project","decision","consciousness","action","description","relation","possibility",
+    "meaning","interpretation","symbol","reflection","language","symbolism","consciousness",
+    "conscience","sense","logic","question","gift","rule","justice",
+    "emotion","habit","body","consciousness","desire","movement","action",
+    "action","sense","question","identity","character","relation","person",
+    "freedom","death","consciousness","consent","necessity","man","experience",
+    "image","world","fiction","imagination","sense","meaning","language",
+    "utopia","language","sense","imagination","action","ideology","world",
+    "man","reflection","thing","point","idea","synthesis","finitude",
+    "dream","work","philosophy","experience","point","interpretation","man",
+    "text","discourse","revelation","sense","world","language","faith",
+    "gt","lt","ego","principle","reality","death","desire",
+    "metaphor","level","meaning","language","word","discourse","sense",
+    "freedom","consciousness","life","character","necessity","man","nature",
+    "justice","idea","law","sense","state","fact","order",
+    "logic","theory","philosophy","language","law","science","reality",
+    "text","interpretation","language","explanation","discourse","world","relation",
+    "time","work","text","story","reader","history","fiction"]
 
 	start = time.time()
 
