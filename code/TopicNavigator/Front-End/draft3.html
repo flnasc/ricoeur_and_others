@@ -47,7 +47,7 @@ h1 {
 }
 
 .dropdown {
-    background-color: none;
+    background-clipolor: none;
     position: relative;
     display: inline-block;
     border: none;
@@ -84,23 +84,6 @@ h1 {
     box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 20%;
-    padding: 5px;
-    border-width: 0px;
-    border-color: black;
-    height: 250px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 #toTop {
   display: none;
   position: fixed;
@@ -124,21 +107,14 @@ h1 {
   background-image: linear-gradient(to bottom, #f4f5f5, #dfdddd);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#f4f5f5, endColorstr=#dfdddd);
 }
 
-table {
+table.category-table {
     width:100%;
     border-collapse: collapse;
     border: 1px;
     padding: 40px;
 }
-
-th {
-    border: 2px solid #E0E0E0;
-    padding-bottom: 10px;
-    width: 25%;
-    background: #9E9E9E;
-}
-
-td {
+/*
+td, th {
     border: 2px solid #E0E0E0;
     padding-bottom: 10px;
     width: 25%;
@@ -147,12 +123,13 @@ td {
 tr {
     border: 2px solid #E0E0E0;
     vertical-align: top;
-    background: #FAFAFA;
+
 }
 
 tr:nth-child(even) {
     background: #F5F5F5;
-}
+
+}*/
 
 #toTop:hover {
     border:1px solid #bfc4c4;
@@ -180,7 +157,7 @@ tr:nth-child(even) {
 
             <table style="border: none"><tr style="border: none">
                 <th colspan="4"style="background: #F5F5F5;border: none;">Jump to Category:</th></tr>
-                <tr style="border: none"><td style="border: none">
+                <tr style="border: none;"><td style="border: none">
                     <p><a style="color: black"href="#Action">&#8674 Action</a></p>
                     <p><a style="color: black"href="#Body">&#8674 Body</a></p>
                     <p><a style="color: black"href="#Choice">&#8674 Choice</a></p>
@@ -237,10 +214,10 @@ tr:nth-child(even) {
 
     function create_table() {
         var x = "", i, j;
-        x += '<table><th>Topics by Category</th>';
+        x += '<table class="search-result"><th>Topics by Category</th>';
 
         for (i=0; i<topics.length; i++) {
-            x = x + '<tr><td><h2 style="margin: 5px"id="' + topics[i] + '">' + topics[i] +'</h2>';
+            x = x + '<tr style="align: left"><td><h2 style="margin: 5px"id="' + topics[i] + '">' + topics[i] +'</h2>';
             for (j =0; j<search_terms[i].length; j++){
               x = x + '<div style="padding: 0px; display: inline; line-height: 28px">';
               x = x + ' <div class="dropdown"><button class="dropbtn"> ' + search_terms[i][j] + ' </button><div class="dropdown-content"><a  href="https://digitalricoeur.org/about;((%22c%22%20.%20%220sGYqH%2FbjxS96qpeU9ItA68y67jcoKDMpIDMgKCgobGliICJ3ZWItc2VydmVyL2xhbmcvYWJvcnQtcmVzdW1lLnJrdCIpIC4gImxpZnRlZC4zIikgKChsaWIgIndlYi1zZXJ2ZXIvbGFuZy93ZWItY2VsbHMucmt0IikgLiBkZXNlcmlhbGl6ZS1pbmZvOmZyYW1lLXYwKSAoKGxpYiAicmljb2V1ci9wb3J0YWwvdGVybS1zZWFyY2gucmt0IikgLiAibGlmdGVkLjQ3NDUiKSkgMCAoKSAoKSAoMCAoMSAoaCAtICgpIChsaWZ0ZWQuNTQtMCB1IC4gImh0dHBzOi8vZGlnaXRhbHJpY29ldXIub3JnLyIpIChsaWZ0ZWQuMjQ0MC04IC4gI2YpIChsaWZ0ZWQuMjQwNC02IC4gI3QpIChsaWZ0ZWQuMTIwMDYtMiAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTIwMjQtMyAuIGxhdGVzdC10by1vbGRlc3QpIChsaWZ0ZWQuMTU4NS00IC4gdGVtcDE1KSAobGlmdGVkLjIzODYtNSAuIGZpcnN0LT5sYXN0KSAobGlmdGVkLjI0NTgtOSAuIGFueSkgKGxpZnRlZC4yNDIyLTcgLiAjdCkgKGxpZnRlZC4xMTk4OC0xIC4gbGFzdC11c2VkKSAobGlmdGVkLjEwMzgtMTAgLiB0ZW1wMSkpKSAoYyAodiEgKDIpICNmICNmKSkpKQ==%22))?input_0=' + search_terms[i][j] +'">Primary Source</a><a href="#">Secondary Source</a></div></div>';
