@@ -4,7 +4,7 @@
         <meta http-equiv = "content-type" content = "text/html; charset = UTF8">
         <title> Digital Ricoeur: Ricoeur's Social Network </title>
         <link rel = "stylesheet" type = "text/css" href = "./DR_SN.css"> 
-        <script type = "text/javascript" src = "../d3/d3.js" charset="utf-8"></script>
+
     </head>
 
     <body>
@@ -16,8 +16,9 @@
 
         <h2> Ricoeur's Best Friends: a bar graph </h2>
     <!-- Allow for input of start year and end year for ranged display of data  -->
-        <div class="visualization">
+        <div class="vis_menu">
             <div>
+                <span><b> Displaying the time frame of: </b></span>
                 <input type="text" id="startYear" size="4">
                 <span class="sortSpan"> ~ </span>
                 <input type="text" id="endYear" size="4">
@@ -56,11 +57,11 @@
             <br>
         </div>
         <br>
-        <div class = "bargraphDIV"></div>
+        <div id="b_DIV"></div>
         <h2> Ricoeur's Best Friends: a line graph </h2>
-        <div class = "linegraphDIV"></div>
-        <script src = "./DR_SN_bargraph.js"></script>
-        <script src = "./DR_SN_linegraph.js"></script>
+        <div id="l_DIV"></div>
+        <script type = "text/javascript" src = "../d3/d3.js" charset="utf-8"></script>
+        <script src = "./DR_SN_vis.js"></script>
 
 
     </body>

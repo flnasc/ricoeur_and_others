@@ -1,5 +1,7 @@
-# py scrip that takes summary.csv and reformat it to better fit data structure needed for line graph
+################################################################################################################
+# py script that takes summary.csv and reformats it to better fit data structure needed for line graph
 # Created by Do Yeun Kim
+#
 
 import pandas as pd
 
@@ -7,7 +9,7 @@ import pandas as pd
 data = pd.read_csv('./data/summary.csv', index_col=False)
 sortedData = data.sort_values(by=['Thinker', 'Year'])
 sortedData = sortedData.reset_index(drop=True)
-lineGraph = pd.DataFrame(columns=['Title', 'Year'])
+lineGraph = pd.DataFrame(columns=['Title','year']) 
 years = []
 
 
@@ -26,7 +28,7 @@ def detectYears():
     print(years)
 
     for i in range(len(years)):
-        lineGraph.loc[i] = [title[i], years[i]]
+        lineGraph.loc[i] = [years[i]] #title[i]
 
 
 
@@ -69,7 +71,7 @@ def insertThinkers():
                 lineGraph[sortedData.Thinker[i]] = curr_t
 
     # Done with creating the data frame, so proceed to output it as a csv
-    lineGraph.to_csv('./data/lineGraph.csv', index=False)
+    lineGraph.to_csv('./data/lineGraph_1.csv', index=False)
 
 detectYears() 
 insertThinkers()

@@ -4,7 +4,7 @@ body {
     font-family: arial;
 }
 
-.visualization {
+.vis_menu {
     margin-left: 45px;
 }
 
@@ -65,5 +65,27 @@ path {
     stroke: grey;
     stroke-width: 1;
     shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1.5px;
+    stroke-linejoin: "round;
+    stroke-linecap: "round";
+}
+
+.line:hover {
+    stroke-width: 6px;
+}
+
+.x axis {
+}
+.y axis {
+
+}
+
+.thinker {
+
 }
 

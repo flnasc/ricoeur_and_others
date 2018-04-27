@@ -1,5 +1,5 @@
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// .js file for interactive visualization fo Paul Ridcoeur's Social Network, a branch of Ricoeur and the Other.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// .js file for interactive visualizatoins for Paul Ridcoeur's Social Network, a branch of Ricoeur and the Other.
 // Ricoeur and the Other is a part of Digital Ricoeur project
 // 
 // This is an interactive visualization effort of Paul Ricoeur's intellectual peers, as referred to by Ricoeur
@@ -8,46 +8,50 @@
 // by Do Yeun Kim
 //
 //
-//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// Initialize the array for dataset
-var dataset = [], 
-    barFiltered = [],
-    lineFiltered = [],
-    // Variables for date range of the graph
-    startYear = Number.MAX_SAFE_INTEGER,
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Variables that I think could be shared between the two graphs are defined here
+var startYear = Number.MAX_SAFE_INTEGER,
+    refreshSY,
     endYear = Number.MIN_SAFE_INTEGER,
-    // Varaibles used for sorting
+    refreshEY,
     sortBy,
     reverse,
     width = 1000,
     height = 600,
-    padding = 80;
+    padding = 80,
+    b_set = [],
+    barFiltered = [],
+    l_set = [];
 
 // Read in the .csv file
-// Right now this reads in one file, but maybe we should expand it to read in all .csv files?
 // Print out an error message if the file is unreadable.
-// Otherwise, save the CSV file into dataset then call visualize function
+// Otherwise, save the CSV file into b_set then call visualize function
 function initialize() {
 
-    d3.csv("./data/summary.csv", function(error, data) {
-        dataset = data;
+    // Read in the csv file for the bar graph
+    // Check for errors, then do some pre-processing
+    d3.csv("./data/barGraph.csv", function(error, data) {
+        b_set = data;
         if (error) {
             console.log(error);
             window.alert("Cannot read in the file.");
         }
         else {
-            console.log(dataset);
+            console.log(b_set);
         
             // Safety check that we are correctly reading in the file
-            for (i = 0; i < dataset.length; i++) {
-                if (dataset[i].Year < startYear) {
-                    startYear = dataset[i].Year;
+            for (i = 0; i < b_set.length; i++) {
+                if (b_set[i].Year < startYear) {
+                    startYear = b_set[i].Year;
                 }   
-                if (dataset[i].Year > endYear) {
-                    endYear = dataset[i].Year;
+                if (b_set[i].Year > endYear) {
+                    endYear = b_set[i].Year;
                 }
             }
+            refreshSY = startYear;
+            refreshEY = endYear;
 
             // Display the date range we are currently working on
             // Also display the current sorting order
@@ -55,26 +59,31 @@ function initialize() {
             document.getElementById("endYear").value = endYear;
             sorBy = "Thinker";
                
-            // Filter the dataset for visualization
+            // Filter the b_set for visualization
             filterBar();
             checkReverse();
         }
     });
+
+    // Read in the csv file for line graph
+    // Similarly, check for error then initialize the graph
+    d3.csv("./data/lineGraph.csv", type, function(error, data) {
+        l_set = data;
+        if (error) {
+            console.log(error);
+            window.alert("Cannot read in the file.");
+        }
+        console.log(l_set);
+        initLine(l_set);
+    });
+
 }
 
-// Update date range for the bar graph
-// This function grabs the date range provided by the user, re-filters the dataset, 
-// and updates the visualization
-function grabDate() {
-    startYear = parseInt(document.getElementById("startYear").value);
-    endYear = parseInt(document.getElementById("endYear").value);
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    console.log(startYear);
-    console.log(endYear);
-    
-    filterBar();
-    sortData();
-}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// This part is associated with the bargraph for the time being
+//
 
 // The user can input the dates by hitting enter instead of clicking Date Range
 function checkInput() {
@@ -99,6 +108,40 @@ function checkInput() {
     });
 }
 
+// Update date range for the bar graph
+// This function grabs the date range provided by the user, re-filters the b_set, 
+// and updates the visualization
+function grabDate() {
+    startYear = parseInt(document.getElementById("startYear").value);
+    endYear = parseInt(document.getElementById("endYear").value);
+
+    console.log(startYear);
+    console.log(endYear);
+    
+    filterBar();
+    sortData();
+}
+
+// If the user wants to refresh view to default
+// This returns to initial state w/o having to read in the file
+function resetDate() {
+    startYear = refreshSY;
+    endYear = refreshEY;
+
+    // Display the date range we are currently working on
+    // Also display the current sorting order
+    document.getElementById("startYear").value = startYear;
+    document.getElementById("endYear").value = endYear;
+
+    console.log(startYear);
+    console.log(endYear);
+
+    filterBar();
+    sortData();
+}
+
+
+
 // From the two mutually exclusive radio buttons, fetch by which factor to sort barFiltered.
 // Then, sort barFiltered using updated sortBy and reverse, redrawing the bargraph
 function sortData() {
@@ -115,8 +158,7 @@ function sortData() {
             }
             break;
         }
-   }
-    d3.select("bargraph").remove();
+    }
     barGraph();
 }
 
@@ -139,34 +181,11 @@ function checkReverse() {
 
     console.log(reverse);
     sortData();
-    lineGraph();
 
 }
 
-function lineGraph() {
-    // Create svg frame for linegraph
 
-    
-    let line_data = dataset.slice(0);  
-    console.log(line_data);
-    // dataset is now independent of temp, and will not refer to temp
-    // i.e. modifying temp will no longer modify dataset
-    line_data = dataset.map(o => Object.assign({}, o));
-
-    var linegraph = d3.select(".linegraphDIV").
-        append("svg").
-        attr("class", "graph").
-        attr("height", height).
-        attr("width", width);
-    
-    var x = d3.scaleBand().range([padding, width - padding]),
-        y = d3.scaleLinear().range([height - padding, padding]),
-        z = d3.scaleOrdinal(d3.schemeCategory20);
-
-
-}
-
-// The main function
+// The main function for bargraph
 // Set dimension of the SVG, create the element, then draw the graph
 //
 function barGraph(){
@@ -175,12 +194,20 @@ function barGraph(){
     var barPad = 1;
     var barWidth = (width - 2 * padding) / barFiltered.length - barPad;
 
+    // Selectively remove the bar graph
+    // As we move on to add more interactivities to the line graph,
+    // we may want to remove both graphs at once.
+    d3.select("#b_graph").remove();
+
     // Create svg frame for visualization given the attributes above
-    var bargraph = d3.select(".bargraphDIV").
+    var bargraph = d3.select("#b_DIV").
         append("svg").
         attr("class", "graph").
         attr("width", width).
-        attr("height", height);
+        attr("height", height).
+        attr("id", "b_graph");
+
+    
 
     // Set scales for x-axis and y-axis to afford dynamic scaling
     var xScale = d3.scaleBand().
@@ -225,23 +252,23 @@ function barGraph(){
         attr("class", "labels");
 
     // Define the axes
-    var xAxis = d3.axisBottom(xScale).
+    var b_xAxis = d3.axisBottom(xScale).
                     tickFormat(function(d, i) {
                         return barFiltered[i].Thinker;});
-    var yAxis = d3.axisLeft(yScale);
+    var b_yAxis = d3.axisLeft(yScale);
 
     // Draw the axes
     bargraph.append("g").
         attr("class", "x axis").
         attr("transform", "translate(0 "+ (height - padding) + ")").
-        call(xAxis).
+        call(b_xAxis).
         attr("font-weight", "bold").
         selectAll(".tick text").
         call(wrapLabel, barWidth);
     bargraph.append("g").
         attr("class", "y axis").
         attr("transform", "translate(" + padding + ",0)").
-        call(yAxis);
+        call(b_yAxis);
 
     // Add the labels to the axes
     bargraph.append("text").
@@ -312,8 +339,8 @@ var sort_by = function(field, reverse, primer) {
 
 }
 
-// This function filters dataset to better accomodate for data being visualized
-// First, the dataset is filtered by the year range
+// This function filters b_set to better accomodate for data being visualized
+// First, the b_set is filtered by the year range
 // Then, the frequency at which the thinker is refered to in Ricoeur's work
 // is summed up for each thinker so that we don't display multiple occasions for
 // each thinker
@@ -321,13 +348,14 @@ function filterBar() {
 
     // Create temporary arrays to process
     dateFilter = [];
-    // This method allows for creating an independent copy of dataset
-    // Makes a copy of dataset as temp
-    let temp = dataset.slice(0);  
+
+    // This method allows for creating an independent copy of b_set
+    // Makes a copy of b_set as temp
+    let temp = b_set.slice(0);  
     console.log(temp);
-    // dataset is now independent of temp, and will not refer to temp
-    // i.e. modifying temp will no longer modify dataset
-    temp = dataset.map(o => Object.assign({}, o));
+    // b_set is now independent of temp, and will not refer to temp
+    // i.e. modifying temp will no longer modify b_set
+    temp = b_set.map(o => Object.assign({}, o));
 
     // If the datum falls into the date range, add it to the temporary arry
     for (var i = 0; i < temp.length; i++) {     
@@ -337,7 +365,7 @@ function filterBar() {
     }
     // Sort the temporary array to make summation easier
     dateFilter.sort(sort_by('Thinker'), false, function(a) {return a});
-
+    
     // Initialize variables for summation
     sum = 0;
     bfLen = 0;
@@ -366,7 +394,132 @@ function filterBar() {
         }
     }
     console.log(barFiltered);
+}
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// This part contains the functions used for the line chart
+//
+
+// The line graph will be appended to div of class "l_DIV"
+var linegraph = d3.select("#l_DIV").
+    append("svg").
+    attr("class", "graph").
+    attr("width", width).
+    attr("height", height).
+    attr("id", "l_graph");
+
+var g = linegraph.append("g");
+
+// As of now, we are using a predfined color scheme with 20 colors.
+// We might need to define our own color scheme if we want to show more than 20 thinkers
+var l_x = d3.scaleTime().range([padding, width - padding]),
+    l_y = d3.scaleLinear().range([height - padding, padding]),
+    l_z = d3.scaleOrdinal(d3.schemeCategory20);
+
+// Using d3 library's timeParse function to parse years 
+var parseYear = d3.timeParse("%Y");
+
+// Draw line
+var line = d3.line().
+    curve(d3.curveBasis).
+    x(function(d) {return l_x(d.year);}).
+    y(function(d) {return l_y(d.freq);});
+
+function initLine(l_set) {
+    console.log("HI");
+    // Create thinkers, which is a map that allows us to access individual frequencies,
+    // mapped onto each thinker and year
+    var thinkers = l_set.columns.slice(2).map(function(id) {
+        return {
+            id: id,
+            values: l_set.map(function(d) {
+                return {year: d.year, freq: d[id]};
+            })
+        };
+    });
+    console.log(thinkers);
+
+    // Define the domain for the axes
+    l_x.domain(d3.extent(l_set, function(d) {return d.year;}));
+    l_y.domain([
+        d3.min(thinkers, function(c) {return d3.min(c.values, function(d) {return d.freq;}); }),
+        d3.max(thinkers, function(c) {return d3.max(c.values, function(d) {return d.freq;}); })
+    ]);
+    l_z.domain(thinkers.map(function(c) {return c.id;}));
+    
+    drawLineChart(thinkers);
+}
+
+
+// This function actually draws the line graph
+function drawLineChart(thinkers) {
+
+    // Define axes for lin graph
+    var l_xAxis = d3.axisBottom(l_x);
+    var l_yAxis = d3.axisLeft(l_y);
+    // Draw the axes
+    g.append("g").
+        attr("class", "x axis").
+        attr("transform", "translate(0" + "," + (height - padding) + ")").
+        call(l_xAxis);
+    g.append("g").
+        attr("class", "y axis").
+        attr("transform", "translate(" + padding + ",0)").
+        call(l_yAxis);
+
+   // Label the axes     
+    g.append("text").
+        attr("transform", "translate(" + (width/2) + "," + (height - padding/2) + ")").
+        attr("font-weight", "bold").
+        text("Years");
+    g.append("text").
+        attr("transform", "rotate(-90)").
+        attr("y", padding / 3).
+        attr("x", 0 - height / 2).
+        attr("dy", "1em").
+        attr("font-weight", "bold").
+        style("text-anchor", "middle").
+        text("Frequency");
+
+    // Each thinker
+    var thinker = g.selectAll(".thinker").
+        data(thinkers).
+        enter().
+        append("g").
+        attr("class", "thinker");
+
+    // For each thinker, draw a line using the values 
+    // Here, values defined in initLine function as thinkers was created
+    thinker.append("path").
+        attr("class", "line").
+        attr("d", function(d) {
+            return line(d.values); }).
+        style("stroke", function(d) { return l_z(d.id); });
+
+    // Appending the name of each thinker at the end of each line
+    thinker.append("text").
+        datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; }).
+        attr("transform", function(d) { return "translate(" + l_x(d.value.year) + "," + l_y(d.value.freq) + ")";}).
+        attr("x", 3).
+        attr("dy", "0.35em").
+        style("font", "10px sans-serif").
+        text(function(d) { return d.id; });
+}
+
+
+// When the csv file is read, all elements are read in as string
+// Here, we parse for date and convert the frequencies to numbers
+function type (d, _, columns) {
+    // Parse years into year format provided by d3 library
+    d.year = parseYear(d.year);
+    var n = columns.length;
+    for (var i = 1; i < n; ++i) {
+        c = columns[i];
+        d[c] = +d[c];
+    }
+    return d;
 }
 
 initialize();
