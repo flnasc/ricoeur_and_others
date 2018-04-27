@@ -1,0 +1,619 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt14brrrs</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>A Companion to Julian of Norwich</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>McAvoy</surname>
+               <given-names>Liz Herbert</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>08</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="ppub">9781843841722</isbn>
+      <isbn content-type="epub">9781846156229</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Woodbridge, Suffolk; Rochester, NY</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2008</copyright-year>
+         <copyright-holder>Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7722/j.ctt14brrrs"/>
+      <abstract abstract-type="short">
+         <p>Julian of Norwich, the fourteenth/early fifteenth-century anchoress and mystic, is one of the most important and best-known figures of the Middle Ages. Her Revelations, intense visions of the divine, have been widely studied and read; the first known writings of an English woman, their influence extends over theology and literature. However, many aspects of both her life and thought remain enigmatic. This exciting new collection offers a comprehensive, accessible coverage of the key aspects of debate surrounding Julian. It places the author within a wide range of contemporary literary, social, historical and religious contexts, and also provides a wealth of new insights into manuscript traditions, perspectives on her writing and ways of interpreting it, building on the work of many of the most active and influential researchers within Julian studies, and including the fruits of the most recent, ground-breaking findings. It will therefore be a vital companion for all of Julian's readers in the twenty-first century. Dr LIZ HERBERT MCAVOY is Senior Lecturer in Gender in English and Medieval Studies at Swansea University. CONTRIBUTORS: KIM M. PHILLIPS, CATE GUNN, ALEXANDRA BARRATT, DENISE M. BAKER, DIANE WATT, E. A. JONES, ANNIE SUTHERLAND, BARRY WINDEATT, MARLEEN CRE, ELISABETH DUTTON, ELIZABETH ROBERTSON, LAURA SAETVEIT MILES, LIZ HERBERT MCAVOY, ENA JENKINS, VINCENT GILLESPIE, SARAH SALIH</p>
+      </abstract>
+      <counts>
+         <page-count count="264"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.4</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.5</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.6</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xiv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.7</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>‘God forbede … that I am a techere’: Who, or what, was Julian?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McAVOY</surname>
+                           <given-names>LIZ HERBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The above quotation, taken from a 1934 novel by Enid Dinnis, the main character of which is based loosely on the figure of Julian of Norwich, speaks volumes for the ‘industry’ of imaginative projection which Julian has become during the course of the last century or so. The very fact that this now obscure novel reached its sixth imprint in 1934 attests to its contemporary popularity and to a burgeoning fascination with Julian and the anchoritic life which she embraced. Since that time, Julian has become an increasingly familiar figure within both literary and non-literary circles, and both religious and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Femininities and the Gentry in Late Medieval East Anglia:</title>
+                     <subtitle>Ways of Being</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PHILLIPS</surname>
+                           <given-names>KIM M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>In present-day Norwich one can visit a version of the church where the recluse who called herself Julian spent perhaps forty years of her life. I say ‘version’ because although St Julian’s Church, off Rouen Road in the south-east corner of the city, looks medieval it was largely reconstructed following severe damage suffered during bombing raids in 1942.¹ ‘Mother Julian’s Cell’ is an entirely modern structure built from scratch in the early 1950s. It adjoins the south wall of the church and is accessible via a Norman doorway moved to the site from the bombed-out church of St Michael at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>‘A recluse atte Norwyche’:</title>
+                     <subtitle>Images of Medieval Norwich and Julian’s Revelations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GUNN</surname>
+                           <given-names>CATE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>We know nothing conclusive about Julian’s early life, but she indicates that she had been devout since her youth; if Julian’s childhood and youth had been spent in Norwich, how would the experiences of her early life have fed her devotional life and possibly informed her visions? Among the evidence that Norman tanner cites in support of his claim that Norwich may have been ‘Europe’s<italic>most</italic>; religious city’¹ is the number of hermits and anchorites supported by the city in the high middle Ages. Pre-eminent among these anchorites is Julian herself, the ‘star attraction’² of the spiritual life of Norwich.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>‘No such sitting’:</title>
+                     <subtitle>Julian Tropes the Trinity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BARRATT</surname>
+                           <given-names>ALEXANDRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>Devotion to the Trinity was growing in the fourteenth and fifteenth centuries: ‘In 1334 Pope John XXII set aside the first Sunday after Pentecost as Trinity Sunday. Increasing devotion to the Trinity can also be seen in the many prayers addressed to the Trinity’.¹ Theology, however, did not necessarily keep pace. In his study of the doctrine of the Holy Trinity, Thomas Marsh has claimed: ‘In spite of the formal, notional acknowledgement of the doctrine, a real understanding of God as Trinity practically disappeared from the Christian consciousness of the Middle Ages’.² This sweeping condemnation, however, ignores the notable contribution</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Julian of Norwich and the Varieties of Middle English Mystical Discourse</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BAKER</surname>
+                           <given-names>DENISE N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>Writing near the end of the fourteenth century, the anonymous author of the<italic>Cloud of Unknowing</italic>warns his disciple that the language of spirituality is radically metaphoric:</p>
+                     <p>And þerfore beware þat þou conceyue not bodely þat þat is mente goostly, þof al it be spokyn in bodely wordes […] for þof al þat a þing be neuer so goostly in itself, neuerþeles Ʒif Ʒit it schal be spoken of, siþen it so is þat speche is a bodely werk wrouƷt wiþ þe tonge, þe whiche is an instrument of þe body, it behoueþ alweis be spoken in bodely wordes. Bot</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Saint Julian of the Apocalypse</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WATT</surname>
+                           <given-names>DIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>In both the earlier<italic>A Vision Showed to a Devout Woman</italic>and the longer<italic>A Revelation of Love</italic>,¹ Julian of Norwich relates that she was denied a specific revelation concerning the spiritual destiny of a close friend or relative:</p>
+                     <p>And when God allemightye hadde shewed me plentyouslye and fully of his goodnesse, I desired of a certaine person that I loved howe it shulde be with hire. And in this desire I letted myselfe, for I was noght taught in this time. And than was I answerde in my reson, als it ware be a frendfulle meen: ‘Take it generally,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.13</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Anchoritic Aspects of Julian of Norwich</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JONES</surname>
+                           <given-names>E. A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>That we know next to nothing about our author has long been a truism of Julian studies. Serenus Cressy tells us that, for all his searching, he ‘could not discover any thing touching her, more than what she occasionally sprinkles in the Book it self’.² For Colledge and Walsh she is ‘an enigmatic figure’; for Grace Jantzen she is likewise ‘an enigma’; for Christopher Abbott she has ‘a certain “disappeared” quality’, and in their recent edition Watson and Jenkins are able to offer only ‘a fragmentary biography’.³ The fragments for such a biography are admittedly few, as McAvoy also points</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.14</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Julian of Norwich and the Liturgy</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SUTHERLAND</surname>
+                           <given-names>ANNIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>88</fpage>
+                  <abstract>
+                     <p>At the very outset of the Short Text of her Revelations,¹ Julian of Norwich tells us:</p>
+                     <p>I desirede thre graces be the gifte of God. The first was to have minde of Cristes passion. The seconde was bodelye syekenes. And the thrid was to have of Goddes gifte thre woundes. (<italic>Vision</italic>, 1.1–3)</p>
+                     <p>Within the context of late medieval affective spirituality, the first of these requests seems entirely conventional, yet Julian positions it explicitly outside the devotional framework of the Church:</p>
+                     <p>Notwithstandinge that I leeved sadlye alle the peynes of Criste as halye kyrke shewes and teches […] noughtwithstondinge alle</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.15</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Julian’s Second Thoughts:</title>
+                     <subtitle>The Long Text Tradition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WINDEATT</surname>
+                           <given-names>BARRY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>The survival of two versions of the text of Julian of Norwich – both judged authentic by modern scholarship – provides an opportunity to chart the development of a mystic mind and a contemplative writer in their recording of how Julian responds to the challenge of interpreting her original revelatory experience.¹ Only one mid fifteenth-century manuscript – London, British Library MS Additional 37790 – preserves the shorter form, in a compendium of contemplative reading (outlined by Marleen Cré at the start of her essay), while the fuller version, some six times longer, survives complete in three post-Reformation manuscripts.³ Development in form and content between</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>‘This blessed beholdyng’:</title>
+                     <subtitle>Reading the Fragments from Julian of Norwich’s A Revelation of Love in London, Westminster Cathedral Treasury, MS 4</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CRÉ</surname>
+                           <given-names>MARLEEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>Julian of Norwich’s writings have come down to us in a limited number of manuscripts, only two of which are medieval. London, British Library MS Additional 37790 (Amherst) was written around 1450, most likely in an English charterhouse. It is an anthology of five complete authorial texts in Middle English interspersed with shorter extracts and compilations.¹ In this manuscript Julian’s Short Text,<italic>A Vision Showed to a Devout Woman</italic>, follows Richard Misyn’s Middle English translations of Richard Rolle’s<italic>Emendatio vitae</italic>and<italic>Incendium amoris</italic>and is itself followed by the Middle English translation of Ruusbroec’s<italic>Vanden blinkenden steen</italic>and M. N.’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Seventeenth-Century Manuscript Tradition and the Influence of Augustine Baker</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUTTON</surname>
+                           <given-names>ELISABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Although she wrote from the isolation of an anchoritic cell, Julian aimed at some form of publication, where ‘“publication” is short for public conversation.’¹ In her<italic>Revelation</italic>² she insists on an audience: the visions are for the good of all her fellow Christians.³ But evidence about the circulation and readership of Julian’s text in the first two centuries of its life is extremely limited and ambiguous.⁴ And the Long Text presents particular difficulties:⁵ although the Short Text is preserved entire in the medieval ‘Amherst’ manuscript, London, British Library, MS Additional 37790, the only manuscript witness to the Long Text which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.18</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Julian of Norwich’s ‘Modernist Style’ and the Creation of Audience</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROBERTSON</surname>
+                           <given-names>ELIZABETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Given the prominence of Julian of Norwich’s writing in the canon of English literature, it is surprising how little we know about her audience in general. Neither historical nor manuscript evidence reveals much about her contemporary audience. To determine who read or heard her work, either as a written or oral composition, we need to consider such questions as who Julian was, who wrote down her story in its short form and then in its longer and more considered version, for whom she intended these versions, and who actually received them. Despite the fact that these questions yield only fragmentary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.19</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Space and Enclosure in Julian of Norwich’s A Revelation Of Love</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILES</surname>
+                           <given-names>LAURA SAETVEIT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>As much as a person is the product of her surroundings, her interiors and her movements, so a text is shaped by the space in which it was composed. We know, because she tells us, that Julian experienced her visions in May 1373 while resting in a sickbed. We do not know where she wrote her first account of those visions, the Short Text of<italic>A Vision Showed to a Devout Woman</italic>, finished in the 1380s, perhaps later. By the time she was fifty she was enclosed in an anchor-hold, and this is where we know she composed the Long</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.20</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>‘For we be doubel of God’s making’:</title>
+                     <subtitle>Writing, Gender and the Body in Julian of Norwich</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McAVOY</surname>
+                           <given-names>LIZ HERBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>In her critique of traditional psychoanalytical discourse pertaining to the threatening body of the mother, Luce Irigaray calls for a non-phallic language which, rather than seeking to control this perceived ‘threat’, will embrace the ‘love, desire, language, art, the social, the political, the religious’ which she claims the mother brings to the world and which is denied her under patriarchy.¹ For Irigaray, in order for ‘woman’ to (re)discover her place within her own subjectivity and language, she has to cross the chasm back to the place of the mother and reject traditional oedipal configurations which sever her from that primary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.21</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Julian’s Revelation of Love:</title>
+                     <subtitle>A Web of Metaphor</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JENKINS</surname>
+                           <given-names>ENA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Influenced – perhaps unduly – by an early encounter with Julian in Eliot’s<italic>Four Quartets</italic>, I have long read her as a poet, like Dante both a mystical poet and a theological mystic. Hinted at in<italic>A Vision Showed to a Devout Woman</italic>, this becomes a defining characteristic of<italic>A Revelation of Love</italic>¹ and, in looking at both texts as a work in progress, I have perceived both poet and poetic in process of becoming, the growth of a poet’s mind as Julian seeks ways of communicating what can be told of the nature of her mystical awakening. To read<italic>A Revelation</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.22</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>‘[S]he do the police in different voices’:</title>
+                     <subtitle>Pastiche, Ventriloquism and Parody in Julian of Norwich</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GILLESPIE</surname>
+                           <given-names>VINCENT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>Many scholars and readers of Julian have puzzled over the strangeness of her text’s structure and the curiously recursive and apparently involuted way that she expounds her showings. Right from the outset, she challenges standard interpretative strategies with her claim in the first chapter of the Long Text that the showing of the Crown of Thorns both ‘comprehended and specified the blessed Trinity’ in which ‘all the shewinges that foloweth be groundide and oned’.² This is typical of her dizzying changes of visual and intellectual perspective: both comprehensive and specific; effortlessly moving from image (crown) to abstraction (Trinity); grounding and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.23</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Julian’s Afterlives</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SALIH</surname>
+                           <given-names>SARAH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>208</fpage>
+                  <abstract>
+                     <p>Julian of Norwich has never been completely forgotten. Alexandra Barratt’s textual history of<italic>A Revelation</italic>shows that:</p>
+                     <p>Julian’s texts have had a more robustly continuous life than those of any other Middle English mystic. Their history – in manuscript and print, in editions more or less approximating Middle English and in translations more or less approaching Modern English – is virtually unbroken since the fifteenth century.¹</p>
+                     <p>Academic interest in her has increased rapidly since the mid twentieth century, and she is now a fixture in the academic canons of the Middle English mystics, of medieval women writers and of vernacular theologians. However,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.24</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.25</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brrrs.26</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>251</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

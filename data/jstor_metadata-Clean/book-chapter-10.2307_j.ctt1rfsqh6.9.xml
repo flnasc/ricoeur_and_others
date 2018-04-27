@@ -1,0 +1,261 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1rfsqh6</book-id>
+      <subj-group>
+         <subject content-type="lcsh">García Márquez, Gabriel, 1927-2014</subject>
+         <subj-group>
+            <subject content-type="lcsh">Crítica e interpretación</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literatura colombiana</subject>
+         <subj-group>
+            <subject content-type="lcsh">Historia y crítica</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Interacción cultural</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literatura wayuu</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Transculturación narrativa: La clave Wayuu en Gabriel García Márquez</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Blanco</surname>
+               <given-names>Juan Moreno</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>04</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9789587651478</isbn>
+      <isbn content-type="epub">9789587653779</isbn>
+      <publisher>
+         <publisher-name>Programa Editorial Universidad del Valle</publisher-name>
+         <publisher-loc>Colombia</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-holder>Universidad del Valle</copyright-holder>
+         <copyright-holder>Juan Moreno Blanco</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1rfsqh6"/>
+      <abstract abstract-type="short">
+         <p>Este estudio es una aplicación de la teoría de la transculturación narrativa de Angel Rama a la obra literaria de Gabriel García Márquez. Desde una perspectiva etnohistórica y comparativista se demuestra que el escritor tuvo una infancia heteroglósica, al lado de miembros de la civilización amerindia wayúu de la que se deriva el arte combinatorio de su narrativa.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>2</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.2</book-part-id>
+                  <title-group>
+                     <title>PRÓLOGO</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.4</book-part-id>
+                  <title-group>
+                     <title>PRESENTACIÓN</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Este libro es una reescritura, actualización y unificación de dispersos artículos aparecidos en revistas especializadas y dos libros publicados en editoriales alemanas de difícil acceso para los lectores colombianos. El primero de ellos apareció en 2002, publicado por Editions Reichenberger con el título<italic>La cepa de las palabras</italic>y el segundo en 2011, en lengua francesa, publicado por Éditions Universitaires Européennes con el título<italic>Gabriel García Márquez: littérature et interculturalité.</italic>
+                     </p>
+                     <p>Las mencionadas publicaciones tuvieron lugar a lo largo de quince años en el curso de mi actividad como docenteinvestigador de la Universidad del Valle.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.5</book-part-id>
+                  <title-group>
+                     <label>Capítulo 1</label>
+                     <title>CARTOGRAFÍAS DE LA CRÍTICA</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>El universo literario de todo escritor es percibido a través de perspectivas o rejillas de interpretación que lo han juzgado e, inevitablemente, clasificado. Siendo la existencia de tal dispositivo crítico una realidad previa para la llegada de todo texto literario ante la comunidad de lec tores, esto permite afirmar que un texto literario no llega a las manos del lector sino que se le hace llegar. De hecho, al entrar en contacto con<italic>la biblioteca</italic>de los libros escritos por un autor, el lector accede a un terreno que ya no es « virgen »; no accede directamente a los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.6</book-part-id>
+                  <title-group>
+                     <label>Capítulo 2</label>
+                     <title>CONTEXTO DE TRANSCULTURACIÓN</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Un fenómeno común a las naciones e identidades latinoamericanas es el hecho de que sus respectivas historias son un desencuentro de las partes claras de la memoria, muchas veces oficial y refrendada por la escri tura, y las partes oscuras en que lo subvalorado y subalterno no logran perfiles que les permita superar el olvido. Como si la historia fuera una moneda de dos caras, la cara visible no deja ver la cara por el momento invisible y en estos países variopintas parcelas de tiempo se hallan<italic>ahí</italic>, a la espera de miradas que<italic>las rescaten</italic>y las integren a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.7</book-part-id>
+                  <title-group>
+                     <label>Capítulo 3</label>
+                     <title>CULTURA WAYÚU Y BIOGRAFÍA GARCIAMARQUIANA</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Los comentarios y las críticas a la obra literaria de Gabriel García Márquez han formado una estela en donde es notable la tendencia a relacionar el continente de la ficción al continente biográfico. Es frecuente que como médula del proceder interpretativo se vincule la imagen o el fragmento extraído de la ficción narrativa con la vida del es critor. Dasso Saldívar se sirve de este vínculo para describir la casa donde se crió el escritor:</p>
+                     <p>… la casa de los abuelos es literalmente la de « La hojarasca » y, con apenas modificaciones, la de « Cien años de soledad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.8</book-part-id>
+                  <title-group>
+                     <label>Capítulo 4</label>
+                     <title>MITO Y FÁBULA GARCIAMARQUIANA</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Las relaciones del imaginario literario de Gabriel García Márquez con los imaginarios culturales del país colombiano han sido abordadas de muchas maneras. El espesor imaginario de esta obra ha sido con frecuencia relacionado con capítulos particulares de la historia nacional o con imágenes de diferentes códigos y registros de la cultura. El propio autor ha dicho que él no ha inventado nada y que lo<italic>mágico</italic>en su literatura lo ha tomado de la realidad. Así, por ejemplo, nos explica que la célebre imagen de Remedios la bella ascendiendo al cielo en « Cien años de soledad » no es</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.9</book-part-id>
+                  <title-group>
+                     <label>Capítulo 5</label>
+                     <title>ESQUEMAS ARQUETIPALES WAYUU Y ESQUEMAS ARQUETIPALES DE LA SOBRENATURALEZA GARCIAMARQUIANA</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>Si hay entre el mito wayúu y la fábula garciamarquiana una relación diacrónica ella se halla a un nivel más profundo de la lengua narradora pues el mito no es sólo un conjunto de motivos o temas dispersos que se mani-fiestan en la expresión sino también, y sobre todo, un sistema de semanticidad que<italic>aterriza</italic>en los relatos (en la lengua) desde una profundidad de sentido que en cierta forma es su matriz.</p>
+                     <p>… el mito es un sistema particular por cuanto se edifica a partir de una cadena semiológica que existe antes que él: es un sistema semiológico segundo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.10</book-part-id>
+                  <title-group>
+                     <title>EPÍLOGO</title>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>Nuestra recepción de la fábula garciamarquiana se sitúa históricamente en el paradójico momento en que la crítica garciamarquiana caía en un letargo parecido al agotamiento a pesar de que nuevos elementos sobre la cultura heteroglósica del escritor eran conocidos gracias a informaciones biográficas, históricas y etnológicas. Ella se realiza desde una comunidad de interpretación que antes no se había ocupado de este escritor: proyectamos sobre García Márquez una visión crítica que había permitido interpretar a otros escritores latinoamericanos del siglo XX: la teoría de la Tranculturación Narrativa según la cual la creación verbal amerindia ha podido nutrir, allende su lenguaje</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.11</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA</title>
+                  </title-group>
+                  <fpage>161</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsqh6.12</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>170</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,518 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt806gf</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3317.N43 1989</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nietzsche, Friedrich Wilhelm, 1844-1900</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Nihilism (Philosophy)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Nietzsche and the Rhetoric of Nihilism</book-title>
+         <subtitle>Essays on Interpretation, Language and Politics</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>DARBY</surname>
+               <given-names>TOM</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>EGYED</surname>
+               <given-names>BÉLA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>JONES</surname>
+               <given-names>BEN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>07</month>
+         <year>1989</year>
+      </pub-date>
+      <isbn content-type="ppub">9780886290993</isbn>
+      <isbn content-type="epub">9780773573567</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Ottawa; Canada</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1989</copyright-year>
+         <copyright-holder>Carleton University Press Inc.</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt806gf"/>
+      <abstract abstract-type="short">
+         <p>New readings and perspectives on Nietzsche's work are brought together in this collection of essays by</p>
+      </abstract>
+      <counts>
+         <page-count count="216"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>These essays, gathered as they are from a group of conference papers, show diversities of approach, concern, rhetoric and strategy. But they have been assembled with a sense of composition. They were not presumed to bring into focus a singular Nietzsche, this Nietzsche whose mark is plural. The conference, “Nietzsche and the Rhetoric of Nihilism” (held at Carleton University, Ottawa, Canada, 25-28 September 1986), set out to initiate discussion of Nietzsche’s work, recognizing conventional interpretation of it, and to pose questions about whether or not (and if so, how?) it is rhetorical and nihilistic. Are there relations between rhetoric and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.4</book-part-id>
+                  <title-group>
+                     <title>Note on Annotation</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>Tracking Nihilism: Heidegger to Nietzsche to Derrida</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Egyed</surname>
+                           <given-names>Béla</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This collection of essays is not intended as an introduction to Nietzsche. Rather, it is, as its title suggests, an exploration of two themes and a reflection on the possible connections between them.</p>
+                     <p>Nietzsche had much to say about nihilism. It might even be argued that it is the single most important theme running through his works. He says comparatively little about rhetoric. But one could assert that rhetoric is strongly implicated as one of Nietzsche’s permanent concerns. Indeed, it could be argued that such Nietzschean themes as perspectivism, nihilism, will to power, eternal recurrence, or the overman lose altogether</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.6</book-part-id>
+                  <title-group>
+                     <title>Nihilism:</title>
+                     <subtitle>Reactive and Active</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vattimo</surname>
+                           <given-names>Gianni</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>The chance of Nietzsche’s philosophy amounting to an<italic>Überwindung der Metaphysik</italic>, an overcoming of Platonism, or an overcoming of the<italic>bisherige Mensch</italic>and the subjection to morals, religion, and ideology, depends on the distinction between reactive (or passive) and active nihilism—a distinction that is neither clear-cut nor univocal in the notes of the late Nietzsche. As you know, Nietzsche calls himself the first accomplished nihilist (“der erste vollkommene Nihilist Europas”), precisely because he has pushed nihilism to its extreme consequences and therefore “ihn hinter sich, unter sich, auβer sich hat”, has left it behind, below, and outside (Schlechta 1954,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.7</book-part-id>
+                  <title-group>
+                     <title>Nihilism and Autobiography</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rey</surname>
+                           <given-names>Jean-Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Robinson</surname>
+                           <given-names>Sinclair</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>No doubt—having read all of Nietzsche’s works, as well as the comments on these works (I am thinking particularly of Heidegger’s book)—we know the essential things about nihilism, we know the main points of the problematic, the fundamental axes of the set of themes which this term is supposed to cover. No doubt, if we get together to talk about this theme, at least from the orientation provided by the title of our colloquium, we have, each of us, a certain idea, a representation, perhaps an interpretation of this theme. In all probability, we no doubt also have,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.8</book-part-id>
+                  <title-group>
+                     <title>Nietzsche and Biblical Nihilism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Altizer</surname>
+                           <given-names>Thomas J.J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>Nietzsche knew nihilism as an historical consequence of Christianity, and, more specifically, as a consequence of the death of the Christian God. That God is identified in<italic>The Antichrist</italic>as the deification of nothingness, the will to nothingness pronounced holy (section 18). No thinker in history has been so obsessed with God as was Nietzsche, nor has any other thinker, with the possible exception of his deepest predecessors, Spinoza and Hegel, so fully known and envisioned the totality of God, a totality which is finally inseparable from consciousness itself. But it was Nietzsche who discovered the nihilistic identity of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.9</book-part-id>
+                  <title-group>
+                     <title>Language to the Limit</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lévesque</surname>
+                           <given-names>Claude</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Egyed</surname>
+                           <given-names>Béla</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>From the beginning of his reflections, Nietzsche is in search of “a new philosophy of language” (CM 1976, 1:340 [8, 52]), a philosophy which would wisely consent to lose its head and which could give, in a positive manner, an account of the bacchanalian revel, the festive inordinateness of the dithyramb, “this beautiful and savage folly of poetry” (CM 1976, V: 100-1). One is to understand the “nature” of language beginning with its derailment and its loss. This new philosophy seeks to give back to language all its striking force, all its power to cast a spell, its mysterious and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.10</book-part-id>
+                  <title-group>
+                     <title>The Deconstruction of the Tradition:</title>
+                     <subtitle>Nietzsche and the Greeks</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Strong</surname>
+                           <given-names>Tracy B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>In a letter written on November 13, 1925, Rainer Maria Rilke wrote as follows:</p>
+                     <p>Even for our grandparents, a “home,” a “well,” a familiar tower, their very clothes, their coat, were infinitely more, infinitely more intimate; almost everything a vessel in which they found the human and added to the store of the human. Now … empty indifferent things are pouring across … sham things, dummy life …; a house [now], … an apple or a grapevine, … has nothing in common with the house, the fruit, the grape into which went the hopes and reflections of our forefathers. …</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.11</book-part-id>
+                  <title-group>
+                     <title>The Nietzschean Interpretation … of Freud as Thought on the Fragmentary, as Fragmented Thought</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monette</surname>
+                           <given-names>Lise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Unlike Freud (see his confession in<italic>On the History of the Psycho-Analytic Movement</italic>), I have allowed myself the great pleasure that comes from reading Nietzsche. It is as a text of<italic>jouissance</italic>, thought-provoking for the reader that I am, that these reflections have sprung to life; no doubt also because of the “voluptuous concision” of Nietzsche’s style, as he puts it himself.</p>
+                     <p>Nietzsche is in a way the underwriter, the guarantor of a resistance, a struggle against the double philosophical ideal of clarity (Descartes) and system (Hegel). Yet, the existence of a deep-seated reservation over his remarks on women and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.12</book-part-id>
+                  <title-group>
+                     <title>Minoritarian Deconstruction of the Rhetoric of Nihilism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boundas</surname>
+                           <given-names>Constantin V.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>Nietzsche’s influence upon deconstruction has been well-documented.¹ Yet, what has been left relatively unexamined, is the fact that his impact has often been responsible for the internal differentiation of the deconstructive paradigm into discordant theories and practices. We know of course that between the dominant, Derrida-inspired deconstruction and the “minoritarian deconstruction,”² led by G. Deleuze, F. Guattari, F. Laruelle, T. Negri and N. Bolz, there exist antagonistic and mutually displacing tendencies. But not much attention has been paid to the fact that these tendencies, at least in part, are motivated by different inscriptions of the “Nietzsche-effect” upon deconstructive palimpsests. Based</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.13</book-part-id>
+                  <title-group>
+                     <title>Passing-A-Way-Of-The-Child</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peraldi</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Egyed</surname>
+                           <given-names>Béla</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>It is a bit late already and, I imagine, you have done a lot of work for the last two days, and will, no doubt, continue to do so. You have listened, in English and in French, to discourses of a high degree of intellectual, moral, and philosophical import. I would not wish to add, be it even a grain of coriander, to the mass of knowledge with which you now find yourselves loaded, like Nietzschean camels—<italic>no harm intended</italic>¹—who are ready to brave the crossing of the desert in hopes of carrying on their backs the richest products</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.14</book-part-id>
+                  <title-group>
+                     <title>Eurotaoism</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sloterdijk</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Eldred</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>In the first section of this paper I will explain the necessity of posing the problem of nihilism differently from the way Nietzsche posed it. In the second section I elaborate on the idea that the philosophy of subjectivity—which is closely woven with the phenomenon of nihilism—is an attempt by Western thinking to compensate for the unhomeliness (Unheimlichkeit) of the world by means of a forced quest within oneself. In doing this I extend the old idea of philosophy as a spiritual midwife towards a general understanding of the subject as the centre of a will of exertions,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.15</book-part-id>
+                  <title-group>
+                     <title>With the “Nightwatchman of Greek Philosophy”:</title>
+                     <subtitle>Nietzsche’s Way to Cynicism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hutter</surname>
+                           <given-names>Horst</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>In the immense secondary literature on Nietzsche relatively little attention seems to have been paid to the influence of kynic motives and ideas on both the form and substance of his philosophy. This is the case despite the fact that Nietzsche explicitly associated himself with Kynism¹ in a number of aphorisms,² while at the same time adopting the literary style,³ the manner of philosophizing, as well as important concepts and figures⁴ of this school of antiquity. A close examination of the main philosophical project of Nietzsche, the transvaluation of values, moreover, reveals his kinship with the intention of Kynism to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.16</book-part-id>
+                  <title-group>
+                     <title>“Nihilism:</title>
+                     <subtitle>‘Thus Speaks Physiology’ ”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brown</surname>
+                           <given-names>Richard S.G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>In<italic>Thus Spoke Zarathustra</italic>, Nietzsche makes the rather categorical claim: “… the awakened and knowing say: body am I entirely, and nothing else; and soul is only a word for something about the body” (part one, 4). In a work which is replete with exaggeration couched in poetic, figurative, and metaphoric language, one fact might easily be overlooked. Nietzsche is making this claim literally and takes this claim very seriously: “Body am I entirely.” Within the context of<italic>Zarathustra</italic>, a book which is addressed to “all or no one,” Nietzsche attempts to persuade those few who are capable of actualizing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.17</book-part-id>
+                  <title-group>
+                     <title>Remarks on Nietzsche’s ‘Platonism’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosen</surname>
+                           <given-names>Stanley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>This paper is intended to clarify the sense in which Nietzsche may be said to engage in a rhetoric of nihilism. The topic will be explored by way of a comparison between Plato and Nietzsche. The first step in articulating the structure of the investigation is to distinguish two different senses of the expression “rhetoric of nihilism.” This distinction will lead directly to an explanation of the pertinence of the comparison just proposed.</p>
+                     <p>One may engage in the rhetorical assertion of nihilism, for example, by insisting upon the salutary and liberating consequences of the thesis that “everything is permitted.” Conversely,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.18</book-part-id>
+                  <title-group>
+                     <title>Nihilism and Technology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Barry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>George Grant, the only political philosopher this country has produced, once remarked that, during the century since Nietzsche wrote, “his opinions filtered down unrecognized through lesser minds to become the popular platitudes of the age, but also what he prophesied is now all around us to be easily seen” (Grant 1969, 25). The current level of vulgarization of Nietzsche’s thought is not perhaps as easily seen as what is all around us. What is all around us, in turn, is not so easy to characterize as to see. Heidegger considered Nietzsche’s the “final thought of Western metaphysics” (Heidegger 1984, 2:232).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.19</book-part-id>
+                  <title-group>
+                     <title>Zarathustra, Nihilism and the Drama of Wisdom</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goicoechea</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>We shall think about the rhetoric of nihilism in<italic>Thus Spoke Zarathustra</italic>. Such a reflection could easily become fanciful. There is no explicit treatment of either “rhetoric” or “nihilism” in the text. However, we might interpret the rhetoric of nihilism by placing it within the context of the drama as a whole. But that approach is also difficult because the text does not refer to itself as a drama. If an interpretation is to be fruitful we need to clarify the rhetoric of nihilism in terms of the dramatic context and the dramatic context by means of the rhetoric of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.20</book-part-id>
+                  <title-group>
+                     <title>Afterword</title>
+                     <subtitle>On the Coincidence of Our Preoccupation With Nietzsche</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Darby</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>With an attitude of solemnity, books often end as they began. This is not so here. When I reflect on what preceded this afterword, I am brought to a jarring question: Why are we so preoccupied with Nietzsche?</p>
+                     <p>For those of us who were students during the sixties or early seventies it is likely that we studied the thoughts of Hegel or thoughts about his thoughts or thoughts derived from them. Concerning the latter, I have in mind everything ranging from Marx and Freudo-Marxism to the Frankfurt School. For a long while much was either an extrapolation of or a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.21</book-part-id>
+                  <title-group>
+                     <title>List of Texts Cited</title>
+                  </title-group>
+                  <fpage>201</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt806gf.22</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>205</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

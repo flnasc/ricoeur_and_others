@@ -1,0 +1,341 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7t05p</book-id>
+      <subj-group>
+         <subject content-type="call-number">JZ1234.L43 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">International relations</subject>
+         <subj-group>
+            <subject content-type="lcsh">Research</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">World politics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Research</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cold War</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Imaginary histories</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Counterfactuals (Logic)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Forbidden Fruit</book-title>
+         <subtitle>Counterfactuals and International Relations</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Lebow</surname>
+               <given-names>Richard Ned</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>01</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691132907</isbn>
+      <isbn content-type="ppub">0691132909</isbn>
+      <isbn content-type="epub">9781400835126</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON; OXFORD</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7t05p"/>
+      <abstract abstract-type="short">
+         <p>Could World War I have been averted if Franz Ferdinand and his wife hadn't been murdered by Serbian nationalists in 1914? What if Ronald Reagan had been killed by Hinckley's bullet? Would the Cold War have ended as it did? In<italic>Forbidden Fruit</italic>, Richard Ned Lebow develops protocols for conducting robust counterfactual thought experiments and uses them to probe the causes and contingency of transformative international developments like World War I and the end of the Cold War. He uses experiments, surveys, and a short story to explore why policymakers, historians, and international relations scholars are so resistant to the contingency and indeterminism inherent in open-ended, nonlinear systems. Most controversially, Lebow argues that the difference between counterfactual and so-called factual arguments is misleading, as both can be evidence-rich and logically persuasive. A must-read for social scientists,<italic>Forbidden Fruit</italic>also examines the binary between fact and fiction and the use of counterfactuals in fictional works like Philip Roth's<italic>The Plot Against America</italic>to understand complex causation and its implications for who we are and what we think makes the social world work.</p>
+      </abstract>
+      <counts>
+         <page-count count="348"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER ONE</label>
+                     <title>Making Sense of the World</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Forbidden Fruit</italic>is an avowedly provocative but also inviting title. The two, as Eve knew, are often reinforcing. Her offer of the apple to Adam is an invitation to eat from the Tree of Knowledge and possibly transcend their human condition. It is a provocation because it involved violating the one proscription laid down by their creator.¹ Eating from the Tree of Knowledge, the couple soon discover, entails expulsion from the Garden of Eden, hard work to survive, pain in childbirth, and mortality.² Counterfactuals can be considered an analog to the apple, and the invitation to engage with them a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER TWO</label>
+                     <title>Counterfactual Thought Experiments</title>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>The ability to imagine alternative scenarios is a ubiquitous, if not essential, part of human mental life.¹ It is a universal phenomenon, not a practice restricted to or more pronounced in Western culture.² Counterfactuals are routinely used by ordinary people and policymakers to work their way through problems, reach decisions, cope with anxiety, and make normative judgments. They are readily inspired by disconfirmed expectations and failed actions and the regrets they evoke.³ In these circumstances, counterfactual scenarios can empower us by making us believe that we could have brought about better outcomes.⁴ When people invent counterfactuals for any of these</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER THREE</label>
+                     <title>Franz Ferdinand Found Alive:</title>
+                     <subtitle>World War I Unnecessary</subtitle>
+                  </title-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>As the twentieth century recedes into history, it is useful to reflect upon what may have been its most significant event: World War I. That conflict was a cultural and political watershed; it marked the beginning of Europe’s political and cultural decline and set in motion a chain of events that led to an even more destructive war. Without World War I we might have been spared the horrors of communism, Auschwitz, and the Cold War. Many historians nevertheless contend that World War I or something like it would have been all but impossible to avoid. The distinguished British historian,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FOUR</label>
+                     <title>Leadership and the End of the Cold War:</title>
+                     <subtitle>Did It Have to End This Way?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <role>Coauthored with</role>
+                        <name name-style="western">
+                           <surname>Breslauer</surname>
+                           <given-names>George W.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>If the news reports above had been real, there might have been no “Gorbachev phenomenon,” and glasnost and perestroika might not have become households words. Led by a cautious and conservative general secretary, Grishin, the Soviet Union might have pursued a variant of Brezhnevism. The United States, led by an equally cautious and conservative president, Bush, might not have sponsored dramatic initiatives to break through the stalemate in superpower relations. The Berlin Wall might still be in place and communist parties still in power in Moscow and eastern Europe. The Warsaw Pact and NATO might be preparing to deploy a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER FIVE</label>
+                     <title>Scholars and Causation 1</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <role>Coauthored with</role>
+                        <name name-style="western">
+                           <surname>Tetlock</surname>
+                           <given-names>Philip E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>This chapter explores a recurring source of disagreement between generalizers and particularizers: the soundness of close-call counterfactual scenarios that imply that, with only minimal rewriting of antecedent conditions, history could have been rerouted down different, sometimes radically different, event paths. Close-call counterfactuals are often focal points of disagreement for two reasons.</p>
+                     <p>First, all causal inference from history ultimately rests on counterfactual claims about what would or could have happened in hypothetical worlds to which scholars have no direct empirical access.¹ This is not to say that evidence is irrelevant. Chapter 2 described counterfactuals where historical evidence could be brought to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SIX</label>
+                     <title>Scholars and Causation 2</title>
+                  </title-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>Chapter 5 revealed a strong correlation between worldviews and openness to contingency. Across diverse contexts, the more credence foreign policy experts, historians and international relations scholars place in the ability of laws and generalizations to describe the social world, the stronger their cognitive-stylistic preference for explanatory closure. In making judgments about contingency, they are more likely to be guided by what they believe to be valid laws and generalizations than information provided to them on a case-by-case basis. Experts with a preference for lawlike understandings of history tend to resist counterfactuals that “undo” events or outcomes on which their preferred</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.10</book-part-id>
+                  <title-group>
+                     <title>Appendix</title>
+                     <subtitle>Experiment 4, Instrument 1: Unmaking American Tragedies</subtitle>
+                  </title-group>
+                  <fpage>196</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER SEVEN</label>
+                     <title>If Mozart Had Died at Your Age:</title>
+                     <subtitle>Psycho-logic versus Statistical Inference</subtitle>
+                  </title-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>The following tale has three parts: a short story, a review by an imaginary critic, and a reply by the heroine of my story. The tale takes place in an imaginary world in which neither World War I or II nor the Shoah occurred because Mozart lived to the age of sixty-five. It seeks to dramatize the tensions between “psycho-logic”—exploited by the story—and the laws of statistical inference, which guide the imaginary critique. Psychologic describes the various cognitive and motivational biases that make estimates of probability and attributions of responsibility different from the expectations of so-called rational models.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER EIGHT</label>
+                     <title>Heil to the Chief:</title>
+                     <subtitle>Sinclair Lewis, Philip Roth, and Fascism</subtitle>
+                  </title-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>In this chapter I compare Sinclair Lewis’s<italic>It Can’t Happen Here</italic>, published in 1935, with Philip Roth’s<italic>The Plot Against America</italic>, published in 2004.¹ The former looks ahead to the 1936 presidential election and the victory of the fictional fascist Senator Buzz Windrip over President Franklin Roosevelt. The latter looks back to the 1940 election to imagine Roosevelt’s defeat by aviator Charles A. Lindbergh, whose administration is isolationist abroad and anti-Semitic at home. The two authors conjure up “fascist” regimes for different purposes, and reviewers—and presumably readers—responded to them differently. The two novels only address international relations<italic>en</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.13</book-part-id>
+                  <title-group>
+                     <title>Conclusions</title>
+                  </title-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>Cause and chance have been traditionally thought of as antonyms. This understanding goes back to the Greeks who held that knowledge of a cause ruled out the operation of chance, and vice versa. In early modern Europe, Calvin and Spinoza did their best to define contingency out of existence. In the eighteenth century, Leibniz, Montesquieu, and Hume followed suit. Outcomes that appear to be the result of chance, Hume wrote, may be the product of “the secret operation of contrary causes.”¹ Montesquieu makes a more extreme claim, insisting, “If the fortune of a battle, that is, a particular case, has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.14</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7t05p.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

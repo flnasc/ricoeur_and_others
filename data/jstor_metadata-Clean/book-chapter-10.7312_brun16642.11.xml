@@ -1,0 +1,2135 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt125wf1</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">brun16642</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3258.H324 H32213 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Habermas, Jèurgen</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Sociology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Habermas Handbook</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BRUNKHORST</surname>
+               <given-names>HAUKE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>KREIDE</surname>
+               <given-names>REGINA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>LAFONT</surname>
+               <given-names>CRISTINA</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>24</day>
+         <month>10</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9780231166423</isbn>
+      <isbn content-type="epub">9780231535885</isbn>
+      <isbn content-type="epub">0231535880</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2018</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7312/brun16642"/>
+      <abstract abstract-type="short">
+         <p>Jürgen Habermas is one of the most influential philosophers of our time. His diagnoses of contemporary society and concepts such as the public sphere, communicative rationality, and cosmopolitanism have influenced virtually all academic disciplines, spurred political debates, and shaped intellectual life in Germany and beyond for more than fifty years. In<italic>The</italic>
+            <italic>Habermas Handbook</italic>, leading Habermas scholars elucidate his thought, providing essential insight into his key concepts, the breadth of his work, and his influence across politics, law, the social sciences, and public life.This volume offers a comprehensive overview and an in-depth analysis of Habermas's work in its entirety. After examining his intellectual biography, it goes on to illuminate the social and intellectual context of Habermasian thought, such as the Frankfurt School, speech-act theory, and contending theories of democracy. The<italic>Handbook</italic>provides an extensive account of Habermas's texts, ranging from his dissertation on Schelling to his most recent writing about Europe. It illustrates the development of his thought and its frequently controversial reception while elaborating the central ideas of his work. The book also provides a glossary of key terms and concepts, making the complexity of Habermas's thought accessible to a broad readership.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.4</book-part-id>
+                  <title-group>
+                     <label>PART I</label>
+                     <title>INTELLECTUAL BIOGRAPHY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUNKHORST</surname>
+                           <given-names>HAUKE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MÜLLER-DOOHM</surname>
+                           <given-names>STEFAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Between the ages of ten and sixteen, Jürgen Habermas was just old enough to experience, in conscious manner, World War II and its aftermath: first, Germany’s victories and conquest of all of Europe, then, the country’s unconditional surrender and the Nuremberg Trials. In August 1939—under orders from the Führer—Joachim von Ribbentrop, Hermann Göring, Rudolf Hess, Ernst Kaltenbrunner, Alfred Jodl, Arthur Seyß-Inquart, Hans Frank, Alfred Rosenberg, Wilhelm Keitel, Julius Streicher, Fritz Sauckel, and others had carried out the attack and despoilment of Poland, where they erected camps for forced labor and extermination. Millions of human beings were deported, enslaved,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>THE PHILOSOPHY OF HISTORY, ANTHROPOLOGY, AND MARXISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HONNETH</surname>
+                           <given-names>AXEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>It would be nearly impossible to describe the concerns Habermas articulates and addresses in his theory without referring to the three intellectual traditions named above. All his innovations—indeed, the motivational bases for his project as a whole—are so strongly shaped by the philosophy of history, philosophical anthropology, and Marxism that even the attenuated presence of these traditions in his later writings cannot conceal how much, in changed form, they have always determined his work. The following brief sketch will provide a kind of archeology of Habermas’s social philosophy in its mature phase and make plain the theoretical elements</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE FRANKFURT SCHOOL AND SOCIAL THEORY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HONNETH</surname>
+                           <given-names>AXEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>In 1950, when the Institute for Social Research reopened in Frankfurt, its activities resumed without a direct connection to the way the organization had operated in the 1930s and 1940s. There was no continuity between the sociological studies that were now being conducted and the philosophical, cultural, and critical projects that Horkheimer, Adorno, and Marcuse (who remained in the United States) were continuing to pursue. Henceforth, critical theory ceased to be a “school” of unified endeavor, at least in terms of method.</p>
+                     <p>Despite their differences, the three representatives of the “original” institute (who shared a background in, and assumptions about,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>CONSTITUTIONAL LAW</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHEUERMAN</surname>
+                           <given-names>WILLIAM E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>When reminiscing about his student days in Frankfurt during the 1950s, Habermas has occasionally mentioned Horkheimer’s worries that he and other young leftist students would get hold of old copies of the<italic>Zeitschrift für Sozialforschung</italic>, safely locked away in the cellar of the Institute for Social Research apparently in order to repress the memory of its radical past. Although the young Habermas had already read Marx, Lukács, Bloch, and<italic>Dialectic of Enlightenment</italic>before coming to Frankfurt, he admits he initially had little knowledge of the interdisciplinary Hegelian-Marxist research program that the institute had brilliantly pioneered in the 1930s (Dews 1986,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>PRAGMATISM AND ULTIMATE JUSTIFICATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KETTNER</surname>
+                           <given-names>MATTHIAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>Jürgen Habermas’s intellectual itinerary can hardly be understood without considering its critical and constructive interplay with the thought of Karl-Otto Apel—interactions between the two theorists have often marked significant turning points in Habermas’s project. Without the theoretical-architectonic alternatives that Apel’s reflections open, it would be impossible to evaluate the philosophical course Habermas has steered. Apel and Habermas are united by a lifelong professional friendship, which began when they studied together in Bonn in the early 1950s; since then, the liberating encounter with American pragmatism—of which Apel was one of the first German translators (1967, 1970)—has strengthened their</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>HERMENEUTICS AND THE LINGUISTIC TURN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAFONT</surname>
+                           <given-names>CRISTINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>In the foreword to the second edition of<italic>On the Logic of the Social Sciences</italic>, Habermas writes that the incorporation of hermeneutics into his project during the 1960s played a key role in transforming critical theory from an enterprise based on the philosophy of the subject into one founded on communication. This undertaking culminated in his main work,<italic>The Theory of Communicative Action</italic>(1981). Although Habermas indicates that his encounter with analytic philosophy (see chapters 6 and 30 in this volume) is also of central importance, in examining his turn toward the philosophy of language it is necessary to take</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>SPEECH ACTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NIESEN</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>58</fpage>
+                  <abstract>
+                     <p>Systematic philosophical engagement with speech acts began when John Langshaw Austin corrected his original conception of performative utterances. Previously, Austin had maintained that philosophy of language had overvalued the declarative aspect of linguistic utterances and underestimated the acts one can perform/convey in making them. Whereas he initially held that constative utterances (which can be true or false) may be distinguished from performative utterances (which meet with success or failure but are neither true nor false), he found himself forced to admit, in the final installment of his William James Lectures, that some performative utterances claim to be true or false</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>PSYCHOANALYSIS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WHITEBOOK</surname>
+                           <given-names>JOEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>The way Horkheimer and Adorno formulated the dialectic of enlightenment left only two options: political resignation or utopianism. Herbert Marcuse took the second and tried to break out of the seemingly implacable logic of Horkheimer and Adorno’s position insofar as it was formulated in psychoanalytic terms (Habermas 1985, 74ff.). Where the utopian idea of a nonrepressive society had only been advanced as a theoretical possibility in<italic>Eros and Civilization</italic>, by the late sixties, Marcuse, under the influence of the New Left, was advocating it as a concrete political program.</p>
+                     <p>Habermas, on the other hand, a self-proclaimed radical reformer who rejected</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>POSTMETAPHYSICAL THINKING</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BAYNES</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Habermas’s endorsement of what he calls “postmetaphysical thinking” can easily be misleading. It is not intended as a rejection of the sort of inquiry pursued, for example, in the more recent revival of “analytic metaphysics” associated primarily with David Lewis and the “Australian metaphysicians.” Rather, at least in the first instance, it is directed against both the tradition of metaphysical thought that reached a culmination in the philosophy of Hegel and German idealism and in the various—and, ultimately, for Habermas, still “metaphysical”—attempts to escape that tradition in the writings of Nietzsche, Heidegger, and Derrida. The charge that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>KANT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAUS</surname>
+                           <given-names>INGEBORG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Habermas’s thorough engagement with the works of Kant is evident in every aspect of his philosophy. The following discusses this engagement with respect to moral philosophy; the theory of law and democracy, including the theory of international law; and epistemology.</p>
+                     <p>Habermas has the avowed intention of (re)formulating Kant’s moral philosophy in terms of discourse theory (<italic>Justification</italic>, 3). This implies shifting focus away from the philosophy of consciousness, which concentrates on the individual subject, and toward an intersubjective theory. Habermas’s corresponding ethics of discourse replaces Kant’s Categorical Imperative with a process of moral argumentation that gives everyone a procedure for him-or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>COGNITIVE PSYCHOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NUNNER-WINKLER</surname>
+                           <given-names>GERTRUD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>Behaviorism understands cognitive learning as a cumulative process of forming associations based on the perception of contingencies, and normative learning as a process of adopting desired modes of behavior in response to punishment and reward (that is, as a process of conditioning). From a psychoanalytic perspective, development is a matter of constructing mental patterns on the basis of the relationships experienced in early childhood. Norms are observed because the child wishes to avoid pangs of conscience (i.e., the revenge of the superego, which internalizes the fear of castration); alternatively, this occurs because the structure of biological needs has undergone change</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>THE EPITOME OF TECHNOCRATIC CONSCIOUSNESS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEVES</surname>
+                           <given-names>MARCELO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>98</fpage>
+                  <abstract>
+                     <p>The debate between Habermas and Luhmann goes back to the end of the 1960s—a time of extreme “ideological” confrontation in the fields of social science and philosophy. Matters became especially intense upon the publication of<italic>Theorie der Gesellschaft oder Sozialtechnologie—Was leistet die Systemforschung?</italic>(Social theory or social technology—what does systems research accomplish?; Habermas and Luhmann 1971). This book occasioned heated discussion and, in almost no time at all, two supplementary volumes. Over the years, the matter has grown more complex inasmuch as Habermas has tempered his earlier criticism on a few points—or, at the very least,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>EVOLUTIONARY THEORIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>EDER</surname>
+                           <given-names>KLAUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>The theory of social evolution plays a key role in the foundation of Habermas’s theory of communicative action. Since Marx, the evolutionary perspective has struggled with the fact that the position the observer occupies must necessarily be, at the same time, the endpoint of the process in question—and therefore a point of teleological narrowness restricting the scope of social theory. Over time, this problem has lost none of its actuality for projects that seek to address processes of societal development. Durkheim, for example, was wedded to the model of phase-specific progression as much as, more recently, Parsons, Luhmann, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>POWER DISCOURSES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NIEDERBERGER</surname>
+                           <given-names>ANDREAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>The topic of power—and especially power that is exercised in an illegitimate, oppressive, or violent manner—stands at the center of many articulations of critical theory (Honneth 1993). Habermas’s work occupies a special place in the tradition, for it conceives power—or, as the case may be, the ways it is produced and functions—as a matter bearing (and in necessary fashion, at that) on the constitution of both theory and society; indeed, it may even be seen to express freedom. As a consequence, the critique of power and the role of this critique in critical theory must also</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>JURIDICAL DISCOURSES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GÜNTHER</surname>
+                           <given-names>KLAUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Among the controversies of jurisprudence that gripped the Federal Republic of Germany in its early days, one of the most pressing concerned the “social and constitutional state” (<italic>sozialer Rechtsstaat</italic>). In the Basic Law (<italic>Grundgesetz</italic>) (1949), one reads the pithy commandment (article 28, paragraph 1): “The constitutional order in the<italic>Länder</italic>must conform to the principles of a republican, democratic, and social state governed by the rule of law, within the meaning of this Basic Law.” In similar fashion, article 20, paragraph 1 affirms that the Federal Republic of Germany is “a democratic and social federal state.” Debate concerning the meaning</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>THE THEORY OF DEMOCRACY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHMALZ-BRUNS</surname>
+                           <given-names>RAINER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>A look at the 1958 introduction to<italic>Student und Politik</italic>—“Zum Begriff der politischen Beteiligung” (On the concept of political participation)—makes plain that Habermas chose, early on, to pursue his research on democracy in conjunction with a discussion of German constitutional law. More than twenty years later, the first pages of<italic>The Theory of Communicative Action</italic>confirmed—in the context of political science—that his decision involved the theory of rationality as a matter of principle. Considerations of this kind have remained key throughout the philosopher’s career; at least in terms of theoretical strategy, Habermas has consistently explored the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.20</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>MORAL AND ETHICAL DISCOURSES:</title>
+                     <subtitle>The Distinction in General</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOHMANN</surname>
+                           <given-names>GEORG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>From the beginning, Jürgen Habermas has elaborated his theory of discursive ethics by engaging with Hegel’s critique of Kant. He shares both these philosophers’ view that morality, under the conditions of modernity, can no longer be understood—as had been the case for Aristotle and Thomas Aquinas—by way of all-encompassing prescriptions concerning the “good” or “happy” life (<italic>eudaimonia</italic>,<italic>summum bonum</italic>).</p>
+                     <p>Kant distinguishes between questions involving happiness (which may be answered in a way that varies from individual to individual) and questions about what is unconditionally Good in a moral sense (which admits only responses that are valid in general</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.21</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>THE CONSTITUTIONALIZATION OF INTERNATIONAL LAW</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>COHEN</surname>
+                           <given-names>JEAN L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>Since the mid-1990s Habermas has been articulating a project for a future world order involving the “further constitutionalization of international law.” Wed to the Kantian (1991) conception of cosmopolitanism, his goal is nonetheless to show that a global legal system with binding hard law, coupled to a politically constituted world society that is neither a world state nor a loose confederation of states, is conceptually conceivable. The cosmopolitan multilayered global political system he proposes would consist not only of individuals (world citizens) but also of states that would nonetheless not be relegated to mere parts of an overarching hierarchical superstate.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.22</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>EUROPEAN CONSTITUTIONALIZATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JOERGES</surname>
+                           <given-names>CHRISTIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>For years now—across the continent, in all languages and lands—talk has been animated: Europe must determine what state it finds itself in, whether its legal system may be understood as a constitutional order, whether it can—indeed, should—be democratic, what democracy in a European union means, and what the chances of this really occurring are. The constitutionalization of Europe involves both the analysis of actual processes that make the phenomenon itself comprehensible and a normative framework offering tools of measurement—and specifying conditions necessary—for determining whether the emergent configurations “deserve recognition.” Yet analytical and empirical questions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.23</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>THE THEORY OF JUSTICE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KREIDE</surname>
+                           <given-names>REGINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>For Nietzsche and Sloterdijk, justice is the enemy of freedom. Justice restricts freedom, which they both understand—notwithstanding other differences of opinion—in terms of what affords the greatest possible space for action. For Jürgen Habermas, on the other hand, freedom can only be understood insofar as it is afforded by justice. Without just processes that permit us to determine freedom’s extent and limits, there exists only arbitrary freedom for individuals— but no freedom in the proper sense (freedom for all).</p>
+                     <p>Habermas explores this basic moral intuition in his notion of<italic>procedural justice (Verfahrensgerechtigkeit</italic>). The matter is not set forward</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.24</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>DECONSTRUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KHURANA</surname>
+                           <given-names>THOMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>170</fpage>
+                  <abstract>
+                     <p>Habermas’s exchange with Jacques Derrida is situated within the debate about modernity and postmodernity (see chapters 33 and 37). When he was awarded the Adorno Prize in 1980, Habermas defended the “unfinished project of modernity” in his acceptance speech; the opponents of modernity he identified included—in addition to old conservatives and neoconservatives of the recognizable variety—a group of “Young Conservatives,” among whom he numbered Michel Foucault and Derrida (“Modernity,” 53).<italic>The Philosophical Discourse of Modernity</italic>(1985) devotes two chapters to Derrida, in which Habermas details, at greater length, what prompted this judgment. In his estimation, Derrida’s philosophy represents</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.25</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>POSTSTRUCTURALISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALLEN</surname>
+                           <given-names>AMY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>Habermas’s critical engagement with postmodernism not only generated a great deal of attention in the 1980s and 1990s, but it has also laid down the gauntlet for a new generation of critical theorists who may now take on the task of rethinking Habermas’s stark opposition between pro-Enlightenment modernity and counter-Enlightenment postmodernity. Habermas’s critique of postmodernism goes hand in hand with his staunch defense of the normative content of modernity. Both are most forcefully articulated in his 1985 book<italic>The Philosophical Discourse of Modernity</italic>. Although Habermas’s interpretations of particular thinkers in this book are at times questionable, the book’s overall thesis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.26</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>FEMINISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BAEHR</surname>
+                           <given-names>AMY R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>Feminist theory is critical theory. It seeks to liberate women from the conditions that deprive, oppress, and disadvantage them. It does this by explaining and criticizing those conditions and by suggesting emancipatory alternatives. Recently, feminist theorists have sought resources for feminist theory in the work of Jürgen Habermas. Some note Habermas’s personal commitment to justice for women (Fraser 1989, 7; Fleming 1997, 7; Johnson 2006, 156). But many point to insufficient attention to gender in his work overall and find it lacking well-developed theories of gender oppression and gender justice. It is debated whether his discourse theory of democracy, morality,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.27</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>NEOPRAGMATISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERNSTEIN</surname>
+                           <given-names>RICHARD J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>188</fpage>
+                  <abstract>
+                     <p>For over forty years Habermas has taken inspiration from and been deeply influenced by the classical American pragmatists, especially Charles S. Peirce, John Dewey, and George Herbert Mead. He has appropriated, reconstructed, and integrated many of the primary themes of these thinkers into his own comprehensive philosophic perspective: a radical critique of Cartesianism and the philosophy of consciousness; a focus on the primacy of social practices and action in understanding everyday life (the lifeworld); a thoroughgoing fallibilism that encompasses both knowledge of the world and moral reasoning; a development of an intersubjective dialogical understanding of action and rationality; and a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.28</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>JEWISH PHILOSOPHY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUMLIK</surname>
+                           <given-names>MICHA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>196</fpage>
+                  <abstract>
+                     <p>Engagement with Jewish philosophy and exchanges with Jewish philosophers have played an important role in Habermas’s thought from his earliest writings. As early as 1961, Habermas published the essay “Der deutsche Idealismus der jüdischen Philosophie” (The German idealism of Jewish philosophy); two studies on Hannah Arendt followed, joined by essays on Walter Benjamin and Gershom Scholem. The existential motivation for these writings, one may surmise, was the responsibility that Habermas assumed for the war crimes Germany had perpetrated in his youth. In philosophical terms, Habermas’s interest in Jewish intellectual traditions came from his study of German idealism; a further essay</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.29</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>MONOTHEISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DAVIS</surname>
+                           <given-names>FELMON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Habermas’s engagement with religion and monotheism has been long and deep, extending from his doctoral work on Schelling to occasional work on the religious motifs in Benjamin, Horkheimer, Scholem, and others, work he has undertaken with great sensitivity. In his masterful synthesis<italic>The Theory of Communicative Action</italic>(1981), he considered religion mostly in its function as promoting “solidarity,” leaving open the possibility that the “domain of the sacred” might be replaced by a secular morality and culture (2:92).</p>
+                     <p>But from the publication of his 1988 collection of papers<italic>Postmetaphysical Thinking</italic>to his recent work, the 2005 volume Between<italic>Naturalism and</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.30</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>SCHELLING, MARX, AND THE PHILOSOPHY OF HISTORY:</title>
+                     <subtitle>Das Absolute und die Geschichte: Von der Zwiespältigkeit in Schellings Denken (The Absolute and History: On the Ambiguity in Schelling’s Thought, 1954)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRANK</surname>
+                           <given-names>MANFRED</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>When, in the mid-1950s, new interest for Schelling’s philosophy arose—especially its middle and late phases—Jürgen Habermas stood at the forefront; he was the youngest (and the first) scholar to base his interpretation on “contradictoriness” (<italic>Zwiespältigkeit</italic>). A year later, Karl Jaspers followed his lead and published<italic>Grösse und Verhängnis</italic>(Greatness and disaster); this book held that Schelling had anticipated the central ambivalence of Heideggerian philosophy—more specifically, “the transition from greatness to [empty] gesture, from truth to absurdity, from clear communication to magic” (Jaspers 1955, 7; cf.<italic>Profiles</italic>, 45–52). Around the same time, Georg Lukács declared that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.31</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>THE THEORY OF THE PUBLIC SPHERE:</title>
+                     <subtitle>The Structural Transformation of the Public Sphere (1962)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FRASER</surname>
+                           <given-names>NANCY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>The public sphere is the most influential of Jürgen Habermas’s signature concepts. Unlike “communicative action,” “discourse ethics,” and “the colonization of the lifeworld,” which are discussed principally by specialists, this concept has become a major focus of work in fields ranging from history, law, politics, and sociology to literature, philosophy, gender studies, and media studies. Designating a central institution of modern society, one that previously lacked a name, Habermas’s concept of the public sphere enjoys a status akin to that of a scientific discovery. Widely used throughout the humanities and social sciences, even by those who do not share his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.32</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>TECHNOLOGY AND REIFICATION:</title>
+                     <subtitle>“Technology and Science as ‘Ideology’” (1968)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CELIKATES</surname>
+                           <given-names>ROBIN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAEGGI</surname>
+                           <given-names>RAHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>256</fpage>
+                  <abstract>
+                     <p>The concept of reification plays a central role in Marxist and post-Marxist theories of society— and especially in critical theory—inasmuch as it offers a way to diagnose various social pathologies (Brunkhorst 1998, Grondin 1988, Dahms 1998).</p>
+                     <p>Unlike the notion of “objectification” (<italic>Vergegenständlichung</italic>), to which no value judgment is customarily attached, the term “reification” (Verdinglichung ) is most often employed to critical ends. The first of two aspects of its critical use refers to perceiving and treating someone or a relationship between people as a thing. Whether this happens intentionally or not, it involves a double error: reification represents a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.33</book-part-id>
+                  <title-group>
+                     <label>29</label>
+                     <title>CRITIQUE OF KNOWLEDGE AS SOCIAL THEORY:</title>
+                     <subtitle>Knowledge and Human Interests (1968)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REHG</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>Over his long and productive career, Jürgen Habermas has pursued an overriding interest in critical social-political theory. For Habermas, as for other Frankfurt School critical theorists, social-political critique requires interdisciplinary social analysis and thus depends on engagement with the social and cultural sciences. In the 1960s, Habermas approached such engagement as a problem for methodological and epistemological reflection, that is, a matter of critique of knowledge (<italic>Erkenntniskritik</italic>): critical social theory had to establish itself as a respectable, distinct form of knowledge, in large measure through a methodological critique of the then-dominant positivist philosophy of science and historicist hermeneutics. Conversely, critique</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.34</book-part-id>
+                  <title-group>
+                     <label>30</label>
+                     <title>COMMUNICATIVE RATIONALITY:</title>
+                     <subtitle>Vorbereitende Bemerkungen zu einer Theorie des kommunikativen Handelns (Preparatory Remarks for a Theory of Communicative Action, 1971)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAFONT</surname>
+                           <given-names>CRISTINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+                  <abstract>
+                     <p>In the 1970s, Habermas’s efforts to ground a critical theory of society underwent a “linguistic turn”; henceforth linguistic communication stood at the center of his project. Although some of his earlier writings from the 1960s had demonstrated an interest in linguistic analysis (e.g.,<italic>On the Logic of the Social Sciences</italic>), the central methodological shift took shape in the 1970s. As a consequence of this shift, the formal-pragmatic analysis of communication was no longer to be understood as a metatheory seeking to provide a “language-theoretic foundation of the social sciences” (<italic>Communicative Action</italic>, 1:xxxix); instead, it provided the core element of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.35</book-part-id>
+                  <title-group>
+                     <label>31</label>
+                     <title>LATE CAPITALISM AND LEGITIMATION:</title>
+                     <subtitle>Legitimation Crisis (1973)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NULLMEIER</surname>
+                           <given-names>FRANK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>306</fpage>
+                  <abstract>
+                     <p>Legitimation Crisis presents the plan—or, as Habermas puts it, the “argumentation sketch” (<italic>Legitimation</italic>, 33)—for a comprehensive theory of society, indicating the framework of investigations he will pursue up to<italic>The Theory of Communicative Action</italic>.</p>
+                     <p>
+                        <italic>Legitimation Crisis</italic>began as the research program for projects at the Max Planck Institute for the Study of the Scientific-Technical World in Starnberg, where he assumed the directorship with Carl-Friedrich von Weizsäcker in 1971. The book both draws on the work of researchers there (especially Claus Offe, Gertrud Nunner-Winkler, Rainer Döbert, and Klaus Eder) and synthesizes theoretical elements from the author’s earlier writings. Finally,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.36</book-part-id>
+                  <title-group>
+                     <label>32</label>
+                     <title>HISTORY AND EVOLUTION:</title>
+                     <subtitle>Zur Rekonstruktion des Historischen Materialismus (1976)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MCCARTHY</surname>
+                           <given-names>THOMAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>The essays collected in<italic>Zur Rekonstruktion des Historischen Materialismus</italic>(1976), all written in the mid-1970s, represent a major juncture in Habermas’s thought. They brought his reflections on historical materialism since the 1950s together with his work in the early 1970s on the theory of communicative action, on one side, and with the results of his recent exchange with Niklas Luhmann concerning social-systems theory, on the other side. Together they introduced the research program that would soon lead to<italic>The Theory of Communicative Action</italic>(1985 [1981]).</p>
+                     <p>In his “Literaturbericht zur philosophischen Diskussion um Marx und den Marxismus” (1971 [1957]; not translated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.37</book-part-id>
+                  <title-group>
+                     <label>33</label>
+                     <title>APORIAS OF CULTURAL MODERNITY:</title>
+                     <subtitle>“Modernity—an Unfinished Project” (1980)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MENKE</surname>
+                           <given-names>CHRISTOPH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>334</fpage>
+                  <abstract>
+                     <p>In 1980, Habermas enjoyed the distinction of being the first recipient of the Adorno Prize. On the anniversary of Adorno’s birthday, he delivered his acceptance speech in St. Paul’s Church in Frankfurt: “Modernity—an Unfinished Project.” This speech vigorously attacked an array of heterogeneous positions that, in the speaker’s estimation, all had abandoned the emancipatory ideas of modernity. Habermas’s name for these projects as a whole was “postmodern.” In pronouncing this judgment, Habermas took himself to be following a fundamental intention of Adorno himself, who had “unreservedly . . . subscribe[d] to the spirit of modernity” (“Modernity,” 38). Habermas’s speech,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.38</book-part-id>
+                  <title-group>
+                     <label>34</label>
+                     <title>STAND-IN AND INTERPRETER:</title>
+                     <subtitle>“Philosophy as Stand-In and Interpreter” (1981)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUNKHORST</surname>
+                           <given-names>HAUKE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>349</fpage>
+                  <abstract>
+                     <p>In 1981, the Hegel Conference in Stuttgart addressed the “Hamlet debate” of German philosophy: “Kant or Hegel?” The highpoint of the event occurred when the avant-garde of American pragmatism took the stage. Richard Rorty (1983), whose groundbreaking critique of philosophical idealism<italic>Philosophy and the Mirror of Nature</italic>(1979) had just been translated into German, made a brief introduction. Willard V. O. Quine (1983), who followed him, took apart the myth of autonomous reference—demolishing the notion that the statements in which we offer our reflections hold independently of the theoretical framework in which we make them (412–413). Donald Davidson</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.39</book-part-id>
+                  <title-group>
+                     <label>35</label>
+                     <title>THE THEORY OF SOCIETY:</title>
+                     <subtitle>The Theory of Communicative Action (1981): A Classic of Social Theory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STRECKER</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>360</fpage>
+                  <abstract>
+                     <p>Key to the social philosophy of Jürgen Habermas is his deeply held conviction that social evolution represents a history of progress in principle while at the same time—and as a matter of actual fact—being the cause of grave social ills. His project is shaped, then, by an awareness of suffering and crisis—matters that do not even occur to neoconservative and neoliberal modernizers, entranced as they are by technical and economic development. Simultaneously, he maintains critical distance from parties who, when faced with the catastrophes that modernity has produced, take flight for archaic utopias. In fleshing out this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.40</book-part-id>
+                  <title-group>
+                     <label>36</label>
+                     <title>THE DISCOURSE THEORY OF MORALITY:</title>
+                     <subtitle>“Discourse Ethics—Notes on a Program of Philosophical Justification” (1983)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FORST</surname>
+                           <given-names>RAINER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>383</fpage>
+                  <abstract>
+                     <p>Discourse Ethics—Notes on a Program of Philosophical Justifi-cation,” which was written on the occasion of Karl-Otto Apel’s sixtieth birthday and subsequently appeared in<italic>Moral Consciousness and Communicative Action</italic>, offers a programmatic and comprehensive account of Habermas’s approach to discourse ethics. The text synthesizes a number of the author’s writings since the early 1970s and provides the point of departure for a range of further discussions and revisions of the discourse theory of morality. Although Habermas developed this theory together with Apel, here he also discusses key points on which his view differs from Apel’s transcendental pragmatics.</p>
+                     <p>Before proceeding, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.41</book-part-id>
+                  <title-group>
+                     <label>37</label>
+                     <title>DEFENSE OF MODERNITY:</title>
+                     <subtitle>The Philosophical Discourse of Modernity (1985): Modernity as Rationalization and the Critique of Instrumental Reason</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BENHABIB</surname>
+                           <given-names>SEYLA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>394</fpage>
+                  <abstract>
+                     <p>Since Max Weber’s well-known theory that characterized the fate of modern societies in terms of the concept of “rationalization,” the relationship between the project of occidental rationalism and the structural problems and contradictions of modern capitalist societies has preoccupied thinkers of the Frankfurt School. The early Frankfurt School’s critique of “instrumental reason” continues the legacy of Weberian-Marxism (Lukács 1971 [1923], Löwith 1993, Merleau-Ponty 1968). They combined Weber’s theses about societal modernization with Marx’s analysis of the commodity form and predicted that in the major institutions of modern societies, such as the state, public and private bureaucracies, the capitalist firm, courts,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.42</book-part-id>
+                  <title-group>
+                     <label>38</label>
+                     <title>DEMOCRACY, LAW, AND SOCIETY:</title>
+                     <subtitle>Between Facts and Norms (1992): Points of Reference: The Emergence of Political Philosophy from Theoretical Philosophy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MÖLLERS</surname>
+                           <given-names>CHRISTOPH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>417</fpage>
+                  <abstract>
+                     <p>Habermas’s legal theory must be understood as part of a much larger project that combines theoretical and practical philosophy in an uncommonly thorough way for the twentieth and twenty-first centuries. Habermas (in<italic>Truth</italic>) has lamented the fact that, in a landscape increasingly distinguished by the division of academic labor, the two perspectives have grown more and more separate (for an expressly different view, see Rawls 2005, 372ff.). At the same time, his writings have proved that this need not be the case. Habermas was interested in matters of political theory from the first, even if he came to address them</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.43</book-part-id>
+                  <title-group>
+                     <label>39</label>
+                     <title>EUROPE, EUROPEAN CONSTITUTION:</title>
+                     <subtitle>“Why Europe Needs a Constitution” (2001)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ARATO</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>432</fpage>
+                  <abstract>
+                     <p>Europe and its constitution are important for Habermas for both theoretical and political reasons. Modern constitutions that include fundamental rights, each developed under specific national circumstances, represent key and even indispensable moments of bringing the particular and the universal under a single denominator; hence the concept of constitutional patriotism was developed as the center of an “ethics” that can both motivate and satisfy universal norms. The preconditions were right, namely, a liberal democratic constitution and a political culture capable of recognizing its own highest aspirations in that normative order. In spite of occasional optimism, Habermas was apparently never fully convinced</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.44</book-part-id>
+                  <title-group>
+                     <label>40</label>
+                     <title>RELIGION, METAPHYSICS, FREEDOM:</title>
+                     <subtitle>“Faith and Knowledge” (2001)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HØIBRAATEN</surname>
+                           <given-names>HELGE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>444</fpage>
+                  <abstract>
+                     <p>Jürgen Habermas understands his thinking as postmetaphysical (see his eponymous book). The fact that he does not understand his thinking simply to be postreligious—even though he has referred to himself as “tone deaf” in matters of faith—met with interest long before his debate with the future Pope Benedict XVI (Habermas and Ratzinger 2006;<italic>Naturalism</italic>). Discussion began with Habermas’s speech “Faith and Knowledge,” which he held when he was awarded the Peace Prize of the German Book Trade in 2001 (<italic>Future</italic>,<italic>Zeitdiagnosen</italic>; see Reder and Schmidt 2008, Langthaler and Nagl-Docekal 2007; on themes not addressed here, see especially<italic>Absolute</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.45</book-part-id>
+                  <title-group>
+                     <label>41</label>
+                     <title>HUMAN NATURE AND GENETIC MANIPULATION:</title>
+                     <subtitle>The Future of Human Nature (2001)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHMIDT</surname>
+                           <given-names>THOMAS M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>461</fpage>
+                  <abstract>
+                     <p>Depending on one’s temperament and sensibilities, progress in the biological sciences occasions enthusiasm or misgivings. Either way, these advances have prompted calls—which are only growing in number—for points of normative orientation. Genetic technology and biotechnology have not only given rise to philosophical reactions along the lines of applied ethics (e.g., disputes about appropriate standards and codes of regulation). In addition, discussions concerning stem-cell research and changes to human genetic material have brought into focus a basic anthropological question about “the future of human nature.” As Habermas views things, the fundamental provocation represented by preimplantation genetic diagnosis (PGD) and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.46</book-part-id>
+                  <title-group>
+                     <label>42</label>
+                     <title>THE CONSTITUTIONALIZATION OF INTERNATIONAL LAW AND POLITICS:</title>
+                     <subtitle>“Does the Constitutionalization of International Law Still Have a Chance?” (2004)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOHMAN</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>474</fpage>
+                  <abstract>
+                     <p>From 1999 onward, Habermas has significantly shifted the focus of his political philosophy from questions of democracy and legitimacy within the nation-state to the burgeoning international political domain. In his first such move to international politics, in the mid-1990s, Habermas embraced the “Kantian project” of “Perpetual Peace” and interpreted it as requiring cosmopolitan democracy. In his second phase, in the late 1990s, Habermas began to see difficulties with any attempt to transfer democratic ideals directly to the international system and argued for a more limited conception of a fair negotiating system that cannot in principle attain full democratic legitimacy. In</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.47</book-part-id>
+                  <title-group>
+                     <label>43</label>
+                     <title>COGNITIVE INTERESTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REHG</surname>
+                           <given-names>WILLIAM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>489</fpage>
+                  <abstract>
+                     <p>Habermas’s concept of “cognitive interests” lies at the center of his<italic>Knowledge and Human Interests</italic>(1972 [1968]). That work represents the culmination of his early efforts to ground critical social theory in a critique of knowledge (<italic>Erkenntniskritik</italic>), an approach he abandoned when he made the linguistic-pragmatic turn in the 1970s (see chapter 29 in this volume). With input from Karl-Otto Apel (1971), Habermas developed the idea of cognitive interests in hopes of reconstituting the philosophy of reflection, which had reached its apex in German idealism. Specifically, Habermas wanted to revive the critical, emancipatory aims of reflection in a way that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.48</book-part-id>
+                  <title-group>
+                     <label>44</label>
+                     <title>COLONIZATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ISER</surname>
+                           <given-names>MATTIAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>494</fpage>
+                  <abstract>
+                     <p>Habermas’s early writings already contain the leitmotif that finds full expression in his thesis of colonization. From the beginning, Habermas has been concerned with social pathologies and political blind spots that result when instrumental orientations—embodied, above all, in the structures of capitalism—distort and even repress practical reason (or, as he came to put it later, communicative reason).</p>
+                     <p>As early as<italic>The Structural Transformation of the Public Sphere</italic>, Habermas portrays the interventions of the welfare state as a reaction to the functional deficiencies of the economic order under capitalism. The means-end rationality that shapes economy and state undermines the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.49</book-part-id>
+                  <title-group>
+                     <label>45</label>
+                     <title>COMMUNICATIVE ACTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAFONT</surname>
+                           <given-names>CRISTINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>499</fpage>
+                  <abstract>
+                     <p>Communicative action” is<italic>the</italic>central concept of Habermas’s oeuvre. The term does not refer simply to actions that require communication or instances of communication that perform actions. Instead, its key feature is that participants attempt to coordinate their different action plans on the basis of an understanding that has been mutually achieved. In the technical sense, “communicative action” refers only to those linguistically mediated interactions in which the “use of language oriented to reaching understanding” assumes a “coordinating role” (<italic>Truth</italic>, 110). Given that communicative action represents only one kind of social action among others, it is important to bear in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.50</book-part-id>
+                  <title-group>
+                     <label>46</label>
+                     <title>COMMUNICATIVE ANTHROPOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JÖRKE</surname>
+                           <given-names>DIRK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>504</fpage>
+                  <abstract>
+                     <p>Habermas’s engagement with the questions posed by anthropology began during his university studies—when he evinced skepticism about efforts to determine the unchanging qualities of human nature. He presented his reflections in an encyclopedia article (1958) that received broad attention at the time. According to Otfried Höffe (1992), this piece is responsible for the hegemony of “postanthropological thinking” that prevailed in the “human sciences” until the 1990s (7). In keeping with the conventions of the genre, the first part of Habermas’s encyclopedia entry provides an introductory overview of the history and essential concepts of anthropological thought; the second part, however,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.51</book-part-id>
+                  <title-group>
+                     <label>47</label>
+                     <title>CONSERVATISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUMLIK</surname>
+                           <given-names>MICHA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>507</fpage>
+                  <abstract>
+                     <p>Conservative thinking in its various adumbrations has interested Jürgen Habermas since the very beginning of his sociological and philosophical efforts. In 1963, he authored the article “Kritische und konservative Aufgaben der Soziologie” (Critical and conservative tasks of sociology). Referring to Scottish moral philosophy—especially the works of David Hume—as a conservative element of sociology in its early stages, Habermas declared that conservatism “esteems tradition as the peaceful basis of ongoing development precisely because it does not question the naturalness [<italic>Naturwüchsigkeit</italic>] of progress.”</p>
+                     <p>From the beginning, Habermas’s dialectical encounters with conservatism of all stripes have worked on—and against— Hume’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.52</book-part-id>
+                  <title-group>
+                     <label>48</label>
+                     <title>CONSTITUTIONS AND CONSTITUTIONAL PATRIOTISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NICKEL</surname>
+                           <given-names>RAINER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>513</fpage>
+                  <abstract>
+                     <p>Constitutionality received a central position and a positive definition only in Habermas’s later writings, specifically in the context of his legal theory. In his early discussion of legitimation problems under late capitalism, the author voiced suspicion that “bourgeois constitutions” (Legitimation , 101) harbor ideology, but the matter appeared to be of secondary importance for the task at hand.<italic>The Theory of Communicative Action</italic>hinted at a changed interest in structures of (constitutional) law. Finally,<italic>Between Facts and Norms</italic>—Habermas’s main work of legal theory—presented a kind of idealizing phenomenology of the democratic and constitutional state and affirmed the equiprimordiality</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.53</book-part-id>
+                  <title-group>
+                     <label>49</label>
+                     <title>COSMOPOLITAN CONDITION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BAYNES</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>517</fpage>
+                  <abstract>
+                     <p>In an essay (Habermas 1998) marking the two hundredth anniversary of Kant’s essay “Perpetual Peace,” Habermas returns to Kant’s call for a “cosmopolitan condition” (<italic>weltbürgerlicher Zustand</italic>) that would bring about a definitive end to the bellicose “state of nature” between nationstates. In this essay Habermas suggests that, in his contrast between a global constitutional order or “world republic” and a weaker voluntary federation among sovereign states, Kant was not as unambiguously in support of the latter as is generally assumed. On the one hand, the necessary cultural and social conditions for a legitimate world republic are lacking, and thus the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.54</book-part-id>
+                  <title-group>
+                     <label>50</label>
+                     <title>COUNTERFACTUAL PRESUPPOSITIONS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOLLER</surname>
+                           <given-names>ANDREAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>520</fpage>
+                  <abstract>
+                     <p>The notion of unavoidable, idealizing presuppositions of a pragmatic nature that Habermas elaborates in his later works represents an effort to nuance—and, ultimately, to replace—the confusing concept of an “ideal speech situation” that he presented in the works of his middle period. Since<italic>Between Facts and Norms</italic>, Habermas has understood “counterfactual presuppositions”—or, alternatively, the “vocabulary of the as-if”—as “the nerve of my entire theoretical undertaking” (1998, 418). The social sciences in particular have paid little attention to this conceptual move, however. Accordingly, the matter represents one of the most misunderstood elements of Habermasian theory.</p>
+                     <p>Idealizing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.55</book-part-id>
+                  <title-group>
+                     <label>51</label>
+                     <title>DELIBERATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEITELHOFF</surname>
+                           <given-names>NICOLE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>528</fpage>
+                  <abstract>
+                     <p>At its core, “deliberation” refers to processes of argumentation. From the normative perspective that Habermas adopts, deliberative procedures represent a mechanism of legitimate rule (<italic>Herrschaft</italic>). To be legitimate, such processes of discussion and debate should be public and afford all parties who might potentially be affected by decisions following from them the same opportunities to participate.</p>
+                     <p>Habermas first employed the expression “deliberative politics” in<italic>Between Facts and Norms</italic>(1992). Here, it stands at the center of his theory of democracy. In so doing, he adopted a political concept from a broad-scale American debate that had been prompted by his own</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.56</book-part-id>
+                  <title-group>
+                     <label>52</label>
+                     <title>DISCOURSE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GÜNTHER</surname>
+                           <given-names>KLAUS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>533</fpage>
+                  <abstract>
+                     <p>Habermas’s notion of discourse—one of the key concepts in<italic>The Theory of Communicative Action</italic>—is subject to many misunderstandings; consequently, it is frequently debated and contested. This holds especially for the matter of “domination-free discourse” (<italic>herrschaftsfreier Diskurs</italic>). The standard misreading equates discourse with chatter—endless debates in academic seminars or committees under the “dictatorship of idle flesh” (<italic>Sitzfleisch</italic>) or, alternatively, harmonious handholding between parties kindly disposed to one another, wishing only well, readily seeking agreement at any cost, and fearful of any possible conflict. According to this interpretation, one should be oriented toward understanding and therefore ready for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.57</book-part-id>
+                  <title-group>
+                     <label>53</label>
+                     <title>DISCOURSE ETHICS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FORST</surname>
+                           <given-names>RAINER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>538</fpage>
+                  <abstract>
+                     <p>The term “discourse ethics” refers to a conception of morality in the Kantian tradition, which J ü rgen Habermas developed in conjunction with Karl-Otto Apel (1980, 1988). Its most important feature is its replacement of the reflective evaluation of moral maxims—in accordance with the prescriptions of the Categorical Imperative—with the argumentative redemption of the validity claims of moral norms in practical discourse. The transcendental self-reflection of practical reason à la Kant yields to the pragmatic reconstruction of the normative implications of communicative rationality (<italic>Naturalism</italic>, 24–76). This theory of morality offers numerous points of contact with Habermas’s philosophy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.58</book-part-id>
+                  <title-group>
+                     <label>54</label>
+                     <title>EQUALITY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BAYNES</surname>
+                           <given-names>KENNETH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>541</fpage>
+                  <abstract>
+                     <p>Although Habermas has rarely explicitly addressed the topic of equality, it is clearly an ideal that informs much of his thought. This is, of course, not surprising, since the idea of an association in which “the free development of each is a condition for the free development of all” is an ideal that informs the tradition of Western Marxism, of which Habermas is a central figure. It is, however, important to see the ways in which Habermas has learned from the deficiencies in Marxist thought and other treatments of equality. His own conception of “radical democracy,” for which the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.59</book-part-id>
+                  <title-group>
+                     <label>55</label>
+                     <title>EUROPEAN CITIZENSHIP</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JOERGES</surname>
+                           <given-names>CHRISTIAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>544</fpage>
+                  <abstract>
+                     <p>The concept of<italic>citizenship</italic>spans many disciplines—without, for all that, necessarily connecting them. The following discusses the divergent understandings of the term in positive European law, on the one hand, and in the works of Jürgen Habermas, on the other. Two matters will be made clear: the conceptual anchoring of legal discourses in neoliberal visions<italic>and</italic>the sociocritical dimension of Habermas’s advocacy of the European project.</p>
+                     <p>Institutionalized Europe, both as it defines itself and in common academic parlance, is not a “state”; instead, it is simply a “union.” What does this mean for its citizens? European law supplies no</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.60</book-part-id>
+                  <title-group>
+                     <label>56</label>
+                     <title>EVOLUTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEVES</surname>
+                           <given-names>MARCELO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>549</fpage>
+                  <abstract>
+                     <p>Like Talcott Parsons and Niklas Luhmann, Habermas holds that social evolution entails heightened system complexity (<italic>Communicative Action,</italic>2:155ff.). Unlike his colleagues, however, he affirms that increases in social complexity are mediated by a “developmental logic” whose structure corresponds to the way moral consciousness evolves in stages (esp.<italic>Communicative Action</italic>, 2:174ff.;<italic>Evolution</italic>, 69 94, 95 129;<italic>Rekonstruktion</italic>, 129 143;<italic>Moral Consciousness</italic>). Contra Luhmann’s (1975, 2003) systems theory, Habermas argues that mounting complexity and the social differentiation that accompanies it depend on “learning mechanisms.” In this sense, his position is that differentiation can represent either “evolutionary processes” or stagnation (<italic>Rekonstruktion</italic>, 133–134, 230;</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.61</book-part-id>
+                  <title-group>
+                     <label>57</label>
+                     <title>HISTORICAL MATERIALISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARTMANN</surname>
+                           <given-names>MARTIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>554</fpage>
+                  <abstract>
+                     <p>The theory of historical materialism developed by Marx and Engels understands social conditions as the result of a teleological historical process. The analysis of operative categories—forces of production, relations of production, and superstructure—permit the further course of history to be explained and even predicted. As outlined in Marx’s<italic>Grundrisse</italic>(Marx 1993), the model of historical materialism is as follows: Forces of production (i.e., the labor of persons who are active in production, the specialized knowledge that manages/directs their efforts, the tools employed, and instruments/instances of certification and coordination) give rise to institutions and mechanisms that determine who has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.62</book-part-id>
+                  <title-group>
+                     <label>58</label>
+                     <title>HUMAN RIGHTS AND HUMAN RIGHTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KREIDE</surname>
+                           <given-names>REGINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>558</fpage>
+                  <abstract>
+                     <p>The relationship between human rights and democracy is most often described in terms of tension (e.g., Gosepath 1998, 209ff.; Michelman 1999, 52–66; Wellmer 2000). Human rights impose on popular sovereignty moral prescriptions that restrict the freedom of choice and decision. Conversely, the results of democratic processes may run counter to the standing conceptions of human rights—and, as a result, undermine their observance.</p>
+                     <p>Jürgen Habermas’s deliberative conception of human rights—which holds equally distant from liberal and republican positions—integrates important aspects of both theories to justify human rights and democracy. On the one hand, this approach is directed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.63</book-part-id>
+                  <title-group>
+                     <label>59</label>
+                     <title>IDEOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAAR</surname>
+                           <given-names>MARTIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>562</fpage>
+                  <abstract>
+                     <p>In Habermas’s works, the concept of ideology displays multiple—and polyvalent—aspects. It features prominently as one of the central categories in his account of Marxism—above all, in his early discussions of the project of critical theory as it was first conceived. The matter continues to be of central importance in Habermas’s discussions of “late capitalism,” where he seeks to offer a political-sociological diagnosis of the times. However, in the course of the author’s turn to the theory of communication, which crucially revises his approach to critical social analysis, ideology offers a point of reference less and less; in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.64</book-part-id>
+                  <title-group>
+                     <label>60</label>
+                     <title>INTELLECTUALS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GABRIËLS</surname>
+                           <given-names>RENÉ</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>565</fpage>
+                  <abstract>
+                     <p>On the basis of certain normative convictions, the intellectual has a sense both for what is and for what could be different. In other words, he unites what Robert Musil (1996) called a “sense of reality” and a “sense of possibility.” However, not all intellectuals manage to strike a balance between the two: self-declared realists possess an unrestrained sense of reality, and unworldly idealists possess an excessive sense of possibility.</p>
+                     <p>Jürgen Habermas belongs among the very few philosophers and sociologists who, both in what they write about intellectuals and in their intellectual interventions, seek a point of equilibrium between the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.65</book-part-id>
+                  <title-group>
+                     <label>61</label>
+                     <title>LATE CAPITALISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NULLMEIER</surname>
+                           <given-names>FRANK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>571</fpage>
+                  <abstract>
+                     <p>Habermas’s<italic>Legitimation Crisis</italic>(<italic>Legitimationsprobleme im Spätkapitalismus</italic>[1973]) assigns the concept of “late capitalism” a position of central importance, which it has retained in his works as a whole. However, in presenting this sketch of a comprehensive theory of society, Habermas employs the term “late capitalism” only with restraint. More often, he refers to “state-regulated” or “organized capitalism.” And even when the chapter heading promises “A Descriptive Model of Advanced Capitalism,” what follows speaks primarily of “organized capitalism” (<italic>Legitimation</italic>, 33).</p>
+                     <p>Habermas’s references to “late capitalism” should be understood in light of the Sixteenth Conference of German Sociologists (<italic>Soziologentag</italic>) in Frankfurt the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.66</book-part-id>
+                  <title-group>
+                     <label>62</label>
+                     <title>LEARNING PROCESSES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NUNNER-WINKLER</surname>
+                           <given-names>GERTRUD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>577</fpage>
+                  <abstract>
+                     <p>Unlike genetically determined changes that occur in the process of maturation, changes through learning result from experience. By definition, learning processes—because they occur over a longer period of time—are distinct from punctual instances of learning (“imprinting”). As Habermas defines them, they do not refer to the acquisition of motor skills (for example, swimming), simple cultural aptitudes (<italic>Kulturtechniken</italic>), or narrowly delimited systems of knowledge (for example, reading and writing or mathematical abilities). Instead, learning processes concern the formation of the (cognitive or moral) capacity of judgment.</p>
+                     <p>Unlike the learning mechanisms that behaviorism and psychoanalysis investigate—which involve classical and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.67</book-part-id>
+                  <title-group>
+                     <label>63</label>
+                     <title>LEGAL WARS VERSUS LEGITIMATE WARS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GEIS</surname>
+                           <given-names>ANNA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>581</fpage>
+                  <abstract>
+                     <p>As a public intellectual, Jürgen Habermas has, from the beginning of his career, taken stands on current events. His political observations have not avoided an especially touchy matter in liberal and democratic public spaces: the justification of military intervention. Since the end of the Cold War, Habermas has—in essays, newspaper pieces, and interviews—articulated positions on three wars involving Western states: the first Gulf War (1991), Kosovo (1999), and Iraq (2003). He has said little, in contrast, about ongoing activities in Afghanistan (Habermas 1991, 1999; Habermas and Derrida 2003;<italic>Divided West</italic>).</p>
+                     <p>Habermas prompted the strongest—and most critical—response</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.68</book-part-id>
+                  <title-group>
+                     <label>64</label>
+                     <title>LEGALITY, LEGITIMACY, AND LEGITIMATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NICKEL</surname>
+                           <given-names>RAINER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>586</fpage>
+                  <abstract>
+                     <p>Habermas first developed a positive conception of legitimacy at the beginning of the 1970s, when he took up Max Weber’s sociology of government (<italic>Herrschaftssoziologie</italic>) and the Marxist critique of capitalism (<italic>Legitimation</italic>;<italic>Rekonstruktion</italic>). Legitimacy, as he has defined it, means the “worthiness of recognition [<italic>Anerkennungswürdigkeit</italic>] of a political order” (<italic>Rekonstruktion</italic>, 271).<italic>Legitimation Crisis</italic>, which dates from this period, focuses on the production of meaning (and crises of meaning) within the capitalist system—when the administration can shoulder economic problems but can no longer account for its operations (<italic>Legitimation</italic>, 98).</p>
+                     <p>Weber’s (1978) analysis of the legitimacy of rational rule offers no way</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.69</book-part-id>
+                  <title-group>
+                     <label>65</label>
+                     <title>MASS CULTURE AND CULTURAL CRITICISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KOCH</surname>
+                           <given-names>GERTRUD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>590</fpage>
+                  <abstract>
+                     <p>Habermas’s understanding of “mass culture” is indebted to Adorno. Accordingly, it does not refer to culture produced by the masses but rather to culture that is produced on a massive scale. Liberal, bourgeois culture is made by and for the bourgeoisie, yet this does not mean that consumers and producers are identical—rather, producers and consumers build a public sphere in a shared social stratum. Such a transformation of internal topology does not occur under the conditions of mass democracy, however. Mass culture addresses the masses only as consumers—and in the atomized form of private property, at that—without</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.70</book-part-id>
+                  <title-group>
+                     <label>66</label>
+                     <title>POSTMETAPHYSICAL THINKING</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LOHMANN</surname>
+                           <given-names>GEORG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>594</fpage>
+                  <abstract>
+                     <p>For Habermas, “postmetaphysical thinking” (<italic>nachmetaphysisches Denken</italic>) refers to the only ways of pursuing philosophy still possible in today’s world. He employs the term in two senses: first, in a critical/negative capacity that is meant to counter the “return to metaphysics” he diagnoses; and second, as a positive designation for the philosophical thinking that can only occur after—and according to (<italic>nach</italic>)—metaphysics, i.e., thinking that does not abandon the claim to comprehensive rationality. In historical terms, postmetaphysical thinking belongs to the tradition of the Young Hegelians (<italic>Discourse</italic>, 53ff.;<italic>Postmetaphysical</italic>, 124). As a critical counterconcept opposed to metaphysics (which extends,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.71</book-part-id>
+                  <title-group>
+                     <label>67</label>
+                     <title>POWER</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ISER</surname>
+                           <given-names>MATTIAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>598</fpage>
+                  <abstract>
+                     <p>The concept of power is of central importance for a critical theory of society. In academic discussions, however, “power” refers to different things. A distinction is often made between theories that focus on “power over” persons or groups and those that speak of “power to” do or achieve something. Habermas’s theory of society seeks both to clarify the connections between the most important—and traditionally competing—conceptions of power and to clarify their normative hierarchy. To this end, he distinguishes between communicative, administrative, and social power. With regard to the legitimacy of political processes, the task involves, above all, determining</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.72</book-part-id>
+                  <title-group>
+                     <label>68</label>
+                     <title>PRAGMATIC TURN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RIZVI</surname>
+                           <given-names>ALI M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>602</fpage>
+                  <abstract>
+                     <p>Robert Brandom (2002) describes pragmatism “as a movement centered on the primacy of the practical” (40). This primacy of practice over theory is manifested in Habermas’s writings in two ways. First, it emerges in his lifelong insistence on the primacy of “know how” (what he often calls intuitive knowledge) over “know that.” This is a key Heideggerian distinction, which Habermas uses in his theoretical analyses, in his formal pragmatics, and in developing his social theory. Second, it is manifested in Habermas’s rejection of what he calls the “spectator model” of knowledge and his insistence that action has “cognitive” significance—in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.73</book-part-id>
+                  <title-group>
+                     <label>69</label>
+                     <title>PUBLIC SPHERE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NANZ</surname>
+                           <given-names>PATRIZIA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>605</fpage>
+                  <abstract>
+                     <p>The works of Jürgen Habermas have shaped the way the public sphere (<italic>Öffentlichkeit</italic>) is understood in Germany and the Anglo-American world.<italic>The Structural Transformation of the Public Sphere</italic>(1961) presented the key ideas that later were treated in systematic fashion in<italic>Between Facts and Norms</italic>(1992), Habermas’s main work of legal and democratic theory. The “public sphere” forms a space of reasoned communicative interaction—the principal means of arriving at collective understanding (<italic>Selbstverständigung</italic>). Under modern conditions, the public sphere of politics in the democratic community (Gemeinwesen ) plays a central role in social integration. Public debates form the basis for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.74</book-part-id>
+                  <title-group>
+                     <label>70</label>
+                     <title>RADICAL REFORMISM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUNKHORST</surname>
+                           <given-names>HAUKE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>610</fpage>
+                  <abstract>
+                     <p>Just as the label “the theory of communicative action” effectively covers all of Habermas’s work to date, the phrase “radical reformism” stands for the author’s view of political praxis— i.e., the practical implications of his theoretical reflections. In a lengthy introduction—written in the winter of 1969—to his first collection of essays, notes (<italic>Denkschriften</italic>), and contributions to debates on university reform and student protest, Habermas addressed the objectives, theoretical justifications, achievements, reactions, and origins (which were the same across the globe) of the first international movement of this kind. The piece ends with Lenin’s famous question: “What is to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.75</book-part-id>
+                  <title-group>
+                     <label>71</label>
+                     <title>RATIONAL RECONSTRUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ISER</surname>
+                           <given-names>MATTIAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>614</fpage>
+                  <abstract>
+                     <p>The method of rational reconstruction, at which Habermas arrived via two steps—ideology critique and philosophical anthropology—sets itself three tasks. First—and above all—it seeks to ground the normative standards for a critical theory of society (section 2). Second, it wants to demonstrate that social development from premodernity to modernity manifests an instance of progress—which it also intends to explain, at least in part (section 3). Finally, it tries to identify current potentials for resistance (section 4). Although Habermas has not realized this ambitious project in its entirety, the method of rational reconstruction—because of its combination</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.76</book-part-id>
+                  <title-group>
+                     <label>72</label>
+                     <title>RATIONALITY AND RATIONALIZATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BRUNKHORST</surname>
+                           <given-names>HAUKE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>619</fpage>
+                  <abstract>
+                     <p>In the introductory remarks to his early study<italic>Grundrechte als Institution</italic>(Basic rights as an institution), Niklas Luhmann (1965) observed that the task at hand was to replace the old-European “reason of perception”<italic>(Vernehmen)</italic>with the “reason of comparison”<italic>(Vergleich)</italic>(8). In so doing, he quoted the title of a book by Ernst Cassirer (to which he has referred on many other occasions, as well). The latter’s<italic>Substance and Function</italic>(2003 [1910]) addresses precisely this transition from substance, which may be “heard” or “seen”<italic>(vernehmbare Substanz)</italic>, to function, which admits comparison (or, alternatively, represents functional equivalence). Although—to the best</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.77</book-part-id>
+                  <title-group>
+                     <label>73</label>
+                     <title>SOCIAL PATHOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARTMANN</surname>
+                           <given-names>MARTIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>623</fpage>
+                  <abstract>
+                     <p>The concept of pathology derives from ancient medicine, where it refers to the doctrine of kinds and causes of illness. According to Galen, the pathological is what deviates from “the normal course of nature” (Seidler 1989, 13). Discourse about social pathologies, in turn, stems from the metaphorical transferring of this medical concept onto societies—which are treated as if they were organisms that can be sick or healthy. Habermas’s reading of Freud, in<italic>Knowledge and Human Interests</italic>, is decisive for the conception of pathology in his works as a whole. For Freud, pathology is based on the linguistification or verbalization</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.78</book-part-id>
+                  <title-group>
+                     <label>74</label>
+                     <title>SOCIETY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSA</surname>
+                           <given-names>HARTMUT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>627</fpage>
+                  <abstract>
+                     <p>Sociological concepts admit analysis along three lines of questioning (Rosa, Strecker, and Kottmann 2007): What<italic>is</italic>a society? That is, how and by what means does it constitute itself—what forms its basis or fundamental unity? (Synthesis). Through what processes and in what manner does society<italic>change</italic>? What factors serve as “motors” for transformation? Are there rules underlying its course of development? (Dynamis). Can the evolution of societies be<italic>steered, controlled</italic>—or, at very least, influenced by social actors? (Praxis).</p>
+                     <p>The conception of society elaborated in Habermas’s philosophical and sociological thinking—which finds its fullest articulation in<italic>The Theory of</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.79</book-part-id>
+                  <title-group>
+                     <label>75</label>
+                     <title>SYSTEM AND LIFEWORLD</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NEVES</surname>
+                           <given-names>MARCELO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>632</fpage>
+                  <abstract>
+                     <p>The distinction between system and lifeworld stands at the center of The Theory of<italic>Communicative Action</italic>. Society is viewed neither in strictly systemic terms, nor is it understood exclusively in terms of the lifeworld. Habermas conceives it “simultaneously as a system and as a lifeworld” (<italic>Communicative Action</italic>, 2:120). Social evolution, in turn, is defined in terms of the differentiation that occurs between these two dimensions (2:152ff.).</p>
+                     <p>Habermas’s model presents the lifeworld “as the horizon within which communicative actions are ‘always already’ moving” (2: 119). In other words, it is conceived as the “background for communicative action” (<italic>Vorstudien</italic>, 593) and represents</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.80</book-part-id>
+                  <title-group>
+                     <title>APPENDIX:</title>
+                     <subtitle>CHRONOLOGY</subtitle>
+                  </title-group>
+                  <fpage>637</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.81</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>641</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.82</book-part-id>
+                  <title-group>
+                     <title>LIST OF CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>649</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">brun16642.83</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>653</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

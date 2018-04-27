@@ -1,0 +1,612 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13wzwk2</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2430.M284G58 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Marion, Jean-Luc, 1946–</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Givenness and God: Questions of Jean-Luc Marion</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Leask</surname>
+               <given-names>Ian</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Cassidy</surname>
+               <given-names>Eoin</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>04</month>
+         <year>2005</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823224500</isbn>
+      <isbn content-type="epub">9780823247912</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13wzwk2"/>
+      <abstract abstract-type="short">
+         <p>After the subject and beyond Heideggerian ontology,Marion suggests, there is the sheer givenness ofphenomena without condition. In theology, this liberationmeans rethinking God in terms of phenomena such aslove, gift, and excess. In addition to an important essayby Marion, The Reason of the Gift, and a dialoguebetween Marion and Richard Kearney, this book containsstimulating essays by ten other contributors: Lilian Alweiss,Eoin Cassidy, Mark Dooley, Brian Elliott, Ian Leask,Shane Mackinlay, Derek Morrow, John O'Donohue,Joseph S. O'Leary, and Felix a Murchadha. After the subject and beyond Heideggerian ontology, Marion suggests, there is the givenness of phenomena without condition. In theology, this liberation means rethinking God in terms of phenomena such as love, gift, and excess. In addition to an important essay by Marion, The Reason of the Gift, and a dialogue between Marion and Richard Kearney, this book contains stimulating essays by ten other contributors: Lilian Alweiss, Eoin Cassidy, Mark Dooley, Brian Elliott, Ian Leask, Shane Mackinlay, Derek Morrow, John O'Donohue, Joseph S. O'Leary, and Felix a Murchadha.</p>
+      </abstract>
+      <counts>
+         <page-count count="368"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.5</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lane</surname>
+                           <given-names>Dermot A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+                  <abstract>
+                     <p>It is a pleasure for me as President of Mater Dei Institute to welcome the publication of this collection of essays celebrating the work of Jean-Luc Marion. Most of the papers were first delivered in the Mater Dei Institute, a college of Dublin City University, in January 2003, at a conference attended by Marion. It was Marion’s first visit to Ireland, and it was most appropriate that a college specializing in religious education should host the occasion: after all, Marion has not only been central in the “turn toward the theological” in recent French phenomenology, but has also generated massive</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leask</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cassidy</surname>
+                           <given-names>Eoin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Jean-Luc Marion’s body of work has already secured his place among the top rank of twentieth-century philosophers; it seems inconceivable that his reputation will not grow even further in the twenty-first century and beyond. Though equally renowned for his scholarly work on early modern philosophy and on Husserl and Heidegger, Marion is perhaps best known for his renewal of phenomenology, for his remarkable, ongoing inquiry into the question of God, and for work bridging all of these areas. The oeuvre resulting from this fertile constellation places Marion’s writings at the center of the “theological turn” in recent French phenomenology; as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Conceptual Idolatry of Descartes’s Gray Ontology:</title>
+                     <subtitle>An Epistemology “Without Being”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morrow</surname>
+                           <given-names>Derek J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>As even a cursory glance at the current literature will confirm, the task of investigating the many philosophical and theological questions raised by Jean-Luc Marion’s explorations into the phenomenology of the gift and of givenness (<italic>donation</italic>) has only begun. Not least of these questions, of course, is the purely formal one of methodology. For although Marion’s phenomenology of<italic>donation</italic>has generated significant criticism from several quarters—both from scholars who regard it as insufficiently phenomenological and thus as a betrayal of phenomenology (Janicaud¹), and from scholars who consider it to have unduly compromised the theological prerogatives of the Christian faith</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>I Am, I Exist</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alweiss</surname>
+                           <given-names>Lilian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>The aim to lay knowledge on a foundation that is free of doubt is historically associated with the philosophy of Descartes. Moreover, with his observation that only one proposition escapes doubt—namely, the famous<italic>cogito, ergo sum:</italic>“I am thinking, therefore I exist”—it is claimed that Descartes inaugurated a philosophy of consciousness (<italic>Bewußtseinsphilosophie</italic>). It is important to note that Descartes’s original contribution to philosophy does not so much consist in advancing the proposition itself (it can already be found in the writings of Augustine), but in making the<italic>metaphysical</italic>claim that the ego holds rank of a<italic>first principle</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Hubris and Humility:</title>
+                     <subtitle>Husserl’s Reduction and Givenness</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mooney</surname>
+                           <given-names>Timothy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>For more than a decade, Jean-Luc Marion has led us back to Husserl’s writings. The shadow cast by his interpretation serves as a shade that delivers us from an earlier blindness, letting us discriminate much that lay in obscurity. He has helped us to understand Husserlian phenomenology anew, foregrounding as he does the breakthrough to givenness (<italic>donation</italic>). It may be possible, nonetheless, to show that his rendering is too severe in this or that instance, the very strength of its revelation having facilitated a certain occultation. Working in the other shadows of Merleau-Ponty and the early Derrida, we can look</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Glory, Idolatry, Kairos:</title>
+                     <subtitle>Revelation, and the Ontological Difference in Marion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murchadha</surname>
+                           <given-names>Felix Ó</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>The terms of the title—glory, idolatry, kairos—are Christian, not Greek, if we understand Greek as the Greek of classical philosophy. Kairos is a Greek word meaning the opportune moment, but prior to Christianity it had little philosophical significance¹; idolatry comes from<italic>eidolon</italic>, which in Plato means a deceiving image but in Christianity comes to mean false gods; glory—<italic>gloria</italic>—translates<italic>dōxa</italic>, a philosophical term that, however, is used in a new way to translate the Hebrew<italic>kabod</italic>. Thus, these very terms themselves point to a turning, a movement of thought that characterizes Christianity; one can say of them,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Reduced Phenomena and Unreserved Debts in Marion’s Reading of Heidegger</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Elliott</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>In the question concerning the necessity of grace from Aquinas’s<italic>Summa theologiae</italic>we find the following remark: “The free-will of man is moved by an external principle that stands above the human mind, that is, by God” (<italic>quod liberum arbitrium hominis moveatur ab aliquo exteriori principio quod est supra mentem humanum, scilicet a Deo</italic>; q. 109, art. 2).¹ If the ultimate motivator of human free will is God, then the highest object of man’s desire, eternal life, must equally be solely within God’s gift and never effected by human works. As Augustine says:</p>
+                     <p>Man cannot by virtue of his natural</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Reason of the Gift</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marion</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mackinlay</surname>
+                           <given-names>Shane</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Warren</surname>
+                           <given-names>Nicolas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>We give without account. We give without accounting, in every sense of the word. First, because we give<italic>without ceasing</italic>. We give in the same way we breathe, every moment, in every circumstance, from morning until evening. Not a single day passes without our having given, in one form or another, something to someone, even if we rarely, if ever, “give everything.”¹ Also, we give without keeping account,<italic>without measure</italic>, because giving implies that one gives at a loss, or at least without taking into account either one’s time or one’s efforts: one simply does not keep account of what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Gift:</title>
+                     <subtitle>A Trojan Horse in the Citadel of Phenomenology?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Leary</surname>
+                           <given-names>Joseph S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Theologians ruminate among inherited concepts and images, seeking to clarify their history and judge it critically. To establish a perspective in which even a single such concept can be brought into question or deconstructed is no easy matter. To bring the entire tradition into perspective and retrieve it in a well-founded way, as Heidegger aimed to retrieve the tradition of Western metaphysics, is a prodigious task. Recently, a larger context for that task has emerged as Christians have learned that their entire tradition is only one fiber in the texture of the human religious quest. The old closures of identity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Phenomenality in the Middle:</title>
+                     <subtitle>Marion, Romano, and the Hermeneutics of the Event</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mackinlay</surname>
+                           <given-names>Shane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>“The Reason of the Gift”¹ is part of Jean-Luc Marion’s broader phenomenological project, which begins from his critique of the traces of a constituting subject retained by Husserl and Heidegger. While Marion’s phenomenology of givenness (<italic>donation</italic>) eliminates these traces, it does so only by reducing the subject to a passive recipient on whom phenomena impose themselves. In contrast, Claude Romano (another contemporary French phenomenologist) responds to the same concerns about<italic>Dasein</italic>’s subjective character without limiting the subject to pure receptivity.² By comparing these two responses to the issue of a constituting subject, I will draw attention to some of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Dative Subject (and the “Principle of Principles”)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leask</surname>
+                           <given-names>Ian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>Jean-Luc Marion’s philosophical project is largely about being true to phenomenology’s supreme principle—the principle that every originary intuition is a legitimizing source of cognition, that everything originarily offered in intuition be accepted as it presents itself.¹ It is by interrogating this “principle of principles,” by unfolding its full consequences, that Marion can posit his “third reduction”—beyond both Husserl and Heidegger—and so unveil the primacy of sheer givenness. In doing so, Marion would claim, any autarchic subjectivity (whether transcendental or existential) is dethroned and dismantled in one and the same act that givenness (<italic>donation</italic>) is “set free”: accepting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Marion’s Ambition of Transcendence</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dooley</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>190</fpage>
+                  <abstract>
+                     <p>The essay that best encapsulates the recent thought of Jean-Luc Marion is, in my opinion, “The Saturated Phenomenon” (SP). Here the author gives an account of what he calls the paradox of an “impossible” phenomenon, one that bedazzles the ego through an excess of intuition over intention. Although this idea has generated a good deal of fairly robust criticism,¹ most of the essay’s readers are nevertheless impressed by the way in which Marion uses it not only to enlarge upon the project of<italic>God Without Being</italic>, but also to convey a sense of where his latest work, developed in texts</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Le phénomène érotique:</title>
+                     <subtitle>Augustinian Resonances in Marion’s Phenomenology of Love</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cassidy</surname>
+                           <given-names>Eoin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>Jean-Luc Marion’s<italic>Le phénomène érotique (PE)</italic>¹ is not only the culmination of an ongoing and long-standing concern² but, as such, is also the most explicit statement in his oeuvre to date about the sheer primacy of love. Specifically,<italic>PE</italic>suggests that only in the<italic>phénomène croisé</italic>, only in erotic love, can one receive the gift of significance that is capable of contesting the ultimate challenge of nihilism—namely, the challenge of “What’s the use?” or “to what end?” (<italic>à quoi bon</italic>?). As we shall see here, Marion’s suggestions resonate profoundly with those of a classical philosopher unmatched in his sustained</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Hermeneutics of the Possible God</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kearney</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>220</fpage>
+                  <abstract>
+                     <p>God, if God exists, exists not just for God but also for us. And the manner in which God comes to us, comes to mind, comes to be, and comes to dwell as flesh among us, is deeply informed by the manner in which we think about God—in short, how we interpret, narrate, symbolize, and imagine God. This, I suggest, calls for a philosophical hermeneutics instructed by the various and essential ways in which God “appears” to us in and through “phenomena,” and “signals” to us in and through “signs.” It is my wager in this chapter that one</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Giving More:</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marion</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kearney</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>This chapter is an edited transcript of a seminar held at the Mater Dei Institute, Dublin, January 2003.</p>
+                     <p>Richard kearney: This is a pretty open forum, there’s nothing pre-prepared. I’m going to start by inviting Jean-Luc Marion to begin the seminar, and then we’ll open it to the floor.</p>
+                     <p>Jean-luc marion: I take the opportunity of this seminar to answer a comment made by Richard Kearney which is very fruitful, and which is a very good example not only that we agree on most of the issues but also how far the concept of the saturated phenomenon can be applied.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.20</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The Absent Threshold:</title>
+                     <subtitle>An Eckhartian Afterword</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Donohue</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>258</fpage>
+                  <abstract>
+                     <p>Jean-Luc Marion’s philosophy of God has the excitement, clarity, and danger of something that has issued from the source. On the one hand, it has the imaginative warmth of a poetic sensibility that mines the silence in order to overhear the inner echoes of the transcendent and pierces the visual for tracings on the invisible. On the other, his thinking has the urgency of a blade that wants to cut the divine free from the metaphysical netting of conditional, reflexive thought. He wishes to make a clearance for undreamed dimensions of God to appear—free, unfiltered, and unframed by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.21</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>285</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.22</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>341</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.23</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13wzwk2.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

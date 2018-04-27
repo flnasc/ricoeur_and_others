@@ -1,0 +1,383 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt8f9frs</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7zvc26</book-id>
+      <subj-group>
+         <subject content-type="call-number">JA71.C568 1984</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Political science</subject>
+         <subj-group>
+            <subject content-type="lcsh">Addresses, essays, lectures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Political science literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Addresses, essays, lectures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Influence (Literary, artistic, etc.)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Addresses, essays, lectures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Status and Appraisal of Classic Texts</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>CONDREN</surname>
+               <given-names>CONAL</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="epub">9781400853649</isbn>
+      <isbn content-type="epub">1400853648</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>Princeton, New Jersey</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1985</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7zvc26"/>
+      <abstract abstract-type="short">
+         <p>Conal Condren examines the criteria for judging both works of political theory and texts associated with related academic genres. He discusses the rhetoric surrounding terms like originality," "influence," and "coherence," the value of these terms as criteria of textual assessment, and their use in charting the history of texts.</p>
+         <p>Originally published in 1985.</p>
+         <p>ThePrinceton Legacy Libraryuses the latest print-on-demand technology to again make available previously out-of-print books from the distinguished backlist of Princeton University Press. These paperback editions preserve the original texts of these important books while presenting them in durable paperback editions. The goal of the Princeton Legacy Library is to vastly increase access to the rich scholarly heritage found in the thousands of books published by Princeton University Press since its founding in 1905.</p>
+      </abstract>
+      <counts>
+         <page-count count="318"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.4</book-part-id>
+                  <title-group>
+                     <title>ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Great books are less written than they are read. That is, designations of qualitative status (good, bad, indifferent, classic, or a waste of trees) are less simple descriptions of the facts of authorial achievement than they are evocations of the expectations and criteria of judgment the reader brings to bear upon a text. These constitute what, I shall call<italic>appraisive fields</italic>. On occasion we may find such fields specific to a discipline or activity in which we place a book—hence we do not read a viticultural treatise as we would a pastoral idyll. Commonly, however, our expectations are abridged</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Methodology:</title>
+                     <subtitle>Its Character and Significance</subtitle>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Arguably, we live in an age of methodology, and if Shelley was right in stating that each deifies its greatest sins, are we, when confronted with such terms as<italic>methodology</italic>,<italic>metatheory</italic>,<italic>methodeutic</italic>, in the presence of a trinity—aspects of the god of rationalistic excess?¹ Possibly, but we are given to worse failings, for this has also been called the age of wastepaper and rubbish. For good or ill, few modern, major intellectual figures have not been concerned with problems of method. Moreover, we are prone to delineate intellectual activities, above all else, by their methods;² and the condition of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Political Theory, Its Conventional Structure, the Issue-Orthodoxy, and the Assessment of Texts</title>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>Were he more than the creation of metaphor,<italic>homo methodologicus</italic>would migrate in droves to the<italic>polis</italic>of political theory, where certainly the methodological idiom is now heard with a frequency which is difficult to ignore.¹ So pervasive is it that an overview of methodological dispute about political theory can almost serve as a means of describing the community itself.</p>
+                     <p>An identification of the political theory community, however, is by no means straightforward; the covering term itself overlaps with expressions such as ‘political philosophy’ and ‘thought’ and is sufficiently porous to include with degrees of certainty scholars who are involved</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Political Theory and the Faith in a Tradition of Classic Texts</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>In turning to consider the established tradition of political theory, we move from the rivers of discord into the oceans of controversy. The tradition has attracted more direct attack and defense than the problems of the issue-orthodoxy or the conventional structure of political theory on their own; it is, after all, a more stable phenomenon than either, providing a means through which they may easily be discussed.¹</p>
+                     <p>In its simplest received form, the tradition resembles a slain list or a biblical begattery. Of the undisputed first rank are the names of Plato, Aristotle, Augustine, Aquinas, Machiavelli, Hobbes, Locke, Rousseau, Hegel,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.9</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>The political theory community, if fluid and marginally unstable, has some sense of identity and cohesion; and it is this which has made possible the political and religious metaphor that has been interlaced with the argument. This metaphor may be extended a little further in order to take stock and to suggest the nature and significance of what I now propose to discuss.</p>
+                     <p>In an earlier essay, I suggested that the political thought of distinctive civilizations, such as ancient Greece, Rome, and Medieval Christendom, could be understood in terms of the following general classificatory headings: summation terms, idioms of argument,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Originality</title>
+                  </title-group>
+                  <fpage>92</fpage>
+                  <abstract>
+                     <p>Edward Young’s hyperbole may be taken to stand for the established importance of<italic>originality</italic>as both a rhetorical ornament and a fundamentally important appraisive category in the republic of letters. Its significance seems principally occidental,¹ and it is unnecessary to embark upon a history of the term in order to indicate also that originality has only recently become a crowning virtue.</p>
+                     <p>Medieval writers, if they made any explicit reference to initiation, were apt to ascribe their own work to others, or invent authors to whom their work could be ascribed. Malory ‘translated’ from the French, and although he certainly did</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Contribution and Influence</title>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>Aristotle, we might say, contributed to Greek civilization, Burke to the ferment following the French Revolution, both to our understanding of political theory, the human condition, or the political life. In so saying we use the term ‘contribution’ in rather different senses, the first two of which are, if trite, unexceptionable insofar as they refer to tangible quantitative phenomena. The third occasion of use is interesting and dubious. For it is not entirely clear how any thinker contributes, in any significant sense of the word, to an abstraction such as the political life. It is, however, by no means uncommon</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Coherence</title>
+                  </title-group>
+                  <fpage>142</fpage>
+                  <abstract>
+                     <p>I shall take<italic>coherence</italic>as existing at the center of a network of terms (principally<italic>unity</italic>,<italic>precision</italic>,<italic>oneness</italic>,<italic>consistency</italic>,<italic>validity</italic>), and as representing an unavoidable and persistent genus of concern in textual analysis. No matter what else we may wish to say about a given text, to some extent we are logically obliged to trade in the currency of<italic>coherence</italic>. At one extreme a cursory statement about an author’s central concern or an indication of what a book is about represents some minimal coherence claim. At another, detailed analysis will frequently go much further by trying to elicit to what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.13</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>So far, although incomplete, my argument has shown sufficiently the difficulties of taking the major items of the received appraisive field of political theory seriously as a means of organizing the qualitative analysis of a text and of using the accepted virtues of this field as a means of explaining classic status. “A very wholesome and comfortable doctrine” perhaps, as Fielding wrote of something quite different, “and to which we have but one objection, namely, that it is not true.” Analytical categories easily become a pattern of historical expectation (see pp. 3–4), and it is as unsatisfactory to see</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Ambiguity:</title>
+                     <subtitle>Delineation and Typology</subtitle>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Ambiguity has long been recognized as a significant phenomenon of discourse, if too frequently as only an undesirable one. In these respects, and in terms of its logical significance, ambiguity provides a strong contrast to originality, the category with which I started. Yet if ambiguity has been commonly regarded as a fault, the nonambiguous has acquired neither proportionately laudatory connotations nor even adequately discrete delineation. The area of the unambiguous is one of virtue but not of cardinal virtue. In England, the doctrine of the clear, simple prose style initially propagated by puritan lecturers, institutionally associated with the Royal Society,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Ambiguity:</title>
+                     <subtitle>Generation and Context</subtitle>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Most simply, ambiguity may be purposive or circumstantial: the result of<italic>virtừ</italic>or<italic>fortuna</italic>—a tricky distinction in practice, but my intention here is only to refine a vocabulary of classification in the process of which I hope to cast some light on the illustrative texts. Purposive ambiguity refers to a family of specific communicative devices: deliberate attempts to control audience reaction through the structure of discourse. More precisely, purposive ambiguity is that for which reference to a hypothetical intention has explanatory force. Circumstantial ambiguity amounts to a residual classification for ruptured communication, for, that is, an audience’s room to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Towards an Explanation of Classic Status</title>
+                  </title-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>It is at this point, preliminaries concluded, that I might happily embark upon yet another history of political thought from Plato to Nato. Such an enterprise is beyond my competence, though the continuing attempts to push such tomes up a slope of historical credibility indicates that Camus was right, “<italic>il faut imaginer Sisyphe hereux</italic>.” I shall instead hazard something less Sisyphean by returning to the question posed much earlier: what is it that bestows classic status upon a political theory text?</p>
+                     <p>The question arises naturally and starkly from a consideration of the appraisive field of textual analysis shared by political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.17</book-part-id>
+                  <title-group>
+                     <title>APPENDIX</title>
+                     <subtitle>Intention, Text, Audience, and Objectivity</subtitle>
+                  </title-group>
+                  <fpage>286</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.18</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7zvc26.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>304</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

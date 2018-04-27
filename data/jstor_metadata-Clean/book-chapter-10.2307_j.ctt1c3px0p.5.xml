@@ -1,0 +1,767 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1c3px0p</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Derechos humanos</subject>
+         <subj-group>
+            <subject content-type="lcsh">Colombia</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Conflicto armado</subject>
+         <subj-group>
+            <subject content-type="lcsh">Colombia</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Delitos sexuales</subject>
+         <subj-group>
+            <subject content-type="lcsh">Colombia</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Los derechos humanos</book-title>
+         <subtitle>Una mirada transdisciplinar</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Crespo</surname>
+               <given-names>Julia Sandra Bernal</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Mendoza</surname>
+               <given-names>Carlos E. Guzmán</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(Editores)</role>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib3">
+            <name name-style="western">
+               <surname>del Águila Cazorla</surname>
+               <given-names>Olimpia</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib4">
+            <name name-style="western">
+               <surname>Vargas</surname>
+               <given-names>Sorily C. Figuera</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib5">
+            <name name-style="western">
+               <surname>Cera</surname>
+               <given-names>Silvana Insignares</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib6">
+            <name name-style="western">
+               <surname>Gutiérrez</surname>
+               <given-names>Juan Pablo Isaza</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib7">
+            <name name-style="western">
+               <surname>Hassan</surname>
+               <given-names>Viridiana Molinares</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib8">
+            <name name-style="western">
+               <surname>Arcieri</surname>
+               <given-names>Carlos A. Orozco</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib9">
+            <name name-style="western">
+               <surname>Torrado</surname>
+               <given-names>María L. Ramírez</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib10">
+            <name name-style="western">
+               <surname>Revelo</surname>
+               <given-names>Diana Rico</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib11">
+            <name name-style="western">
+               <surname>Erazo</surname>
+               <given-names>Juan Pablo Sarmiento</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib12">
+            <name name-style="western">
+               <surname>Añamuro</surname>
+               <given-names>John A. Tito</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib13">
+            <name name-style="western">
+               <surname>Rosero</surname>
+               <given-names>Luis F. Trejos</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib14">
+            <name name-style="western">
+               <surname>Romero</surname>
+               <given-names>Marjorie Zuñiga</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib15">
+            <name name-style="western">
+               <surname>Sánchez</surname>
+               <given-names>Luz Elena Agudelo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib16">
+            <name name-style="western">
+               <surname>Medina</surname>
+               <given-names>Paola Álvarez</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib17">
+            <name name-style="western">
+               <surname>Molina</surname>
+               <given-names>Judith Echeverría</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib18">
+            <name name-style="western">
+               <surname>Arenilla</surname>
+               <given-names>Shirley Llain</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib19">
+            <name name-style="western">
+               <surname>Linares</surname>
+               <given-names>Pedro Montero</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib20">
+            <name name-style="western">
+               <surname>Chimá</surname>
+               <given-names>Javier Tous</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib21">
+            <name name-style="western">
+               <surname>González</surname>
+               <given-names>Fabián David Buelvas</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>11</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9789587415452</isbn>
+      <isbn content-type="epub">9789587415469</isbn>
+      <publisher>
+         <publisher-name>Editorial Universidad del Norte</publisher-name>
+         <publisher-loc>Barranquilla</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Julia Sandra Bernal Crespo</copyright-holder>
+         <copyright-holder>Carlos E. Guzmán Mendoza</copyright-holder>
+         <copyright-holder>Olimpia del Águila Cazorla</copyright-holder>
+         <copyright-holder>Sorily C. Figuera Vargas</copyright-holder>
+         <copyright-holder>Silvana Insignares Cera</copyright-holder>
+         <copyright-holder>Juan Pablo Isaza Gutiérrez</copyright-holder>
+         <copyright-holder>Viridiana Molinares Hassan</copyright-holder>
+         <copyright-holder>Carlos A. Orozco Arcieri</copyright-holder>
+         <copyright-holder>Carlos A. Orozco Arcieri</copyright-holder>
+         <copyright-holder>Diana Rico Revelo</copyright-holder>
+         <copyright-holder>Juan Pablo Sarmiento Erazo</copyright-holder>
+         <copyright-holder>John A. Tito Añamuro</copyright-holder>
+         <copyright-holder>Luis F. Trejos Rosero</copyright-holder>
+         <copyright-holder>Marjorie Zuñiga Romero</copyright-holder>
+         <copyright-holder>Luz Elena Agudelo Sánchez</copyright-holder>
+         <copyright-holder>Paola Álvarez Medina</copyright-holder>
+         <copyright-holder>Judith Echeverría Molina</copyright-holder>
+         <copyright-holder>Shirley Llain Arenilla</copyright-holder>
+         <copyright-holder>Pedro Montero Linares</copyright-holder>
+         <copyright-holder>Javier Tous Chimá</copyright-holder>
+         <copyright-holder>Fabián David Buelvas González</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1c3px0p"/>
+      <abstract abstract-type="short">
+         <p>Esta obra, producida por un selecto grupo de profesores investigadores vinculados a la División de Derecho, Ciencia Política y Relaciones Internacionales de la Universidad del Norte (Colombia), está dirigida a todas aquellas personas comprometidas con la investigación, la reflexión y la reivindicación de los Derechos Humanos a nivel nacional y mundial. Este esfuerzo intelectual permite ahondar en le tema de los derechos humanos y la naturaleza humana, así como conocer resultados de investigaciones que busquen hacer visible la violación de los derechos humanos en le conflicto armado en Colombia, o que escudriñan problemáticas derivadas del mismo desde la perspectiva del derecho internacional humanitario. De igual forma, se analizan los derechos humanos desde una óptica politológica, internacional y sociológica. Esta publicación de la Universidad del Norte contó con el apoyo de USAID</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.3</book-part-id>
+                  <title-group>
+                     <title>A modo de introducción.</title>
+                     <subtitle>LOS DERECHOS HUMANOS: MÁS QUE UN DISCURSO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <collab>Los editores</collab>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Se ha convenido en subrayar como característica excepcional la estabilidad de la democracia en Colombia. Su régimen político solo ha visto quebrada su institucionalidad democrática en una única ocasión. Sin embargo, tal atributo bien puede ser considerado como una paradoja de la política nacional. En la democracia colombiana coexisten la justicia y la impunidad, la participación y la exclusión, la riqueza y la pobreza, el orden y la violencia (Guzmán, 2002, p. 11). Podríamos afirmar, entonces, que el país ha tenido serias di -ficultades durante los últimos 50 años. Asimismo, que la debilidad institucional ha posibilitado no solo la agudización</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>LA REPARACIÓN DESDE LA PERSPECTIVA DE LÍDERES DE ORGANIZACIONES SOCIALES DE VÍCTIMAS DEL CONFLICTO ARMADO INTERNO COLOMBIANO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Revelo</surname>
+                           <given-names>Diana Rico</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>González</surname>
+                           <given-names>Fabián D. Buelvas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>Escenarios como estos han convertido a integrantes de la sociedad civil no combatiente en víctimas del conflicto en diversas regiones del país durante las últimas décadas. Ante la atrocidad experimen tada, no se puede definir un único patrón de comportamiento de las víctimas; sin embargo, teniendo en cuenta la importancia de su participación en el proceso de justicia transicional que se está im plementando en Colombia a partir de la vigencia de la Ley 1448 de 2011 resulta social y políticamente relevante visibilizar ideas y emociones que actualmente circulan en torno a luchas sociales por el cumplimiento y materialización del</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>VIOLENCIA SEXUAL SOBRE LA POBLACIÓN LGBTI EN EL CARIBE COLOMBIANO:</title>
+                     <subtitle>UNA CUESTIÓN DE PODER, NEGACIÓN DE IDENTIDAD Y DESCONOCIMIENTO DEL DEVENIR DEL CUERPO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hassan</surname>
+                           <given-names>Viridiana Molinares</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Crespo</surname>
+                           <given-names>Julia Sandra Bernal</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arcieri</surname>
+                           <given-names>Carlos Andrés Orozco</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>Presentamos aquí los fundamentos teóricos de la investigación<italic>Narrativas de la violencia sexual en la guerra irregular en el Caribe colombiano: voces de homosexuales, transexuales, transgéneros, intersexuales, bisexuales y lesbianas,</italic>cuyo objetivo es narrar literariamente casos de violencia sexual que sobre la población LGTBI del Caribe colombia no inflingieron los grupos de paramilitares arraigados en esta zona del país. Con este objetivo apelamos a las propuestas epistemoló gicas que desde el feminismo y la filosofía se han desarrollado en torno a la construcción de la identidad y el debate sobre la concep tualización del sexo y del género. En este</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>COMUNIDAD INTERNACIONAL, DDR Y DERECHOS HUMANOS EN EL POSTCONFLICTO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Linares</surname>
+                           <given-names>Pedro Montero</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>La particularidad de los conflictos armados internos que recien temente fueron superados en los últimos años en búsqueda de la normalización social que significa el postconflicto tiene el común denominador de caracterizarse por la intervención directa e indi recta de la Comunidad Internacional, entendiendo por esta tanto a países ajenos al conflicto como a las organizaciones internacionales cuya finalidad es apoyar los procesos de negociación en el mundo.</p>
+                     <p>Aspectos ideológicos, políticos, económicos y estratégicos, así como principios que rigen el Derecho Internacional en materia de dere chos humanos, hacen que esta intervención resulte algo compleja, no solo por las dinámicas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>EL DEVENIR DE LAS NEGOCIACIONES DE PAZ:</title>
+                     <subtitle>ESTÁNDARES INTERNACIONALES DE LA JUSTICIA TRANSICIONAL</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chimá</surname>
+                           <given-names>Javier Tous</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>La historia republicana de Colombia se ha visto marcada por una situación casi constante de violencia. El siglo XIX y los inicios del XX se han encontrado de cara a guerras civiles. Luego de estos perio dos, la subida al poder del Partido Conservador en 1946 provocó el inicio de la violencia bipartita entre conservadores y liberales. En efecto, los enfrentamientos y las persecuciones de los liberales en zonas rurales influyeron en la creación de grupos armados. En 1957, los vientos de reconciliación soplaron gracias a un pacto conveni do entre los partidos políticos. El pacto llamado “Frente Nacional” preveía</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>ACTOS HUMANITARIOS Y PROCESOS DE RESISTENCIA CIVIL FRENTE A LOS ACTORES ARMADOS:</title>
+                     <subtitle>DOS FORMAS DE AMPLIAR EL CAMPO HUMANITARIO EN COLOMBIA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rosero</surname>
+                           <given-names>Luis Fernando Trejos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Este trabajo inicia intentando encontrar una respuesta a la pregunta ¿cómo lograr la ampliación del campo humanitario en medio de un conflicto armado interno como el que vive Colombia? Teniendo en cuenta que en este tipo de conflictos armados la población civil es parte integral de las estrategias político-militares de los actores en frentados, lo que dificulta la aplicación de las normas del Derecho Internacional Humanitario (DIH).</p>
+                     <p>Es importante resaltar que este trabajo busca superar la vieja discu sión teórico-filosófica que se ha establecido en los círculos académi cos respecto a si la guerra en Colombia es justa o injusta,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>DERECHO SIN ESTADO:</title>
+                     <subtitle>ESTUDIO DE CASO DE LOS PUEBLOS PALAFÍTICOS EN LA CIÉNAGA GRANDE DE SANTA MARTA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Erazo</surname>
+                           <given-names>Juan Pablo Sarmiento</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>El sistema jurídico moderno que se ha extendido en la mayoría de países de América Latina parecería partir de dos pilares fundamen tales: la existencia de un derecho singular o propio de cada nación, que se expide en el ejercicio de la soberanía, personificada por el Es tado; el segundo pilar conduce o se alimenta del monismo jurídico,⁷ corriente de pensamiento que considera que en el territorio donde domina jurídica y políticamente el Estado hay un solo derecho, en la medida en que existe un solo Estado, y este tiene el monopolio en la producción del derecho.</p>
+                     <p>Por oposición, el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>LOS DERECHOS HUMANOS Y EL INTERÉS SUPERIOR DE LOS NIÑOS INDÍGENAS EN EL MARCO DE ALGUNAS SENTENCIAS DE LA CORTE CONSTITUCIONAL DE COLOMBIA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vargas</surname>
+                           <given-names>Sorily Carolina Figuera</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Desde la promulgación de la Constitución Política de 1991 en el sistema jurídico colombiano se reconoce la potestad que tienen las autoridades legítimas de los pueblos indígenas a conocer y decidir sobre los asuntos y controversias que involucran a sus integrantes dentro de sus territorios con aplicación de sus normas y procedi mientos, es decir, su derecho propio. Esto respondiendo a las dispo siciones contenidas en los tratados internacionales ratificados por este país y obteniendo un amplio desarrollo por la jurisprudencia de la Corte Constitucional de Colombia. Ahora bien, este reconocimiento a la diversidad cultural ha traído consigo variadas polémicas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>EL MODUS VIVENDI COMO UNA NUEVA INTERPRETACIÓN DE LA TOLERANCIA LIBERAL, UNA VISIÓN DESDE LA OBRA DE JOHN GRAY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gutiérrez</surname>
+                           <given-names>Juan Pablo Isaza</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Antes de iniciar en el estudio de este tema considero pertinente cla rificar los conceptos de tolerancia liberal<italic>y modus vivendi</italic>,<italic>así</italic>como sus diferencias, por lo que utilizaré el trabajo de John Gray (2001) para este propósito.</p>
+                     <p>La Tolerancia liberal es el ideal sobre el mejor modo de vida posible. El liberalismo, por el contrario, quiere abandonar la búsqueda de un solo modo de vida. La mejor vida puede ser inalcanzable, por lo que podemos decir que el liberalismo ha tenido dos caras: la primera, en laque la tolerancia es la persecución de una forma de vida ideal, y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>CRÍTICA A LA APLICACIÓN E IDEALIZACIÓN DE LOS DERECHOS HUMANOS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Añamuro</surname>
+                           <given-names>John Alberto Tito</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>La idea de los derechos humanos tiene más carga moral y política que jurídica. Una buena prueba de ello es el problema de eficacia de la jurisdicción internacional frente a los Estados nacionales y, otra, el principio de legalidad penal en supuestos en que el derecho interno no regule previamente el delito imputado o regulándolo no se ajuste a la prohibición internacional. En ambos extremos tendremos, ló gicamente, un problema de eficacia de los derechos humanos.</p>
+                     <p>En el terreno de la práctica, de otro lado, se evidencia un doble rasero en materia de cumplimiento: por una parte, los gestores de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>LA ESPERANZA EN LOS DERECHOS HUMANOS:</title>
+                     <subtitle>LA INFLUENCIA DE LA IDEA DE RECONCILIACIÓN (VERSÖHNUNG) MESIÁNICA DE ERNST BLOCH EN LA OBRA DE ALESSANDRO BARATTA</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arcieri</surname>
+                           <given-names>Carlos Andrés Orozco</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>298</fpage>
+                  <abstract>
+                     <p>En su descripción del movimiento dialéctico de la realidad, el filóso fo y sociólogo del derecho Alessandro Baratta (1933-2002) se propu so desde inicios de los años 80 la elaboración de una categoría analí tica denominada “referente material”, la cual le permitiría definir la objetividad en el análisis de la sociedad y de los problemas sociales en los que aparecen relaciones de desigualdad, de explotación y de dominio (Baratta, 1981). En un principio, la necesidad de mante ner abierta la posibilidad de la elaboración de tal categoría analítica apareció formulada en el contexto de una crítica materialista a los posibles</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>DE LA NO REGRESIVIDAD DE LOS DESC A LA NO REGRESIVIDAD AMBIENTAL:</title>
+                     <subtitle>APROXIMACIÓN DESDE EL ORDENAMIENTO JURÍDICO COLOMBIANO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sánchez</surname>
+                           <given-names>Luz Elena Agudelo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>353</fpage>
+                  <abstract>
+                     <p>En este capítulo se hace una aproximación al principio de no regre sividad de los derechos económicos, sociales y culturales (DESC) a partir de instrumentos internacionales de protección de derechos humanos, la doctrina y la jurisprudencia de la Corte Constitucional colombiana, y su reciente aplicación en la protección de los dere chos ambientales, en especial respecto del ordenamiento jurídico colombiano, de tal forma que contribuya a la divulgación y debate de esta nueva herramienta, cuya relevancia se articula con las carac terísticas de prevención, transversalidad y solidaridad intergenera cional propias del derecho ambiental.</p>
+                     <p>El principio de no regresión ambiental implica</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>EL DERECHO A NO SER SANCIONADO DOS VECES EN EL DERECHO DISCIPLINARIO ABOGADIL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Medina</surname>
+                           <given-names>Paola Álvarez</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Torrado</surname>
+                           <given-names>María Lourdes Ramírez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>387</fpage>
+                  <abstract>
+                     <p>Históricamente se ha reconocido al Estado la facultad de imponer sanciones a quien infringe sus normas. Así, lo que en principio se denominó “derecho a castigar”, posteriormente adoptó la forma de potestad sancionadora reglada, que bajo la denominación de<italic>ius puniendi</italic>comprende, a día de hoy, cinco especies: derecho penal, derecho contravencional, derecho correccional, derecho de punición por indignidad política y derecho disciplinario.</p>
+                     <p>Dentro de ese panorama se ha dicho que si bien el poder es único e indivisible, las circunstancias exigen que la administración de justicia no sea una función exclusiva de la rama judicial, de manera que se</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>LOS ACUEDUCTOS RURALES FRENTE A LA POLÍTICA DE COPARTICIPACIÓN PÚBLICO-PRIVADA DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS EN COLOMBIA:</title>
+                     <subtitle>REZAGOS EN MATERIA DE DERECHOS FUNDAMENTALES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Molina</surname>
+                           <given-names>Judith Sofia Echeverría</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>413</fpage>
+                  <abstract>
+                     <p>En este capítulo se analizan los retos que afrontan las comunidades rurales para la prestación de manera autónoma de los servicios de acueducto y saneamiento básico conforme al marco legal vigente en relación con los servicios públicos domiciliarios.</p>
+                     <p>Nos centraremos en las áreas rurales y en las empresas comunitarias que administran y operan los acueductos veredales del país, que a partir de 1994 han afrontado desafíos superiores a los que como empresa y comunidad pueden asumir, como parte de las exigencias y lineamientos de la política estatal de coparticipación público -privada para la gestión general de los servicios públicos domiciliaros</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>SEGURIDAD CIUDADANA Y DERECHOS HUMANOS:</title>
+                     <subtitle>¿ PARADIGMA DE LA ACCIÓN PÚBLICA DE LOS GOBIERNOS LOCALES?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mendoza</surname>
+                           <given-names>Carlos Enrique Guzmán</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>441</fpage>
+                  <abstract>
+                     <p>Con la preocupación del ciudadano común y corriente, lleno de subjetividades y miedos, algunos infundados y otros no tanto, pero al mismo tiempo con la mirada atenta en los hechos sociales y políticos propia del investigador, este trabajo se ocupará de un asunto que además de generar tensiones e interrogantes en el conjunto de los ciudadanos y en las autoridades responsables, resulta complejo en su tratamiento por la multiplicidad de factores que podrían estar asociados en su explicación: la<italic>seguridad ciudadana</italic>, asociada con la convivencia y el reconocimiento de los derechos, humanos principalmente, de todos los asociados.³</p>
+                     <p>Así, entre las</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.18</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>EL SISTEMA DE SOLUCIÓN DE CONTROVERSIAS EN EL TRATADO DE LIBRE COMERCIO ENTRE COLOMBIA Y ESTADOS UNIDOS:</title>
+                     <subtitle>UNA MIRADA A LA LUZ DE LOS DERECHOS HUMANOS</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cera</surname>
+                           <given-names>Silvana Insignares</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>468</fpage>
+                  <abstract>
+                     <p>En atención a la política de internacionalización de la economía en la cual Colombia se encuentra inmersa, debemos realizar un análisis detallado de los requerimientos que implica para un Estado como el colombiano competir en los mercados internacionales a la luz del procesos de liberalización económica iniciado desde la expedición de la Constitución Política colombiana de 1991 e incrementado a partir de la suscripción de distintos tratados de libre comercio (TLC), específicamente el celebrado entre Colombia y Estados Unidos. En este sentido y a partir de los distintos debates académicos en los cuales se ha pretendido analizar la relación existente</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.19</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>LA POLÍTICA MIGRATORIA COLOMBIANA EN MATERIA DE DERECHO DE ASILO Y REFUGIO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arenilla</surname>
+                           <given-names>Shirley Llain</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>505</fpage>
+                  <abstract>
+                     <p>Tradicionalmente Colombia ha sido un país que ha concentrado una gran cantidad de población desplazada internamente³ como consecuencia del conflicto armado que lo ha azotado por décadas. Por tal motivo, se ha convertido en un país de origen de refugiados y solicitantes de asilo, teniendo estos como principales destinos a Ecuador, Venezuela, Estados Unidos, Panamá, Costa Rica y Canadá. Según las estadísticas del Alto Comisionado de las Naciones Unidas para los Refugiados [ACNUR ], para 2012 existía un total de 394 122 refugiados colombianos, de los cuales 202 387 se encuentran en Ve nezuela, 122 587 en Ecuador, 22 004</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.20</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>EL DERECHO DE ASOCIACIÓN SINDICAL EN LA EUROPA ACTUAL EN MEDIO DE UNA CRISIS ECONÓMICA:</title>
+                     <subtitle>ANÁLISIS DESDE EL DERECHO DEL TRABAJO</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>del Águila Cazorla</surname>
+                           <given-names>Olimpia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Romero</surname>
+                           <given-names>Marjorie Zúñiga</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>538</fpage>
+                  <abstract>
+                     <p>La crisis económica que se viene sufriendo desde 2008 ha acarrea do consecuencias devastadoras en países como España, donde se ha cebado brutalmente sobre la población trabajadora con una des trucción de empleo que roza los tres millones y medio de trabaja dores en los últimos cinco años. Ahora bien, como consideración previa habría que señalar que aunque en el origen de esta crisis se encuentre en la economía financiera, no es menos cierto que supera con mucho el ámbito económico para alcanzar muchas otras esfe ras. Esta crisis se desarrolla en múltiples planos, interconectados einterdependientes, y con importantes repercusiones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.21</book-part-id>
+                  <title-group>
+                     <title>Editores/autores</title>
+                  </title-group>
+                  <fpage>559</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1c3px0p.22</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>566</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,514 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1dnn8d8</collection-id>
+      <volume>58</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1dnn90j</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL2262.W74 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Chinese literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mass media and culture</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Linguistics</subject>
+         <subject>Language &amp; Literature</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Writing and Materiality in China</book-title>
+         <subtitle>Essays in Honor of Patrick Hanan</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Zeitlin</surname>
+               <given-names>Judith T.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Liu</surname>
+               <given-names>Lydia H.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib3">
+            <role>with</role>
+            <name name-style="western">
+               <surname>Widmer</surname>
+               <given-names>Ellen</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>05</month>
+         <year>2003</year>
+      </pub-date>
+      <isbn content-type="ppub">9780674010987</isbn>
+      <isbn content-type="epub">9781684170425</isbn>
+      <isbn content-type="epub">1684170427</isbn>
+      <publisher>
+         <publisher-name>Harvard University Asia Center</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2003</copyright-year>
+         <copyright-holder>the President and Fellows of Harvard College</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1dnn90j"/>
+      <abstract abstract-type="short">
+         <p>Speaking about Chinese writing entails thinking about how writing speaks through various media. In the guises of the written character and its imprints, traces, or ruins, writing is more than textuality. The goal of this volume is to consider the relationship of writing to materiality in China’s literary history and to ponder the physical aspects of the production and circulation of writing. To speak of the thing-ness of writing is to understand it as a thing in constant motion, transported from one place or time to another, one genre or medium to another, one person or public to another. Thinking about writing as the material product of a culture shifts the emphasis from the author as the creator and ultimate arbiter of a text’s meaning to the editors, publishers, collectors, and readers through whose hands a text is reshaped, disseminated, and given new meanings. By yoking writing and materiality, the contributors to this volume aim to bypass the tendency to oppose form and content, words and things, documents and artifacts, to rethink key issues in the interpretation of Chinese literary and visual culture.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>ii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.3</book-part-id>
+                  <title-group>
+                     <title>Illustrations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.4</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Widmer</surname>
+                           <given-names>Ellen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.5</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Liu</surname>
+                           <given-names>Lydia H.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zeitlin</surname>
+                           <given-names>Judith T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Speaking about writing, especially Chinese writing, entails thinking about the ways in which writing speaks to us through a variety of media and forms. Whether it be a consideration of the written character or its imprints, traces, or ruins, writing always appears in its multifarious guises to be much more than an embodiment of textuality. To reflect on this and related features of writing is the goal of this volume, as we consider a fundamental problem: What is the relationship of writing to materiality over the course of China’s literary history? In some manner or other, all the chapters in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.7</book-part-id>
+                  <title-group>
+                     <title>On Rubbings:</title>
+                     <subtitle>Their Materiality and Historicity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hung</surname>
+                           <given-names>Wu</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>What is a rubbing? Like a block print, a rubbing is made by directly transferring a sign—be it a text or a picture—from a sign-bearing object to a piece of paper. Unlike a block print, however, what is imprinted in a rubbing is not a mirror image. When a print is made, ink is applied to a block, and the paper is then placed face down on it. The reversed writing or image carved on the block is thus reversed again and appears as a black imprint on a white background. When a rubbing is made, however, the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.8</book-part-id>
+                  <title-group>
+                     <title>Disappearing Verses:</title>
+                     <subtitle>Writing on Walls and Anxieties of Loss</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zeitlin</surname>
+                           <given-names>Judith T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>This chapter is about a category of traditional Chinese poetry called<italic>tibishi</italic>—poems written on walls. Although it is tempting to translate<italic>tibishi</italic>as “graffiti poetry,” in fact, the two are essentially different. Graffiti are generally understood to be a form of defacement, to compromise the integrity and value of the public surfaces on which they appear. For this reason, Susan Stewart has argued in an essay on graffiti as crime and art, “It is interesting to see how graffiti becomes dirt once we consider, in the mode of much recent cognitive anthropology, that dirt is something in the wrong</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.9</book-part-id>
+                  <title-group>
+                     <title>The Literary Consumption of Actors in Seventeenth-Century China</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Volpp</surname>
+                           <given-names>Sophie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Among the luxury goods traded by the elite during the late Ming and early Qing were actors.¹ Not only individual actors but entire troupes were bestowed on friends, bequeathed to relatives, or sold. Their circulation served to create and maintain networks of social exchange, in much the same manner as did gifts of fine ceramic wares, calligraphic scrolls, and ancient bronzes. The cultural prestige of the actor as a luxury good was, in turn, predicated on a highly refined discourse of connoisseurship, typified by the theater aficionado Pan Zhiheng’s 潘之旦(1556–1622) disquisitions on the art of acting, which were collected</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.10</book-part-id>
+                  <title-group>
+                     <title>‘Jin Ping Mei’ and Late Ming Print Culture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wei</surname>
+                           <given-names>Shang</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Jin Ping Mei cihua</italic>金瓶梅詞話 (hereafter,<italic>Jin Ping Mei</italic>), a late Ming novel about the rise and fall of the merchant Ximen, marks several important changes in the history of the Chinese novel.¹ First, it forged a new kind of narrative focused on a comprehensive range of quotidian experience, which had until then barely been treated on its own terms in the vernacular novel. Second, despite the novefs overall structural unity, the narrative often seems to take on the features of the experience it recounts, becoming just as detailed, kaleidoscopic, and fragmentary. Third, this narrative fragmentation is compounded by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.11</book-part-id>
+                  <title-group>
+                     <title>Duplicating the Strength of Feeling:</title>
+                     <subtitle>The Circulation of Qingshu in the Late Ming</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lowry</surname>
+                           <given-names>Kathryn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>This chapter examines the emergence of the love letter (<italic>qingshu</italic>青書) as a distinct literary genre in miscellanies, encyclopedias for daily use (<italic>riyong leishu</italic>日用類書), and epistolary guides published in China during the late Ming, that is, in the late sixteenth and early seventeenth centuries. These publications were purportedly anthologies of selected examples of “genuine” qingshu from correspondence, model letters, random jottings (<italic>biji</italic>筆言己), and erotic fiction, presented as models or illustrations of how to express one’s innermost feelings.<italic>Qingshu</italic>differ from the modern notion of a love letter in that they were written not only between lovers (actual or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.12</book-part-id>
+                  <title-group>
+                     <title>Considering a Coincidence:</title>
+                     <subtitle>The ‘Female Reading Public’ Circa 1828</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Widmer</surname>
+                           <given-names>Ellen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>273</fpage>
+                  <abstract>
+                     <p>The year 1828 saw the publication of two works of fiction that at first glance appear to inhabit different worlds. The first is<italic>Zai zaotian</italic>, 再造天,<italic>a tanci</italic>彈詞 (or prosimetric fictional narrative) by Hou Zhi 侯芝 (1764–1829), a woman editor, author, and poet. In contrast to some of her other output,<italic>Zai zaotian</italic>has not enjoyed much scholarly or readerly acclaim. This is in part because of its didacticism. The plot, which concerns a struggle over control of the throne during the Yuan dynasty, centers almost exclusively on the lessons to be learned from the good and bad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.13</book-part-id>
+                  <title-group>
+                     <title>The New Novel Before the New Novel:</title>
+                     <subtitle>John Fryer’s Fiction Contest</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="other" id="contrib1" xlink:type="simple">
+                        <string-name>Anonymous</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>317</fpage>
+                  <abstract>
+                     <p>The story of the modern Chinese novel, as it is usually told by literary historians, begins with Liang Qichao 梁啟超 (1873–1929), more specifically with his founding of the journal<italic>Xin xiaoshuo</italic>新小說 (New fiction) in Yokohama in 1902. In his advertisement for that journal, Liang set forth the categories of subject matter that he commended, ranging from the historical and the political to the detective, romantic, and supernatural. Liang’s own<italic>Xin Zhongguo weilai ji</italic>而新中國未來目己 (The future of new China), published in installments in<italic>New Fiction</italic>in 1902 and 1903, is generally considered the first of the “new novels.”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.14</book-part-id>
+                  <title-group>
+                     <title>The Weird in the Newspaper</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Huntington</surname>
+                           <given-names>Rsania</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>341</fpage>
+                  <abstract>
+                     <p>Alongside coverage of national and international politics, crime, and social events, late Qing periodicals recount stories of hauntings, monstrous births, and karmic retribution. Such stories suggest that the newspapers and pictorials were, among other things, a continuation of the<italic>zhiguai</italic>志,陸 (tales of the strange) genre. By studying the content, collection, and display of the strange in late Qing new media, this chapter examines the relationship between strangeness and the media in which it is produced and consumed. I contend that strangeness was central, not marginal, to late Qing periodical literature.</p>
+                     <p>Strangeness is both a venerable part of the Chinese</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.15</book-part-id>
+                  <title-group>
+                     <title>Creating the Urban Beauty:</title>
+                     <subtitle>The Shanghai Courtesan in Late Qing Illustrations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yeh</surname>
+                           <given-names>Catherine Vance</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>397</fpage>
+                  <abstract>
+                     <p>During the late nineteenth century, a visual revolution began in the Chinese print industry. Spearheaded by Shanghai and its publishing houses and aided in part by new, foreign printing technologies such as copper engraving, lithography, and photography, new forms of visual publication started to have an impact on the marketplace.¹ As Western material culture in the form of imported goods made inroads into the daily life of Shanghai residents, new types of illustrated publications—magazines, urban and entertainment guides, and later newspapers—increasingly catered to this urban readership rather than to the traditional literati elite. At the center of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.16</book-part-id>
+                  <title-group>
+                     <title>Texts on the Right and Pictures on the Left:</title>
+                     <subtitle>Reading the Qing Record of Frontier Taiwan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Teng</surname>
+                           <given-names>Emma J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>451</fpage>
+                  <abstract>
+                     <p>In the preface to a collection of maps of the Taiwan frontier, the nineteenthcentury literatus Xia Xianlun 夏獻論 set forth a claim for the importance oflooking in addition to reading. He argued that comprehensive geographic knowledge cannot be gained without the aid of maps and implied that visual images allow for a way of comprehending space and place different from that afforded by words alone. Visual knowledge is a vital supplement to textual knowledge. The image of the literatus seated with texts on his right and tu (maps, pictures) on his left offers a vivid model of an idealized mode</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.17</book-part-id>
+                  <title-group>
+                     <title>Tope and Topos:</title>
+                     <subtitle>The Leifeng Pagoda and the Discourse of the Demonic</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wang</surname>
+                           <given-names>Eugene Y.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>488</fpage>
+                  <abstract>
+                     <p>A site is often a<italic>topos</italic>in that it both marks a locus and serves as a topic. It is a common place that can be traversed or inhabited by a public and a rhetorical commonplace familiar to both its author and his audience.¹ Although there is no exact equivalent in Chinese to the Greek word<italic>topos</italic>that conveniently collapses the dual senses oflocus and topic, the notion of<italic>ji</italic>績 (site, trace, vestige) comes close. A<italic>ji</italic>is a site that emphasizes “vestiges” and “traces.” It is a peculiar spatial-temporal construct. Spatially, a landmark, such as a tower, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.18</book-part-id>
+                  <title-group>
+                     <title>A Folksong Immortal and Official Popular Culture in Twentieth-Century China</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Liu</surname>
+                           <given-names>Lydia H.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>553</fpage>
+                  <abstract>
+                     <p>Five years after the new copyright laws and regulations protecting intellectual property rights went into effect in China in January 1991, a retroactive lawsuit over the violation of the copyrights in the film<italic>Liu Sanjie</italic>劉二姐 was filed.¹ Released in 1961, this Him had been adapted from a well-known musical drama written by a team of local writers from the Guangxi Zhuang Autonomous Region, which is dominated by the Zhuang 僮 nationality. In preparing the script, the writers had done extensive fieldwork among this minority group collecting folksongs, and on the basis of those materials, a local opera troupe produced</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>613</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1dnn90j.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>641</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

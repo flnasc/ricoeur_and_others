@@ -1,0 +1,738 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt14bt7sz</book-id>
+      <subj-group>
+         <subject content-type="call-number">B105.C45S78 1992</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Children and philosophy</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy</subject>
+         <subj-group>
+            <subject content-type="lcsh">Study and teaching (Elementary)</subject>
+            <subj-group>
+               <subject content-type="lcsh">United States</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Lipman, Matthew. Harry Stottlemeier’s discovery</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Studies in Philosophy for Children</book-title>
+         <subtitle>Harry Stottlemeier's Discovery</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>SHARP</surname>
+               <given-names>ANN MARGARET</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>REED</surname>
+               <given-names>RONALD F.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="other" id="contrib3">
+            <role>With Sources and References by</role>
+            <name name-style="western">
+               <surname>Lipman</surname>
+               <given-names>Matthew</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>12</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780877228721</isbn>
+      <isbn content-type="epub">9781439901748</isbn>
+      <publisher>
+         <publisher-name>Temple University Press</publisher-name>
+         <publisher-loc>PHILADELPHIA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1992</copyright-year>
+         <copyright-holder>Temple University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt14bt7sz"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Harry Stottlemeier's Discovery</italic>, created by Matthew Lipman in 1969, is now a widely used and highly successful tool for teaching philosophy to children. As the original novel of the Philosophy for Children program, its goal is to present major ideas in the history of philosophy, nurturing children's ability to think for themselves. At present, it is taught in 5,000 schools in the United States and has been translated into eighteen languages worldwide. This collection of essays reflects upon the development, refinement, and maturation of Philosophy for Children and on its relationship to the tradition of philosophy itself.</p>
+         <p>The contributors are philosophers themselves who have taught from Lipman's novels or conducted workshops instructing elementary school teachers on how most effectively to utilize the program in their classrooms. Teaching<italic>Harry</italic>raises philosophical issues concerning such concepts as authority, morality, religion, justice, truth, knowledge, beauty, and goodness. Gracing each article with personal experience, the authors recount their own struggles against the claims of philosophers and psychologists who have previously underestimated children's moral capability because of their lack of political and social experience.</p>
+      </abstract>
+      <counts>
+         <page-count count="286"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+                  <abstract>
+                     <p>PHILOSOPHY FOR CHILDREN is an attempt to reconstruct and present the history of philosophy in such a way that children can appropriate it for themselves so as to reason well in a self-correcting manner. For children to develop the ability to think well for themselves about matters of importance, what is required is an educational enterprise consisting of philosophical dialogue within the context of a classroom community of inquiry. Such a community concerns itself with the development of good critical and creative thinking and the cultivation of good judgment. But it is much more than this: Philosophy for Children is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>On Writing a Philosophical Novel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lipman</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>IN 1969, having taught introductory logic to college students for some years, I was beginning to have serious concerns about its value. I had entertained similar doubts while I was a graduate student, for I hadn’t found the subject a congenial one. But when one has taught a course for several years, one comes to think of it as useful and meaningful, whatever one’s earlier reservations. Yet, I found myself wondering what possible benefit my students were obtaining from studying the rules for determining the validity of syllogisms or from learning how to construct contrapositives. Did they actually reason any</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>How Old Is Harry Stottlemeier?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lipman</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>8</fpage>
+                  <abstract>
+                     <p>ASCERTAINING the age of fictional characters can be treacherous. Take Pixie, after whom one of the Philosophy for Children novels is named. Pixie remarks, at the very beginning of the book, “How old am I? The same age you are.” If she is addressing us, and we are of all ages, then so is she. But can we be sure that she is speaking to us?</p>
+                     <p>Likewise with Harry Stottlemeier. In 1992, it has been twenty-three years since<italic>Harry Stottlemeier’s Discovery</italic>was written. Does that make Harry twenty-three? Or, since one might guess his age in the book to be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Integrating Cognitive Skills and Conceptual Contents in Teaching the Philosophy for Children Curriculum</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lipman</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>10</fpage>
+                  <abstract>
+                     <p>THE PROJECT of connecting philosophical concepts in the Philosophy for Children curriculum with the concepts in academic philosophy from which they were derived (or that they resemble) can be of considerable value for teachers and scholars wishing to ascertain the grounds of the curriculum in the philosophical tradition. We should not, however, restrict such an inquiry to philosophical concepts and the history of philosophy. A parallel enterprise might seek to show how the skills of logic have been employed at key points in any history (whether of philosophy, of science, of technology, or of the humanities) so as to provide</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Moral Education:</title>
+                     <subtitle>From Aristotle to Harry Stottlemeier</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pritchard</surname>
+                           <given-names>Michael S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>PHILOSOPHY, says Aristotle, begins in wonder. So does childhood.<italic>Harry Stottlemeier’s Discovery</italic>and the other Institute for the Advancement of Philosophy for Children (IAPC) materials join philosophical wonder with childhood. Ironically, I doubt that Aristotle would be pleased, at least not in regard to IAPC’s approach to moral education. Shakespeare’s<italic>Troilus and Cressida</italic>reminds us that Aristotle insists that moral philosophy is not for the young. It mentions</p>
+                     <p>Aristotle’s doubts focus on two apparent limitations of the young—inexperience and lack of rational principles.</p>
+                     <p>If Aristotle is right, then we should not expect to find much that is philosophical in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Discussion and the Varieties of Authority</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reed</surname>
+                           <given-names>Ronald F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>CHAPTER NINE OF<italic>Harry Stottlemeier’s Discovery</italic>is interesting for several reasons. First, by the ninth chapter the children have had a good deal of time to talk and to reflect on the nature of their talk. They are beginning to realize that the discussion patterns that they fall into when they talk about the subjects that occupy their attention in Chapters One through Eight may be qualitatively distinct from other sorts of discussion patterns.¹ That realization, of course, is inchoate, but, as evidence to support the claim that such a realization is beginning, one need only point to the last</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Women, Children, and the Evolution of Philosophy for Children</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sharp</surname>
+                           <given-names>Ann Margaret</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>THERE IS SOMETHING wonderful, yet shocking, about waking up one morning and finding yourself in the midst of feminism in philosophy and Philosophy for Children. It seems like such a short time ago that both concepts were not only unheard of in professional philosophical circles but not even considered as possibilities in education. I remember myself in my freshman year at a Catholic girls’ high school. It was spring, and the nuns had told us that we would have a five-day retreat. Speakers (priests) would come to lecture us in the mornings, while the afternoons would be reserved for reflection</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.11</book-part-id>
+                  <title-group>
+                     <title>[PART THREE: Introduction]</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>
+                        <italic>The first chapter in this part is Ann Margaret Sharp’s “Discovering Yourself a Person.” Here she examines Chapter One of Harry Stottlemeier’s Discovery. In it, Sharp finds that because the first chapter relies heavily on the analysis of concepts like reasoning, reflecting, falsifying, inquiring, and so on, it is an appropriate place for the discovery (or invention, it might be added) of who and what we are. As one watches the characters in Harry begin the process of inquiry and as one watches them stumble toward the formation ofa community, one finds them formulating individual ways or styles of thinking.</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Discovering Yourself a Person</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sharp</surname>
+                           <given-names>Ann Margaret</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>56</fpage>
+                  <abstract>
+                     <p>BY NOW, I would guess that thousands of teachers and tens of thousands of children have read and discussed the first chapter of<italic>Harry Stottlemeier’s Discovery</italic>, where Harry discovers the Aristotelian rule of conversion. In all probability, the children have talked about truth, conversion, discovery, invention, resentment, daydreaming and perhaps the role of Lisa in the discovery of the conversion rule. More important, with this chapter the students begin to form a classroom community of inquiry.</p>
+                     <p>However, I wonder how many teachers have analyzed with their students the concepts that underlie the chapter and which, at one time or another,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Knowledge and the Classroom</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benjamin</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Echeverria</surname>
+                           <given-names>Eugenio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>64</fpage>
+                  <abstract>
+                     <p>OUR CONCEPTION of knowledge strongly influences our approach to the classroom. What we teach and how we teach, what we expect of our students and how we evaluate them, all presuppose a certain understanding of the nature, origin, and limits of human knowledge.</p>
+                     <p>In what follows we briefly describe the conventional approach to the classroom and the conception of knowledge underlying it. We then criticize this conception and set out to defend an alternative that has far-reaching implications for elementary and secondary education, and for higher education as well. Classroom teaching and learning, we suggest, should be modified so as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Thinking for Oneself</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Guin</surname>
+                           <given-names>Philip C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>IN THIS CHAPTER, I will attempt to unravel some of the complexity of understanding “thinking for oneself.” Though the expression figures throughout<italic>Harry Stottlemeier’s Discovery</italic>, little elucidation is to be found there, presumably in order that children will have the opportunity to discuss its significance without prejudice. The claim is made that thinking for oneself is the product of community effort rather than an individualized achievement. Therefore, attributing thinking for oneself to an individual entails acknowledging the community of inquiry to which she or he belongs. I discuss the following topics: a sample of how children often view thinking for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Critical Thinking:</title>
+                     <subtitle>Problem Solving or Problem Creating?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pritchard</surname>
+                           <given-names>Michael S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>FOR SOME TIME NOW I have been puzzling over what we really have in mind when we say that the schools should be doing a better job of helping students develop their critical-thinking abilities. Although most educators agree that something should be done, there is no consensus on how to go about it. I suspect that this is partly because there is no consensus on what critical thinking is. I offer no definition. But I do have some reflections that, I hope, will contribute to our understanding of critical thinking.</p>
+                     <p>I will begin with a thought experiment. Imagine Harry Stottlemeier</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Development of Reasoning in Children through Community of Inquiry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Thomas</surname>
+                           <given-names>John C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>96</fpage>
+                  <abstract>
+                     <p>JEAN PIAGET must be counted among the most influential scientists of our time. Were it not for his work, the field of developmental psychology and our understanding of the child would be far different. His theories and his experimental results have inspired a generation of admirers who have attempted to advance the field of study he pioneered. Even those who arrive at a different conception of the child often are able to do so only because of Piaget’s contribution to that understanding. Yet his conclusions are not without problems, nor have they gone unchallenged. The Philosophy for Children program is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>A Guided Tour of the Logic in Harry Stottlemeier’s Discovery</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Splitter</surname>
+                           <given-names>Laurance J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>LOGIC FORMS the backbone of the<italic>Harry</italic>syllabus, although it is by no means the only philosophical theme that arises there. However, the logical discoveries—exemplified by the persistence and single-mindedness of the central character, Harry—constitute a recurring theme that weaves its way through the overall story, and thereby into the thought and talk of the classroom community of inquiry. For it is logic that holds our thinking together—the rules and principles of logic provide criteria for distinguishing better thinking from worse. It is logic in language that makes reasoning possible.</p>
+                     <p>The contextual approach to the teaching of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Standardization</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lindop</surname>
+                           <given-names>Clive</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>A THEME is standardization of sentences originating from Harry’s idea that, just as there are many different ways of making the number ten, there are all sorts of other sentences that could be changed into sentences beginning either with the word “all” or the word “no.”¹</p>
+                     <p>Mr. Spence agrees to let the class work on this idea and they come up with a list of six expressions that mean the same thing as “all,” namely: “each,” “every,” “any,” “a,” “if-then,” and no modifier at all. The equivalence of “all” with these expressions is taken for granted, and the examples they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Relationships</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lindop</surname>
+                           <given-names>Clive</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>WHEN JILL PORTOS tries to tell Lisa and Harry about her father’s theory of mind in Chapter Seven, all she can remember is the distinction between differences of degree and differences of kind. Harry is excited by this idea; he links it with his rule, discovered earlier, about turning sentences around. He now realizes that his rule exemplifies certain kinds of relationships between things. Since they occur again and again throughout the story in different guises, it is important for us to understand the nature of these relationships. Furthermore, comprehending these relations will help us to explain why his rule</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Countering Prejudice with Counterexamples</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Guin</surname>
+                           <given-names>Philip C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>IN THIS CHAPTER I intend to accomplish three major objectives. I will show that sensitivity to the rule of contradiction can be useful in the lives of children, especially in combating prejudice and discrimination. Sensitivity to the rule encourages children to seek counterexamples to universal judgments. Second, I will argue that sociological models that attempt to delineate the roots of prejudice can be complemented by an understanding of the rule of contradiction. Here I am concerned with the phenomenon, cited by such models, of assimilating relative differences among groups, which in fact may be true, to overgeneralizations that allege natural</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>On The Art and Craft of Dialogue</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reed</surname>
+                           <given-names>Ronald F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>THE TASK of this chapter is a fairly complex one. In the course of a few pages, I will attempt to explain this “thing” called “Philosophy for Children,” paying special attention to assumptions, goals, strategies, and evidence regarding its success or failure. I will then try to relate discoveries made in the practice of Philosophy for Children to problems that may arise for art educators as they develop curricula designed to involve students in aesthetic inquiry.</p>
+                     <p>Philosophy for Children, by most measures, is said to have begun around 1969 when Matthew Lipman, a professor of philosophy at Columbia University, became</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Inventing a Classroom Conversation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reed</surname>
+                           <given-names>Ronald F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>158</fpage>
+                  <abstract>
+                     <p>MY TITLE points to four pivotal questions, or families of questions, that determine, in part, the scope of this chapter and that, I suggest, could and should form a basis for educational reform. Taking the questions as they spring from the four words of the title—</p>
+                     <p>Why invent, and not, say, discover, a classroom conversation? Are the patterns of classroom conversation social constructs, or are they “packed” historically, if not theoretically, into the nature of effective classroom conversation? For example, when we tell the new teacher to imitate the example of Socrates, do we assume that such imitation is based</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>A Letter to a Novice Teacher:</title>
+                     <subtitle>Teaching Harry Stottlemeier’s Discovery</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sharp</surname>
+                           <given-names>Ann Margaret</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>My dear friend,</p>
+                     <p>It was good to hear that you have completed your training in<italic>Harry Slottlemeier’s Discovery</italic>and will begin teaching it next semester. I only hope that you have experienced what it is to participate in a community of inquiry and wil] be able to create such a community in your classroom very soon.</p>
+                     <p>Yes, you are right. I have taught<italic>Harry</italic>for many years to elementary students, college students, and teachers. There have been times, to be honest, when I have thought that if I heard the first chapter of<italic>Harry</italic>read one more time I would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>A Critical Look at Harry Stottlemeier’s Discovery</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Oscanyan</surname>
+                           <given-names>Frederick S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>SINCE ITS RECENT introduction as an elementary-school philosophy text, Professor Matthew Lipman’s<italic>Harry Stottlemeier's Discovery</italic>has enjoyed a string of successes.¹ First employed in an experimental class in Montclair, New Jersey, in 1970, it is now being used in Newark, New Haven, Omaha, San Antonio, Milwaukee, Pasadena, and Cleveland, and it is moving overseas in Danish, French, and Spanish translations. Its use is associated with astounding increases in reading scores, as well as strong improvements in logic and verbal abilities.² It has helped spawn the Institute for the Advancement of Philosophy for Children³ and has encouraged the founding of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>A Second Look at Harry</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Oscanyan</surname>
+                           <given-names>Frederick S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>
+                        <italic>HARRY</italic>HAS HARDLY changed since 1975. There have been some minor stylistic improvements, and a few passages have been rewritten, most notably the neat application of Harry’s discovery toward the end of Chapter One and the discussion with Mr. Portos about differences between animals and human beings in Chapter Seven. But on the whole the book is the same now as earlier. Its educational context, however, is almost unrecognizably different. In 1975, no other novel yet existed;<italic>Lisa</italic>was still just a gleam in Mat Lipman’s eye. Since then, although the National Forum for Philosophical Reasoning in the Schools died</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.26</book-part-id>
+                  <title-group>
+                     <title>Sources and References for Harry Stottlemeier’s Discovery</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lipman</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.27</book-part-id>
+                  <title-group>
+                     <title>About the Authors</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14bt7sz.28</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

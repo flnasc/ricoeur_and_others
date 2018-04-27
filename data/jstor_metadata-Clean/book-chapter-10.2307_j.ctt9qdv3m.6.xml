@@ -1,0 +1,518 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qdv3m</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Globalización y diversidad cultural: una mirada desde América Latina</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Compiladores</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Pajuelo</surname>
+               <given-names>Ramón</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Sandoval</surname>
+               <given-names>Pablo</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>11</month>
+         <year>2004</year>
+      </pub-date>
+      <isbn content-type="ppub">9789972511141</isbn>
+      <isbn content-type="ppub">9972511146</isbn>
+      <isbn content-type="epub">9781449293758</isbn>
+      <publisher>
+         <publisher-name>IEP</publisher-name>
+         <publisher-loc>Lima</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-holder>IEP Ediciones</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qdv3m"/>
+      <abstract abstract-type="short">
+         <p>El mundo transita hoy de un patrón de desarrollo industrial centrado en el modelo productivo en cadena o «fordista», a otro organizado en torno al conocimiento, cuyo núcleo se sustenta en la capacidad de producir, manejar y distribuir información a través de redes mundiales de comunicación. La noción de globalización fue acuñada para dar cuenta de estos cambios, y para nombrar un fenómeno: la formación de una economía mundial basada en la expansión a escala global de los mercados de bienes, servicios y capitales. Este volumen, reúne quince textos de renombrados expertos, que abordan el tema de la globalización y su impacto en la sociedad y cultura de América Latina desde diferentes perspectivas, que incluyen la del conocimiento de las ciencias sociales, el proceso histórico del capitalismo en el subcontinente, la identidad y el desarrollo cultural.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>4</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.3</book-part-id>
+                  <title-group>
+                     <title>Introducción</title>
+                  </title-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>El mundo transita hoy de un patrón de desarrollo industrial centrado en el modelo productivo fordista a otro organizado en torno al conocimiento, cuyo núcleo se sustenta en la capacidad de producir, manejar y distribuir información a través de redes mundiales de comunicación. Este tránsito, impulsado por los cambios ocurridos en las tecnologías de comunicación, hizo de las capacidades informativas un elemento clave para insertarse en el actual modelo de desarrollo. Como la mayoría de regiones del mundo, América Latina vive también esta transición, desde su propia particularidad histórica y su desigual ubicación en el sistema-mundo capitalista; pero además desde</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.4</book-part-id>
+                  <title-group>
+                     <title>Una perspectiva cultural de las propuestas de la CEPAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Calderón</surname>
+                           <given-names>Fernando</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hopenhayn</surname>
+                           <given-names>Martín</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ottone</surname>
+                           <given-names>Ernesto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>En este artículo se plantea que la propuesta de la CEPAL de transformación productiva con equidad debe considerar los rasgos culturales de las sociedades de la región. El artículo examina la propuesta de la CEPAL en una perspectiva cultural, con especial consideración del vínculo entre ciudadanía, desarrollo económico y modernidad. Analiza los procesos de internacionalización de la cultura, la relación entre identidad cultural y ciudadanía y el impacto de los procesos de internacionalización de la cultura en la región. Examina uno de los problemas más persistentes en el proyecto de modernidad en América Latina y el Caribe—la dialéctica de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.5</book-part-id>
+                  <title-group>
+                     <title>Lo global, lo local, lo híbrido.</title>
+                     <subtitle>Aproximaciones a una discusión que comienza.</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sonntag</surname>
+                           <given-names>Heinz R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arenas</surname>
+                           <given-names>Nelly</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Los notorios cambios que ha experimentado en los últimos tiempos el sistema histórico-social vigente a nivel mundial: el capitalista,² no se manifiestan sólo en el espacio económico y financiero, convirtiendo el globo virtualmente en «mercado único» y en terreno en el que los capitales y los procesos de producción se desplazan más libremente que nunca. Este proceso ha tenido además su expresión política en una redefinición de las funciones del Estado-nación. La emergencia de organismos como las Organizaciones No Gubernamentales (ONG), el poder que han adquirido instituciones como el Banco Mundial (BM) y el Fondo Monetario Internacional (FMI)³ y los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.6</book-part-id>
+                  <title-group>
+                     <title>La globalización:</title>
+                     <subtitle>objeto cultural no identificado</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Canclini</surname>
+                           <given-names>Néstor García</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>No es cierto mucho de lo que se dice sobre la globalización. Por ejemplo, que uniforma a todo el mundo. Ni siquiera ha conseguido que exista una sola definición de lo que significa globalizarse, ni que nos pongamos de acuerdo sobre el momento histórico en que comenzó, ni sobre su capacidad de reorganizar o descomponer el orden social.</p>
+                     <p>Acerca de la fecha en que habría comenzado la globalización, varios autores la sitúan en el siglo XVI, al iniciarse la expansión capitalista y de la modernidad occidental (Chesnaux 1989, Wallerstein 1989). Otros colocan el origen a mediados del siglo XX, cuando</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.7</book-part-id>
+                  <title-group>
+                     <title>Latinoamericanismo, modernidad, globalización. Prolegómenos a una crítica poscolonial de la razón</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Castro-Gómez</surname>
+                           <given-names>Santiago</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>118</fpage>
+                  <abstract>
+                     <p>Cuando Jürgen Habermas propuso en 1981 su concepto de «colonización del mundo de la vida», se encontraba señalando un hecho fundamental: las prácticas coloniales e imperialistas no desaparecieron una vez concluidos la segunda guerra mundial y los procesos emancipatorios del «Tercer Mundo ». Estas prácticas tan sólo cambiaron su naturaleza, su carácter, su modus operandi. Para Habermas, la colonización tardomoderna no es algo que tenga su locus en los intereses imperialistas del estado-nación, en la ocupación militar y el control del territorio de una nación por parte de otra. Son medios deslingüizados (el dinero y el poder) y sistemas abstractos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.8</book-part-id>
+                  <title-group>
+                     <title>Des-fetichizar la «globalización»:</title>
+                     <subtitle>Basta de reduccionismos, apologías y demonizaciones, mostrar la complejidad y las prácticas de los actores</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mato</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>150</fpage>
+                  <abstract>
+                     <p>En estos días se habla y escribe demasiado sobre algo que se da en llamar «globalización». Pero en general se lo hace de maneras poco precisas, reduccionistas y fetichizadoras, que no sirven de mucho para orientar las acciones de los actores sociales. Dependiendo de quién habla o escribe, resulta que eso nombran «globalización» es señalado como causa de todos nuestros males o, alternativamente, como la panacea que resolverá todos nuestros problemas.</p>
+                     <p>En general, se hacen pocos esfuerzos por explicar en qué consiste eso que suelen denominar «globalización» y que a mi modo de ver—y como explicaré—sería más fructífero</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.9</book-part-id>
+                  <title-group>
+                     <title>Las ciencias sociales en la época de la globalización</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ianni</surname>
+                           <given-names>Octavio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>La globalización del mundo puede ser vista como un proceso históricosocial de vastas proporciones, que conmueve más o menos drásticamente los marcos de referencias sociales y mentales de individuos y colectividades. Rompe y recrea el mapa del mundo, y da origen a otros procesos, otras perspectivas y otras formas de sociabilidad, que se articulan o imponen a los pueblos, a las tribus, a las naciones y a las nacionalidades. Buena parte de lo que se creía establecido en términos de conceptos, categorías o interpretaciones, en relación con los más diversos aspectos de la realidad social, parece perder significado, volverse anacrónico</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.10</book-part-id>
+                  <title-group>
+                     <title>Globalización, procesos civilizatorios y la reubicación de lenguas y culturas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mignolo</surname>
+                           <given-names>Walter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>La globalización se concibe, en la jerga colectiva transnacional como la última de tres etapas de transformación mundial a partir de 1945. En un vocabulario más sociohistórico la globalización podría relacionarse con la expansión de Occidente desde 1500 y plantearse en términos del sistema mundo de Immanuel Wallerstein (1974) o del «proceso de civilización» de Norbert Elias (1982). Mientras que el modelo de Wallerstein permite una relectura de la modernidad, como sistema económico mundial, la investigación de Elias cuenta la historia del crecimiento de una conciencia en la emergente preocupación europea por cristianizar y civilizar el mundo. La propia auto-descripción</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.11</book-part-id>
+                  <title-group>
+                     <title>Colonialidad del poder, eurocentrismo y América Latina</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Quijano</surname>
+                           <given-names>Aníbal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>228</fpage>
+                  <abstract>
+                     <p>La globalización en curso es, en primer término, la culminación de un proceso que comenzó con la constitución de América y la del capitalismo colonial/moderno y eurocentrado como un nuevo patrón de poder mundial. Uno de los ejes fundamentales de ese patrón de poder es la clasificación social de la población mundial sobre la idea de<italic>raza</italic>, una construcción mental que expresa la experiencia básica de la dominación colonial y que desde entonces permea las dimensiones más importantes del poder mundial, incluyendo su racionalidad específica, el eurocentrismo. Dicho eje tiene, pues, origen y carácter colonial, pero ha probado ser más</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.12</book-part-id>
+                  <title-group>
+                     <title>El desarrollo de las culturas andinas a partir de su inclusión al «Sistema Mundial Moderno» y de la Globalización</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Golte</surname>
+                           <given-names>Jürgen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>282</fpage>
+                  <abstract>
+                     <p>La mayoría de la población andina en los últimos milenios ha vivido en sociedades organizadas alrededor de la producción agrícola y ganadera. Las ciudades que se han desarrollado a partir de estas sociedades de agricultores y ganaderos, y basándose en la apropiación de un plusproducto de ellas, han tenido características muy diversas. Ha habido centros de administración de poder político y religioso, nudos de intercambio, aglomeración de artesanos, de trabajadores mineros y fabriles, de residencia de terratenientes, de producción de servicios, etc.</p>
+                     <p>En cada caso se establecían formas específicas de relación entre campo y ciudad, modalidades específicas de trasferencia de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.13</book-part-id>
+                  <title-group>
+                     <title>La condición de la transnacionalidad</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ribeiro</surname>
+                           <given-names>Gustavo Lins</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>Conforme la globalización despliega sus dinámicas selectivas reproduciendo o creando elites poderosas y mientras que el capitalismo transnacional dicta cada vez más reglas a los estados naciones, los ciudadanos del mundo necesitan situarse a sí mismos dentro de estos escenarios y empezar a diseñar formas para contrabalancear las tendencias hegemónicas. Discutir las condiciones de la transnacionalidad es promover la posibilidad de cambiar nuestras concepciones de ciudadanía para hacerlas compatibles con una clara sensibilidad y responsabilidad respecto de los efectos interconectados de las acciones económicas, políticas, sociales y culturales en un mundo globalizado. Es también reconocer que cualquier movimiento poderoso que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.14</book-part-id>
+                  <title-group>
+                     <title>Las transformaciones del mapa:</title>
+                     <subtitle>identidades, industrias y culturas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martín-Barbero</surname>
+                           <given-names>Jesús</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>348</fpage>
+                  <abstract>
+                     <p>Hasta hace pocos años, pensar la cultura era otear un mapa claro y sin arrugas: la antropología tenía a su cargo las culturas primitivas y la sociología se encargaba de las modernas. Lo que implicaba dos opuestas ideas de cultura. Para los antropólogos, «cultura» es todo, pues en el magma primordial que habitan los primitivos tan cultura es el hacha como el mito, la maloca como las relaciones de parentesco, el repertorio de las plantas medicinales o el de las danzas rituales. Mientras, para los sociólogos, cultura es sólo un especial tipo de actividades y de objetos, de productos y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.15</book-part-id>
+                  <title-group>
+                     <title>Modernidad-mundo e identidad</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ortiz</surname>
+                           <given-names>Renato</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>375</fpage>
+                  <abstract>
+                     <p>El tema de la identidad es rico y controvertido. Si en la actualidad, partir del proceso de globalización, resurge con fuerza en las discusiones políticas y académicas, se hace necesario, sin embargo, dimensionarlo correctamente. Por cierto, las transformaciones recientes replantean los movimientos identitarios en una nueva meseta. Pero antes de reflexionar acerca de su configuración, hay que reconsiderar el modo en que el propio concepto fue trabajado en las ciencias sociales. Tengo la impresión de que a menudo implica una lectura deificadora de la sociedad, lo que nos conduce a una comprensión equívoca de las relaciones sociales. En este sentido,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.16</book-part-id>
+                  <title-group>
+                     <title>Globalización, desmodernización y el retorno de los monstruos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pratt</surname>
+                           <given-names>Mary Louise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>399</fpage>
+                  <abstract>
+                     <p>Las presentes reflexiones parten de un cierto escepticismo con relación al término<italic>globalización</italic>. Sospecho que, en muchas ocasiones, este término funciona como una etiqueta que carece de lo que los teóricos llaman «poder explicativo». Lejos de ser una explicación, es un vocablo que, más bien, sustituye a la explicación—uno ve un McDonald’s en Lima y se dice «ah, es la globalización». Se encuentra con una mujer zapoteca en Manhattan o se compra una mochila hecha en Macao o Madagascar, y se dice lo mismo. El término globalización suprime el entendimiento, y hasta el deseo de entendimiento. En ese sentido,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.17</book-part-id>
+                  <title-group>
+                     <title>La aldea global entre la utopía transcultural y el ratio mercantil:</title>
+                     <subtitle>paradojas de la globalización cultural</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hopenhayn</surname>
+                           <given-names>Martín</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>416</fpage>
+                  <abstract>
+                     <p>Dos ámbitos decisivos de la vida se encuentran hoy globalizados microelectrónicamente y cruzan fronteras sin limitaciones de espacio ni dilaciones en el tiempo, a saber, la información y las finanzas. Ocurre, con la transmisión de mensajes lo mismo que con la circulación del dinero: no hay límite espacial ni demora temporal entre emisores y receptores de mensajes. Esto crea una interdependencia inédita en la economía financiera y en el diálogo a escala planetaria. Interdependencia que se juega en las antípodas: como máxima vulnerabilidad económica de las sociedades nacionales frente a movimientos que ocurren en cualquier otro punto del planeta, y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.18</book-part-id>
+                  <title-group>
+                     <title>La crueldad de la inocencia:</title>
+                     <subtitle>ortodoxias y discursos contestatarios sobre globalización y diversidad cultural</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grompone</surname>
+                           <given-names>Romeo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>433</fpage>
+                  <abstract>
+                     <p>Los atentados del 11 de setiembre del 2001, la intervención de la OTAN en Kosovo, la invasión de Estados Unidos en Afganistán e Irak ha traído, entre otras consecuencias, una visión más desencantada y quizás más realista acerca de los alcances de la globalización en un conjunto de temas. El nuevo balance de poderes, la obligada consideración de las relaciones internacionales que se van formando, los estilos de imposición, de resistencia y de enfrentamientos, afectan, remecen, si bien no le quitan vigencia a quienes privilegiaban en este cambio de época al encuentro intercultural. La mayoría de las lecturas e interpretaciones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.19</book-part-id>
+                  <title-group>
+                     <title>Sobre los compiladores y autores</title>
+                  </title-group>
+                  <fpage>459</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qdv3m.20</book-part-id>
+                  <title-group>
+                     <title>Fuente de los artículos</title>
+                  </title-group>
+                  <fpage>463</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

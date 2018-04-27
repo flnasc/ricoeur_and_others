@@ -1,0 +1,402 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt15hvtmg</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Cultura corporativa</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Conducta organizacional</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Administración</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Management &amp; Organizational Behavior</subject>
+         <subject>Business</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Desarrollo y eficacia organizacional</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Pucheu M.</surname>
+               <given-names>Andrés</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9789561414587</isbn>
+      <isbn content-type="epub">9789561415478</isbn>
+      <publisher>
+         <publisher-name>Ediciones UC</publisher-name>
+         <publisher-loc>Santiago, Chile</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Inscripción Nº 220.318</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt15hvtmg"/>
+      <abstract abstract-type="short">
+         <p>Vivimos en una sociedad cambiante y los modelos de gestión desarrollados en el período industrial, basados en la estandarización de procesos y supervisión, resultan insuficientes –y a veces incluso contraproducentes-, para lograr la flexibilidad y rapidez necesarias para ser efectivos en una economía de servicios a escala global. Hoy la fuente de ventajas competitivas en las empresas y de la efectividad del Estado y el tercer sector, se encuentra en una adecuada comprensión de la información, el desarrollo de redes y la integración de acciones en función de necesidades contextuales de personas, empresas y comunidades. Este libro presenta modelos y herramientas para el desarrollo de estas capacidades en los niveles de personas y grupos, incluyendo análisis de competencias, procesos de coaching, formación de equipos e intervenciones sobre cultura organizacional. Se agrega además la revisión de teoría sobre motivación, liderazgo, poder, desarrollo e innovación, necesaria para orientar las intervenciones de una manera integrada.</p>
+      </abstract>
+      <counts>
+         <page-count count="474"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.3</book-part-id>
+                  <title-group>
+                     <title>Introducción</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Vivimos en una sociedad en transformación y los modelos de gestión pública y privada desarrollados en el periodo industrial resultan insuficientes –y a veces incluso contraproducentes– para lograr la flexibilidad y rapidez que son necesarias en una economía de servicios que opera a escala global. Estos cambios son mucho más profundos que la mera implementación de tecnologías informáticas o la aplicación de algún nuevo modelo de mercadeo, por mencionar un par de ejemplos de las muchas innovaciones existentes. Si buscamos la modernización del Estado, la implementación de gestión por proyectos en una empresa o la efectividad de una organización sin</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.4</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 1</label>
+                     <title>¿Para qué nos sirve la idea “organización”?¹</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>La primera consideración que debemos hacer para abordar el desarrollo organizacional es que el término “organización” es una herramienta conceptual que nos permite establecer, más o menos claramente, los límites de un campo de actividad humana. Si desde una perspectiva social, las organizaciones son subsistemas de la sociedad, desde el punto de vista de los individuos y grupos, la organización es un campo de acción que nos imaginamos y que nos permite actuar de manera coordinada, estableciendo las identidades y atribuciones que serán utilizadas en ese contexto (Robertson, Roberts y Porras, 1993; Schvarstein, 2002). Para ejemplificar estas definiciones, tomemos el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.5</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 2</label>
+                     <title>Desarrollo organizacional y psicología organizacional</title>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>La idea de desarrollo implica, además del crecimiento en tamaño o número de unidades, dos elementos adicionales: la emergencia y la integración de nuevos elementos. Puede que en la práctica los límites entre crecimiento y desarrollo sean a veces sutiles, pero podemos ejemplificarlos en el caso de una empresa familiar. Si la empresa aumenta su volumen de ventas, y la cantidad de sucursales o el número de sus empleados mantienen las mismas estrategias y roles, podemos describir el proceso como crecimiento. En cambio, si se crean nuevas unidades y estrategias de negocio, se contratan nuevos miembros especializados que modifican el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.6</book-part-id>
+                  <title-group>
+                     <title>[segunda Parte: Introducción]</title>
+                  </title-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>Esta segunda parte está dedicada a la revisión de modelos y herramientas ocupadas en la práctica profesional del desarrollo organizacional. Hoy, además de los estudios de clima, descritos en el capítulo sobre motivación, las intervenciones demandadas a psicólogos están asociadas fundamentalmente a cuatro niveles de amplitud en el impacto inicial de los acciones. El primero se refiere a modificar características o cualidades de los sujetos, como sus niveles de conocimiento, valores o habilidades. Esto se hace desde modelos como<italic>benchmarking</italic>interno, mejores prácticas o diversos enfoques de competencias. Un ejemplo de intervención en este nivel es modificar los conocimientos, creencias</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.7</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 3</label>
+                     <title>El diagnóstico organizacional</title>
+                  </title-group>
+                  <fpage>67</fpage>
+                  <abstract>
+                     <p>“El conocimiento clínico todavía es, primero que nada, la interpretación de lo que le está pasando a un paciente y cómo esta se adecua a las interpretaciones disponibles. Este conocimiento todavía se denomina una opinión; la habilidad para llegar a esta opinión se llama capacidad de razonamiento” (Montgomery, 2005, pág. 16). Esta cita de Montgomery se refiere al diagnóstico médico; sin embargo, lo que dice también puede utilizarse para describir el proceso de diagnóstico organizacional, ya que, al igual que en el caso de las personas, los sistemas organizacionales son diferentes unos de otros y las intervenciones se deciden buscando</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.8</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 4</label>
+                     <title>¿Cuáles son los tipos de organizaciones en que intervenimos?</title>
+                  </title-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>En el ámbito económico de la sociedad podemos discriminar cuatro grandes tipos de organizaciones: éticas, estatales, empresas y cooperativas. Adicionalmente, dado que los roles familiares están integrados en muchos sistemas económicos, como empresas familiares y organizaciones del Estado, se debe incluir también a las familias, un tipo de organización que en nuestra cultura se asume como predominantemente social, pero que en otras está implicada con fines políticos y económicos de manera más explícita. Como ya hemos señalado, estas organizaciones aparecen integradas en sistemas, dentro de los cuales una o dos o más organizaciones son percibidas como la realidad socialmente aceptada</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.9</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 5</label>
+                     <title>Competencias y otros enfoques para la gestión del desempeño</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>Empezaremos la revisión de intervenciones con aquellas que suponen la modificación de comportamientos o desarrollo de capacidades específicas en los sujetos. Este tipo de modelos asume que las características y cualidades generales del sujeto son adecuadas, ya sea por el efecto de selección o por formación, y que, por tanto, es posible intervenir en algunas de sus características específicas a través de la capacitación o entrenamiento. En este sentido, son intervenciones relativamente acotadas, lo que no significa que no sea posible integrarlas en los niveles más amplios de individuo, grupo u organización.</p>
+                     <p>Para explicar la importancia de estas intervenciones, recordamos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.10</book-part-id>
+                  <title-group>
+                     <title>Anexo capítulo 5:</title>
+                     <subtitle>Ejemplo de niveles de evaluación y determinantes</subtitle>
+                  </title-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Al analizar el desempeño en un rol es necesario discriminar entre los objetivos por lograr, las acciones que permiten lograr este objetivo y los factores que posibilitan o inhiben la capacidad del sujeto para implementar la acción. Por ejemplo, un objetivo del rol vendedor es la superación de las objeciones de los clientes que tienen que ver con tiempo para recibirlos. Una acción requerida es la de aplicar las técnicas de manejo de objeciones y un factor determinante es la capacidad de razonar bajo presión. La siguiente tabla muestra algunos ejemplos en este mismo sentido.</p>
+                     <p>En general, los objetivos y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.11</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 6</label>
+                     <title>Coaching</title>
+                  </title-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>El término<italic>coaching</italic>se utiliza para referirse a relaciones en las cuales un sujeto, el ayudado o coacheé, solicita y recibe apoyo de otro, el coach o entrenador, a fin de desarrollar habilidades, competencias o mejorar el desempeño (Hamlin, Ellinger y Beattie, 2008). Hoy, existen múltiples orientaciones teóricas que enfatizan distintos aspectos de estas relaciones de ayuda, pero al revisar la literatura especializada es posible señalar que gran parte de los modelos de coaching podrían describirse como procesos de desarrollo personal, en los cuales el coach asiste al ayudado a reconceptualizar su percepción de las situaciones y, de manera consiguiente,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.12</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 7</label>
+                     <title>Grupos y equipos</title>
+                  </title-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>En la empresa familiar o burocrática tradicional, donde un solo sujeto o grupo tomaba las decisiones relevantes y el resto asumía una posición meramente operativa, como todavía ocurre en sistemas fordistas y empresas familiares en que el fundador ocupa simultáneamente las posiciones de dueño, gerente general y padre, basta con influir al sujeto en la posición de supervisor para afectar el comportamiento del grupo o a la organización completa. Pero en la medida en que los procesos se flexibilizan y descentralizan, se genera tanto una redistribución del poder como una necesidad de integrar los diversos deseos e ideas de los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.13</book-part-id>
+                  <title-group>
+                     <title>Anexo capítulo 7:</title>
+                     <subtitle>Negociación</subtitle>
+                  </title-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>En muchas ocasiones los clientes piden entrenamiento o formación de equipos para grupos de trabajo en los que cada sujeto actúa en un solo rol y en los que no se requiere generar nuevas estrategias, sino que mejorar la comunicación. En estos casos es más conveniente realizar un entrenamiento en negociación, tema al que se dedicará este anexo.</p>
+                     <p>Lamentablemente, la negociación es un tema en el que, habiendo investigación, hasta ahora hay bastante menos desarrollo comparativo que en el liderazgo. No obstante, es posible que esto cambie en la medida en que los desarrollos recientes muestran su relación con la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.14</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 8</label>
+                     <title>Cultura organizacional</title>
+                  </title-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>Si recordamos los modelos de diagnóstico organizacional revisados en el capítulo 3, observaremos que la idea de cultura aparece por primera vez en el modelo de Hax y Majluf (1993), originado en la segunda mitad de los 80. Esto no es casual, ya la idea de cultura organizacional se hace popular con el inicio del cambio social post fordista y debido a la necesidad de intervenir no sólo en las creencias o percepciones, como era el foco de los estudios de clima organizacional, sino que identificar los valores y estructuras cognitivas que facilitan o dificultan el desarrollo de las capacidades</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.15</book-part-id>
+                  <title-group>
+                     <title>Anexo capítulo 8:</title>
+                     <subtitle>Notas sobre la representación de la estructura organizacional</subtitle>
+                  </title-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>Como señalamos en el capítulo 4, podemos analizar la estructura de una organización a través de su descomposición en tres niveles: la representación topográfica, los mecanismos de coordinación y el sistema de roles integrado en la organización. El más evidente de estos niveles de análisis es la representación de la organización. Dado que esta representación suele estar contenida en una metáfora física, podemos referirnos a este nivel de análisis de la estructura como topográfico. Para ilustrar esta idea, observemos cómo en la familia o la empresa se utilizan las orientaciones espaciales de arriba o sobre para representar relaciones de superioridad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.16</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 9</label>
+                     <title>Motivación y clima</title>
+                  </title-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>En la práctica profesional, se presentan numerosos problemas asociados a la motivación y una buena parte de las peticiones por mejoras en la supervisión, los mecanismos de control y selección, entre otros temas, tienen que ver en realidad con buscar formas para motivar a las personas a mejorar su desempeño o asumir cambios. Por esto, el tema de motivación aparece en la base de los servicios como estudios de clima, liderazgo, generación de modelos de competencias conductuales y sistemas de evaluación del desempeño. En este capítulo, revisaremos primero las teorías más difundidas y posteriormente, algunos criterios de aplicación.</p>
+                     <p>En el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.17</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 10</label>
+                     <title>Liderazgo y poder</title>
+                  </title-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>Una gran mayoría de las solicitudes para intervenir en competencias y coaching se asocian a “mejorar” o “desarrollar el liderazgo”. Esto no es extraño considerando que la supervisión es uno de los mecanismos de coordinación básicos en empresas de tipo familiar y burocracias fordistas. Sin embargo, sí llama la atención la gran diversidad de modelos y concepciones de liderazgo, por lo que en este capítulo revisaremos algunos elementos básicos de la teoría que después nos ayudarán a orientar las intervenciones. Posteriormente revisaremos algunos modelos sobre poder, concepto complementario que resulta tanto o más útil para comprender los procesos de cambio</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.18</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 11</label>
+                     <title>Identidad, self y desarrollo cognitivo</title>
+                  </title-group>
+                  <fpage>375</fpage>
+                  <abstract>
+                     <p>En este capítulo revisaremos algunos elementos sobre la identidad y la forma en que se estructura el se<italic>lf</italic>, lo que nos permitirá profundizar en algunos elementos enunciados en el capítulo 1, sobre organización. Además, describiremos algunas teorías sobre desarrollo cognitivo, que son claves para comprender los programas de desarrollo de talento y coaching ejecutivo, que buscan aumentar la capacidad de pensamiento complejo.</p>
+                     <p>La idea de identidad o sistema de identidades se refiere al conjunto de creencias y afectos que un sujeto o grupo tiene sobre sí mismo y los ambientes en los que participa, determinando los autoconceptos y juicios que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.19</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO 12</label>
+                     <title>Capacidad empresarial e innovación</title>
+                  </title-group>
+                  <fpage>419</fpage>
+                  <abstract>
+                     <p>Las capacidades para desarrollar proyectos empresariales e innovar son dos factores claves en la gestión actual y en el trabajo de consultoría son demandados a través de competencias, programas de coaching y equipos, así como en estudios de cultura. Por eso se ha dedicado un capítulo a la reseña de algunos modelos que no se describieron anteriormente y que sirven para contextualizar la preocupación por estas capacidades.</p>
+                     <p>La palabra empresario,<italic>entrepreneur</italic>en inglés, viene del vocablo francés<italic>entreprendre</italic>, que hoy podría traducirse como animarse a hacer algo o emprender. Este término se usaba originalmente para describir a sujetos que realizaban</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtmg.20</book-part-id>
+                  <title-group>
+                     <title>Casos para integración</title>
+                  </title-group>
+                  <fpage>451</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

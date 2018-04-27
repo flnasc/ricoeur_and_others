@@ -1,0 +1,464 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1t304z1</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Framing French Culture</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Edwards</surname>
+               <given-names>Natalie</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>McCann</surname>
+               <given-names>Ben</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Poiana</surname>
+               <given-names>Peter</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9781922064868</isbn>
+      <isbn content-type="epub">9781922064875</isbn>
+      <publisher>
+         <publisher-name>University of Adelaide Press</publisher-name>
+         <publisher-loc>South Australia</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>The authors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.20851/j.ctt1t304z1"/>
+      <abstract abstract-type="short">
+         <p>Throughout this book, the concept of framing is used to look at art, photography, scientific drawings and cinema as visually constituted, spatially bounded productions.</p>
+      </abstract>
+      <counts>
+         <page-count count="298"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.3</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The doubling of the frame — Visual art and discourse</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edwards</surname>
+                           <given-names>Natalie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCann</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Poiana</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The notion of framing is one that has emerged as a key factor in current investigations into representations of culture. In the disciplinary area of French Studies, framing is understood as collective and individual rules of identity construction that are based upon a combination of modes of visual production, past and present narratives, and discourses of knowledge and power. The present volume will pursue the question of framing in all three areas.</p>
+                     <p>The first sustained discussion of framing, understood in the modern sense, is attributed to anthropologist and linguist Gregory Bateson. In 1954, in 'A theory of play and fantasy',</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.4</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Colonial vision:</title>
+                     <subtitle>French voyager-artists, Aboriginal subjects and the British Colony at Port Jackson</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Starbuck</surname>
+                           <given-names>Nicole</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>Charles-Alexandre Lesueur and Nicolas-Martin Petit arrived at Sydney Town in mid-winter 1802, the first French artists to visit Britain's colony at Port Jackson.¹ Two seasons lay ahead of them, providing respite after a gruelling exploration of Australia's south coast, and, more importantly, providing the young men with an invaluable opportunity. Lesueur and Petit were members of the Baudin expedition, which — prepared by the Institut National and sponsored by the First Consul at the close of the French Revolution — was the first scientific expedition to carry official anthropological instructions. It was thus with the varied advice of philosophers, humanists</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.5</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>An artist in the making:</title>
+                     <subtitle>The early drawings of Charles-Alexandre Lesueur during the Baudin expedition to Australia</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>West-Sooby</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>The link between scientific discovery and empire building was never more evident than in the latter decades of the eighteenth century. During that time, as Mary Louise Pratt has noted, the 'international scientific expedition' became 'one of Europe's proudest and most conspicuous instruments of expansion'.¹ For Pratt, this period coincided with the emergence of a new version of Europe's 'planetary consciousness' — one which was characterised by 'the construction of global-scale meaning through the descriptive apparatuses of natural history'.²</p>
+                     <p>Empirical observations of the natural world were indeed indispensable to the European Enlightenment ambition of obtaining a complete and taxonomic knowledge</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.6</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Framing New Holland or framing a narrative?</title>
+                     <subtitle>A representation of Sydney according to Charles-Alexandre Lesueur</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fornasiero</surname>
+                           <given-names>Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>The artists on the Baudin expedition, Charles-Alexandre Lesueur and Nicolas-Martin Petit, left us a substantial legacy in terms of the drawings of antipodean peoples, landscapes and coastal profiles which they executed during and after their voyage of scientific discovery to Australia between 1800 and 1804.¹ Many of these works are now well known, thanks to the publication of the various<italic>Atlases</italic>of the official account of the expedition, the<italic>Voyage de découvertes aux Terres australes</italic>, and their modern facsimile editions.² Other images, which have remained unpublished, demand to be better known, given the energy that emanates from them, their sense</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.7</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Artwork of the Baudin expedition to Australia (1800-1804):</title>
+                     <subtitle>Nicolas-Martin Petit's 1802 portrait of an Aboriginal woman and child from Van Diemen's Land</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Southwood</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>The 1802 portrait by French artist Nicolas-Martin Petit (1777-1804) of a young woman from Bruny Island (Figure 5.1), Tasmania — or Van Diemen's land, as it was known at the time — is the subject of the following discussion. Petit's portrait³ of Arra-Maïda, as she was called, which he painted during the 1800-04 French expedition to Australia (<italic>Terra Australis</italic>or<italic>Les Terres australes</italic>) under the command of Post-Captain Nicolas Baudin⁴, gives fascinating insights into these first encounters of expedition members with Indigenous Tasmanians before colonisation and the subsequent decimation of the group.</p>
+                     <p>The portrait allows us to recontextualise material such</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.8</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Framing the Eiffel Tower:</title>
+                     <subtitle>From postcards to Postmodernism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stephens</surname>
+                           <given-names>Sonya</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>The visual impact, and iconic status, of the Eiffel Tower have long been established. Indeed, it was conceived as both a monumental sight and as a place for viewing, and so its place in visual culture, it might be argued, was a very part of the Tower's conception in 1884, long before a committee had even been formed to select a centerpiece for the 1889<italic>Exposition Universelle</italic>. Recent innovations in a range of fields, including cultural geography and visual culture, have led scholars to reflect on what constitutes an urban icon, to question that which is precisely the 'visual' in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.9</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The return of Trauner:</title>
+                     <subtitle>Late style in 1970s and 1980s French film design</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McCann</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>It is a truth universally acknowledged that set designers create the space in which films take place. But, as Alessio Cavallaro reminds us, set designers 'never simply replicate reality: they always involve the artificial creation of a world … carefully selected to generate a particular aesthetic or mood that draws the audience into the story'.¹</p>
+                     <p>Hungarian-born production designer Alexandre Trauner (1906-93) fits neatly into this definition. Time and again, in his groundbreaking and highly evocative designs for a series of 1930s French Poetic Realist films — most notably<italic>Le Quai des brumes</italic>(1938),<italic>Hôtel du nord</italic>(1938) and<italic>Le Jour</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.10</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Annie Ernaux's phototextual archives:</title>
+                     <subtitle>Ecrire la vie</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edwards</surname>
+                           <given-names>Natalie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>Why would a writer publish a text that seemingly undoes the literary innovation of her life's work? Annie Ernaux has achieved fame by writing short, pithy narratives that recount isolated autobiographical moments. Rather than recounting events and extrapolating their meaning to her life within an autobiographical text, such as Michel de Montaigne falling off a horse, Jean-Jacques Rousseau stealing a ribbon, or André Gide travelling to North Africa, Ernaux chooses a specific incident — a love relationship, an abortion, a scene of domestic violence, for example — and describes this in sparse, unlyrical prose with no discussion of its consequences</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.11</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The image of self-effacement:</title>
+                     <subtitle>The revendication of the autonomous author in Marie NDiaye's Autoportrait en vert</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hogarth</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Michel Beaujour states his dissatisfaction with the term 'autoportrait' to encapsulate adequately literary endeavours at self-representation.¹ The connection between self-portraiture and painting is evident, and the slippage of the term across mediums leads, in Beaujour's opinion, to deny the specificity of literary works. Yet, referring to works such as Michel de Montaigne's<italic>Essais</italic>, Michel Leiris's<italic>L'âge d'homme</italic>and Jean-Jacques Rousseau's<italic>Rêveries</italic>, Beaujour highlights its usefulness as a tool that distinguishes it from autobiographical texts for two fundamental reasons. First, self-portraiture insists upon an absence of continuity, thus defying any clearly arranged order of events that contribute to a personality created</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.12</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Accumulating Algeria:</title>
+                     <subtitle>Recurrent images in Pied-Noir visual works</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hubbell</surname>
+                           <given-names>Amy L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Upon losing their homeland at the end of the Algerian War of Independence in 1962, the community of Pieds-Noirs, or former French citizens of Algeria, set out to protect their fragile memories through literature, photography and film. Every year the communities gather together in France to commemorate their exodus, and each reunion is guided by images of colonial Algeria. As the ageing Pieds-Noirs assemble, so do fragments of their past: school photos endlessly emerge from Pieds-Noirs seeking to identify lost or forgotten classmates, and iconic Algerian monuments reappear in slide presentations, films, photodocumentaries, paintings and websites. The Pieds-Noirs are eager</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.13</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Georges Bataille's Manet and the 'strange impression of an absence'</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sheaffer-Jones</surname>
+                           <given-names>Caroline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>In<italic>Manet</italic>³, Georges Bataille focuses on the life and work of Édouard Manet, undoubtedly one of the greatest painters in the Western world and considered by some to be the founder of modern art.⁴ Bataille's text, which opens with a chronology of detailed biographical and historical information, was originally published with some black-and-white reproductions in 1955 by Albert Skira Editions and now appears in volume 9 of his<italic>Œuvres complètes after Lascaux ou la naissance de l'art</italic>. The juxtaposition of<italic>Manet</italic>with this piece on the birth of art is not without significance, as Bataille examines the artist's extraordinary status</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.14</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Entropy and osmosis in conceptualisations of the Surrealist frame</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>James</surname>
+                           <given-names>Klem</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>Since its inception, Surrealism has been associated with conservative art forms aspiring to a higher synthetic unity, unlike those modern art movements such as Pop Art or installation art, which have eschewed aesthetic and transcendental values in favour of the purely material and commercial. In<italic>Displaying the marvellous</italic>, Lewis Kachur writes that Breton was 'holding fast to Surrealism as "high" art'.¹ According to Hal Foster, 'reconciliation is the<italic>raison d'être</italic>of Bretonian Surrealism'², whereby the binding or 'synthetic principle'³ underlying Surrealist works is Eros and 'the uncanny is recoded as the marvellous and arrested animation is sublimated as convulsive beauty'.⁴</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.15</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Art and origin:</title>
+                     <subtitle>Bataille and Blanchot's return to Lascaux</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Poiana</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>Georges Bataille and Maurice Blanchot's mutual interest in the Lascaux cave paintings signals their common concern to construct a discourse of origin in relation to art. Both writers consider origin in terms of the anxiety-filled questioning surrounding the ontological and historical aporias that have plagued Western thought, including those that appear under the banner of the Modern and the Postmodern. Both ask: what kind of discourse presides over the disconcerting doubling of reality performed by the first artists? For Bataille, origin is bound up with the ritual significance of eroticism and death as these underpin all forms of artistic endeavour;</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1t304z1.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>292</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

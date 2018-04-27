@@ -1,0 +1,217 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qf0vf</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Law</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Beyond Federal Dogmatics (pdf)</book-title>
+         <subtitle>The Influence of EU Law on Belgian Constitutional Case Law Regarding Federalism</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Feyen</surname>
+               <given-names>Stef</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>05</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9789058679383</isbn>
+      <isbn content-type="epub">9789461660824</isbn>
+      <publisher>
+         <publisher-name>Leuven University Press</publisher-name>
+         <publisher-loc>Leuven (België)</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Leuven University Press / Presses Universitaires de Louvain / Universitaire Pers Leuven</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qf0vf"/>
+      <abstract abstract-type="short">
+         <p>The relationship between EU law and national constitutional law, including constitutional law in federalism matters, has been subject to an ongoing scholarly debate. This monograph contributes to this debate in two ways. The author argues for an approach to constitutional law that goes beyond the classic - coined dogmatic - understanding of constitutional case law regarding federalism as expounded in Belgian academia. Building on that basis, he sets out to rethink the framework within which the connection between EU law and national constitutional law can be understood. The analysis delves into the relationship (and sometimes tension) between ‘rule-of-law' values (which may serve as checks upon instrumental forms of reasoning) and the toolbox deployed in constitutional court case law to accommodate several rather pragmatic needs.</p>
+      </abstract>
+      <counts>
+         <page-count count="280"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alen</surname>
+                           <given-names>André</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Whereas many young researchers publish their doctoral dissertation as their first monograph, I am pleased to introduce this monograph, written by a junior researcher whose dissertation is yet to come.</p>
+                     <p>In some respects, this book has characteristics which one could expect from a junior researcher: it tries to be innovative, explores issues from a (whole array of) different angle(s), and could be read as provocative. At the same time, the work radiates academic maturity in some other respects: the depth and width of the considerations taken into account are impressive, and even if some points might come across as provocative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.4</book-part-id>
+                  <title-group>
+                     <title>Reader information and acknowledgments</title>
+                  </title-group>
+                  <fpage>11</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.5</book-part-id>
+                  <title-group>
+                     <title>Some commonly used abbreviations</title>
+                  </title-group>
+                  <fpage>13</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>In our “enlightened” times, the concept of dogma has acquired a rather negative connotation. Most people seem to believe that we should not accept dogma(ta) without constant, or at least potential critical reflection¹. Even so, dogma continues to be relied upon in certain areas of life where we strive for a form of authoritative certitude, such as religion, or law. It seems as if our quest for stability here warrants the use of a modus of a thought that builds upon a set of premises that are accepted without constant critical re-examination, as authoritative. Dogma, in that very broad sense,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.7</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Influence and the toolbox concept:</title>
+                     <subtitle>Some preliminary considerations pertaining to method</subtitle>
+                  </title-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>We mentioned that the object of our investigation would be how European Union law<italic>influences</italic>Belgian constitutional case law on federalism. “Influence”, however, is a difficult concept to grasp here, because it may mean a myriad of things depending on the perspective, because the object and subject of influence do not always allow for a clear definition, and because of issues related to understanding how law in general should be conceived of. The latter reason will lead us to consider the toolbox concept we deploy here in order to enrich our understanding of Belgian constitutional case law relating to federalism.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.8</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Belgian federalism:</title>
+                     <subtitle>A cursory overview</subtitle>
+                  </title-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>On the whole, Belgium’s federal structure must be understood as a ‘complex set of compromises that was the product of a series of protracted political negotiations’¹²⁶. These negotiations dealt primarily with Flemish aspirations for (cultural) autonomy, Flemish fear of ‘Frenchification’ of the Brussels periphery, Walloon aspirations for economic autonomy, and minority protections, both for the Francophones in Belgium as a whole, and for the Flemish inhabitants of the ‘Frenchified’ Brussels periphery¹²⁷.</p>
+                     <p>The negotiations proceeded in stages: up till now five grand packages of institutional reforms have been adopted. The first package in 1970 created balances in light of the establishment</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.9</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>The Belgian Constitutional Court and federalism</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Constitutional Court Judge André Alen explains:</p>
+                     <p>[d]uring the first years, the Court of Arbitration has laid the foundations for the allocation of competences [case law], which has resulted in a wide conception of the competences of Communities and Regions, without however, when necessary, losing track of the unity of policy, and in the upholding of an exclusive territorial division of competences. These foundations were clearly affirmed in the subsequent phases and can as such be deemed to be “established jurisprudence”²⁸¹</p>
+                     <p>This general characterization of the first five years of Constitutional Court jurisprudence refers to three<italic>tools</italic>the Court has used</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.10</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>European influence on Constitutional Court case law</title>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>Many authors have delved into the ‘colorful reality’742 of the relationship between European law and the Constitutional Court. A whole array of questions has been raised, and often treated from different angles or perspectives⁷⁴³</p>
+                     <p>Not so long ago, scholars⁷⁴⁴ usually discussed the relationship between international law and national (constitutional) law in light of the jurisprudence of the Court, generally comparing the European ‘primacy’ perspective, as elaborated in<italic>Costa</italic>⁷⁴⁵ and<italic>Internationale Handelsgesellschaft</italic>⁷⁴⁶, with the Constitutional Court case law since the<italic>Lanaken</italic>judgment⁷⁴⁷, where the Court, notwithstanding the utterly monistic jurisprudence of the Belgian Court of Cassation⁷⁴⁸, held that it can (contentiously)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.11</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Three partial explanations and the road ahead</title>
+                  </title-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>If anything can be noticed when reading through the foregoing passages, it is that – while they try to grasp certain phenomena into particular broader concepts or principles, they do lack some kind of internal<italic>substantive</italic>logic of what influence constitutes of. That is a criticism I cannot refute, because I believe it to be true, and – what is more – I even believe it to be my point. Although I do not argue that it is downright impossible to construe a fully<italic>substantive</italic>coherent account of the relationship between EU and Belgian constitutional law and apply it to the field of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf0vf.12</book-part-id>
+                  <title-group>
+                     <title>Conclusion</title>
+                  </title-group>
+                  <fpage>277</fpage>
+                  <abstract>
+                     <p>The Belgian Constitutional Court holds an ambiguous position towards European law. Whereas, generally, it has recognized its power to review the conformity of a legislative act approving a treaty with the Constitution, it also deploys these treaties, and more broadly European law as enshrined in treaties and other instruments, to decide upon the constitutionality of other laws. Especially in reviews that rely upon the constitutional principle of non-discrimination, European law can play an important role, providing content to that principle.</p>
+                     <p>At the same time, the Constitutional Court has had to fulfill the difficult task of finding an adequate balance between</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

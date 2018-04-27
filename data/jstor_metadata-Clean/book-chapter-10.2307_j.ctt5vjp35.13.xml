@@ -1,0 +1,387 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vjp35</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3279.H49M2719 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Heidegger, Martin, 1889–1976</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Place (Philosophy)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Heidegger and the Thinking of Place</book-title>
+         <subtitle>Explorations in the Topology of Being</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Malpas</surname>
+               <given-names>Jeff</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>01</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262016841</isbn>
+      <isbn content-type="epub">9780262304139</isbn>
+      <isbn content-type="epub">0262304139</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vjp35"/>
+      <abstract abstract-type="short">
+         <p>The idea of place--topos--runs through Martin Heidegger's thinking almost from the very start. It can be seen not only in his attachment to the famous hut in Todtnauberg but in his constant deployment of topological terms and images and in the situated, "placed" character of his thought and of its major themes and motifs. Heidegger's work, argues Jeff Malpas, exemplifies the practice of "philosophical topology." In Heidegger and the Thinking of Place, Malpas examines the topological aspects of Heidegger's thought and offers a broader elaboration of the philosophical significance of place. Doing so, he provides a distinct and productive approach to Heidegger as well as a new reading of other key figures--notably Kant, Aristotle, Gadamer, and Davidson, but also Benjamin, Arendt, and Camus. Malpas, expanding arguments he made in his earlier book Heidegger's Topology (MIT Press, 2007), discusses such topics as the role of place in philosophical thinking, the topological character of the transcendental, the convergence of Heideggerian topology with Davidsonian triangulation, the necessity of mortality in the possibility of human life, the role of materiality in the working of art, the significance of nostalgia, and the nature of philosophy as beginning in wonder. Philosophy, Malpas argues, begins in wonder and begins in place and the experience of place. The place of wonder, of philosophy, of questioning, he writes, is the very topos of thinking.</p>
+      </abstract>
+      <counts>
+         <page-count count="388"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>The Thinking of Place</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The idea of place—of<italic>topos</italic>—runs through the thinking of Martin Heidegger almost from the very start. Although not always directly thematized—sometimes apparently obscured, displaced even, by other concepts—and expressed through many different terms (<italic>Ort, Ortschaft, Stätte, Gegend, Dasein, Lichtung, Ereignis</italic>),¹ it is impossible to think with Heidegger unless one attunes oneself to Heidegger’s own attunement to place. This is something not only to be observed in Heidegger’s attachment to the famous hut at Todtnauberg;² it is also found, more significantly, in his constant deployment of topological terms and images, and in the situated, “placed,” character of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Topos of Thinking</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>If Heidegger’s thinking is, as he himself says, a “topology of being” (<italic>Topologie des Seyns</italic>)¹—a saying of the place of being—then what is the place that appears here? What is the place of being, and in what place does this thinking take place? These questions direct our attention not only to the role of<italic>topos</italic>or place as that which is the object of Heidegger’s thinking, and so as that toward which it is directed, but to the very<italic>topos</italic>or place within which Heidegger’s thinking emerges, and the character of that thinking as itself determined by<italic>topos</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Turning to/of Place</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>In T. H. White’s magnificent retelling of Malory,<italic>The Once and Future King</italic>, the character of Merlin has one especially peculiar characteristic: he lives his life backward, from future to past.¹ It has always seemed to me that a similarly backward trajectory is particularly suited to the reading of philosophers—at least those whose work is sustained by a significant unity of vision—and especially to the reading of a philosopher such as Heidegger (who himself tells us that in essential history the beginning comes last²). Much of my own reading of Heidegger (and not only Heidegger, but Davidson too)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Place of Topology</title>
+                  </title-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>The idea of philosophical topology, or “topography” as I call it outside of the Heideggerian context, takes the idea of place or<italic>topos</italic>as the focus for the understanding of the human, the understanding of world, and the understanding of the philosophical. Although the idea is not indebted solely to Heidegger’s thinking (it also draws, most notably, on the work of Donald Davidson and Hans-Georg Gadamer), it is probably to Heidegger that it owes the most. Moreover, one of my claims (a claim that underpins many of the essays here) is that Heidegger’s own work cannot adequately be understood except</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Ground, Unity, and Limit</title>
+                  </title-group>
+                  <fpage>73</fpage>
+                  <abstract>
+                     <p>With Heidegger, philosophy seems to have remained in greatness: although Heidegger’s treatment of the question concerning the ground of beings undergoes important shifts in the course of his philosophical career, still the question of ground remains always near the center of his thinking.¹ Heidegger saw the question of ground as the determining question of philosophy—and in this respect the question of ground is one with the question of being²—yet he also saw philosophy as persistently misunderstanding and covering over the true nature of this question or, at least, of what this question contains within it. In this respect,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Nihilism, Place, and ʺPositionʺ</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>According to late Heidegger, the contemporary world is suffering from an “oblivion of being”—we live, he says, in a “desolate time,” a time of destitution, a time of the “world’s night.”¹ He sees this desolation and destitution as most accurately diagnosed by two key thinkers, one of whom is the poet Friedrich Hölderlin and the other the philosopher Friedrich Nietzsche. It is Nietzsche who provides Heidegger with much that is foundational to his analysis of the nihilism that he takes to be characteristic of modernity, yet it is Hölderlin who provides him with a way of thinking that is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Place, Space, and World</title>
+                  </title-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The way in which the question of world is implicated with the question of space is already indicated by Heidegger’s very characterization, in<italic>Being and Time</italic>, of the essence of human being,<italic>Dasein</italic>, as being-in-the-world. Here the nature of “being in” is as much at issue as is the nature of “world,” and although Heidegger himself moves fairly quickly to assert, in §12 of<italic>Being and Time</italic>, that “being in” as it figures in relation to world is not a matter of spatial<italic>containment</italic>, but of active<italic>involvement</italic>,¹ the analysis that follows constantly invokes the spatial at the same time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Geography, Biology, and Politics</title>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>To what extent are those forms of contemporary thinking that adopt a holistic or ecological conception of the relation between human being and the environing world associated, even if only implicitly, with a conservative and reactionary politics? That there is such an association is often claimed in relation to a number of thinkers, but most notably perhaps in relation to Heidegger.¹ Sometimes the claim is extended to encompass broader movements in contemporary thought, with environmental thinking being the most common, but by no means the only target here.² Seldom, however, is much consideration given to the way such a claim</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Philosophyʹs Nostalgia</title>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>What is wrong with nostalgia? How and why has it come to be the case, as it surely has, that to say of a philosophical position that it is “nostalgic” is already to indicate its inadequacy?¹ In this chapter I want to examine nostalgia both as a mood or disposition in general, and as a mood or disposition that is characteristic of philosophical reflection. Part of this inquiry will involve a rethinking of the mood of nostalgia and what that mood encompasses. Rather than understand the nostalgic as characterized solely by the desire to return to a halcyon past, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Death and the End of Life</title>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>“Eternity is a terrible thought,” says Rosencrantz in Tom Stoppard’s alternative view on<italic>Hamlet</italic>, “I mean, where’s it going to end?” And Guildenstern adds a little later, “Death followed by eternity … the worst of both worlds. It is a terrible thought.”¹ Death, as they say, is forever, but if the same were true of life—if one could live a life without end—would this be any less terrible? Some philosophers have argued that life in the absence of death would indeed be terrible—it would be a life, according to Bernard Williams, of unendurable boredom.² I think there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Topology, Triangulation, and Truth</title>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>Heidegger’s<italic>Being and Time</italic>is not primarily concerned with questions of interpretation or understanding. Its driving interest is instead ontological—an interest in the question of the “meaning of being.” Yet inasmuch as the work adopts a thoroughly hermeneuticized approach to ontology—the very focus on the<italic>meaning</italic>of being suggests as such—so the inquiry into ontology also involves Heidegger in an inquiry into the “structure” of understanding. Although the explicitly hermeneutic focus disappears from Heidegger’s later work, still the concern with understanding, thought in terms of a broader happening of disclosedness—a happening of world—can be seen</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Heidegger in Benjaminʹs City</title>
+                  </title-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The work of Walter Benjamin is inextricably bound with the images and ideas associated with the metropolitan spaces and places that figure so prominently in his writing, and in close proximity to which his own life, from his childhood in Berlin to the last years in Paris, was lived. The work of Martin Heidegger, on the other hand, is usually taken to bring with it an almost entirely contrary set of associations—those of the rural and the provincial, of the peasant and the countryside—that can be seen as themselves deriving from Heidegger’s own rootedness in the Alemannic-Swabian countryside,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Working of Art</title>
+                  </title-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>What is the relation between the “objectivity” of an artwork, that is, its material being<italic>as an object</italic>, and its nature<italic>as an artwork</italic>?¹ The relation is surely not an irrelevant or contingent one, and yet its nature is not at all self-evident. Indeed, in the case of some artworks, namely those that fall within the category of certain forms of so-called conceptual art, it might seem as if the material objectivity of the work (where “objectivity” is taken to refer to what we might also call, a little awkwardly in English, the “thingness” of the work) is entirely incidental</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.17</book-part-id>
+                  <title-group>
+                     <title>Epilogue:</title>
+                     <subtitle>Beginning in Wonder</subtitle>
+                  </title-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>“It is through wonder [<italic>thaumazein</italic>],” says Aristotle, “that men now begin and originally began to philosophize”;¹ and as Plato tells us, through the mouth of Socrates, “wonder is the feeling of a philosopher, and philosophy begins in wonder.”² These sayings are well known, and they are also representative of an important thread that runs through much of the Western philosophical tradition.³ Nevertheless, in contemporary philosophy at least, they are seldom reflected upon.</p>
+                     <p>For the most part, it seems, such sayings are taken to indicate that philosophy has its starting point, understood in terms of its motivational or psychological impetus, in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.18</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>269</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.19</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>343</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjp35.20</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

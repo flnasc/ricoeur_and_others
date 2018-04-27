@@ -1,0 +1,478 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt1g2kmsm</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1xhr5td</book-id>
+      <subj-group>
+         <subject content-type="call-number">B2430.L484 F32 2000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Lâvinas, Emmanuel</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Face of the Other and the Trace of God</book-title>
+         <subtitle>Essays on the Philosophy of Emmanuel Levinas</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>edited by</role>
+            <name name-style="western">
+               <surname>Bloechl</surname>
+               <given-names>Jeffrey</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>08</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823219667</isbn>
+      <isbn content-type="epub">9780823241644</isbn>
+      <isbn content-type="epub">0823241645</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1xhr5td"/>
+      <abstract abstract-type="short">
+         <p>The Face of the Other and the Trace of God contain essays on the philosophy of Emmanuel Levinas, and how his philosophy intersects with that of other philosophers, particularly Husserl, Kierkegaard, Sartre, and Derrida. This collection is broadly divided into two parts: relations with the other, and the questions of God.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.4</book-part-id>
+                  <title-group>
+                     <title>EDITOR’S NOTE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.5</book-part-id>
+                  <title-group>
+                     <title>ABBREVIATIONS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.6</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bloechl</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+                  <abstract>
+                     <p>Rather than summarize each contribution in this volume, I wish only to say a few things about their relation to one another, which of course does require me to mention briefly what each author has set out to do. My original intention as editor was simply to gather some older works perhaps less known in the Anglo-American world, augmented by some newer ones. To this I have added the idea of mixing contributions by authors on both sides of the Atlantic, with the obscure aim of asking whether there might be different trends or currents in reading Levinas. A more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>The Body of Difference</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Franck</surname>
+                           <given-names>Didier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Is there a path leading from originary time to the meaning of Being? Is time itself manifest as the horizon of Being?</italic>Heidegger poses these two questions at the end of the existential analytic, where they interrupt<italic>Sein und Zeit</italic>, announcing the section entitled “Time and Being,” at the threshold of which fundamental ontology breaks off provisionally but also, as it has happened, definitively. Can one, in spite of this solution of continuity and the unachieved status of a universal phenomenological ontology, still engage these questions, describing the movement of thought which bears them and to which they are opened</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Phenomenology of Eros:</title>
+                     <subtitle>A Reading of Totality and Infinity, IV.B</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Moyaert</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>30</fpage>
+                  <abstract>
+                     <p>I will limit myself to a fragmentary reading of the chapter from<italic>Totality and Infinity</italic>entitled “The Phenomenology of Eros,” a chapter which, the existence of numerous commentaries and annotations notwithstanding, still can appear as ambiguous and incomprehensive as the very play of eros and desire for the beloved which it both evokes and describes.</p>
+                     <p>The existential phenomena that Levinas takes up are not alien to philosophical discourse. However, in his analysis he does show how in these recognizable experiences there is at work an existential logic which escapes the conceptual framework of a certain ontology and which dislocates from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Encounter with the Stranger:</title>
+                     <subtitle>Two Interpretations of the Vulnerability of the Skin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bernet</surname>
+                           <given-names>Rudolf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>The encounter with the Other has become a central issue in European philosophy of the last fifty years. This “issue” is, however, hardly more than a common name for a great variety of questions. Contemporary philosophical debates on rationalism versus relativism, universalism versus particularism, transculturalism versus multiculturalism, and so forth can be said to circle around the question of the Other as an emblematic figure representing difference, plurality, and strangeness. Political issues concerning the assimilation or integration of strangers, the politics of gender, the treatment of the poor by the rich, of the disabled by the healthy, of non-Europeans by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Alterity of the Stranger and the Experience of the Alien</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bernasconi</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>62</fpage>
+                  <abstract>
+                     <p>The account that Levinas gives in<italic>Totality and Infinity</italic>of the face-to-face relation with the Other (in the sense of the other human being) has now achieved classic status. Its basic characteristics are familiar. First, the face-to-face is not a relation, if that means that it forms a totality. Hence Levinas prefers to use the word “relation” only with some qualification, as when he calls the face-to-face a relation<italic>sui generis</italic>or a “relation without relation” (<italic>Tel</italic>52 and 271/<italic>TI</italic>80 and 295). The terms of the face-to-face absolve themselves from the relation insofar as they are both absolute within</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Sensibility, Trauma, and the Trace:</title>
+                     <subtitle>Levinas from Phenomenology to the Immemorial</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newman</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>Even if the relation with the Other is supposed to be unmediated, and thereby to have a traumatic character, as Emmanuel Levinas claims (<italic>AE</italic>179–85/<italic>OB</italic>141–45), that would not by itself be enough to derive from it an ethical responsibility.¹ There are many kinds of trauma which do not make any kind of ethical claim, which therefore cannot be derived from the structure per se of trauma, unless one were to suppose that the only real trauma were the trauma of the other<italic>person</italic>, of a personal Other rather than a non-personal alterity. If this is not the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Ethics as First Philosophy and Religion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bloechl</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>Following the definition established by Aristotle, ethics examines the relationship between our capacity to mark and repeat certain actions, which includes recognizing rules and giving them to oneself, and the passivity denoted in the fact that experiences and ideas impress themselves on us. The good life consists in managing this activity and passivity on the complex field of economic, social and political life. The primary occasion in which we feel this challenge is the encounter with someone in need, where a face alone is often enough to call forth a response visibly guided by prior education and experience. As many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Bible Gives to Thought:</title>
+                     <subtitle>Levinas on the Possibility and Proper Nature of Biblical Thinking</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burggraeve</surname>
+                           <given-names>Roger</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Faith is mature or fully developed only if it is reflective, that is, only if it involves a thinking interaction with the Scriptures which orient and inspire it. This is not only a crucial element in Levinas’s conception of Judaism, but also says much about how Levinas relates to his own Judaism. I will say more about this in the first part of this essay, sketching his specifically<italic>mitnagged</italic>Jewish background. This, in turn, will explain much of why he argues for what can be called an intellectual lay Judaism.</p>
+                     <p>The biographical information forms my point of departure for a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Significance of Levinas’s Work for Christian Thought</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Peperzak</surname>
+                           <given-names>Adriaan T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>184</fpage>
+                  <abstract>
+                     <p>It is a fact which gives one pause for consideration that in Holland, Belgium, France, the United States, Italy, and South America the work of Emmanuel Levinas has found its greatest readership among Christian philosophers and theologians. Although this work is supported by a long Jewish tradition—even in its strictly philosophical elements—it has impressed many Christians by its orientation, which, despite its great originality, seems familiar to them.</p>
+                     <p>Levinas’s work rings with the voice of a master, not only in the sense of a teacher who translates a common heritage, but also in the sense of a critic</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Commanded Love and Divine Transcendence in Levinas and Kierkegaard</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Westphal</surname>
+                           <given-names>Merold</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>200</fpage>
+                  <abstract>
+                     <p>Levinas’s essay “God and Philosophy” is contemporaneous with<italic>Otherwise Than Being or Beyond Essence</italic>and develops theological implications of the argument left largely unthematized in what we might call the<italic>magnum opus</italic>of Levinas II.¹ Levinas sets the God of the Bible over against “the philosophical discourse of the West” and its interpretation of rationality; and he taunts “rational theology” for accepting “vassalage” to philosophy’s claim to be “the amplitude of an all-encompassing structure or of an ultimate comprehension” which “compels every other discourse to justify itself before philosophy” (<italic>GP</italic>153–54). We are reminded of Heidegger’s critique of onto-theology.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Voice without Name:</title>
+                     <subtitle>Homage to Levinas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marion</surname>
+                           <given-names>Jean-Luc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>224</fpage>
+                  <abstract>
+                     <p>Among the many radical innovations that Emmanuel Levinas has introduced into phenomenology, or imposed on it, there is one which seems most important: that of the appeal. In effect, the appeal has achieved the rank of a concept, or more precisely, to speak the language of the early Husserl, it is a founding phenomenological act (and thus is itself not founded). This imposition became virtually inevitable as soon as Levinas had accomplished two prior revolutions. First was a reversal of centrifugal intentionality, which moves from the ego to the object, into a counter-intentionality moving back toward the ego. Next was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Price of Being Dispossessed:</title>
+                     <subtitle>Levinas’s God and Freud’s Trauma</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Visker</surname>
+                           <given-names>Rudi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>The word “dispossession” is not mine. It comes from Levinas.¹ It is not merely a word among all those others which his thought has bestowed on us, but is its central word, the one word which it cannot give to us, not even if it would wish to do so, for it is a word that his thought does not possess and in a certain sense fails to give to itself. Every thought is busy with such a word, a word around which it circles endlessly without ever finding a place there, without ever setting its foot on the ground</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Adieu—sans Dieu:</title>
+                     <subtitle>Derrida and Levinas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caputo</surname>
+                           <given-names>John D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>276</fpage>
+                  <abstract>
+                     <p>In the Semitic world of desert wanderers, nothing is more important than hospitality. Hospitality is the fundamental condition of survival, an unconditional necessity of life. The duty owed the wanderer and the stranger is holy and inviolable, and without it the world of wanderers would perish by its own hand. To provide a place of respite and refuge, to offer bread and water, even to take food out of one’s own mouth in order to share it with the stranger, in short, to make welcome, that is the law of the land, indeed, that is the law of God (Are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1xhr5td.19</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

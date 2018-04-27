@@ -1,0 +1,324 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2852m9</book-id>
+      <subj-group>
+         <subject content-type="call-number">PR4803.H44Z7176 2010</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Hopkins, Gerard Manley, 1844–1889</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Eliot, T.S. (Thomas Stearns), 1888–1965</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Christian poetry</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Judaism in literature</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Reading the Underthought</book-title>
+         <subtitle>Jewish Hermeneutics and the Christian Poetry of Hopkins and Eliot</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Meyer</surname>
+               <given-names>Kinereth</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Deshen</surname>
+               <given-names>Rachel Salmon</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>27</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813217420</isbn>
+      <isbn content-type="epub">9780813218151</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2010</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt2852m9"/>
+      <abstract abstract-type="short">
+         <p>Reading the Underthought explores the question of how readers from one tradition can approach the poetry of another</p>
+      </abstract>
+      <counts>
+         <page-count count="314"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Religious Poetry and Its Readers</title>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>T. S. Eliot’s 1930 observation that “we naturally prize poetry that reinforces our own beliefs” may at first appear to be a self-evident truism. The important qualification that follows, however, places it at the forefront of contemporary critical discourse. “We are not really entitled to prize such poetry so highly,” Eliot warned, “unless we also make the effort to enter those worlds of poetry in which we are alien.”¹ Over half a century after Eliot wrote these words, we are still trying to conceptualize cross-cultural exchange, to define the ways in which we encounter difference. Geographically and culturally, we live</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Christian and Jewish Hermeneutics</title>
+                  </title-group>
+                  <fpage>35</fpage>
+                  <abstract abstract-type="extract">
+                     <p>How can mainstream Jewish hermeneutics make a significant contribution to the reading of Christian religious poetry? In examining this question, we will need to differentiate classical Jewish hermeneutics from the dominant hermeneutics of Western interpretive practice that has developed from its base in Christian hermeneutics. Limiting ourselves to the rabbinic and patristic periods in Judaism and Christianity (the first six centuries of the Common Era) will enable us to concentrate on the formative era of the hermeneutic approaches familiar to us today. Although our aim is to distinguish between these traditions, it is helpful, initially, to note some important similarities.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Spelling Hopkins’s Leaves</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract abstract-type="extract">
+                     <p>There is nothing in what Hopkins has written to suggest that he ever knew a Jewish person intimately, or felt the need to engage in any sort of polemics with things Jewish. If the early poem “Soliloquy of One of the Spies” (c. 1864) is taken as an example, we may surmise that, like those medieval Christians described by Beryl Smalley,¹ Hopkins may have thought of the Jews of his time in terms of the figures he knew from the Bible. Therefore, based on the available evidence, we would not argue that Hopkins was consciously or even unconsciously influenced by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>“Past All / Grasp God”</title>
+                     <subtitle>A Catachrestic Reading of “The Wreck of the Deutschland”</subtitle>
+                  </title-group>
+                  <fpage>118</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“The Wreck of the Deutschland” (1876) is the earliest Hopkins poem that we discuss, but we have postponed its analysis until we could show the workings of Jewish hermeneutics on poems less fraught with theological content. When Hopkins burned his poems and vowed to write no more before entering the Jesuit order, he could not have foreseen the circumstances that would cause him to repeal his decision. After reading a newspaper account of the shipwreck of the <italic>Deutschland</italic> and of the loss of five Franciscan nuns who had been expelled from Prussia, Hopkins mentioned to the rector of St. Beuno’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Reorderings</title>
+                     <subtitle>Hopkins’s Nature Sonnets and the Terrible Sonnets</subtitle>
+                  </title-group>
+                  <fpage>150</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Two sonnet cycles define themselves sharply within the slim volume of Gerard Manley Hopkins’s mature poetry. The first group, the nature sonnets, was composed swiftly in Wales in 1877, immediately after “The Wreck of the Deutschland” and just before Hopkins’s ordination as a Jesuit priest. The second, labeled “the terrible sonnets” by Robert Bridges, are harder to date individually, but appear to have been written in Dublin shortly before, during, or after 1887.¹ Critics of these sonnets have nearly always adopted a diachronic reading in which sequence is an essential factor in interpretation. Rarely has any motivation other than the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Reading the Alien Text</title>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The text reveals its “Otherness,” argued Gadamer, only when one foregrounds one’s own position, when one remains “aware of one’s own bias.” Understanding the meaning of another does not imply that “we must forget all our fore-meanings concerning the content and all our own ideas. All that is asked is that we remain open to the meaning of the other person or text.” In the case of T. S. Eliot’s poetry, “all that is asked” may turn out to be a great deal. If openness to the other person or text implies situating the Other “in relation to the whole</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>“Ash Wednesday” and Midrash</title>
+                  </title-group>
+                  <fpage>214</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Our second Eliot chapter examines “Ash Wednesday” (1930), a poem connected both chronologically and thematically with “Journey of the Magi” and “A Song for Simeon.”¹ Although “Ash Wednesday” is more transparently personal than “Journey of the Magi” or “A Song for Simeon,” the experience of (spiritually and physically) journeying toward the new dispensation is parallel. By employing strategies used in traditional rabbinic exegesis (especially Midrash), we can describe the experience of reading “Ash Wednesday” as turning on the need to sustain attention to the words of the text without necessarily achieving an interpretive “end” beyond words. Despite our resistance to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>
+                        <italic>Four Quartets</italic>and Wisdom Literature</title>
+                  </title-group>
+                  <fpage>246</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Written between 1935 and 1942, <italic>Four Quartets,</italic> like “Ash Wednesday,” are personal and confessional, reflecting both Eliot’s difficult domestic situation and the experience of the war. The sources of these poems, the significance of the various locations in which they are situated, and the personal experiences that Eliot associated with them are evoked through patterns of imagery and repetition that provide continuity to what were initially published as separate poems.¹ Briefly, the first of the quartets, “Burnt Norton,” is named after the manor house near Chipping Campden, Gloucestershire, which was visited by Eliot and his American friend, Emily Hale,² in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.13</book-part-id>
+                  <title-group>
+                     <title>Afterword, or Another Word</title>
+                  </title-group>
+                  <fpage>275</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Throughout this book, we have been employing a notion of the performative that the work we have done enables us to further clarify. Unlike Austin, we have not assumed that a particular linguistic formulation can itself perform a specific action or determine a certain interpretation. We do not wish to imply that the language of the poems of Hopkins and Eliot, in and of itself, makes our (or anyone else’s) readings happen. Our interest has been, rather, in situating whatever transpires in the middle ground between poem and reader. Thus, our notion of the performative has more in common with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.14</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2852m9.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>305</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

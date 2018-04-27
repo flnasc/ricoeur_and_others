@@ -1,0 +1,585 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cg4m9c</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>All Shall be Well</book-title>
+         <subtitle>Explorations in Universal Salvation and Christian Theology, from Origen to Moltmann</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Macdonald</surname>
+               <given-names>Gregory</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>10</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780227680285</isbn>
+      <isbn content-type="epub">9780227902981</isbn>
+      <publisher>
+         <publisher-name>The Lutterworth Press</publisher-name>
+         <publisher-loc>Cambridge</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Wipf and Stock Publishers</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cg4m9c"/>
+      <abstract abstract-type="short">
+         <p>Universalism runs like a slender thread through the history of Christian theology. Over the centuries Christian universalism, in one form or another, has been reinvented time and time again. In this book an international team of scholars explore the diverse universalisms of Christian thinkers from the Origen to Moltmann. In the introduction Gregory MacDonald argues that theologies of universal salvation occupy a space between heresy and dogma. The studies in this collection aim, in the first instance, to hear, understand, and explain the eschatological claims of a range of Christians from the third to the twenty-first centuries. They also offer some constructive, critical engagement with those claims.</p>
+      </abstract>
+      <counts>
+         <page-count count="447"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.3</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Between Heresy and Dogma</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MacDonald</surname>
+                           <given-names>Gregory</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>At the most simple level Christian universalism is the belief that God will (or, in the case of “hopeful universalism,”<italic>might</italic>) redeem all people through the saving work of Christ. Within the history of Christianity such a belief has been a minority sport, and those who have embraced it have been, with some notable exceptions, not very well known. Indeed, it would probably be true to say that for most of Christian history the majority of Christians have thought that such a belief was outside the bounds of orthodoxy. In the minds of the majority it was simply a<italic>given</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Apokatastasis:</title>
+                     <subtitle>Particularist Universalism in Origen (c. 185–c. 254)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Greggs</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>Origen grew up in a Christian family, spending his formative years studying and then teaching in Alexandria, before moving to Caesaria where he continued to teach and also to preach. He lived through a period of persecution: his father was matyred and he himself is thought to have died as the result of injuries sustained through the Decian persecution. Origen is famed for many things: he is arguably the first ever systematic theologian, and his<italic>De Principiis</italic>is perhaps the first attempt at a thorough-going dogmatics; he was an avid biblical commentator and exegete; he revived the theological school in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Subjection of All Things in Christ:</title>
+                     <subtitle>The Christocentric Universalism of Gregory of Nyssa (331/340–c. 395)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harmon</surname>
+                           <given-names>Steven R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>I first encountered the thought of Gregory of Nyssa, the youngest of the three great “Cappadocian Fathers” of the fourth century and arguably the most enduringly significant constructive theologian among them, in an undergraduate course in Christian doctrine. Like many beginning students in Christian theology, I was introduced to Gregory in connection with atonement theory. In the tradition of Protestant systematic theologies that list five or six major atonement theories chronologically and then evaluate their strengths and weaknesses, my textbook identified Gregory as a major representative of the “classical” or “ransom theory of the atonement.² According to Gregory’s development of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Sin Has Its Place, but All Shall Be Well:</title>
+                     <subtitle>The Universalism of Hope in Julian of Norwich (c. 1342–c. 1416)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sweetman</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>66</fpage>
+                  <abstract>
+                     <p>Julian of Norwich has a high profile these days. This is surely no accident. In an age that has become sensitive to the wisdom sounding in voices historically less heeded, she speaks as a medieval woman. In an age that has learned to wonder whether the systematic discourses of reason penetrate to those mysteries lying at the very heart of things, she speaks in the language of mystical revelation. Moreover, among the female, medieval, and mystical voices we have been minded to listen to anew, hers is one of the most mellifluous. I mean that her voice attracts us. It</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Love Is All and God Is Love:</title>
+                     <subtitle>Universalism in Peter Sterry (1613–1672) and Jeremiah White (1630–1707)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hickman</surname>
+                           <given-names>Louise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Universalism was a doctrine not widely espoused in seventeenth-century England. That hell is eternal was orthodox belief¹ and any suggestion to the contrary was viewed with grave suspicion as a “detestable and damnable” doctrine of the Arminians;² an opinion believed to give rise to ethical anarchy and antinomianism. If hell is finite, what sort of deterrent is it against misbehaving in this life? What use is Christ’s death if God can cancel the debt of human sin by will alone? Despite general denigration, however, arguments that God’s salvation has universal scope gradually gathered momentum throughout the seventeenth and eighteenth centuries.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Union with Christ:</title>
+                     <subtitle>The Calvinist Universalism of James Relly (1722–1778)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clymer</surname>
+                           <given-names>Wayne K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>In 1770 John Murray came to America,² and in a few years was recognized as the foremost advocate of universalism in that country. Today he is heralded by many as “the Father of [denominational] Universalism.” The Universalist Church is well aware of its debt to this apostle, but the indebtedness of John Murray to James Relly is not seldom overlooked. Murray claimed no originality for the framework of his theology, and unhesitatingly admitted that his doctrines were those preached and published by his Welsh friend whose acquaintance he had made several years before coming to America. When the news of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Between Calvinism and Arminianism:</title>
+                     <subtitle>The Evangelical Universalism of Elhanan Winchester (1751–1797)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Parry</surname>
+                           <given-names>Robin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Elhanan Winchester was born on September 30, 1751, in Muddy Water Village (later renamed Brookline) outside of Boston, New England—a fifth-generation American colonist. As a boy Elhanan received a common education and did not go to university but he was blessed with a good memory and a capacity for languages. He mastered Hebrew, Greek, Latin, and French, all of which he put to use in his later ministry. He grew up imbibing moderate Calvinist theology in the local Congregational church and while he later came to repudiate aspects of this theology, it continued to inform his Christian thinking until</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Salvation in Community:</title>
+                     <subtitle>The Tentative Universalism of Friedrich Schleiermacher (1768-1834)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rae</surname>
+                           <given-names>Murray</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>The theology of Friedrich Schloiermacher arose from the atempt to consider in relation to one another the New Testament witness to Jesus Christ and the contents of human consciousness. For Schleiermacher, the New Testament and human consciousness provided jointly authoritative testimony to the being of God, but Schleiermacher was well aware of the predilections of his age, particularly the growing skepticism about biblical authority and the increased confidence in the deliberations of the rational mind. G. E. Lessing (1729–1781), who represented well the intellectual climate in which Schleiermacher wrote contended that the testimony of the New Testament “no longer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Postmortem Education:</title>
+                     <subtitle>Universal Salvation in Thomas Erskine (1788–1870)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Horrocks</surname>
+                           <given-names>Don</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>The evangelical tradition has virtually co-existed, albeit uneasily, with concepts of universal salvation. If the period from 1730 to the mid-1800s is accepted as the heyday of evangelical Protestantism as a movement, its classic conversionist, crucicentrist, biblicist, activist expression² remained paramount throughout. Liberalizing trends were strongly resisted, and incipient universalist tendencies were strenuously repudiated. Faced with challenges to depart from what it saw as an established, traditional, biblical, and doctrinal position with regard to salvation, judgment, and eternal punishment, reaction was usually swift and hostile, often prompting simultaneous renaissance of historic definitive positions. Denial of eternal punishment and embrace of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>The Just Mercy of God:</title>
+                     <subtitle>Universal Salvation in George MacDonald (1824–1905)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Talbott</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>Born and raised in Aberdeenshire, Scotland, the Victorian visionary and prolific writer George MacDonald achieved enormous popularity in his own day both as an imaginative storyteller and as an authentic prophetic voice. “Between 1851 and 1897,” notes Frederick Buechner in the forward to Rolland Hein’s biography, “he wrote over fifty books—novels, plays, essays, sermons, poems, fairy tales, not to mention two fantasies for adults (<italic>Phantastes</italic>, 1858, and<italic>Lilith</italic>, 1895) that elude the usual categories.”¹ His friendship with Lewis Carroll (the penname for Charles Dodgson, 1832–1898) was very close, and he also made friends with such luminaries as Henry</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Final Sanity Is Complete Sanctity:</title>
+                     <subtitle>Universal Holiness in the Soteriology of P. T. Forsyth (1848–1921)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goroncy</surname>
+                           <given-names>Jason A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>Upon his return from Göttingen in September 1872, Peter Taylor Forsyth (1848–1921) enrolled himself as a theology undergraduate (on probation) at New College London. By the time the young Aberdonian had resigned in 1874, two meetings had occurred that were to have a lasting effect upon him. First, he met Maria Hester (Minna) Magness, whom he married in 1877. Second, he came under the influence of James Baldwin Brown (1820–1884), Congregationalism’s mediator of F. D. Maurice (1805–1872). In fact, it may have been Brown who first drew Forsyth to London, Forsyth traveling the six and a half</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Judgment of Love:</title>
+                     <subtitle>The Ontological Universalism of Sergius Bulgakov (1871–1944)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gavrilyuk</surname>
+                           <given-names>Paul L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>Fr. Sergius Bulgakov (1871–1944) is a towering figure on the horizon of twentieth-century Eastern Orthodox theology. Despite the growing attention to various aspects of his thought among Western theologians, his universalism continues to be ignored in the surveys of modern eschatology.² Yet, as this chapter will show, Bulgakov’s eschatological vision is unsurpassed in its breadth in Russian thought and rivals the theological proposals of those modern theologians who for different reasons have rejected the eternity of hell.</p>
+                     <p>Bulgakov was preoccupied with eschatological themes throughout his life.³ As a child he was constantly confronted with the sacramental dimension of death:</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>“I Do Teach It, but I Also Do Not Teach It”:</title>
+                     <subtitle>The Universalism of Karl Barth (1886-1968)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Crisp</surname>
+                           <given-names>Oliver D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>305</fpage>
+                  <abstract>
+                     <p>In this chapter, I will defend the following thesis: The seope of human salvation tnvisaged in the theology of Karl Barth is ctthcr a species of universalism, or comprises s·evernl distinct. incompatible strnnds of doctrine that he does not finally resolve.¹ I remain convinced that it is the right way to think about Barth’s understanding of the scope of human salvation, despite the fact that most Barth scholars seem unwilling to draw this conclusion. I will also offer some explanation as to why many Barth scholars have thought his position both internally consistent and non-universalistic. Though I do not think</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>The Totality of Condemnation Fell on Christ:</title>
+                     <subtitle>Universal Salvation in Jacques Ellul (1912–1994)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Goddard</surname>
+                           <given-names>Andrew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>The French Reformed lay theologian Jacques Ellul is probably better known for his original and insightful work in social analysis and critique rather than in theology, and yet his wrestling with issues of hell and universal salvation offer some original insights for contemporary theology. In one sense the focus on his sociological works is not surprising given his area of academic expertise. His original degree was in law and, from the end of the Second World War until his retirement in 1980, he served as the Professor of the History and Sociology of Institutions in the Law Faculty of Bordeaux</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.18</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>In the End, God . . . :</title>
+                     <subtitle>The Christian Universalism of J. A. T. Robinson (1919–1983)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hart</surname>
+                           <given-names>Trevor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>355</fpage>
+                  <abstract>
+                     <p>John Robinson is best remembered nowadays as an<italic>agent provocateur</italic>in ecclesial and theological terms. The self-confessed “radical”¹ became a household name more or less overnight in the early 1960s due to two particular acts of self-conscious provocation. First he appeared at the Old Bailey to defend Penguin Books against charges of obscenity in connection with their publication of an unexpurgated text of<italic>Lady Chatterley’s Lover</italic>.² Then, just as the dust was settling and the press pack losing interest, Robinson published his own “sensational” paperback,<italic>Honest to God</italic>—a popular work designed to introduce the “man on the Clapham omnibus”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.19</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Christ’s Descent into Hell:</title>
+                     <subtitle>The Hopeful Universalism of Hans Urs von Balthasar (1905–1988)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Oakes</surname>
+                           <given-names>Edward T.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>382</fpage>
+                  <abstract>
+                     <p>The many controversies provoked by Christian theology can be usefully, if roughly, divided into two genera: those controversies raised by outsiders who reject Christian doctrines entirely (like the existence of God or the resurrection of Jesus), and those that arise inside the precincts of the Christian theology (like the relationship between justification and works, or the atonement for sin won by Jesus on the cross). Inside that latter genus, no controversy has been more heated recently than the question of universal salvation.</p>
+                     <p>At first glance, this new controversy might seem puzzling. Has not the condemnation of Origenism settled the matter?</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.20</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>Hell and the God of Love:</title>
+                     <subtitle>Universalism in the Philosophy of John Hick (1922–)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hall</surname>
+                           <given-names>Lindsey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>400</fpage>
+                  <abstract>
+                     <p>John Hick is probably best known for his work on the relationship between Christianity and the other world religions. He is a philosopher of religion who, over the course of a lifetime spent in academia, has constantly revised and developed his beliefs. Hick has ended up, theologically speaking, a very long way from where he started off. As a young man, he had a conversion experience which he described as an increasing awareness of the presence of God.¹ This was the beginning of a long spiritual journey which quickly moved from the “conservative evangelical” world to more liberal expressions of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.21</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>The Annihilation of Hell and the Perfection of Freedom:</title>
+                     <subtitle>Universal Salvation in the Theology of Jürgen Moltmann (1926–)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ansell</surname>
+                           <given-names>Nik</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>417</fpage>
+                  <abstract>
+                     <p>“[T]he theology of the cross,” writes Moltmann in his early work The Crucified God, “is the true Christian universalism. There is no distinction here, and there cannot be any more distinctions. All are sinners without distinction, and all will be made righteous without any merit on their part by his grace which has come to pass in Christ Jesus (Rom 3:24).” Christ’s atonement for our sins is truly unlimited. That “God’s Son has died for all,” says Moltmann, “must undermine, remove, and destroy the things which mark men out as elect and non-elect.”²</p>
+                     <p>While Moltmann’s distinctive case for universal salvation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cg4m9c.22</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>440</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

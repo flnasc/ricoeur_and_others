@@ -1,0 +1,836 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt45kc24</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt14brqd4</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Playful Identities</book-title>
+         <subtitle>The Ludification of Digital Media Cultures</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Frissen</surname>
+               <given-names>Valerie</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Lammes</surname>
+               <given-names>Sybille</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>de Lange</surname>
+               <given-names>Michiel</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib4">
+            <name name-style="western">
+               <surname>de Mul</surname>
+               <given-names>Jos</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib5">
+            <name name-style="western">
+               <surname>Raessens</surname>
+               <given-names>Joost</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>01</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9789089646392</isbn>
+      <isbn content-type="epub">9789048523030</isbn>
+      <publisher>
+         <publisher-name>Amsterdam University Press</publisher-name>
+         <publisher-loc>Amsterdam</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>All authors / Amsterdam University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt14brqd4"/>
+      <abstract abstract-type="short">
+         <p>In<italic>Playful Identities</italic>, eighteen scholars examine the increasing role of digital media technologies in identity construction through play. Going beyond computer games, this interdisciplinary collection argues that present-day play and games are not only appropriate metaphors for capturing postmodern human identities, but are in fact the means by which people create their identity. From discussions of World of Warcraft and Foursquare to digital cartographies, the combined essays form a groundbreaking volume that features the most recent insights in play and game studies, media research, and identity studies.</p>
+      </abstract>
+      <counts>
+         <page-count count="334"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.3</book-part-id>
+                  <title-group>
+                     <label>1.</label>
+                     <title>Homo ludens 2.0:</title>
+                     <subtitle>Play, media, and identity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frissen</surname>
+                           <given-names>Valerie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lammes</surname>
+                           <given-names>Sybille</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Lange</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Mul</surname>
+                           <given-names>Jos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raessens</surname>
+                           <given-names>Joost</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>A playful specter is haunting the world. Since the 1960s, when the use of the word “ludic” became popular in both Europe and the US to designate playful behavior and artifacts, playfulness has become increasingly a mainstream characteristic of modern and postmodern culture. In the first decade of the 21st century we can even speak of the global “ludification of culture” (Raessens 2006; 2014). Perhaps the first thing that comes to mind in this context is the immense popularity of computer games, which, as far as global sales are concerned, have already outstripped Hollywood movies. In the US, 8- to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.4</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part I</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frissen</surname>
+                           <given-names>Valerie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lammes</surname>
+                           <given-names>Sybille</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Lange</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Mul</surname>
+                           <given-names>Jos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raessens</surname>
+                           <given-names>Joost</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>This part of the book sheds light on how play, as it was described in the introductory chapter, actually manifests itself in present-day culture. The authors in this section examine different contemporary expressions of playfulness, varying from people engaging with games, Do-It-Yourself (DIY) computer technologies, or social networks. The contributions in this section substantiate our earlier claims that play is also culturally determined and has different functions in different cultural settings. So we may speak of the current ludification of culture as evidence that play is mutable, and that what this transformation entails is versatile in scope and character. Together</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.5</book-part-id>
+                  <title-group>
+                     <label>2.</label>
+                     <title>Playland:</title>
+                     <subtitle>Technology, self, and cultural transformation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gergen</surname>
+                           <given-names>Kenneth J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>I opened the morning newspaper and was greeted with a front-page, banner-size headline and photo touting the dramatic win of the city’s professional football team. The account of the game bristled with excitement. In smaller print at the top of the page was a report on the winning ways of a local basketball team. It was only in the nether regions of the page that I discovered reports on national and international affairs, all properly phrased in the monochromatic tones of impartial objectivity. Struck by the attention given to matters of sport, I became curious about the general content of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.6</book-part-id>
+                  <title-group>
+                     <label>3.</label>
+                     <title>Spiritual play:</title>
+                     <subtitle>Encountering the sacred in World of Warcraft</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aupers</surname>
+                           <given-names>Stef</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>The classical work<italic>Homo ludens</italic>(1938) by Dutch historian Johan Huizinga is constantly revisited and generally understood as an indisputable point of departure in the academic debate about modern play (see the introductory chapter of this volume). Huizinga’s work is currently used as a standard reference for game designers (e.g. Crawford 2003; Salen and Zimmerman 2004) and in game studies (e.g. Consalvo 2009; Copier 2005; Taylor 2006; Dibbell 2006). It has even been argued that Huizinga is a “pop icon in game studies”, while his seventy-five year old theory about play anachronistically functions as a “prehistory” and legitimation of this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.7</book-part-id>
+                  <title-group>
+                     <label>4.</label>
+                     <title>Playful computer interaction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cermak-Sassenrath</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>For a long time the computer was a tool for experts, inaccessible and also prohibitively expensive for private users. This changed in the mid-1980s. The increasingly widespread use of the computer and the growing experience of its users have since led to a new kind of interaction. In many cases the computer is no longer seen as a machine with which well-planned, methodical, or repetitive tasks are conducted. The interaction¹ with it is now perceived as an open-ended process characterized by creative, explorative, goal-oriented, and challenging activities. Connected with this process is self-directed learning, experimental tinkering around, and the self-gambling</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.8</book-part-id>
+                  <title-group>
+                     <label>5.</label>
+                     <title>Playful identity in game design and open-ended play</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deen</surname>
+                           <given-names>Menno</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schouten</surname>
+                           <given-names>Ben</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bekker</surname>
+                           <given-names>Tilde</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>Gamers are, like Yamauchi, described as nonconformist, creative, and self-confident persons, who seem unafraid to make mistakes (Beck and Wade 2004). Is it true that games present us with an opportunity to develop a particular identity, or are specific people attracted to games that create these opportunities? In the last decade, research has been conducted into the (playful) organizational style of gamers, and into the leadership qualities that may be developed in a game (DeMarco, Lesser, and O’Driscoll 2007; Reeves and Malone 2007). The search for an answer to the above question is the aim of this chapter. To be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.9</book-part-id>
+                  <title-group>
+                     <label>6.</label>
+                     <title>Breaking reality:</title>
+                     <subtitle>Exploring pervasive cheating in Foursquare</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Glas</surname>
+                           <given-names>René</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>131</fpage>
+                  <abstract>
+                     <p>These song lyric lines accompanied a badge I earned in February 2010 while using<italic>Foursquare</italic>on my mobile phone. This location-based social network service, created by Dennis Crowley and Naveen Selvadurai and launched in 2009, offers its users the opportunity to check in at real-world venues, earning rewards (like badges) in the process. The badge I was rewarded, appropriately called “I’m on a Boat!”, is the reward for the first time you actually check in on a boat in real life.</p>
+                     <p>The problem, however, is that I never actually was on a boat. I checked in at Amsterdam Central Station</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.10</book-part-id>
+                  <title-group>
+                     <label>7.</label>
+                     <title>Playing with bits and bytes:</title>
+                     <subtitle>The savage mind in the digital age</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frissen</surname>
+                           <given-names>Valerie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>This chapter focuses on the relation between play and the practices of technological modification and innovation.¹ Playing with technologies has always been an important driving force behind technological transformation. This is even more the case in the digital era, which has given rise to a lively Do-It-Yourself (DIY) culture, in which amateurs and ordinary users have become prominent players in the technological game. It is argued that play offers an interesting angle to understand the characteristics of this DIY culture. In the digital DIY culture technology is used and tinkered with in an open-ended way. In the process of playing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.11</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part II</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frissen</surname>
+                           <given-names>Valerie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lammes</surname>
+                           <given-names>Sybille</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Lange</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Mul</surname>
+                           <given-names>Jos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raessens</surname>
+                           <given-names>Joost</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>The authors in this part of the book all look at how contemporary media technologies afford playful interactions. Underpinning all chapters are questions pertaining to power and agency. Do digital media mark a shift in how the user as player engages with and has agency in everyday life, and if so, do we need a new vocabulary to understand this engagement properly? The authors in this section of the book share a special interest in how specific digital technologies and genres can be approached as playful media. They interrogate how play can be defined in contemporary media cultures, be it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.12</book-part-id>
+                  <title-group>
+                     <label>8.</label>
+                     <title>Location-based mobile games:</title>
+                     <subtitle>Interfaces to urban spaces</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Souza e Silva</surname>
+                           <given-names>Adriana</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frith</surname>
+                           <given-names>Jordan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Location-aware mobile technologies produce different forms of control. Parents give their children “chaperone” phones equipped with GPS to control where they might go. Parole officers remotely control parolees’ mobility patterns to restrict the places they can visit (Shklovski et al. 2009; Troshynski, Lee, and Dourish 2008). People use their GPS-phone mapping capabilities to feel familiar with their surrounding environment, leading to the belief they are able to “control” the chaos of urban spaces. Other location-aware applications, such as location-based mobile games (LBMGs)¹, allow players to “filter” their environment by selecting the people and things they want to see. By simultaneously</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.13</book-part-id>
+                  <title-group>
+                     <label>9.</label>
+                     <title>The playful use of mobile phones and its link to social cohesion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ling</surname>
+                           <given-names>Rich</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>This chapter will examine how people’s playful use of the mobile phone supports social cohesion. It is true that there are a variety of ways that we use mobile telephones. We can use them to tell time, take pictures, listen to music, keep our appointment calendar, and note down memos. On advanced phones we can surf the web, sign up to play commercial multiplayer games, find directions, and sign in on social network sites. Among all these flashy applications it is important to remember that we can also talk to and text one another. Indeed it is these last functions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.14</book-part-id>
+                  <title-group>
+                     <label>10.</label>
+                     <title>Digital cartographies as playful practices</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lammes</surname>
+                           <given-names>Sybille</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>My neighbor recently looked up a Google Street View image of his tattoo parlor in Amsterdam. He noticed that his bicycle was parked in front of his shop, so he gathered that the specially equipped cars that made the panoramic photographs were traversing the city on one of his working days. Becoming intrigued he returned to the map and looked up the school of his children, whom he always picks up after school on his non-working days. On the Google Street View image a crowd of parents were gathering outside the school building. So he figured that the picture must</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.15</book-part-id>
+                  <title-group>
+                     <label>11.</label>
+                     <title>Ludic identities and the magic circle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Calleja</surname>
+                           <given-names>Gordon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Johan Huizinga’s work has received renewed attention with the emergence and expansion of Game Studies. An important aspect of Huizinga’s explication of play is its bounded nature. Like other cultural artefacts Huizinga describes in<italic>Homo ludens</italic>(1955), the act of game playing requires the crossing of a boundary that marks the game from the ordinary world. The crossing of this boundary into game-space implies a shift in the players’ identity that takes them from their everyday, “ordinary” selves, into their ludic selves. Suits has described this as the “lusory attitude” (1978, 52); a disposition one enters into when interacting with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.16</book-part-id>
+                  <title-group>
+                     <label>12.</label>
+                     <title>Play (for) time</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Crogan</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Through their deployment of interactivity, virtualization, and simulation, video games are prime examples of the contemporary form of what philosopher of technology Bernard Stiegler has termed the “industrial temporal object” (2009, 241). This is his term for mass produced media works designed to provide experiences that unfold over time through the user’s provision of his/her conscious attention. From the phonograph’s replaying of musical performances, to editing together film shots and the compilation of longer sequences of experience in television scheduling, to the design of systems for user-configured perceptions in newer media forms, industrial temporal objects have played an increasingly significant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.17</book-part-id>
+                  <title-group>
+                     <label>13.</label>
+                     <title>Playful identity politics:</title>
+                     <subtitle>How refugee games affect the player’s identity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raessens</surname>
+                           <given-names>Joost</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>Contemporary computer games are increasingly being used both to entertain people as well as to “educate, train, and inform” them (Michael and Chen 2006). Refugee games belong to this so-called genre of “serious games”: these games frame refugee issues by letting the player taste life as a refugee. Refugee games have the potential to convince players of the veracity of a certain point of view or the necessity of a behavioral change. But they also help non-profit organizations (such as the United Nations and Free Press Unlimited) and commercial enterprises (such as Reebok, the music channel MTV, Microsoft, and Konami)</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.18</book-part-id>
+                  <title-group>
+                     <title>Introduction to Part III</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frissen</surname>
+                           <given-names>Valerie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lammes</surname>
+                           <given-names>Sybille</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Lange</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Mul</surname>
+                           <given-names>Jos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Raessens</surname>
+                           <given-names>Joost</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>The contributions in the third part of the book look at how digital media technologies shape human identities in playful ways. A common thread that weaves through these chapters is that media technologies and practices mediate how people identify with others, the world, and themselves. When new media technologies rise to the fore the mediation of identity changes along with it, and play offers a range of fruitful perspectives to understand these changes. Another common thread in these chapters involves questioning the intricate connections between play and everyday life. From being a more or less separate space for experimenting with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.19</book-part-id>
+                  <title-group>
+                     <label>14.</label>
+                     <title>Playing out identities and emotions</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jansz</surname>
+                           <given-names>Jeroen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>These excerpts, taken from interviews with gamers who were asked why they like to play their favorite game, illustrate that people’s attractions to games are manifold.¹ Teenager Dirk seems to identify with the physical appearance of his game character, whereas Leontien fantasizes about being an Amazon. Arie communicates the appeal of violent content, as does Cor who also explains the unique properties of the virtual world.</p>
+                     <p>In this chapter, I will develop a specific answer to the question why people are attracted to playing video games, including ones with a violent, if not atrocious content. Central to my argument is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.20</book-part-id>
+                  <title-group>
+                     <label>15.</label>
+                     <title>Playing with others:</title>
+                     <subtitle>The identity paradoxes of the web as social network</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Timmermans</surname>
+                           <given-names>Jeroen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>In this chapter I zoom in on one of the characteristic paradoxes of modern, mediated identities, forged from a peculiar mix of individual interests and collective behavior, that can be encountered in people’s use of social network sites in particular. I tentatively explore the ramifications of the World Wide Web as a social medium, in which playful, light, frivolous self-presentation of people seems to be accompanied by the serious task of coping with social pressures induced by omnipresent (communication) media. The focus here is on social network sites and the paradox they create between being alone in front of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.21</book-part-id>
+                  <title-group>
+                     <label>16.</label>
+                     <title>New media, play, and social identities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fortunati</surname>
+                           <given-names>Leopoldina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>In this chapter I focus on the motivations behind the current relationship between new media, play, and social identities in a framework of general, sociological categories. In particular, I intend to situate my analysis at the juncture between ludic culture, social control, and the social construction of the “ir-responsible” identity. The reason for this choice is that contemporary ludic culture can be quite well understood in light of the current imposition of social control and the mass resistance that is building against it. I am interested in answering the following research question: what is the meaning and the social function</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.22</book-part-id>
+                  <title-group>
+                     <label>17.</label>
+                     <title>Playing life in the metropolis:</title>
+                     <subtitle>Mobile media and identity in Jakarta</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Lange</surname>
+                           <given-names>Michiel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>307</fpage>
+                  <abstract>
+                     <p>How do mobile media technologies shape the identities of city dwellers? In Indonesia the mobile phone – or<italic>handphone</italic>– has rapidly gained in popularity (Figure 1). Reasons include the lagging state of fixed telephony in homes; its affordability even for low-income people; and omnipresent branding that induces an acute sense of “must have”. Most importantly and central in this chapter, mobile phones offer urban Indonesians rich opportunities for identity construction and expression. In this chapter, I look at how mobile media shape the construction and performance of identities that are specific to life in Indonesia’s capital city, Jakarta. Jakarta is both</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.23</book-part-id>
+                  <title-group>
+                     <label>18.</label>
+                     <title>The conflicts within the casual:</title>
+                     <subtitle>The culture and identity of casual online play</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mäyrä</surname>
+                           <given-names>Frans</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>It is relatively easy to find examples of deep, immersive play that has effects on personal or social identity: an intensive psychodrama, live action role-play, and even some massively multiplayer online (MMO) game players report experiences that have affected the ways they perceive themselves, or human condition in general. Most of contemporary play, however, is not deep or transformative in a similar manner. This article will focus on casual gameplay that takes place in common games such as Solitaire, or more recently games such as<italic>FarmVille</italic>(which peaked at 80 million active players in February 2010), as well as through</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.24</book-part-id>
+                  <title-group>
+                     <label>19.</label>
+                     <title>Afterplay</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Mul</surname>
+                           <given-names>Jos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>337</fpage>
+                  <abstract>
+                     <p>In the introductory chapter of this volume we proclaimed a global “ludification of culture” and have argued that playful technologies, which have been embraced worldwide with great enthusiasm in the past decades, have profoundly affected our identities. We have demonstrated how our narrative identity, as part and parcel of a centuries-old book culture, has in the past decades been complemented, and even partly replaced by, more playful types of identities. The subsequent chapters in this volume have analyzed and interpreted<italic>Homo ludens 2.0</italic>by focusing on the different dimensions of our new state of play from a variety of disciplinary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.25</book-part-id>
+                  <title-group>
+                     <title>About the authors</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.26</book-part-id>
+                  <title-group>
+                     <title>Index of Names</title>
+                  </title-group>
+                  <fpage>353</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.27</book-part-id>
+                  <title-group>
+                     <title>Index of Subjects</title>
+                  </title-group>
+                  <fpage>359</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt14brqd4.28</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>365</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

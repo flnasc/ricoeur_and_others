@@ -1,0 +1,1404 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1pwt6wq</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Making Things and Drawing Boundaries</book-title>
+         <subtitle>Experiments in the Digital Humanities</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Sayers</surname>
+               <given-names>Jentery</given-names>
+            </name>
+            <role>EDITOR</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>01</month>
+         <year>2018</year>
+      </pub-date>
+      <isbn content-type="ppub">9781517902858</isbn>
+      <isbn content-type="epub">9781452955957</isbn>
+      <isbn content-type="epub">1452955956</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.5749/j.ctt1pwt6wq"/>
+      <abstract abstract-type="short">
+         <p>In<italic>Making Things and Drawing Boundaries</italic>, critical theory and cultural practice meet creativity, collaboration, and experimentation with physical materials as never before. Foregrounding the interdisciplinary character of experimental methods and hands-on research, this collection asks what it means to "make" things in the humanities. How is humanities research manifested in hand and on screen alongside the essay and monograph? And, importantly, how does experimentation with physical materials correspond with social justice and responsibility? Comprising almost forty chapters from ninety practitioners across twenty disciplines,<italic>Making Things and Drawing Boundaries</italic>speaks directly and extensively to how humanities research engages a growing interest in "maker" culture, however "making" may be defined.</p>
+         <p>Contributors: Erin R. Anderson; Joanne Bernardi; Yana Boeva; Jeremy Boggs; Duncan A. Buell; Amy Burek; Trisha N. Campbell; Debbie Chachra; Beth Compton; Heidi Rae Cooley; Nora Dimmock; Devon Elliott; Bill Endres; Katherine Faull; Alexander Flamenco; Emily Alden Foster; Sarah Fox; Chelsea A. M. Gardner; Susan Garfinkel; Lee Hannigan; Sara Hendren; Ryan Hunt; John Hunter; Diane Jakacki; Janelle Jenstad; Edward Jones-Imhotep; Julie Thompson Klein; Aaron D. Knochel; J. K. Purdom Lindblad; Kim Martin; Gwynaeth McIntyre; Aurelio Meza; Shezan Muhammedi; Angel David Nieves; Marcel O'Gorman; Amy Papaelias; Matt Ratto; Isaac Record; Jennifer Reed; Gabby Resch; Jennifer Roberts-Smith; Melissa Rogers; Daniela K. Rosner; Stan Ruecker; Roxanne Shirazi; James Smithies; P. P. Sneha; Lisa M. Snyder; Kaitlyn Solberg; Dan Southwick; David Staley; Elaine Sullivan; Joseph Takeda; Ezra Teboul; William J. Turkel; Lisa Tweten.</p>
+      </abstract>
+      <counts>
+         <page-count count="448"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>[i]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>[vii]</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.3</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>“I Don’t Know All the Circuitry”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAYERS</surname>
+                           <given-names>JENTERY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Well, I don’t know all the circuitry, but I can do first aid,” said artist Laurie Anderson in October 1981. She was responding to Rob La Frenais, who asked her a few questions about hardware (in La Frenais 140). By 1981, Anderson had worked extensively with technologies as art forms. In 1977, she built a tape bow violin with Bob Bielecki. Substituting magnetic tape for horsehair and a tape head for a bridge, she bowed audio, distorting it by playing canned sounds forward and backward across a range of speeds (Collins 50). Her approach transformed a recording and playback technology</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.4</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>The Boundary Work of Making in Digital Humanities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KLEIN</surname>
+                           <given-names>JULIE THOMPSON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Debates on digital humanities are sites of boundary work in a history of arguments about the nature of the field. Boundary work is a composite label for the claims, activities, and structures by which individuals and groups create, maintain, break down, and reformulate boundaries between knowledge units (Fisher 13–14; Klein,<italic>Crossing</italic>1–2). Thomas Gieryn coined the term in 1983 in a study of demarcating science from non-science. It is an ideological style that constructs boundaries rhetorically in three ways: by expanding authority or expertise into domains claimed by other professions or occupations, by monopolizing authority and resources, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>On the “Maker Turn” in the Humanities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STALEY</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>32</fpage>
+                  <abstract>
+                     <p>The move to read big data in the humanities necessitates new forms of reading, new types of interpretation. As we consider macro-level readings of large corpora, visualization is especially helpful. The most effective way to draw meaning from large data sets is through visual forms and patterns. Stephen Ramsay (2011) makes a claim for “the primacy of pattern as the basic hermeneutical function” (xi), meaning the display of visual patterns is a form of interpretation. Rather than “translating” those patterns into textual form, humanists can retain them as evidence of reading. Ramsay maintains that visual forms do indeed constitute a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Vibrant Lives Presents The Living Net</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAJKO</surname>
+                           <given-names>JESSICA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WERNIMONT</surname>
+                           <given-names>JACQUELINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STANDLEY</surname>
+                           <given-names>EILEEN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAJKO</surname>
+                           <given-names>STJEPAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KRZYZANIAK</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>
+                        <italic>The Living Net</italic>is one of several techno-textile projects created by the Vibrant Lives team. Using our Vibrant Lives app, we transform the network activity—or “data shed”—of event participants into a sound file that then plays through subsonic subwoofers, thereby causing the Living Net to vibrate at a variable rate depending on the amount of data being shed.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>A Literacy of Building:</title>
+                     <subtitle>Making in the Digital Humanities</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ENDRES</surname>
+                           <given-names>BILL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>44</fpage>
+                  <abstract>
+                     <p>In 2011, Steven Ramsay caused controversy when he gave his provocative talk at the Modern Language Association: “Who’s In and Who’s Out.” Ramsay claimed, “Digital Humanities is about building things.” While scholars criticized Ramsay for being exclusionary, they ironically ignored the fact that building has been generally excluded from tenure and promotion guidelines in the humanities.</p>
+                     <p>Building faces the challenge of not being writing. However, the commonalities between writing and building far exceed their differences. The present circumstances that exclude building from institutional rewards, especially tenure and promotion, have more to do with the institutionalization of scholarship. As Kenneth Burke</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>MashBOT</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURGESS</surname>
+                           <given-names>HELEN J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>MashBOT consists of a small thermal receipt printer connected to Twitter via an Arduino microcontroller. Love notes are generated using Markov chains from a corpus consisting of 90 lines from Roland Barthes’s<italic>A Lover’s Discourse: Fragments</italic>and ten from Bruno Latour’s<italic>Aramis, or the Love of Technology</italic>. They are then published to the @mashomatic Twitter account and printed as “receipts” for display. MashBOT asks us to think about the ways in which the written declaration of love (the “mash note”) is a document at once transactional and unfathomable.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Making Humanities in the Digital:</title>
+                     <subtitle>Embodiment and Framing in Bichitra and Indiancine.ma</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SNEHA</surname>
+                           <given-names>P. P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>The humanities are traditionally text-based disciplines, domains of interpreting and representing human experience in its many forms and facets. The object of humanities inquiry is the cultural artifact, of which text is almost always a primary component. In the last decade or so, however, with the growth of predominantly digital environments in which the humanities now function, these objects and the approaches used to study them have changed significantly. Apart from texts (in the form of written material), images and audiovisual archival objects have added new dimensions to humanities research, creating potential for unique modes of inquiry while also imposing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Making the RA Matter:</title>
+                     <subtitle>Pedagogy, Interface, and Practices</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JENSTAD</surname>
+                           <given-names>JANELLE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TAKEDA</surname>
+                           <given-names>JOSEPH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>For many years at<italic>The Map of Early Modern London</italic>(<italic>MoEML</italic>, a Canada-based literary mapping project), our project mantra has been “we are the makers of manners.” It began in a teachable moment, when a research assistant (RA) questioned our non-compliance with MLA citation guidelines. Jenstad spontaneously quoted “We are the makers of manners” from the final scene of Shakespeare’s<italic>Henry V</italic>, where Henry tells his manners-conscious bride-to-be that they are not to be “confined within … a country’s fashion.”¹ In other words, Henry and Katherine, by breaking the old rules,<italic>make</italic>the new fashions of the country; others will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>Reproducing the Academy:</title>
+                     <subtitle>Librarians and the Question of Service in the Digital Humanities</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SHIRAZI</surname>
+                           <given-names>ROXANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>86</fpage>
+                  <abstract>
+                     <p>One of the central questions that arise whenever we talk about digital humanities (DH) and librarianship is the question of service in academic libraries. Do libraries support DH scholarship, or are they producers of it? Is DH just another suite of services to be offered by the library? Recent contributions from Trevor Muñoz,¹ Bethany Nowviskie,² Miriam Posner,³ Dot Porter,⁴ and Barbara Rockenbach,⁵ among others, have examined the role that libraries play in supporting or partnering with digital humanists. Much of this discussion assumes a great deal of overlap between libraries and the digital humanities, a connection that scholars such as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Looks Like We Made It, But Are We Sustaining Digital Scholarship?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARDNER</surname>
+                           <given-names>CHELSEA A. M.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McINTYRE</surname>
+                           <given-names>GWYNAETH</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOLBERG</surname>
+                           <given-names>KAITLYN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TWETEN</surname>
+                           <given-names>LISA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>The increasing amount of digital projects relating to the field of antiquity is especially promising for the future of traditionally archaic academic fields, including Ancient History, Classics, and Classical Archaeology. An enormous number of fragile, irreplaceable artifacts have survived from antiquity, but only a small number are accessible to the public. The vast majority are housed in storage rooms or isolated collections in museums and universities, as well as private collections around the world. For decades, this global scattering of antiquity resulted in widespread inaccessibility to ancient artifacts for both teaching and research. Through the process of digitization and the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Full Stack DH:</title>
+                     <subtitle>Building a Virtual Research Environment on a Raspberry Pi</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SMITHIES</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>Ian Hodder (2014) recently pointed to a “return to things” in the humanities and social sciences—a mode of analysis that explores the relationships between people and the objects we use to construct and make sense of the world (19). In digital humanities (DH), we see this turn in Matthew Kirschenbaum’s (2007) forensic analysis of computer hard disks; platform studies that investigate the relationship between computing culture, consoles, and other hardware (Monfort and Bogost 2009); and maker cultures that explore the humanities through practical experimentation (Dieter and Lovink 2014). A return to things suggests a desire to pay attention to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Mic Jammer</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BURTCH</surname>
+                           <given-names>ALLISON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSENTHAL</surname>
+                           <given-names>ERIC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Mic Jammer is an ultrasonic security system that gives people the confidence to know that their smart phones are non-invasively muted. When pointed at a smart phone, it de-senses the phone’s microphone by applying a high-level, ultrasonic signal inaudible to humans but not to technologies.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>The Making of a Digital Humanities Neo-Luddite</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’GORMAN</surname>
+                           <given-names>MARCEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>116</fpage>
+                  <abstract>
+                     <p>Who wants to take the first swing?” Sledgehammer in hand, I am standing on the loading dock at the back of the Critical Media Lab, staring down at a bewildered dozen graduate students from the University of Waterloo’s Experimental Digital Media (XDM) program. Their eyes dart back and forth between the hammer and the dusty Pentium III computer on the concrete floor at my feet. For a moment, there is silence, and then nervous laughter. Someone sneaks a quick photo of me as I smile provocatively at the group. Then a few hands go up. I daresay none of those</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Made: Technology on Affluent Leisure Time</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HERTZ</surname>
+                           <given-names>GARNET</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>128</fpage>
+                  <abstract>
+                     <p>Made: Technology on Affluent Leisure Time is a sticker produced as a parody and critique of<italic>Make Magazine</italic>by O’Reilly Media. It was distributed for free and included as an insert in the first edition of<italic>Critical Making</italic>(Hollywood, Calif.: Telharmonium Press, 2012).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>Reifying the Maker as Humanist</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUNTER</surname>
+                           <given-names>JOHN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FAULL</surname>
+                           <given-names>KATHERINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAKACKI</surname>
+                           <given-names>DIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>This chapter argues that the success of “making” depends on not only physical space but also the intersections between disciplines that encourage critical humanistic discourse. Rather than reifying the digital humanities (DH) maker as a (usually male, usually white, usually economically and socially advantaged) creator, we argue that the DH maker is uniquely positioned to subvert paradigms of class, race, gender, and ableist privilege.¹ Furthermore, we assert that as (digital) humanists, we (with our students) have an opportunity and a responsibility to reclaim the centrality of making to the humanities and its histories. Since the humanities is defined by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>All Technology Is Assistive:</title>
+                     <subtitle>Six Design Rules on Disability</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENDREN</surname>
+                           <given-names>SARA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>In 1941, the United States Navy commissioned the husband-and-wife team of Charles and Ray Eames to design a lightweight splint to get wounded soldiers safely out of the battlefield. Metal splints of the period were not secure enough to hold the leg still, causing unnecessary death from gangrene, shock, blood loss, and so on. The Eameses had been working on techniques to mold and bend plywood, and they came up with a splint design conforming to the body without a lot of extra joints and parts. The wood design became a secure, lightweight, nestable solution, and the Eameses produced more</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>Thinking as Handwork:</title>
+                     <subtitle>Critical Making with Humanistic Concerns</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RESCH</surname>
+                           <given-names>GABBY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOUTHWICK</surname>
+                           <given-names>DAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RECORD</surname>
+                           <given-names>ISAAC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RATTO</surname>
+                           <given-names>MATT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Late one night in the spring of 2015, two members of our lab at the University of Toronto found themselves hunched over a lab bench strewn with skeins of wire insulation and plastic shavings, brainstorming over a seemingly unsophisticated but remarkably complex challenge: How does one go about making a semi-hollow piece of plastic<italic>feel like</italic>a hand-worn chunk of solid ivory?¹ We experimented with a number of shop-room hacks, from buffing the object’s striated surface with a mixture of animal fat and carnauba wax until it had the “worn” look and texture of aged ivory, to drilling a hole</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 17</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Bibliocircuitry and the Design of the Alien Everyday, 2012–13</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KRAUS</surname>
+                           <given-names>KARI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>Bibliocircuitry and the Design of the Alien Everyday is a series of student projects that grew out of several book design labs conducted as part of a Fall 2012 course (ENGL 758B Book 2.0: The History of the Book and the Future of Reading) taught by Kari Kraus at the University of Maryland. Using physical books as springboards for computation and mixed media experiments, the student projects realize one of the larger aims of the course: to position bibliotextual scholarship and pedagogy as design-oriented practices that can be used to prototype and imagine the future of the book. The project</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 18</label>
+                     <title>Doing History by Reverse Engineering Electronic Devices</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOEVA</surname>
+                           <given-names>YANA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ELLIOTT</surname>
+                           <given-names>DEVON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JONES-IMHOTEP</surname>
+                           <given-names>EDWARD</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MUHAMMEDI</surname>
+                           <given-names>SHEZAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TURKEL</surname>
+                           <given-names>WILLIAM J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>In this chapter we describe three experiences of collaboratively reverse engineering historical electronic artifacts at the University of Western Ontario’s Lab for Humanistic Fabrication, a setting that supports hands-on fabrication and experimentation, programming and computer-aided design, and traditional historical research. Our first case study comes from Elliott’s work on the re-creation of wireless effects designed by early-twentieth-century magicians to simulate mind reading. These effects depended on electromagnetic induction, a technique that has recently come to prominence for its applications in radio-frequency ID tagging, wireless charging, and near-field and secure wireless communications, largely driven by interest in the Internet of Things.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.22</book-part-id>
+                  <title-group>
+                     <label>Chapter 19</label>
+                     <title>Electronic Music Hardware and Open Design Methodologies for Post-Optimal Objects</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TEBOUL</surname>
+                           <given-names>EZRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>This chapter develops a brief historical and theoretical overview of hardware hacking within the context of electronic music instruments, suggesting how component-level analysis of some specific artifacts can help scholars to appreciate accelerating shifts in musical production as well as larger cultural trends. The chapter does not promote hardware hacking as an optimal solution for every musician. Rather, it recognizes hacking as a long-lasting and self-sustaining technocultural practice. This recognition is achieved in part by developing an adapted understanding of Anthony Dunne’s “post-optimal electronics” (2005). Such understanding investigates what makes electronic instrument design unique, how each artist bends the traditions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.23</book-part-id>
+                  <title-group>
+                     <label>Chapter 20</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Glitch Console</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BELOJEVIC</surname>
+                           <given-names>NINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>Glitch Console is a hacked or “circuit-bent” Nintendo Entertainment System that links the consumer culture of video game platforms to issues of labor, exploitation, and the environment. Player experience is interrupted by various types of glitches, which dramatically affect and “haunt” game play without crashing the system itself. Circuit bending, or the practice of serendipitously modifying the behavior of electronics by soldering new connection points on a circuit board, also encourages a creative, hands-on approach to media theory and platform studies. For both the player and the artist/hacker, the Glitch Console directs attention to materials and operations.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.24</book-part-id>
+                  <title-group>
+                     <label>Chapter 21</label>
+                     <title>Creative Curating:</title>
+                     <subtitle>The Digital Archive as Argument</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BERNARDI</surname>
+                           <given-names>JOANNE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DIMMOCK</surname>
+                           <given-names>NORA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Re-Envisioning Japan: Japan as Destination in 20th Century Visual and Material Culture</italic>(<italic>REJ</italic>) conjoins a collaboratively built digital environment with the physical, personal collection of travel, tourism, and educational ephemera from which it evolved (Bernardi). Documenting changing images of Japan and its place in the world in the early to mid-twentieth century, the digital archive is comprised of artifacts but is in itself an artifact, a creatively curated representation of representations. Digital environments enable us to see things differently, and, as<italic>REJ</italic>’s title suggests, the project capitalizes on this virtue. Its direction has been shaped by the convergence between innovative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.25</book-part-id>
+                  <title-group>
+                     <label>Chapter 22</label>
+                     <title>Reading Series Matter:</title>
+                     <subtitle>Performing the SpokenWeb Project</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HANNIGAN</surname>
+                           <given-names>LEE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MEZA</surname>
+                           <given-names>AURELIO</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FLAMENCO</surname>
+                           <given-names>ALEXANDER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>198</fpage>
+                  <abstract>
+                     <p>When poets participate in the formal mechanism known as the poetry reading, sometimes embedded within the larger context of a reading series, they also participate in and sometimes break social and literary conventions. A similar break occurs when digital tools are used to record what was intended to be ephemeral. Consider a poetry reading series that took place at Sir George Williams University (now Concordia University) in Montreal between 1966 and 1974. This series, simply referred to as “the Poetry Series,” was recorded on 65 reel-to-reel tapes, containing over one hundred hours of audio and featuring some of North America’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.26</book-part-id>
+                  <title-group>
+                     <label>Chapter 23</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Loss Sets</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TUCKER</surname>
+                           <given-names>AARON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCOTT</surname>
+                           <given-names>JORDAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHEUNG</surname>
+                           <given-names>TIFFANY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>AHMED</surname>
+                           <given-names>NAMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Working with Ryerson University’s Digital Media Experience Lab, the Ryerson Geospatial Maps and Data Centre, and the Ryerson Centre for Digital Humanities, the Loss Sets 3-D Poetry Project translates poems co-written by Jordan Scott and Aaron Tucker into sculptures. The poems are first turned into coordinates along the X, Y, and Z axes, after which (under Tucker, Namir Ahmed, and Tiffany Cheung’s direction) those points are imported into the 3-D modeling software, Rhino, where the models are rendered with the Grasshopper plug-in. The pieces are further manipulated using information such as latitude, longitude, and spot height from the Columbia Icefields.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.27</book-part-id>
+                  <title-group>
+                     <label>Chapter 24</label>
+                     <title>Dialogic Objects in the Age of 3-D Printing:</title>
+                     <subtitle>The Case of the Lincoln Life Mask</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GARFINKEL</surname>
+                           <given-names>SUSAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>206</fpage>
+                  <abstract>
+                     <p>Smithsonian Now Allows Anyone To 3D Print (Some) Historic Artifacts,” declared a headline on the<italic>Forbes Tech</italic>blog page (Mack). “These New 3D Models Put the Smithsonian’s Most Renowned Items in Your Hands,” explained another, at the website of<italic>Smithsonian Magazine</italic>(Stromberg). Both appeared in November 2013, when a simultaneous press release and conference announced the launch of “Smithsonian X 3D,” an initiative to scan significant museum artifacts and turn them into three-dimensional digital models to either view online or download and 3-D–print via a new portal website.¹ “The future has arrived,” tweeted Mythbusters host Adam Savage (2013). “Is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.28</book-part-id>
+                  <title-group>
+                     <label>Chapter 25</label>
+                     <title>Feminist Hackerspaces:</title>
+                     <subtitle>Hacking Culture, Not Devices (the zine!)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BUREK</surname>
+                           <given-names>AMY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FOSTER</surname>
+                           <given-names>EMILY ALDEN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FOX</surname>
+                           <given-names>SARAH</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSNER</surname>
+                           <given-names>DANIELA K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>In putting this zine together (see Figure 25.1), we wish to open a dialogue about the culture being made in and around feminist hackerspaces. Our research has started to reveal important connections between the work being done within these spaces and larger developments in corporate technology cultures. Members have reframed a concern for women’s access to technical industries as one of recognizing technical work already there, destabilizing the unmarked categories of technical labor. Our hope is that this zine can help spur a wider discussion of the practices and criticisms that are happening in these spaces. In doing so, we</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.29</book-part-id>
+                  <title-group>
+                     <label>Chapter 26</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Fashioning Circuits, 2011–Present</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KNIGHT</surname>
+                           <given-names>KIM A. BRILLANTE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>232</fpage>
+                  <abstract>
+                     <p>Fashioning Circuits uses wearable media as a lens to consider the social and cultural valences of bodies and identities in relation to fashion, technology, labor practices, and craft and maker cultures. A public humanities project, it combines scholarship, university coursework, and community partnerships.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.30</book-part-id>
+                  <title-group>
+                     <label>Chapter 27</label>
+                     <title>Making Queer Feminisms Matter:</title>
+                     <subtitle>A Transdisciplinary Makerspace for the Rest of Us</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROGERS</surname>
+                           <given-names>MELISSA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>234</fpage>
+                  <abstract>
+                     <p>With maker methodologies gaining popularity in the humanities, how might we imagine queer feminist investments in and engagements with making? What do queer feminist approaches to making look like in academic environments where entrepreneurial maker movements extend the optimistic promise of transforming education through pedagogies of “invent to learn?” Science, Technology, Engineering, and Math are slowly becoming STEAM (STEM + Art), and “innovation” will supposedly rescue the increasingly obsolescent humanities for a future of corporate universities.¹ In a landscape of knowledge production where institutional resources are up for grabs for some kinds of work and as constricted as ever for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.31</book-part-id>
+                  <title-group>
+                     <label>Chapter 28</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Movable Party</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HSU</surname>
+                           <given-names>WENDY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KEMPER</surname>
+                           <given-names>STEVEN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TAYLOR</surname>
+                           <given-names>JOSEF CAMERON</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WEI</surname>
+                           <given-names>LINDA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SARGENT</surname>
+                           <given-names>JACOB ALDEN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>Movable Party is a bicycle-powered system for participatory musical performance designed and built by Los Angeles-based maker collective, Movable Parts. Taking design inspirations from Taiwan’s street sound innovations, the collective made the system to instigate ad hoc, emplaced social interactions as a form of creative friction against urban sprawl. The system consists of three stationary bicycles, each equipped with rear-wheel hub motors that generate enough energy to power a medium-sized public address system. The bicycles are also equipped with sensors to track rear-wheel speed as well as rider position. Mapped to musical parameters in software, sensor data from riders’ gestures</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.32</book-part-id>
+                  <title-group>
+                     <label>Chapter 29</label>
+                     <title>Disrupting Dichotomies:</title>
+                     <subtitle>Mobilizing Digital Humanities with the MakerBus</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARTIN</surname>
+                           <given-names>KIM</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>COMPTON</surname>
+                           <given-names>BETH</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUNT</surname>
+                           <given-names>RYAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>As demonstrated by the popularity of<italic>Make: Magazine</italic>, Maker Faires, and maker-inspired curricula, makerspaces and maker culture have gathered significant attention in recent years. Although these concepts are increasingly familiar, many makerspaces (also known as fab labs, hackerspaces, and DIY centers) are often found in basements of university campuses or off the beaten path of popular downtown streets. As makerspaces gain traction, their role in supporting their local communities and acting as social spaces for their members has become clearer (Taylor, Connolly, and Hurley). For instance, many of them are becoming mobile, shifting from dark basements and hidden streets into</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.33</book-part-id>
+                  <title-group>
+                     <label>Chapter 30</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>Designs for Foraging: Fruit Are Heavy, 2015–16</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DISALVO</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JENKINS</surname>
+                           <given-names>TOM</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KIM</surname>
+                           <given-names>JONG WON (KARL)</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MESCHIA</surname>
+                           <given-names>CATHERINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DURKIN</surname>
+                           <given-names>CRAIG</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>Design for Foraging explores the appropriation of precision technologies for ad-hoc urban agricultures. Fruit Are Heavy is a custom-designed, low-fidelity sensing platform to infer the ripeness of fruit in trees by monitoring the relative droop of branches as the fruit matures. The project uses research-through-design to speculate on diverse economies and propose alternative configurations of so-called smart cities.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.34</book-part-id>
+                  <title-group>
+                     <label>Chapter 31</label>
+                     <title>Experience Design for the Humanities:</title>
+                     <subtitle>Activating Multiple Interpretations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RUECKER</surname>
+                           <given-names>STAN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROBERTS-SMITH</surname>
+                           <given-names>JENNIFER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>This chapter deals with two central propositions. The first is that the humanities has an opportunity to create a new kind of experience design that is fundamentally different in its goals from experience design in industry. In order to reliably appeal to customers, commercial experience designers strive for consistency. Whether working with retail outlets or amusement parks, they attempt to produce a customer experience that is similar for everyone who enters. There is, for example, a well-defined “Disney experience” that strives to keep a trip to any Disney location within the discourse of the brand. Cinderella should not take a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.35</book-part-id>
+                  <title-group>
+                     <label>Chapter 32</label>
+                     <title>Project Snapshot:</title>
+                     <subtitle>AIDS Quilt Touch: Virtual Quilt Browser</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BALSAMO</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACDONALD</surname>
+                           <given-names>DALE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WINET</surname>
+                           <given-names>JON</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>The AIDS Quilt Touch (AQT) Virtual Quilt Browser is one of several interactive experiences based on the AIDS Memorial Quilt. In free-browse mode, viewers can explore the Quilt by zooming and panning across the 25-gigapixel image. In Narrative Threads mode, they can follow pathways that present stories about individual panels and the cultural significance of the Quilt. Other AQT applications include a story-making platform, a digital guest book, and interactive timelines.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.36</book-part-id>
+                  <title-group>
+                     <label>Chapter 33</label>
+                     <title>Building Humanities Software That Matters:</title>
+                     <subtitle>The Case of the Ward One Mobile App</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>COOLEY</surname>
+                           <given-names>HEIDI RAE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BUELL</surname>
+                           <given-names>DUNCAN A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>272</fpage>
+                  <abstract>
+                     <p>An estimated ten thousand people gathered at the state house grounds in Columbia, South Carolina, on the morning of July 10, 2015. They gathered with anticipation; they gathered despite record heat. At 10:00 a.m. “the flag” would be—swiftly and with little ceremony—lowered and transported to the Confederate Museum located a mile away. Some dozens might have been there supporting the flag; the vast majority, black and white together, were there to witness a historic event, to symbolically turn from a divisive past toward a future whose hallmarks might be justice, social equity, and mutual respect among citizens. More</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.37</book-part-id>
+                  <title-group>
+                     <label>Chapter 34</label>
+                     <title>Placeable:</title>
+                     <subtitle>A Social Practice for Place-Based Learning and Co-Design Paradigms</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KNOCHEL</surname>
+                           <given-names>AARON D.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PAPAELIAS</surname>
+                           <given-names>AMY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>288</fpage>
+                  <abstract>
+                     <p>As a four-year residential public university located in New Paltz, New York (a small college town in the Hudson Valley), SUNY New Paltz prides itself as a welcoming and inclusive community. With many academic programs rooted in social justice and political activism as well as student organizations committed to promoting cultural diversity, students and faculty openly engage in complex dialogue regarding issues of race, gender, ability, and identity politics. As Art Department faculty, we built curriculum in conversation with intersectional identities and initiated through a design process that augments the campus geography as a social space. We used intersectionality to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.38</book-part-id>
+                  <title-group>
+                     <label>Chapter 35</label>
+                     <title>Making the Model:</title>
+                     <subtitle>Scholarship and Rhetoric in 3-D Historical Reconstructions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SULLIVAN</surname>
+                           <given-names>ELAINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NIEVES</surname>
+                           <given-names>ANGEL DAVID</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SNYDER</surname>
+                           <given-names>LISA M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>301</fpage>
+                  <abstract>
+                     <p>The workflow for traditional humanistic scholarship might be loosely described as follows: (1) identify a research question, (2) gather and critically analyze the materials (primary and secondary) that inform said question, and (3) write an interpretive analysis using selected elements from your materials to support and communicate an argument.¹ In evaluating the resulting scholarship, reviewers are asked to gauge the work and its potential impact on their field. Is the research question important? Did the author use the appropriate source materials (in terms of both quantity and quality)? Were the source materials harnessed to make a convincing argument? Did the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.39</book-part-id>
+                  <title-group>
+                     <label>Chapter 36</label>
+                     <title>Beyond Making</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHACHRA</surname>
+                           <given-names>DEBBIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>319</fpage>
+                  <abstract>
+                     <p>Every once in a while, I am asked to describe what I “make.” The question was part of an application for a technology conference a few years ago; when I saw it, I closed the browser tab, and I only applied later (and eventually attended) because of the enthusiastic encouragement of friends. I am always uncomfortable identifying myself as a maker. I am uncomfortable with any culture that encourages taking on an entire identity rather than expressing a facet of my own identity (“maker” rather than “someone who makes things”). This is not to say that I am opposed to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.40</book-part-id>
+                  <title-group>
+                     <label>Chapter 37</label>
+                     <title>Making It Matter</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BOGGS</surname>
+                           <given-names>JEREMY</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>REED</surname>
+                           <given-names>JENNIFER</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LINDBLAD</surname>
+                           <given-names>J. K. PURDOM</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>322</fpage>
+                  <abstract>
+                     <p>In the 2014 documentary<italic>Tales of the Grim</italic>Sleeper, Nick Broomfield investigates how Lonnie Franklin Jr. killed between ten and 180 working-class black women across three decades without being apprehended. The exact number of murders is unknown partly because some Los Angeles police officers used the code NHI, or “No Humans Involved,” when reporting on the crimes. Of course humans were involved, but the officers decided not to count murdered black women as humans. Following Saidiya Hartman (1997), such instances of institutional racism and oppression prompt “us to question whether the rights of man and citizen are realizable or whether</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.41</book-part-id>
+                  <title-group>
+                     <label>Chapter 38</label>
+                     <title>Ethics in the Making</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANDERSON</surname>
+                           <given-names>ERIN R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CAMPBELL</surname>
+                           <given-names>TRISHA N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>In her 2012 polemic, “This Digital Humanities Which Is Not One,” Jamie “Skye” Bianco challenges a trend toward unreflective tool building in digital humanities, with its emphasis on the aggregation, mining, and visualization of texts-as-data-for-data’s-sake. Urging us to consider the question, “What do we do with the data?” (Bianco 99), she proposes a theoretically informed alternative of “creative critique,” which uses digital media and methods to not only break down, interpret, and reconstitute texts-as-data, but also invent new texts and new sensory experiences of textual remains or ruins (102). Importantly, this move toward performative, affective, and generative modes of digital</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.42</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>343</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1pwt6wq.43</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>345</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

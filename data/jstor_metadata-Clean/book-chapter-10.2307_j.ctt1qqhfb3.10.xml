@@ -1,0 +1,472 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1qqhfb3</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Law</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>La influencia de las víctimas en el tratamiento jurídico de la violencia colectiva.</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Gil</surname>
+               <given-names>Alicia Gil</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Maculan</surname>
+               <given-names>Elena</given-names>
+            </name>
+         </contrib>
+         <role content-type="editor">(Directoras)</role>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>06</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9788491482321</isbn>
+      <isbn content-type="epub">9788491482567</isbn>
+      <publisher>
+         <publisher-name>Dykinson</publisher-name>
+         <publisher-loc>Madrid</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-holder>Los autores</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1qqhfb3"/>
+      <abstract abstract-type="short">
+         <p>Este libro es el fruto de la investigación realizada en el marco del Proyecto de I+D+i “La influencia de las víctimas en el tratamiento jurídico de la violencia colectiva" (ref. DER2013-43760-R), financiado por el Ministerio de Economía y Competitividad.Este proyecto pretendía dar respuesta a los múltiples dilemas jurídicos, políticos y sociales que plantea el surgimiento, principalmente por vía jurisprudencial y a nivel internacional, en los últimos veinte años, de un cuerpo de derechos de las víctimas de graves violaciones de derechos humanos y el establecimiento paralelo de obligaciones del Estado, que incluyen la adopción de determinadas políticas públicas. La idea central que ha presidido el enfoque de la investigación desde su planteamiento es la de que todos los mecanismos jurídicos elegidos para abordar los fenómenos de violencia colectiva deben ser sometidos a un triple análisis científico en los ámbitos psicológico, sociológico y jurídico, para comprobar que producen en la víctima concreta el efecto reparador que se les atribuye, y no, en cambio, efectos distintos o incluso contrarios; que promueven en el cuerpo social al que van dirigidos los efectos de reconciliación, reconstrucción del tejido social y superación del pasado conflictivo; y que contribuyen a la construcción de un Estado democrático basado en el respeto de los derechos humanos. Todo sistema de justicia de transición debería ser pensado como el resultado de una ponderación entre los múltiples intereses individuales y colectivos en juego, y no deben perderse de vista las consecuencias que un determinado mecanismo tendrá para el ordenamiento jurídico en su conjunto y para el modelo de Estado.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>IX</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.3</book-part-id>
+                  <title-group>
+                     <title>Lista de las principales siglas y abreviaturas</title>
+                  </title-group>
+                  <fpage>XVII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.4</book-part-id>
+                  <title-group>
+                     <title>Prólogo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gil</surname>
+                           <given-names>Alicia Gil</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Maculan</surname>
+                           <given-names>Elena</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>XXI</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.5</book-part-id>
+                  <title-group>
+                     <title>En busca del efecto útil de las normas internacionales:</title>
+                     <subtitle>verdad, justicia, reparación y garantías de no repetición ante contextos de violencia colectiva</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Álvarez</surname>
+                           <given-names>Javier Chinchón</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>En el marco de los trabajos que conforman la presente obra, esta contribución inicial tiene por objeto construir y ofrecer una primera visión de conjunto del tema general que aquí se analiza. Su intención no responde a tratar de exponer una solución global, ni tan siquiera mi solución general, sino que sólo pretende establecer la que yo estimo como perspectiva adecuada, o el correcto modo de enfocar jurídicamente, los muchos problemas que suelen o pueden presentarse en los contextos de violencia colectiva respecto a lo que se conoce, desde hace años, como deberes en materia de verdad, justicia, reparación y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.6</book-part-id>
+                  <title-group>
+                     <title>Las víctimas en la jurisprudencia de la Corte Interamericana de Derechos Humanos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Malarino</surname>
+                           <given-names>Ezequiel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Sin lugar a dudas, la Corte Interamericana de Derechos Humanos (Corte IDH) ha hecho mucho por posicionar a la víctima como un actor central del Derecho internacional. A través de su jurisprudencia, ella la ha reconocido como un verdadero sujeto del Derecho internacional, dotándola de amplios poderes de intervención procesal como parte demandante del proceso internacional¹, ha ampliado el concepto de víctima, concediendo legitimación sustantiva y procesal por derecho propio también a los familiares de la víctima directa de la violación del derecho², y ha reconocido nuevos derechos de la víctima más allá de lo previsto en la propia Convención</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.7</book-part-id>
+                  <title-group>
+                     <title>Las víctimas ante la Corte Penal Internacional:</title>
+                     <subtitle>¿efectiva realización de los derechos de participación y reparación?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rodríguez</surname>
+                           <given-names>María Gutiérrez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Tradicionalmente el Derecho internacional público ha sido concebido como un derecho interestatal, que se ocupaba de resolver conflictos entre Estados, dedicando atención en especial a los conflictos armados.</p>
+                     <p>El concepto de víctima toma como punto de partida el Derecho internacional humanitario y la protección de los derechos humanos¹. Tras los crueles hechos ocurridos durante la segunda guerra mundial se acrecienta por parte de la comunidad internacional el interés por la protección de la persona. Los cuatro Convenios de Ginebra y sus protocolos sirven a la protección de las víctimas de los conflictos armados². Los convenios de protección de derechos humanos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.8</book-part-id>
+                  <title-group>
+                     <title>El impacto de las jurisdicciones penales internacionales en la finalización de un conflicto de violencia grave y la consolidación de la paz</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Eiroa</surname>
+                           <given-names>Pablo D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>81</fpage>
+                  <abstract>
+                     <p>El Estatuto de la Corte Penal Internacional (ECPI) establece que los crímenes que tipifica (en adelante, crímenes internacionales) constituyen una amenaza para la paz, y que no deben quedar sin castigo para contribuir a su prevención¹.</p>
+                     <p>La idea de que la paz requiere el juicio y el castigo de los responsables de crímenes internacionales no es una novedad del ECPI. También fue invocada por el Cons. Seg. para justificar la creación del TPIY y el TPIR², y obtuvo un amplio consenso de la doctrina desde el comienzo de la década de los noventa del siglo pasado, junto con la tesis</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.9</book-part-id>
+                  <title-group>
+                     <title>Justicia restaurativa y mediación penal</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de Ulzurrun Lluch</surname>
+                           <given-names>Marina Sanz Diez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Justicia restaurativa y mediación penal son conceptos que suelen entremezclarse e, incluso, llegan a identificarse. Pero son realidades distintas, pese a su estrecha relación.</p>
+                     <p>La justicia restaurativa es un concepto en evolución, cuyos contornos no están todavía plenamente definidos (Ríos Martín<italic>et al.</italic>, 2008, p. 13). A modo de aproximación, puede presentarse como una nueva filosofía de la justicia penal que aporta un enfoque distinto al sistema de justicia tradicional, del que se diferencia por la diversidad en el fin perseguido y por el procedimiento para alcanzarlo. La mediación es uno de los instrumentos o procedimientos, entre otros, con los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.10</book-part-id>
+                  <title-group>
+                     <title>El papel de las víctimas respecto de los mecanismos utilizados en la justicia transicional</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martínez</surname>
+                           <given-names>Gema Varona</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Existen muy pocos trabajos en nuestro contexto que exploren, críticamente y en profundidad, la conexión entre la justicia restaurativa y la transicional. Esta última debe entenderse, no como un guión dado de mecanismos para alcanzar una paz justa (Arthur, 2009), sino como un término descriptivo de procesos muy diversos en contextos de transición política que, según los datos, fracasan en gran medida al no lograr evitar posteriores episodios de violencia².</p>
+                     <p>Este texto tiene como objetivo abordar victimológicamente el concepto de victimización dentro de la justicia transicional. Ello implica una reflexión previa sobre dicho concepto dentro de la justicia penal del</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.11</book-part-id>
+                  <title-group>
+                     <title>Víctimas, fin y necesidad de la pena en el Derecho penal y en la llamada justicia transicional</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alvarado</surname>
+                           <given-names>Yesid Reyes</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>Si bien es cierto que la Victimología empezó a perfilarse como una disciplina autónoma a finales de los años ochenta del siglo pasado y marcó distancia con el Derecho penal al introducir perspectivas de análisis mucho más amplias como la constitucional en el ámbito jurídico, y la sociológica y antropológica más allá de él, eso no significa que históricamente se haya ignorado el papel de las víctimas en la construcción de la teoría del delito.</p>
+                     <p>Por el contrario, escuelas como la Positiva italiana fueron edificadas a partir de una noción que, como la de defensa social, veía al derecho criminal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.12</book-part-id>
+                  <title-group>
+                     <title>Fines de la pena y del proceso penal en contextos de transición</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Maculan</surname>
+                           <given-names>Elena</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>La justicia en tiempos de transición abre nuevos escenarios para el Derecho penal, enfrentándole, por un lado, a los retos planteados por la naturaleza masiva y sistemática de los crímenes cuya superación se busca y, por el otro, a las exigencias específicas del momento transicional. Estos factores conllevan una modificación, al menos parcial, de los fines y del alcance de la justicia penal.</p>
+                     <p>Esta contribución pretende ser una reflexión sobre la transformación de los fines que tanto la pena como el proceso penal experimentan en los contextos transicionales, con el objetivo de demostrar que las difundidas teorías maximalistas del Derecho</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.13</book-part-id>
+                  <title-group>
+                     <title>Algunas reflexiones sobre la punibilidad en el tratamiento jurídico penal del terrorismo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fernández</surname>
+                           <given-names>José Núñez</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>De un tiempo a esta parte, sobre todo en el ámbito internacional del tratamiento jurídico penal de lo que se entiende como violencia colectiva¹ y debido, en gran medida, a la influencia de las asociaciones de víctimas², se detecta una tendencia a concebir la pena como una obligación del Estado e incluso como un derecho de las víctimas para quienes el castigo penal constituiría, desde este punto de vista, una forma de reparación del daño sufrido³. Podría decirse que, de acuerdo con esta nueva concepción, la comisión de un hecho delictivo que se pudiera incardinar dentro del concepto de violencia</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.14</book-part-id>
+                  <title-group>
+                     <title>Conflicto de intereses:</title>
+                     <subtitle>la víctima en el proceso y en la ejecución penal</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>del Blanco</surname>
+                           <given-names>Victoria García</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>A lo largo de la historia, se han podido encontrar diferentes soluciones al conflicto entre agresor y víctima; bien, institucionalizadas (dentro de un proceso entre Estado y agresor) o bien extra-procesales. La aparición del Estado y su monopolio sobre el<italic>ius puniendi</italic>separó, definitivamente, el castigo del ofensor del interés directo y privado del ofendido.</p>
+                     <p>La víctima del delito, por tanto, tradicionalmente ostenta un papel marginal y, en la mayoría de los casos, relacionado con el resarcimiento del daño a través del ejercicio de la acción civil en el juicio penal, es decir, utilizando el proceso penal mediante las vías</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.15</book-part-id>
+                  <title-group>
+                     <title>El acuerdo de paz y el modelo transicional colombiano:</title>
+                     <subtitle>hacia un reconocimiento y dignificación de las víctimas</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cardona</surname>
+                           <given-names>Alejandro Aponte</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>El día 2 de octubre del año en curso, por muy estrecho margen y de manera sorpresiva, con una abstención enorme del 40 por ciento, y en Bogotá del 60, el país votó no al plebiscito de refrendación de los acuerdos de paz entre el Gobierno y las guerrillas de las FARC. El presente trabajo se actualizó en su momento, en los meses de julio a septiembre de 2016, para presentarlo a la discusión general que tuvo lugar en Madrid en la semana del 7 de noviembre. El trabajo se relaciona con el conjunto mismo de los acuerdos. En él</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.16</book-part-id>
+                  <title-group>
+                     <title>Identificación nacional y culpa colectiva como predictores de la aceptación de la justicia de transición</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Caicedo</surname>
+                           <given-names>Yuli Andrea Botero</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>López</surname>
+                           <given-names>Antonio Bustillos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>345</fpage>
+                  <abstract>
+                     <p>La población desmovilizada en Colombia ha ido creciendo durante los últimos años, gracias a las políticas de desmovilización implementadas y el acuerdo con las Autodefensas Unidas de Colombia (AUC), además de aquéllos que se encuentran en proceso – el acuerdo de paz con las FARC-EP y el ELN –. Según la Agencia Colombiana para la Reintegración (ACR), en el informe que cubre la estadística de población desmovilizada entre el año 2003 a septiembre de 2015, en Colombia hay 57.609 desmovilizados, de los cuales el 84,3% se han acogido a la ACR para su proceso de reintegración. Respecto de su vinculación a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.17</book-part-id>
+                  <title-group>
+                     <title>El papel del Derecho penal en el tratamiento jurídico de la violencia colectiva</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gil</surname>
+                           <given-names>Alicia Gil</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>365</fpage>
+                  <abstract>
+                     <p>El presente artículo reúne algunas de las conclusiones del proyecto de investigación “La influencia de las víctimas en el tratamiento jurídico de la violencia colectiva”, mediante el que se ha pretendido dar respuesta a los múltiples dilemas jurídicos, políticos y sociales que plantea el surgimiento, principalmente por vía jurisprudencial y a nivel internacional, en los últimos veinte años, de un cuerpo de derechos de las víctimas de graves violaciones de derechos humanos y el establecimiento paralelo de obligaciones del Estado que incluyen la adopción de determinadas políticas públicas.</p>
+                     <p>Todos los mecanismos jurídicos elegidos para abordar los fenómenos de violencia colectiva</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1qqhfb3.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>395</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

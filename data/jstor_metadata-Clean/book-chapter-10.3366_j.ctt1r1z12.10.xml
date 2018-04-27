@@ -1,0 +1,959 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1r1z12</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Edinburgh Companion to Shakespeare and the Arts</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BURNETT</surname>
+               <given-names>MARK THORNTON</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>STREETE</surname>
+               <given-names>ADRIAN</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>WRAY</surname>
+               <given-names>RAMONA</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>10</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748635238</isbn>
+      <isbn content-type="epub">9780748635245</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Edinburgh University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1r1z12"/>
+      <abstract abstract-type="short">
+         <p>This authoritative and innovative volume explores the place of Shakespeare in relation to a wide range of artistic practices and activities, past and present.</p>
+      </abstract>
+      <counts>
+         <page-count count="600"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.3</book-part-id>
+                  <title-group>
+                     <title>LIST OF FIGURES</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.5</book-part-id>
+                  <title-group>
+                     <title>A NOTE ON REFERENCES</title>
+                  </title-group>
+                  <fpage>xii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.6</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burnett</surname>
+                           <given-names>Mark Thornton</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Streete</surname>
+                           <given-names>Adrian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wray</surname>
+                           <given-names>Ramona</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the courtyard of the “Casa di Giulietta” – and on the cover of this book – stands a striking embodiment of Shakespeare’s Juliet.¹ In the same way that Montague, in <italic>Romeo and Juliet</italic>, memorializes Capulet’s daughter – “For I will raise her statue in pure gold” (5.3.298) – so has the city of Verona elected to honour and localize a character from the early modern English stage. The work of local artist, Nereo Costantini, the sculpture of Juliet was financed by the Lions’ Club of Verona, completed in 1968 and displayed, for the first time, in 1972. Dates are suggestive, and it was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>TEXTUAL SHAKESPEARE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Massai</surname>
+                           <given-names>Sonia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Writing about the advent of print technologies and cultures in early modern England, Stephen Orgel argues that “the translation of manuscripts into print constituted the inauguration of an English literary canon” and that “the great originary figures are not Chaucer, Gower [and] Langland . . . but the first editors and publishers, Caxton, Pynson [and] Wynkyn de Worde” (Orgel, 2009, 517). This essay shows that Shakespeare’s early printers and publishers, commonly known as “stationers” in the early modern period, followed by a long line of editors and prestigious publishers from the eighteenth century to the present, have also shaped what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>SHAKESPEARE AND POETRY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Holbrook</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Of course Hotspur is speaking in character, as a bluff soldier – in a non-trivial sense these are his not Shakespeare’s words. Nevertheless it is always something of a shock to come across, in the greatest poet of the English language, such a memorable expression of the hatred of poetry. Glendower has been wittering on about his supernatural and poetic endowments, and Hotspur has had enough. The bombastic Welshman assures Hotspur he has “framèd to the harp / Many an English ditty lovely well, / And gave the tongue a helpful ornament – / A virtue that was never seen in you”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>SHAKESPEARE AND THE NOVEL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Novy</surname>
+                           <given-names>Marianne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In her essay “Shakespeare in Iceland”, Jane Smiley writes, “I wanted to communicate the ways I found the conventional readings of <italic>King Lear</italic> frustrating and wrong . . . My intention was to stick as closely to the plot as I could, given a few caveats” (Smiley, 1999, 160, 171). So she imagined parallels to the events of <italic>King Lear</italic> occurring on a farm in the American Midwest in the 1970s as she transformed the play into a novel narrated by Ginny, the oldest daughter. Ginny’s behaviour in some ways resembles Goneril’s, but since she explains it from her own</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>SHAKESPEARE AND TRANSLATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Huang</surname>
+                           <given-names>Alexander C. Y.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>68</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Literary translation is a love affair. Depending on the context, it could be love at first sight or hot pursuit of a lover’s elusive nodding approval. In other instances it could be unrequited love, and still others a test of devotion and faith; or else an eclectic combination of any of these events. Translation involves artistic creativity, not a workshop of equivalences. As human civilizations developed and intersected, translation emerged as a necessary form of communication and a way of life. It highlighted and put to productive use the space between cultures, between individuals with different perspectives and within one’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>SHAKESPEARE ANTHOLOGIZED</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rumbold</surname>
+                           <given-names>Kate</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>88</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the twenty-first century, “Shakespeare” is not only an English cultural icon but shares some of the characteristics of a powerful global brand. This chapter shows the surprising but important role that the many books of quotations and extracts from Shakespeare’s works, published from within his own lifetime to the present day, have played in establishing that status. It argues that these anthologies have not simply reflected Shakespeare’s growing status, but actively helped to construct it. The seemingly inherent qualities for which Shakespeare is now admired – the beauty of his language, his wise understanding of human nature, his Englishness – are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>SHAKESPEARE AND BIOGRAPHY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bevington</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Can one learn or surmise anything significant about Shakespeare’s own life from his writings? The film <italic>Shakespeare in Love</italic> (dir. John Madden, 1998) has recently brought the question into focus, even though – or perhaps especially because – that film deliberately plays fast and loose with what we know about Shakespeare’s life. The film more or less accurately places him in London as a young man, eager to succeed in the theatre, keenly aware of the success of his great rival, Christopher Marlowe. This Shakespeare lives apart from his wife and children, having left them in Stratford. And thereby hangs a tale.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>SHAKESPEARE AND EARLY MODERN MUSIC</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Christopher R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This essay examines the relationship between the music and songs of Shakespeare’s plays and early modern music and musical practice. Music for Shakespeare meant performed songs and instrumental cues, and musical terms used as symbolic reference and metaphor. Very little music survives that can be identified with a first or early production but dramatic context and descriptors usually provide sufficient information on the type of music required. In <italic>Twelfth Night</italic>, for example, we know that a catch is performed by Sir Toby, Sir Andrew and Feste when Sir Toby asks: “Shall we rouse the night-owl in a catch that will</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>SHAKESPEARE AND OPERA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Streete</surname>
+                           <given-names>Adrian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>142</fpage>
+                  <abstract abstract-type="extract">
+                     <p>For the nineteenth-century French composer, Hector Berlioz, Shakespeare offered more than artistic inspiration. In fact, the playwright and his works acted as a prism through which the composer understood and rationalized his personal and professional successes and failures, indeed his very identity. Berlioz first discovered Shakespeare in 1827, an event he describes in his <italic>Memoires</italic> (1870) with typically Romantic effusion: “This sudden and unexpected revelation of Shakespeare overwhelmed me. The lightening flash of his genius revealed the whole heaven of art to me, illuminating its remotest depths in a single flash” (Berlioz, 1932, 66; see Schmidgall, 1990, 272–9; Cairns,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>SHAKESPEARE AND CLASSICAL MUSIC</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sanders</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Hans Werner Henze’s “First Sonata on Shakespearean Characters” (1975–6) opens with a very familiar speech: Richard of Gloucester’s “Now is the winter of our discontent” monologue, which is, of course, the opening of Shakespeare’s <italic>Richard III</italic>:</p>
+                     <p>Now is the winter of our discontent</p>
+                     <p>Made glorious summer by this son of York;</p>
+                     <p>And all the clouds that loured upon our house</p>
+                     <p>In the deep bosom of the ocean buried. (1.1.1–4)</p>
+                     <p>But Henze’s version of this linguistically dextrous and challenging speech – for actor and audience alike – is utterly wordless. It is the opening movement in his paired sonatas on Shakespearean</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>SHAKESPEARE AND MUSICAL THEATRE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Teague</surname>
+                           <given-names>Fran</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Musical theatre is found world-wide, often with national inflections. Whether one considers a satyr play, opera, zarzuela, or Broadway show, that work is clearly an instance of musical theatre. Given the frequency with which songs occur, Shakespeare’s plays are themselves instances of musical theatre, but in this chapter I shall be focusing on one narrow branch of musical theatre, the sort of show that is sometimes called the Broadway musical (no Verdi or Elvis Costello here). A few such musicals have grown from Shakespeare’s plays, with the best-known instances being <italic>The Boys from Syracuse</italic>, <italic>West Side Story and Kiss Me</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>SHAKESPEARE, BALLET AND DANCE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Edgecombe</surname>
+                           <given-names>Rodney Stenning</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>200</fpage>
+                  <abstract abstract-type="extract">
+                     <p>When in <italic>Much Ado About Nothing</italic> Beatrice claims “there was a star danced, and under that [she] was born” (2.1.293– 4), our immediate sense is of energy and mobile spontaneity. But for Shakespeare’s audience, of course, any illusions of free, wilful movement would have been contained and centred by the structural geometry of the Ptolemaic system. Much the same tension subsists within the art of ballet, which is nothing if not rigorous and enclosing, however much its protagonists seem to move without a care in the world. Frederick Ashton studied Euclid before he began choreographing his <italic>Scènes de Ballet</italic>, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>SHAKESPEARE AND POPULAR MUSIC</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hansen</surname>
+                           <given-names>Adam</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter addresses the following questions: how have Shakespearean characters, words, texts and iconography been represented and reworked through popular music; do all types of popular music represent Shakespeare in the same ways; if not, why not; and how do the links between Shakespeare and popular music develop what we think we know about Shakespeare, and what we think we know about popular music?</p>
+                     <p>Echoing the two epigraphs above, Shakespeare and popular music might seem fundamentally “incompatible”. The first, expressed in 1933 by C. A. Lewis, the BBC’s inaugural Programme Organizer, asserts that popular music is inferior to classical music,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>SHAKESPEARE AND DRAMA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Munro</surname>
+                           <given-names>Lucy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>239</fpage>
+                  <abstract abstract-type="extract">
+                     <p>At the end of Shakespeare’s <italic>The Taming of the Shrew</italic>, a triumphant Petruccio declares, “Why, there’s a wench! Come on, and kiss me, Kate!” (5.2.184), underlining through his demand the domination over Katherine Minola that he has been asserting since their first meeting, when he told her, “We will have rings, and things, and fine array, / And kiss me, Kate, we will be married o’ Sunday” (2.1.315–16). Within twenty years, however, Petruccio’s dominance was to be undermined and Shakespeare’s narrative reshaped in a new play by John Fletcher, <italic>The Woman’s Prize or The Tamer Tamed</italic>. Fletcher’s play resurrects</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.20</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>SHAKESPEARE AND THE RENAISSANCE STAGE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lamb</surname>
+                           <given-names>Edel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>258</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Renaissance stage, the artistic milieu in which Shakespeare’s dramatic works were originally produced, is fundamental to a consideration of the relationships between the playwright and the arts. Shakespeare’s plays were produced in the rapidly expanding institution of the theatre in late sixteenth- and early seventeenth-century London and the shifting practices of this establishment had a significant influence on his plays, and are also examined in them. <italic>The Tempest</italic>, for instance, performed as part of the repertory of the King’s Men at the Blackfriars and Globe playhouses between 1611 and 1613 and at the Jacobean court in November 1611 and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.21</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>SHAKESPEARE AND THE RESTORATION AND EIGHTEENTH-CENTURY STAGE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ritchie</surname>
+                           <given-names>Fiona</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>274</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In 1679 John Dryden wrote of the challenges he found in adapting Shakespeare in terms that might surprise a modern reader. In remodelling <italic>Troilus and Cressida</italic>, Dryden said he “undertook to remove that heap of Rubbish, under which many excellent thoughts lay wholly bury’d”. Similarly, in 1681 Nahum Tate described Shakespeare’s <italic>King Lear</italic> as “<italic>a Heap of Jewels, unstrung and unpolisht; yet . . . dazling in their Disorder</italic>” (Clark, 1997, 295). The Restoration theatre did not have the same reverence towards Shakespeare’s works that we do today; indeed, perhaps the most surprising aspect of the performance of Shakespeare on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.22</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>SHAKESPEARE AND THE VICTORIAN STAGE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Foulkes</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>292</fpage>
+                  <abstract abstract-type="extract">
+                     <p>On 27 June 1832 “Mr. William Charles Macready, [was] called in; and Examined by the Select Committee appointed to inquire in the LAWS affecting Dramatic Literature” (<italic>British Parliamentary Papers</italic>, 1968, 132–6). The Select Committee had been convened at the instigation of politician, novelist and playwright-to-be Mr Edward Lytton Bulwer as he then was, better known as Edward Bulwer Lytton. Earlier that month, on 7 June, the Reform Bill was passed and as his <italic>England and the English</italic>, published the next year, shows, Bulwer Lytton’s concern about the condition of England extended to the recreational opportunities for the population at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.23</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>SHAKESPEARE AND THE MODERN STAGE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carson</surname>
+                           <given-names>Christie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>310</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In addressing Shakespeare on stage in the twentieth and twenty-first centuries I face the two opposing dangers of providing too much coherence, on the one hand, and too little, on the other. It seems sensible therefore to try to trace three narrative strands that have largely determined our current vision of events, outlining the engagement with a Shakespeare who, in his theatrical manifestations, has become subject to a bewildering spectrum of new interpretive practices. Rather than an exhaustive account of Shakespeare on stage during these two centuries, this essay will try to connect, question and extend existing partial pictures of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.24</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>SHAKESPEARE AND CONTEMPORARY PERFORMANCE SPACES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hartley</surname>
+                           <given-names>Andrew James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>332</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Uncool Shakespeare. Is there another kind? Not if you believe some of those who fancy themselves on the cutting edge of contemporary performance. Brendan Kiley’s article for the online magazine <italic>Slog</italic> was unambiguously titled “The Tony Awards 2008, or Enough with the Goddamned Shakespeare Already”. Kiley was responding particularly to Chicago Shakespeare Theatre being nominated for the Tony award for best regional theatre company, and he did so in suggestive terms:</p>
+                     <p>
+                        <italic>Really</italic>? A regional Shakespeare theater? How very, <italic>very</italic> lame. Shakespeare gets enough attention and reward in America, what with the NEA shoving piles of its theater money to Shakespeare-in-the-heartland</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.25</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>SHAKESPEARE FOR CHILDREN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Scott-Douglass</surname>
+                           <given-names>Amy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>349</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Children’s Shakespeare is far from being young. In fact, it is more than 200 years old. From the first editions, printed in 1807, to current day adaptations, authors and illustrators have found in Shakespeare’s work ample material for retellings geared to youngsters.¹ This essay will look at the philosophies of children’s Shakespeare, and theories and practices of adaptation over the last two centuries. It will discuss several adaptations by the major figures of children’s Shakespeare: Henrietta and Thomas Bowdler, Mary and Charles Lamb, Edith Nesbit, Marchette Chutte, Leon Garfield, Lois Burdett, Marcia Williams and Tina Packer – along with other, non-canonical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.26</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>SHAKESPEARE AND TEENAGERS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wetmore</surname>
+                           <given-names>Kevin J.</given-names>
+                           <suffix>Jr</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>377</fpage>
+                  <abstract abstract-type="extract">
+                     <p>There are no teenagers in the seven ages of man. Jaques, in describing the development of a human being in <italic>As You Like It</italic>, moves from “the whining schoolboy, with his satchel / And shining morning face, creeping like snail / Unwillingly to school” to “the lover, / Sighing like furnace, with a woeful ballad / Made to his mistress’ eyebrow” (2.7.146–8). Although to a modern reader or audience member, this description may sound like a lovesick teenager, to Shakespeare’s audience it describes someone older. The teenager is not in the seven ages, not least because the teenager, at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.27</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>SHAKESPEARE AND THE COMIC BOOK</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jensen</surname>
+                           <given-names>Michael P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>388</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The Oregon Shakespeare Festival occupies parts of two blocks in downtown Ashland, Oregon.¹ Directly across the street from one of their buildings is <italic>More Fun</italic>, a comic book store selling new and old comics, graphic novels and books reprinting comic books and strips. The store reverses the usual trend in which retail shops make enough money in November and December to turn a profit for the year. At <italic>More Fun</italic>, it is some of the 125,000 tourists visiting the Shakespeare Festival that keep the lights on as many kill time between breakfast and the matinée. Shakespeare is independent from both</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.28</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>SHAKESPEARE, PORTRAITURE, PAINTING AND PRINTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blake</surname>
+                           <given-names>Erin C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>409</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter explores Shakespeare in paintings and prints by looking at pictures of Shakespeare himself and at pictures that illustrate the words he wrote. In essence, both types of image are portraits. They attempt to represent a pre-existing entity, whether a real person like Shakespeare, or the people and places he brought to life in his plays. Portraiture is supposedly about verisimilitude, but a successful portrait is less about replicating someone or something in another medium than about meeting expectations. Portraits depict what we want to see or what we expect to see, otherwise they prove unsatisfying. Shakespeare has meant</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.29</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>SHAKESPEARE, SCULPTURE AND THE MATERIAL ARTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Engler</surname>
+                           <given-names>Balz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>435</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Sculptures, traditionally three-dimensional representations of human beings, have been popular in the history of Shakespeare reception. They usually show the writer himself, occasionally certain figures from his plays, and they do so in different sizes, from larger-than life to miniature knick-knacks, and in different materials, from marble and bronze to china and even Welsh coal. The knick-knack has been popular since the eighteenth century, in the shape of small statues, thimbles, wine-stoppers, teapots, and so on as they can be found today in Stratford souvenir shops; Batman, of course, used a switch hidden in a Shakespeare bust to open the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.30</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>SHAKESPEARE EXHIBITION AND FESTIVAL CULTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burnett</surname>
+                           <given-names>Mark Thornton</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>445</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter discusses the policies and ideologies underpinning Shakespeare exhibitions and festivals. Once enshrined as a crucial element of national celebrations in Britain, and now often financed globally by corporate sponsorship, festivals represent a development of the Shakespearean franchise, involving issues of internationalism, patronage and access. As this discussion reveals, particular anniversaries are often selected for celebration, supporting occasions that span, variously, the activities of galleries, the repertory choices of theatres and the cultural projections of educational institutions. The uses of Shakespeare in exhibitions and festivals throughout the world, as is argued here, are complementary and point up distinctive assumptions</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.31</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>SHAKESPEARE AND SILENT FILM</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Buchanan</surname>
+                           <given-names>Judith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>467</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The idea of silent Shakespeare strikes many as oxymoronic. In its muting of Shakespearean drama, silent Shakespearean cinema robs its inherited source of that which most frequently, and perhaps most crucially, has been taken to define it. In effect, the collaboration of this dramatic material with this medium of expression can be read as a liaison of naturally antithetical forces: one imaginatively evokes the image through the suggestive power of the poetically employed word, the other does not just erode the power of the word in its privileging of the image, but all but ousts words from its performance space.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.32</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>SHAKESPEARE ON FILM, 1930–90</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Costantini-Cornède</surname>
+                           <given-names>Anne-Marie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>484</fpage>
+                  <abstract abstract-type="extract">
+                     <p>From 1930 to 1990, the phenomenon of Shakespeare on film was characterized by a great variety of activity, from landmark “mainstream” films, deferential to textual authority, to a full range of innovative cinematic essays of all kinds, including modernizations, derivatives or non-English cinematic Shakespeares, and transcultural appropriations trading on radical time and space transpositions, such as Akira Kurosawa’s <italic>Throne of Blood</italic> (1957) and <italic>Ran</italic> (1985), which shift <italic>Macbeth</italic> and <italic>Lear</italic> to <italic>Sengoku-Jidai</italic> (“wartroubled”) medieval Japan. Five main tendencies may be distinguished from the early days of sound movies to the beginning of the Shakespeare on screen revival marked by Kenneth</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.33</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>SHAKESPEARE ON FILM, 1990–2010</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wray</surname>
+                           <given-names>Ramona</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>502</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This chapter offers an overview of Shakespeare in his cinematic incarnations across two specific decades. It aims not so much at comprehensiveness, for such a project would necessitate a much longer and more intensive approach, but, rather, at a series of critical engagements with feature films that testify to the valences and values embedded in the Bard at a specific historical juncture. The period from 1990 onwards has been dubbed the “Kenneth Branagh Era” and, certainly, there is much to be said for seeing the director, producer and performer – recipient of awards and retrospectives – as central to Shakespeare on film,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.34</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>SHAKESPEARE ON TELEVISION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Purcell</surname>
+                           <given-names>Stephen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>522</fpage>
+                  <abstract abstract-type="extract">
+                     <p>“I don’t believe I’ve ever seen a memorable Shakespeare on television,” wrote <italic>The Guardian</italic>’s Nancy Banks-Smith in 1994; “or, if I have, I’ve forgotten it” (7 November 1994).¹ Indeed, televised Shakespeare productions have rarely been as high-profile or as widely-discussed as their cinematic counterparts, and certainly academic discussion of screen Shakespeare has been emphatically weighted towards the latter. One might be surprised, then, to observe that according to the BUFVC’s <italic>International Database of Shakespeare on Film, Television and Radio</italic>, television Shakespeare productions outnumber films on a ratio of something like 8:5.</p>
+                     <p>Why, then, is television Shakespeare so forgettable (or, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.35</book-part-id>
+                  <title-group>
+                     <label>29</label>
+                     <title>SHAKESPEARE AND RADIO</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Greenhalgh</surname>
+                           <given-names>Susanne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>541</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The all-star Renaissance Theatre Company production of <italic>Hamlet</italic> (BBC Radio 3, 26 April 1992), featuring Kenneth Branagh as the Prince and John Gielgud as the Ghost, is a bold and richly textured achievement, one which points to many of the issues that this chapter on Shakespeare and radio will seek to address.¹ Just under four hours long, with an “entirety” script conflated from the First Folio and Second Quarto, the production presents a version “probably never heard in the author’s lifetime (and perhaps never envisaged by him)” (Jackson, 1994, 202). Effectively this is a new work, one that raises fascinating</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.36</book-part-id>
+                  <title-group>
+                     <label>30</label>
+                     <title>SHAKESPEARE ON THE INTERNET AND IN DIGITAL MEDIA</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Best</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>558</fpage>
+                  <abstract abstract-type="extract">
+                     <p>At those moments when yet another window pops up on our computer screen warning us that we need to update our software, we surely feel rather like King John when he is beset with multiple disasters: “Withhold thy speed, dreadful Occasion” (4.2.125). John is invoking the figure <italic>Occasionem</italic>, or “Opportunity”, pictured in the emblem books of the period with winged feet, her hair trailing in front, where she can be seized, but bald behind (Fig. 30.1). Opportunity must be seized boldly. In this chapter I will explore the ways that scholars and Shakespeare enthusiasts have been seizing the opportunities that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.37</book-part-id>
+                  <title-group>
+                     <title>NOTES ON CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>577</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1r1z12.38</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>579</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

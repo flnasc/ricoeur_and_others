@@ -1,0 +1,195 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt32b5pr</book-id>
+      <subj-group>
+         <subject content-type="call-number">B3279.H48B4536 2006</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Heidegger, Martin, 1889–1976. Beiträge zur Philosophie</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Emergency of Being</book-title>
+         <subtitle>On Heidegger’s “Contributions to Philosophy”</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>POLT</surname>
+               <given-names>RICHARD</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>05</month>
+         <year>2006</year>
+      </pub-date>
+      <isbn content-type="ppub">9780801437328</isbn>
+      <isbn content-type="epub">9780801469954</isbn>
+      <publisher>
+         <publisher-name>Cornell University Press</publisher-name>
+         <publisher-loc>Ithaca; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>Cornell University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7591/j.ctt32b5pr"/>
+      <abstract abstract-type="short">
+         <p>"The heart of history, for Heidegger, is not a sequence of occurrences but the eruption of significance at critical junctures that bring us into our own by making all being, including our being, into an urgent issue. In emergency, being emerges."-from<italic>The Emergency of Being</italic>
+         </p>
+         <p>The esoteric<italic>Contributions to Philosophy</italic>, often considered Martin Heidegger's second main work after<italic>Being and Time</italic>, is crucial to any interpretation of his thought. Here Heidegger proposes that being takes place as "appropriation." Richard Polt's independent-minded account of the<italic>Contributions</italic>interprets appropriation as an event of emergency that demands to be thought in a "future-subjunctive" mode. Polt explores the roots of appropriation in Heidegger's earlier philosophy; Heidegger's search for a way of thinking suited to appropriation; and the implications of appropriation for time, space, human existence, and beings as a whole. In his concluding chapter, Polt reflects critically on the difficulties of the radically antirationalist and antimodern thought of the<italic>Contributions</italic>.</p>
+         <p>Polt's original reading neither reduces this challenging text to familiar concepts nor refutes it, but engages it in a confrontation-an encounter that respects a way of thinking by struggling with it. He describes this most private work of Heidegger's philosophy as "a dissonant symphony that imperfectly weaves together its moments into a vast fugue, under the leitmotif of appropriation. This fugue is seeded with possibilities that are waiting for us, its listeners, to develop them. Some are dead ends-viruses that can lead only to a monolithic, monotonous misunderstanding of history. Others are embryonic insights that promise to deepen our thought, and perhaps our lives, if we find the right way to make them our own."</p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Thinking the Esoteric</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The enigmatic manuscript titled <italic>Beiträge zur Philosophie (Vom Ereignis)</italic> was composed by Martin Heidegger in private during 1936–38. It sets the stage for all his later thought by shifting from <italic>Being and Time</italic>’s hermeneutic phenomenology of <italic>Dasein</italic> (the entity who understands being) to a meditation on “the event of appropriation” (<italic>das Ereignis</italic>) as the happening of “being” (<italic>Seyn</italic>) itself.</p>
+                     <p>The project seems crucial, but so far there is less consensus about this book than about nearly any other twentieth-century philosophical text. Is it “Heidegger’s major work” or “metaphysical dadaism”?¹ An earthshaking achievement or laughable gibberish? Specialists do not even</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Toward Appropriation</title>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The <italic>Contributions to Philosophy</italic> must be understood in the context of the basic question of Heidegger’s thought. This question itself must be understood in the context of the Western philosophical tradition. Most important, in order to understand Heidegger and the tradition we have to reflect independently on the matters at stake.</p>
+                     <p>All these preliminaries may seem redundant, since we presumably already know what is at stake in Heidegger’s thinking and what, according to him, lies spoken or unspoken behind every philosophical problem: “the question of being.” But what is this question asking? What topic does Heidegger’s word <italic>being</italic> indicate, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Event of Thinking the Event</title>
+                  </title-group>
+                  <fpage>88</fpage>
+                  <abstract abstract-type="extract">
+                     <p>We have come far enough to see that appropriation demands a unique way of thinking and writing. Ordinarily, to think is to represent entities; but Heidegger wants to think of a coming-to-ownness that could take place between being-there and be-ing. Our task in this chapter is a <italic>Wegbesinnung,</italic> a meditation on the way (77). This cannot simply be a meditation <italic>about</italic> the way, a discourse on method, as if we could determine the proper path before setting foot on it. To think about the thinking of appropriation is, at the same time, to think of appropriation itself—and even to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Straits of Appropriation</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Our basic account of appropriation is in place, as is our investigation of Heidegger’s way of thinking. Our main findings can be recalled as follows. The <italic>Contributions</italic> respond to the problem of how the being of beings is given to us. Heidegger consistently approaches this problem in terms of ways of belonging that precede theoretical abstraction. In the <italic>Contributions,</italic> his goal is to think in a way that participates in be-ing (the giving of the being of beings) as a unique, possible event of owning. To bethink be-ing is to take part in the founding of the there—the event</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Afterthoughts</title>
+                  </title-group>
+                  <fpage>214</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The text <italic>Contributions to Philosophy</italic> is one of Heidegger’s thought experiments.¹ One does not refute a thought experiment; one pursues it imaginatively and sees where it leads, without giving up one’s critical awareness. It would be inappropriate to treat Heidegger’s inquiry as nothing but a set of claims to be defended or attacked. Instead, we have to follow the paths it opens and decide as best we can which ones are promising, without assuming in advance that any are dead ends.</p>
+                     <p>The <italic>Contributions</italic> point to the momentousness of truth—to the possibility of disclosure as an urgent event that takes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.10</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt32b5pr.11</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

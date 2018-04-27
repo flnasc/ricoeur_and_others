@@ -1,0 +1,610 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7hbg7t</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1btbxwz</book-id>
+      <subj-group>
+         <subject content-type="call-number">DC361.R43 2001</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">France</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">20th century</subject>
+               <subj-group>
+                  <subject content-type="lcsh">Congresses</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Recollections of France</book-title>
+         <subtitle>Memories, Identities and Heritage in Contemporary France</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Blowen</surname>
+               <given-names>Sarah</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Demossier</surname>
+               <given-names>Marion</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Picard</surname>
+               <given-names>Jeanine</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>12</month>
+         <year>2001</year>
+      </pub-date>
+      <isbn content-type="epub">9781782389880</isbn>
+      <isbn content-type="epub">1782389881</isbn>
+      <publisher>
+         <publisher-name>Berghahn Books</publisher-name>
+         <publisher-loc>New York; Oxford</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Sarah Blowen</copyright-holder>
+         <copyright-holder>Marion Demossier</copyright-holder>
+         <copyright-holder>Jeanine Picard</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1btbxwz"/>
+      <abstract abstract-type="short">
+         <p>Since the 1980s, France has experienced a vigorous revival of interest in its past and cultural heritage. This has been expressed as part of a movement of remembering through museums and festivals as well as via elaborate commemorations, most notably those held to celebrate the bi-centenary of the Revolution in 1989 and can be interpreted as part of a re-examinaton of what it means to be French in the context of ongoing Europeanization. This study brings together scholars from multidisciplinary backgrounds and engages them in debate with professionals from France, who are working in the fields of museology, heritage and cultural production. Addressing subjects such as war and memory, gastronomy and regional identity, maritime culture and urban societies, they throw fresh light on the process by which France has been conceptualized and packaged as a cultural object.</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blowen</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Demossier</surname>
+                           <given-names>Marion</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Picard</surname>
+                           <given-names>Jeanine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.4</book-part-id>
+                  <title-group>
+                     <title>Editorial Note</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blowen</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Demossier</surname>
+                           <given-names>Marion</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Picard</surname>
+                           <given-names>Jeanine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Memories, identities and heritage have become the new holy trinity for contemporary academic research. In France, this fascination is borne out by a wide variety of sacred texts, be they Pierre Nora’s<italic>Les Lieux de mémoire</italic>(1984–1993) or the more recent<italic>Patrimoine et passions identitaires</italic>, edited by Jacques Le Goff in 1998.¹</p>
+                     <p>The purpose of the present volume is to explore the relationship between this surge in academic interest and a demonstrable shift in public consciousness and public passions; the contributors exemplify the many and varied forms that these passions take. Its originality resides in the fact that it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>RECONSTRUCTING THE PAST:</title>
+                     <subtitle>In Search of New ‘National Identities’?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jenkins</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>For a long time the writing of French history was profoundly influenced by what are now referred to as ‘grand narratives’, which structured our perceptions of the national past. The concern to tell a convincing and coherent story, to make history intelligible and relevant to the present, led historians from a variety of schools and disciplines to focus on the<italic>longue durée</italic>, to seek out the underlying processes of change, often linked to notions of social progress, and to invest history with an inherent and unfolding logic.</p>
+                     <p>These narratives have since lost some of their persuasive power. They are now</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>RECALLING THE PAST AND RECREATING IT:</title>
+                     <subtitle>‘Museums Actual and Possible’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reynolds</surname>
+                           <given-names>Siân</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>22</fpage>
+                  <abstract>
+                     <p>Is it true, as Pierre Nora claimed in 1984, that memory becomes precious just when it vanishes? ‘On ne parle tant de mémoire que parce qu’il n’y en a plus’. What he seems to mean is not that individuals have forgotten their own past, but that collective repositories of memory – such as the French<italic>paysans</italic>– have been destroyed or scattered by devastating and rapid change in recent times. Memory as something magical, often tied to physical objects, rituals or sensations, can be contrasted as it is by Nora, with history, which implies critical reflection: memory is poetry, history</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>WAR MUSEUMS IN FRANCE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Joly</surname>
+                           <given-names>Marie-Hélène</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>33</fpage>
+                  <abstract>
+                     <p>The museum is just one element of commemorative public policies and the way war is remembered. In fact, there are many other vehicles for memorialising war besides museums, ranging from social care for war veterans and the management of military cemeteries, to the politics of commemoration (the choice of Remembrance Days, the organisation of commemorative ceremonies) and the erection of physical memorials (wall plaques and tablets; war memorials and large commemorative monuments) as well as the naming of streets. Given all this activity, museums form only a very small part of the way in which memories of war are perpetuated.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>PUBLIC HISTORY AND THE ‘HISTORIAL’ PROJECT, 1986–1998</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Winter</surname>
+                           <given-names>Jay</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>52</fpage>
+                  <abstract>
+                     <p>My subject is public history, history outside the academy, linking historians to the broad population interested – sometimes passionately interested – in historical inquiry. Public history is defined by this extension of the domain within which the scholar operates. The audience for historical literature defines the discipline as much as the professional credentials of the practitioner. Public history is thus an attempt to flee from the increasing specialisation and decreasing readership of professional academic work, both in journals and in monograph form. It is also a recognition that historical scholarship is intrinsically tied to concepts of educating the public, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>LEST WE FORGET:</title>
+                     <subtitle>Memories, History and the Musée de la Résistance et de la Déportation de l’Isère</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blowen</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>On 1August 1994, under a blistering sun, hundreds of<italic>Grenoblois</italic>lined the streets of their city to watch a drive-past of historic military vehicles. A military band played and a local choir sang the<italic>Chant des partisans</italic>. The crowd, moved to tears, reported the Dauphiné Libéré,¹ watched on as local children, dressed in white, collected around a huge urn. Some carried flaming torches, while others carried phials containing earth from the fifty-eight cantons of the departement of the Isère, which were solemnly emptied into the urn. There were speeches, dignitaries were present, the accent was on the ceremonial.</p>
+                     <p>The occasion</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>CONSTRUCTION OF A BRETON MARITIME HERITAGE:</title>
+                     <subtitle>Processes and Signification</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Péron</surname>
+                           <given-names>Françoise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>It is fairly common in France to speculate as to why it has taken such a long time to recognise the importance of preserving and promoting the heritage linked to France’s maritime past. This slow awakening applies to harbours and quaysides, rope-works, military dockyards as well as merchant craft, naval vessels and fishing fleets. The French, compared to the British or the Dutch, have in the past shown only a sporadic interest in the 4,500 kilometres of coastline which circumscribe their metropolitan territory. For the French, their country has been first and foremost a land mass: its coastal regions were</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>HERITAGE AND HISTORY:</title>
+                     <subtitle>Rocking the Boat</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chappé</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>108</fpage>
+                  <abstract>
+                     <p>If only because of who its authors are, this apparently lighthearted quotation deserves a detailed analysis for several reasons: in fact practically every word in it poses an interesting problem; it ends with a question, the answer to which, while misleadingly tautological, is a stimulating enigma for all those concerned with heritage. The maritime scene will be the focus of our present study, but the difficulties encountered are of the same nature whether we consider rural, industrial or maritime heritage.</p>
+                     <p>By definition, and this is the only definition possible, heritage is a human activity with a universal application in time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>HIDDEN REEFS:</title>
+                     <subtitle>A Case Study of the Port-Rhu Floating Museum Fiasco in Douarnenez</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Picard</surname>
+                           <given-names>Jeanine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>It may seem paradoxical to select a failed venture in a small Breton coastal town as an illustration of the enthusiasm felt by the French for maritime heritage at the present time. Yet the present case study seeks to illustrate some of the dangers, shortcomings and excesses related to maritime heritage, already highlighted by Françoise Péron (see Chapter 6) and by François Chappé (Chapter 7). This chapter examines the conflicts and contradictions which arose between interested parties in the political, economic, cultural and social fields when a new heritage structure was hurriedly set up in the 1990s in Douarnenez. We</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>CULINARY HERITAGE AND PRODUITS DE TERROIR IN FRANCE:</title>
+                     <subtitle>Food for Thought</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Demossier</surname>
+                           <given-names>Marion</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>The decision taken in 1984 to produce a compilation of the culinary heritage of France, defined as a cultural and economic inventory of traditional and regional food and cuisine,¹ reflects more than just a mere interest in the past. The creation of such an inventory illustrates the various social and economic transformations experienced by French society in recent decades. The crisis in French agriculture and the consequent restructuring of local identities have provided two of the principal driving forces behind these changes. In this context, culinary heritage can be represented as the point at which political, economic and social spheres</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>A MARKET CULTURE:</title>
+                     <subtitle>Produits de terroir or the Selling of Heritage</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bérard</surname>
+                           <given-names>Laurence</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marchenay</surname>
+                           <given-names>Philippe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>154</fpage>
+                  <abstract>
+                     <p>There is no better example of the interaction between the heritage movement and the socio-economic interests of modern French agriculture than that of the so-called<italic>produits de terroir</italic>. The term<italic>produits de terroir</italic>itself is notoriously difficult to define, but it is perhaps best described as traditional ‘local agricultural products and foodstuffs’ (English official rendering) whose qualities cross time and space and are anchored in a specific place and history. Products such as<italic>Epoisses de Bourgogne</italic>or<italic>foie gras</italic>are defined by the fact that they depend on the shared savoir-faire of a given community and its culture. These products,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>PRODUITS DE TERROIR:</title>
+                     <subtitle>Between Local Identity and Heritage</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Portet</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>168</fpage>
+                  <abstract>
+                     <p>In the course of the last twenty-five years, the conception and practice of both French heritage and culture have been transformed. The 1970s were marked by the proliferation of cultural activities touching on regional identity, languages, traditions, trades and the individual culture of specific professions. In 1978 the creation of a<italic>Direction du Patrimoine</italic>(Department of Heritage) within the Ministry of Culture opened the way for new objects to be studied, protected and preserved. 1980 was declared ‘Heritage Year’, and events associated with it helped to legitimise new forms of heritage especially in the industrial and rural sectors. The approach</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>FAST FORWARD TO THE FUTURE?</title>
+                     <subtitle>Cultural Policies and the Definition of Urban Identities in the Era of De-industrialisation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milner</surname>
+                           <given-names>Susan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>The task of defining urban identities seems to be more necessary than ever at a time of massive socio-economic upheaval and residential mobility, and as the relationship between the local, national (itself undergoing redefinition) and international is changing. There are important political, economic and social reasons for defining specific urban identities. The political reasons relate to successive urban regeneration initiatives since the early 1980s as well as decentralisation laws dating from the same period. Economic regeneration has a marked regional and local aspect, particularly since decentralisation, as mayors compete for business location and state funding on the basis of local</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>PUBLIC POLICY AND URBAN CULTURES IN FRANCE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ménard</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>Three-quarters of the French population live in urban areas, and yet urban cultures have only recently begun to take their place in cultural policy. While it is true that the state does now finance operations or organisations which are defined by a specifically urban frame of reference (<italic>Projets culturels de quartiers</italic>– Neighbourhood Cultural Projects,<italic>Rencontres des cultures urbaines</italic>– The Festival of Urban Cultural Expression,<italic>Maîtrise d’oeuvre urbaine et culturelle</italic>– contracts for the construction of cultural projects in urban areas), the involvement of the public authorities is often ambivalent. This means that the operation can fit rather uncomfortably</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>THE MEAN(ING OF THE) STREETS:</title>
+                     <subtitle>Reading Urban Cultures in Contemporary France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Warne</surname>
+                           <given-names>Chris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>226</fpage>
+                  <abstract>
+                     <p>Cities, and capital cities in particular, are clearly the central focus for national memory. At the centre of such memory is the manner in which the city space is captured in the shorthand of symbol or mental representation. For example, the city of Paris is most easily represented by certain of the monuments that define its central space, or possibly by less monumental buildings that nonetheless capture the flavour and atmosphere of a particular quarter or<italic>arrondissement</italic>(administrative district), made familiar to the intended target of that representation by repeated itineraries and wanderings. Yet this double vision of the city,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.20</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>246</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.21</book-part-id>
+                  <title-group>
+                     <title>NOTES ON CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1btbxwz.22</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>258</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

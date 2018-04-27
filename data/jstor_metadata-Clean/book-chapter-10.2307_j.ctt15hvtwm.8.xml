@@ -1,0 +1,811 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt15hvtwm</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Derecho Constitucional</subject>
+         <subj-group>
+            <subject content-type="lcsh">Chile</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Law</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Derecho Constitucional chileno II</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Egaña</surname>
+               <given-names>José Luis Cea</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>03</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9789561410282</isbn>
+      <isbn content-type="epub">9789561415454</isbn>
+      <publisher>
+         <publisher-name>Ediciones UC</publisher-name>
+         <publisher-loc>Santiago, Chile</publisher-loc>
+      </publisher>
+      <edition>2</edition>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Inscripción Nº 214.755</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt15hvtwm"/>
+      <abstract abstract-type="short">
+         <p>Un completo índice onomástico y de conceptos facilita la ubicación de la gran variedad de tópicos que examina esta obra. A lo largo de sus páginas, el autor declara su compromiso con los valores, principios y normas del humanismo. El texto ha sido escrito con el propósito de ser útil especialmente a profesores y alumnos en el proceso docente y, también, a los órganos del Estado, los abogados y la ciudadanía en general en la consolidación del régimen democrático en nuestro país.</p>
+      </abstract>
+      <counts>
+         <page-count count="406"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.3</book-part-id>
+                  <title-group>
+                     <title>PRESENTACIÓN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Egaña</surname>
+                           <given-names>José Luis Cea</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Este volumen, segundo de la obra en elaboración, está dedicado a los derechos, deberes y garantías fundamentales, aseguradas a todas las personas a quienes les sea aplicable el ordenamiento constitucional chileno.</p>
+                     <p>Sobre la base de los antecedentes, principios y valores expuestos en el Tomo I, se analizan, primeramente, los derechos públicos subjetivos inherentes a la persona humana y que emanan de la dignidad de ella. Después se estudian las garantías, esto es, las acciones y recursos, especialmente jurisdiccionales, destinados a infundir eficacia, entendida en sentido sociológico, a los derechos aludidos. Finalmente, aparece el examen sistemático de los deberes contemplados en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.4</book-part-id>
+                  <title-group>
+                     <title>PREFACIO A LA SEGUNDA EDICIÓN</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Egaña</surname>
+                           <given-names>José Luis Cea</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>29</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.5</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO I</label>
+                     <title>PRECISIONES CONCEPTUALES</title>
+                  </title-group>
+                  <fpage>35</fpage>
+                  <abstract>
+                     <p>1. Derechos, deberes y garantías. El Capítulo III de la Carta Fundamental en vigor versa sobre los<italic>Derechos y deberes constitucionales</italic>. ¿Qué son, entonces, las<italic>garantías</italic>en tal materia?</p>
+                     <p>Para responder, recordaremos sumariamente los anales constitucionales de nuestra República en el tópico.</p>
+                     <p>La primera Constitución que utilizó la denominación<italic>derechos y deberes constitucionales</italic>fue la de 1818. En los Códigos Políticos posteriores se suprimió la referencia a los deberes, aludiéndose sólo a los derechos o a las garantías fundamentales. Tal vez, ocurrió así porque se asumió que a todo derecho va anejo el deber correlativo.</p>
+                     <p>En el Código Político de 1980</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.6</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO II</label>
+                     <title>ESTATUTO DE LA PERSONA</title>
+                  </title-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Resumiremos los rasgos prominentes de los derechos humanos, considerando especialmente su formulación en el Capítulo III de la Constitución de 1980 y la relación de aquél con el artículo 5 inciso 2º del mismo Código Político. Tales características serán expuestas con intención ilustrativa, de modo que las reflexiones que siguen no configuran una explicación exhaustiva en el tema.</p>
+                     <p>5. Importancia del capítulo III. Él se refiere a la parte dogmática de la Constitución, de lo cual se sigue una diferencia con los Capítulos IV y siguientes, que abarcan la parte orgánica de ella. Pero en aquel Capítulo III se hallan, además,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.7</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO III</label>
+                     <title>DERECHO A LA VIDA Y A LA INTEGRIDAD PERSONAL</title>
+                  </title-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Trátase de los derechos más próximos a la dignidad de la persona y, por lo mismo, básicos o primarios en el sentido de que son el supuesto de los demás. La complejidad que ha ido adquiriendo el desarrollo de tales derechos y los peligros que se ciernen sobre el ejercicio legítimo de ellos justifica un examen pausado del tema<sup>98</sup>.</p>
+                     <p>38. Texto constitucional. Léese en el artículo 19 Nº 1 de la Carta Política que ella asegura a todas las personas:</p>
+                     <p>El derecho a la vida y a la integridad física y psíquica de la persona.</p>
+                     <p>La ley protege la vida del</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.8</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO IV</label>
+                     <title>IGUALDAD ANTE LA LEY</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>La igualdad en y ante la ley, conocida también como<italic>isonomia</italic>, es un valor y un principio constitucional de la más alta relevancia. Curiosamente, las constituciones le dedican disposiciones claras, completas y especìficas rasgo que no se advierte a propósito de otro valor y principio seguramente de mayor relevancia aún, que es el de la libertad. Asociada a los adjetivos que la califican, v. gr., la conciencia, el culto, la expresión y el desplazamiento físico o ambulatorio, la libertad carece de preceptos fundamentales sólo dedicados a ella, como tal, pues los más amplios que le están dedicados, por ejemplo, en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.9</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO V</label>
+                     <title>IGUAL PROTECCIÓN DE LOS DERECHOS</title>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Aunque relacionada y complementaria de la isonomía<italic>en</italic>la ley, esta especie de igualdad es distinta de aquella, pues se refiere a la interpretación y aplicación, uniforme o sin diferencias arbitrarias, por los órganos estatales y los particulares del ordenamiento jurídico vigente en casos o situaciones concretas, especialmente cuando son semejantes, más todavía en el extremo de ser idénticas. Trátase de una novedad de la Carta Política en vigor, aún no suficientemente desarrollada por la doctrina, menos todavía en la jurisprudencia.</p>
+                     <p>Nos parece necesario distinguir dos aspectos en esta materia. Uno es el más simple y se refiere a que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.10</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VI</label>
+                     <title>DERECHO A LA INTIMIDAD Y A LA HONRA</title>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Los derechos nombrados son atributos públicos subjetivos que forman parte del patrimonio moral de la persona. Se conocen también como<italic>derechos personalísimos</italic>, por su vinculación, directa y esencial, con la dignidad humana, su vida, integridad e imagen. Quebrantar tales atributos inalienables es afectar en su esencia la normalidad psíquica de quien los sufre, causa frecuente también de secuelas en la vida somática del individuo y en la tranquilidad de su familia. Por eso, debe ser relacionado este derecho con lo asegurado y proclamado en el artículo 1 incisos 2º y 5º y en el numeral 1º inciso primero del artículo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.11</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VII</label>
+                     <title>INVIOLABILIDAD DEL HOGAR Y DE LAS COMUNICACIONES PRIVADAS</title>
+                  </title-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>Ambos son atributos inalienables de la persona, indicativos de su proyección desde lo íntimo hacia la comunidad y de la incidencia de esta en la autonomía del sujeto. Como tales, trátase de derechos inalienables, pero susceptibles de ser adecuadamente o no ejercidos, característica que justifica regularlos para que se encuadren en la legitimidad que los justifica por principio. Sólo la ley puede restringir su goce, aunque siempre respetando la esencia libertaria que hemos destacado. Esta potestad normativa se halla, sin embargo, sujeta al control de supremacía por el Tribunal Constitucional y al homónimo político de los medios de comunicación. Reabramos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.12</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO VIII</label>
+                     <title>LIBERTAD DE CONCIENCIA Y DE CULTOS</title>
+                  </title-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>La Constitución asegura a todas las personas la libertad de conciencia, la manifestación de todas las creencias y el ejercicio libre de todos los cultos. Trátase de tres derechos relacionados pero distintos, siendo el primero de ellos tan vinculado al fuero interno del individuo que pudo quedar ubicado antes en la numeración del artículo 19 del Código Político. Los problemas que se sufren en la actualidad están vinculados a la penetración, por medios externos, en la conciencia de la persona para manipularla sin ninguna consideración ética. Esos problemas se observan también, desde el extremo opuesto, cuando se invoca tal libertad</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.13</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO IX</label>
+                     <title>LIBERTAD PERSONAL Y SEGURIDAD INDIVIDUAL</title>
+                  </title-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>Trátase de un derecho público subjetivo esencial para el ejercicio de otra serie de atributos inalienables de la persona. Su relevancia se capta al tener presente que, sin libertad física o ambulatoria efectivamente garantizada, el ejercicio de numerosos derechos fundamentales del individuo, como tal y asociado, queda impedido o suprimido. Por ejemplo, eso sucede con el derecho de reunión o de manifestación en sus más diversas especies, o bien, a propósito de múltiples manifestaciones de la libertad de expresión o del derecho de asociación y la libertad de trabajo que presuponen la homónima de desplazamiento.</p>
+                     <p>La libertad personal, conocida también</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.14</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO X</label>
+                     <title>ACCIÓN Y RECURSO DE AMPARO</title>
+                  </title-group>
+                  <fpage>299</fpage>
+                  <abstract>
+                     <p>200. Habeas corpus constitucional y legal. La acción o recurso de amparo de la libertad personal o de circulación del individuo, conocida también como<italic>habeas corpus</italic>desde su proclamación en la Carta Magna inglesa de 1215, se halla regulada en el artículo 21 de la Constitución. Sin embargo, en el artículo 95 del nuevo Código Procesal Penal se contempla el amparo ante el juez de garantía, acción cautelar que debe entenderse nada más que con el carácter de complementaria o supletoria de la prevista en la Carta Fundamental.</p>
+                     <p>Lo expuesto permite comprender la necesidad de referirse a ambos arbitrios, uno de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.15</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XI</label>
+                     <title>DERECHO A VIVIR EN AMBIENTE INCONTAMINADO</title>
+                  </title-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>220. Texto constitucional. Preceptúa el artículo 19 Nº 8 que la Constitución asegura a todas las personas:</p>
+                     <p>El derecho a vivir en un medio ambiente libre de contaminación. Es deber del Estado velar para que este derecho no sea afectado y tutelar la preservación de la naturaleza.</p>
+                     <p>La ley podrá establecer restricciones específicas al ejercicio de determinados derechos o libertades para proteger el medio ambiente.</p>
+                     <p>221. Coordinaciones. La legislación a que hace referencia la disposición constitucional es, principal pero no únicamente, la Ley de Bases del Medio Ambiente<sup>441</sup>.</p>
+                     <p>En la Carta Fundamental es necesario tener presente, además, el derecho a la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.16</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XII</label>
+                     <title>DERECHO A LA PROTECCIÓN DE LA SALUD</title>
+                  </title-group>
+                  <fpage>325</fpage>
+                  <abstract>
+                     <p>230. Texto constitucional. La Constitución asegura a todas las personas, en el artículo 19 Nº 9:</p>
+                     <p>El derecho a la protección de la salud.</p>
+                     <p>El Estado protege el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación del individuo.</p>
+                     <p>Le corresponderá, asimismo, la coordinación y control de las acciones relacionadas con la salud.</p>
+                     <p>Es deber preferente del Estado garantizar la ejecución de las acciones de salud, sea que se presten a través de instituciones públicas o privadas, en la forma y condiciones que determine la ley, la que podrá establecer cotizaciones obligatorias.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.17</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XIII</label>
+                     <title>DERECHO A LA EDUCACIÓN</title>
+                  </title-group>
+                  <fpage>345</fpage>
+                  <abstract>
+                     <p>241. Texto constitucional. En su artículo 19 Nº 10 la Constitución asegura a todas las personas:</p>
+                     <p>El derecho a la educación.</p>
+                     <p>La educación tiene por objeto el pleno desarrollo de la persona en las distintas etapas de su vida.</p>
+                     <p>Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho.</p>
+                     <p>Para el Estado es obligatorio promover la educación parvularia y garantizar el acceso gratuito y el financiamiento fiscal al segundo nivel de transición, sin que éste constituya requisito para el ingreso a la educación básica<sup>486</sup>.</p>
+                     <p>La educación</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.18</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XIV</label>
+                     <title>LIBERTAD DE ENSEÑANZA</title>
+                  </title-group>
+                  <fpage>359</fpage>
+                  <abstract>
+                     <p>254. Texto constitucional. El artículo 19 Nº 11 se refiere a la libertad de enseñanza. Con un error de ilación evidente entre el inciso 1º del artículo 19 y su numeral 11º, esa disposición asegura a todas las personas:</p>
+                     <p>La libertad de enseñanza incluye<italic>(sic)</italic>el derecho de abrir, organizar y mantener establecimientos educacionales.</p>
+                     <p>La libertad de enseñanza no tiene otras limitaciones que las impuestas por la moral, las buenas costumbres, el orden público y la seguridad nacional.</p>
+                     <p>La enseñanza reconocida oficialmente no podrá orientarse a propagar tendencia político partidista alguna.</p>
+                     <p>Los padres tienen el derecho de escoger el establecimiento de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.19</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XV</label>
+                     <title>LIBERTAD DE EXPRESIÓN</title>
+                  </title-group>
+                  <fpage>381</fpage>
+                  <abstract>
+                     <p>275. Texto constitucional. En su artículo 19 Nº 12, la Constitución asegura a todas las personas:</p>
+                     <p>La libertad de emitir opinión y la de informar, sin censura previa, en cualquier forma y por cualquier medio, sin perjuicio de responder de los delitos y abusos que se cometan en el ejercicio de estas libertades, en conformidad a la ley, la que deberá ser de quórum calificado.</p>
+                     <p>La ley en ningún caso podrá establecer monopolio estatal sobre los medios de comunicación social.</p>
+                     <p>Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social, tiene derecho a que su declaración</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.20</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XVI</label>
+                     <title>DERECHO DE REUNIÓN</title>
+                  </title-group>
+                  <fpage>423</fpage>
+                  <abstract>
+                     <p>319. Texto constitucional. En su artículo 19 Nº 13, la Constitución asegura a todas las personas:</p>
+                     <p>El derecho a reunirse pacíficamente sin permiso previo y sin armas. Las reuniones en las plazas, calles y demás lugares de uso público, se regirán por las disposiciones generales de policía.</p>
+                     <p>320. Coordinaciones. El derecho de reunión, llamado también<italic>de manifestación</italic>
+                        <sup>576</sup>, es uno de los múltiples atributos públicos subjetivos inherentes a la convivencia o vida social de la persona humana. En tal sentido, ese derecho debe ser coordinado, por ejemplo, con el artículo 1 incisos 1º, 3º y 5º; con el artículo 19 Nº 12 y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.21</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XVII</label>
+                     <title>DERECHO DE PETICIÓN</title>
+                  </title-group>
+                  <fpage>431</fpage>
+                  <abstract>
+                     <p>328. Texto constitucional. En su artículo 19 Nº 14 la Constitución asegura a todas las personas:</p>
+                     <p>El derecho de presentar peticiones a la autoridad, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes.</p>
+                     <p>329. Coordinaciones. Trátase de un derecho de ejercicio amplio en cuanto puede serlo ante cualquier autoridad, sin excepción alguna. No obstante, la doctrina ha realzado la importancia de este derecho en relación con los tribunales de justicia, en el sentido de que el derecho de acceder a ellos, a través de la acción procesal respectiva, sería una manifestación</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.22</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XVIII</label>
+                     <title>DERECHO DE ASOCIACIÓN</title>
+                  </title-group>
+                  <fpage>437</fpage>
+                  <abstract>
+                     <p>335. Texto constitucional. En su artículo 19 Nº 15, la Constitución asegura a todas las personas:</p>
+                     <p>El derecho de asociarse sin permiso previo.</p>
+                     <p>Para gozar de personalidad jurídica, las asociaciones deberán constituirse en conformidad a la ley.</p>
+                     <p>Nadie puede ser obligado a pertenecer a una asociación.</p>
+                     <p>Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado.</p>
+                     <p>Los partidos políticos no podrán intervenir en actividades ajenas a las que le son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el servicio electoral del Estado, el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.23</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XIX</label>
+                     <title>LIBERTAD DE TRABAJO</title>
+                  </title-group>
+                  <fpage>457</fpage>
+                  <abstract>
+                     <p>354. Texto constitucional. El artículo 19 Nº 16 de la Constitución asegura a todas las personas:</p>
+                     <p>La libertad de trabajo y su protección.</p>
+                     <p>Toda persona tiene derecho a la libre contratación y a la libre elección del trabajo con una justa retribución.</p>
+                     <p>Se prohíbe cualquiera discriminación que no se base en la capacidad o idoneidad personal, sin perjuicio de que la ley pueda exigir la nacionalidad chilena o límites de edad para determinados casos.</p>
+                     <p>Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad pública, o que lo exija el</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.24</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XX</label>
+                     <title>IGUALDAD ANTE LOS CARGOS PÚBLICOS</title>
+                  </title-group>
+                  <fpage>477</fpage>
+                  <abstract>
+                     <p>383. Texto constitucional. El artículo 19 Nº 17 de la Carta Fundamental asegura a todas las personas:</p>
+                     <p>La admisión a todas las funciones y empleos públicos, sin otros requisitos que los que impongan la Constitución y las leyes.</p>
+                     <p>384. Coordinaciones. La Ley Orgánica Constitucional Nº 18.575, sobre Bases Generales de la Administración del Estado, en su párrafo 2º, titulado De la Carrera Funcionaria, establece las normas fundamentales que regulan el desempeño laboral de los empleados públicos. En su artículo 46 señala que “El ingreso en calidad de titular se hará por concurso público y la selección de los postulantes se efectuará mediante</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.25</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXI</label>
+                     <title>DERECHO A LA SEGURIDAD SOCIAL</title>
+                  </title-group>
+                  <fpage>483</fpage>
+                  <abstract>
+                     <p>388. Texto constitucional. La Constitución, en su artículo 19 Nº 18, asegura a todas las personas:</p>
+                     <p>El derecho a la seguridad social.</p>
+                     <p>Las leyes que regulen el ejercicio de este derecho serán de quórum calificado.</p>
+                     <p>La acción del Estado estará dirigida a garantizar el acceso de todos los habitantes al goce de prestaciones básicas uniformes, sea que se otorguen a través de instituciones públicas o privadas. La ley podrá establecer cotizaciones obligatorias.</p>
+                     <p>El Estado supervigilará el adecuado ejercicio del derecho a la seguridad social.</p>
+                     <p>389. Coordinaciones. Es conveniente relacionar la norma transcrita con el artículo 1, especialmente en lo relativo al bien</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.26</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXII</label>
+                     <title>DERECHO DE SINDICARSE</title>
+                  </title-group>
+                  <fpage>497</fpage>
+                  <abstract>
+                     <p>405. Texto constitucional. El artículo 19 Nº 19 de la Constitución asegura a todas las personas:</p>
+                     <p>El derecho de sindicarse en los casos y forma que señale la ley. La afiliación sindical será siempre voluntaria.</p>
+                     <p>Las organizaciones sindicales gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley.</p>
+                     <p>La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales no podrán intervenir en actividades político partidistas.</p>
+                     <p>406. Coordinaciones. La disposición transcrita se refiere a una especie de asociación, esto es, la de trabajadores que</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.27</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXIII</label>
+                     <title>ORDEN PÚBLICO ECONÓMICO</title>
+                  </title-group>
+                  <fpage>503</fpage>
+                  <abstract>
+                     <p>Dedicamos este capítulo a la introducción del tema, cuyas especificaciones se hallan en los numerales 20 a 25 del artículo 19 de la Carta Fundamental.</p>
+                     <p>La Constitución de 1980 es novedosa en la articulación de principios y normas sobre derecho económico. Ellos no existían en nuestras Constituciones anteriores, siendo tal omisión una de las causas que llevaron a la crisis de septiembre de 1973. Cabe agregar que, en el Derecho comparado, la tendencia moderna es a la incorporación de tal tipo de disposiciones, porque la economía tiene incidencia fundamental en el funcionamiento del régimen político, y en la autonomía de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.28</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXIV</label>
+                     <title>BASES CONSTITUCIONALES DEL DERECHO TRIBUTARIO</title>
+                  </title-group>
+                  <fpage>509</fpage>
+                  <abstract>
+                     <p>421. Texto constitucional. En el artículo 19 Nº 20, la Constitución asegura a todas las personas:</p>
+                     <p>La igual repartición de los tributos en proporción a las rentas o en la progresión o forma que fije la ley, y la igual repartición de las demás cargas públicas.</p>
+                     <p>En ningún caso la ley podrá establecer tributos manifiestamente desproporcionados o injustos.</p>
+                     <p>Los tributos que se recauden, cualquiera sea su naturaleza, ingresarán al patrimonio de la Nación y no podrán estar afectos a un destino determinado.</p>
+                     <p>Sin embargo, la ley podrá autorizar que determinados tributos puedan estar afectos a fines propios de la defensa nacional.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.29</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXV</label>
+                     <title>DERECHO A DESARROLLAR ACTIVIDADES EMPRESARIALES</title>
+                  </title-group>
+                  <fpage>525</fpage>
+                  <abstract>
+                     <p>437. Texto Constitucional. Con sujeción al artículo 19 Nº 21, la Constitución asegura a todas las personas:</p>
+                     <p>El derecho a desarrollar cualquiera actividad económica que no sea contraria a la moral, al orden público o a la seguridad nacional, respetando las normas legales que la regulen.</p>
+                     <p>El Estado y sus organismos podrán desarrollar actividades empresariales o participar en ellas sólo si una ley de quórum calificado los autoriza. En tal caso, esas actividades estarán sometidas a la legislación común aplicable a los particulares, sin perjuicio de las excepciones que por motivos justificados establezca la ley, la que deberá ser, asimismo, de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.30</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXVI</label>
+                     <title>AMPARO ECONÓMICO</title>
+                  </title-group>
+                  <fpage>535</fpage>
+                  <abstract>
+                     <p>449. Texto legal. Esta garantía fue establecida por la ley Nº 18.971, publicada en el Diario Oficial el 10 de marzo de l990. El texto de esa ley es el siguiente:</p>
+                     <p>Cualquier persona podrá denunciar las infracciones al artículo 19 número 21 de la Constitución Política de la República de Chile.</p>
+                     <p>El actor no necesitará tener interés actual en los hechos denunciados.</p>
+                     <p>La acción podrá intentarse dentro de seis meses contados desde que se hubiere producido la infracción, sin más formalidades ni procedimiento que el establecido para el recurso de amparo, ante la Corte de Apelaciones respectiva, la que conocerá de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.31</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXVII</label>
+                     <title>IGUALDAD DE TRATO ECONÓMICO</title>
+                  </title-group>
+                  <fpage>549</fpage>
+                  <abstract>
+                     <p>453. Texto y Fundamentación. La Constitución, en su artículo 19 Nº 22, asegura a todas las personas:</p>
+                     <p>La no discriminación arbitraria en el trato que debe dar el Estado y sus organismos en materia económica.</p>
+                     <p>Sólo en virtud de una ley, y siempre que no signifique tal discriminación, se podrán autorizar determinados beneficios directos o indirectos en favor de algún sector, actividad o zona geográfica o establecer gravámenes especiales que afecten a uno u otras. En el caso de las franquicias o beneficios indirectos, la estimación del costo de éstos deberá incluirse anualmente en la Ley de Presupuestos.</p>
+                     <p>La disposición transcrita</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.32</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXVIII</label>
+                     <title>LIBRE APROPIABILIDAD DE BIENES</title>
+                  </title-group>
+                  <fpage>555</fpage>
+                  <abstract>
+                     <p>462. Texto constitucional. En su artículo 19 Nº 23, la Constitución asegura a todas las personas:</p>
+                     <p>La libertad para adquirir el dominio de toda clase de bienes, excepto aquellos que la naturaleza ha hecho comunes a todos los hombres o que deban pertenecer a la Nación toda y la ley lo declare así. Lo anterior es sin perjuicio de lo prescrito en otros preceptos de esta Constitución.</p>
+                     <p>Una ley de quórum calificado y cuando así lo exija el interés nacional puede establecer limitaciones o requisitos para la adquisición del dominio de algunos bienes.</p>
+                     <p>463. Coordinaciones. La norma transcrita integra el orden público</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.33</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXIX</label>
+                     <title>DERECHO DE PROPIEDAD</title>
+                  </title-group>
+                  <fpage>563</fpage>
+                  <abstract>
+                     <p>470. Introducción. El artículo 19 Nº 24 de la Carta Fundamental es una disposición extensa, tanto que puede afirmarse que no hay otra más larga en su texto, salvo el artículo 93. Esa longitud es paralela a la complejidad del estatuto que asegura. Una y otra característica se explican y justifican, sin embargo, por la constitucionalización del dominio, ya que la propiedad es de aquellas instituciones que sufrió hondos y frecuentes cambios en los períodos de transición, como ocurrió en Chile en 1925, 1967, 1971 y 1980. Se pretende, por consiguiente, infundir en la Carta Fundamental estabilidad al ordenamiento jurídico de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.34</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXX</label>
+                     <title>PROPIEDAD ARTÍSTICA,INTELECTUAL E INDUSTRIAL</title>
+                  </title-group>
+                  <fpage>613</fpage>
+                  <abstract>
+                     <p>549. Introducción. Trátase, según la Constitución, de tres especies de propiedad, lo cual conceptualmente es discutible. La importancia de ellas es creciente, debido a que, en la Sociedad Civil de nuestro tiempo, la cultura y las bellas artes, la ciencia y la técnica, las sistematizaciones novedosas en las humanidades y las ciencias sociales se han masificado y globalizado. Más todavía, nuestra sociedad, con desarrollo en nivel aún relativo, se ha convertido en otra de mayor complejidad en los seis aspectos mencionados. La gran propiedad ya no es la propiedad inmueble, sino que el dominio intelectual y, más que nada, el de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.35</book-part-id>
+                  <title-group>
+                     <label>CAPÍTULO XXXI</label>
+                     <title>DERECHO A LA SEGURIDAD JURÍDICA</title>
+                  </title-group>
+                  <fpage>625</fpage>
+                  <abstract>
+                     <p>La seguridad jurídica, llamada también<italic>certeza legítima</italic>, ha sido entendida como finalidad u objetivo del Derecho, en un nivel de importancia semejante a la justicia y al bien común<sup>822</sup>. Otros autores, sin embargo, consideran que dicha seguridad es un estado o situación de la comunidad que goza de ella, de modo que el orden, en general, y el orden público especialmente, por un lado, y la certeza legítima o seguridad jurídica, de otro, serían conceptos asociados, inseparables y complementarios<sup>823</sup>.</p>
+                     <p>Conjugando las dos series de ideas enunciadas es posible concluir que la seguridad jurídica tiene el carácter de finalidad del Derecho</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.36</book-part-id>
+                  <title-group>
+                     <label>TERCERA PARTE</label>
+                     <title>ACCIÓN Y RECURSO DE PROTECCIÓN</title>
+                  </title-group>
+                  <fpage>663</fpage>
+                  <abstract>
+                     <p>Este instrumento cautelar del ejercicio legítimo de los derechos fundamentales se encuentra en el artículo 20 de la Constitución. Esa disposición ha sido regulada por el autoacordado de la Corte Suprema, publicado en el Diario Oficial el 27 de junio de 1992, sobre tramitación del recurso de protección de garantías constitucionales y sus reformas. No existen, por ende, preceptos legales en la materia, hecho que suscita dudas de constitucionalidad sobre dicho autoacordado de frente a lo ordenado, en relación al justo proceso legal, en el artículo 19 Nº 3 inciso 5º del Código Político. Debe tenerse presente, también, con respecto</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.37</book-part-id>
+                  <title-group>
+                     <label>CUARTA PARTE</label>
+                     <title>DEBERES CONSTITUCIONALES</title>
+                  </title-group>
+                  <fpage>703</fpage>
+                  <abstract>
+                     <p>649. Características. La Constitución de 1980, reiterando el criterio que guió al Poder Constituyente en la Carta Fundamental de 1818, contempló por separado los derechos, en primer lugar, y los deberes, en seguida. Se quiere dejar así en claro que unos y otros son inseparables, de modo que los límites y restricciones que recaen en los derechos son, a la vez, los deberes y obligaciones correlativas que han de cumplirse para que su ejercicio sea legítimo.</p>
+                     <p>Necesario es puntualizar, sin embargo, que en sus artículos 22 y 23 la Carta Fundamental reúne sólo determinados deberes y no al conjunto completo de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.38</book-part-id>
+                  <title-group>
+                     <title>ÍNDICE ONOMÁSTICO</title>
+                  </title-group>
+                  <fpage>719</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.39</book-part-id>
+                  <title-group>
+                     <title>ÍNDICE TEMÁTICO</title>
+                  </title-group>
+                  <fpage>727</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15hvtwm.40</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAFÍA GENERAL</title>
+                  </title-group>
+                  <fpage>741</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

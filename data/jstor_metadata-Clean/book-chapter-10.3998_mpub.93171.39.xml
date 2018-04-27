@@ -1,0 +1,1378 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">mpub.93171</book-id>
+      <subj-group>
+         <subject content-type="call-number">CD931.A685 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Archives</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Documentation</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Memory</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Archives, Documentation, and Institutions of Social Memory</book-title>
+         <subtitle>Essays from the Sawyer Seminar</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Blouin</surname>
+               <given-names>Francis X.</given-names>
+               <suffix>Jr.</suffix>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Rosenberg</surname>
+               <given-names>William G.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>03</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780472114931</isbn>
+      <isbn content-type="epub">9780472026722</isbn>
+      <publisher>
+         <publisher-name>University of Michigan Press</publisher-name>
+         <publisher-loc>Ann Arbor</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2006</copyright-year>
+         <copyright-holder>University of Michigan</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3998/mpub.93171"/>
+      <abstract abstract-type="short">
+         <p>As sites of documentary preservation rooted in various national and social contexts, artifacts of culture, and places of uncovering, archives provide tangible evidence of memory for individuals, communities, and states, as well as defining memory institutionally within prevailing political systems and cultural norms. By assigning the prerogatives of record keeper to the archivist, whose acquisition policies, finding aids, and various institutionalized predilections mediate between scholarship and information, archives produce knowledge, legitimize political systems, and construct identities. Far from being mere repositories of data, archives actually embody the fragments of culture that endure as signifiers of who we are, and why. The essays in A<italic>rchives, Documentation, and Institutions of Social Memory</italic>conceive of archives not simply as historical repositories but as a complex of structures, processes, and epistemologies situated at a critical point of the intersection between scholarship, cultural practices, politics, and technologies.</p>
+      </abstract>
+      <counts>
+         <page-count count="512"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.3</book-part-id>
+                  <title-group>
+                     <title>Preface and Acknowledgments</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>FXB</string-name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <string-name>WGR</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The publication in 1995 of Jacques Derrida’s<italic>Archive Fever: A Freudian Impression</italic>¹ was something of a curiosity in the archival community but had little resonance among historians. Derrida presented his thoughts as a lecture at a colloquium on memory and archives organized by the Freud Museum, the Courtauld Institute of Art, and the Société Internationale d’Histoire de la Psychiatrie et de la Psychanalyse. He took up, among other issues appropriate to this interesting mix of sponsors, the complex problem of “inscription”: the processes through which traces of a lived past are “archived” by individuals or societies in ways that make</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.5</book-part-id>
+                  <title-group>
+                     <title>“Something She Called a Fever”:</title>
+                     <subtitle>Michelet, Derrida, and Dust (Or, in the Archives with Michelet and Derrida)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Steedman</surname>
+                           <given-names>Carolyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>4</fpage>
+                  <abstract>
+                     <p>Archive fever, indeed? I can tell you<italic>all about</italic>archive fever. What (says a voice prosaic and perverse; probably a historian’s voice) is an archive doing there anyway at the beginning of Jacques Derrida’s<italic>Mal d’archive</italic>? Here, in its opening passages, Derrida shows us the<italic>arkhe</italic>, which he says is the place where things begin, where power originates, inextricably bound up with the authority of beginnings. In the brief account that Derrida gives us of the operation of the Greek city-state, its official documents are shown to be stored in the<italic>arkheion</italic>, the superior magistrate’s residence. There the<italic>archon</italic>himself,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.6</book-part-id>
+                  <title-group>
+                     <title>The Problem of Publicité in the Archives of Second Empire France</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milligan</surname>
+                           <given-names>Jennifer S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>20</fpage>
+                  <abstract>
+                     <p>In his scathing essay on the coup d’état that brought France’s Second Empire to power, Karl Marx produced some of his most memorable (or at least quotable) musings on the nature of history. “Men,” he wrote, “make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances encountered, given and transmitted from the past.”¹ Focused on material conditions, Marx’s criticism did not extend to the Archives, where Louis Napoleon’s imperial government sought to control the conditions for men to write French history. For Léon</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.7</book-part-id>
+                  <title-group>
+                     <title>Not Dragon at the Gate but Research Partner:</title>
+                     <subtitle>The Reference Archivist as Mediator</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marquis</surname>
+                           <given-names>Kathleen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>In a keynote address given to the Spring 2000 Midwest Archives Conference meeting (hereafter Sawyer Seminar), Francis Blouin set out the founding principles for this seminar as a dialogue between historians and other scholars, and the archivists who maintain documentary collections for research use. As became clear from the seminar conversations that ensued, the concept of “archive” has a broader range of definitions than those of us who are practitioners in the field might have imagined. What also became clear was that the archivist’s role in the maintenance of this documentation was not at all clear.</p>
+                     <p>Many of the participants,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.8</book-part-id>
+                  <title-group>
+                     <title>Between Veneration and Loathing:</title>
+                     <subtitle>Loving and Hating Documents</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Toole</surname>
+                           <given-names>James M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>On a crisp winter afternoon in the heart of a national capital, a contingent of soldiers marches through an honor guard down the steps of a public building, bearing several large wooden cases. The servicemen—those carrying the cases are all men, while the honor guard lining the steps is made up entirely of servicewomen—load these crates onto an armored personnel carrier, and a parade steps off down the city’s main street, led by the marching bands of all the military branches. After about a mile, they halt in front of another building, and their precious cargo is carried</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.9</book-part-id>
+                  <title-group>
+                     <title>Archiving/Architecture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kleinman</surname>
+                           <given-names>Kent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>54</fpage>
+                  <abstract>
+                     <p>It is conventional and useful for both architects and archivists to recognize that architecture exists in two distinct modes: first, the built artifact and, second, representations of that artifact. This division is useful precisely because it allows architecture in the second sense to be collected, cataloged, and protected by archival institutions without the necessity of dealing with the messy business of built work. The Le Corbusier Foundation in Paris does not collect buildings by the French master, although it is housed in one; the Mies van der Rohe archive at the Museum of Modern Art in New York contains not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.10</book-part-id>
+                  <title-group>
+                     <title>“Records of Simple Truth and Precision”:</title>
+                     <subtitle>Photography, Archives, and the Illusion of Control</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schwartz</surname>
+                           <given-names>Joan M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>In December of 1839, Théodore Maurisset, a French printmaker, produced a lithograph entitled<italic>La Daguerréotypomanie</italic>. The scene has been described in delightful detail by Helmut and Alison Gernsheim:</p>
+                     <p>The caricature shows a crowd of people pushing into the enterprising establishment of Susse Frères, attracted by an enormous advertisement to buy daguerreotypes for New Year’s gifts. Over the entrance large notices proclaim that “Non-inverted pictures can be taken in 13 minutes without sunshine.” While one photographer is just aiming his camera up the skirts of a tight-rope dancer on the left, another tries to take the portrait of a child whose</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.11</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>Whether even the most well-intentioned and neutral scholar could ever produce an objective, scientific history has long been the subject of fractious debate among historians, as many archivists are aware. That “noble dream,” as Peter Novick described this quest in an important volume some fifteen years ago, reflects for many historians a quaint legacy of romantic positivism, the failure to recognize how facts and historical truths are accessible only through creative acts of imagination.¹ The issues here are complicated. They range from whether the kinds of presuppositions historians bring to their research necessarily affect their determination of what is “factual,”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.12</book-part-id>
+                  <title-group>
+                     <title>Out of the Closet and into the Archives?</title>
+                     <subtitle>German Jewish Papers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grossmann</surname>
+                           <given-names>Atina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>Frank Mecklenburg discusses the Leo Baeck Institute (LBI) Archives as an institution initially established for the preservation and generation of social memories among a group whose collective identity—as the much-mythologized German-speaking Jews of prewar central Europe—is rapidly fading, as well as a repository whose contents are increasingly relevant not only to scholarship but to the highly contested production of political culture for both Jews and Germans. The texts, photographs, and artifacts contained in the archives have long provided fodder for well-trodden academic debates about the fate of German Jewry: cultural symbiosis versus failed assimilation, proud legacy of cosmopolitan</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.13</book-part-id>
+                  <title-group>
+                     <title>German Jewish Archives in Berlin and New York:</title>
+                     <subtitle>Three Generations after the Fact</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mecklenburg</surname>
+                           <given-names>Frank</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>Since 1955, the Leo Baeck Institute (LBI) is the central research institution for the history of German-speaking Jewry. The New York institute (there are affiliated Leo Baeck institutes in Jerusalem and London), with its vast archives, is in the midst of major changes. Its relationship to the public is expanding, with close association to major research and museum facilities in New York, at the Center for Jewish History (CJH), and in Berlin, at the new Jewish Museum (JMB). By becoming part of CJH, the LBI and the German Jewish legacy are recognized and integrated into the American Jewish identity, at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.14</book-part-id>
+                  <title-group>
+                     <title>Medieval Archivists as Authors:</title>
+                     <subtitle>Social Memory and Archival Memory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Geary</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>106</fpage>
+                  <abstract>
+                     <p>Back in the early 1970s, David Hammack, a historian of New York City, told me that the most important person in the New York City Archives was an individual whose only qualification was his membership in the Teamsters Union. The reason that this was such an important qualification, Professor Hammack explained, was that the archive was seriously underfunded and underhoused. The most daunting task the staff faced each year was to get all of the materials that they had accumulated the previous year but could not possibly preserve to the city dump in time to make room for the next</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.15</book-part-id>
+                  <title-group>
+                     <title>The Question of Access:</title>
+                     <subtitle>The Right to Social Memory versus the Right to Social Oblivion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bundsgaard</surname>
+                           <given-names>Inge</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>114</fpage>
+                  <abstract>
+                     <p>In most modern societies public administrations process and handle huge amounts of private and personal data concerning individual citizens, thus producing great numbers of case ales containing often highly sensitive information about identifiable individual persons.</p>
+                     <p>It is my contention that some of this information is a vital part of the social memory of modern societies. When evaluating modern public political and administrative records, the focus is often on records containing information about political decision making and the political and administrative deliberations behind new legislative initiatives. However, the vast numbers of personal case ales contain—among other things—information about how</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.16</book-part-id>
+                  <title-group>
+                     <title>Past Imperfect (l’imparfait):</title>
+                     <subtitle>Mediating Meaning in Archives of Art</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bartlett</surname>
+                           <given-names>Nancy Ruth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>An examination of mediation in archives of art is an acknowledgment of the issue of language—its definitions, its cultural and academic parameters, its multiplicities, its unexpected relationships. The French<italic>imparfait</italic>, while understood conventionally as a particular verb tense of the past, is an appealing example and point of departure. It is a wonderful suggestion of language “in motion,” without end, of the past but moving forward in time, subject to barriers in understanding, and open to new directions and revelations. By borrowing from the French, by adding multiple meanings, we render l’imparfait no more “perfect,” or “complete,” but instead</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.17</book-part-id>
+                  <title-group>
+                     <title>An Artifact by Any Other Name:</title>
+                     <subtitle>Digital Surrogates of Medieval Manuscripts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nichols</surname>
+                           <given-names>Stephen G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>134</fpage>
+                  <abstract>
+                     <p>In Plato’s well-known myth of Thoth from the<italic>Phaedrus</italic>, King Thamuz rejects Thoth’s claim that his invention of writing will be a boon to humanity on the grounds that it offers an invaluable supplement to human memory. On the contrary, the king counters, it will have the opposite effect: rather than extending the human mind, it will weaken it. If people no longer have to imprint within their mind the images of things they want to remember, they will diminish their memory capacity. Writing will thereby encourage<italic>amnesis</italic>, forgetting.¹ Socrates takes the gloss further by arguing that writing spreads ideas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.18</book-part-id>
+                  <title-group>
+                     <title>The Panoptical Archive</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ketelaar</surname>
+                           <given-names>Eric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>144</fpage>
+                  <abstract>
+                     <p>“There is no political power without control of the archives,” Jacques Derrida writes.¹ There is no power without archives either. Since the third millennium BC, writing served recording and archiving for kings and gods, in palaces and temples. Etymology links archives to the Greek archeion, the seat of the ruling power. Although the Domesday Book was not used very frequently, as a symbol it associated archiving with royal power, like the Book of Judgment was an expression of divine power.² The early modern states, monarchies, and the church were information societies, their data collection and use, apart from documenting internal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.19</book-part-id>
+                  <title-group>
+                     <title>Archival Representation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yakel</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>In<italic>The Design of Everyday Things</italic>Donald Norman argues for a user-centered approach to the design of the daily artifacts we take for granted.¹ While archives and archival collections are not everyday things for most people, they do document everyday things, and the archivist’s representations and representational systems must characterize these everyday things for potential researchers.²</p>
+                     <p>The term “representation” is used to refer both to the process or activity of representing and to the object(s) produced by an instance of that activity. The process of representing seeks to establish systematic correspondence between the target domain and the modeling domain and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.20</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>The diverse essays included in this section take up complicated questions about the role of archives in conditioning social memory and creating certain kinds of cultural understandings. The complex relationship between social memories and elements of social culture is itself a growing area of concern in the fields of history, literature, anthropology, and social psychology. Not surprisingly, the relationship between archives and social memory provoked lively discussion among scholars in all of these fields at our interdisciplinary seminar. At its core, the question involves a set of issues that bear directly on understandings of what is a record, what is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.21</book-part-id>
+                  <title-group>
+                     <title>Remembering the Future:</title>
+                     <subtitle>Appraisal of Records and the Role of Archives in Constructing Social Memory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cook</surname>
+                           <given-names>Terry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>Appraisal occurs primarily today on the records of yesterday to create a past for tomorrow. What kind of past should the future have? This essay represents in part a narrative about archival appraisal, that function that selects for long-term preservation as society’s memory roughly 1–5 percent of the total documentation of major institutions and considerably less from private citizens. In keeping with the internationalism of these seminars, which featured voices from many countries, this essay is perhaps more a postmodern story from Canada than an exposition of appraisal strategy and criteria or a detailed critique of various other narratives</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.22</book-part-id>
+                  <title-group>
+                     <title>Creating a National Information System in a Federal Environment:</title>
+                     <subtitle>Some Thoughts on the Canadian Archival Information Network</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Millar</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>In late 2001, the Canadian Council on Archives, a publicly funded agency that oversees archival development in Canada, launched the Canadian Archival Information Network (CAIN), an online network of Web sites and databases designed to bring together intellectually the spectrum of activity taking place in archival repositories across the country. The network aims to provide electronic access to information about archives through searchable fonds-level archival descriptions, along with news and facts about archival programs. The developers of CAIN ultimately see the network as a tool for “communication, consultation, coordination, and cooperation” between archival stakeholders and the archival community. Its goal</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.23</book-part-id>
+                  <title-group>
+                     <title>Archives, Heritage, and History</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lowenthal</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Diverse archival aims mirror diverse uses of the past in general. At one extreme are disinterested efforts to learn and understand what has actually happened; at the other, partisan zeal to fabricate a past that suits present needs—to forge an identity, to secure a legacy, to validate a conquest or a claim, to prove a preeminence. The role of archives in these contrary goals is symptomatic, indeed, crucial. The conflict is exemplified today in a widening gulf between established archival repute and emerging archival reality.</p>
+                     <p>Texts, like artifacts, have long been treasured in Western culture, both as historical data</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.24</book-part-id>
+                  <title-group>
+                     <title>How Privatization Turned Britain’s Red Telephone Kiosk into an Archive of the Welfare State</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wright</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>One day in July 1988, I stood on the concourse at London’s Waterloo Station thinking of the hopes once entertained by late politician Anthony Crosland. As a leading Labour Party intellectual in the mid-1950s, Crosland had dreamed of a less austere socialism where the uniformity of the reforming state would weigh less heavily on the life of the nation. As he wrote in<italic>The Future of Socialism</italic>, it was a time for a “reaction against the Fabian tradition” with its reliance on state-led initiative. The mixed economy could be expected to deliver higher exports and old-age pensions, but only a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.25</book-part-id>
+                  <title-group>
+                     <title>Archives:</title>
+                     <subtitle>Particles of Memory or More?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Albada</surname>
+                           <given-names>Joan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>As a nonnative speaker of English, I am not subtle in the use of the language. English came to me as a foreign language through Kipling and Shakespeare, with words such as<italic>swans, Thames, prince, murder</italic>and<italic>dagger</italic>and<italic>poison</italic>. Archival English came to me in the 1980s thanks to committee work for the International Council on Archives (ICA). So I was struck when Verne Harris claimed in his paper, “Law, Evidence, and Electronic Records: A Strategic Perspective from the Global Periphery,” presented at the Seville Congress on Archives, that his work belongs to those who are in the global</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.26</book-part-id>
+                  <title-group>
+                     <title>Lookin’ for a Home:</title>
+                     <subtitle>Independent Oral History Archives in Italy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Portelli</surname>
+                           <given-names>Alessandro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>In 1970, Italian activist historian and cultural organizer Gianni Bosio wrote, in his description of the work of the Istituto Ernesto de Martino, Italy’s first and most important sound archive and research center for people’s cultures,</p>
+                     <p>Just as the advent of the printing press marked the passage from the city-states to the Signoria, from a mainly oral shared culture to the use of means of communication as an expression of the ruling class, the advent of the tape recorder once again provides the culture that relies on oral communication with the means to emerge, to become aware of itself, and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.27</book-part-id>
+                  <title-group>
+                     <title>The Public Controversy over the Kennedy Memorabilia Project</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adler</surname>
+                           <given-names>Robert M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>Evelyn Lincoln served as John F. Kennedy’s personal secretary in the White House. She is credited with saving from extinction various notes, drafts, doodles, and miscellaneous Kennedy memorabilia that otherwise would not have been preserved.² Following JFK’s death, the Kennedy Library, Senator Ted Kennedy, and John F. Kennedy Jr. directly asked Lincoln to donate her collected memorabilia to the library.³ She responded by donating some of her collection. At her death in 1995, she bequeathed other memorabilia to another collector, Robert L. White. Three years later, White attempted to auction some of his Kennedy memorabilia received from Lincoln as well</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.28</book-part-id>
+                  <title-group>
+                     <title>Classified Federal Records and the End of the Cold War:</title>
+                     <subtitle>The Experience of the Assassination Records Review Board</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Joyce</surname>
+                           <given-names>William L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>In the fall of 1992, Congress passed the President John F. Kennedy Assassination Records Collection Act (PL-102-526, codiaed as 44 U.S.C. 2107) (ARCA) in an attempt to address the suspicion that the federal government had been involved in a cover-up of the November 1963 assassination of President John F. Kennedy. Soon after taking office and eager to reassure the public, President Lyndon B. Johnson appointed a commission to investigate the slaying of the president, the President’s Commission to Investigate the Assassination of President Kennedy, more commonly known as the Warren Commission. The commission concluded that Lee Harvey Oswald, acting alone,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.29</book-part-id>
+                  <title-group>
+                     <title>“Just a Car”:</title>
+                     <subtitle>The Kennedy Car, the Lincoln Chair, and the Study of Objects</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Endelman</surname>
+                           <given-names>Judith E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>Do all objects tell the truth? Are artifacts essential to the study of history? Can we understand the past by looking and examining the things people used and made, as Henry Ford believed? The study of material culture, which grew out of anthropology and the study of preliterate cultures, has had only a minor influence in the historical profession. Texts and, to a lesser degree, visual evidence have been the primary sources for the reconstruction of the historic past. What can the study of material culture offer the study of history?</p>
+                     <p>Although academic historians generally ignore objects as sources of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.30</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>In setting as one of the seminar’s principal goals the exploration of the roles that archives play in the production of knowledge, it was clear to us from the start that we could not cofine our discussions within one specific national framework. The relationship between archives and the constructs of a national past is a very close one. State archives are almost always dependent on governments for their existence. They are sustained to serve the state, however its interests may be defined. Like the interests of society more broadly, these are in constant evolution, as are those of individual citizens</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.31</book-part-id>
+                  <title-group>
+                     <title>Memories of Colonization:</title>
+                     <subtitle>Commemoration, Preservation, and Erasure in an African Archive</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cooper</surname>
+                           <given-names>Frederick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>257</fpage>
+                  <abstract>
+                     <p>In June 1995 the National Archives of Senegal organized the “Colloquium Commemorating the Centenary of French West Africa” in Dakar. On the face of it, this was a peculiar event: a proudly independent African nation celebrating the anniversary of its own colonization. The event itself was unlike any other colloquium most of its academic participants had ever attended: we were guarded by men with automatic rifles, driven between sessions and social events in a caravan of buses and Mercedes, and escorted by policemen on motorcycles. We were addressed by the president of Senegal and the minister of cooperation of France,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.32</book-part-id>
+                  <title-group>
+                     <title>Colonial Archives and the Arts of Governance:</title>
+                     <subtitle>On the Content in the Form</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stoler</surname>
+                           <given-names>Ann Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>267</fpage>
+                  <abstract>
+                     <p>This essay is about the colonial order of things as seen through its archival productions. It asks what insights about the colonial might be gained from attending not only to colonialism’s archival content but to its particular and sometimes peculiar form. Its focus is on archiving as a process rather than archives as things. It looks to archives as epistemological experiments rather than as sources—to colonial archives as cross-sections of contested knowledge. Most important, I want to suggest that colonial archives were both transparencies on which power relations were inscribed and intricate technologies of rule in themselves. The essay’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.33</book-part-id>
+                  <title-group>
+                     <title>The Provincial Archive as a Place of Memory:</title>
+                     <subtitle>Confronting Oral and Written Sources on the Role of Former Slaves in the Cuban War of Independence (1895–98)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Scott</surname>
+                           <given-names>Rebecca J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>Few questions of historical interpretation are more passionately debated than those that have become intertwined with a national narrative and with the definition of how a country came to be what it is imagined to be. For the island nation of Cuba, political independence was forged in a lengthy series of wars against Spanish colonial rule, ending in a direct encounter with U.S. expansionism. Those wars began in 1868 and concluded in 1898 with the departure of Spanish troops, followed by a military occupation of the island by U.S. forces. In 1902 the first Cuban republic emerged, but it was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.34</book-part-id>
+                  <title-group>
+                     <title>Maroons in the Archives:</title>
+                     <subtitle>The Uses of the Past in the French Caribbean</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dubois</surname>
+                           <given-names>Laurent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>In the heart of Basse-Terre, the administrative capital of the island of Guadeloupe, sits a prison. It is notorious for its overcrowding and antiquated facilities and also because over the years a number of local activists who have fought for independence from France have been imprisoned there. The concrete walls of the prison, topped by barbed wire, run along one of the main boulevards of the town. Underneath the barbed wire is a mural, painted in the 1980s with the support of local cultural officials. It represents the slave trade: a line of slaves in chains and the famous Maison</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.35</book-part-id>
+                  <title-group>
+                     <title>Redemption’s Archive:</title>
+                     <subtitle>Remembering the Future in a Revolutionary Past</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Eiss</surname>
+                           <given-names>Paul K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>301</fpage>
+                  <abstract>
+                     <p>While Alice brushed the White Queen’s tousled hair, the monarch offered her employ as a lady’s maid for a salary of two pence a week, along with a regular ration of jam. As Lewis Carroll relates in<italic>Through the Looking Glass</italic>, Alice was disinclined to accept in any case. Nonetheless, she grew disturbed when the White Queen informed her that the offered jam was only to be given “every other day”—that is, only “yesterday” and “tomorrow” but never “today.” Alice immediately realized that she would never receive jam on the series of “todays” that she worked but rather could</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.36</book-part-id>
+                  <title-group>
+                     <title>Documenting South Africa’s Liberation Movements:</title>
+                     <subtitle>Engaging the Archives at the University of Fort Hare</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Brian</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wallach</surname>
+                           <given-names>William K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>321</fpage>
+                  <abstract>
+                     <p>As the machinery of apartheid was being dismantled, agreements were signed in 1992 designating the University of Fort Hare as the custodian of the “Liberation Archives.” The Liberation Archives was conceived as a symbolic union of the archival records from several of the political organizations that had helped bring about the overthrow of apartheid. Organizations agreeing to deposit records and artifacts at Fort Hare included the African National Congress (ANC), the Pan Africanist Congress (PAC), the Azanian People’s Organization (AZAPO), the Black Consciousness Movement of Azania, and the New Unity Movement. The process of locating and gathering archival material from</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.37</book-part-id>
+                  <title-group>
+                     <title>“The Gift of One Generation to Another”:</title>
+                     <subtitle>The Real Thing for the Pepsi Generation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Ian E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>333</fpage>
+                  <abstract>
+                     <p>Several months ago and before I was appointed the national archivist of Canada, I was invited to speak at a symposium to honor Terry Cook and to reflect on his career as an archivist at the National Archives. I used the occasion to place before members of our profession the key dividing point that has distinguished my approach to the archival endeavor over the past twenty-five years from that of Terry; it is a fundamental distinction, and its influence can be discerned in our various articles. Analysis of the full intellectual impact of our two perspectives should be left, I</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.38</book-part-id>
+                  <title-group>
+                     <title>Social History, Public Sphere, and National Narratives:</title>
+                     <subtitle>The Social Origins of Valencian Regional Imaginary in Nineteenth-Century Spain</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burguera</surname>
+                           <given-names>Mónica</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>343</fpage>
+                  <abstract>
+                     <p>During the past twenty years, the approaches and perspectives associated with both poststructuralism and feminism have prompted historians to question the centrality of some of social history’s most basic assumptions, opening the door to what Patrick Joyce has called a “self-reflexive and historicized understanding” of social history and its epistemological legacy.¹ In particular, many scholars now agree that race, gender, class, and national identities do not, as was previously thought, derive exclusively from a network of social referents external to language but rather arise from a system of representations in which language and its referents undergo a continual process of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.39</book-part-id>
+                  <title-group>
+                     <title>The Influence of Politics on the Shaping of the Memory of States in Western Europe (France)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>René-Bazin</surname>
+                           <given-names>Paule</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>353</fpage>
+                  <abstract>
+                     <p>Let me begin this essay by noting the contradictory attitudes of two French politicians with regard to the presidents of the republic whom they had served closely. I quote from two highly successful books that they have published in recent years. The arst quote is from Alain Peyrefitte, a future minister but at the time a young aide to General de Gaulle. The story takes place at the Elysee in April 1965.</p>
+                     <p>The General hurls at me It’s scandalous! He shows me a small book on his desk which has just been published. A minister takes part in a negotiation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.40</book-part-id>
+                  <title-group>
+                     <title>The Role of the Swiss Federal Archives during Recent Politico-Historical Events and Crises</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Graf</surname>
+                           <given-names>Christoph</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>361</fpage>
+                  <abstract>
+                     <p>In the last ten years, the Swiss Federal Archives (SFA) has been involved in three politico-historical events. First, as might be known in the United States, for the past four years Switzerland has found itself at the center of a struggle for justice and truth for the victims of the Holocaust. Second, Switzerland is scrutinizing the history of its relations to the Republic of South Africa after 1945. Third is the discovery of the secret card indices of the Office of the Federal Public Prosecutor (Bundesanwaltschschaft), containing private data about hundreds of thousands of Swiss citizens and foreigners, that caused</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.41</book-part-id>
+                  <title-group>
+                     <title>Television Archives and the Making of Collective Memory:</title>
+                     <subtitle>Nazism and World War II in Three Television Blockbusters of German Public Television</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kansteiner</surname>
+                           <given-names>Wulf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>368</fpage>
+                  <abstract>
+                     <p>Television archives play a vital role in the day-to-day business of the television industry. They help television makers identify footage and ideas for the programs of tomorrow. Consequently, the archives are organized to support the production process, and any other function is secondary to that objective. At the same time, by default not design, television archives contain the cultural legacy of the twentieth century and play a key role in the infrastructure of modern memory. On the one hand, they house the blockbuster television events and hit series that are recycled so frequently that they seem to be permanently established</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.42</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>379</fpage>
+                  <abstract>
+                     <p>As the essays grouped in this anal section indicate, an important aspect of the Michigan seminar was its attention to the particular circumstances of archives in China, Russia, Ukraine, and the Balkans. Our concern here was not only to engage archivists and archival historians from these regions in the broader discussion with colleagues from other regions, but to extend the points of comparison between archives in stable or relatively stable states to those in states in the process of rapid and even radical transition. With China, Russia, Ukraine, and the Balkans, these discussions naturally centered even more directly on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.43</book-part-id>
+                  <title-group>
+                     <title>Revolution in the Archives of Memory:</title>
+                     <subtitle>The Founding of the National Diet Library in Occupied Japan</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pincus</surname>
+                           <given-names>Leslie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>382</fpage>
+                  <abstract>
+                     <p>At the welcome dinner held in Tokyo in December 1948 for the distinguished visitors from the U.S. Library Mission, Hani Gorô, recently elected Diet member and chair of a newly established National Diet Library Steering Committee, raised his glass in greeting: “To guarantee that our National Diet Library will serve as the foundation for the establishment of democracy in Japan,” he vowed, “I only ask that I be allowed to have my bones buried beneath its foundation stones.”¹ Charles H. Brown, head librarian at the University of Illinois and president of the National Library Association, responded in kind: “Mr. Hani,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.44</book-part-id>
+                  <title-group>
+                     <title>The New Masters of Memory:</title>
+                     <subtitle>Libraries, Archives, and Museums in Postcommunist Bosnia-Herzegovina</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Donia</surname>
+                           <given-names>Robert J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>393</fpage>
+                  <abstract>
+                     <p>Institutions of social memory in Bosnia-Herzegovina have undergone dramatic changes in status, ownership, and management during the 1990s. Several institutions were physically damaged or destroyed during the siege of Sarajevo (1992–95) and required reconstitution and rebuilding on a large scale. But even before the war began, the triumph of nationalist political forces and the end of socialist rule had initiated far-reaching changes in the country’s major institutions. Nationalist leaders reconstructed some long-standing institutions, allowed others to atrophy, and established new ones in support of their political and cultural objectives. Furthermore, in the aftermath of the Bosnian war, international influences</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.45</book-part-id>
+                  <title-group>
+                     <title>Writing Home in the Archive:</title>
+                     <subtitle>“Refugee Memory” and the Ethnography of Documentation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Papailias</surname>
+                           <given-names>Penelope</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>402</fpage>
+                  <abstract>
+                     <p>The archive appears to have taken the place of historical narrative as a key locus for critical historical reflection. This shift from historiography to the archive has a number of implications. For one, it draws attention from the closed authoritative historiography to the multiplicity of texts involved in documenting the past and to their open potential for generating future histories.¹ Besides the historian-author, many other actors—archivists, informants, donors, and researchers of various kinds—are revealed to animate the archive. This sociality contrasts sharply with the stereotype of the archive as solitary and lifeless. The archive is also characterized by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.46</book-part-id>
+                  <title-group>
+                     <title>Qing Statesmen, Archivists, and Historians and the Question of Memory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bartlett</surname>
+                           <given-names>Beatrice S.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>417</fpage>
+                  <abstract>
+                     <p>The great government book-collecting project of eighteenth-century China, the “Complete Library in Four Branches of Literature,”¹ offered the Qing government (1644–1912) an opportunity to proscribe and even destroy works it found offensive, particularly those that expressed antigovernment or anti-Qing sentiments. An imperial edict deputed high officials to supervise the burning of the works on the government’s Index Expurgatorius at a site outside the capital city, Peking. After that, except for a remnant surviving in Japan or Europe, the presumption was that all copies of these works were permanently lost, just as the court had intended.</p>
+                     <p>But the story has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.47</book-part-id>
+                  <title-group>
+                     <title>The Role of Archives in Chinese Society:</title>
+                     <subtitle>An Examination from the Perspective of Access</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mei</surname>
+                           <given-names>Du</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>427</fpage>
+                  <abstract>
+                     <p>The contemporary Chinese archival system is based on those agency archives offices (<italic>dangan shi</italic>) that were established in the early 1950s, right after the founding of the People’s Republic of China in October 1949. The system is structured and developed according to the principle of a unified leadership and administration at different levels. It consists of three types of archival institutions, each of them having clearly defined, state-mandated functions and responsibilities. These three types include archives administration departments (<italic>dangan ju</italic>), archives offices within agencies (<italic>dangan shi</italic>), and archives (<italic>dangan guan</italic>). The first type includes national and local (including provincial, municipal,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.48</book-part-id>
+                  <title-group>
+                     <title>Archives and Histories in Twentieth-Century China</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kirby</surname>
+                           <given-names>William C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>436</fpage>
+                  <abstract>
+                     <p>Although the existence of state archives has been traced back to the fourth and fifth centuries BC in the West and perhaps all the way back to the Shang dynasty in China,¹ the establishment of permanent, public, national archival institutions dates only from the French Revolution, with the creation of the Archives nationales in 1790. The immediate reasons for founding such institutions, such as the British Public Record Office (established 1838), the National Archives of the United States (1934), the Academia Historica (Guoshiguan) of the Republic of China (1947) or the Central Archives (Zhongyang dang’anguan) of the People’s Republic of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.49</book-part-id>
+                  <title-group>
+                     <title>Archives and Historical Writing:</title>
+                     <subtitle>The Case of the Menshevik Party in 1917</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Galili</surname>
+                           <given-names>Ziva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>443</fpage>
+                  <abstract>
+                     <p>The agenda for the seminar on Archives, Documentation, and the Institutions of Social Memory, much like the questions being asked nowadays in so many academic discussions, reminds us of the uncertain place of archival records in historical writing and in social memory. We are asked to face the notion that the preservation and accessibility of such records are contingent on a wide array of political, cultural, and technological factors and that these factors as well as the ideological stance inherent in both historical writing and the practice of social memory affect every aspect of our usage of archival documentation. All</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.50</book-part-id>
+                  <title-group>
+                     <title>Russian History:</title>
+                     <subtitle>Is It in the Archives?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Abby</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>451</fpage>
+                  <abstract>
+                     <p>Those who got their academic training in Russian and Soviet history before the collapse of the Soviet Union worked under a considerable handicap: lack of access to the bulk of primary source materials in the libraries and archives in the Soviet Union. Even medievalists such as myself were routinely denied access to archives, even to those that had already appeared in print. We all dreamed of the day when we would have access—even access to inventories and finding aids seemed some sort of holy grail back then. For a brief period of time in 1991–92, all that promised</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.51</book-part-id>
+                  <title-group>
+                     <title>Archiving Heteroglossia:</title>
+                     <subtitle>Writing Reports and Controlling Mass Culture under Stalin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yekelchyk</surname>
+                           <given-names>Serhy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>459</fpage>
+                  <abstract>
+                     <p>Working quietly in private during 1934–35, as the Soviet people were toiling to meet the targets of the Second Five Year Plan, celebrating Stalin the Great Leader, and condemning “enemies of the people,” Mikhail Bakhtin was developing the concept of heteroglossia (<italic>raznorechie</italic>or<italic>raznogolositsa</italic>). The Russian philosopher of language understood heteroglossia as a polyphony of social and discursive forces, a diversity of social speech types that occur in everyday life. According to him, the genre of the novel is best suited for delivering the realities of heteroglossia because it allows for a network of dialogic, interactive relations among multiple</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.52</book-part-id>
+                  <title-group>
+                     <title>Ethnicity, Memory, and Violence:</title>
+                     <subtitle>Reflections on Special Problems in Soviet and East European Archives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burds</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>466</fpage>
+                  <abstract>
+                     <p>One of the greatest obstacles to understanding the history of Eastern Europe during and after the Second World War has been that the memories of the events themselves have been constructed ethnically—which is to say, each ethnic group has recorded its own version of the tragic devastation of that era. The postwar phenomena of diasporas and refugee cultures have further splintered memories and perspectives and subsequently channeled them through the prisms of the Cold War, East and West.</p>
+                     <p>Polish historian Piotr Wróbel has used the phrase<italic>double memory</italic>to identify the phenomenon of distinct and often contradictory accounts of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.53</book-part-id>
+                  <title-group>
+                     <title>Hesitations at the Door to an Archive Catalog</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lapin</surname>
+                           <given-names>Vladimir</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>480</fpage>
+                  <abstract>
+                     <p>This essay represents reflections on the reciprocal influence between the historian and the archivist involved in developing and improving the apparatus of scholarly reference in the Russian archives. Let us start with some thoughts about historians.</p>
+                     <p>Historians reflecting on their trade, and on their interactions with archivists, cannot ignore an obvious fact: the apparatus of scholarly reference is responsible to a certain extent for mapping out the course of their archival research. The reference apparatus imposes a different influence on a historian well guided in the ocean of archival materials than a person who tries to and an answer to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.54</book-part-id>
+                  <title-group>
+                     <title>The Historian and the Source:</title>
+                     <subtitle>Problems of Reliability and Ethics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ananich</surname>
+                           <given-names>Boris V.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>490</fpage>
+                  <abstract>
+                     <p>The analysis of historical sources is perhaps the most important aspect of a historian’s work. The professional competence of the historian can be measured by his or her ability to make the right choices when choosing from many sources, as well as by his or her ability to ascertain the authenticity of a source, verify the information it contains, and compel it to “speak.” Even if the validity of the information contained within the source is doubtful, it still retains value as a rebection of its epoch—a source of information about the time and the individuals responsible for its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">mpub.93171.55</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>497</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

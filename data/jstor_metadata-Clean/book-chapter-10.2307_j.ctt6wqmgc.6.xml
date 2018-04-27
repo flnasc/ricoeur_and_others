@@ -1,0 +1,368 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt6wqmgc</book-id>
+      <subj-group>
+         <subject content-type="call-number">PL797.6.Z5R8 1996</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Ryōkan, 1758–1831</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Great Fool</book-title>
+         <subtitle>Zen Master Ryokan--Poems, Letters, and Other Writings</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="translator">Translated with Essays by</role>
+         <contrib contrib-type="translator" id="contrib1">
+            <name name-style="western">
+               <surname>ABÉ</surname>
+               <given-names>RYŪICHI</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <name name-style="western">
+               <surname>HASKEL</surname>
+               <given-names>PETER</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>1996</year>
+      </pub-date>
+      <isbn content-type="ppub">9780824817411</isbn>
+      <isbn content-type="epub">9780824862701</isbn>
+      <publisher>
+         <publisher-name>University of Hawaii Press</publisher-name>
+         <publisher-loc>Honolulu</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1996</copyright-year>
+         <copyright-holder>University of Hawai‘i Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt6wqmgc"/>
+      <abstract abstract-type="short">
+         <p>Taigu Ryokan (1759-1831) remains one of the most popular figures in Japanese Buddhist history. Despite his religious and artistic sophistication, Ryokan referred to himself as "Great Fool" and refused to place himself within the cultural elite of his age. In contrast to the typical Zen master of his time, who presided over a large monastery, trained students, and produced recondite religious treatises, Ryokan followed a life of mendicancy in the countryside. Instead of delivering sermons, he expressed himself through kanshi (poems composed in classical Chinese) and waka and could typically be found playing with the village children in the course of his daily rounds of begging. Great Fool is the first study in a Western language to offer a comprehensive picture of the legendary poet-monk and his oeuvre. It includes not only an extensive collection of the master's kanshi, topically arranged to facilitate an appreciation of Ryokan's colorful world, but selections of his waka, essays, and letters. The volume also presents for the first time in English the Ryokan zenji kiwa (Curious Accounts of the Zen Master Ryokan), a firsthand source composed by a former student less than sixteen years after Ryokan's death. Although it lacks chronological order, the Curious Account is invaluable for showing how Ryokan was understood and remembered by his contemporaries. It consists of colorful anecdotes and episodes, sketches from Ryokan's everyday life.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <string-name>R. A.</string-name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>Generations have called this beggar-monk of the early nineteenth century “Ryōkan-san,” the informal suffix “<italic>san</italic>” expressing affectionate respect. Only two other eminent Buddhist figures in Japanese history have received this particular honor: “Kōbō-san” or “Daishi-san,” Kūkai, the ninth-century founder of Shingon Buddhism, who is remembered in popular legends as a savior–miracle worker; and “Ikkyū-san,” the fifteenth-century Zen monk whose eccentric life-style has inspired numerous folk stories in which he is depicted as a marvelously quick-witted child novice. Ryōkan is a singularly attractive figure. Minakami Tsutomu, the celebrated contemporary novelist, explains why, despite countless earlier works examining the minutest details</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.5</book-part-id>
+                  <title-group>
+                     <title>Ryōkan of Mount Kugami</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Haskel</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Spend time at one of Japan’s busy commuter train stations and you will probably notice a bookstore crowded with silent rows of well-dressed “salarymen” and “salarywomen” browsing through an array of paperbacks and magazines. There, among the ubiquitous tabloids, the sex-and-violence comics, and the very latest Japanese and American bestsellers, you are likely to find several books devoted to the Zen master Taigu Ryōkan (1758–1831), a penniless monk whose life was spent in obscurity in Japan’s snow country, meditating, playing with children, and writing poems that vividly describe his world. He lived by begging in the villages and towns</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.6</book-part-id>
+                  <title-group>
+                     <title>A Poetics of Mendicancy:</title>
+                     <subtitle>Nondualist Philosophy and Ryōkan’s Figurative Strategies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abé</surname>
+                           <given-names>Ryūichi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>“<italic>Text</italic>means<italic>Tissue</italic>,” writes Roland Barthes, “but whereas hitherto we have always taken this tissue as a product, a ready-made veil, behind which lies, more or less hidden, meaning (truth), we are now emphasizing, in the tissue, the generative idea that the text is made, is worked out in a perpetual interweaving.”¹ Barthes’ proposal to understand text as the topos of incessant semantic production—rather than as the representation of fixed meanings outside of it—speaks eloquently of the seminal shift of emphasis in contemporary philosophical and literary theories in their approach to studying text. Such a reminder, however, seems</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.7</book-part-id>
+                  <title-group>
+                     <title>Commemorating Ryōkan:</title>
+                     <subtitle>The Origin and Growth of Ryōkan’s Biographies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abé</surname>
+                           <given-names>Ryūichi</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>Because of the vast amount of legendary literature, both oral and written, that has accumulated around Ryōkan since his death, it is often forgotten that the effort to document Ryōkan’s life and to preserve his writings had already begun during his lifetime (1758–1831). This brief survey identifies the key primary sources for Ryōkan’s biography, sketches the historical context in which the contemporaneous biographies of Ryōkan were composed, and illustrates the intertwining historical relationships that join these texts. Many of the sources exist only as unpublished manuscripts. In cases where there exist printed editions of these sources, whether partial or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.8</book-part-id>
+                  <title-group>
+                     <title>Translators’ Note</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Ryōkan has frequently suffered from being presented in one-dimensional terms. Because of his fame as a poet and a calligrapher, for example, Ryōkan is sometimes treated primarily as a literary figure. But to many ordinary Japanese, Ryōkan is above all a cultural hero, a teacher in the broadest sense of the word, one who has something to say not simply about poetry, but about life itself. This is the “Ryōkan san” familiar to millions of Japanese who may never even have attempted Ryōkan’s poems. Indeed, Ryōkan lived his life as a Zen Buddhist beggar-monk, and his poetry and other writings</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.9</book-part-id>
+                  <title-group>
+                     <title>Curious Accounts of the Zen Master Ryōkan</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yoshishige</surname>
+                           <given-names>Kera</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>Despite Ryōkan’s enduring reputation as a poet and calligrapher, it is above all the character of his daily life, its essential naturalness and simplicity, that earned him the affection of the men, women, and children of his native Echigo and continues to attract Japanese of all ages and backgrounds. Our principal firsthand source for Ryōkan’s day-to-day existence is<italic>Ryōkan zenji kiwa</italic>(Curious Accounts of the Zen Master Ryōkan), a short document composed around 1845 or 1846 by Kera Yoshishige (1810–1859), the son of Ryōkan’s friend and supporter Kera Shukumon (1765–1819). Ryōkan was a frequent guest in the Kera</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.10</book-part-id>
+                  <title-group>
+                     <title>Kanshi (Poems in Chinese)</title>
+                  </title-group>
+                  <fpage>107</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.11</book-part-id>
+                  <title-group>
+                     <title>Waka (Poems in Japanese)</title>
+                  </title-group>
+                  <fpage>203</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.12</book-part-id>
+                  <title-group>
+                     <title>Letters</title>
+                  </title-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>Numerous letters by Ryōkan have survived. The majority of these are “thank you” notes for an assortment of foodstuffs, clothes, and household articles, as well as tobacco and medicine supplied by Ryōkan’s many friends and patrons. The following selection focuses on those letters that reveal the character of Ryōkan’s daily life and of his social relations. Certain letters note the name and village of the recipient, others only the month and day (never the year) on which they were composed. Bracketed numbers refer to numbers in Tōgō Toyoharu,<italic>Ryōkan zenshū</italic>2, pp. 321–392; sources for letters not included in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.13</book-part-id>
+                  <title-group>
+                     <title>Reflections on Buddhism</title>
+                  </title-group>
+                  <fpage>240</fpage>
+                  <abstract>
+                     <p>Ryōkan was critical of the Buddhist temple establishment of his day, regarding it as degraded. Yet, as the following works reveal, he remained committed to Buddhism itself and to the monk’s vocation. “Invitation to the Way” (Tōgō Toyoharu,<italic>Ryōkan zenshū</italic>1, no. 1) is a summary of the history of Buddhism, and Zen in particular, in which Ryōkan assesses the current situation of Buddhism in Japan. “The Priesthood” (<italic>Zenshū</italic>1, no. 2) presents Ryōkan’s criticism of the contemporary Buddhist clergy. “On Begging One’s Food” (<italic>Zenshū</italic>1, no. 102) explains Ryōkan’s views on the importance of the monk’s begging practice. Ryōkan</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.14</book-part-id>
+                  <title-group>
+                     <title>Finder’s Lists</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.15</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.16</book-part-id>
+                  <title-group>
+                     <title>Select Bibliography</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt6wqmgc.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>307</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

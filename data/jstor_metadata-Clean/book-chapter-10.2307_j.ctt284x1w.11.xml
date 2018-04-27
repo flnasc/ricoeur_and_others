@@ -1,0 +1,302 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt284x1w</book-id>
+      <subj-group>
+         <subject content-type="call-number">PA3038.P46 2005</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Rhetoric, Ancient</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Speeches, addresses, etc., Greek</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Speeches, addresses, etc., Latin</subject>
+         <subj-group>
+            <subject content-type="lcsh">History and criticism</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Oratory, Ancient</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Rhetoric in Antiquity</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Pernot</surname>
+               <given-names>Laurent</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>Translated by</role>
+            <name name-style="western">
+               <surname>Higgins</surname>
+               <given-names>W. E.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>08</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813214078</isbn>
+      <isbn content-type="epub">9780813216386</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>Washington, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2005</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt284x1w"/>
+      <abstract abstract-type="short">
+         <p>Originally published as La Rhétorique dans l'Antiquité (2000), this new English edition provides students with a valuable introduction to understanding the classical art of rhetoric and its place in ancient society and politics</p>
+      </abstract>
+      <counts>
+         <page-count count="286"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.3</book-part-id>
+                  <title-group>
+                     <title>Translator’s Note</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The word “rhetoric” comes from the ancient Greek <italic>rhētorikē</italic>, which means “art of the spoken word.” Right off, etymology indicates the role the ancients played in the subject of the present work. If Greco-Roman antiquity by itself did not invent the art of speaking—other, more ancient civilizations could lay claim to this honor—it did develop it in a special way and conceptualize it with an unprecedented rigor and richness. This art has occupied an important place in the history of Western culture, and it continues to exert a genuine influence, although less visibly present than before, on the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.5</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>Rhetoric before “Rhetoric”</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>From the time of the Homeric poems, which are the first literary Greek texts, the spoken word and persuasion occupy an important place. I. J. F. de Jong has calculated that in the <italic>Iliad</italic>, speeches in direct discourse, by number of verses, represent 45 percent of the entire length of the poem. The epic, therefore, joins narrative and speech in an almost equal partnership by having the characters whose adventures it relates speak in a direct manner. Even in the midst of battles and dangers, the “winged words,” as a formulaic expression calls them, constitute an essential dimension of Homeric</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.6</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>The Sophistic Revolution</title>
+                  </title-group>
+                  <fpage>10</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Antiquity typically had recourse to the idea of “first inventor” <italic>(prōtos heuretēs)</italic> to describe the birth of different activities, arts, and techniques, in order to rationalize in some way their emergence, by attributing them to one individual’s decisive action, whether a mortal’s, a god’s, or a hero’s. Thus the invention of rhetoric was attributed either to Hermes—the god of crossroads and highways, of movement, passage, of communication in all senses of the term—or, as we have seen, to Homer, and finally to three men of the fifth century b.c., Empedokles, Korax, and Tisias.</p>
+                     <p>Empedokles of Agrigentum, a celebrated</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>The Athenian Moment</title>
+                  </title-group>
+                  <fpage>24</fpage>
+                  <abstract abstract-type="extract">
+                     <p>For the fourth century b.c., between those convenient reference points, the end of the Peloponnesian War (404) and the death of Alexander the Great (323), it is essential to focus on Athens. The sources are incomparably richer for this city than for the rest of the Greek world, and this is not a chance occurrence but results from the existence of practices, codifications, and constant discussions of what is now called rhetoric.</p>
+                     <p>Very many situations, but first and foremost judicial and political settings, provided opportunities for the practice of oratory at Athens. In the courts, the parties had to plead</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>The Hellenistic Globalization</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The period from the death of Alexander the Great until the emperor Augustus’s consolidation of power (323–27 b.c.) radically differs from what preceded. After the relatively brief period of Classical Greece, an expanse of three centuries unfolds, rife with sudden shifts and witness to the creation of the great Hellenistic monarchies and to Rome’s conquest of the entire Mediterranean region. After a phase of relative geographic concentration, Hellenism spreads completely throughout the ancient world and makes contact with other civilizations. States meet and confront one another, and in particular the Greek world meets Rome. All these upheavals had political,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>The Roman Way and Romanization</title>
+                  </title-group>
+                  <fpage>83</fpage>
+                  <abstract abstract-type="extract">
+                     <p>These sentences have been famous since antiquity, and they abide in the memory of all who have studied Latin even today. What is the source of their power? First, it derives from the power of those speaking: Cato the censor, Cicero the consul, Caesar the dictator, statesmen holding the highest magistracies. Next, it comes from the circumstances, in which the fates of Rome and its enemies, indeed, the fate of the world, were at stake. And it comes from their very content, where rigor rules. Finally, it comes from the inherent energy of the Latin language, which permits saying a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>The Empire:</title>
+                     <subtitle>Innovation in the Tradition</subtitle>
+                  </title-group>
+                  <fpage>128</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Coming after a long period of civil war, the Empire meant the establishing of a strong and stable power under the authority of the <italic>princeps</italic> or “prince.” This regime dominated the entire Mediterranean basin, both Latin-speaking provinces in the west and Greek-speaking provinces in the east. An immense and centralized structure, the Empire was built on strong foundations and accepted by the large majority of subjects. The reign of the famous <italic>pax Romana</italic> brought security and cohesion to the ancient world and in particular assured a cross-fertilizing of Greek and Latin regions.</p>
+                     <p>The Greco-Roman world, however, came to know absolutism</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.11</book-part-id>
+                  <title-group>
+                     <title>Conclusion:</title>
+                     <subtitle>The Heritage of Greco-Roman Rhetoric</subtitle>
+                  </title-group>
+                  <fpage>202</fpage>
+                  <abstract abstract-type="extract">
+                     <p>At the end of a survey covering more than a millenium, from Archaic Greece to the Late Roman Empire, ancient rhetoric appears simultaneously various and unified. It is various because it functioned in very diverse circumstances—in a Hellenic and in a Roman milieu, in Greek and in Latin, in democracies, aristocracies, and monarchies—and changed its fashions to suit each circumstance. And yet it is unified, because in this diversity of situations it constructed and preserved a fundamental identity. The components of this identity, or, to put it differently, the essential elements of a definition of ancient rhetoric, can</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.12</book-part-id>
+                  <title-group>
+                     <title>Thesaurus:</title>
+                     <subtitle>The System of Rhetoric</subtitle>
+                  </title-group>
+                  <fpage>215</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Ancient rhetoric does not present conceptions and technical terms in isolation, but as part of a network taking the form of a multitude of lists. Each list means to be as complete a description as possible of one sector or aspect. It aims to detail the constitutive elements of the topic being considered, following the method of division into genera and species in order to cover it completely and to define it by enumerating its parts.</p>
+                     <p>The different lists are juxtaposed, superimposed, and mesh with one another. Bringing these lists together, when they are all looked at as an ensemble,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.13</book-part-id>
+                  <title-group>
+                     <title>Chronological Table</title>
+                  </title-group>
+                  <fpage>233</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.15</book-part-id>
+                  <title-group>
+                     <title>Index of Proper Names</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.16</book-part-id>
+                  <title-group>
+                     <title>Index of Subjects</title>
+                  </title-group>
+                  <fpage>258</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.17</book-part-id>
+                  <title-group>
+                     <title>Index of Greek Words</title>
+                  </title-group>
+                  <fpage>264</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.18</book-part-id>
+                  <title-group>
+                     <title>Index of Latin Words</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x1w.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>270</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

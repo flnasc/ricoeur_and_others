@@ -1,0 +1,515 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">769038</book-id>
+      <subj-group>
+         <subject content-type="call-number">F3429.3.Q6 N37 2002</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Quipu</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+            <subj-group>
+               <subject content-type="lcsh">Sources</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Incas</subject>
+         <subj-group>
+            <subject content-type="lcsh">Mathematics</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Narrative Threads</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>QUILTER</surname>
+               <given-names>JEFFREY</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>URTON</surname>
+               <given-names>GARY</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>07</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780292769038</isbn>
+      <isbn content-type="epub">9780292787834</isbn>
+      <publisher>
+         <publisher-name>University of Texas Press</publisher-name>
+         <publisher-loc>AUSTIN</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2002</copyright-year>
+         <copyright-holder>UNIVERSITY OF TEXAS PRESS</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7560/769038"/>
+      <abstract abstract-type="short">
+         <p>The Inka Empire stretched over much of the length and breadth of the South American Andes, encompassed elaborately planned cities linked by a complex network of roads and messengers, and created astonishing works of architecture and artistry and a compelling mythology-all without the aid of a graphic writing system. Instead, the Inkas' records consisted of devices made of knotted and dyed strings-called khipu-on which they recorded information pertaining to the organization and history of their empire. Despite more than a century of research on these remarkable devices, the khipu remain largely undeciphered.</p>
+         <p>In this benchmark book, twelve international scholars tackle the most vexed question in khipu studies: how did the Inkas record and transmit narrative records by means of knotted strings? The authors approach the problem from a variety of angles. Several essays mine Spanish colonial sources for details about the kinds of narrative encoded in the khipu. Others look at the uses to which khipu were put before and after the Conquest, as well as their current use in some contemporary Andean communities. Still others analyze the formal characteristics of khipu and seek to explain how they encode various kinds of numerical and narrative data.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.4</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Quilter</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>An Overview of Spanish Colonial Commentary on Andean Knotted-String Records</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Urton</surname>
+                           <given-names>Gary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>One of the most intriguing, yet enigmatic, topics of study pertaining to pre-Columbian civilizations of the Andes concerns the device known as the khipu (Quechua: “knot”) or<italic>chino</italic>(Aymara: “knot record”). Khipu were bunches of (often) dyed, knotted strings that were used by the Inka and other populations throughout the empire for recording a variety of different types of information. We are aware of the contents of these records only indirectly, through Spanish chroniclers’ commentary on them, or through the handful of documents containing (Spanish) transcriptions of their “reading” by native record keepers, or through modern renderings of their numerical/quantitative</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>Spinning a Yarn:</title>
+                     <subtitle>Landscape, Memory, and Discourse Structure in Quechua Narratives</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Howard</surname>
+                           <given-names>Rosaleen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>26</fpage>
+                  <abstract>
+                     <p>Can a study of the cognitive and discursive principles at work in the telling of oral traditional stories in Quechua contribute to our insights into how the transmission of messages through the khipu might have operated? During the conference proceedings upon which this volume is based, the verbal component of the khipu-reading performance and the role of memory in activating the knowledge stored in the knots and strings were much commented on. Doubtless both cognitive and structural similarities exist between oral narratives that have no ostensible origin in the khipu and khipu-generated oral discourses. If a khipu’s message was indeed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>A Khipu Information String Theory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Conklin</surname>
+                           <given-names>William J</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>The chroniclers of the Spanish Conquest of Peru provided both eyewitness and word-of-mouth reports on the many uses of the plied and knotted-string information devices called khipu that the Inka used. Although these reports have varying degrees of credibility, the discovery, in the centuries since the conquest, of actual khipu from the Inka Empire provides material substance to those reports. In addition to these reports on the uses of khipu, Felipe Guaman Poma de Ayala, the ardent native chronicler of the woes of the conquest, provided many drawn images of khipu. A comparison of his depictions of khipu¹ with recovered</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>Reading Khipu:</title>
+                     <subtitle>Labels, Structure, and Format</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ascher</surname>
+                           <given-names>Marcia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Beginning some thirty years ago, my collaborator (an anthropologist) and I (a mathematician) began an extensive investigation of Inka khipu. Our work included firsthand study of over 215 khipu spread throughout thirteen countries, in thirty-four museums and private collections. Recognizing the fragility and importance of the artifacts, we recorded and published detailed descriptions, including knot types and placement, cord and space measurements, and colors, for each khipu we studied (Ascher and Ascher 1978, 1988). We analyzed the khipu as a corpus, as well as analyzing them individually. Building on previous studies of khipu and on our own findings, we came</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.9</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>Inka Writing</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ascher</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>Within the company of civilizations, the Inka have, for too long, been set apart as the one civilization without writing. Here I show that the Inka did indeed have a writing system. To begin, I retell the story of the first major confrontation between Spaniards and the Inka—an encounter in which a book played a key role.</p>
+                     <p>If one had to choose a place and a time to mark the start of the downfall of the Inka state, it would surely be the plaza in the town of Cajamarca on November 16, 1532. Let us follow Prescott’s (1900: 378</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.10</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>String Registries:</title>
+                     <subtitle>Native Accounting and Memory According to the Colonial Sources</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Assadourian</surname>
+                           <given-names>Carlos Sempat</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>119</fpage>
+                  <abstract>
+                     <p>The present chapter,¹ based on the Spanish chronicles and other colonial documents, represents an introduction to the types of accounting registers devised by Andean societies, as well as to the new uses to which they were put at the time of the European conquest of the New World. The analysis is very straightforward in the case of the khipu used for accounting purposes, but it is more complex and daring in relation to those khipu that served to register historical and literary narratives.</p>
+                     <p>It is both important and feasible to investigate more thoroughly the disappearance of the memory khipu following</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.11</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>Woven Words:</title>
+                     <subtitle>The Royal Khipu of Blas Valera</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hyland</surname>
+                           <given-names>Sabine P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>In 1750, Raimondo di Sangro, prince of Sansevero, published a curious book entitled<italic>Lettera apologetica</italic>. In this work, di Sangro reflected on the history of writing and, in particular, on the relationship between the mark of Cain described in the Bible (Genesis 4:50) and early textile-based writing methods. Among the more unusual passages in this book is the description of a secret writing system once used, di Sangro claimed, by ancient Peruvian bards (<italic>amauta</italic>) in the Inka Empire. According to the prince, this writing system was depicted in a seventeenth-century manuscript he had purchased from a Jesuit priest, Father Pedro</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.12</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>Recording Signs in Narrative-Accounting Khipu</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Urton</surname>
+                           <given-names>Gary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Writing about writing is a particularly vexed example of the general relationship, experienced by humans in all cultures, between acting, on the one hand, and commenting on that action, on the other hand. There are not, in fact, many examples of the parallelism between “doing the thing that we are commenting on” in the performance of, and commentary on, most other forms of human activities. Another such example is the closely related activity of talking; that is, we<italic>do</italic>(even commonly) “talk about talking.” There are certainly a few other areas of social life in which action and the commentary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.13</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>Yncap Cimin Quipococ’s Knots</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Quilter</surname>
+                           <given-names>Jeffrey</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>The knot records that the Inka called khipu have fascinated scholars and laymen alike for centuries. But despite such long interest, our understanding of these assemblages of strings is still quite limited. The chief questions scholars of the Andean past ask about them often concern issues of how they were “read” in the past and how we may or may not be able to read them today. In this chapter, I discuss some issues relating to the study of khipu. My discussion will focus on two issues: the relative standardization or diversity of khipu systems, and the interrelated matter of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.14</book-part-id>
+                  <title-group>
+                     <title>[Illustrations]</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.15</book-part-id>
+                  <title-group>
+                     <label>TEN</label>
+                     <title>“Without Deceit or Lies”:</title>
+                     <subtitle>Variable Chinu Readings during a Sixteenth-Century Tribute-Restitution Trial</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Platt</surname>
+                           <given-names>Tristan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>225</fpage>
+                  <abstract>
+                     <p>The study of khipu has traditionally reflected the dominant role of Cusco at the center of the Tawantinsuyu, or “Four-fold Whole,” which was the Quechua name used by the Inka for their empire. As a prime instrument of state administration and royal hegemony, the khipu tradition was raised by the Inka to new levels of sophistication, power, and flexibility. Yet khipu predated the Inka Empire by at least a thousand years. Moreover, in the south, whence the Inka came according to their dynastic histories, the khipu tradition of Tiwanaku-Huari (Conklin 1982) had been inherited by the Aymara federations, which developed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.16</book-part-id>
+                  <title-group>
+                     <label>ELEVEN</label>
+                     <title>Pérez Bocanegra’s Ritual formulario:</title>
+                     <subtitle>Khipu Knots and Confession</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harrison</surname>
+                           <given-names>Regina</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>266</fpage>
+                  <abstract>
+                     <p>In this age of electronic memory devices—telephone message machines with personal “reminders” built in, caller ID gadgets that remember who just called (even though we didn’t pick up the phone and even though they didn’t say a word), e-mail that’s stored forever in bottomless computer pits (retrieved in cases of harassment or to increase severance pay in layoffs), digital radio settings remembering the spot where we tune in during our commute, computers that remember how many “hits” a Web site receives—it is difficult to imagine a time when discussion of memory was theological, resulting in threats of hellfire</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.17</book-part-id>
+                  <title-group>
+                     <label>TWELVE</label>
+                     <title>Patrimonial Khipu in a Modern Peruvian Village:</title>
+                     <subtitle>An Introduction to the “Quipocamayos” of Tupicocha, Huarochirí</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Salomon</surname>
+                           <given-names>Frank</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>This chapter concerns a central Peruvian community that owns and ceremonially uses inherited cord records in perpetuating kinship corporations directly continuous with those of Inka and perhaps pre-Inka times. We know of these corporations because the village in question, San Andrés de Tupicocha in Huarochirí Province, Peru, is self-described in the only known early-colonial source that explains an Andean religious system in an Andean language, namely, the Quechua Huarochirí Manuscript (ca. 1608; translations include Salomon and Urioste 1991 and Taylor 1987). The cord records, though not themselves of pre-Hispanic antiquity, form a material link in a chain of institutional continuity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.18</book-part-id>
+                  <title-group>
+                     <label>THIRTEEN</label>
+                     <title>The Continuing Khipu Traditions:</title>
+                     <subtitle>Principles and Practices</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mackey</surname>
+                           <given-names>Carol</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>320</fpage>
+                  <abstract>
+                     <p>Few people realize that khipu—knotted cords used to record data—are still used in the highlands of Peru. Khipu were the principal devices used in the pre-Hispanic Andes to process information. Although khipu predate the Inka by at least four hundred years (Conklin 1982), they are associated chiefly with the Inka, who flourished from ca. A.D. 1400 until 1532, when the Spanish conquistadores toppled their empire. Although the Spanish chroniclers noted that the Inka recorded at least two kinds of information on khipu—statistical and nonstatistical—the primary function of khipu was to record statistical data. The kinds of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.19</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">769038.20</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>351</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

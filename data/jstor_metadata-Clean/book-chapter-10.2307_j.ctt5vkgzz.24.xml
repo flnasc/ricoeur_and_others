@@ -1,0 +1,686 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt5vj6g6</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vkgzz</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>General Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Mindscapes</book-title>
+         <subtitle>Philosophy, Science, and the Mind</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">EDITED BY</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Carrier</surname>
+               <given-names>Martin</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Machamer</surname>
+               <given-names>Peter K.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>06</month>
+         <year>1997</year>
+      </pub-date>
+      <isbn content-type="ppub">9780822939863</isbn>
+      <isbn content-type="epub">9780822970460</isbn>
+      <publisher>
+         <publisher-name>University of Pittsburgh Press</publisher-name>
+         <publisher-loc>Pittsburgh, Pa.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1997</copyright-year>
+         <copyright-holder>UVK · Universitätsverlag Konstanz GmbH, Konstanz</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vkgzz"/>
+      <abstract abstract-type="short">
+         <p>Leading scholars in the fields of philosophy and the sciences of the mind have contributed to this newest volume in the prestigious Pittsburgh-Konstanz series. Among the problem areas discussed are folk psychology, meanings as conceptual structures, functional and qualitative properties of colors, the role of conscious mental states, representation and mental content, the impact of connectionism on the philosophy of the mind, and supervenience, emergence, and realization. Most of the essays are followed by commentaries that reflect ongoing debates in the philosophy of the mind and often develop a counterpoint to the claims of the essayists.</p>
+      </abstract>
+      <counts>
+         <page-count count="392"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.2</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carrier</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Machamer</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.3</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>iii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carrier</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Machamer</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>One of the chief characteristics of contemporary philosophy of mind consists in the orientation toward the sciences of the mind. This feature stands in marked contrast to traditional philosophy of mind whose primary allegiance was to philosophy of language. Linguistic analysis was supposed to clarify what could sensibly be meant by the ascription of mental states. The issue was what sort of talk about the mental has a clear meaning and what, by contrast, is to be considered meaningless. This type of philosophical approach to the mind has now gone out of fashion. It was replaced by a science-based approach</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Folk Psychology and Its Liabilities</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lycan</surname>
+                           <given-names>William G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>My assigned project is an almost painfully humble one: to provide a map of the several issues regarding the relation between “folk psychology” and scientific psychology/biology.</p>
+                     <p>The first such issue, or rather a pre-issue, is that of what exactly is comprehended under the term of art, “folk psychology.”¹ Remarkably little attention has been given to that question. I shall list a number of distinct but actual characterizations, in ascending order of strength or tendentiousness.</p>
+                     <p>Until very recently, folk psychology has been understood propositionally, as a body of lore or doctrine, however much unacknowledged variation there has been in conceptions of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>The Empirical Naivete of the Current Philosophical Conception of Folk Psychology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Von Eckardt</surname>
+                           <given-names>Barbara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Since the appearance of Paul Churchland’s provocative article “Eliminative Materialism and the Propositional Attitudes” in 1981, folk psychology has become a standard topic of discussion among philosophers of mind and psychology.</p>
+                     <p>Philosophical debate has focused on two sets of issues, both of which were raised by Churchland’s article. The first, which has received the most attention, concerns the status of folk psychology. Is folk psychology false? Could it ever be replaced by scientific psychology or by neuroscience? The second, which has recently gained considerable momentum, concerns what I shall call the “form” of folk psychology: Is folk psychology really a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.7</book-part-id>
+                  <title-group>
+                     <label>2.1</label>
+                     <title>Philosophy and Folk Psychology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Haugeland</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>52</fpage>
+                  <abstract>
+                     <p>People, as rational or intelligent animals, are distinctive not only in their understanding of the events and things around them, but also in their understanding of one another—specifically, their understanding of one another as rational or intelligent. This latter understanding, in its general character, is what Paul Churchland once called “folk psychology,” and the name has stuck. The principal aim of Von Eckardt’s paper is to argue that philosophical discussions of folk psychology—including, but certainly not limited to Churchland’s—suffer from being empirically underinformed. In particular, by neglecting a substantial research tradition within what is sometimes called “social</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Meanings as Conceptual Structures</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gärdenfors</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>A very general answer, that I think everybody can agree on, to the question of what a semantics is, is that it specifies a relation between linguistic expressions and the referents of the expressions. But soon afterwards, opinions diverge. There is, in particular, no agreement on what kind of entities the meanings of various words are. Some say that the referents of language are things in the world, some say they are things, but maybe not in this world, and some say they are mental constructions without any posit that these constructions coalesce with reality.</p>
+                     <p>I want to contrast two</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.9</book-part-id>
+                  <title-group>
+                     <label>3.1</label>
+                     <title>Comment on Gärdenfors’ “Meanings as Conceptual Structures”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rott</surname>
+                           <given-names>Hans</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>There are too many interesting points in Peter Gärdenfors’ paper to be addressed here even in outline. Thus I am going to focus on just two topics that play a pivotal role in Gärdenfors’ line of thought.</p>
+                     <p>First, I shall comment on what Gärdenfors considers to be the<italic>strongest argument</italic>for his deviation from traditional semantic theories, namely Putnam’s model-theoretic argument, in the version expounded in<italic>Reason, Truth and History</italic>. I ask whether Putnam really points to a predicament that needs to be answered by a new kind of (cognitive) semantics.</p>
+                     <p>Secondly, I take a short look at Gärdenfors’<italic>paradigm</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Reinverting the Spectrum</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hardin</surname>
+                           <given-names>C. L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Inverted qualities seem to have been problematic early in the history of western thought, as evidenced by the following passage: “Woe unto them that call evil good, and good evil; that put darkness for light and light for darkness; that put bitter for sweet, and sweet for bitter!” (Isaiah 20:5). Isaiah seems to have found the inversion to be not only possible, but as detectable as it is detestable. I also suspect that he was less concerned than I am to rise to the defense of neurofunctionalism. Nonetheless, I join in his rejection of quality inversion. In prosaic modern terms,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.11</book-part-id>
+                  <title-group>
+                     <label>4.1</label>
+                     <title>Explanations of Colors:</title>
+                     <subtitle>A Comment to Hardin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Machamer</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>It is difficult to critically comment upon a paper with which one agrees both about the general goals and about their substantive implementation. Hardin’s paper is informative and well argued, and certainly furthers the work in color perception that he established in<italic>Color for Philosophers</italic>. Most interestingly, in this paper he took what is thought to be clearly a<italic>philosophical</italic>problem, the inverted spectrum, and showed how attention to detail, scientific and phenomenological, could be utilized to dissolve the force of the case. It appears that humans could not invert the spectrum without there being noticeable differences—“something got lost</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.12</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Is the Naturalization of Qualitative Experience Possible or Sensible?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nida-Rümelin</surname>
+                           <given-names>Martine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>According to some philosophers qualitative experience cannot be naturalized in the following sense: There are facts to be known about experiences that can only be expressed in phenomenal terminology. One candidate is the fact expressed by “the sky appears blue to Peter” or the fact expressed by “the pig feels pain.” Let us call a fact that can only be expressed in phenomenal terminology and that thus cannot be expressed in physical terminology a non-physical fact.² There has been a controversy about whether there are such non-physical facts. I am convinced that there are such non-physical facts, but, unfortunately, any</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.13</book-part-id>
+                  <title-group>
+                     <label>5.1</label>
+                     <title>Comment on Nida-Rümelin’s Paper “Is the Naturalization of Qualitative Experience Possible or Sensible?”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tetens</surname>
+                           <given-names>Holm</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>In the following comment, I intend to discuss critically one central claim, perhaps the central thesis, of Martine Nida-Rümelin’s paper. Nida-Rümelin maintains that phenomenal terminology is indispensable for the empirical sciences. Like Nida-Rümelin, I will restrict my considerations and arguments to color appearances.</p>
+                     <p>In general, terms or parts of a language are indispensable when entities, features, or states of the world cannot be discriminated, described, or explained unless the respective terms or parts of the language are used. Terms are indispensable if dispensing with the use of them implies a loss of information about the world including ourselves. Are the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.14</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Explaining Voluntary Action:</title>
+                     <subtitle>The Role of Mental Content</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Prinz</surname>
+                           <given-names>Wolfgang</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>There is a common and widespread belief that the way we perceive the physical world is fundamentally different from the way we are aware of our own mental world. In order to perceive events in the outer world, it is held, the mind has to get into contact with matter. For this purpose it relies on a complex machinery (sense organs, nerves, central processing modules, etc.), and the working of that machinery yields results that may be more or less adequate representations of the events to be represented.</p>
+                     <p>Common sense believes that the situation is fundamentally different, when the mind</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.15</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Conscious and the Non-Conscious:</title>
+                     <subtitle>Philosophical Implications of Neuropsychology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lahav</surname>
+                           <given-names>Ran</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>Until recently, the issue of the nature of consciousness was almost exclusively in the hands of philosophers. As the various sciences of the mind progress and accumulate new data, more empirical light is being shed on the phenomenon of consciousness (see, for example, Velmans 1991; Dennett and Kinsbourne 1992; Lahav 1993; Marcel and Bisiach 1988). Although we are still at a very early stage of the scientific understanding of the human mind, I think that the attempt to examine what current scientific knowledge can tell us about that phenomenon is worthwhile.</p>
+                     <p>This is what I will do in this paper.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.16</book-part-id>
+                  <title-group>
+                     <label>7.1</label>
+                     <title>On the Difficulty of Keeping Consciousness Intact:</title>
+                     <subtitle>Lahav on Conscious Integration and Causality</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Carrier</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>The aim of Lahav’s paper is to secure a home for consciousness. This home should rest on scientific foundations and at the same time accommodate the philosophical intuitions traditionally associated with this notion. I am fully sympathetic to this project, and I believe that Lahav’s approach is interesting and viable. Lahav argues for an account of consciousness that identifies conscious mental events by the role they play in the cognitive architecture, that is, functionally. What he rejects is a qualitybased view of consciousness according to which conscious mental events are distinguished by some internal qualitative property.</p>
+                     <p>While I am in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.17</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>On Cognitive Luck:</title>
+                     <subtitle>Externalism in an Evolutionary Frame</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Millikan</surname>
+                           <given-names>Ruth Garrett</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Steven Pinker (1994) chides the educated layman for imagining Darwin’s theory to go this way (the vertical lines are “begats”):</p>
+                     <p>Pinker says, “evolution did not make a ladder; it made a bush” (p. 343), and he gives us the following diagrams instead, showing how it went, in increasing detail, down to us (see Figure 2).</p>
+                     <p>Paleontologists like to say that to a first approximation, all species are extinct (ninety-nine percent is the usual estimate). The organisms we see around us are distant cousins, not great grandparents; they are a few scattered twig-tips of an enormous tree whose branches and trunk</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.18</book-part-id>
+                  <title-group>
+                     <label>8.1</label>
+                     <title>Fitting the Frame to the Picture:</title>
+                     <subtitle>Comments on Millikan’s “Cognitive Luck: Externalism in an Evolutionary Frame”</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Bradley E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>220</fpage>
+                  <abstract>
+                     <p>When choosing a frame for a picture, it is important to consider carefully both the picture that you want to frame and the frame itself. Not just any frame will go with any picture. A wellchosen frame can add to a picture; a poorly-chosen frame can detract from it. The picture that Millikan wants to frame here is an externalist picture of the semantic content of thought, or more simply, an externalist theory of meaning. What does this picture look like?</p>
+                     <p>Millikan discusses externalist theories of meaning in her essay “White Queen Psychology” (Millikan 1993). I cannot present her arguments</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.19</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Animal Cognition and Animal Minds</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allen</surname>
+                           <given-names>Colin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>Psychology, according to a standard dictionary definition, is the science of mind and behavior. For a major part of the twentieth century, (nonhuman) animal psychology was on a behavioristic track that explicitly denied the possibility of a science of animal mind. While many comparative psychologists remain wedded to behavioristic methods, they have more recently adopted a cognitive, information-processing approach that does not adhere to the strictures of stimulus-response explanations of animal behavior. Cognitive ethologists are typically willing to go much further than comparative psychologists by adopting folk-psychological terms to explain the behavior of nonhuman animals.</p>
+                     <p>The theoretical terms of cognitive</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.20</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Connectionism, Dynamics, and the Philosophy of Mind</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Gelder</surname>
+                           <given-names>Tim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>After connectionism burst into prominence in cognitive science in mid-1980s, one of the most popular questions among philosophers of cognitive science was: what implications does it have for the philosophy of mind? (See, e.g., Horgan and Tienson 1991; Ramsey, Stich, and Rumelhart, 1991). Ten years later, it seems that the verdict is in. If we suppose that the term<italic>connectionism</italic>refers to some reasonably coherent research program standing as an alternative to mainstream computational cognitive science, then connectionism has<italic>no</italic>interesting implications for cognitive science. This is because there is, in fact,<italic>no such</italic>thing. There are lots of connectionist</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.21</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Supervenience, Emergence, and Realization in the Philosophy of Mind</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kim</surname>
+                           <given-names>Jaegwon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>How is the mental related to the physical? Answering this question is the mind-body problem. The three concepts that have often and prominently been invoked in recent discussions of the mind-body problem are those of “supervenience,” “emergence,” and “realization.” Some have claimed that mentality—in particular, consciousness and intentionality, are “emergent properties,” properties that emerge from complex configurations of physical/biological events and yet are irreducible to them. In the heyday of positivism and reductionism, emergentism used to be ridiculed as an example of unsavory pseudo-scientific doctrines, not quite as disreputable as, say, neo-vitalism, with its entelechies or<italic>élan vital</italic>, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.22</book-part-id>
+                  <title-group>
+                     <label>11.1</label>
+                     <title>Comment on J. Kim’s “Supervenience, Emergence and Realization in the Philosophy of Mind”</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hoyningen-Huene</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>294</fpage>
+                  <abstract>
+                     <p>Let me first state that I like Professor Kim’s paper very much. In order to explain why, I would like to introduce a distinction about how to deal with a problem. The distinction is between<italic>schwarzkopfing</italic>a problem and<italic>kimming</italic>it. In our case, the problem involved is the mind-body problem. If one schwarzkopfs the mind-body problem in the way physicalist reductionists or Cartesian dualists do, one ends up with a fairly clear solution, but with a few loose ends that, contrary to your expectations, will cause ongoing, substantial trouble later on. But if one kims the mind-body problem, then</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.23</book-part-id>
+                  <title-group>
+                     <label>11.2</label>
+                     <title>Property Physicalism, Reduction and Realization</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beckermann</surname>
+                           <given-names>Ansgar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>Once, a mind-body theory based upon the idea of supervenience seemed to be a promising alternative to the various kinds of reductionistic physicalism. In recent years, however, Jaegwon Kim has subjected his own brainchild to a very thorough criticism. With most of Kim’s arguments I agree wholeheartedly—not least because they converge with my own thoughts.² In order to explain the few points of divergence with Kim’s views, I shall have to prepare the ground a little. In the course of this paper I will therefore do two things: At the start, I will try to sketch the logical topography</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.24</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>One Hundred Years of Psychoanalytic Theory and Therapy:</title>
+                     <subtitle>Retrospect and Prospect</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grünbaum</surname>
+                           <given-names>Adolf</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>323</fpage>
+                  <abstract>
+                     <p>In 1975, I was engaged in a systematic scrutiny of Karl Popper’s falsificationist conception of scientific rationality. The purported unfalsifiability of psychoanalytic theory by any potential empirical evidence was the avowed centerpiece of his case against the ‘inductivist’ tradition in the philosophy of science. Prompted by my strong hunch that Popper’s appraisal of psychoanalysis was simplistic, I began to study the very large Freudian corpus systematically from scratch in 1975.</p>
+                     <p>During the months of June and July 1983, I had the honor of inaugurating the annual ‘Konstanz Dialogues’ by delivering a series of six Lectures at the University of Konstanz</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkgzz.25</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>361</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

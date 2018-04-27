@@ -1,0 +1,627 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">libraryq</journal-id>
+         <journal-title-group>
+            <journal-title>The Library Quarterly: Information, Community, Policy</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>The University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00242519</issn>
+         <issn pub-type="epub">1549652X</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/523909</article-id>
+         <article-id pub-id-type="msid">LQ780103</article-id>
+         <title-group>
+            <article-title>The Philosophical Problem of Truth in Librarianship<xref ref-type="fn" rid="fn1">1</xref>
+            </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Robert V.</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Labaree</surname>
+               </string-name>
+               <xref ref-type="fn" rid="fn2">2</xref>
+               <x xml:space="preserve">and</x>
+            </contrib>
+            <contrib contrib-type="author" xlink:type="simple">
+               <string-name>
+                  <given-names>Ross</given-names>
+                  <x xml:space="preserve"> </x>
+                  <surname>Scimeca</surname>
+               </string-name>
+               <xref ref-type="fn" rid="fn3">3</xref>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <month>01</month>
+            <year>2008</year>
+            <string-date>January 2008</string-date>
+         </pub-date>
+         <volume>78</volume>
+         <issue>1</issue>
+         <issue-id>527832</issue-id>
+         <fpage>43</fpage>
+         <lpage>70</lpage>
+         <permissions>
+            <copyright-statement>© 2008 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2008</copyright-year>
+            <copyright-holder>The University of Chicago</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/10.1086/523909"/>
+         <abstract>
+            <p>The authors develop a framework for addressing the question of truth in librarianship and in doing so attempt to move considerations of truth closer to the core of philosophical debates within the profession. After establishing ways in which philosophy contributes to social scientific inquiry in library science, the authors examine concepts of truth currently found in the literature. Analysis reveals that only scattered attention has been given to this issue. As a result, there is a lack of clarity about the relationship between theories of truth and the practice of librarianship. The authors review the three prevailing theories of truth in philosophy and then introduce a new construct of truth rooted in an early version of historicism. The authors conclude that this theoretical framework offers a new method for understanding how the objective practices of librarianship only can be adequately explained by considering their place within a contextualized process of historical development.</p>
+         </abstract>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+      <notes notes-type="footnote">
+         <fn-group>
+            <fn id="fn1">
+               <label>1.</label>
+               <p>The authors wish to thank Adrianna Kezar and the anonymous referees for their many useful suggestions and comments.</p>
+            </fn>
+            <fn id="fn2">
+               <label>2.</label>
+               <p>Applied social sciences librarian, Von KleinSmid Center Library, University of Southern California, Los Angeles, CA 90089‐0048. Telephone 213‐740‐5824; Fax 213‐821‐1993; E‐mail<email xlink:href="mailto:labaree@usc.edu" xlink:type="simple">labaree@usc.edu</email>.</p>
+            </fn>
+            <fn id="fn3">
+               <label>3.</label>
+               <p>Philosophy librarian, Hoose Library of Philosophy, University of Southern California, Los Angeles, CA 90089‐0452. Telephone 213‐740‐7434; Fax 213‐740‐3488; E‐mail<email xlink:href="mailto:scimeca@usc.edu" xlink:type="simple">scimeca@usc.edu</email>.</p>
+            </fn>
+         </fn-group>
+      </notes>
+   </front>
+   <body>
+      <sec id="sc1">
+         <title>Introduction</title>
+         <p>Arguments that library science should embrace philosophy have existed for many years [<xref ref-type="bibr" rid="rf1">1</xref>] and can be traced back to when American librarianship was first recognized as a separate profession [<xref ref-type="bibr" rid="rf2">2</xref>]. The past twenty years, in particular, have witnessed a significant growth in the study of the philosophical foundations of librarianship. This literature has generally focused on addressing whether or not our profession actually possesses a meaningful philosophy of practice and clarifying intellectual legitimacy based upon the philosophical foundations of social thought and epistemology. There are several reasons why the issue of philosophy has gained broader attention in the profession. For example, philosophy can help us illuminate the values that librarians embrace as learned professionals [<xref ref-type="bibr" rid="rf3">3</xref>], consider reflectively our codes of professional ethics [<xref ref-type="bibr" rid="rf4">4</xref>], examine applied topics in epistemology and analyze theoretical questions of knowledge and communication [<xref ref-type="bibr" rid="rf5">5</xref>], and provide a means of repositioning the profession away from logical positivist thought borrowed from the natural sciences [<xref ref-type="bibr" rid="rf6">6</xref>
+            <xref ref-type="bibr" rid="rf7"/>–<xref ref-type="bibr" rid="rf8">8</xref>]. Not coincidently, much of this new literature also attempts to expand the sociophilosophical underpinnings of our profession by firmly locating practice within the political, economic, and cultural patterns of transformation created by the development of new technologies [<xref ref-type="bibr" rid="rf9">9</xref>]. Based on this literature, philosophy applied to library practice generally refers to the basic values, beliefs, and assumptions that members hold about the nature of our profession and the purposes it fulfills.</p>
+         <p>Dialogue concerning the philosophical assumptions of library and information science praxis demonstrate that a rich tapestry of theoretical viewpoints exists about the profession and its place within society. A critical review of librarianship’s philosophy clearly reveals the importance placed on the public purposes underlying what we do and why we do it. As Gerald Benoit notes, “the background assumptions, research methods, and practices of library and information science (LIS) are in various ways tied to philosophical movements” [<xref ref-type="bibr" rid="rf5">5</xref>, p. 441]. Furthermore, recent explorations of the philosophy of librarianship offer critical insights into the changing boundaries of our discipline as scholars and practitioners alike attempt to redefine the field in a way that maximizes intellectual legitimacy in the eyes of key stakeholder groups during this period of dramatic change and transformation brought about by emerging technologies.</p>
+         <p>Despite the increasing attention given to exploring the relationships between philosophy and librarianship, in‐depth discussion of the meaning of truth has received only scattered attention throughout the literature. At this point, however, it should be noted that the concept of truth is itself a contested term within philosophy. Therefore, for the purposes of this article, we will consider the term as it is used in ordinary language, and we will define the verity of a statement or a thought to cover conformity with fact and agreement with reality, accuracy, and correctness. Demonstrating how two people can claim truth about two contradictory statements provides the basis for considering why we have to look at the philosophical definitions of truth later in this article.</p>
+         <p>Within this framework, the concept of truth rarely rests at the center of discussions about the need to expand the philosophical foundations of thought in library and information science. Considered collectively, critical reflection on the concept of truth in librarianship represents more of an element of thought about the traditional values we embrace and the codes of ethics we adhere to than a comprehensive investigation into the nature of truth‐seeking in librarianship. Analysis of the relational issues of truth and library practice also should be broadened because current discussions fail to consider possible new theories of truth that may inform better practice. A critical appraisal of the philosophical questions of truth in our profession should not exist merely as a foundation of abstract thought or represent a footnote to broader discussions of theory. It should serve as a means by which we strengthen our legitimacy as a profession and define more clearly the purposes underlying what we do and why we do it within an increasingly complex knowledge‐based society.</p>
+         <p>The initial purpose of this article is to develop a foundation for understanding the philosophical problem of truth in librarianship and, in so doing, locate the concept of truth closer to the core of philosophical debates within library and information science. This is followed by a synthesis of the concepts of truth currently found in the literature. After reviewing the three prevailing theories of truth applied to the field of librarianship, we introduce a new theory of truth in librarianship grounded in historicism. We argue that this theory offers a new approach to understanding how the objective practices of librarianship only can be adequately explained by considering their place within a contextualized process of historical development. Before examining theoretical considerations of truth, an elaboration of the possible ways in which philosophy contributes to social scientific inquiry in librarianship would be instructive.</p>
+      </sec>
+      <sec id="sc2">
+         <title>The Importance of Philosophical Thought in LIS</title>
+         <p>Although much has been written about the philosophical assumptions of librarianship, few have specifically articulated why this exercise is important. We reject the argument that the field of librarianship does not require a philosophical foundation [<xref ref-type="bibr" rid="rf10">10</xref>] and agree with David N. King and Richard E. Rubin that philosophy is necessary because it represents “the fountainhead from which professional practice flows” [<xref ref-type="bibr" rid="rf11">11</xref>, p. 248]. Based on an analysis of the literature, we comment on at least seven interconnected ways in which philosophy may contribute to the practice of librarianship and support fundamental cultures, values, and belief systems within it.</p>
+         <p>1.<italic>Philosophy is necessary so that librarians may understand and defend themselves against philosophical criticisms of their profession</italic>. This is particularly relevant in a knowledge‐based society where access to information on the Internet is ubiquitous and people can communicate and share information easily (assuming they can afford to do so). Within this new socioeconomic landscape, discussions concerning the future of traditional objects, places, and processes supporting the dissemination and preservation of information have emerged. These have often focused on deep philosophical questions concerning, for example, the future of the book [<xref ref-type="bibr" rid="rf12">12</xref>], the value of libraries as place, and the continued role of librarians as preservationists and gatekeepers of society’s intellectual heritage. Dire predictions about the future of libraries and librarianship, though, often revolve around broad issues of law and economics, particularly as it relates to the book publishing industry and legislation intended to redefine privacy rights. Futures without books and physical libraries are also promulgated by technologists with very narrow views about the social dimensions of information [<xref ref-type="bibr" rid="rf13">13</xref>]. Librarians have been moderately successful in refuting attacks on the credibility and legitimacy of their profession by aggressively adapting to new technologies and drawing upon long‐established values of service, learning, and expertise [<xref ref-type="bibr" rid="rf3">3</xref>,<xref ref-type="bibr" rid="rf14">14</xref>,<xref ref-type="bibr" rid="rf15">15</xref>]. It is likely, however, that questions concerning the institutional role of libraries in society will continue. Given this, philosophy provides a foundational means for refuting false futures, bringing clarity to the defense of library values and beliefs, and strengthening social legitimacy by deflecting external criticism based primarily upon economic or legal precedents.</p>
+         <p>2.<italic>Philosophy provides a basis for applying ethical decision making to practice</italic>. Perusing the Web site of the American Library Association (ALA;<ext-link ext-link-type="uri"
+                      xlink:href="http://www.ala.org"
+                      xlink:type="simple">http://www.ala.org</ext-link>), in particular, illustrates the commitment our profession has to ethical behavior. The Library Bill of Rights, although not universally accepted in its current form, and the accompanying Code of Ethics of the American Library Association articulate a variety of professional ethics related to combating censorship, promoting intellectual freedom, encouraging diversity in collection development, and reducing economic barriers to information. As mentioned on the ALA Web site, it is certainly true that ethical dilemmas may emerge during those times when opposing values collide, as they may in any profession. However, it is rarely the case within librarianship that ethical dilemmas are resolved based on the guiding principles and ethical standards of specific philosophers or philosophies. Such resolution, we argue, would help align our profession more closely to the ethical habits found in most other applied social science disciplines.</p>
+         <p>3.<italic>Philosophy functions as a means of gaining greater self‐understanding and self‐knowledge about the purposes of librarianship.</italic>Because philosophy can challenge basic epistemological assumptions and belief systems, those who are engaged in its movements and theories may gain a greater sense of self‐awareness and self‐understanding. In the domain of education, which librarians can certainly consider themselves within, Donald Schön [<xref ref-type="bibr" rid="rf16">16</xref>] described the learned professional who applies experiential reflexivity, interpretation, and application to their work as being a reflective practitioner. In the broadest sense, a reflective practitioner is any individual who engages in a systemic inquiry about his/her own practice and pays deliberate attention to his/her own professional experiences [<xref ref-type="bibr" rid="rf17">17</xref>]. Chris Higgins [<xref ref-type="bibr" rid="rf18">18</xref>] has recently broadened and challenged assumptions of reflexivity by embracing the concept of<italic>phronesis</italic>(Aristotle’s notion of practical wisdom as extended by Gadamer). There is a substantial volume of literature, particularly within the field of education, that supports the notion that philosophy not only can enrich the intellectual domains of the applied social sciences but can also encourage learned professionals within them to act less as impartial, rational onlookers and more as reflexive practitioners and phronetic thinkers.</p>
+         <p>4.<italic>Philosophy brings clarity to general guiding practices and principles of an individual or group</italic>. Philosophy facilitates the exploration of, as well as alignment with, the distinctive cultures of an organization. In this sense, philosophy provides a lens through which to view workplace mission and purpose, traditions of power and authority, organizational governance (how decisions are made), and organizational form (how the process of governance is structured) [<xref ref-type="bibr" rid="rf19">19</xref>]. It encourages and reinforces collective behaviors and value systems that are essential for successful fulfillment of collective purpose. In a personal context, philosophy not only informs concepts of ethical judgment, values, and reflection, as described above, but also facilitates personal journeys of understanding with regards to moral action, personal responsibility and accountability, and principled reasoning in relation to others and in relation to the organization as a whole.</p>
+         <p>5.<italic>Philosophy informs methodology</italic>. Understanding philosophy is important if library science scholars and practitioners expand their research repertoire beyond a positivistically based research paradigm and begin to apply qualitative research methods to analyzing problems in librarianship. This shift would not represent a retreat from the traditional application of scientific methods in the social sciences, but philosophical thinking is especially critical in helping to underpin the methodologies of qualitative inquiry and action research [<xref ref-type="bibr" rid="rf20">20</xref>]. For example, the pragmatic philosophy of John Dewey [<xref ref-type="bibr" rid="rf21">21</xref>], William James [<xref ref-type="bibr" rid="rf22">22</xref>], Charles S. Peirce [<xref ref-type="bibr" rid="rf23">23</xref>], and others suggests interesting ways to link theory and praxis. Philosophy can inform methodology by helping the librarian‐researcher define the ontological and epistemological assumptions of their research and address key conceptual issues, such as ethics, cultural bias, trust, and validity, during the creation of knowledge derived from the use of qualitative techniques.</p>
+         <p>6.<italic>Beyond methodology, philosophy also informs critical thinking about epistemology and the structure of reality (metaphysics)</italic>. Epistemology is the study of knowledge and knowing. Metaphysics concerns questions about the structure of reality. Both of these concepts are foundational to philosophical thought and, as such, should be foundational to thinking in librarianship. In fact, there is a growing volume of literature devoted to investigating the epistemologies of library science [<xref ref-type="bibr" rid="rf6">6</xref>]. This literature demonstrates that theories of epistemology are critical to librarianship because they inform the philosophical aspects of cognitive development and learning, the social components of information retrieval, the communication of knowledge, and the intellectual experiences of knowledge acquisition. More precisely, epistemology is important to librarianship because it helps us to understand our place within the greater domain of knowledge production, dissemination, and preservation. Issues related to the philosophical foundations of metaphysics have received much less attention in the literature. Nevertheless, metaphysics can be an important concept underpinning library practice because it raises questions about hidden realities, social self‐actualization, and concepts of the self. Metaphysics is also a critical component of librarianship because it helps in conceptualizing realities within a dynamic, information‐driven environment.</p>
+         <p>7.<italic>Philosophy brings clarity and definition to the practical and theoretical uses of terms, concepts, and ideas</italic>. Michael A. Dummett [<xref ref-type="bibr" rid="rf24">24</xref>] argues that an important contribution of philosophy is that it can critique and improve existing concepts. Terms such as<italic>information</italic>,<italic>validity</italic>,<italic>logic</italic>,<italic>knowledge</italic>,<italic>method</italic>,<italic>freedom</italic>, and<italic>truth</italic>(the latter of which will be discussed in more detail in the next section of this article) have particular negotiated meanings within librarianship as well as to groups and individuals external to the field. The perceived meaning of a word is both situational and contextual. Philosophy raises questions about the use and application of terms in ordinary language. In his<italic>Philosophical Investigations</italic>, Ludwig Wittgenstein argued that “for a large class of cases, though not for all, in which we employ the word ‘meaning’ it can be defined thus: the meaning of a word is its use in the language” [<xref ref-type="bibr" rid="rf25">25</xref>, p. 20]. In short, philosophy contributes to librarianship by helping to clarify words and their multiple meanings in context.</p>
+         <p>As we have outlined above, philosophy can contribute to the discipline of library science in a variety of ways. However, certain philosophical problems have received only scattered attention within the field. One issue, in particular, is bringing clarity to the problem of truth. The remainder of this article investigates the meaning of<italic>truth</italic>in librarianship and argues for its importance in developing a framework for understanding the relationship between library praxis and philosophical thought.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Considerations of Problems of Truth in Librarianship</title>
+         <p>The concept of truth remains largely undefined in the field of library and information science. As a consequence, analysis is predominantly considered only within certain contexts related to interpreting truthfulness in practice, understanding truth as it is applied to existing philosophical theories or implied in philosophical discussions about knowledge creation, knowledge organization, and ideas about reality. This section reviews considerations of truth in library science literature and the somewhat related inquiries into the nature of reality discussed by some library thinkers.</p>
+         <sec id="sc3.1">
+            <title>Examinations of Truth in Librarianship</title>
+            <p>Citation system analysis and knowledge classification represent two areas of library practice in which the philosophical applications and interpretations of truth are evident. For example, Betsy Van der Veer Martens [<xref ref-type="bibr" rid="rf26">26</xref>] attempts to link theories of truth with understanding the epistemological foundations of library and information science. She explores the relationship between three theoretical ideas of truth and the application of citations as “boundary objects” in the research literature of science, law, and technology. The three theories of truth used by the author are the correspondence theory, the coherence theory, and the consensus, or pragmatic, theory, all of which will be considered in more detail in the next section of this article. According to Van der Veer Martens, the citation functions as an important means of defining the ways in which each discipline represents reliable knowledge (truth). She interprets the citation as a boundary object to be a specific type of “concept symbol,” defined more precisely as “the symbolic reference to an idea previously (and presumably, authoritatively), communicated in a specified form” [<xref ref-type="bibr" rid="rf26">26</xref>].</p>
+            <p>The citation as concept symbol is examined from the perspective of three separate levels of analysis. The micro level refers to individual use of a citation to identify past ideas or innovations that have been previously accepted as legitimate. The meso level is defined as a cluster of citations used to identity a group’s contemporary view of reliable knowledge. The macro level of analysis refers to the entire structure of a citation system used to explain knowledge processes. These three levels of citations as concept symbols are then examined in relation to the correspondence, coherence, and consensus theories of truth. The article lays a foundation for considering the relationship between the cited knowledge systems of science, law, and technology and the three theories of truth. In so doing, Van der Veer Martens demonstrates that citations as concept symbols and boundary objects can help illuminate new approaches to understanding specific aspects of citation analysis theory in library and information science and, in some ways, the social networks of scholarly communication within the intellectual domains of science, law, and technology.</p>
+            <p>The idea of truth in library classification systems can be interpreted to take place within analytical explorations of knowledge organization, information‐seeking behavior, and broader discussion about the nature of certainty, whereby classification systems provide “rules of procedure” that facilitate the discovery of knowledge [<xref ref-type="bibr" rid="rf27">27</xref>]. As noted by Elaine Svenonius [<xref ref-type="bibr" rid="rf28">28</xref>], the purpose of classification is to “bring like things together … based on one or more specified attributes” [<xref ref-type="bibr" rid="rf28">28</xref>, p. 10]. Within this broad framework, interpretations of truth in practice can be found in Svenonius’s examination of accuracy in transcribing data. As she explains: “Truthfully transcribing how a document represents itself is necessary for the identification and communication of bibliographic information” [<xref ref-type="bibr" rid="rf28">28</xref>, p. 71]. Truthful transcription of metadata is considered good practice because it ensures that descriptions of the same bibliographic entity are created identically by different individuals, thereby facilitating consistent searching and discovery among users.</p>
+            <p>Wayne A. Wiegand [<xref ref-type="bibr" rid="rf29">29</xref>], in his analysis of the conflicted history of the origins of the Dewey Decimal Classification scheme, addresses the issue of truth as part of a worldview held by Melvil Dewey resulting from his education at Amherst College. The Amherst curriculum during the last quarter of the nineteenth century reflected the school’s strong ties to orthodox Christianity. The purpose of teaching, therefore, was to communicate already known and unquestioned universal truths to students. The result, as Wiegand argues, is that Dewey’s development of a decimal classification scheme arose from a worldview that “looked upon the world reflected in this curriculum as objective and absolute” [<xref ref-type="bibr" rid="rf29">29</xref>, pp. 183–84].</p>
+            <p>Jack Anderson and Laura Skouvig [<xref ref-type="bibr" rid="rf30">30</xref>] refer to the idea of truth in their historical analysis and critique of knowledge organization as an emerging academic discipline. The authors base their analysis of knowledge organization on the sociocultural theories of Jürgen Habermas and Michel Foucault. Within this framework, ideas of truth emerge as part of the author’s application of Foucault’s thesis that constructions of discourse must be understood in relation to power and thus, by extension, definitions of what is true/false. If one is to accept this view, the authors argue, the implication is that “knowledge organization is a social and political activity [and thus] does not encompass pragmatic and technical questions only” [<xref ref-type="bibr" rid="rf30">30</xref>, p. 316]. This position supports a subjective interpretation of truth in practice.</p>
+            <p>Similarly, Chaim Zins [<xref ref-type="bibr" rid="rf31">31</xref>] sets forth a multistage philosophical exploration of the epistemological foundations of knowledge organization and their implications for classification schemes and knowledge maps. The focus of his paper is to differentiate between the definition of knowledge as a thought and the definition of knowledge as an object and to explore their relationship within classifications of knowledge in practice. Within this analysis, ideas of truth are considered only as they relate to the understanding of objective knowledge and as one of the concepts, along with such things as “content,” “validity,” and “verification,” that bring meaning to knowledge. In this work, as well as in others that investigate knowledge organization and classification schemes, concepts of truth are only mentioned in passing and do not rest at the center of overall discussions of classification systems as theory‐in‐practice [<xref ref-type="bibr" rid="rf32">32</xref>].</p>
+            <p>In other areas of library practice, King and Rubin [<xref ref-type="bibr" rid="rf11">11</xref>] and Gary P. Radford [<xref ref-type="bibr" rid="rf7">7</xref>] viewed<italic>truth</italic>, along with the terms<italic>justice</italic>and<italic>beauty</italic>, as one of three “interrelated fundamental ideals that serve as the foundation for librarianship in general and reference services in particular” [<xref ref-type="bibr" rid="rf11">11</xref>, p. 249]. King and Rubin argued that these three terms form a conceptual basis from which to understand the public purpose of librarianship, particularly as it applies to reference service, within the larger milieu of democratic idealism. The idea of truth in this context forms the basis for understanding issues of intellectual freedom and freedom of expression, where the library serves as the penultimate setting for the free exchange of opinions, beliefs, and ideas. King and Rubin proposed that the existence of “untruths” is also important to the philosophy of service in librarianship because untruths, as described by John Swan [<xref ref-type="bibr" rid="rf33">33</xref>], can “stimulate thinking and reveal pathways in the search for truth” [<xref ref-type="bibr" rid="rf11">11</xref>, p. 251]. Embracing the concepts of truth and untruth in librarianship is foundational because they support and promote the Jeffersonian vision of an enlightened marketplace of ideas. Specific provisions within the Library Bill of Rights and other official policies of the American Library Association are cited by King and Rubin to demonstrate the practical expressions of these ideals.</p>
+            <p>Although Rubin and King recognize truth to be a key concept within librarianship, the focus is more on the term and identifying its expressed meaning in professional doctrine. A deeper, more deliberate analysis of the philosophical question of truth and its relationship to the general practice of librarianship is not considered.<italic>Truth</italic>, as well as the terms<italic>justice</italic>and<italic>beauty</italic>, are used only to identify the conceptual foundations of service provision in librarianship, but there is no theoretical consideration of the problem of truth in philosophy or of truth's fundamental relationship to library and information science.</p>
+            <p>Radford [<xref ref-type="bibr" rid="rf7">7</xref>] also considered the issue of truth in librarianship by using the work of Foucault [<xref ref-type="bibr" rid="rf34">34</xref>] to explore how truth‐seeking behaviors in the library are representative of a broader process of creating new knowledge beyond the content of individual texts. Radford examined the modern research library environment by considering the representative relationship between the library as place and contemporary views of knowledge. One view sees the librarian as operating in a world of “individual facts.” In this construct, the librarian acts as both the guardian and broker of information as commodity. The other interpretation is borrowed from Umberto Eco’s novel,<italic>The Name of the Rose</italic>. In this work, according to Radford, the librarian is portrayed as a “quasi‐mystical guardian of a great temple of knowledge” [<xref ref-type="bibr" rid="rf7">7</xref>, p. 409]. Radford argues that these conceptions of the library are grounded in a positivist view of knowledge, where knowledge as text can be archived, classified, and arranged in a logical manner and the purpose of the librarian is to preserve and protect the text as the receptacle of knowledge.</p>
+            <p>The issue of truth enters the discussion as Radford attempts to challenge as self‐evident the idea that the modern library experience is governed solely by a positivist conception of knowledge. The discursive philosophy of Foucault is used to question contemporary ideas about scientific knowledge and its methodologies. Foucault’s work examines the nature of truth, not in relation to the production of scientific knowledge but “understood as a system of ordered procedures for the production, regulation, distribution, circulation and operation of statements” [<xref ref-type="bibr" rid="rf34">34</xref>, p. 133] governed by whatever the predominant system of rhetoric is at a given moment in history. Within this framework, the library experience becomes much more than a place to discover truth embedded in the contents of specific texts. It becomes, as Foucault explains, a “fantasy” of infinite spaces “between the books” [<xref ref-type="bibr" rid="rf7">7</xref>, p. 418] where the library can facilitate the creation of possible new knowledge through the labyrinth of connections among texts. Radford summarizes this as follows: “In Foucault’s conception of scientific knowledge, the library institutionalizes the arrangement of texts that provides the appropriate spaces in which new knowledge claims can be located and given meaning. Truth is discovered not only in the library through the location of a particular text, as implied by the positivist view of the library, but it is also made possible by their arrangements and within the `spaces' that these arrangements make possible” [<xref ref-type="bibr" rid="rf7">7</xref>, p. 418].</p>
+            <p>Radford assumes truth to exist uncritically as a part of Foucault’s work on deconstructing ideas of scientific knowledge and objectivity. As with Rubin and King, the problem of truth is not addressed specifically in relation to the practice of librarianship. Rather, it is discussed as part of a much larger critique of positivistic notions of the modern library experience.</p>
+            <p>Finally, there are two other authors, John M. Budd [<xref ref-type="bibr" rid="rf6">6</xref>] and Luciano Floridi [<xref ref-type="bibr" rid="rf35">35</xref>], who should be mentioned for their consideration of truth in library and information science. Budd presents perhaps the most comprehensive analysis to date exploring the intersection of philosophy and librarianship. He traces the development of relevant philosophical movements that have contributed to expanding our considerations of librarianship, and he rejects early attempts to link library and information science with positivism. Budd outlines new ways of thinking about the social and ethical actions (praxis) of librarianship by framing contemporary theoretical constructs in terms of hermeneutic phenomenology. Budd critically analyzes the works of Hans‐Georg Gadamer [<xref ref-type="bibr" rid="rf36">36</xref>], Paul Ricoeur [<xref ref-type="bibr" rid="rf37">37</xref>
+               <xref ref-type="bibr" rid="rf38"/>–<xref ref-type="bibr" rid="rf39">39</xref>], Martin Heidegger [<xref ref-type="bibr" rid="rf40">40</xref>], and others to argue that “the goal of seeking knowledge, achieved through hermeneutic phenomenology, points to one thing quite clearly—that the actions we engage in LIS, including facilitating information seeking, are inseparable from being, especially as conceived by Husserl and Heidegger” [<xref ref-type="bibr" rid="rf6">6</xref>, p. 291]. Although his work has been criticized for its uneven treatment of certain ideas and for his choice of philosophers to include or omit from the analysis [<xref ref-type="bibr" rid="rf41">41</xref>], the study provides a broad and comprehensive examination of the ways in which contemporary philosophical movements intersect the praxis of library and information science.</p>
+            <p>However, despite the comprehensiveness of Budd's analysis, the problem of truth receives adequate attention only as it relates to scientific realism and the positivist traditions of library science. Budd carefully analyzes the question of “What Is Real?” largely around issues of realism and relativism. Although the absolutist positions of scientific realism and socially constructed relativism are important in understanding the positivist traditions of library and information science, framing truth in this context limits one to conceptualizing only a correspondence theory of truth, the idea that truth exists in relation to a factual reality (see below). Because only the correspondence theory of truth can apply to the philosophy of realism, the problem of truth becomes unnecessarily bounded within only one conceptual category. In addition, the mention of truth in other areas of the book are only brought up as auxiliary to broader epistemological discussions, such as in discussions about the work of empiricist philosophers John Locke, George Berkeley, and David Hume.</p>
+            <p>The work of Luciano Floridi has also made a significant contribution to considering the philosophical underpinnings of library and information science [<xref ref-type="bibr" rid="rf42">42</xref>]. In his 1999 monograph,<italic>Philosophy and Computing: An Introduction</italic>[<xref ref-type="bibr" rid="rf35">35</xref>], and explored further in a series of subsequent essays [<xref ref-type="bibr" rid="rf43">43</xref>
+               <xref ref-type="bibr" rid="rf44"/>
+               <xref ref-type="bibr" rid="rf45"/>
+               <xref ref-type="bibr" rid="rf46"/>–<xref ref-type="bibr" rid="rf47">47</xref>], Floridi attempts to develop a coherent philosophy of information based on the development of emerging technologies and their impact on society. Floridi defines the philosophy of information as follows: “The philosophical field is concerned with the critical investigation of the conceptual nature and basic principles of information, including its dynamics, utilization, and sciences, and the elaboration and application of information‐theoretic and computational methodologies to philosophical problems” [<xref ref-type="bibr" rid="rf44">44</xref>, p. 123].</p>
+            <p>Floridi argues that philosophy of information is an autonomous field in philosophy because the contemporary idea of information has developed into a pivotal concept equal in status to such terms as<italic>being</italic>,<italic>meaning</italic>, and<italic>knowledge</italic>[<xref ref-type="bibr" rid="rf44">44</xref>]. He extends the understanding of the philosophy of information into the field of librarianship by suggesting that the academic discipline of library and information science is the applied form of the philosophy of information. In so doing, Floridi rejects earlier attempts by Jesse Shera to establish social epistemology as the foundational philosophy for library science. Instead Floridi describes social epistemology as possessing two researchable domains, the sociology of knowledge (empirical analysis of the historical causes and conditions of knowledge) and the epistemology of social knowledge (critical investigations of the social dimensions of knowledge).</p>
+            <p>Floridi states that the sociology of knowledge is inadequate for developing a comprehensive understanding of the relationships between knowledge and social activities because the nature of librarianship is normative and therefore “requires more than a purely descriptive approach” [<xref ref-type="bibr" rid="rf43">43</xref>, p. 39]. This contradicts views of other scholars in library science. R. L. Mittal [<xref ref-type="bibr" rid="rf48">48</xref>], for example, proposes that libraries should serve as a “fountain of truth” and be governed by their role in a democratic society to inform and educate the general populace. Mittal argues that, in order to accomplish this goal, libraries must act as autonomous agencies free from the “contagious effects” of social bias and political agendas. However, in Floridi’s view, the library is a place where the activities of practice, such as classifying materials or building collections, are not neutral or evaluation‐free but rather governed by ethical problem‐solving and decision‐making behaviors.</p>
+            <p>The epistemology of social knowledge is more closely aligned with the philosophical aspects of librarianship, but here, too, Floridi argues that it is inadequate as a foundational means of understanding the profession. This is because epistemology of social knowledge, in both its “classic” form and its later “revolutionary” form, is prescriptive in terms of what can be investigated and, therefore, what can be understood. As a result, Floridi notes, social epistemology and library and information science “do not make a happy marriage because LIS works at a more fundamental level than epistemology” [<xref ref-type="bibr" rid="rf43">43</xref>, p. 41]. Floridi concludes that social epistemology and library science instead form two branches of the philosophy of information.</p>
+            <p>Recently Floridi has attempted to expand his consideration of truth to explore meaningful conceptualizations of the idea of misinformation [<xref ref-type="bibr" rid="rf49">49</xref>]. He argues: “In the same way that the word truth is a synecdoche in theory of truth, the term information can be used as a synecdoche figure of speech representing broader concerns about both information and misinformation” [<xref ref-type="bibr" rid="rf49">49</xref>, p. 15]. As it now stands, Floridi’s consideration of truth embedded within current debates about the standard definition of declarative, objective, and semantic information and the idea of meaningful data awaits further exploration. This is particularly the case before an assessment can be made about whether theoretical problems of truth in library science and its position, according to Floridi, as the applied domain of the philosophy of information will receive more attention in the future.</p>
+            <p>It should be noted that the writings of Floridi have not gone unnoticed among scholars in library science. For example, an entire issue of the journal<italic>Library Trends</italic>(Winter 2004) was devoted to analyzing and critiquing Floridi’s work. Explanations of library science as the applied domain of the philosophy of information (as defined by Floridi) offer an intriguing approach to laying a new foundation for understanding the practice of what we do and why we do it. However, like Budd's exploration of library philosophy [<xref ref-type="bibr" rid="rf6">6</xref>], the problem of truth is not central to the analysis. In particular, there is no consideration of the act of truth‐seeking being challenged increasingly by the vagaries of the digital age. Rather than being positioned as one of the foundational issues for analysis, references to the problem of truth in Floridi’s published writings orbit around other topics, crossing into view only as truth relates to a concern he expresses that philosophy of information should not be bounded by a communication‐based concept of information that correlates to a correspondence theory of truth [<xref ref-type="bibr" rid="rf47">47</xref>] or that it is used as a synecdoche figure of speech to illuminate ideas of false information.</p>
+            <p>Sabina Cisek [<xref ref-type="bibr" rid="rf50">50</xref>] argues that, among the contextual frameworks uncovered as a result of examining philosophical concepts in library and information science, is “the question of theory building, truth and information, and the impact of the philosophy of language” [<xref ref-type="bibr" rid="rf50">50</xref>, p. 120]. However, a review of the literature reveals that, with the possible exception of Van der Veer Martens [<xref ref-type="bibr" rid="rf26">26</xref>] and perhaps in the future writings of Floridi [<xref ref-type="bibr" rid="rf49">49</xref>], the issue of “truth and information” is considered only as it relates to versions of the correspondence theory of truth or as a synecdoche to broader conceptualizations of information production and epistemology.</p>
+         </sec>
+         <sec id="sc3.2">
+            <title>Questions of Reality and Ultimate Reality in Librarianship</title>
+            <p>Symmetric, bilateral explorations of truth and reality can be found throughout the study of philosophy and are rooted in broader explorations of metaphysics [<xref ref-type="bibr" rid="rf51">51</xref>
+               <xref ref-type="bibr" rid="rf52"/>–<xref ref-type="bibr" rid="rf53">53</xref>]. As a result, library thinkers such as Budd [<xref ref-type="bibr" rid="rf6">6</xref>] have considered philosophy of librarianship in terms of the nature and meaning of reality (realism) and their relationship to practice. However, it is important to note that, although philosophers have spent considerable time exploring what may or may not constitute a reality, in particular as it relates to epistemology, semantics, and ontology, the concept itself has resisted a clear definition [<xref ref-type="bibr" rid="rf54">54</xref>].</p>
+            <p>In librarianship, the concept of reality and its meaning has been reviewed in detail by Joseph Z. Nitecki [<xref ref-type="bibr" rid="rf55">55</xref>]. Specifically, Nitecki describes three approaches to the philosophical interpretation of the nature of knowledge and the meaning of reality. These are an objective assessment of reality derived from the natural sciences; a subjective, psychosociological realism based on organic behavior and its consequences; and a logical, philosophical definition of reality based on a known and verifiable reality and lesser known expressions about that reality. Nitecki argues that the structures, functions, and forms of librarianship can be understood within these definitions. He goes on to further clarify the role of reality in librarianship by synthesizing three hypothetical viewpoints of how reality is communicated. The empirical viewpoint concerns a reality that encompasses objective, physical existence. The rational viewpoint considers subjective and intuitional perceptions of phenomena. The sociocultural viewpoint of reality is defined by Nitecki as a subjective philosophy of the individual governed by the society in which he or she lives. Although each of these sets of approaches and viewpoints provide a way of understanding the relationship between librarianship and reality, considerations of truth are generally absent. This is despite the fact that reality and the nature of truth are frequently considered in relation to each other in philosophical thought.</p>
+            <p>Other conceptualizations of reality in librarianship are generally implied in discussions about objective and subjective theories of information [<xref ref-type="bibr" rid="rf56">56</xref>], linguistic and semantic inquiries into abstract and concrete forms of knowledge expression rooted in Plato’s inquiries into the differences between form and expressions of form [<xref ref-type="bibr" rid="rf57">57</xref>], and, more recently, in Birger Hjorland’s “attempt to reintroduce a realist perspective in library and information science” [<xref ref-type="bibr" rid="rf58">58</xref>, p. 488]. In each case, truth is subjugated within larger discussions about objective knowledge, realism, and ultimate reason. For example, Bertram C. Brookes attempts to bring clarity to “the scattered bits of theory” in information science [<xref ref-type="bibr" rid="rf56">56</xref>, p. 125] by grounding the discipline within the conceptual framework of Popper’s World III model, which Popper defines as the world of objective knowledge. As a consequence, the philosophical problem of truth does not enter into the discussion.</p>
+            <p>H. Curtis Wright argues that human consciousness possesses two basic informational systems: (1) a sensory system that perceives the physical world and (2) a noetic system that is capable of independent reflection about the world. Wright, drawing on Plato’s distinctions between thought and expressions of thought, which generally impacts the humanities and how language is applied to defining the world, argues that librarianship should reject the scientific conceptualization of information and instead locate ideas of information within the noetic system of subjective knowing. However, Wright’s argument that “the human mind is thus a thoroughgoing informational dualism” [<xref ref-type="bibr" rid="rf57">57</xref>, p. 303] between senses and reason unnecessarily limits considerations of truth as either experiential, artistic (concrete), or rooted in objective reality (abstract).</p>
+            <p>Hjorland argues that library and information science should reject antirealism and embrace a realist philosophy. The issue of whether science offers a realistic view of the world is explored in some detail. However, in this case, philosophical ideas of truth emerge primarily in reference to the convergence thesis of truth. That is, “as science develops, its theories get progressively closer to the truth” [<xref ref-type="bibr" rid="rf58">58</xref>, p. 503]. As with Wright and Brookes, Hjorland only considers concepts of truth as a peripheral component of broader discussions about reality in library and information science.</p>
+            <p>Closely related to the concept of reality is ultimate reality. Ultimate reality concerns attainment of a totally objective worldview independent of any beliefs, perceptions, and cultural artifacts [<xref ref-type="bibr" rid="rf59">59</xref>]. It is often affiliated with conceptualizations of religious experience and spiritual fulfillment [<xref ref-type="bibr" rid="rf60">60</xref>]. Here again Nitecki [<xref ref-type="bibr" rid="rf55">55</xref>] provides an introduction to the concept in his comprehensive survey of philosophy in librarianship. He places the idea of ultimate reality within a historical framework outlining the evolution of philosophical interpretations of reality. In this framework, ultimate reality is implied to encompass all of human experience; philosophical problems arise when attempting to decipher the differences among what may actually exist, what exists subjectively, and what gives the appearance of existing.</p>
+            <p>Library thinkers generally connect ultimate reality to the analytical context of total objectiveness in applied practice. The concept is always mentioned in relation to, or as part of, a larger discussion of reality [<xref ref-type="bibr" rid="rf56">56</xref>,<xref ref-type="bibr" rid="rf61">61</xref>,<xref ref-type="bibr" rid="rf62">62</xref>]. However, because the concept garners only occasional mention in the literature and is rarely the focus of any deeper independent analysis, ideas of ultimate reality do not contribute meaningfully to understanding the problem of truth in librarianship, and indeed, as we shall see, they often hinder it.</p>
+            <p>Direct and indirect explorations of the philosophical problem of reality and ultimate reality by Nitecki and others help to broaden epistemic insights into knowledge and explanation and understanding in librarianship. However, these discussions fail to illuminate deeper, more precise questions about the philosophical problem of truth in librarianship. Although truth and reality are often commingled in philosophical thought, this predilection is rarely present in the writings of most library thinkers.</p>
+            <p>In the next section of this article, the question of what truth is and how it relates to librarianship will be analyzed within the framework of why this particular problem is of critical importance to the profession. We begin our investigation by examining briefly the three classic theories of truth that have been postulated in the history of philosophy. With each theory, what is and is not of value to librarianship is examined. After this examination, the article will present another theory of truth that we argue should be the cornerstone to a philosophical foundation to librarianship in regard to this issue.</p>
+         </sec>
+      </sec>
+      <sec id="sc4">
+         <title>The Philosophical Problem of Truth in Librarianship</title>
+         <p>The oldest theory of truth in the history of philosophy is the correspondence theory. A version of this theory has been formulated in both Plato’s<italic>Cratylus</italic>[<xref ref-type="bibr" rid="rf63">63</xref>, pp. 422–30] and in Aristotle’s<italic>Metaphysics iv</italic>[<xref ref-type="bibr" rid="rf64">64</xref>, pp. 749–50]. The correspondence theory asserts that a proposition is true if and only if it corresponds to a state of affairs and that state of affairs obtains. When philosophers speak of propositions, they are referring to the meaning of any particular sentence, regardless of what language that sentence is in. For example, the English sentence “Snow is white” and the German sentence “Schnee ist Weiss” both refer to the proposition that the color of snow is white. A state of affairs refers simply to the expression of a fact that ontologically obtains. Bertrand Russell used the term<italic>belief</italic>instead of<italic>proposition</italic>and analyzed<italic>state of affairs</italic>as a relationship [<xref ref-type="bibr" rid="rf65">65</xref>, pp. 119–30]. According to Russell, a belief is true if and only if it is a belief that an object<italic>x</italic>bears relation R to another object<italic>y</italic>and<italic>x</italic>does bear relation R to<italic>y</italic>. Hence, using our example about snow (<italic>x</italic>) and white (<italic>y</italic>), the relation R in this case claims the fact that whiteness is a quality of snow.</p>
+         <p>What value does the correspondence theory of truth have for librarianship? There is no question that this theory is accepted by most people, be they scientists, social workers, or factory workers. Although the correspondence theory is essentially the common‐sense view of truth, there are three major problems that are of concern to librarianship. The first problem arises with regard to the notion of states of affairs. Since this notion pertains to the ontological verifiability in the actual world, what then of fictions? Consider the following sentence: “Hamlet was poisoned by Claudius.” This statement is true given that we have Shakespeare’s play describing such an event, but this is not a real state of affairs. It did not happen in history and cannot be verified in any historical chronicle. One way a correspondence theorist can eliminate this problem about fictions is through the notion of possible worlds. Within this framework, every literary work constitutes a determined possible world where both true and false statements can be made. This is metaphysically cumbersome. It would also cause a further problem. One would have no justification for making statements comparing two or more works of fiction. The practice of literary criticism would become very restrictive.</p>
+         <p>The second problem concerns something that the postmodernists have tried to show about the correspondence theory. The epistemological justification for this theory’s foundation rests upon the notion of the possibility of universal truth. This implies that all veridical propositions can be verified and accepted by everyone regardless of language or culture. What the postmodernists have protested is simply that this supposed universalism is strictly a European view of the objectivity of truth, given that this view has yield power over intellectual discourse, and thus is not necessarily shared or even comprehended by other cultural traditions [<xref ref-type="bibr" rid="rf66">66</xref>, pp. 80–96].</p>
+         <p>Although this second problem to the correspondence theory of truth addressed by the postmodernists is an interesting philosophical debate, it raises an extremely important issue for librarianship. Our mission is to acquire, access, and disseminate all information regardless of that information’s objective truth. There have been many cases in history where educated individuals, such as Bishop Diego de Landa and the Mayan codices, used their supposed objectivity of truth to eliminate or eradicate anything that did not fall into their intellectual or cultural perspectives. Librarianship has an ethical obligation to challenge attempts to destroy or censor information, regardless of the truth value of that information. Such information may be considered offensive, but the profession demands its preservation and dissemination.</p>
+         <p>The second theory of truth is the coherence theory. This theory of truth has often been espoused by idealists who are not necessarily concerned with the external world. The coherence theory states that some proposition is true if and only if it does not contradict or is not contrary to any propositions already held to be true. The best way for librarians to analyze this theory of truth is to consider the sum of knowledge that is already before the public. We can interpret this sum of knowledge as consisting of all the books, journals, and other materials, regardless of format, that constitute a well‐regulated academic library. Suppose that a new monograph is acquired that totally contradicts many of the propositions of science and common reasoning already established to be true. In times past, such books would likely have been censored, if not destroyed. The act of censorship could be perpetrated by political or religious establishments, or even from professional and academic organizations. There have been many instances in history where this has happened—just consider Galileo’s<italic>Dialogues Concerning the Two New Sciences</italic>or Freud’s papers pertaining to infantile sexuality.</p>
+         <p>Librarians must be aware of the fact that many such books and articles have caused revolutions in the sciences and the arts. Without these revolutions the growth of knowledge would be impossible [<xref ref-type="bibr" rid="rf67">67</xref>, pp. 1–9]. When we look at the coherence theory of truth, most people who are not concerned with logic or mathematics still employ this theory in their daily lives. A new book that contradicts established beliefs often leads to increased public interest. Even when a controversial idea is part of the plot of a work of fiction, many people will visit the library to ask where these contradictory ideas are coming from. An example of this phenomenon is the recent popularity of, and discussions concerning,<italic>The Da Vinci Code</italic>by Dan Brown [<xref ref-type="bibr" rid="rf68">68</xref>].</p>
+         <p>The total collection of books housed in an academic or public library can be understood as various volumes within sets, each representing different coherent theories of truth. When we investigate each set, a different worldview may be revealed to us. These different worldviews constitute different stages in the growth of knowledge. For example, the set of books that has Ptolemy’s<italic>The Almagest</italic>would also contain Dante’s<italic>Divine Comedy</italic>and many other scientific, philosophical, and literary works based within a geocentric worldview. Likewise, the set of books that contain Copernicus’s<italic>On the Revolutions of the Heavenly Spheres</italic>would also contain Galileo’s scientific works and many philosophical and literary works that acknowledge the implications of a heliocentric worldview. This perspective about different historically based worldviews is a very useful tool for librarians helping patrons who may be seeking a better understanding of specific books. Librarians equally must realize that it is not only scientific works that establish different worldviews. Indeed, works like Diderot’s monumental undertaking and publication of the<italic>Encyclopedie</italic>would constitute the eighteenth century worldview of the Enlightenment—the writings of not only Voltaire and Rousseau would be part but also the writings of Jefferson, Adams, and Madison. Considered from this worldview perspective, the coherence theory of truth can be very useful for librarians in both collection development and reference services.</p>
+         <p>The third theory of truth is the pragmatic theory. This is America’s philosophical contribution to the question of truth. There are two variations to the pragmatic theory of truth. The first variation comes from Charles S. Peirce [<xref ref-type="bibr" rid="rf69">69</xref>]. According to Peirce, truth is arrived at by abduction, that is, inference to the best possible explanation. Abduction is one of the three basic forms of inference, along with deduction and induction, by which hypotheses concerning reality are generated, that is, move from a particular case to a possible explanation of the case [<xref ref-type="bibr" rid="rf69">69</xref>, vol. 7, p. 319]. Truth as consensus is the consequence of what Peirce called the “social theory of reality” [<xref ref-type="bibr" rid="rf69">69</xref>, vol. 6, p. 610]. According to Peirce, this means that reality is the construct of all propositions arrived at by abduction. It is important to note, however, that Peirce did not think that propositions are true because they are arrived at by abduction; rather he thought that they are true because they will be universally accepted. Peirce realized that a proposition originally accepted to be true could very well upon further investigation prove to be false. The social theory of reality is in constant revision. Indeed, the growth of knowledge demands this continual revision of universally accepted propositions.</p>
+         <p>Before turning to the second version of the pragmatic theory of truth, it is important to highlight Peirce’s notion of truth as consensus, as is noted by Van der Veer Martens [<xref ref-type="bibr" rid="rf26">26</xref>]. It is with this theory that all notions of absolutism in propositional truth vanish. Propositions are true because the majority of people within a given society accept them to be true. The collection of all such propositions constitutes the social theory of reality [<xref ref-type="bibr" rid="rf69">69</xref>, vol. 8, p. 12]. Many librarians reading this will undoubtedly think about the various monographs and articles on social epistemology they read in library science school. Peirce was the grandfather of social epistemology. For Peirce, as in contemporary writing on social epistemology, any version of ontological absolutism must be dispensed with. Knowledge about humanity and the world are in continual revision. Indeed, as stated above, the very growth of knowledge demands this revision. It is at this point concerning the growth of knowledge that the second version of the pragmatic theory of truth emerges.</p>
+         <p>Peirce claimed that truth is “the opinion which is fated to be ultimately agreed to by all who investigate” [<xref ref-type="bibr" rid="rf69">69</xref>, vol. 8, p. 12]. William James, however, would insist that such veridical opinion is governed by emotional, as well as intellectual, factors. One of the most important of these factors is workability. The simple formula “truth is what works” is an oversimplification of James’s view, but the idea of workability is ultimately important [<xref ref-type="bibr" rid="rf70">70</xref>, pp. 81–94]. Veridical opinions, according to James, deal in part with humanity’s very survival as a species. Truth and falsehood apply to our ideas about the world. True ideas or propositions about the world and human nature are those that work to satisfy both the intellect and the emotions and ultimately achieve various kinds of success. This success for James can be sharper predictability in practical matters, a more encompassing view of reality that eliminates fear and superstition, and workable invention that sustains and helps human existence [<xref ref-type="bibr" rid="rf70">70</xref>, p. 95–113].</p>
+         <p>It is important to note that James showed himself to be very concerned about the human condition in many of his writings. In addition to being a philosopher, he was one of the early pioneers of psychology. His theory of truth can be considered a humanistic theory because its primary concern is not on knowledge per se but rather on human survival and the betterment of the physical and spiritual condition of individuals [<xref ref-type="bibr" rid="rf70">70</xref>, pp. 131–44]. Although James would agree with Peirce that knowledge is in constant revision, he would nevertheless argue that the goal of human knowledge is not simply theoretical but of grave existential concern.</p>
+         <p>Within the practice of librarianship, it must always be remembered that pragmatism is the philosophical foundation of not only our profession but of all the social science that has emerged since the end of the nineteenth century. The very notions that the growth of knowledge is for the betterment of humanity and that the dimension of knowledge changes as the needs and wants of society change form the very underpinnings of American culture. Along with these, there is a third conceptualization of truth, namely, that no form of absolutism with regard to truth, theory, convention, or culture shall prevail over the growth of knowledge. Any such absolutist prevalence would halt the growth of knowledge.</p>
+         <p>Why are these theories of truth important for librarianship? The above theories of truth demonstrate how knowledge in any given field of investigation is first acquired and then disseminated. Every librarian knows that the evolution of knowledge is built upon such acquisition and dissemination. Every item in the library is a work in which one of the above theories of truth is assumed. The physical and biological sciences usually operate with a correspondence theory of truth. The coherence theory of truth is the hallmark for mathematics and logic. Even fiction assumes a theory of truth when it uses imaginary characters and, more broadly, imaginary worlds, to make mirrored veridical statements about humanity and the human condition. As we have stated above, most of the work and research in the social sciences assumes the pragmatic theory of truth, together with its objective to improve the physical or spiritual condition of individuals. However, there is another reason why librarianship must be concerned with the concept of truth, and it rests within the very mission of librarianship. The hallmark of this mission has to do with the preservation of the historical record. This endeavor seemingly transcends any theory of truth. The preservation of the historical record simply relies on collecting and making accessible whatever documents the library collects. But it is from these notions of collecting and accessibility that another critical perspective about truth emerges.</p>
+         <p>If one considers all the books that line the shelves of any given library as a collection, including the acquisition of materials for that collection, its accessibility, and its dissemination, a unique concern about truth is revealed. Consider any given library as a record of humanity’s accomplishments and failures. Both the beauty and the ugliness of humanity’s history must be represented in this collection. Sadly, however, this balanced perspective about humanity’s accomplishments and failures is often compromised by a number of factors. One such factor, often affecting public libraries, is the decision to avoid community outcry concerning controversial material. Such material could be different lifestyle perspectives, negative views of various stages of American or world history, art or literature that is deemed morally offensive, and hate literature. Regardless of the truth value of the propositions and perspectives contained in such controversial literature, the truth value must be suspended so that a complete picture of recorded history is not compromised. If the historical record is compromised, any and all theories of truth would be compromised. To what end would an individual or some group in society want this? Just as it is often said that knowledge is power, the compromising of knowledge puts that power in the hands of the compromiser.</p>
+         <p>This unique notion of truth for librarianship that we are proposing is derived from what has been called historicism. Historicism is not really a theory of truth as much as it is a theory of knowledge in which the question of objective truth is eliminated. This elimination of objective truth implicit in historicism has been attacked from many quarters. The origin of this theory is J. G. Herder’s<italic>Reflections on the Philosophy of the History of Man</italic>[<xref ref-type="bibr" rid="rf71">71</xref>]. With regard to the question of truth, historicism interprets both human consciousness and the propositions expressing the nature of humans themselves and all of reality as historically conditioned, even current knowledge [<xref ref-type="bibr" rid="rf71">71</xref>, pp. 96–104]. Herder looked at the supposed teleological progression of reason and found it often wanting. Nevertheless, he believed that reason and goodness would eventually triumph over irrationalism and human folly [<xref ref-type="bibr" rid="rf71">71</xref>, pp. 115–18]. Consider the following example that illustrates the difference between historicism and the three theories of truth discussed above. For the historicist, the proposition that the world is the center of the universe was true for the medieval mind. For the correspondence theorist, that proposition is simply false, although the additional fact that the medieval mind accepted this proposition to be true would be conceded. The coherence theorist would say that, although the medieval mind accepted the Aristotelian‐Ptolemaic view of the universe, which in itself is a coherent system of propositions, this coherent system would eventually be supplanted by Copernicus’s view. This revolutionary change in knowledge is often expressed as a paradigm by Thomas Kuhn and other philosophers of science. The historicist would point out that such paradigms of knowledge usually have a localized point of origin and gradually expand to the other areas of scholarship, finally entering the public consciousness, where they are accepted or rejected [<xref ref-type="bibr" rid="rf67">67</xref>, pp. 160–73]. The historicist acknowledges that acceptance or rejection of a proposition or set of propositions comes about in various ways and through various perspectives. The historicist would equally affirm William James’s notion that the acceptance or rejection of any theory weighs heavily on emotional as well as intellectual consideration for its veracity. Consider, for example, how both emotion and reason argued for or against Darwin’s theory of evolution or Freud’s concept of the unconsciousness. The historicist is not concerned with the objective truth of either theory but rather with the ways in which they became part of what Peirce would later describe as the social theory of reality. However, historicism is not a form of pragmatism. The social theory of reality has no veridical objectivity independent of the historical era and cultural milieu.</p>
+         <p>How could a historicist point of view be used as a foundation for the question of truth in librarianship? The answer is that the suspension of truth is necessary for the growth of knowledge. Without this suspension of truth in librarianship, the accumulation of past and present knowledge could be compromised. This compromise can take various forms, such as eliminating whole collections or suppressing information that does not share the present majority view, be that view scientific, religious, or political. Although historicism negates the Enlightenment notion that there is a progression to humanity’s understanding of itself and the world, a librarian can personally affirm this teleological view concerning the growth of knowledge and still employ historicism’s suspension of truth.</p>
+         <p>The suspension of truth becomes a methodology for the practice of librarianship, not only in collection development, preservation, and provision of access to information but also in reference services. With the historicist perspective that propositions are affirmed or denied within a spatial‐temporal continuum, librarians working in reference and information services can better understand what underlies knowledge and how that knowledge is transmitted. For example, a patron has just read Dan Brown’s<italic>The Da Vinci Code</italic>[<xref ref-type="bibr" rid="rf68">68</xref>] and expresses an interest in understanding where the ideas about Jesus and Mary Magdalene as presented in this work of fiction originated. Besides showing the patron<italic>Holy Blood, Holy Grail</italic>by Michael Baigent and Henry Lincoln [<xref ref-type="bibr" rid="rf72">72</xref>], the reference librarian can direct the patron to information about the Gnostic tradition in early Christianity through primary and selected scholarly secondary sources. The patron would then learn from these other materials how Gnosticism originated and how it reemerged in various periods of history as heresies opposing the beliefs of traditional Christianity. Using the historicist perspective, reference and information services can better understand the ideas and concepts that underlie knowledge and how that knowledge is transmitted.</p>
+         <p>For the historicist, the transmission of concepts does not occur in a vacuum. They occur within a particular society and a particular era in history. Indeed, the very transmission for these ideas is dependent upon the technology of the era. Before writing, oral tradition preserved the history and culture of various societies. With writing came the first material preservation of language. The invention of the printing press not only led to the rapid transmission of concepts and ideas but also helped expand the local scope of that transmission with the establishment of publishing houses throughout the modern world. The internet and other digital information technologies have led to exponential growth in the dissemination and expansion of ideas and general information.</p>
+         <p>This concept of the spatial‐temporal continuum that is so intrinsic to the historicist theory of truth requires further clarification. Consider the following four propositions:<list>
+               <list-item>
+                  <label>1.</label>
+                  <p>Dr. Faust is condemned to hell for selling his soul to the devil.</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>Dr. Faust is saved because of his sympathy for his subjects (even though he had sold his soul to the devil).</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>Dr. Faust was condemned by Martin Luther and Philippe Melanchthon.</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>Dr. Faust and Don Juan are two archetypes that exemplify the aesthetic level of human existence.</p>
+               </list-item>
+            </list>
+         </p>
+         <p>The truth values of these propositions are ambiguous. Propositions 1 and 2 contradict each other. Proposition 3 is true or false, depending upon whether or not there was a Faust and whether or not the historical record shows his condemnation in the writings of Luther and Melanchthon. Proposition 4 would be totally opaque to the average reader if that person had not read a certain philosopher who wrote an entire book on this subject.</p>
+         <p>Let us now examine these four propositions using the spatial‐temporal continuum of historicism:<list>
+               <list-item>
+                  <label>1.</label>
+                  <p>In Christopher Marlowe’s play<italic>The Tragicall History of D. Faustus</italic>of 1604, Dr. Faust is condemned to hell for selling his soul to the devil.</p>
+               </list-item>
+               <list-item>
+                  <label>2.</label>
+                  <p>In the second part of Johann Wolfgang von Goethe’s play<italic>Faust</italic>of 1832, Dr. Faust is saved because of his sympathy for his subjects (even though, in part 1 of this play, he sold his soul to the devil).</p>
+               </list-item>
+               <list-item>
+                  <label>3.</label>
+                  <p>According to the<italic>Encyclopedia Britannica</italic>(online edition), there was a historical Faust (perhaps two) who was a sorcerer, alchemist, and sodomite. Contemporary references indicate a widely traveled and fairly well‐known scholar having an evil reputation. The article continues: “Contemporary humanist scholars scoffed at his magical feats as petty and fraudulent, but he was taken seriously by the Lutheran clergy, among them Martin Luther and Philippe Melanchthon” [<xref ref-type="bibr" rid="rf73">73</xref>, online].</p>
+               </list-item>
+               <list-item>
+                  <label>4.</label>
+                  <p>In Soren Kierkegaard’s<italic>Either/Or</italic>, Faust and Don Juan are two archetypes within the aesthetic level of human existence. This level of existence, according to Kierkegaard, is exemplified by passions that drive an individual’s actions, be those passions intellectual, as in the case of Faust, or sensual, as in the case of Don Juan.</p>
+               </list-item>
+            </list>
+         </p>
+         <p>From the standpoint of the historicist theory of truth, it is interesting to note that someone who was an obscure occultist in the sixteenth century and who was laughed at by the humanists and condemned by the clergy became a legend in later centuries, inspiring not only great literature but also becoming a psychological archetype in the nineteenth century for the philosophical explication of the various stages of human existence. Had the historical records of the humanists and the clergy been destroyed, this particular continuum of knowledge would have ceased to exist.</p>
+         <p>It is important to clarify at this point that the historicism we espouse is strictly a methodology to preserve the historical record. As stated above, the historicism we are advocating is founded upon the works of Johann Gottfried von Herder. We see in his reflections on mankind’s intellectual development a way to avoid the question of objective truth in librarianship for the sake of historical comprehension. It is very similar to Descartes suspending the truth value of the propositions of his beliefs in order to arrive at epistemological certainty. Our suspension of truth value does not arrive at epistemological certainty about the propositions contained in the many volumes housed in a library but rather at certainty that the historical record has not been compromised by the elimination of any these volumes. In other words, librarians must suspend the truth value of singular items and artifacts in the historical record in order that the whole truth of any given period of history be accurately analyzed and understood. As Herder states: “If history in its simplest sense were nothing but a description of an occurrence, of a production, then the first requirement is that the description be<italic>whole</italic>, exhaust the subject, show it to use from all sides” [<xref ref-type="bibr" rid="rf74">74</xref>].</p>
+         <p>In the early twentieth century, the simple thesis of Herder’s historicism was supplanted by a significantly different undertaking. This new historicism held the thesis that the proper study of history demonstrates predictable laws that are universal in nature, thus similar to the empirical sciences. It is this later version of historicism that Karl Popper attacks in<italic>The Poverty of Historicism</italic>. Popper clearly states: “I mean by `historicism’ an approach to the social sciences which assumes that historical prediction is their principal aim, and which assumes that this aim is attainable by discovering the `rhythms’ or the `patterns,’ the `laws’ or the `trends’ that underlie the evolution of history” [<xref ref-type="bibr" rid="rf75">75</xref>p. 3]. This version of historicism was asserted by many European philosophers and social scientists influenced by Hegel’s dialectical theory of history. Various scholars like Karl Mannheim, Friedrich Meinecke, Ernst Troeltsch, Benedetto Croce, and Arnold Toynbee, among many others, used this version of historicism for generating universal laws that applied to sociology, psychology, political theory, economics, and religion.</p>
+         <p>Popper would have none of it for two reasons. Being a philosopher of science, Popper believed that history is “characterized by its interest in actual, singular, or specific events, rather than in laws or generalizations” [<xref ref-type="bibr" rid="rf75">75</xref>p. 143]. For Popper, history becomes an empirical science, like other disciplines within the social sciences, because of its interest in particular acts and events. This view of history goes back to Thucydides. There is a second reason, however, for Popper’s disdain for this version of historicism. Anyone who has read his earlier<italic>The Open Society and Its Enemies</italic>knows that Popper sees in Plato’s essentialist analysis of the state and in Hegel’s dialectical theory of history the two foundations of twentieth‐century totalitarianism [<xref ref-type="bibr" rid="rf76">76, vol. 1, p. 24; vol. 2, p. 193.</xref>]. Totalitarianism is the opposite of what Herder intended in his philosophical reflections on the history of mankind. Only in a free and open society could Herder’s historicism become possible for scholars to use.</p>
+      </sec>
+      <sec id="sc5">
+         <title>Conclusion</title>
+         <p>Although attention given to exploring the philosophical underpinnings of library and information science has grown in recent years, there has been little consideration of the philosophical problem of truth in librarianship. This is despite the possibility that considering the concept of truth may inform critical thinking about epistemological connections within library science and bring clarity and definition to the practical and theoretical uses of new terms, concepts, and ideas emerging in our profession as it is transformed by technology and other external social, political, and economic processes.</p>
+         <p>In this article, we have argued that the application of library practice requires a suspension of truth. We support this by introducing a new theory of truth that is rooted in historicism. One of the overarching missions of library practice is to acquire, manage, preserve, and make accessible human knowledge. While there are pragmatic and sociopolitical considerations that often constrict fulfillment of this mission, the public purpose of librarianship in a free and open society nonetheless dictates that materials be made accessible regardless of what the society at the current time or the majority of people within a culturally defined place consider as true.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list content-type="unparsed">
+         <title>References</title>
+         <ref id="rf1">
+            <label>1.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Danton, J. Periam. “Plea for a Philosophy of Librarianship.”<italic>Library Quarterly</italic>4, no. 4 (October 1934): 527–51.</mixed-citation>
+         </ref>
+         <ref id="rf2">
+            <label>2.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Nitecki, Joseph Z. “Conceptual Aspects of Bibliothecal Communication: Philosophical Legacy of the Twentieth Century American Librarianship.”<italic>Public Library Quarterly</italic>17, no. 1 (1998): 27–36.</mixed-citation>
+         </ref>
+         <ref id="rf3">
+            <label>3.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Gorman, Michael.<italic>Our Enduring Values: Librarianship in the 21st Century</italic>. Chicago: American Library Association, 2000.</mixed-citation>
+         </ref>
+         <ref id="rf4">
+            <label>4.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">American Library Association.<italic>Code of Ethics of the American Library Association</italic>.<ext-link ext-link-type="uri"
+                         xlink:href="http://www.ala.org/ala/oif/statementspols/codeofethics/codeethics.htm"
+                         xlink:type="simple">http://www.ala.org/ala/oif/statementspols/codeofethics/codeethics.htm</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf5">
+            <label>5.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Benoit, Gerald. “Toward a Critical Theoretical Perspective in Information Systems.”<italic>Library Quarterly</italic>72, no. 4 (October 2002): 441–71.</mixed-citation>
+         </ref>
+         <ref id="rf6">
+            <label>6.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Budd, John M.<italic>Knowledge and Knowing in Library and Information Science: A Philosophical Framework</italic>. Lanham, MD: Scarecrow, 2001.</mixed-citation>
+         </ref>
+         <ref id="rf7">
+            <label>7.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Radford, Gary P. “Positivism, Foucault, and the Fantasia of the Library: Conceptions of Knowledge and the Modern Library Experience.”<italic>Library Quarterly</italic>62, no. 4 (October 1992): 408–24.</mixed-citation>
+         </ref>
+         <ref id="rf8">
+            <label>8.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Dick, Archie L. “Library and Information Science as a Social Science: Neutral and Normative Conceptions.”<italic>Library Quarterly</italic>65, no. 2 (April 1995): 216–35.</mixed-citation>
+         </ref>
+         <ref id="rf9">
+            <label>9.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Bishop, Ann Peterson; Van House, Nancy A.; and Buttenfield, Barbara P., eds.<italic>Digital Library Use: Social Practice in Design and Evaluation</italic>. Cambridge, MA: MIT Press, 2003.</mixed-citation>
+         </ref>
+         <ref id="rf10">
+            <label>10.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Zwadlo, Jim. “We Don’t Need a Philosophy of Library and Information Science—We’re Confused Enough Already.”<italic>Library Quarterly</italic>67, no. 2 (April 1997): 103–21.</mixed-citation>
+         </ref>
+         <ref id="rf11">
+            <label>11.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">King, David N., and Rubin, Richard E. “A Philosophy of Service.” In<italic>Reference and Information Services: An Introduction</italic>, edited by Richard E. Bopp and Linda C. Smith, pp. 248–59. 2nd ed. Englewood, CO: Libraries Unlimited, 1995.</mixed-citation>
+         </ref>
+         <ref id="rf12">
+            <label>12.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Staley, David J. “The Future of the Book in a Digital Age.”<italic>Futurist</italic>37, no. 5 (September/October 2003): 18–23.</mixed-citation>
+         </ref>
+         <ref id="rf13">
+            <label>13.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Brown, John Seely, and Duguid, Paul.<italic>The Social Life of Information</italic>. Boston: Harvard Business School Press, 2000.</mixed-citation>
+         </ref>
+         <ref id="rf14">
+            <label>14.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Gorman, Michael.<italic>The Enduring Library: Technology, Tradition, and the Quest for Balance</italic>. Chicago: American Library Association, 2003.</mixed-citation>
+         </ref>
+         <ref id="rf15">
+            <label>15.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Lynch, Clifford; Murray, Janet H.; Springsteen, Alana; Karis, Carolyn; Callison, David; Goodman, Jon; and Donzelli, Doug. “The Future of Libraries: Six Perspectives on How Libraries, Librarians, and Library Patrons Will Adapt to Changing Times.”<italic>Threshold: Exploring the Future of Education</italic>(Winter 2004): 13–17.<ext-link ext-link-type="uri"
+                         xlink:href="http://www.ciconline.org/thresholdwinter04"
+                         xlink:type="simple">http://www.ciconline.org/thresholdwinter04</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf16">
+            <label>16.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Schön, Donald.<italic>The Reflective Practitioner: How Professionals Think in Action</italic>. New York: Basic, 1983.</mixed-citation>
+         </ref>
+         <ref id="rf17">
+            <label>17.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Van Manen, Max. “Linking Ways of Knowing with Ways of Being Practical.”<italic>Curriculum Inquiry</italic>6, no. 3 (1977): 205–28.</mixed-citation>
+         </ref>
+         <ref id="rf18">
+            <label>18.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Higgins, Chris. “From Reflective Practice to Practical Wisdom: Three Models of Liberal Teacher Education.” In<italic>Philosophy of Education Yearbook: Proceedings of the Annual Meeting of the Philosophy of Education Society, 2001</italic>, edited by Suzanne Rice, pp. 92–99. Urbana, IL: Philosophy of Education Society, 2001.</mixed-citation>
+         </ref>
+         <ref id="rf19">
+            <label>19.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Lynch, Thomas D., and Dicker, Todd J., eds.<italic>Handbook of Organizational Theory and Management: The Philosophical Approach</italic>. New York: Dekker, 1998.</mixed-citation>
+         </ref>
+         <ref id="rf20">
+            <label>20.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Sheffield, Eric. “Beyond Abstraction: Philosophy as a Practical Qualitative Research Method.”<italic>Qualitative Report</italic>9, no. 4 (December 2004): 760–69.</mixed-citation>
+         </ref>
+         <ref id="rf21">
+            <label>21.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Dewey, John.<italic>The Public and Its Problems: An Essay in Political Injury</italic>. Chicago: Swallow, 1954.</mixed-citation>
+         </ref>
+         <ref id="rf22">
+            <label>22.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">James, William.<italic>Pragmatism: A New Name for Some Old Ways of Thinking</italic>. New York: Longmans, Green, 1907.</mixed-citation>
+         </ref>
+         <ref id="rf23">
+            <label>23.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Peirce, Charles S.<italic>Essays in the Philosophy of Science</italic>. New York: Liberal Arts, 1957.</mixed-citation>
+         </ref>
+         <ref id="rf24">
+            <label>24.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Dummett, Michael A. E.<italic>The Logical Basis of Metaphysics</italic>. Cambridge, MA: Harvard University Press, 1991.</mixed-citation>
+         </ref>
+         <ref id="rf25">
+            <label>25.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Wittgenstein, Ludwig.<italic>Philosophical Investigations</italic>. Translated by G. E. Anscombe. Oxford: Blackwell, 1953.</mixed-citation>
+         </ref>
+         <ref id="rf26">
+            <label>26.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Van der Veer Martens, Betsy. “Do Citation Systems Represent Theories of Truth?”<italic>Information Research</italic>6, no. 2 (January 2001).<ext-link ext-link-type="uri"
+                         xlink:href="http://www.informationr.net/ir/6-2/paper92.html"
+                         xlink:type="simple">http://www.informationr.net/ir/6‐2/paper92.html</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf27">
+            <label>27.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Rogers, A. K. “The Nature of Certainty.”<italic>Philosophical Review</italic>26, no. 6 (November 1917): 585–601.</mixed-citation>
+         </ref>
+         <ref id="rf28">
+            <label>28.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Svenonius, Elaine.<italic>The Intellectual Foundation of Information Organization</italic>. Cambridge, MA: MIT Press, 2000.</mixed-citation>
+         </ref>
+         <ref id="rf29">
+            <label>29.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Wiegand, Wayne A. “`The Amherst Method’: The Origins of the Dewey Decimal Classification Scheme.”<italic>Libraries &amp; Culture</italic>33, no. 2 (Spring 1998): 175–94.</mixed-citation>
+         </ref>
+         <ref id="rf30">
+            <label>30.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Anderson, Jack, and Skouvig, Laura. “Knowledge Organization: A Sociohistorical Analysis and Critique.”<italic>Library Quarterly</italic>76, no. 3 (July 2006): 300–322.</mixed-citation>
+         </ref>
+         <ref id="rf31">
+            <label>31.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Zins, Chaim. “Knowledge Organization: An Epistemological Perspective.”<italic>Knowledge Organization</italic>31, no. 1 (2004): 49–63.</mixed-citation>
+         </ref>
+         <ref id="rf32">
+            <label>32.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Kwasnik, Barbara H. “The Role of Classification Structures in Reflecting and Building Theory.” In<italic>Advances in Classification Research: Proceedings of the 3rd ASIS SIG/CR Classification Research Workshop</italic>, edited by Raya Fidel, Barbara H. Kwasnik, and Philip J. Smith, pp. 63–81. Vol. 3. Medford, NJ: Learned Information, 1993.</mixed-citation>
+         </ref>
+         <ref id="rf33">
+            <label>33.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Swan, John. “Untruth or Consequences.”<italic>Library Journal</italic>111 (July 1986): 44–52.</mixed-citation>
+         </ref>
+         <ref id="rf34">
+            <label>34.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Foucault, Michel. “Truth and Power.” Translated by Colin Gordon. In<italic>Power/Knowledge: Selected Interviews and Other Writings by Michel Foucault, 1972–1977</italic>, edited by Colin Gordon, pp. 109–33. New York: Pantheon, 1980.</mixed-citation>
+         </ref>
+         <ref id="rf35">
+            <label>35.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano.<italic>Philosophy and Computing: An Introduction</italic>. New York: Routledge, 1999.</mixed-citation>
+         </ref>
+         <ref id="rf36">
+            <label>36.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Gadamer, Hans‐Georg.<italic>Truth and Method</italic>. 2nd ed. New York: Crossroad, 1989.</mixed-citation>
+         </ref>
+         <ref id="rf37">
+            <label>37.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Ricour, Paul.<italic>Husserl: An Analysis of His Phenomenology</italic>. Evanston, IL: Northwestern University Press, 1967.</mixed-citation>
+         </ref>
+         <ref id="rf38">
+            <label>38.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Ricour, Paul.<italic>Interpretation Theory: Discourse and the Surplus of Meaning</italic>. Fort Worth, TX: Christian University Press, 1976.</mixed-citation>
+         </ref>
+         <ref id="rf39">
+            <label>39.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Ricour, Paul.<italic>From Text to Action</italic>. Evanston, IL: Northwestern University Press, 1991.</mixed-citation>
+         </ref>
+         <ref id="rf40">
+            <label>40.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Heidegger, Martin.<italic>Being and Time</italic>. New York: Harper Collins, 1962.</mixed-citation>
+         </ref>
+         <ref id="rf41">
+            <label>41.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Dick, Archie L., and Wechert, John. “A Philosophical Framework for Library and Information Science.”<italic>Library Quarterly</italic>73, no. 1 (January 2003): 73–77.</mixed-citation>
+         </ref>
+         <ref id="rf42">
+            <label>42.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Harold, Ken. “Introduction.”<italic>Library Trends</italic>52, no. 3 (Winter 2004): 373–76.</mixed-citation>
+         </ref>
+         <ref id="rf43">
+            <label>43.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “On Defining Library and Information Science as Applied Philosophy of Information.”<italic>Social Epistemology</italic>16, no. 1 (January–March 2002): 37–49.</mixed-citation>
+         </ref>
+         <ref id="rf44">
+            <label>44.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “What Is the Philosophy of Information?”<italic>Metaphilosophy</italic>33, nos. 1–2 (January 2002): 123–45.</mixed-citation>
+         </ref>
+         <ref id="rf45">
+            <label>45.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “Two Approaches to the Philosophy of Information.”<italic>Minds and Machines</italic>13, no. 4 (November 2003): 459–69.</mixed-citation>
+         </ref>
+         <ref id="rf46">
+            <label>46.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “Afterward: LIS as Applied Philosophy of Information; A Reappraisal.”<italic>Library Trends</italic>52, no. 3 (Winter 2004): 658–65.</mixed-citation>
+         </ref>
+         <ref id="rf47">
+            <label>47.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “Open Problems in the Philosophy of Information.”<italic>Metaphilosophy</italic>35, no. 4 (July 2004): 554–82.</mixed-citation>
+         </ref>
+         <ref id="rf48">
+            <label>48.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Mittal, R. L. “Philosophy of Librarianship.” In<italic>Librarianship: Philosophy, Laws and Ethics</italic>, edited by Devinder Kaur and Ram Gopal Prasher, pp. 19–30. New Delhi: Medallion, 2002.</mixed-citation>
+         </ref>
+         <ref id="rf49">
+            <label>49.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Floridi, Luciano. “Is Information Meaningful Data?”<italic>Philosophy and Phenomenological Research</italic>70, no. 2 (2005): 351–70.</mixed-citation>
+         </ref>
+         <ref id="rf50">
+            <label>50.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Cisek, Sabina.<italic>Filozoficzne aspekty informacji naukowej</italic>[Philosophical aspects of information science]. Krakow: Jagiellonian University Press, 2002.</mixed-citation>
+         </ref>
+         <ref id="rf51">
+            <label>51.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Alston, William P.<italic>A Realist Conception of Truth</italic>. Ithaca, NY: Cornell University Press, 1996.</mixed-citation>
+         </ref>
+         <ref id="rf52">
+            <label>52.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Devitt, Michael.<italic>Realism and Truth</italic>. Princeton, NJ: Princeton University Press, 1984.</mixed-citation>
+         </ref>
+         <ref id="rf53">
+            <label>53.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Greenough, Patrick, and Lynch, Michael P., eds.<italic>Truth and Realism</italic>. New York: Oxford University Press, 2006.</mixed-citation>
+         </ref>
+         <ref id="rf54">
+            <label>54.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Lehe, Robert T. “Realism and Reality.”<italic>Journal of Philosophical Research</italic>23 (1998): 219–37.</mixed-citation>
+         </ref>
+         <ref id="rf55">
+            <label>55.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Nitecki, Joseph Z., and Williams, Joanne Twining.<italic>The Nitecki Trilogy</italic>. Denton: Texas Women’s University, 1998.<ext-link ext-link-type="uri"
+                         xlink:href="http://www.twu.edu/library/nitecki/"
+                         xlink:type="simple">http://www.twu.edu/library/nitecki/</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf56">
+            <label>56.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Brookes, Bertram C. “The Foundations of Information Science: Part I, Philosophical Aspects.”<italic>Journal of Information Science</italic>2, nos. 3–4 (1980): 125–33.</mixed-citation>
+         </ref>
+         <ref id="rf57">
+            <label>57.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Wright, H. Curtis. “The Immateriality of Information.”<italic>Journal of Library History</italic>11, no. 4 (October 1976): 297–315.</mixed-citation>
+         </ref>
+         <ref id="rf58">
+            <label>58.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Hjorland, Birger. “Arguments for Philosophical Realism in Library and Information Science.”<italic>Library Trends</italic>52, no. 2 (Winter 2004): 488–506.</mixed-citation>
+         </ref>
+         <ref id="rf59">
+            <label>59.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">James, William.<italic>Some Problems of Philosophy: A Beginning of an Introduction to Philosophy</italic>. Lincoln: University of Nebraska Press, 1996.</mixed-citation>
+         </ref>
+         <ref id="rf60">
+            <label>60.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Kaufman, Gordon D. “On the Meaning of `God': Transcendence without Mythology.”<italic>Harvard Theological Review</italic>59, no. 2 (April 1966): 105–32.</mixed-citation>
+         </ref>
+         <ref id="rf61">
+            <label>61.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Herold, Ken R. “Librarianship and the Philosophy of Information.”<italic>Library Philosophy and Practice</italic>3, no. 2 (Spring 2001).<ext-link ext-link-type="uri"
+                         xlink:href="http://www.webpages.uidaho.edu/~mbolin/herold.html"
+                         xlink:type="simple">http://www.webpages.uidaho.edu/~mbolin/herold.html</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf62">
+            <label>62.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Neelankavil, John. “Indian Innovative Ways Are More than Digitization: Bhodhivanam, the Library’s Forest Environment.”<italic>Library Philosophy and Practice</italic>5, no. 2 (Spring 2003).<ext-link ext-link-type="uri"
+                         xlink:href="http://www.webpages.uidaho.edu/~mbolin/neelankavil.html"
+                         xlink:type="simple">http://www.webpages.uidaho.edu/~mbolin/neelankavil.html</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf63">
+            <label>63.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Plato.<italic>The Collected Dialogues of Plato, Including the Letters</italic>. Edited by Edith Hamilton and Huntington Cairns. Princeton, NJ: Princeton University Press, 1963.</mixed-citation>
+         </ref>
+         <ref id="rf64">
+            <label>64.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Aristotle.<italic>The Basic Works of Aristotle</italic>. Edited and with an introduction by Richard McKeon. New York: Random House, 1942.</mixed-citation>
+         </ref>
+         <ref id="rf65">
+            <label>65.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Russell, Bertrand.<italic>The Problems of Philosophy</italic>. New York: Oxford University Press, 1959.</mixed-citation>
+         </ref>
+         <ref id="rf66">
+            <label>66.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Nilson, Herman.<italic>Michael Foucault and the Games of Truth</italic>. Translated by Rachael Clark. New York: St. Martin’s, 1998.</mixed-citation>
+         </ref>
+         <ref id="rf67">
+            <label>67.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Kuhn, Thomas S.<italic>The Structure of Scientific Revolutions</italic>. 2nd ed. Chicago: University of Chicago Press, 1970.</mixed-citation>
+         </ref>
+         <ref id="rf68">
+            <label>68.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Brown, Dan.<italic>The Da Vinci Code: A Novel</italic>. New York: Doubleday, 2003.</mixed-citation>
+         </ref>
+         <ref id="rf69">
+            <label>69.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Peirce, Charles S.<italic>Collected Papers of Charles Sanders Peirce.</italic>Edited by Charles Hartshorne, Paul Weiss, and Arthur W. Burks. 8 vols. Cambridge, MA: Harvard University Press, 1931–58.</mixed-citation>
+         </ref>
+         <ref id="rf70">
+            <label>70.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">James, William.<italic>Pragmatism, a New Name for an Old Way of Thinking, Together with the Meaning of Truth, a Sequel to Pragmatism</italic>. Cambridge, MA: Harvard University Press, 1978.</mixed-citation>
+         </ref>
+         <ref id="rf71">
+            <label>71.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Herder, Johann Gottfried.<italic>Reflections on the Philosophy of the History of Mankind.</italic>Translated by T. O. Churchill. Chicago: University of Chicago Press, 1968.</mixed-citation>
+         </ref>
+         <ref id="rf72">
+            <label>72.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Baigent, Michael; Leigh, Richard; and Lincoln, Henry.<italic>Holy Blood, Holy Grail</italic>. New York: Delacorte, 1982.</mixed-citation>
+         </ref>
+         <ref id="rf73">
+            <label>73.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">
+               <italic>Encyclopedia Britannica Online</italic>. Academic edition. Chicago: Encyclopedia Britannica, 2007.<ext-link ext-link-type="uri"
+                         xlink:href="http://www.search.eb.com/eb/article-9033841"
+                         xlink:type="simple">http://www.search.eb.com/eb/article‐9033841</ext-link>.</mixed-citation>
+         </ref>
+         <ref id="rf74">
+            <label>74.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Herder, Johann Gottfried.<italic>Philosophical Writings</italic>. Edited by Michael N. Forster. Cambridge: Cambridge University Press, 2002.</mixed-citation>
+         </ref>
+         <ref id="rf75">
+            <label>75.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Popper, Karl Raimund.<italic>The Poverty of Historicism</italic>. London: Routledge &amp; Kegan Paul, 1957.</mixed-citation>
+         </ref>
+         <ref id="rf76">
+            <label>76.<x xml:space="preserve"> </x>
+            </label>
+            <mixed-citation xlink:type="simple">Popper, Karl Raimund.<italic>The Open Society and Its Enemies</italic>. 2 vols. 5th ed. Princeton, NJ: Princeton University Press, 1966.</mixed-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

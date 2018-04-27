@@ -1,0 +1,235 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt284x0d</book-id>
+      <subj-group>
+         <subject content-type="call-number">B105.C456F46 2007</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Comic, The</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Comedy</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Aristotle</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Iphigenia (Greek mythology)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Tragedy</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Love Song for the Life of the Mind</book-title>
+         <subtitle>An Essay on the Purpose of Comedy</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Fendt</surname>
+               <given-names>Gene</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780813214856</isbn>
+      <isbn content-type="epub">9780813216041</isbn>
+      <publisher>
+         <publisher-name>Catholic University of America Press</publisher-name>
+         <publisher-loc>WASHINGTON, D.C.</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2007</copyright-year>
+         <copyright-holder>The Catholic University of America Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt284x0d"/>
+      <abstract abstract-type="short">
+         <p>Love Song for the Life of the Mind develops the view of comedy that, the author argues, would have been set out in Aristotle's missing second book of Poetics. As such it is both a philosophical and a historical argument about Aristotle; and the theory of comedy it elucidates is meant to be trans-historically and trans-culturally accurate.</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.4</book-part-id>
+                  <title-group>
+                     <title>A NOTE ON KEY WORDS AND REFERENCES</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.5</book-part-id>
+                  <title-group>
+                     <title>WORKS AND EDITIONS OF ARISTOTLE</title>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.6</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xxv</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.7</book-part-id>
+                  <title-group>
+                     <title>PROPYLAIA</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In a recent book opening on to many of the issues this one will examine, Stephen Halliwell invokes the shade of Goethe, in particular his essay “Über Wahrheit und Wahrscheinlichkeit der Kunstwerke,” as the propylaia for his reexamination of the concept of mimesis.¹ In setting up this propylaia Halliwell follows Goethe, who draws our mind from a simplistic view of mimetic art as “sheer illusionism—like the famous birds reputedly tricked into pecking at Zeuxis’ painted grapes” to the mimetic as having “the psychological power to draw its audience into its world, to offer something that is wholly convincing and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.8</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>THE PROBLEM OF THE <italic>IPHIGENIA</italic> AND THE PURPOSES OF TRAGEDY</title>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This section will lay out the place of the <italic>Poetics</italic> in criticism and show the filiation of poetry to natural living things on one side and tools on the other. That double analogy shows that constructing poetry is like constructing constitutions, and so criticism of poetry, like criticism of constitutions, will depend upon a correct understanding of final causality in a thing that is not simply a made thing of human choice, but one that also arises out of nature and so is inescapable: <italic>that</italic> mimeses and constitutions exist is natural, given man’s existence; <italic>how</italic> they exist is made—but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.9</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>THE PURPOSE OF COMEDY</title>
+                  </title-group>
+                  <fpage>108</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The question of comedy’s telos, or final cause, is just one of the questions left open due to that most famous nonextant book in history, the second book of Aristotle’s <italic>Poetics</italic>, and there have been not a few suggestions to fill the gap. Before we turn to them, let us begin by remembering the definition of tragedy, for its part the most well-known sentence in literary criticism:</p>
+                     <p>A tragedy is a mimesis of action that is serious, complete, and has magnitude; in language with pleasurable accessories, each brought in in various parts; in a dramatic, not narrative form; with incidents</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.10</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>THE EXEMPLARY COMIC FICTION:</title>
+                     <subtitle>Resolution, Catharsis, and Culture in <italic>As You Like It</italic>
+                     </subtitle>
+                  </title-group>
+                  <fpage>178</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Having provided an answer to the question of <italic>what</italic> comedy does, we may now attempt a more exacting answer to the question of <italic>how</italic> comedy effects a catharsis of desire (eros) and sympathy. Aristotle is clear in the extant <italic>Poetics</italic> that plot is that through which the play does its work—it is the play’s <italic>archē</italic> and <italic>psuchē</italic>. It is particularly through recognitions and peripeties that tragic plots are made most emotionally effective, and this is especially so when they occur together (1450a32–34). Since all drama is a mimesis of action, and plot is the unitary action of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.11</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>A LOVE SONG FOR THE LIFE OF THE MIND:</title>
+                     <subtitle>Arcadia</subtitle>
+                  </title-group>
+                  <fpage>236</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Before we know, we desire to know. How can this be? And what a strange desire!—what a strange animal! Before we are happy, and before we know what happiness is, we desire to be happy. But there is a natural pleasure in mimesis, and through mimesis we first learn. One of the first things that happens through mimesis is that we enjoy a pleasure not associated with or caused by the ordinary animal appetites: the pleasure of mimesis. And being naturally mimetic, we enjoy this often. Out of this process the arts first grew, but this natural process is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.12</book-part-id>
+                  <title-group>
+                     <title>Epilogue:</title>
+                     <subtitle>“Still awake and drinking”: <italic>Symposium</italic> 223c, d</subtitle>
+                  </title-group>
+                  <fpage>284</fpage>
+                  <abstract abstract-type="extract">
+                     <p>If what I have been arguing for is true about comedy, then it might also have been a thought familiar to that one-time dramatist and lover of Aristophanes, Plato, and so, feeling merry and self-indulgent at the end of this project—it being a season of merriment—and entertaining the fleeting recollection of having been, in a previous life, a flute girl in the house of Agathon, I will make bold in closing to philosophize a little about the famous drinking party. Plato’s <italic>Symposium</italic> concludes with the “outrageous paradox”² that the same man who can write tragedy can write comedy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.13</book-part-id>
+                  <title-group>
+                     <title>SELECTED BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>307</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt284x0d.14</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>317</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

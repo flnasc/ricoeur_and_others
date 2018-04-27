@@ -1,0 +1,283 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt13x0b4g</book-id>
+      <subj-group>
+         <subject content-type="call-number">BH301.I53K33 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Imagination (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Aesthetics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Cognition</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Kant, Immanuel, 1724–1804</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Schiller, Friedrich, 1759–1805</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Peirce, Charles S. (Charles Sanders), 1839–1914</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Thinking Through the Imagination: Aesthetics in Human Cognition</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>KAAG</surname>
+               <given-names>JOHN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="series-editor" id="contrib2">
+            <name name-style="western">
+               <surname>Anderson</surname>
+               <given-names>Douglas R.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="series-editor" id="contrib3">
+            <name name-style="western">
+               <surname>Jones</surname>
+               <given-names>Jude</given-names>
+            </name>
+         </contrib>
+         <role content-type="series-editor">series editors</role>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>02</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780823254934</isbn>
+      <isbn content-type="epub">9780823254965</isbn>
+      <publisher>
+         <publisher-name>Fordham University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Fordham University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt13x0b4g"/>
+      <abstract abstract-type="short">
+         <p>Use your imagination! The demand is as important as it is confusing. What is the imagination? What is its value? Where does it come from? And where is it going in a time when even the obscene seems overdone and passe? This book takes up these questions and argues for the centrality of imagination in human cognition. It traces the development of the imagination in Kant's critical philosophy (particularly the Critique of Aesthetic Judgment) and claims that the insights of Kantian aesthetic theory, especially concerning the nature of creativity, common sense, and genius, influenced the development of nineteenth-century American philosophy. The book identifies the central role of the imagination in the philosophy of Peirce, a role often overlooked in analytic treatments of his thought. The final chapters pursue the observation made by Kant and Peirce that imaginative genius is a type of natural gift (ingenium) and must in some way be continuous with the creative force of nature. It makes this final turn by way of contemporary studies of metaphor, embodied cognition, and cognitive neuroscience.</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.4</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>THE CULTIVATION OF THE IMAGINATION</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>For the two children, the season began as a wild dash—a race against the length of summer days.¹ But by mid-August, the days proved too long and hot for their short attention spans. The unconstrained freedom of vacation exhausted itself or, more accurately and more ironically, exposed itself as a type of aimless discontent. Freedom from chores, school, and responsibility revealed itself as boredom to me and my brother on a humid afternoon. The toys and blocks that had once riveted our attention lay thrown and neglected about the playroom. Haphazardly discarded games no longer occupied our full attention.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.5</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>ENLIGHTENING THOUGHT:</title>
+                     <subtitle>KANT AND THE IMAGINATION</subtitle>
+                  </title-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>The imagination is notoriously difficult to define.¹ Indeed, this difficulty may explain the fact that prior to the Enlightenment there was no attempt to develop a unified theory of the imagination. In the history of ancient Greek philosophy, its amorphous character contributed to its being treated in two distinct, albeit related, ways. On the one hand, imagination was defined in terms of inspired artistic expression, outside the realm of explanation and description. On the other, it was described as a mysterious mental faculty that somehow accomplished the impossible, bridging the divide between the world of sensation and the world of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.6</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>C. S. PEIRCE AND THE GROWTH OF THE IMAGINATION</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>The seeds of the aesthetic are buried deep in the work of Charles Sanders Peirce. The sprouts were, therefore, rather slow to show themselves. However, the concept of the imagination as framed by Kant and other German Enlightenment thinkers does emerge in the ground of his epistemology, ontology, and metaphysics. Peirce recognizes the important function of Kantian reproductive imagination as he develops a description of inquiry that underscores the continuity between bodily sensation and understanding, once again challenging the mind-body dualism to which the idealists and empiricists continually fell prey. A more radical claim emerges from this challenge, namely that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.7</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>ABDUCTION:</title>
+                     <subtitle>INFERENCE AND INSTINCT</subtitle>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>Why were so many of Peirce’s college days spent—some might say wasted—on the topic of genius? A look through his unpublished papers points to an obsession with the work and lives of those “great men” of extraordinary mental powers—from Michelangelo, to Mozart, to Edgar Allan Poe. Like his contemporary Josiah Royce, Peirce was fascinated by history and, more particularly, by the history of genius. This fascination might be attributed to Peirce’s arrogant but not inaccurate suspicion that he would some day join the ranks of these “great men.” I would suggest that Peirce’s fascination relates to a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.8</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>IMAGINING NATURE</title>
+                  </title-group>
+                  <fpage>93</fpage>
+                  <abstract>
+                     <p>In the spring of 1887, having been unceremoniously discharged from his post at Johns Hopkins University, Peirce developed a correspondence course on logic and critical thinking.¹ The course, on the fundamentals of Peircean logic, was aptly titled “The Art of Reasoning.” During this period, Peirce wrote a series of letters that began to explain the imaginative-abductive basis of logic and cognition, and his early observation that “poets see a common nature” came to fruition. Peirce continued his attempt to describe reasoning as a form of art over the next years. By the turn of the century, the topic moved to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.9</book-part-id>
+                  <title-group>
+                     <label>SIX</label>
+                     <title>ONTOLOGY AND IMAGINATION:</title>
+                     <subtitle>PEIRCE ON NECESSITY AND AGENCY</subtitle>
+                  </title-group>
+                  <fpage>120</fpage>
+                  <abstract>
+                     <p>During the 1880s, Peirce employed the triadic nature of thought to ground his budding cosmology. As Karl-Otto Apel suggests, it was during this time (particularly in 1885) that Peirce developed a “metaphysics of evolution.”¹ Peirce’s attempt to expose a continuous relation among the three aspects of human thought becomes a desire to unify three realms of being. He comes to reassert the necessary connection between epistemology and ontology. Just as Kant’s discussion of imagination and reflective judgment in 1792 leads him to speculate on the topics of time and purposive nature, Peirce’s examination of the triadic character of logic and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.10</book-part-id>
+                  <title-group>
+                     <label>SEVEN</label>
+                     <title>THE EVOLUTION OF THE IMAGINATION</title>
+                  </title-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>As we turn our attention to the explanations of the imagination furnished by the contemporary empirical sciences, it is wise to remember the Sphinx.¹ When Peirce wrote “A Guess at the Riddle,” he asked that a small vignette of the Sphinx be placed under the title. But why? I suspect Emerson (the author of “The Sphinx” in 1841) and Thoreau (a commentator on this favorite poem of Emerson) had a pretty good idea. Once again, “A Guess at the Riddle” was Peirce’s rough outline of the way that triadic relations obtained first in metaphysics and psychology and then in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.11</book-part-id>
+                  <title-group>
+                     <label>EIGHT</label>
+                     <title>EMERGENCE, COMPLEXITY, AND CREATIVITY</title>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>To say that the brain is functionally multimodal begins to point to the organic basis of metaphoric thought.¹ More generally, it points to the way in which affect and bodily sense provide the ground for complex human understanding. As Kant and Peirce both recognize, the mediation between sense and understanding is the domain of the imagination. In this respect, Donald Tucker’s<italic>Mind from Body: The Neural Structures of Experience</italic>could be regarded as a treatise on the imaginative basis of human cognition. Tucker’s work, unlike the empirical studies mentioned previously, provides a cohesive and detailed account of the way in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.12</book-part-id>
+                  <title-group>
+                     <label>NINE</label>
+                     <title>BE IMAGINATIVE!</title>
+                     <subtitle>SUGGESTION AND IMPERATIVE</subtitle>
+                  </title-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>At the end of an afternoon of gardening, one looks back, if only for a moment, to survey the ground that one has covered and worked through. It seems fitting, therefore, to take account of the moves made in this book. I have argued that the imagination plays a central role in the development of human cognition and, more generally, in the humanness of human life. At the service of this argument, I have amplified, extended, and explained the opening passage of<italic>Art as Experience</italic>that tells us: “the imagination is a way of seeing and feeling things as they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.13</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>211</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.14</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>235</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.15</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt13x0b4g.16</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

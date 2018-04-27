@@ -1,0 +1,516 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt45kcb0</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt45kf7f</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+         <subject>Music</subject>
+         <subject>General Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Sound Souvenirs</book-title>
+         <subtitle>Audio Technologies, Memory and Cultural Practices</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Bijsterveld</surname>
+               <given-names>Karin</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>van Dijck</surname>
+               <given-names>José</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>26</day>
+         <month>05</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9789089641328</isbn>
+      <isbn content-type="epub">9789048510580</isbn>
+      <publisher>
+         <publisher-name>Amsterdam University Press</publisher-name>
+         <publisher-loc>Amsterdam</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>K. Bijsterveld</copyright-holder>
+         <copyright-holder>J. van Dijck</copyright-holder>
+         <copyright-holder>Amsterdam University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt45kf7f"/>
+      <abstract abstract-type="short">
+         <p>In recent decades, the importance of sound for remembering the past and for creating a sense of belonging has been increasingly acknowledged. We keep "sound souvenirs" such as cassette tapes and long play albums in our attics because we want to be able to recreate the music and everyday sounds we once cherished. Artists and ordinary listeners deploy the newest digital audio technologies to recycle past sounds into present tunes. Sound and memory are inextricably intertwined, not just through the commercially exploited nostalgia on oldies radio stations, but through the exchange of valued songs by means of pristine recordings and cultural practices such as collecting, archiving and listing. This book explores several types of cultural practices involving the remembrance and restoration of past sounds. At the same time, it theorizes the cultural meaning of collecting, recycling, reciting, and remembering sound and music. This title is available in the OAPEN Library - http://www.oapen.org.</p>
+      </abstract>
+      <counts>
+         <page-count count="218"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>1</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>7</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.4</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>8</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bijsterveld</surname>
+                           <given-names>Karin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Dijck</surname>
+                           <given-names>José</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>To Philipp Perlmann, a linguist in the novel<italic>Perlmann’s Silence</italic>by Pascal Mercier (2007 [1995]), things have lost their “presence.” He seems only capable of fully experiencing life when remembering it, and he clings hopelessly to the sentences his acquaintances have expressed in the past. Because his own academic field has become utterly meaningless to him, he has started translating a text by a Russian colleague on the relation between language and remembering. It is through words, and only through words, the text argues, that people create and construct their memories, thus appropriating, as it were, what has happened. Perlmann</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.6</book-part-id>
+                  <title-group>
+                     <label>Chapter One</label>
+                     <title>Storing Sound Souvenirs:</title>
+                     <subtitle>The Multi-Sited Domestication of the Tape Recorder</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bijsterveld</surname>
+                           <given-names>Karin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jacobs</surname>
+                           <given-names>Annelies</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>25</fpage>
+                  <abstract>
+                     <p>Loek van IJzendoorn, a Dutch Philips employee caught by the fever of recording, purchased his first reel-to-reel recorder in the mid-1960s. With all the wires attached to the recorder, the device “looked dreadful,” so he locked it behind the closed doors of a cupboard in his living room. He bought the reel-to-reel mainly to record radio music. Late each evening, Van IJzendoorn would sit down and wait for hours for the best German stereophonic radio programs to be broadcast. At that time, however, the electric energy radiated by cars, mopeds, and scooters still interfered with the reception of his radio,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.7</book-part-id>
+                  <title-group>
+                     <label>Chapter Two</label>
+                     <title>Tape Cassettes and Former Selves:</title>
+                     <subtitle>How Mix Tapes Mediate Memories</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jansen</surname>
+                           <given-names>Bas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>43</fpage>
+                  <abstract>
+                     <p>Old cassette mix tapes tend to bring back memories. There is something accidental about this ability, because evoking memories was not their intended purpose. In the digital age, however, it is their evocative quality that they are mostly appreciated for. Besides conjuring up a wealth of autobiographical memories related to a specific tape, mix tapes naturally trigger memories of the outdated technology of the cassette recorder and of spending many an hour mixing tapes. Unlike making a playlist, mix taping involves a lot of work. As songs were generally rerecorded in real time, the process of making a mix tape</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.8</book-part-id>
+                  <title-group>
+                     <label>Chapter Three</label>
+                     <title>The Preservation Paradox in Digital Audio</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sterne</surname>
+                           <given-names>Jonathan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>Perhaps it is historians’ special way of shaking a fist at the image of their own mortality, but every generation must lament that its artifacts, its milieu, will largely be lost to history. One can find countless laments in the early days of recording about what might have been had we just been able to get Lincoln’s voice on a cylinder, or the speeches of some other great leader. But one can just as easily turn to one’s own professional journals, such as the<italic>Historical Journal of Film, Radio and Television</italic>. Here is Phillip M. Taylor, a historian at Leeds,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.9</book-part-id>
+                  <title-group>
+                     <label>Chapter Four</label>
+                     <title>Taking Your Favorite Sound Along:</title>
+                     <subtitle>Portable Audio Technologies for Mobile Music Listening</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Weber</surname>
+                           <given-names>Heike</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>In the second half of the twentieth century, portability became a significant design feature in consumer electronics.¹ Manufacturers promoted portable electronics for use anytime and anywhere in contrast to domestic appliances that still depended on a fixed power supply. The rise of portable electronics coincided with an increase in travel and transportation. Mobile technologies that addressed the aural rather than the visual sense came to be seen as the perfect companions for people on the move.</p>
+                     <p>As we know from both Michael Bull’s and Tia DeNora’s work, users of audio technologies employ recorded music to create and maintain emotions, to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.10</book-part-id>
+                  <title-group>
+                     <label>Chapter Five</label>
+                     <title>The Auditory Nostalgia of iPod Culture</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bull</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>For the first time in history, the majority of Westerners possess the technology to create their own private mobile auditory world wherever they go.¹ Apple iPods, alternative brand MP3 players, or mobile phones whose music listening options enable these people to construct highly individualized soundscapes. The iPod is symbolic of a culture in which many increasingly use communication technologies to control and manage their daily experiences.</p>
+                     <p>In this chapter I focus on one strategy of control: the transcendence of time and place through the evocation of various forms of auditory nostalgia. IPod users often report being in dream reveries while</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.11</book-part-id>
+                  <title-group>
+                     <label>Chapter Six</label>
+                     <title>Performance and Nostalgia on the Oldies Circuit</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Taylor</surname>
+                           <given-names>Timothy D.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>94</fpage>
+                  <abstract>
+                     <p>In 1869, members of the Methodist Episcopal Church built a town on the coast of New Jersey (regionally known as “the Jersey shore”). The town was populated mainly by Methodists, as it is to this day. Every August, for one week, thousands of people from out of town would descend on this tiny shore village for a “camp meeting,” a week of sermons, prayer, hymn singing, and fellowship. To accommodate them all, in 1894 the church fathers built a large auditorium called, appropriately enough, the Great Auditorium. This enormous wooden structure seats about six thousand people and today, when not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.12</book-part-id>
+                  <title-group>
+                     <label>Chapter Seven</label>
+                     <title>Remembering Songs through Telling Stories:</title>
+                     <subtitle>Pop Music as a Resource for Memory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van Dijck</surname>
+                           <given-names>José</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>“You can check out any time you like, but you can never leave…” The knife-sharp guitar solo following Don Henley’s last words rack up a series of emotions and memories in my brain. Ever since my definite return from California, where I lived from 1987 to 1991, the song is intensely colored by experiences: staying at a desolate hotel in the desert, driving a pick-up truck up north on Highway 101, playing a frisbee at Pacific Beach. The song is also inevitably associated with the old tape recorder in my apartment’s living room, a red ghetto blaster from which many</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.13</book-part-id>
+                  <title-group>
+                     <label>Chapter Eight</label>
+                     <title>Tuning in Nostalgic Wavelengths:</title>
+                     <subtitle>Transistor Memories Set to Music</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fickers</surname>
+                           <given-names>Andreas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Hundreds of songs pay tribute to the radio. But only a few songwriters have produced such intimate and melancholic sound souvenirs of their personal memories of the radio as the Irish bard Van Morrison. Already in his 1960s hits “Caravan” and “Brown Eyed Girl,” the transistor radio was celebrated as a catalyst and mediator of strong personal feelings and emotions, mainly through its function of putting revolutionary sounds into the air. In several of his later songs, the radio became an object of technostalgic contemplation.²</p>
+                     <p>This chapter examines the meaning of and nostalgic yearning for transistor radios in the lyrics</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.14</book-part-id>
+                  <title-group>
+                     <label>Chapter Nine</label>
+                     <title>Pulled out of Thin Air?</title>
+                     <subtitle>The Revival of the Theremin</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Braun</surname>
+                           <given-names>Hans-Joachim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>The theremin, one of the earliest electronic musical instruments, seems to be all over the place lately. In the United States and Europe, it has recently been featured at many concerts, performances, and happenings, apparently to create a sense of awe and wonder in the audience. The more spectacular, astonishing, or perplexing the sound, the better the performance seems to be. The New York Theremin Society organized a concert featuring an ensemble of ten thereminists at Disney Hall in Los Angeles on 26 May 2007. The award-winning theremin-documentary maker Steve M. Martin was “thrilled” to arrange the historic event. A</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.15</book-part-id>
+                  <title-group>
+                     <label>Chapter Ten</label>
+                     <title>Technostalgia:</title>
+                     <subtitle>How Old Gear Lives on in New Music</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pinch</surname>
+                           <given-names>Trevor</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Reinecke</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>152</fpage>
+                  <abstract>
+                     <p>For many musicians and collectors, the musical instruments of the past live on in the studio, on the stage, and for those rare enough instruments, in the vault.¹ Paradoxically, many of the finest guitars end up on the wall of collectors’ homes never to be played again. Vintage synthesizers, such as the Moog Minimoog, have acquired such a legendary status that they are unaffordable to most working musicians. Even old instruments and pieces of equipment that are not particularly rare, such as the Fender Deluxe tube amp favored by rock musicians for its classic rock sound, present particular problems for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.16</book-part-id>
+                  <title-group>
+                     <label>Chapter Eleven</label>
+                     <title>Earwitnessing:</title>
+                     <subtitle>Sound Memories of the Nazi Period</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Birdsall</surname>
+                           <given-names>Carolyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>169</fpage>
+                  <abstract>
+                     <p>There is a tendency to think of sound souvenirs, whether recorded sounds, music, or song lyrics, as having the ability to produce memory effects in the listeners. Sound technologies, too, are often conceived as “metaphors of memory” and new technologies can generate nostalgia for superseded formats (Draaisma 2000). In these instances, the construction of sounds as offering traces of the past depends on external, physical objects. In what follows, however, I propose to examine the role of sound within personal and social contexts of remembering. Despite recent attempts to address witnesses as embodied subjects (Brison 1999; Young 2003), the common</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.17</book-part-id>
+                  <title-group>
+                     <label>Chapter Twelve</label>
+                     <title>All the Names:</title>
+                     <subtitle>Soundscapes, Recording Technology, and the Historical Sensation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Benschop</surname>
+                           <given-names>Ruth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>182</fpage>
+                  <abstract>
+                     <p>It was a glorious summer’s day when I visited the Netherlands American Cemetery and Memorial for World War II in the gently sloping hills in the south of the Netherlands. The grass at the cemetery was green and, as always, perfectly trimmed. The long curves of the headstones shone white in the sunlight, attracting hundreds of harvest spiders to dance among them. I had come to listen to<italic>Alle Namen</italic>[<italic>All the Names</italic>],² a soundscape made by the sound and music studio Intro | in situ.³ In the leaflet announcing the work,<italic>Alle Namen</italic>was described as “a sound field</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.18</book-part-id>
+                  <title-group>
+                     <title>References</title>
+                  </title-group>
+                  <fpage>199</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.19</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>216</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt45kf7f.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>219</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

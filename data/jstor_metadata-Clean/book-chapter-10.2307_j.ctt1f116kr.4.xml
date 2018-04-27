@@ -1,0 +1,834 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1f116kr</book-id>
+      <subj-group>
+         <subject content-type="call-number">HV713.P762 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Enfants</subject>
+         <subj-group>
+            <subject content-type="lcsh">Protection, assistance, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Enfants</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychologie</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Parents</subject>
+         <subj-group>
+            <subject content-type="lcsh">Psychologie</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Psychology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>La protection de l'enfance</book-title>
+         <subtitle>La parole des enfants et des parents</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Sous la direction de</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>LACHARITÉ</surname>
+               <given-names>CARL</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>SELLENET</surname>
+               <given-names>CATHERINE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>CHAMBERLAND</surname>
+               <given-names>CLAIRE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>06</day>
+         <month>05</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760542532</isbn>
+      <isbn content-type="epub">9782760542549</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+         <publisher-loc>Québec</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>Presses de l’Université du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1f116kr"/>
+      <abstract abstract-type="short">
+         <p>parents , enfants , protection de la jeunesse , protection de l'enfance</p>
+      </abstract>
+      <counts>
+         <page-count count="322"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SELLENET</surname>
+                           <given-names>CATHERINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACHARITÉ</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAMBERLAND</surname>
+                           <given-names>CLAIRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>DANS LE cadre d’un partenariat de recherche Québec-France, initié et dirigé par Carl Lacharité (Université du Québec à Trois-Rivières) et Catherine Sellenet (Université de Nantes), nous proposons de faire entendre la voix des enfants et des parents en protection de l’enfance.</p>
+                     <p>En 1982, Pierre Bourdieu publiait un essai intitulé<italic>Ce que parler veut dire. Économie des échanges linguistiques</italic>, où il examinait la fonction sociale du langage et ses possibilités de violences symboliques. Si l’analyse de l’époque s’intéressait principalement à la parole dominante, Pierre Bourdieu fera aussi entendre dans<italic>La misère du monde</italic>, écrit en 1993, des témoignages de personnes qui</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.4</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 1</label>
+                     <title>Dites-leur qu’on n’est pas des sauvages!</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SELLENET</surname>
+                           <given-names>CATHERINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>ÊTRE CHERCHEUR en protection de l’enfance, auprès de<italic>ces gens-là</italic>(Pétonnet, 1968), c’est entrer dans des zones critiques d’existence. C’est s’interroger sur les raisons de cette intrusion, la place du chercheur dans le processus de connais sance et la fonction des savoirs qu’il produit. C’est, enfin, non seulement travailler sur les méthodes de recueil de la parole, son analyse, mais aussi plus profondément réfléchir aux dimensions éthiques de la recherche (April, 2007). C’est donc se soucier des conditions de la rencontre avec celui qui accepte de parler, apprendre le dialogue, l’analyse de soi et d’autrui dans ce face-à-face (Malherbe, 1997).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.5</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 2</label>
+                     <title>Par-delà les silences, « faire savoir » avec des familles en irrégularité de séjour:</title>
+                     <subtitle>Une enquête en terrain sensible</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JAMOULLE</surname>
+                           <given-names>PASCALE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>CE CHAPITRE étudiera la légitimité des enquêtes en terrain sensible, à partir d’une enquête ethnographique réalisée dans le « département monde » de Seine-Saint-Denis¹, en banlieue nord-est de Paris, auprès de familles immigrées² et banlieusardes (Jamoulle, 2013). Elle portait sur le travail de l’exil et les métissages socioculturels en contexte de précarité. Nous appellerons « travail de l’exil » la reformulation identitaire des migrants, l’émergence des personnes qu’ils deviennent, de là-bas à ici, en prenant place dans de nouveaux mondes, en tirant les leçons de l’expérience vécue (Métraux, 2011). Les métissages socioculturels, ces tissages d’appartenances plurielles, se poursuivent de génération</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.6</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 3</label>
+                     <title>Les familles et la vulnérabilité:</title>
+                     <subtitle>Captation institutionnelle de la parole de l’enfant et du parent</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACHARITÉ</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>AU COURS des dernières années, j’ai publié trois textes qui portent sur la participation des parents aux divers services que leurs enfants et eux-mêmes peuvent recevoir. Le premier texte (Lacharité, 2009) présente les grandes lignes d’une approche participative en intervention auprès des familles qui vivent en situation de vulnérabilité. Le second texte (Lacharité, 2011) examine les enjeux liés à la participation des parents à l’intérieur du contexte particulier de la protection de l’enfance. Le troisième texte (Lacharité et Goupil, 2013) décrit les enjeux éthiques et cliniques du travail d’intervention psychosociale auprès des familles qualifiées de vulnérables. Ces travaux reposent sur</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.7</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 4</label>
+                     <title>Les récits narratifs:</title>
+                     <subtitle>Un regard privilégié sur l’enfant et la famille</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BÉLANGER</surname>
+                           <given-names>MÉLANIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILOT</surname>
+                           <given-names>TRISTAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>51</fpage>
+                  <abstract>
+                     <p>DANS LE présent chapitre, nous avons demandé à des enfants et à leurs mères pris en charge pour négligence de raconter ensemble des histoires. Pour ce faire, nous avons utilisé la tâche de<italic>Construction de récits narratifs</italic>de la Batterie d’histoires à compléter de MacArthur (Bretherton, Oppenheim, Buchsbaum, Emde et The MacArthur Narrative Group, 1990), une tâche fréquemment utilisée dans les recherches qui portent sur les relations parents-enfants. Habituellement, cette tâche est composée d’amorces d’histoires qu’on présente à l’enfant seul et qu’on lui demande de compléter. Les amorces d’histoires portent sur des événements de la vie quotidienne. Des grilles d’observations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 5</label>
+                     <title>Le « Lost in Translation », ou la faiblesse des supports identificatoires en contexte de disqualification</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROBIN</surname>
+                           <given-names>PIERRINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MACKIEWICZ</surname>
+                           <given-names>MARIE-PIERRE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOUSSAULT</surname>
+                           <given-names>BÉNÉDICTE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DELCROIX</surname>
+                           <given-names>SYLVIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>LE DISPOSITIF de protection de l’enfance marque un point d’entrée de la puissance publique dans l’espace privé pour préserver l’intérêt des plus faibles dans l’espace familial. Il met en scène des acteurs pris dans des relations contraignantes avec les institutions, captifs de décisions qu’ils ne maîtrisent pas. La domination de classe subie par les familles concernées, défavorisées, contrôlées, stigmatisées a été analysée de longue date (Donzelot, 1977). Ce qui a moins été analysé, c’est la place des enfants et des jeunes dans le dispositif d’aide, leurs « stratégies de débrouillardise » et les « bricolages biographiques » (Vuille et Schultheis,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 6</label>
+                     <title>Le recueil de la parole de l’enfant victime dans un cadre judiciaire:</title>
+                     <subtitle>Construire un dispositif dédié</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAÏEB</surname>
+                           <given-names>SARRA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FOURCADE</surname>
+                           <given-names>CÉDRIC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SÉRAPHIN</surname>
+                           <given-names>GILLES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>DANS LE champ de la protection de l’enfance, la question d’une juste prise en compte de la parole des enfants devient récurrente. L’objectif d’une meilleure considération de cette parole semble aujourd’hui partagé par l’ensemble des acteurs. Pourtant, l’application pratique semble moins aisée. Au-delà des questions théoriques quant au statut de cette parole (Qu’est-ce qu’une parole? La parole est-elle véridique?…) se posent des questions plus pratiques sur les méthodes voire les dispositifs à engager pour la considérer.</p>
+                     <p>En fait de réponses possibles, les unités d’accueil médico-judiciaire (UAMJ) semblent, en France, une tentative originale et relativement récente. Si ce dispositif n’est pas</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 7</label>
+                     <title>La parole… de l’enfant à son parent:</title>
+                     <subtitle>Regards et représentations croisés en accueil familial</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAPON</surname>
+                           <given-names>NATHALIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SIFFREIN-BLANC</surname>
+                           <given-names>CAROLINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>EN 1989, la France, comme 193 pays, ratifiait la Convention internationale des droits de l’enfant (CIDE), dite aussi « Convention de New York », adoptée par l’Organisation des Nations Unies. En 2014, on fête le 25<sup>e</sup>anniversaire de la Convention des droits de l’enfant, ce texte fondateur qui fédère les États autour d’une même volonté d’assurer la protection de l’enfant, alors reconnu comme détenteur de droits dans différents domaines de la vie: droit à l’édu cation, à la santé, droit de ne pas être séparé de ses parents, d’exprimer son opinion… En 2000, afin de veiller au respect et à</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 8</label>
+                     <title>L’enfant placé:</title>
+                     <subtitle>parole et objet de relation: La production d’un « livre des souvenirs »</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BONGARD</surname>
+                           <given-names>MARIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MELLIER</surname>
+                           <given-names>DENIS</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MANDRILLON</surname>
+                           <given-names>CÉCILE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>POUR LES enfants pris en charge par la protection de l’enfance, l’expression d’une parole est rendue difficile étant donné les expériences non structu rantes et discontinues qui ont marqué leur construction psychique (Rottman et Richard, 2009). Les circonstances à l’origine d’un placement sont complexes et multiples. Les discontinuités sont fréquentes et importantes: discontinuités dans l’histoire individuelle et familiale des enfants dès leur plus jeune âge, parfois dès leur naissance, discontinuités des contacts, de la qualité des relations et des soins… (Houzel, 1999). Des phénomènes de dysparentalité (Clément, 1993), des troubles de la relation précoce correspondant à une psychopathologie de l’attachement</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 9</label>
+                     <title>La parole vivante et la parole morte:</title>
+                     <subtitle>Le parcours accidenté de la parole des enfants et des parents vers l’action</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MILANI</surname>
+                           <given-names>PAOLA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SERBATI</surname>
+                           <given-names>SARA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>IUS</surname>
+                           <given-names>MARCO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>De Socrate et son approche maïeutique jusqu’à Paulo Freire avec sa conception non « bancaire » de l’éducation (1973), en passant par Froebel (1960) selon qui l’homme, en tant que « modèle pour lui-même », est capable d’auto détermination, par Sir Baden Powell (1932) avec son principe « Ask the boy », pour arriver aux multiples expériences d’éducation active au cours du xx e siècle, beaucoup de pratiques pédagogiques se sont centrées sur l’importance de valoriser la qualité de la parole des enfants.</p>
+                     <p>Dans ces expériences, le sujet est conçu comme un auteur et non seule ment comme un acteur</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 10</label>
+                     <title>Le conflit de loyauté et l’exposition à la violence conjugale:</title>
+                     <subtitle>La perspective de l’enfant</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUFOUR</surname>
+                           <given-names>SARAH</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAILLÉ</surname>
+                           <given-names>NICOLE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>DE NOMBREUX enfants vivent dans des foyers aux prises avec la violence conjugale. Plusieurs provinces canadiennes, dont le Québec, ont adopté des dispositions législatives pour reconnaître l’exposition à la violence conjugale dans la définition de mauvais traitements envers les enfants. La présente recherche porte sur une dimension du vécu des enfants exposés à la violence conjugale: le conflit de loyauté à la suite de la séparation des parents. La parole est donnée aux enfants eux-mêmes, puis leur point de vue est mis en perspective avec celui de leurs mères et de leurs intervenantes.</p>
+                     <p>Malgré l’absence de consensus sur la définition</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.14</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 11</label>
+                     <title>Les plans et les rêves de vie formulés par des jeunes suivis en protection de la jeunesse:</title>
+                     <subtitle>Facteurs de stabilité et de changements</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MALO</surname>
+                           <given-names>CLAIRE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LAMOTHE</surname>
+                           <given-names>JOSIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>L’ADOLESCENCE EST une étape importante du développement durant laquelle les jeunes sont appelés à réfléchir à leur avenir, à explorer des possibilités et à formuler des aspirations vocationnelles. Ils seront ensuite encouragés à formuler des plans pour atteindre leur but, clarifiant notamment la trajectoire scolaire requise. Pour beaucoup, c’est un processus complexe ponctué d’essais et de retours en arrière, mais pour les jeunes qui présentent des difficultés de comportement, ce processus peut constituer un véritable défi. Outre les aspirations vocationnelles, les jeunes sont aussi appelés à faire des choix dans d’autres domaines de leur vie future (famille, loisirs, etc.). C’est</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.15</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 12</label>
+                     <title>La participation des parents en protection de l’enfance:</title>
+                     <subtitle>Une injonction paradoxale</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACROIX</surname>
+                           <given-names>ISABELLE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>OUI</surname>
+                           <given-names>ANNE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SÉRAPHIN</surname>
+                           <given-names>GILLES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>LA PARTICIPATION du mineur, de ses parents et du jeune majeur dans le champ de la protection de l’enfance est devenue une norme d’action publique, sous l’influence des traités internationaux et du droit interne français. Elle est fortement encouragée par différents organismes publics en France tels que l’Agence nationale de l’évaluation et de la qualité des établissements et services sociaux et médico-sociaux (ANESM, 2014). Cette tendance n’est pas unique au secteur de la protection de l’enfance, mais concerne l’ensemble des politiques publiques. Elle fait figure d’impératif démocratique et remet en question le partage des pouvoirs, que ce soit dans les</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.16</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 13</label>
+                     <title>Les paroles de parents sur l’accès et l’adhésion aux services de la pédiatrie sociale en communauté</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CLÉMENT</surname>
+                           <given-names>MARIE-ÈVE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BÉRUBÉ</surname>
+                           <given-names>ANNIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FALLU</surname>
+                           <given-names>DAPHNÉ</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOSSELIN</surname>
+                           <given-names>CAROLINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>DEPUIS TRENTE ans, les inégalités sociales ne cessent d’augmenter au Canada, dont la précarité économique et l’exclusion sociale (Crespo et Rheault, 2013). Paradoxalement, malgré l’offre de services, les familles qui sont fragili sées et appauvries par les injustices sociales sont plus difficiles à rejoindre et représentent un défi supplémentaire pour les intervenants (Axford<italic>et al.</italic>, 2012).</p>
+                     <p>Dans leur recension des écrits, Boag-Munroe et Evangelou (2012) insistent sur les deux pôles qui expliquent la difficulté des parents à accéder aux services qui leur sont pourtant destinés, à savoir leurs caractéristiques personnelles et familiales, et les caractéristiques des services qui facilitent ou</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.17</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 14</label>
+                     <title>La reprise du pouvoir sur sa vie lorsqu’on perd la garde de son enfant?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>NOËL</surname>
+                           <given-names>JULIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SAINT-JACQUES</surname>
+                           <given-names>MARIE-CHRISTINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>CHAQUE ANNÉE, au Québec, des parents, principalement des mères, confient ou perdent définitivement la garde de leur enfant avec l’aide ou sous la contrainte de la Direction de la protection de la jeunesse (DPJ). Quelques enfants sont confiés de façon volontaire par leurs parents, tandis que d’autres sont retirés du milieu familial par des voies judiciarisées. Cette situation survient lorsque la DPJ évalue que les parents ne parviennent pas, malgré les services offerts et l’aide apportée, à répondre aux besoins de l’enfant, à lui assurer un milieu de vie sécuritaire où son développement n’est pas compromis (Association des centres jeunesse</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.18</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 15</label>
+                     <title>Le placement en famille d’accueil en vue d’adoption:</title>
+                     <subtitle>Un quatuor de parents sans voix</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PAGÉ</surname>
+                           <given-names>GENEVIÈVE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>POIRIER</surname>
+                           <given-names>MARIE-ANDRÉE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>SELON LE bilan annuel des directeurs de la protection de la jeunesse et des directeurs provinciaux (Association des centres jeunesse du Québec – ACJQ, 2013), 307 enfants québécois sont adoptés localement en moyenne chaque année. Pour la plupart, il s’agit d’enfants dont la situation a été prise en charge par la Direction de la protection de la jeunesse (DPJ), qui ont été retirés de leur milieu familial et dont le retour dans ce milieu ne pouvait être envisagé, pour diverses raisons. Ainsi, à un moment ou à un autre de leur parcours dans les services de protection de la jeunesse, l’adoption</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.19</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 16</label>
+                     <title>L’expérience parentale des pères impliqués dans une problématique de négligence</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CÔTÉ</surname>
+                           <given-names>DENISE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACHARITÉ</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>LORSQUE LE discours des familles qui reçoivent des services de protection de l’enfance est entendu, il s’agit la plupart du temps de manchettes de jour naux ou de reportages peu flatteurs sur les services dispensés dans le but de formuler des reproches aux différentes instances gouvernementales. Mais le discours des familles, des parents et des enfants, qu’en est-il vraiment ? L’une des façons de faire pour entendre la parole des familles en services de protection est de réaliser des études qui permettent de connaître les propos réels des membres de ces familles.</p>
+                     <p>Les recherches sur les rôles parentaux portent généralement</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.20</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 17</label>
+                     <title>« Can You Hear Me, Major Tom? »:</title>
+                     <subtitle>Les liens entre les intervenants et les pères dont les enfants sont sous les soins des services de protection de l’enfance</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DEVAULT</surname>
+                           <given-names>ANNIE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HUARD-FLEURY</surname>
+                           <given-names>MARIE-CLAUDE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MONETTE-DRÉVILLON</surname>
+                           <given-names>MAXIME-FLORENCE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACHARITÉ</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DE MONTIGNY</surname>
+                           <given-names>FRANCINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DUBEAU</surname>
+                           <given-names>DIANE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>L’INTERVENTION EN contexte de protection de l’enfance comporte des particularités qui dépassent le cadre du soutien habituellement offert par l’État. En effet, de manière générale, le fait d’obtenir de l’aide des services sociaux représente en soit une démarche extraordinaire, puisque ce recours signifie que</p>
+                     <p>1) la famille est en quelque sorte dépassée par les difficultés qu’elle éprouve;</p>
+                     <p>2) son réseau de soutien naturel n’est pas en mesure de lui offrir l’aide qui lui permettrait de revenir à l’état d’équilibre souhaité;</p>
+                     <p>3) en contexte de protection, l’intervention de l’État signifie aussi que la situation est potentiellement suffisamment grave et dangereuse pour</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.21</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LACHARITÉ</surname>
+                           <given-names>CARL</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SELLENET</surname>
+                           <given-names>CATHERINE</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHAMBERLAND</surname>
+                           <given-names>CLAIRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>LES CHAPITRES de cet ouvrage ont tous été écrits dans l’intention d’inviter les divers acteurs professionnels du dispositif de la protection de l’enfance (et cela inclut autant les professionnels eux-mêmes que les chercheurs) à se pencher sur la parole des enfants et des parents de même que sur le contexte dans lequel cette parole peut être exprimée et entendue. Au terme de cet exercice collectif, et en guise de conclusion, il nous est apparu nécessaire de mettre en relief certains points autour desquels un débat devrait être fait. Nous laissons donc aux lecteurs l’initiative de prolonger cette réflexion collective à</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.22</book-part-id>
+                  <title-group>
+                     <title>RÉFÉRENCES</title>
+                  </title-group>
+                  <fpage>267</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.23</book-part-id>
+                  <title-group>
+                     <title>NOTICES BIOGRAPHIQUES</title>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1f116kr.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>304</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

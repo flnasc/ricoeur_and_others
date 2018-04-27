@@ -1,0 +1,370 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vkwn0</book-id>
+      <subj-group>
+         <subject content-type="call-number">PG3410.W35 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Tolstoy, Leo, graf, 1828-1910</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism and interpretation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Leo Tolstoy and the Alibi of Narrative</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Weir</surname>
+               <given-names>Justin</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>01</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9780300153842</isbn>
+      <isbn content-type="ppub">0300153848</isbn>
+      <isbn content-type="epub">9780300153859</isbn>
+      <isbn content-type="epub">0300153856</isbn>
+      <publisher>
+         <publisher-name>Yale University Press</publisher-name>
+         <publisher-loc>New Haven; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Justin Weir</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vkwn0"/>
+      <abstract abstract-type="short">
+         <p>One hundred years after his death, Tolstoy still inspires controversy with his notoriously complex narrative strategies. This original book explores how and why Tolstoy has mystified interpreters and offers a new look at his most famous works of fiction.</p>
+      </abstract>
+      <counts>
+         <page-count count="304"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>When Tolstoy states dramatically in his aesthetic treatise<italic>What Is Art?</italic>that “the interpretation of works of art by words only indicates that the interpreter is himself incapable of feeling the infection of art,”¹ one forgets, for just a moment, that Tolstoy himself is using words to tell us how to understand art. For me, the exploration of this kind of mild contradiction is part of what makes reading Tolstoy enjoyable. Sometimes the contradiction is really nothing more than the thematic chiaroscuro of a story, as when Tolstoy celebrates fidelity in vivid stories of adultery, or cherishes the innocence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Guilty Stories</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>Evgeny Irtenev, the recognizably autobiographical hero of Tolstoy’s late unpublished story “The Devil” (1889), is destined for happiness: he has saved his family estate from financial ruin, he has married a woman who loves him, and he even has a lovely new baby girl.¹ One thing alone prevents him from achieving complete happiness: his dire need to continue an affair with a local peasant woman, Stepanida, the “devil” of the story’s title. Ravaged by desire, he ultimately goes insane, vowing in the closing pages of the story either to kill Stepanida or to kill himself in order to end the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>An Author of Absence</title>
+                  </title-group>
+                  <fpage>34</fpage>
+                  <abstract>
+                     <p>All authors confront an empty page that needs to be filled with words, just as all struggle from paragraph to paragraph in deciding how much information the reader requires to understand settings, plots, and characters. Tolstoy was different from most in his extensive use of that which cannot be said or written as the negative space against which his fiction takes shape. For example, in<italic>War and Peace</italic>he asserts so often and so fervently that one can neither plan a battle nor describe it accurately that one wonders how the story grew to the length of four or five</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Legitimate Fictions and Narrative Diversions</title>
+                  </title-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>Tolstoy’s authorial personality, even in the antipoetic guise quoted above, was the fruit of much thought and creative imagination. He considered how his fiction created a public perception of him, and realized that perception would affect how people read his fiction. A work of literature invariably presents some kind of image of the author to the reader, and publication is an opportunity for authors to shape and manage their presentation of a self. What kind of self does Tolstoy craft for his reader? Neither an entirely accessible, unmediated essence (an ideal of the diary), nor an opaque and impersonal source</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Soldiers’ Stories</title>
+                  </title-group>
+                  <fpage>68</fpage>
+                  <abstract>
+                     <p>As one reads this famous passage about how Prince Andrei finally meets Napoleon, one may easily assume the narrator’s, and Andrei’s, point of view. But I do not think it would be difficult for me to ignore my hero if I were slowly bleeding to death on the battlefield. It is as though Tolstoy, whose thoughts of death were sometimes all-consuming, purposely imagined an event in fiction in which another would be struck by the enormity of death in a way he himself was. Napoleon fails to interest a man who is dying—to which one wants to say,<italic>of</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Family Histories</title>
+                  </title-group>
+                  <fpage>97</fpage>
+                  <abstract>
+                     <p>Tolstoy intended Natasha Rostova to be an authentic character. She was unique for Tolstoy, and represents a turning point. “Natasha, in her freshness and vitality, is absolutely unprecedented in previous writings,” as Kathryn Feuer puts it, “which makes it all the more astonishing that Tolstoy seems to have created her so effortlessly.”¹ Whereas Nikolai and Andrei dramatize the metafictional debate about boundaries between fiction and reality, the novel and history, Natasha lives along the boundary of art and life. Readers might at first assume that no such boundary can be distinguished in Natasha’s life, since she is, of all characters,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>The Recovery of Childhood</title>
+                  </title-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>Tolstoy’s early stories use misdirection, diversion, in order to create the experience of real presentness for the reader, who, happily distracted, passes into a world of fiction perhaps without realizing it. The late stories, on the contrary, often feign the simplicity of pure readerly experience, while alienating that experience through complex narrative structures. In the former, Tolstoy struggles against the alibi of narrative, continually collapsing the distance between “elsewhere” and the present “here.” In the latter, however, Tolstoy raises a narrative barrier to purely present meaning; and though his stories often contain what should be a simple moral meaning, they</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The World as Love and Representation</title>
+                  </title-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>Although it might at first seem a simplification, the passage about Levin in the epigraph says much about Tolstoyan aesthetics: love and language go together, and representing love is its own philosophical problem. “The world as<italic>love</italic>and representation” may compare poorly with life itself, but that keeps neither Levin nor Tolstoy from repeatedly trying similar philosophies. Tolstoy was never convinced of his power to communicate his ideas in and through language; he often doubted the ability of literature to break through barriers of social isolation; and he used motifs of romantic betrayal, infidelity, trust, and reconciliation to test the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Anna Incommunicada</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Most readers of Tolstoy will recognize the tragic and angry meditation here as characteristic of Anna’s final hours. Everything seems “dreadful” and “incomprehensible” to her as she loses herself in feelings of loneliness and estrangement. Anna’s thoughts reveal her isolation from the rest of the world and lead her to believe that “to tell another what one feels,” to foster genuine communication would be a sort of miracle.¹</p>
+                     <p>Chernyshevsky coined the term<italic>inner monologue</italic>for Tolstoy’s technique of describing “the secret process through the mediation of which a thought or a feeling is worked out.”² But Anna’s final impressions go</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>The Poetics of Romantic Betrayal</title>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>For Tolstoy, love provides one with special abilities to speak and be understood, and in descriptions of love we find his most startling examples of communication. Contrariwise, the loss of love, the emergence of suspicion, infidelity, and betrayal, all take a terrible toll on communication. A jealous husband in Tolstoy’s world has a difficult time communicating with his wife. Of course, that is nothing extraordinary to anyone who has ever been in love—groundless, or even well-grounded, suspicions somehow interfere with intimate conversations. Something more significant is at stake, however: the tenuous bond in Tolstoy’s fiction between thought and language,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>After Love and Language</title>
+                  </title-group>
+                  <fpage>166</fpage>
+                  <abstract>
+                     <p>As I mentioned in Part I, after listening to a reading of Ivan Turgenev’s short story “First Love” in 1896, Tolstoy remarked that “the ending was a classic.”¹ That ending includes a deathbed letter to the narrator from his father about the “poison” of women’s love.² Tolstoy no doubt appreciated how subtly Turgenev described the devastation wrought by illicit romance in “First Love.” Yet Turgenev’s art advanced and retreated several times, in Tolstoy’s opinion. He later commented: “One page by Dostoevsky is worth a whole novella by Turgenev.”³ By the turn of the century, Tolstoy had taken full account of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>The Role of Violence in Art</title>
+                  </title-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Although<italic>Hadji Murad</italic>(1896–1904) is, as we have seen, a story in which violence seems indivisible from fiction, Tolstoy spent most of the years of its authorship developing, publicizing, and trying to live by the precepts of his religious philosophy. His most important work espousing nonviolence in these years was<italic>The Kingdom of God Is within You</italic>(1893). Nonviolence united Tolstoy’s dreams for a communal brotherhood of man with his increasingly strident opposition to the government and Russian Orthodox church. Was Tolstoy a hypocrite for preaching nonviolence while simultaneously writing sometimes lurid violent fiction? No, not in the ordinary</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>On Tolstoy’s Authorship</title>
+                  </title-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>For the conclusion of this book, I would like to treat Tolstoy’s narrative alibi within the tradition of primarily western theories of authorial intent and identity. Narrative alibi is the term I have been using throughout this study to describe, first, Tolstoy’s exculpatory fictions, works like “Father Sergius,” where the author looks back at his previous sinful life and creates a narrative arc that leads toward conversion and repentance. I have also used the term<italic>narrative alibi</italic>to characterize the gaps or absences that Tolstoy incribed into his early works. Although all literary texts have gaps, Tolstoy especially worked to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.17</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.18</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>275</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vkwn0.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

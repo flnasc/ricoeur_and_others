@@ -1,0 +1,429 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt2jcbw8</book-id>
+      <subj-group>
+         <subject content-type="call-number">B105.P53C36 1997</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Place (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Space and time</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Fate of Place</book-title>
+         <subtitle>A Philosophical History</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Casey</surname>
+               <given-names>Edward S.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>04</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780520276031</isbn>
+      <isbn content-type="epub">9780520954564</isbn>
+      <publisher>
+         <publisher-name>University of California Press</publisher-name>
+         <publisher-loc>Berkeley; Los Angeles; London</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>1997</copyright-year>
+         <copyright-holder>The Regents of the University of California</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.1525/j.ctt2jcbw8"/>
+      <abstract abstract-type="short">
+         <p>In this imaginative and comprehensive study, Edward Casey, one of the most incisive interpreters of the Continental philosophical tradition, offers a philosophical history of the evolving conceptualizations of place and space in Western thought. Not merely a presentation of the ideas of other philosophers,<italic>The Fate of Place</italic>is acutely sensitive to silences, absences, and missed opportunities in the complex history of philosophical approaches to space and place. A central theme is the increasing neglect of place in favor of space from the seventh century A.D. onward, amounting to the virtual exclusion of place by the end of the eighteenth century. Casey begins with mythological and religious creation stories and the theories of Plato and Aristotle and then explores the heritage of Neoplatonic, medieval, and Renaissance speculations about space. He presents an impressive history of the birth of modern spatial conceptions in the writings of Newton, Descartes, Leibniz, and Kant and delineates the evolution of twentieth-century phenomenological approaches in the work of Husserl, Merleau-Ponty, Bachelard, and Heidegger. In the book's final section, Casey explores the postmodern theories of Foucault, Derrida, Tschumi, Deleuze and Guattari, and Irigaray.</p>
+      </abstract>
+      <counts>
+         <page-count count="506"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.3</book-part-id>
+                  <title-group>
+                     <title>Preface:</title>
+                     <subtitle>Disappearing Places</subtitle>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xvii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Avoiding the Void:</title>
+                     <subtitle>Primeval Patterns</subtitle>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>Following Nietzsche’s admonition, in<italic>The Genealogy of Morals,</italic>that “man would sooner have the void for his purpose than be void of purpose,”¹ there is an area of human experience in which, indeed, the void plays a constitutive and recognized role. This occurs in theories of creation that concern themselves with how things came into being in the first place. “In the first place”: a quite problematic posit. For if there is a cosmic moment in which no<italic>things</italic>yet exist, it would seem that<italic>places</italic>could not exist at that “time” either. Although places are not things in any</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Mastering the Matrix:</title>
+                     <subtitle>The Enuma Elish and Plato’s Timaeus</subtitle>
+                  </title-group>
+                  <fpage>23</fpage>
+                  <abstract>
+                     <p>Once we admit that the panic-producing idea of the void is always (in advance) a matter of place—and is thus not reducible to the daunting nothingness, the strict no—place, that occasions the panic—we must face a second major issue. This is the propensity not merely to fill the void as a way of allaying anxiety but, more especially, to<italic>master</italic>the void. To master is not to bring into being in the first place but to control and shape that which has already been brought into existence. It is still a matter of creation, at least in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Place as Container:</title>
+                     <subtitle>Aristotle’s Physics</subtitle>
+                  </title-group>
+                  <fpage>50</fpage>
+                  <abstract>
+                     <p>That place was a continuing cynosure of ancient Greek thought is abundantly evident in Aristotle’s treatment of the topic: for Aristotle,<italic>where</italic>something is constitutes a basic metaphysical category.¹ Except for the extraordinary cases of the Unmoved Mover and the heavens<italic>(ouranos)</italic>taken as a single whole, every perishable sublunar substance (including the earth as a whole) is placebound, having its own “proper place” as well as existing in the “common place” provided by the heavens.² Thanks to this stress on the importance of place for each particular “changeable body”—that is, changeable with respect to motion or size—the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.8</book-part-id>
+                  <title-group>
+                     <title>Interlude</title>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract>
+                     <p>In Part I we witnessed a development—or, more in keeping with Aristotle's thinking, an “envelopment”—of remarkable scope. The scope is impressive not just in terms of time (a period of approximately two thousand years) but also in terms of theme: all the way from<italic>muthos</italic>to<italic>logos.</italic>Yet Plato’s<italic>Timaeus</italic>combines both of these latter extremes in a single text: hence its position in the middle of Part I, flanked on one side by imaginative mythicoreligious accounts of creation and on the other side by Aristotle’s sober descriptions. Nevertheless, this progression in time and theme is no simple</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Emergence of Space in Hellenistic and Neoplatonic Thought</title>
+                  </title-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>Part of the perennial appeal of Aristotle’s conception of place as something confining and confined is doubtless the philosophical support it offers to human beings’ longing for cozy quarters—not merely for adequate shelter but for boundaries that embrace, whether these boundaries belong to decorated rooms in the home or to indecorous glades in the forest primeval. But human beings (and doubtless other animals) also long for wide open spaces and thus for lack of containment, perhaps even for limitlessness. The cozy can be<italic>too</italic>confining, and just to peer out beyond thick walls or through dense treetops into the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>The Ascent of Infinite Space:</title>
+                     <subtitle>Medieval and Renaissance Speculations</subtitle>
+                  </title-group>
+                  <fpage>103</fpage>
+                  <abstract>
+                     <p>From Archytas’s challenging conundrum we can derive a more momentous question: not whether an outstretched hand or staff can reach out into something (or nothing) but whether<italic>the whole world</italic>(Le., the physical cosmos as one entity) can move. And if the world moves,<italic>in what, into what,</italic>does it move? These questions vexed philosophers and theologians of the Middle Ages—construing this period as the entire era stretching between A.D. 600 (a date that marks the demise of Hellenistic and Neoplatonic philosophy) and A.D. 1500 (when the Renaissance was fully alive in Italy). Whichever way you answer such questions,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.11</book-part-id>
+                  <title-group>
+                     <title>Interim</title>
+                  </title-group>
+                  <fpage>133</fpage>
+                  <abstract>
+                     <p>Descending from its position as a supreme term within Aristotle’s protophenomenological physics, place barely survived discussion by the end of seventeenth century. By the end of the eighteenth century, it vanished altogether from serious theoretical discourse in physics and philosophy. At moment, we can say of place what Aristotle believes has to be said of time: “It either is not at all or [only] scarcely and dimly” (<italic>Physics</italic>217b34). How this radical dissolution and disappearance of place occurred—how place ceded place fully to space in the course of just two centuries—is the subject of the next four chapters,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Modern Space as Absolute:</title>
+                     <subtitle>Gassendi and Newton</subtitle>
+                  </title-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>To turn to the seventeenth century is to plunge into a turbulent world in which alchemy vied with physics, theology with philosophy, politics with religion, nations with each other, individuals with their anguished souls. No single treatment can do justice to this multifarious period of human history. We can, however, pick our way through it by attending to an assortment of figures who occupied themselves expressly with questions of place and space: Gassendi, Newton, Descartes, Locke, and Leibniz. Each of these thinkers—with the exception of Locke—was also a prominent scientist, and this double identity is no accident. To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Modern Space as Extensive:</title>
+                     <subtitle>Descartes</subtitle>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>Henry More, who had enormous influence on Isaac Newton (the latter’s idea of “absolute space” is, arguably, a tidied-up version of More’s “Infinite Immovable Extended”), found in René Descartes a much more recalcitrant thinker. Beneath the<italic>politesse</italic>of their correspondence in the last year of Descartes’s life, one detects an abyss of difference opening up. They differ not just because More is a spiritualist and Descartes a materialist but, more crucial, because of their variant views on extension—which, by the middle of the seventeenth century, had become the key to the nature of space. It is revealing that already</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Modern Space as Relative:</title>
+                     <subtitle>Locke and Leibniz</subtitle>
+                  </title-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>We have just witnessed a revealing vacillation—by no means the first we have encountered—between an absolutist and a relativist conception of space: between the view that space is one vast (and usually empty) arena and the alternative view that it consists entirely in relations between things. Descartes, in attempting to do justice to both conceptions by his distinction between internal and external place, ends by doing justice to neither. His compromise is as unsatisfying as were earlier middle-ground solutions to the problem of the void (e.g., the idea of the world as a finite plenary presence surrounded by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Modern Space as Site and Point:</title>
+                     <subtitle>Position, Panopticon, and Pure Form</subtitle>
+                  </title-group>
+                  <fpage>180</fpage>
+                  <abstract>
+                     <p>Leibniz displayed a special alertness to the metaphor of<italic>organism</italic>—its dynamical aspects, its animating force, its inherent vitalism. Far from being something merely mechanistic, the organic body of the monad—which we have seen to be intimately tied to place—is a “living being” or “divine machine.”¹ Since every monad is in effect a world filled with monads at increasingly minuscule levels, organicity extends to everything in the end: “There is a world of creatures, living beings, animals, entelechies, souls, in the smallest particle of matter.”² Hence every bit of matter can be compared to a pond filled with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.16</book-part-id>
+                  <title-group>
+                     <title>Transition</title>
+                  </title-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>Where have all the places gone? In the long wide wake of Aristotle, the answer has become increasingly evident: submerged in space. Aristotle’s ingenious effort to “bury space in bodies”—to foreclose it in the tightly fitting places tailored for physical bodies as their most intimately containing surface structures—was foredoomed. The yawning emptiness of the void, the “gap”<italic>(chaos)</italic>lampooned by Aristophanes and first examined systematically by Atomists, proved irresistible to Aristotle’s successors, beginning with Strato in the third century B.C. Eight hundred years later, Philoponus launched outright attack on place’s putative power, above all the idea that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>By Way of Body:</title>
+                     <subtitle>Kant, Whitehead, Husserl, Merleau-Panty</subtitle>
+                  </title-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>The most effective way to appreciate the importance of place again is not to approach it as a total phenomenon, to compare its virtues en bloc to those of space in a single systematic treatment. Such a totalizing treatment would lead to nothing but vacant generalities. What is needed is a new and quite particular<italic>way into</italic>place, a means of reconnecting with it in its very idiosyncrasy. Given the crushing monolith of space in the modern era, the best return to place through what Freud calls a “narrow defile”¹—not, however, the defile dream (which is what Freud had</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.18</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Proceeding to Place by Indirection:</title>
+                     <subtitle>Heidegger</subtitle>
+                  </title-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>What, on Freud’s view, dreams provide for an understanding of the unconscious mind—a<italic>via regia,</italic>a “royal road”—the body has provided for place, which by the end of the nineteenth century had come to be as repressed the libidinal contents of the unconscious mind. Nevertheless, promising productive as bodily inroads into place have shown themselves to be, they not exhaust the modes of effective reentry to the place-world. In this chapter we shall consider the contributions of someone who neglected the role of body in implacement but who managed to find other means of access to place as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.19</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Giving a Face to Place in the Present:</title>
+                     <subtitle>Bachelard, Foucault, Deleuze and Guattari, Derrida, Irigaray</subtitle>
+                  </title-group>
+                  <fpage>285</fpage>
+                  <abstract>
+                     <p>In tracing out Heidegger’s thinking about place and “various phenomenal spatialities” such as region and neighborhood, we have pursued place into some of its more arcane corners and subtler surfaces. We have learned much about the panoply of meanings that place can exhibit as well as the range of roles it can assume in widely divergent contexts. If the effect is kaleidoscopic—leading us to savor place’s “free scope,” its<italic>Zeit-Spiel-Raum</italic>—it has allowed us to recognize, indeed to re-recognize, the power of place. Earlier encomia of place (articulated at the moment of its dawning recognition in the West) tend</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.20</book-part-id>
+                  <title-group>
+                     <title>Postface:</title>
+                     <subtitle>Places Rediscovered</subtitle>
+                  </title-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>Irigaray’s challenging reading of Aristotle’s<italic>Physics</italic>reanimates an ancient (and very recent) question: How are body and place related? A first answer, given by Aristotle himself, posits a rigid material body in place by virtue of its sheer contiguity with the inner surface of what immediately surrounds it—a strictly physical intimacy that works by close containment. This containment acts in effect to cap and control the vagrant and violent movements of elemental qualities and powers as depicted in Plato’s<italic>Timaeus,</italic>a cosmogonic tale in which the tumult of<italic>chōra</italic>gives way to the order of determinate<italic>topoi.</italic>Whether this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.21</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>343</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt2jcbw8.22</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>479</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

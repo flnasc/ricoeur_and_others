@@ -1,0 +1,593 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1z27hnx</book-id>
+      <subj-group>
+         <subject content-type="call-number">HV16.F66 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Fondations</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Œuvres de bienfaisance</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philanthropie</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Les fondations philanthropiques:de nouveaux acteurs politiques?</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Sous la direction de</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Fontan</surname>
+               <given-names>Jean-Marc</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Elson</surname>
+               <given-names>Peter R.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>Lefèvre</surname>
+               <given-names>Sylvain</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>10</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760547698</isbn>
+      <isbn content-type="epub">9782760547704</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+         <publisher-loc>Canada</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Presses de l’Université du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1z27hnx"/>
+      <abstract abstract-type="short">
+         <p>Ouvrage clé permettant de comprendre le rôle politique des fondations subventionnaires, le présent collectif est la première grande synthèse de l’histoire de la philanthropie canadienne et québécoise. Dès le début du XXe siècle, la dimension sociopolitique des organisations philanthropiques a été remise en question : quelle légitimité d’action pouvaient avoir des acteurs privés fortunés dans le domaine de l’entraide ? Cet ouvrage répond à cette question en se basant sur une variété de travaux dirigés par différentes équipes de recherche. Plusieurs thèmes centraux sont abordés : survol historique et comparatif du rôle des fondations, au Québec, au Canada et ailleurs ; proposition de classification théorique et empirique des fondations ; caractérisation des relations entre les différents acteurs de l’éco­système philanthropique ; identification des stratégies mobilisées par ces différents acteurs ; réflexions sur le rôle des fondations dans la création de politiques publiques… Ce livre propose une vue d’ensemble éclairante du secteur de la philanthropie subventionnaire qui, malgré son champ d’action restreint, demeure fondamental dans les reconfigurations sociales en cours.</p>
+      </abstract>
+      <counts>
+         <page-count count="376"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.3</book-part-id>
+                  <title-group>
+                     <title>LISTE DES FIGURES ET TABLEAUX</title>
+                  </title-group>
+                  <fpage>XV</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.4</book-part-id>
+                  <title-group>
+                     <title>LISTE DES SIGLES</title>
+                  </title-group>
+                  <fpage>XIX</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fontan</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Elson</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lefèvre</surname>
+                           <given-names>Sylvain</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Les fondations subventionnaires, de nouveaux acteurs politiques? Telle est la question à laquelle nous tenterons de répondre par la production de cet ouvrage collectif. Les différents auteurs qui ont contribué à sa réalisation apportent, chacun à leur façon, des éléments de réponse à cette question. Rappelons que cette interrogation date. Dès le début du XX<sup>e</sup>siècle, avec le développement des premières fondations subventionnaires étatsuniennes de l’ère moderne, la dimension sociopolitique de ces organisations a été fortement questionnée. Ce questionnement critique a d’ailleurs donné lieu à des relations tendues entre des dirigeants de ces nouvelles organisations et la présidence de l’État</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>LES FONDATIONS EN PERSPECTIVE COMPARÉE HISTORIQUE (EUROPE, ÉTATS-UNIS, CANADA, QUÉBEC)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lefèvre</surname>
+                           <given-names>Sylvain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rigillo</surname>
+                           <given-names>Nicole</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>L’action philanthropique s’enracine dans une histoire longue. On l’observe dès l’Antiquité grecque, notamment sous la forme de l’évergétisme (Veyne, 1976). De façon générale, ce type d’action permet une redistribution de ressources auprès de personnes démunies ainsi que l’allocation de fonds pour l’accomplissement de grands travaux dits d’intérêt public. Les ressources mobilisées pour la bienfaisance sont principalement financières. Elles proviennent de surplus engendrés par diverses activités économiques ou sont le fruit d’activités consacrées à la production d’un capital qui est réservé en totalité à des activités de bienfaisance. Cette histoire de la philanthropie se compose de différentes phases, où certaines périodes</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>UNE CHARITÉ EN MUTATION, MODERNITÉ ET PHILANTHROPIE AU QUÉBEC ENTRE 1840 ET 1917:</title>
+                     <subtitle>Une étude historique exploratoire</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Champagne</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Dans leurs travaux sur la philanthropie canadienne, Fontan, Lévesque et Charbonneau (2011) constatent la méconnaissance du monde de la recherche de ce secteur d’activité. Leurs observations ont notamment rappelé maintes lacunes quant à la compréhension de la périodisation du don au Canada. En réponse à ces manquements, Charbonneau (2012a, 2012b) et Mauduit (2011) ont amorcé un cycle de recherche. Charbonneau en est ainsi arrivé à une première périodisation inspirée des « âges d’or » de la philanthropie de Bishop et Green (2008). Sous cet angle, la naissance de la philanthropie moderne canadienne est marquée par l’adoption de l’<italic>Income War Tax</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>UN ÉCLAIRAGE EUROPÉEN SUR LES FONDATIONS PRIVÉES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Margier</surname>
+                           <given-names>Antonin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Les fondations étatsuniennes sont présentées par plusieurs comme le modèle le plus abouti de fondation et celui qu’il conviendrait d’exporter ailleurs. Nous souhaitons dans ce chapitre décentrer le regard de cellesci, notamment en nous intéressant au cas des fondations en Europe. Ces fondations, souvent moins puissantes et moins ancrées dans le paysage de la philanthropie que leurs consoeurs nordaméricaines, y assurent pourtant une présence, qui varie selon les pays et les évènements historiques. À travers une analyse des écrits scientifiques qui leur sont consacrés, nous visons, dans ce chapitre, à dresser un portrait des fondations européennes ainsi qu’à présenter les</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>REGARDS CROISÉS SUR LA CLASSIFICATION DES FONDATIONS:</title>
+                     <subtitle>Entre catégories formelles et constructions théoriques</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lefèvre</surname>
+                           <given-names>Sylvain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Khovrenkov</surname>
+                           <given-names>Iryna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>L’univers des fondations est très hétérogène. Certaines fondations comptent des centaines de salariés alors que la plupart n’en ont aucun ou très peu. Certaines sont intrinsèquement liées à une famille et d’autres pleinement institutionnalisées. Certaines ont une conception charitable du don et d’autres le perçoivent comme un investissement. Certaines ne financent qu’une seule structure locale, comme un hôpital, tandis que d’autres ont des réseaux internationaux et des programmes très diversifiés. Par ailleurs, l’utilisation même du terme<italic>fondation</italic>peut être trompeur : au sens de l’Agence du revenu du Canada, la Fondation One Drop ou la Fondation David Suzuki ne sont</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>L’INFORMATION ET LES OUTILS POUR LA RECHERCHE AUPRÈS DES FONDATIONS SUBVENTIONNAIRES CANADIENNES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Brouard</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>La culture philanthropique présente plusieurs visages qui, selon les expressions qu’ils arborent, influencent la société québécoise et canadienne (Institut Mallet, 2014). Cette culture est ainsi le véhicule de certaines façons de faire le bénévolat, de s’engager dans une cause sociale ou de consentir des dons financiers. Cette influence, et les pratiques qu’elles entraînent, soulève des enjeux. Celui des ressources consacrées par nos gouvernements par le système fiscal et par des partenariats privilégiant et orientant certaines actions gouvernementales est particulièrement préoccupant. On estime, par exemple, que les dépenses fiscales fédérales se situent pour 2013 à 2 530 millions de dollars pour</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>LES DONS DES FONDATIONS AU CANADA ET AUX ÉTATS-UNIS:</title>
+                     <subtitle>Une analyse comparée des données</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rigillo</surname>
+                           <given-names>Nicole</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rabinowitz-Bussel</surname>
+                           <given-names>Mirle</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lajevardi</surname>
+                           <given-names>Nazita</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stauch</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>Au Canada et aux ÉtatsUnis, le nombre de fondations subventionnaires a connu une hausse constante au cours des cinquante dernières années, tout comme le nombre d’oeuvres de bienfaisance et d’organismes non gouvernementaux fournissant des services sociaux et des biens publics, de manière générale (Cammett et MacLean, 2014). Or, en raison d’un manque de recherches scientifiques dans ce domaine, les dons des fondations au Canada demeurent en quelque sorte une<italic>terra incognita</italic>, les fondations subventionnaires ayant à ce jour été l’objet d’à peine une poignée d’articles évalués par les pairs. Aucune des très nombreuses études comparatives portant sur les fondations subventionnaires</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>LE PORTRAIT DES DONS OCTROYÉS PAR DES FONDATIONS PRIVÉES ET PUBLIQUES AUX ORGANISMES COMMUNAUTAIRES DE LA RÉGION DE MONTRÉAL (2005 ET 2011)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morin</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <role>avec la collaboration de</role>
+                        <name name-style="western">
+                           <surname>Auger</surname>
+                           <given-names>Gabrièle Laliberté</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>181</fpage>
+                  <abstract>
+                     <p>Le principal bailleur de fonds des organismes communautaires à Montréal et dans l’ensemble du Québec est l’État, principalement le gouvernement du Québec. Or l’apparition, dans la seconde moitié des années 1990, de la Fondation Lucie et André Chagnon dans le paysage du financement des organismes communautaires avec des programmes cofinancés en partenariat avec le gouvernement du Québec, comme Québec en forme et Avenir d’enfants, a suscité un débat sur la place des fondations privées dans le financement des organismes communautaires, débat largement centré sur les actions de la Fondation Lucie et André Chagnon ellemême. Or, avant la création de cette</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>LES RAPPORTS ENTRE ORGANISMES COMMUNAUTAIRES ET FONDATIONS SUBVENTIONNAIRES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Morin</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="author">assisté de</role>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Darbouze</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Auger</surname>
+                           <given-names>Gabrièle Laliberté</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gropp</surname>
+                           <given-names>Gessica</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mokrani</surname>
+                           <given-names>Sofiane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>Les fondations privées dont l’action en matière de développement social remonte à plus d’un siècle aux ÉtatsUnis (Karl et Katz, 1981; Pearson, 2003) sont de plus en plus présentes au Québec sur le terrain du financement des organismes communautaires. Depuis une vingtaine d’années, on voit notamment s’implanter de nouvelles fondations privées familiales francophones telles la Fondation Marcelle et Jean Coutu et la Fondation Lucie et André Chagnon, mises respectivement sur pied en 1985 et en 2000, qui octroient des dons à divers organismes communautaires. Leurs contributions financières à l’action communautaire s’ajoutent à celles de fondations privées familiales anglophones déjà établies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>LA STRATÉGIE DES FONDATIONS:</title>
+                     <subtitle>Les cas de Centraide du Grand Montréal et de la Fondation Lucie et André Chagnon</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hafsi</surname>
+                           <given-names>Taïeb</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harrisson</surname>
+                           <given-names>Denis</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>243</fpage>
+                  <abstract>
+                     <p>Dans ce chapitre, nous décrivons la nature des activités des fondations et discutons de leurs stratégies. Comme les fondations forment un regroupement hétéroclite avec des activités et des préoccupations qui peuvent être totalement différentes, ce qui est valable en matière de stratégie pour un type de fondation, par exemple la fondation du CHU SainteJustine, est très différent de ce qui peut l’être pour un autre type, par exemple les fondations à vocation d’aide internationale. Pour résoudre cette difficulté, et sans entrer dans le détail de la classification des fondations, nous nous concentrons dans cet article sur les fondations dont la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>UNE MOBILISATION IMPROBABLE:</title>
+                     <subtitle>La prise de parole publique des fondations québécoises contre les inégalités</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berthiaume</surname>
+                           <given-names>Annabelle</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lefèvre</surname>
+                           <given-names>Sylvain</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>Comme l’indiquent Peter Elson et Sara Hall dans le chapitre suivant, les fondations peuvent s’engager de différentes manières dans le débat public, c’estàdire à des stades différents de la genèse et de la mise en oeuvre d’une politique publique mais également selon des registres distincts : produire de la recherche, engager sa réputation, bâtir des coalitions, etc. Néanmoins, un certain nombre de contraintes, liées tant à des cadres légaux sur la distinction entre bienfaisance et politique qu’à l’institutionnalisation d’une vision particulière du rôle légitime des fondations, les tiennent le plus souvent loin de la scène politique. La position de surplomb</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>LE PORTRAIT ET L’ANALYSE DE L’ENGAGEMENT DES FONDATIONS SUBVENTIONNAIRES CANADIENNES DANS LES POLITIQUES PUBLIQUES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Elson</surname>
+                           <given-names>Peter R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hall</surname>
+                           <given-names>Sara</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>283</fpage>
+                  <abstract>
+                     <p>Nous pourrions considérer que les politiques publiques représentent une reconnaissance institutionnelle et une volonté de produire du bien public. Du point de vue des actions posées par des fondations canadiennes voulant engendrer un changement sociétal, nous considérons que l’énoncé politique permet de combler l’incertitude relative à la possibilité ou à la nécessité de changement, représente une forme d’engagement collectif à aller dans cette direction et à travailler à changer les choses. Au Canada, les fondations subventionnaires occupent une position singulière, car, contrairement aux autres organismes sans but lucratif et de bienfaisance canadiens, nombre de fondations disposent d’actifs considérables qui les</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.17</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION.</title>
+                     <subtitle>Penser le secteur philanthropique en termes d’écosystème écologique à visée éthique et à portée esthétique</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fontan</surname>
+                           <given-names>Jean-Marc</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lévesque</surname>
+                           <given-names>Benoît</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>311</fpage>
+                  <abstract>
+                     <p>Depuis la publication au printemps 2011 du numéro de la revue<italic>Lien social et politiques</italic>sur la philanthropie et les fondations privées (Lefèvre et Charbonneau, 2011), le constat que nous y présentions sur le faible niveau de développement des connaissances au Canada et au Québec sur cette question a bien changé. Premièrement, entre 2014 et 2017, un vaste programme de recherche partenariale sur la philanthropie canadienne a été soutenu par le Conseil de recherche en sciences humaines du Canada (CRSH), lequel programme a donné naissance au Laboratoire montréalais de recherche partenariale sur la philanthropie canadienne (PhiLab 1). Deuxièmement, seulement sur</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.18</book-part-id>
+                  <title-group>
+                     <title>NOTICES BIOGRAPHIQUES</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1z27hnx.19</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>353</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

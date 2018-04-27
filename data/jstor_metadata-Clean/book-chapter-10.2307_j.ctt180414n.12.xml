@@ -1,0 +1,534 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt180414n</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Critical Trauma Studies</book-title>
+         <subtitle>Understanding Violence, Conflict and Memory in Everyday Life</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Casper</surname>
+               <given-names>Monica J.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Wertheimer</surname>
+               <given-names>Eric</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>03</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781479896561</isbn>
+      <isbn content-type="epub">9781479828425</isbn>
+      <isbn content-type="epub">1479828424</isbn>
+      <publisher>
+         <publisher-name>NYU Press</publisher-name>
+         <publisher-loc>New York; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>New York University</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt180414n"/>
+      <abstract abstract-type="short">
+         <p>Trauma is a universal human experience. While each person responds differently to trauma, its presence in our lives nonetheless marks a continual thread through human history and prehistory. In<italic>Critical Trauma Studies</italic>, a diverse group of writers, activists, and scholars of sociology, anthropology, literature, and cultural studies reflects on the study of trauma and how multidisciplinary approaches lend richness and a sense of deeper understanding to this burgeoning field of inquiry. The original essays within this collection cover topics such as female suicide bombers from the Chechen Republic, singing prisoners in Iranian prison camps, sexual assault and survivor advocacy, and families facing the devastation of Hurricane Katrina. As it proceeds,<italic>Critical Trauma Studies</italic>never loses sight of the way those who study trauma as an academic field, and those who experience, narrate, and remediate trauma as a personal and embodied event, inform one another. Theoretically adventurous and deeply particular, this book aims to advance trauma studies as a discipline that transcends intellectual boundaries, to be mapped but also to be unmoored from conceptual and practical imperatives. Remaining embedded in lived experiences and material realities,<italic>Critical Trauma Studies</italic>frames the field as both richly unbounded and yet clearly defined, historical, and evidence-based.</p>
+      </abstract>
+      <counts>
+         <page-count count="320"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Within Trauma:</title>
+                     <subtitle>An Introduction</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WERTHEIMER</surname>
+                           <given-names>ERIC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CASPER</surname>
+                           <given-names>MONICA J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The Sonoran Desert in autumn, after the heat, is beautiful. Hackberries and wolfberries emerge and barrel cacti blossom. Wildflowers open out in magenta, saffron, Indian red, and burnt orange, feeding butterflies and bees. Snakes map their route to winter sleep, lizards grow sluggish, and winged raptors—wintering hawks, kestrels, falcons, and owls—soar above the cover of fallen petals from summer-blooming perennials. And yet, the pastoral desert is also predatory. Lacerated mesquite trees bleed black sap. Cacti of all shapes and sizes protect themselves with spikes and spurs. Deadly heat, especially in high summer, leeches moisture from flesh, leaf, bone,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Trauma Is as Trauma Does:</title>
+                     <subtitle>The Politics of Affect in Catastrophic Times</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>STEVENS</surname>
+                           <given-names>MAURICE E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>I love stories and storytelling, and I love that feeling of being in the presence of a good storyteller. I’m sure you’ve experienced it. That sense of being spoken to, being spoken of, reflecting or laughing individually and feeling part of something else, something beyond your individuality, your subjectivity. I am fascinated with narratives, too. Sometimes they contain stories, sometimes not, but I have long been interested in how narratives of individual and communal “self-hood” provide us with ideas about who we are, or think we are, and present us with visions of our place in the cosmos, in history,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>“She Was Just a Chechen”:</title>
+                     <subtitle>The Female Suicide Bomber as a Site of Collective Suffering in Wartime Chechen Republic</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BANNER</surname>
+                           <given-names>FRANCINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>From 2000 to 2004, Chechen women composed more than 40 percent of those who committed suicide attacks against the Russian state. While male fighters engaged in suicide missions, driving explosive-laden trucks into military compounds, it was women alone who donned the visceral suicide belt. This chapter explores the ways in which these suicide bombings by women manifested within their own bodies the geopolitical trauma written on the Chechen national body during the Russo-Chechen Wars.</p>
+                     <p>Anthropologists, sociologists, and trauma studies researchers have made vital inroads into documenting and explaining the somatic effects of profound trauma (Wilson 2004; Kleinman 1997; Weiss 1997;</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Naming Sexual Trauma:</title>
+                     <subtitle>On the Political Necessity of Nuance in Rape and Sex Offender Discourses</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FAHS</surname>
+                           <given-names>BREANNE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>The question of naming—that is, the deployment of language to describe and create meaning around our experiences—remains as fraught with power, culture, and conflict as any in critical trauma studies. Choosing to put words to violent and frankly unspeakable experiences is a task often undertaken under duress, and this is particularly so within the complicated terrain of<italic>sexualized</italic>violence (Brison 2003). When considering the power of a name to shape experience, I recall a recent experience I had watching<italic>The Girl with the Dragon Tattoo</italic>(2010), the much-acclaimed film based on Stieg Larsson’s (2008) bestseller. It is about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Conceptualizing Forgiveness in the Face of Historical Trauma</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOMAN</surname>
+                           <given-names>CARMEN</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>KELLEY</surname>
+                           <given-names>DOUGLAS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>78</fpage>
+                  <abstract>
+                     <p>A common response to transgression is confusion about how one goes about the process of forgiveness and, perhaps more centrally, whether one should forgive at all (Tracy 1999; Mullet, Girard, and Bakhshi 2004). Consider Simon Wiesenthal’s<italic>The Sunflower: On the Possibilities and Limits of Forgiveness</italic>, in which he asks religious and political leaders if they, in his place, would have forgiven a Nazi SS officer who, on his deathbed, asked Wiesenthal for forgiveness for crimes he committed against the Jews. Responses from those who reply to Wiesenthal’s question (fifty-three responses constitute the second half of his book) reveal that the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Bahareh:</title>
+                     <subtitle>Singing without Words in an Iranian Prison Camp</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TALEBI</surname>
+                           <given-names>SHAHLA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>It was a hot summer in 1983 when I first saw Bahareh, in an overpopulated ward in Evin, one of the most notorious political prisons in Iran. The ward was crowded with hundreds of women of different ages and backgrounds and about thirty children of both sexes from infancy to eight years old. In the evenings, as if gushed out of a flooded ant hole, they poured out of their rooms into the hallway and walked, alone or in pairs, creating a cacophony in which words from different conversations intercepted one another. In their midst, the rusty voice of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Voices of Silence:</title>
+                     <subtitle>On Speaking from within the Void (A RESPONSE TO SHAHLA TALEBI)</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHWAB</surname>
+                           <given-names>GABRIELE M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>The paradox of silence in literature has forever intrigued writers and philosophers. Among the many different types of silence, Beckett refers to the silence of what is being invoked indirectly, but not said explicitly, that is, the silence between phrases that we can hear in the intervals of a statement. This is a deeply literary silence not only because poetic language is generated by modes of indirection but also because, almost paradoxically, it is often this silence in the interstices of language that breathes life into literature, endowing it with the ability to engage readers with the limits of what</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Future’s Past:</title>
+                     <subtitle>A Conversation about the Holocaust with Gabriele M. Schwab</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MATUŠTÍK</surname>
+                           <given-names>MARTIN BECK</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schwab</surname>
+                           <given-names>Gabriele M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>Martin Beck Matuštík: In Holocaust studies, “second generation” has come to describe children of the survivors. Among key formative impacts on this area would be, for example, Holocaust literature as well as memoir narrative (Helen Epstein, Primo Levi, Elie Wiesel), the Yale Video Archive Testimony project (Larry Langer, Geoffrey Hartman, Shoshana Felman, Dori Laub), and theoretical struggles with representation, meaning, and faith including the memorial, political, and clinical repair work of coming to terms with the past and open future. It took you many years of courage, thinking, listening, and personal working through to offer your testimony as a member</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>“No Other Tale to Tell”:</title>
+                     <subtitle>Trauma and Acts of Forgetting in The Road</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WICKS</surname>
+                           <given-names>AMANDA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>As a temporal disruption, trauma dislocates individuals from the integrated, narrative context of personal memory and collective history.¹ Thrust into the role of survivor, trauma victims often fail to understand and navigate their new position, since trauma initially exists as an absence in the mind.² Following the initial failure to remember, trauma comes to be situated on the margins of consciousness—implicit memory and dreams—as the brain takes on the work of comprehension and meaning making that cannot yet be faced when cognizant.³ Those who emerge into trauma’s<italic>after</italic>find themselves confronting endless repetitions of their experience, an experience</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Body Animations (or, Lullaby for Fallujah):</title>
+                     <subtitle>A Performance</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ORR</surname>
+                           <given-names>JACKIE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>What can live performance become when reinscribed for the page? How does a writing voice (without breath) generate the embodied animations, and invite the intimate architextures, of the timespace of performance? Torn from the “real time” of its never fully real staging, performance struggles to reenact on the page its peculiar obsession: to inhabit the magical, archaic economies of possession and dispossession. Hands empty. Hands full. Empty. Repeat. If trauma often vibrates at the collective edge of live performance, then where does trauma dwell when the performative text is held in your hands, alone? How does trauma’s body transform when</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>First Responders:</title>
+                     <subtitle>A Pedagogy for Writing and Reading Trauma</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HAMILTON</surname>
+                           <given-names>AMY HODGES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>As I write this, my three-year-old naps upstairs, unaware that she is fighting for her life. She was diagnosed with acute lymphoblastic leukemia (ALL) in March, and my research questions have become terrifyingly and personally vital. I wonder anew: how does the writing classroom link with trauma studies, and does writing really have the power to heal?</p>
+                     <p>My toddler’s cancer diagnosis did not bring me to this research interest; my students did, fourteen years ago. It was my first semester as a college-level writing teacher, and Bill was the last student to turn in a narrative essay. He was two</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Answering the Call:</title>
+                     <subtitle>Crisis Intervention and Rape Survivor Advocacy as Witnessing Trauma</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JACKSON</surname>
+                           <given-names>DEBRA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>After years of struggle with their disconnection, in 1999 I found a touchpoint between my activism and academic life.¹ I had been a Crisis Center volunteer for two years when I was introduced to the concept of witnessing trauma at the Feminist Visions of the Future symposium at Purdue University. Feminist philosopher Kelly Oliver’s presentation on witnessing ethics resonated with my experiences of answering crisis calls and advocating on behalf of rape survivors. I was immediately struck by the fact that the central skills of crisis intervention enacted the process of valuing experiential truth over empirical truth and the double</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.16</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Documenting Disaster:</title>
+                     <subtitle>Hurricane Katrina and One Family’s Saga</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HANKINS</surname>
+                           <given-names>REBECCA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ANOKYE</surname>
+                           <given-names>AKUA DUKU</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>In the United States, “trauma,” “disaster,” and “catastrophe” have often been defined as moments that reveal our best imagined communities, that bring us together in spirit and action, events that make us proud of our national belonging. After the bombing of Pearl Harbor and, more recently, after the terrorist attacks of September 11, 2001, historians, librarians, educators, social scientists, and archivists have been called upon to chronicle the lives of survivors—to capture and record their stories so as to ensure that we have not only the “official” accounts, but the reactions of those impacted beneath the view of political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.17</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>A Cure for Bitterness</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALLISON</surname>
+                           <given-names>DOROTHY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>244</fpage>
+                  <abstract>
+                     <p>Almost twenty years ago, I started writing an essay called “A Cure for Bitterness.” I was invited to go talk to a bunch of psychologists. I was going to take the gig because it was in Santa Cruz, and I figured I could run off to the beach and they’d put me up in a nice hotel because psychologists have a lot of money. And then I started thinking what I want to say to these … I’m going to use bad language. Be warned. What did I want to say to these sons of bitches? As different from me</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.18</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHY</title>
+                  </title-group>
+                  <fpage>257</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.19</book-part-id>
+                  <title-group>
+                     <title>ABOUT THE CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt180414n.20</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>287</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

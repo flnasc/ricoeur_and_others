@@ -1,0 +1,493 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7tbz4</book-id>
+      <subj-group>
+         <subject content-type="call-number">QA42.C57 2012</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mathematics</subject>
+         <subj-group>
+            <subject content-type="lcsh">Language</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Communication in mathematics</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Mathematics</subject>
+         <subj-group>
+            <subject content-type="lcsh">History</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Logic, Symbolic and mathematical</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Mathematics</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Circles Disturbed</book-title>
+         <subtitle>The Interplay of Mathematics and Narrative</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>DOXIADIS</surname>
+               <given-names>APOSTOLOS</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>MAZUR</surname>
+               <given-names>BARRY</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>03</month>
+         <year>2012</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691149042</isbn>
+      <isbn content-type="ppub">0691149046</isbn>
+      <isbn content-type="epub">9781400842681</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>Princeton; Oxford</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2012</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7tbz4"/>
+      <abstract abstract-type="short">
+         <p>
+            <italic>Circles Disturbed</italic>brings together important thinkers in mathematics, history, and philosophy to explore the relationship between mathematics and narrative. The book's title recalls the last words of the great Greek mathematician Archimedes before he was slain by a Roman soldier--"Don't disturb my circles"--words that seem to refer to two radically different concerns: that of the practical person living in the concrete world of reality, and that of the theoretician lost in a world of abstraction. Stories and theorems are, in a sense, the natural languages of these two worlds--stories representing the way we act and interact, and theorems giving us pure thought, distilled from the hustle and bustle of reality. Yet, though the voices of stories and theorems seem totally different, they share profound connections and similarities.</p>
+         <p>A book unlike any other,<italic>Circles Disturbed</italic>delves into topics such as the way in which historical and biographical narratives shape our understanding of mathematics and mathematicians, the development of "myths of origins" in mathematics, the structure and importance of mathematical dreams, the role of storytelling in the formation of mathematical intuitions, the ways mathematics helps us organize the way we think about narrative structure, and much more.</p>
+         <p>In addition to the editors, the contributors are Amir Alexander, David Corfield, Peter Galison, Timothy Gowers, Michael Harris, David Herman, Federica La Nave, G.E.R. Lloyd, Uri Margolin, Colin McLarty, Jan Christoph Meister, Arkady Plotnitsky, and Bernard Teissier.</p>
+      </abstract>
+      <counts>
+         <page-count count="552"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.3</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Doxiadis</surname>
+                           <given-names>Apostolos</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mazur</surname>
+                           <given-names>Barry</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>The words “do not disturb my circles” are said to be Archimedes’ last before he was slain by a Roman soldier in the tumult of the pillaging of Syracuse. The timeless tranquil eternity of the not-to-be-disturbed circles in the midst of this account of hurly-burly and death is emblematic of the contrast between mathematics and stories: history, legends, anecdotes, and narratives of all sorts thrive on drama, on motion and confusion, while mathematics requires a clarity of thought that, in many instances, comes only after prolonged quiet reflection. At first glance, then, it might seem that mathematics and narrative have</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.4</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>From Voyagers to Martyrs:</title>
+                     <subtitle>Toward a Storied History of Mathematics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALEXANDER</surname>
+                           <given-names>AMIR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Sometime in the fifth century BC, the Pythagorean philosopher Hippasus of Metapontum proved that the side of a square is incommensurable with its diagonal. The discovery was quickly recognized to have far-reaching implications, for it thoroughly challenged the Pythagorean belief that everything in the world could be described by whole numbers and their ratios. Sadly for Hippasus, he did not live long enough to enjoy the fame of his mathematical breakthrough. Shortly after making his discovery, he traveled aboard ship and was lost at sea.</p>
+                     <p>Since that time, different versions of the story have come down to us. In some,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Structure of Crystal, Bucket of Dust</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GALISON</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>52</fpage>
+                  <abstract>
+                     <p>Every mathematical argument tells a story. But where is that story located? Do the chapters open in Plato’s heaven, outside time, outside the cave of mere human projection? Is the true story of mathematics something so far beyond spelunking materiality that intuitions and mere images must be left behind? Or are these stories precisely ones of things and forces, surfaces and movement?</p>
+                     <p>To address these questions about mathematical narration, I want to focus on the “geometrodynamic” vision of that school-founding, profound, quirky, creative, and provocative American physicist, John Archibald Wheeler. Far less known than many of his contemporaries such as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Deductive Narrative and the Epistemological Function of Belief in Mathematics:</title>
+                     <subtitle>On Bombelli and Imaginary Numbers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LA NAVE</surname>
+                           <given-names>FEDERICA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>The story of a mathematical discovery is often presented as a linear succession of events corresponding to a series of logical steps leading up to the moment of discovery by proof. The discovery itself takes on the character of a “truth revelation.” Such an accounting is cathartic. It makes us feel good about ourselves; it gives us confidence in the power of our mind. But is a sequence of logical steps all there is behind proving something in mathematics? When telling a story, one naturally lapses into a linear mode. But when trying to locate the history of a discovery,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Hilbert on Theology and Its Discontents:</title>
+                     <subtitle>The Origin Myth of Modern Mathematics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MCLARTY</surname>
+                           <given-names>COLIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>It is a fact and no myth at all that one small puzzling proof by David Hilbert in 1888 became the paradigm of modern axiomatic mathematics. Hilbert knew it was that important. He wrote a series of papers on applications and, as we now know, vastly underestimated them: a preliminary series of three went to the<italic>Göttinger Nachrichten</italic>and a longer, polished version went to the maximally prestigious<italic>Mathematische Annalen</italic>. He consciously made it his emblem as he became “the Director General” of twentieth-century mathematics, in the very practical image offered by his friend Hermann Minkowski (1973, 130). With time,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Do Androids Prove Theorems in Their Sleep?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARRIS</surname>
+                           <given-names>MICHAEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>130</fpage>
+                  <abstract>
+                     <p>What would later be described as the last of Robert Thomason’s “three major results” in mathematics was published as a contribution to the Festschrift in honor of Alexandre Grothendieck’s sixtieth birthday, cosigned by the ghost of his recently deceased friend Thomas Trobaugh. Thomason explained the circumstances of this collaboration in the introduction to their joint article, a rare note of pathos in the corpus of research mathematics and a brief but, I believe, authentic contribution to world literature.</p>
+                     <p>The first author must state that his coauthor and close friend, Tom Trobaugh, quite intelligent, singularly original, and inordinately generous, killed himself</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Visions, Dreams, and Mathematics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MAZUR</surname>
+                           <given-names>BARRY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>Mathematicians can hardly avoid making use of stories of various kinds, to say nothing of images, sketches, and diagrams, to help convey the meaning of their accomplishments and their aims. As Peter Galison points out in chapter 2, we mathematicians often are nevertheless silent—or perhaps even uneasy—about the role that stories and images play in our work.</p>
+                     <p>If someone asks us<italic>What is X?</italic>, where<italic>X</italic>is some mathematical concept, we boldly answer, for we have been well trained in the art of definition. All the fine articulations of logical structure are at our fingertips. If, however, someone</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Vividness in Mathematics and Narrative</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GOWERS</surname>
+                           <given-names>TIMOTHY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>Is there any interesting connection between mathematics and narrative? The answer is not obviously yes, and until one thinks about the question for a while, one might even be tempted to say that it is obviously no, since the two activities seem so different. But on further reflection, one starts to see that there are some points of contact. For example, to write out the proof of a complicated theorem one must take several interrelated ideas and present them in a linear fashion. The same could be said of writing a novel. If the novel is describing a series of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Mathematics and Narrative:</title>
+                     <subtitle>Why Are Stories and Proofs Interesting?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>TEISSIER</surname>
+                           <given-names>BERNARD</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>232</fpage>
+                  <abstract>
+                     <p>There are many types of narrations, from origin myths to the ship logs of maritime explorers, from children’s bedtime stories to works of literature—including poetry—and theater. We might also recall here Kipling’s joke in one of his letters from Japan about the person who, having borrowed a dictionary, gives it back with the comment that the stories are generally interesting, but too diverse.</p>
+                     <p>The concept of narration varies with location and is not easy to define. Is a haiku a narration? Is Heraclitus’s<italic>panta rhei</italic>—“all things are flowing”—the concise narration of a part of his experience</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Narrative and the Rationality of Mathematical Practice</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CORFIELD</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>244</fpage>
+                  <abstract>
+                     <p>How is it to act rationally as a mathematician? For much of the Anglo-American philosophy of mathematics this question is answered in terms of what mathematicians most obviously produce—journal papers. From this perspective, the mathematician’s work is taken to be of interest solely insofar as in consists in deducing the consequences of various axioms and definitions. This view of the discipline, with its strong focus on aspects of mathematics that do not feature largely elsewhere—its use of deductive proof, its supposed capacity to be captured by some formal calculus, the abstractness of the objects it studies—isolates the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>A Streetcar Named (among Other Things) Proof:</title>
+                     <subtitle>From Storytelling to Geometry, via Poetry and Rhetoric</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DOXIADIS</surname>
+                           <given-names>APOSTOLOS</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>The naming of a New Orleans streetcar line “Desire” is a clear case of synecdoche, the calling of the whole after a part. “Desire,” after Desire Street, was the name of a station in a line in the center of the city whose other stations included Elysian Streets, Cemeteries, Canal, Royal. Some of these offered alternative names: “Desire Line” was also occasionally called “Canal Line” or “Royal Line,” and the motorman would turn the crank to display<italic>those</italic>names when required. This varying synecdochic naming of one and the same line by several of its stations provides a great—though</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>Mathematics and Narrative:</title>
+                     <subtitle>An Aristotelian Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LLOYD</surname>
+                           <given-names>G. E. R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>389</fpage>
+                  <abstract>
+                     <p>The idea that mathematics deals with timeless truths is forcefully stated in a famous exchange between Socrates and Glaucon in Plato’s<italic>Republic</italic>, which makes the further point that the language of geometry, with its talk of manipulating figures, is absurd, since it conflicts with the idea of the timelessness of its objects. Let me quote the passage in full:</p>
+                     <p>Socrates: This at least will not be disputed by those who have even the slightest acquaintance with geometry, that the branch of knowledge is in direct contradiction with the language used by its adepts.</p>
+                     <p>Glaucon: How so?</p>
+                     <p>Socrates: Their language is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Adventures of the Diagonal:</title>
+                     <subtitle>Non-Euclidean Mathematics and Narrative</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PLOTNITSKY</surname>
+                           <given-names>ARKADY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>407</fpage>
+                  <abstract>
+                     <p>Mathematics has been and still is commonly viewed as independent, at least essentially or constitutively independent, of narrative or other purportedly literary or rhetorical elements, such as metaphor.¹ Indeed, this independence has been deemed to be especially characteristic of mathematics as against other sciences or philosophy, which also aspire and claim to be able, sometimes on the model of mathematics, to dispense with the constitutive role of such elements. Their auxiliary, such as pedagogical, role has always been acknowledged and, more recently, investigated in historical and sociological studies of mathematics and science, for example, in considering how narrative is used</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>Formal Models in Narrative Analysis</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HERMAN</surname>
+                           <given-names>DAVID</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>447</fpage>
+                  <abstract>
+                     <p>In a discussion of the writing practices in mathematics and science versus the humanities, Brian Rotman (2000, 60) remarks that</p>
+                     <p>diagrams of any kind are so rare in the texts produced by historians, philosophers, and literary theorists, among others, than any instance sticks out like a store thumb . . . . Would not their embrace be stigmatized as scientism? Indeed, isn’t the refusal to use figures, arrows, vectors, and so forth, as modes of explication part of the very basis on which the humanities define themselves as different from the technosciences?</p>
+                     <p>Recent scholarship on narrative, however, is noteworthy for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>Mathematics and Narrative:</title>
+                     <subtitle>A Narratological Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MARGOLIN</surname>
+                           <given-names>URI</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>481</fpage>
+                  <abstract>
+                     <p>The systematic study of the manifold relations between narrative (especially fictional) and mathematics (including formal logic) is in its infancy. From my point of view as a student of literary fictional narrative, it would be most useful to map out for further work the areas of interrelations between these two kinds of symbolic discourse. Needless to say, the list of areas I discuss is neither exclusive nor exhaustive but rather a tentative staking out of the terrain, to be modified and improved by further work. I should also mention that my command of literature and literary theory is far superior</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>Tales of Contingency, Contingencies of Telling:</title>
+                     <subtitle>Toward an Algorithm of Narrative Subjectivity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MEISTER</surname>
+                           <given-names>JAN CHRISTOPH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>508</fpage>
+                  <abstract>
+                     <p>It is hard to imagine a world without narrative: In our individual lives as well as in the history of humankind, narratives and storytelling are omnipresent. None of the other modes of symbolic communication “feels” as innately human as the synthetic sequencing of causally related events along a time line. In fact, as the French literary theorist and philosopher Paul Ricoeur argued in his seminal three-volume<italic>Time and Narrative</italic>(1984), the human experience of time itself seems to be bound to our ability to narrate.</p>
+                     <p>Toward the end of the twentieth century, the observation of narrative’s foundational role led to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.19</book-part-id>
+                  <title-group>
+                     <title>CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>541</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7tbz4.20</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>545</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

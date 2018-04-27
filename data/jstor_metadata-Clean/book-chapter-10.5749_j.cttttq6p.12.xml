@@ -1,0 +1,541 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.cttttq6p</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN1995.B714 2000</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Motion pictures</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Deleuze, Gilles</subject>
+         <subj-group>
+            <subject content-type="lcsh">Views on motion pictures</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Brain Is the Screen</book-title>
+         <subtitle>Deleuze and the Philosophy of Cinema</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Flaxman</surname>
+               <given-names>Gregory</given-names>
+            </name>
+            <role>Editor</role>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>09</day>
+         <month>03</month>
+         <year>2000</year>
+      </pub-date>
+      <isbn content-type="ppub">9780816634460</isbn>
+      <isbn content-type="ppub">0816634467</isbn>
+      <isbn content-type="epub">9780816690770</isbn>
+      <isbn content-type="epub">0816690774</isbn>
+      <publisher>
+         <publisher-name>University of Minnesota Press</publisher-name>
+         <publisher-loc>Minneapolis; London</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2000</copyright-year>
+         <copyright-holder>Regents of the University of Minnesota</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.5749/j.cttttq6p"/>
+      <abstract abstract-type="short">
+         <p>In the nearly twenty years since their publication, Gilles Deleuze’s books about cinema have proven as daunting as they are enticing—a new aesthetics of film, one equally at home with Henri Bergson and Wim Wenders, Friedrich Nietzsche and Orson Welles, that also takes its place in the philosopher’s immense and difficult oeuvre. With this collection, the first to focus solely and extensively on Deleuze’s cinematic work, the nature and reach of that work finally become clear. Composed of a substantial introduction, twelve original essays produced for this volume, and a new English translation of a personal, intriguing, and little-known interview with Deleuze on his cinema books, The Brain Is the Screen is a sustained engagement with Deleuze’s cinematic philosophy that leads to a new view of the larger confrontation of philosophy with cinematic images. Contributors: Éric Alliez, Dudley Andrew, Peter Canning, Tom Conley, András Bálint Kovács, Gregg Lambert, Laura U. Marks, Jean-Clet Martin, Angelo Restivo, Martin Schwab, and François Zourabichvili.</p>
+      </abstract>
+      <counts>
+         <page-count count="408"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaxman</surname>
+                           <given-names>Gregory</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In<italic>The Movement-Image</italic>, the first of his two volumes on cinema and philosophy, Gilles Deleuze launches toward a moment of remarkable visibility: ″The essence of a thing never appears at the outset, but in the middle, in the course of its development, when its strength is assured.″¹ Beyond the context of cinematographic evolution, Deleuze″s claim seems to encompass its own writing, reflecting (or pre-flecting) an intuition about the fate of his books. ″When a thing is considered in terms of its beginning,″ Deleuze once wrote with Félix Guattari, ″a thing is always poorly judged.″² But what does it mean to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.5</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>Of Images and Worlds:</title>
+                     <subtitle>Toward a Geology of the Cinema</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martin</surname>
+                           <given-names>Jean-Clet</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <contrib-group>
+                     <role content-type="translator">Translated by</role>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Le Gac</surname>
+                           <given-names>Frank</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Shafto</surname>
+                           <given-names>Sally</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>It is difficult to accurately define the fate Deleuze wished to reserve for what he called the ″image of thought″ if we do not grasp from the outset the profound kinship between image and thought. It is therefore out of the question to deal, on the one hand, with the process of the image and, on the other, with that of thought. There is no dualism that would permit one to posit them each on opposite sides. As we know, Deleuze never begins by positing terms that would be exterior to one another. Doing philosophy is to be conceived starting</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.6</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>Cinema Year Zero</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Flaxman</surname>
+                           <given-names>Gregory</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>Ever since Plato′s<italic>Republic</italic>, philosophy seems to have been the labor of ″master builders″: Descartes demolishes all prosaic assumptions about the world to lay the groundwork for his first principles, Kant fashions the exquisite proportions of his first<italic>Critiques</italic>as a propaedeutic to metaphysics, and even Hegel′s professed dislike of philosophical preludes grounds his<italic>Phenomenology of Spirit</italic>.² We have come to expect our philosophers to build by design, pausing at the outset to reflect on the construction, and so it is all the more astonishing how Gilles Deleuze opens his cinema books. Never mind the brief, almost capricious preface that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.7</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>Escape from the Image:</title>
+                     <subtitle>Deleuze′s Image-Ontology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schwab</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>In his two cinema books,<italic>The Movement-Image</italic>and<italic>The Time-Image</italic>, Gilles Deleuze offers an aesthetic and historical account of the cinema based on an unfamiliar and intriguing ontology—an ontology of images. Objects, qualities, processes, actions, even the brain: all are images in a dynamic universe of images. In this ″image-world,″ art—specifically, the cinema—emerges as something not ontologically distinct from the rest of the world. Indeed, Deleuze′s theory amounts to the simultaneous dynamization and de-Platonization of the cinema. Deleuzian ″image-art″ is neither semblance (<italic>Schein</italic>), nor the coming to the fore of a separate and ″artificial″ world, nor the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.8</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>The Eye of Montage:</title>
+                     <subtitle>Dziga Vertov and Bergsonian Materialism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zourabichvili</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>McMahon</surname>
+                           <given-names>Melissa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Perhaps we will teach, in two hundred years, that twentieth-century philosophy ended with two hieroglyphics:<italic>The Movement-Image</italic>and<italic>The Time-Image</italic>. A misunderstanding surrounds these books: they rightly fascinate film lovers, even though they are expressly books of philosophy. As for philosophers, they find little interest in them, or else read them while leaving cinema aside, even though Deleuze considered that he could not have written them except through contact with cinema. What could have determined, in Deleuze′s work, such an encounter between philosophy and cinema?</p>
+                     <p>The misunderstanding in the reading is perhaps linked to an extreme difficulty: the theoretical instrument</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>The Film History of Thought</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Kovács</surname>
+                           <given-names>András Bálint</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Hervey</surname>
+                           <given-names>Sándor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>The purpose of this essay is not to attempt a general reconstruction of Deleuze′s philosophy of cinema, but only to shed light on the traces of a certain—possibly unintentional, sedimentary, and in any event undeveloped—way of thinking about the history of cinema in his work. One has to agree with the opinion of virtually all serious commentators on Deleuze that the purpose behind the two volumes this philosopher wrote on cinema is not purely film-theoretic, nor is it directed at the history of cinema. Rather, Deleuze turns to the cinema as a means of expression for certain philosophical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>Into the Breach:</title>
+                     <subtitle>Between The Movement-Image and The Time-Image</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Restivo</surname>
+                           <given-names>Angelo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>171</fpage>
+                  <abstract>
+                     <p>Gilles Deleuze′s work on the cinema is marked by a grand caesura, not only conceptually (movement-image giving way to time-image) and ″historiographically″ (World War II as the name for the historical moment of this giving way), but also, even,<italic>materially</italic>. Because this division materializes—one might even go so far as to say ″dramatizes,″ or ″flaunts″—what some consider to be the work′s major flaw, an insufficient grounding in history, one could argue that perhaps this is a deliberate strategy. Perhaps, that is, the ″space″ between the classical cinema and the modern cinema occurs because what happened between the two</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>Signs of the Time:</title>
+                     <subtitle>Deleuze, Peirce, and the Documentary Image</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Marks</surname>
+                           <given-names>Laura U.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>Let us set this essay in Beirut, where documentary filmmakers have struggled to reconstruct the traces of the real—should any real still exist—buried under the heavy weight of discursive representations of their city. Beirut has been easily brought into discourse in Europe and North America, too easily, mostly thanks to the television news. In the erstwhile West, there is little sympathy for the complex history of the Lebanese civil war; the country′s history has lapsed and collapsed into clichés, foremost of which is the image of a building shattered by bombs from the Israeli-occupied south. Such clichés would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>The Roots of the Nomadic:</title>
+                     <subtitle>Gilles Deleuze and the Cinema of West Africa</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Andrew</surname>
+                           <given-names>Dudley</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>215</fpage>
+                  <abstract>
+                     <p>If one were to take the Academy Awards and the Cannes film festival the way the newspapers do, one would believe that standard cinema is in good health. Global action pictures (<italic>Independence Day</italic>), more artistic passion pictures (<italic>The English Patient</italic>), and their perfectly stewed combination (<italic>Titanic</italic>) have appeared on screens around the world, firing the universal imagination the way cinema has since Griffith. These two types of cinema, which might be termed first and second cinema, seem to defy predictions that the century′s end also spells the end of this century′s mass art. Still, those tracking aesthetic and social developments</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>Cinema and the Outside</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lambert</surname>
+                           <given-names>Gregg</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>253</fpage>
+                  <abstract>
+                     <p>One of the most important consequences of the direction taken by Gilles Deleuze in his two cinema books is not only to have raised the often neglected status of the cinematographic image as fundamental to any modern philosophy of time, but also to have situated the study of the image as crucial for discerning the link between the subject and thought that has evolved in the modern period around the problem of ideology. As a result of Deleuze′s inquiry into the cinematographic ″movement-image″ as basis for understanding the nature of this link, we are again compelled to consider the relationship</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>Midday, Midnight:</title>
+                     <subtitle>The Emergence of Cine-Thinking</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alliez</surname>
+                           <given-names>Éric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Dailey</surname>
+                           <given-names>Patricia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>293</fpage>
+                  <abstract>
+                     <p>The two volumes that constitute Deleuze′s inquiry into the cinematic image,<italic>The Movement-Image</italic>and<italic>The Time-Image</italic>, are like two facets of an inquiry that, together, form one remarkable book of philosophy—a book situated in the very middle [<italic>au milieu</italic>] of Deleuze′s philosophy. This milieu, in which the essence of a thing appears, is likewise the milieu of a<italic>cinema-thinking</italic>that rescinds any phenomenological privilege from natural perception in order to lay itself open to the ″materialist programme″³ of a Bergsonian world. In this world, the identity of the real and of the image (i.e., that which appears) results in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>The Film Event:</title>
+                     <subtitle>From Interval to Interstice</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Conley</surname>
+                           <given-names>Tom</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>303</fpage>
+                  <abstract>
+                     <p>Modern French philosophy would do well to stake a claim to its origins in the<italic>Essais</italic>of Montaigne. Descartes and Spinoza count among the first readers and inheritors of his style of thinking, and Gilles Deleuze among the most recent and powerful avatars. Indeed, something uncanny ties the event of Deleuze′s death at the beginning of November 1995 to the demise that Montaigne imagined for himself in the beginnings of his self-portraiture. Distorting the lexicon of the Pléiade poets who were forever dying ″a thousand deaths″ in their many distortions of Petrarch, Montaigne expires and returns to life to assure</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>The Imagination of Immanence:</title>
+                     <subtitle>An Ethics of Cinema</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Canning</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>327</fpage>
+                  <abstract>
+                     <p>The most uncanny image in cinema must be the sudden apparition of Simon Srebnik in<italic>Shoah</italic>returning from the dead, accompanied by Claude Lanzmann′s film crew. To the Polish villagers who heard him sing for his life more than thirty years before and who assumed he had finally died with the rest of the Jews, the victim of an SS bullet, Srebnik′s reappearance proved so strange that they hastened to frame him with their bodies, to voice over his tale with their own ″song of the Holocaust.″¹ For every occurrence, no matter how weird, the human sensory-motor mechanism generates a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>The Brain Is the Screen:</title>
+                     <subtitle>An Interview with Gilles Deleuze</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="translator" id="contrib1" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Guirgis</surname>
+                           <given-names>Marie Therese</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>365</fpage>
+                  <abstract>
+                     <p>With the publication of<italic>The Movement-Image</italic>and<italic>The Time-Image</italic>, Gilles Deleuze was often asked to explain—or expand upon—his unique understanding of the cinema. One of the most wide-ranging, informative, and ultimately personal of these conversations took place with<italic>Cahiers du cinéma</italic>after Deleuze′s second cinema volume appeared. Pascal Bonitzer and Jean Narboni had conducted a similar interview with Deleuze after the publication of<italic>The Movement-Image</italic>;¹ for this subsequent interview they were joined by A. Bergala, M. Chevrie, and S. Toubiana. The resulting text was, they explained, the ″the fruit of a long conversation″ and was subsequently ″rearranged by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.18</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>375</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.cttttq6p.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>377</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

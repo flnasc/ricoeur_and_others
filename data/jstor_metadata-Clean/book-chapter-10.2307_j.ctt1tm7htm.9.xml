@@ -1,0 +1,769 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1tm7htm</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Principalities in Particular</book-title>
+         <subtitle>A Practical Theology of the Powers That Be</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Wylie-Kellermann</surname>
+               <given-names>Bill</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="foreword-author" id="contrib2">
+            <role>With a Foreword by</role>
+            <name name-style="western">
+               <surname>Berger</surname>
+               <given-names>Rose Marie</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>10</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9781506431680</isbn>
+      <isbn content-type="epub">9781506438245</isbn>
+      <publisher>
+         <publisher-name>Fortress Press</publisher-name>
+         <publisher-loc>Minneapolis, MN</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Fortress Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1tm7htm"/>
+      <abstract abstract-type="short">
+         <p>Activist pastor Bill Wylie-Kellermann gives an urgent specificity to the theology of the powers, relating biblical concepts to contemporary struggles for civil rights, clean air, fair housing, safe affordable water, public education, and more, highlighting throughout the vital importance of a community of struggle connected through time and across space. The book‘s uniqueness lies in its practicality, as biblical and theological analyses arise from, and are addressed to, particular historical moments and given ecclesial and movement struggles.</p>
+      </abstract>
+      <counts>
+         <page-count count="352"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berger</surname>
+                           <given-names>Rose Marie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+                  <abstract>
+                     <p>Many Christian ministers claim to defend scripture. Few have done so in a court of law.</p>
+                     <p>In Benton Harbor, Michigan, in 2009, there unfolded the strange legal case of<italic>The People of Michigan v. Edward Pinkney</italic>.</p>
+                     <p>The Rev. Edward Pinkney, a Missionary Baptist pastor and civil rights leader, had been in a long fight with the “powers that be” in Benton Harbor to defend the African American community there against corporate overreach. While Pinkney was on parole for a previous political conviction, he wrote an opinion piece in the local<italic>People’s Tribune</italic>in which he called down biblical curses on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments and Thanks</title>
+                  </title-group>
+                  <fpage>xxiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.5</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>From Moment to Moment</subtitle>
+                  </title-group>
+                  <fpage>xxix</fpage>
+                  <abstract>
+                     <p>For the sake of the present moment, I am looking at five decades past.</p>
+                     <p>The fiftieth anniversary of Martin Luther King’s speech breaking his silence on the war in Vietnam and naming the reigning “triplets,” the dominating powers, of U.S. culture—racism, militarism, and extreme materialism—is upon us (April 4, 1967). And so it will shortly be fifty years since his assassination in Memphis, exactly one year later.</p>
+                     <p>It will be fifty years since William Stringfellow lay in a hospital bed, preparing for radical and life-threatening surgery, while simultaneously contemplating the principalities. He’d been put onto them by the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>William Stringfellow:</title>
+                     <subtitle>A Story of This Theological Conversation</subtitle>
+                  </title-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>William Stringfellow was my mentor in the practical theology of principalities. I’ve spent the three decades since his death, if not thinking like he did, at least framing my work in the outlines of this thought on the powers.</p>
+                     <p>In a certain sense, from his moving pulpit and podium, he summoned the attentive of a generation to this theology, bringing the principalities back into the light of day and onto the map of biblical social ethics. Many would know his work largely second-hand, through the deepening work of Walter Wink, whom he also nourished and mentored (and who also in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>A Personal and Activist Appreciation:</title>
+                     <subtitle>The Life and Legacy of Walter Wink (2016)</subtitle>
+                  </title-group>
+                  <fpage>29</fpage>
+                  <abstract>
+                     <p>I speak not so much as a scholar but more personally, as a friend and mentee, as pastor and nonviolent community activist. Also, as a white hetero male professional with a place-based vocation in and to Detroit.</p>
+                     <p>I want to begin with a word about library as legacy. I’m so grateful that Walter Wink’s collection has been joined here.¹ In Detroit, as elsewhere, libraries as an accessible commons are under assault and not just by digitalization, scanning, and stashing books in private clouds. In Detroit, where public education is being dismantled and privatized under emergency management, school libraries are literally</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Death Shall Have No Dominion:</title>
+                     <subtitle>Daniel Berrigan of the Resurrection (2017)</subtitle>
+                  </title-group>
+                  <fpage>37</fpage>
+                  <abstract>
+                     <p>I once had a conversation with Dan Berrigan (April 30, 2016) about his death.²</p>
+                     <p>We were talking late into the night at the Block Island hermitage that William Stringfellow and Anthony Towne had built for him while he was two years in Danbury Federal Prison, in consequence of the 1968 Catonsville draft board action. He had by then foresworn Scotch, on doctor’s orders, so I was being introduced to Manhattans, dry, which were somehow allowed. The place was fitting for the topic. On the wall above us was an exorcism poem that he had hand-lettered in a style familiar to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>From the Beginning:</title>
+                     <subtitle>Two Creation Liturgies</subtitle>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>A recurrent stumbling block to comprehending the principalities exists, for many people, at just this point. Human beings are reluctant to acknowledge institutions—or any of the other principalities—as creatures having their own existence, personality, and mode of life. Yet the Bible consistently speaks of the principalities as creatures.… The typical version of human reluctance to accord the principalities their due integrity as creatures is the illusion of human beings that they make or create and, hence, control institutions and that institutions are no more than groups of human beings duly organized. How do these creatures called principalities come</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Barbed Wire and Beyond:</title>
+                     <subtitle>The Freedom to Unmake Nuclear Weapons (1983)</subtitle>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Author’s Note: Nuclear weapons may be thought the preeminent principality. They are the final word in escalation dominance—and so the current emblem of the domination system, the very power of death targeting the planet as creation. My own practical understanding of the principalities and powers was worked out, book-length, precisely in their guise.¹ Given that account, they are actually under-represented in this volume, yet they are the place to begin. When I wrote the following about them in 1983,² I was preparing with friends for an Easter morning liturgical action at a Strategic Air Command Base in Michigan. Because</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Discerning the Angel of Detroit:</title>
+                     <subtitle>The Spirits and Powers at Work in One City (1989)</subtitle>
+                  </title-group>
+                  <fpage>85</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This essay was originally published in</italic>Sojourners<italic>(October 1989) and also appears in my recent book</italic>, Where the Water Goes ‘Round: Beloved Detroit<italic>(Eugene OR: Cascade, 2017). Also included there are successive reprises of the article in different historical moments: “Resurrection City: Detroit,” from</italic>Sojourners<italic>(May 2009), and “Detroit: Is Your City Next?</italic>” The Catholic Worker,<italic>New York, Jan/Feb 2014</italic>.</p>
+                     <p>In the hot summer of 1988, something happened in Detroit. A well-financed campaign to legalize and develop casino gambling as the panacea for the city’s desperate, ongoing economic crisis was rejected overwhelmingly at the polls. Oh, yes, there was a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Fallen:</title>
+                     <subtitle>The Law and the State (1991)</subtitle>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>It is the powers, the rulers of this age, who crucified Christ.¹ That is perhaps the single most edifying point in comprehending them. They are at best confused and blind to their vocations. And if all the New Testament references are amassed, from the lowliest human agent to the powers in high places, from the Sadducean party to the Beast rising out of the sea, the preponderance of them report demonic agencies, a host in rebellion against God. They are among the forces that separate human beings from the love of God (Rom 8:39); they blind the minds of unbelievers</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>The Machinery of War:</title>
+                     <subtitle>Technology and the Powers That Indwell (1991)</subtitle>
+                  </title-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This essay first appeared in</italic>Sojourners,<italic>April 1991. For a fuller summary of Ellul’s analysis of technology, its logic and mechanisms, as a power, see my</italic>Seasons of Faith and Conscience: Kairos, Confession, and Liturgy<italic>(Maryknoll, NY: Orbis, 1991; 2nd ed. Eugene, OR: Wipf &amp; Stock, 2008), chapter 4.</italic>
+                     </p>
+                     <p>The most prominent public feature of this deathly Gulf War has been the celebrated vindication of the American technological myth. This technological superiority is evinced in the heaviest (and ostensibly most accurate) bombing in the history of the world. People of faith and conscience have felt the spectacle of this “triumph” as</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Confronting the Drug Powers; Freeing the Captives (1992)</title>
+                  </title-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>William Stringfellow, the theologian who may be justly credited with reviving in this country a theology of the principalities and powers, claimed to be first put onto them by his friends and legal clients in Harlem who experienced, among many other things, the mafia and its network of runners and dealers as a predatory force invading their families and neighborhoods. His years of lucid reflection began in a concrete sense with their intuitive theological street wisdom.</p>
+                     <p>It is thereby all the more remarkable that in the churches’ struggle against drugs there has been such meager theological reflection. Indeed the notorious</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Family:</title>
+                     <subtitle>Icon and Principality (1994)</subtitle>
+                  </title-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This essay first appeared in</italic>The Witness,<italic>December 1994</italic>.</p>
+                     <p>The holy family is an icon of Christmastide. It is an image of humanity, speaking of God’s love for and presence with us all. It stands virtually as the seasonal emblem of love. We must not forget, however, that this is love under pressure. Here the family is beset, a family in crisis. They must overcome the public shame of unwed motherhood. They are moved about by government order. They are foreigners without resource or shelter. They become the target of violence and flee as political refugees. In these and other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Spiritual Warfare and Economic Justice (1994)</title>
+                  </title-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This essay first appeared in</italic>The Witness,<italic>May 1994. Also published as “Before Courts Human and Divine,” in</italic>Who Is My Neighbor? Economics as If Values Mattered<italic>(Sojourners, 1994)</italic>.</p>
+                     <p>Among the most important (and most neglected) biblical resources for Christian economic thinking is the theology of principalities and powers. William Stringfellow, who must be credited with the theological and political discernment that awakened much of the recent practical interest in the powers, first began to speak on the topic in the early ‘60s. Slated to give two identical presentations in Boston—one at the Harvard Business School and another at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Powers in Healing and Hospital Ministry (1996)</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This chapter was first published in</italic>The Witness,<italic>June 1996</italic>.</p>
+                     <p>How many times have pastors read this passage at a hospital bedside where the extremities of pain and fear and death hover? Here is compressed a seminal confession of faith that often serves in those moments as the preeminent word of pastoral care. Yet one may be struck how it actually names the principalities and powers (not to mention their main methods of operation) in a personal and presumably private word of comfort. What gives? Is this a mere quaint circumlocution or do the scriptures offer the serum of truth,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Death Has Its Day:</title>
+                     <subtitle>The BP Oil Spill (2010)</subtitle>
+                  </title-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>The heart aches with another apocalyptic wound opened in creation, deep and gushing. Instead of the real healing for which it cries, poisons are poured upon it, dispersing and hiding the mushrooming bleed of underwater clouds. Death will have its day. To one degree or another, all flesh of earth and sea will know it. Suffer the sting.¹</p>
+                     <p>In the lust for oil, drones sail the deserts and robots sink to the deeps. Thus far the reach of the military corporate maw. And the doxology their choristers chant: Drill, baby, kill! Make no mistake: The powers, and behind them death,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Readers before Profits:</title>
+                     <subtitle>The Detroit Newspaper Strike (1996)</subtitle>
+                  </title-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>
+                        <italic>First published as “Readers before Profits,”</italic>Sojourners,<italic>January/February 1996</italic>.</p>
+                     <p>It has struck me more than once how thoroughly our response to the newspaper strike ongoing in Detroit has been shaped by a theological comprehension of the principalities and powers. It proves both illuminating and practical.</p>
+                     <p>The situation is this: Last July, six unions representing 2,600 workers were forced to strike when the company demanded another round of deep job cuts and refused to operate under the old contracts while bargaining new. Almost immediately it announced the hiring of “permanent replacement workers.”</p>
+                     <p>“The company” in this case comprises the two largest</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Labor Unions and the Principalities (1998)</title>
+                  </title-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>
+                        <italic>First published as “The Power of Alliance: Why the Church and the Labor Movement Belong Together,”</italic>Sojourners,<italic>September/October 1998</italic>.</p>
+                     <p>Biblically, theologically, ethically, even pastorally, it is incumbent upon the church to stand with workers, to be with them in the struggle for justice, to join them in holding corporations accountable to human community.</p>
+                     <p>The day before his death, in a prescient sermon immediately famous, Rev. Martin Luther King Jr. urged pastors and laypeople to support the striking sanitation workers of Memphis, Tennessee, by turning to Luke’s parable of the Good Samaritan. In summoning the congregation to break the court injunction</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.21</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Exorcising an American Demon:</title>
+                     <subtitle>Racism Is a Principality (1998)</subtitle>
+                  </title-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>It is commonly understood that racism is more than individual attitude. It is prejudice with power behind it. Yet looked upon with a biblical and theological eye, white racism may be recognized to be even more than that: it is itself an active and aggressive principality, a “power” that appears to move, adapt, and grow with a life of its own.¹</p>
+                     <p>In 1963 William Stringfellow made precisely this point in a brief speech at the first National Conference on Religion and Race in Chicago. Addressed by Martin King, Sargent Shriver, and Abraham Heschel, the conference, ecumenical and interfaith, was the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.22</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>The Fall in Play:</title>
+                     <subtitle>Sports as a Principality (1998)</subtitle>
+                  </title-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>When William Stringfellow queried Karl Barth face to face in 1962 concerning the nature and identity of the principalities and powers, Barth named a handful of them: ideology, money, the state, religion, tradition, and fashion.² He also named sports.³ In Barth’s view, sport, as a power, could be seen as a human capability that, in the alienation of the fall, becomes isolated and separated from human beings, experienced thereby as over against human life, virtually dominating it.</p>
+                     <p>It is perhaps only a minor distinction to note that Stringfellow viewed the powers theologically as creatures in their own right, each with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.23</book-part-id>
+                  <title-group>
+                     <label>18</label>
+                     <title>Global Economy:</title>
+                     <subtitle>False Gods and the Power of Love (2003)</subtitle>
+                  </title-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>When Walter Wink was writing<italic>Engaging the Powers</italic>, the practical magnum opus of his book series on the biblical concept of principalities and powers, he stumbled over economics.¹ One long chapter turned into two and then was withdrawn altogether over doubts that he’d sufficiently treated the mushrooming complexity of the commercial powers. Ironically, nowhere is the “domination system” that Wink identified in his series more prominent or pertinent than in corporate globalization.</p>
+                     <p>Globalization, broadly, is a moving theological target: a historic configuration of economic, technological, political, corporate, ideological, cultural, even religious powers in processes of competition and collusion, whose outcome</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.24</book-part-id>
+                  <title-group>
+                     <label>19</label>
+                     <title>Unholy Alliance:</title>
+                     <subtitle>John Wesley and Global Powers of Slavery (2003)</subtitle>
+                  </title-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>These two texts which, apart from certain archaisms, ring like copy for a passionate leaflet at a Pentagon or a WTO direct action, are actually remarkable utterances of prophetic ire by John Wesley, founder of Methodism in the eighteenth century.³ What may indeed be most striking is that both concern economic violence, though in their similarity the first is directed to the distillers and the second to slavers.</p>
+                     <p>This same ethical coincidence is reiterated in Wesley’s general rules, the lifestyle discipline of the Methodist movement. Under the rule of nonviolence (“do no harm”) are found these same two injunctions side</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.25</book-part-id>
+                  <title-group>
+                     <label>20</label>
+                     <title>Be Not Awed:</title>
+                     <subtitle>The War in Iraq (2003)</subtitle>
+                  </title-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>There is a sense in which violence always involves idolatry.¹ Follow the blood of the innocents to the foot of the idols. For what and for whom are human beings willing to kill? Even against the “guilty,” violence involves an idolatrous and preemptive exploit of the divine prerogative. This is more than merely “God on our side.” Whether it is in the death penalty or war, the exercise of official violence generally presumes to know or to execute (which is to say, usurp) the judgment of God who alone holds the power of life and death.</p>
+                     <p>In this respect, Gandhi,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.26</book-part-id>
+                  <title-group>
+                     <label>21</label>
+                     <title>Katrina and the Wrath to Come (2005)</title>
+                  </title-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>The Wrath of God is a difficult, if not problematic theological notion.¹ It would seem to impute to God, some would say project onto God, the very violence we have ourselves embraced as human beings. And yet from another angle it is in effect the consequences of our violence, our folly, and our sin come back round. It names in essence the spiritual cycle of violence to which we have allowed ourselves to be bound as captives.</p>
+                     <p>In May of 1964, brushfires of racial violence had erupted in American cities, but the major uprisings and rebellions were yet to come.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.27</book-part-id>
+                  <title-group>
+                     <label>22</label>
+                     <title>Surveillance and Impeachment (2007)</title>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>
+                        <italic>What follows is a talk presented in a series calling for the Impeachment of the President and Vice-President, which was organized at Loyola University by my daughter Lydia Wylie-Kellermann.</italic>
+                     </p>
+                     <p>I believe I was present when this series was conceived.¹ It seemed to arise full-blown in Lydia Wylie-Kellermann’s mind. We’d attended the Detroit Town Hall on Impeachment. It had some high-powered participants at the table like Bill Goodman, recently of the Center for Constitutional Law in NYC, and Ray McGovern, former CIA, and Col. Ann Wright, who resigned her commission the day before the invasion of Iraq, but also some irrepressible</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.28</book-part-id>
+                  <title-group>
+                     <label>23</label>
+                     <title>Lest Death Prevail:</title>
+                     <subtitle>Harry Potter and the Principalities (2011)</subtitle>
+                  </title-group>
+                  <fpage>217</fpage>
+                  <abstract>
+                     <p>For a decade now, we have read as a family J. K. Rowling’s magical Harry Potter books aloud to one another in beds and cars and cottages.¹ A bookstore friend mailed us the first, which caught and held with our two girls. Except for the last that she never saw or heard, the subsequent volumes served for us as a therapeutic backstory to my wife’s struggle with cancer. Here was a lively gift of diversion and delight, which we increasingly read as rich in themes biblical and Christian. It was as if the Oxford Inklings (C. S. Lewis, J. R.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.29</book-part-id>
+                  <title-group>
+                     <label>24</label>
+                     <title>Coming to a City Near You:</title>
+                     <subtitle>Emergency Management (2014)</subtitle>
+                  </title-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>
+                        <italic>This chapter published first in</italic>The Catholic Worker,<italic>January–February 2014</italic>.</p>
+                     <p>Let me tell you about a new form of urban fascism, one that is the template for direct corporate rule. Though it comports fully with what is happening in most of the global south, this despotism called emergency management is being deployed in Michigan, and Detroit is its major test ground. Since March of 2013 we have been living under a nonelected government thoroughly allied with the banks and corporations.</p>
+                     <p>Start with the political structure: an Emergency Manager (EM) appointed by the governor over a municipality or school district</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.30</book-part-id>
+                  <title-group>
+                     <label>25</label>
+                     <title>The Dismantling of Public Education:</title>
+                     <subtitle>Separate and Unequal (2014)</subtitle>
+                  </title-group>
+                  <fpage>229</fpage>
+                  <abstract>
+                     <p>The Detroit Public Schools are being dismantled by design and effectively looted. Though Detroiters and the elected school board are consistently blamed for their demise, for twelve of the last fifteen years DPS has been under state control.¹</p>
+                     <p>Mother Helen Moore, an attorney who heads the Education Task Force, has become notorious for her fight on behalf of the schools, and tells the story over and over in community meetings. It’s well documented.</p>
+                     <p>When the Detroit schools were first taken over in 1999, enrollment was stable (at 200,000 students), test scores were middle range compared to state averages and rising,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.31</book-part-id>
+                  <title-group>
+                     <label>26</label>
+                     <title>Her Name Was Charity:</title>
+                     <subtitle>The Detroit Water Struggle (2014)</subtitle>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>Think of Charity Hicks as the Rosa Parks of the Detroit Water Struggle.¹ She was arrested in Detroit early on May 16 for resisting the shut-off of her own water. The private contractor came early in the morning, but she was up. Since he was hitting a bunch of people on her block, she went door to door rousing people to say: He’s coming; fill your tub, fill pots and pans! Then, because she still had two more days to settle her bill, she demanded to see the shut-off order. He had none, only a list of addresses. When the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.32</book-part-id>
+                  <title-group>
+                     <label>27</label>
+                     <title>Church and the Powers (Church as a Power) (2016)</title>
+                  </title-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>Asked if the church is a spiritual or bodily reality, folks mystified by Walter Wink’s claim of an actual spiritual aspect to corporations or institutions barely blink to identify a spiritual dimension to church, either as congregation or denominational structure. In that sense we might be better off beginning rather than ending with reflection on church and the powers.</p>
+                     <p>In fact, Wink found the insights from Revelation 2 (the letters to the angels of the churches) to be useful in understanding the “angels of the nations” as having both personality and vocation1 and it has been used similarly as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.33</book-part-id>
+                  <title-group>
+                     <label>28</label>
+                     <title>Trump Powers:</title>
+                     <subtitle>Principalities and the President (2017)</subtitle>
+                  </title-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>A prophet’s warning. To write about the principalities in this present moment, just weeks since the inauguration of the Trump regime in January 2017, is to risk speaking too soon. By the time these reflections see the light of print, impeachment proceedings may be launched, or a nonviolent groundswell of resistance may have brought the president to the brink of resignation, or yet perhaps an iron fist is holding collapse at bay with the “brink” and the “launch” being war, God forbid—even nuclear, or maybe Mother Earth has reached her limit and thrown the planet in deeper turmoil, nor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.34</book-part-id>
+                  <title-group>
+                     <title>Appendix I:</title>
+                     <subtitle>Thinking Biblically and Theologically about a Particular Power: An Inventory of Provoking Questions</subtitle>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.35</book-part-id>
+                  <title-group>
+                     <title>Appendix II:</title>
+                     <subtitle>Theological Exegesis of the Neighborhood</subtitle>
+                  </title-group>
+                  <fpage>291</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.36</book-part-id>
+                  <title-group>
+                     <title>Appendix III:</title>
+                     <subtitle>The Angel of a Congregation: Possible Elements of a Continuing Discernment Process (After the work of Walter Wink)</subtitle>
+                  </title-group>
+                  <fpage>293</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.37</book-part-id>
+                  <title-group>
+                     <title>Appendix IV</title>
+                  </title-group>
+                  <fpage>297</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.38</book-part-id>
+                  <title-group>
+                     <title>Index of Names and Subjects</title>
+                  </title-group>
+                  <fpage>299</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1tm7htm.39</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

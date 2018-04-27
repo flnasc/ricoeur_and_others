@@ -1,0 +1,529 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1cgf32j</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Justification in a Post-Christian Society</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Grenholm</surname>
+               <given-names>Carl-Henric</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Gunner</surname>
+               <given-names>Göran</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>13</day>
+         <month>03</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780227175231</isbn>
+      <isbn content-type="epub">9780227904459</isbn>
+      <publisher>
+         <publisher-name>James Clarke &amp; Co</publisher-name>
+         <publisher-loc>Cambridge</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Trossamfundet Svenska Kyrkan (Church of Sweden)</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1cgf32j"/>
+      <abstract abstract-type="short">
+         <p>Since the Reformation in the sixteenth century, Lutheran traditions have impacted culture and politics in many societies. At the same time, Lutheran belief has had an effect on personal faith, morality, and ethics. Modern society, however, is quite different from that at the time of the Reformation. How should we evaluate Lutheran tradition in today’s Western multicultural and post-Christian society? Is it possible to develop a Lutheran theological position that can be regarded as reasonable in a society that evidences a considerable weakening of the role of Christianity? What are the challenges raised by cultural diversity for a Lutheran theology and ethics? Is it possible to develop a Lutheran identity in a multicultural society, and is there any fruitful Lutheran contribution to the coexistence of diff erent religious and non-religious traditions in the future?</p>
+      </abstract>
+      <counts>
+         <page-count count="270"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.3</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.4</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Remembering the Past—Living the Future</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRENHOLM</surname>
+                           <given-names>CARL-HENRIC</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GUNNER</surname>
+                           <given-names>GÖRAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Lutheran tradition has been of immense importance not just within the churches in quite a lot of countries worldwide but also for society and culture in general. Ideas within Reformation theology have in various ways influenced education, health care, attitudes to work, economy, and politics. This impact of Lutheran tradition has been based on particular theological positions that have been developed in different ways. Some of these positions are the doctrine of justification by grace alone, the idea that the Bible has a particular role as a source for theological reflection, the doctrine of original sin, the idea of a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Promise and Trust:</title>
+                     <subtitle>Lutheran Identity in a Multicultural Society</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SCHWÖBEL</surname>
+                           <given-names>CHRISTOPH</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>It is a commonplace that today we live globally—and often locally as well—in a multicultural society where different cultures coexist, oscillating between cooperation and competition. These multicultural settings are the result of various factors, from the migration movements of large groups of people caused by economic necessity, war, oppression, displacement, and the search for better opportunities for shaping one’s life. If one wanted to write a diachronic history of the genesis of most multicultural societies, one would come across the most grievous aspects of modern history, racism, nationalism, ethnic strife, exploitation, and religious oppression, leading to the banishment</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>The Experience of Justification</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HELMER</surname>
+                           <given-names>CHRISTINE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>36</fpage>
+                  <abstract>
+                     <p>The late American liberal theologian, Gordon Kaufman, once said something to me that struck my religious sensibilities. “Experience and God,” he said, “is a category mistake.” Kaufman came to his claim by his particular reading of Kant’s<italic>Critique of Pure Reason</italic>. Kant, according to Kaufman, argued that the ideal of God was a symbol with no corresponding reality. 1 It can be debated whether Kaufmann’s interpretation of Kant is correct. According to Kant scholar Allen Wood, Kant actually held on to the existence of God as the ground of all possibility, namely a “subjectively necessary hypothesis (A 581–2/B 609</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Atonement in Theology and a Post-Einsteinian Notion of Time</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JACKELÉN</surname>
+                           <given-names>ANTJE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>There are a number of obstacles for a consistent presentation of the doctrine of atonement today. How can the suffering and self-sacrifice of the One be salvific in our global context? Does the atoning activity of God in Christ presuppose total passivity on the human side? Is not atonement terminology remote from the realities of human life in contemporary Western societies? In this chapter I argue that post-Einsteinian notions of time may contribute to theological attempts to cope with some of these obstacles. Albert Einstein’s theories of relativity mean that the previous Newtonian concept of time is inadequate. A reception</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Healing as an Image for the Atonement:</title>
+                     <subtitle>A Lutheran Consideration</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PETERSON</surname>
+                           <given-names>CHERYL M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>72</fpage>
+                  <abstract>
+                     <p>In Western theology, the doctrine of the atonement has been dominated by forensic language and the image of the courtroom. Forensic language has been particularly important to a Lutheran understanding of justification: where, by grace through faith, sinners are “declared righteous” on account of Christ. Such language has been criticized, however, for not doing justice to a fuller New Testament understanding of salvation which includes the forgiveness of sins, healing, reconciliation, restoration, and wholeness, and which is experienced communally as well as individually. By so strongly emphasizing forensic imagery in both the doctrine of justification and the atonement, Lutheranism is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Law and Gospel in Lutheran Ethics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRENHOLM</surname>
+                           <given-names>CARL-HENRIC</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>The sharp distinction between law and gospel has been of great importance within Lutheran theology. As the Swedish theologian Einar Billing once maintained, the new element in Luther’s thought is his understanding of the gospel. Luther did not remove the idea of the law from its central position, but he had a particular understanding of the gospel—in its sharp opposition to the law. According to Luther, the criterion of a good theologian is the capacity to understand this important difference between law and gospel.¹</p>
+                     <p>Luther gives a clear conception of this distinction between law and gospel in his<italic>Greater</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Outside Paradise:</title>
+                     <subtitle>Renegotiating Original Sin in Contemporary Lutheran Theology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GRANTÉN</surname>
+                           <given-names>EVA-LOTTA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>What is a reasonable Lutheran understanding of Original Sin today? Is it possible to defend a doctrine of Original Sin in a society where a scientific world view is widely accepted? If so, how can this doctrine be developed and renegotiated? These are some of the questions I have dealt with in a study on Original Sin in Lutheran theology with the title “Outside Paradise.”¹</p>
+                     <p>The study is part of a larger research project, which seeks to clarify and critically analyze the content of several central ideas in Lutheran theology and ethics. One aim is to analyze some important theological</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Lutheran Spiritual Theology in a Post-Christian Society</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>JOHANNESSON</surname>
+                           <given-names>KARIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Many scholars studying how religious faith develops around the world today emphasize one important transition. Linda Woodhead and Paul Heelas, following the philosopher Charles Taylor, characterize this ongoing transformation as a spiritual revolution.¹ It reveals itself,<italic>inter alia</italic>, as a growing interest in a multifaceted variety of activities associated with various religious traditions that have one important thing in common. They have traditionally been conceptualized as spiritual training since they have been assumed to contribute to a more flourishing relationship with God or a deeper contact with a spiritual reality. Yoga, pilgrimages, and meditation are examples of such undertakings.</p>
+                     <p>Spiritual</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Lutheran Theology and Dialogical Engagement in Post-Christian Society</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHILDS</surname>
+                           <given-names>JAMES M.</given-names>
+                           <suffix>JR.</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>In Canadian philosopher Charles Taylor’s massive and highly regarded work, he has examined the impact of a long and continuing process of secularization on our views of religion in society.¹ In the societies of the Western world we commonly see secularization as implicated in the development of our post-Christendom age and the emergence of post-Christian society. Post-Christendom and post-Christian are not terms that Taylor employs. However, he sees one expression of secularity to be the public sphere “emptied of God or any reference to ultimate reality” and the norms of our various spheres of activity devoid of any reference to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Physicality as a New Model for Lutheran Ethics in a Multicultural Global Community</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PERRY</surname>
+                           <given-names>RICHARD J.</given-names>
+                           <suffix>JR.</suffix>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>In this chapter I explore the practice of physicality by some African and European American elders within the Lutheran communion. My claim is that this practice establishes a new model for Lutheran ethics in a multicultural global community. Physicality I define as “the act of intentionally placing one’s body into public spaces as a means of expressing concerns for justice in the world.”¹ At the core of physicality is God’s justifying grace. These elders carried their bodies, anchored by their faith in a justifying God, from the sanctuary of their churches to the streets where God was also active with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Incarnate vs. Discarnate Protestantism:</title>
+                     <subtitle>Martin Luther and the Disembodiment of Faith</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GREGERSEN</surname>
+                           <given-names>NIELS HENRIK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>This chapter argues that Lutheran theology needs to reflect anew upon the<italic>Gestalts</italic>of Protestantism in a post-secular era. On the one hand, we have what I call a Protestantism without blood and flesh, in which faith is understood primarily as an individualized attitude of faith and inner freedom vis-à-vis church and society. On the other hand, we have a Protestantism of blood and flesh which knows that faith, hope, and love can only thrive in and through social forms of embodiment. The church, in this understanding, is a place in which a public understanding of the gospel is cultivated,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Contra Philosophos:</title>
+                     <subtitle>The Lutheran Reformation as Critique of the Rationality of Modernity</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ALFSVÅG</surname>
+                           <given-names>KNUT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>192</fpage>
+                  <abstract>
+                     <p>A number of scholars have noted the continuity between the late medieval movement called<italic>via moderna</italic>and typically modern philosophical emphases.¹ Until the fourteenth century, it was commonly accepted in European thought that human beings’ position as a part of the universe made it impossible for them to get to know reality in its totality. This necessitated the use of a variety of rhetorical strategies in exploring the world, conceptual analysis being but one of them, and not necessarily the most appropriate one. The<italic>via moderna</italic>establishment of univocity as the epistemological ideal changed this. The understanding of the knowing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Priesthood of All Believers as Public Opinion:</title>
+                     <subtitle>An Unexplored Link between the Lutheran Reformation and the Enlightenment?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CLAESSON</surname>
+                           <given-names>URBAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>Historical research has often focused on how the doctrines of Luther’s theology were used by rulers and kings to legitimize power. However, Luther’s theology provided tools for men of political power and critics alike. The latter aspect needs to be explored in a more sophisticated fashion. In this chapter I will try to do just that. I will present a case from Swedish church history where Luther’s doctrine of the priesthood of all believers seems to have worked as an unexplored precursor of public opinion, and as a new way to legitimize power from below.</p>
+                     <p>The idea of a common</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Luther’s Interpretation of the Magnificat and Latin American Liberation Theology</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VUOLA</surname>
+                           <given-names>ELINA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>In most Lutheran churches today, the Mother of God is absent—in prayers, liturgy, theology, and spirituality. At the same time, there are ecumenical grass-roots movements such as the Taizé movement, in which the Virgin Mary is more present. There is a noteworthy theological silence about Mary in the Lutheran tradition, even though the first two Marian dogmas of the early church and Luther’s thought provide much more common ground for an ecumenical Mariology than we might think.</p>
+                     <p>A Mariology based on the historical and biblical Mary of Nazareth as well as the need and yearning felt for a deeper</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.19</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>“Satis est” (CA 7):</title>
+                     <subtitle>The Confessional Unity of the Church and the Augsburg Confession Today</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THEIßEN</surname>
+                           <given-names>HENNING</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>241</fpage>
+                  <abstract>
+                     <p>This chapter provides a rereading of the ecclesiological key article of the Augsburg Confession, preceded by some reflections on why present-day theologians still consider the confessional writings from the Reformation period to be meaningful for their work in the early twenty-first century. In doing so, they seem to subscribe to a<italic>historical</italic>view of the Reformation as a model for interpreting the present. This is what may at first sight seem odd in the<italic>doctrinal</italic>approach I will be following in these pages, since that view is somewhat in danger of overestimating the normative role of the confessional writings (<italic>norma</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1cgf32j.20</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>259</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

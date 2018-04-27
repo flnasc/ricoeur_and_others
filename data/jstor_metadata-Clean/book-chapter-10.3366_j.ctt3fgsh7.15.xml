@@ -1,0 +1,641 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt3fgsh7</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>History</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Intelligence Studies in Britain and the US</book-title>
+         <subtitle>Historiography since 1945</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Moran</surname>
+               <given-names>Christopher R.</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Murphy</surname>
+               <given-names>Christopher J.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>31</day>
+         <month>03</month>
+         <year>2013</year>
+      </pub-date>
+      <isbn content-type="ppub">9780748646272</isbn>
+      <isbn content-type="epub">9780748677566</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2013</copyright-year>
+         <copyright-holder>Christopher R. Moran</copyright-holder>
+         <copyright-holder>Christopher J. Murphy</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt3fgsh7"/>
+      <abstract abstract-type="short">
+         <p>The first introduction to writing about intelligence and intelligence services. Secrecy has never stopped people from writing about intelligence. From memoirs and academic texts to conspiracy-laden exposés and spy novels, writing on intelligence abounds. Now, this new account uncovers intelligence historiography's hugely important role in shaping popular understandings and the social memory of intelligence. In this first introduction to these official and unofficial histories, a range of leading contributors narrate and interpret the development of intelligence studies as a discipline. Each chapter showcases new archival material, looking at a particular book or series of books and considering issues of production, censorship, representation and reception.</p>
+      </abstract>
+      <counts>
+         <page-count count="336"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.3</book-part-id>
+                  <title-group>
+                     <title>THE EDITORS</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.4</book-part-id>
+                  <title-group>
+                     <title>THE CONTRIBUTORS</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.5</book-part-id>
+                  <title-group>
+                     <title>List of Figures</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.6</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jeffreys-Jones</surname>
+                           <given-names>Rhodri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.7</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGEMENTS</title>
+                  </title-group>
+                  <fpage>xix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.8</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>INTELLIGENCE STUDIES NOW AND THEN</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Moran</surname>
+                           <given-names>Christopher R.</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>Christopher J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In both the United States and the United Kingdom, the field of intelligence studies represents one of the fastest growing subsets of international history, political science and strategic studies. This dynamism is evidenced not only by the vast volume of publications that are generated, but by the existence of dedicated departments and centres, specialist degree programmes, conferences and professional associations. In the US, intelligence is taught at a host of top universities, typically in the form of advanced option courses and special subjects. Beyond this, there are institutes specifically designed to prepare students for entry-level positions in the intelligence community,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.9</book-part-id>
+                  <title-group>
+                     <label>Chapter 1</label>
+                     <title>CIA HISTORY AS A COLD WAR BATTLEGROUND:</title>
+                     <subtitle>THE FORGOTTEN FIRST WAVE OF AGENCY NARRATIVES</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Aldrich</surname>
+                           <given-names>Richard J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>Where does the history of the history of intelligence begin? As a self-conscious academic subject, intelligence history is widely understood to have started in the 1980s. In Britain, Christopher Andrew and David Dilks proclaimed a deliberate manifesto for intelligence historians in 1984, urging scholars to explore the ‘missing dimension’. Broadly contemporaneous with this, the American historian Richard Immerman asserted that it was important to incorporate covert action into any sophisticated understanding of foreign policy. The mid-1980s also saw the creation of the journal<italic>Intelligence and National Security</italic>, edited by Christopher Andrew and Michael Handel.¹ Since that time, we have enjoyed</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.10</book-part-id>
+                  <title-group>
+                     <label>Chapter 2</label>
+                     <title>THE CULTURE OF FUNDING CULTURE:</title>
+                     <subtitle>THE CIA AND THE CONGRESS FOR CULTURAL FREEDOM</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pullin</surname>
+                           <given-names>Eric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>The Congress for Cultural Freedom (CCF) was the largest and longest of the covert operations run by the Central Intelligence Agency (CIA). Lasting from 1950 until 1967, the purpose of the CCF was to promote an international anti-communist consciousness among intellectual liberals and non-communist Leftists. The CCF established organisations throughout the non-communist world, sponsoring concerts, art exhibits and scholarly lectures to promote anti-communist activism among intellectuals and artists. From 1966 to 1967,<italic>The New York Times</italic>and<italic>Ramparts</italic>– a New Left magazine that offered criticism of politics and culture – exposed the ‘secret’ that the CIA had covertly funded</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.11</book-part-id>
+                  <title-group>
+                     <label>Chapter 3</label>
+                     <title>‘REAL SUBSTANCE, NOT JUST SYMBOLISM’? THE CIA AND THE REPRESENTATION OF COVERT OPERATIONS IN THE FOREIGN RELATIONS OF THE UNITED STATES SERIES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Matthew</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McGarr</surname>
+                           <given-names>Paul</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>In March 1967, the Harvard economist and former US Ambassador to India, John Kenneth Galbraith, noted wryly in the pages of<italic>The Washington Post</italic>that recent events had confirmed the Central Intelligence Agency (CIA) to be ‘a secret agency … with an excellent instinct for headlines’.¹ A month earlier, to the horror of senior CIA officials, the American west coast magazine<italic>Ramparts</italic>had disclosed the Agency’s long-standing financial connection to a number of international educational and cultural organisations. In a series of damning exposes covered simultaneously in<italic>The New York Times</italic>, details of covert CIA operations conducted in the United</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.12</book-part-id>
+                  <title-group>
+                     <label>Chapter 4</label>
+                     <title>BONUM EX MALO:</title>
+                     <subtitle>THE VALUE OF LEGACY OF ASHES IN TEACHING CIA HISTORY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dujmovic</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>In June 2007, Doubleday – a popular imprint of the Random House publishing empire – published<italic>The New York Times</italic>journalist Tim Weiner’s<italic>Legacy of Ashes</italic>, portentously subtitled<italic>The History of the CIA</italic>.¹ It is no exaggeration to describe the appearance of this book as a seminal event in US intelligence historiography, though perhaps not in the way that Mr Weiner intended (see Figure 6).</p>
+                     <p>Historians and other scholars of intelligence will recall that the initial laudatory reviews of<italic>Legacy of Ashes</italic>– many of which were written by journalists like Weiner – were followed several months later by decidedly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.13</book-part-id>
+                  <title-group>
+                     <label>Chapter 5</label>
+                     <title>NARRATING COVERT ACTION:</title>
+                     <subtitle>THE CIA, HISTORIOGRAPHY AND THE COLD WAR</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mistry</surname>
+                           <given-names>Kaeten</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>In the conduct of foreign relations, it represents the option laden with most risk and danger. For many policymakers, it is the least appealing choice. Its raison d’être is to be inconspicuous to the extent that its very occurrence is in doubt. Some even question whether it is a core intelligence activity.¹ Covert action nonetheless remains the most intriguing, controversial, intensely debated and headline-grabbing aspect of intelligence. Among the numerous agencies that make up the American intelligence community, none has been as closely associated with clandestine activities – historically and, moreover, in the popular imagination – than the Central Intelligence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.14</book-part-id>
+                  <title-group>
+                     <label>Chapter 6</label>
+                     <title>FBI HISTORIOGRAPHY:</title>
+                     <subtitle>FROM LEADER TO ORGANISATION</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Graves</surname>
+                           <given-names>Melissa</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>In 1908, President Theodore Roosevelt established the Bureau of Investigation, later renamed the Federal Bureau of Investigation (FBI) in 1935. When J. Edgar Hoover assumed directorship of the organisation, he used his public relations perspicacity to oversee the careful construction of accounts from hired writers (see Figure 8). During his forty-eight years as Director, Hoover required writers to obtain his approval for access to the FBI’s internal files. Subsequently, the few writers that dared to craft negative depictions of the Bureau relied solely on outside information gleaned primarily from embittered former agents and Congress; they could not access any of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.15</book-part-id>
+                  <title-group>
+                     <label>Chapter 7</label>
+                     <title>RECONCEIVING REALISM:</title>
+                     <subtitle>INTELLIGENCE HISTORIANS AND THE FACT/FICTION DICHOTOMY</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Willmetts</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>146</fpage>
+                  <abstract>
+                     <p>The academic study of intelligence has long established itself in opposition to spy fiction. In Christopher Andrew and David Dilks’ seminal introduction to<italic>The Missing Dimension</italic>, they argued that the lurid embellishments and gross inaccuracies of novelists, journalists and filmmakers had dissuaded professional historians from undertaking a serious study of intelligence history:</p>
+                     <p>The treatment of intelligence by both mass media and publishers often seems ideally calculated to persuade the academic world that it is no subject for scholars … Alexander Dumas once said of a woefully inaccurate history of the French Revolution that it had ‘raised history to the level</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.16</book-part-id>
+                  <title-group>
+                     <label>Chapter 8</label>
+                     <title>THE REALITY IS STRANGER THAN FICTION:</title>
+                     <subtitle>ANGLO–AMERICAN INTELLIGENCE COOPERATION FROM WORLD WAR II THROUGH THE COLD WAR</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hitz</surname>
+                           <given-names>Frederick P.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>This chapter will first consider the odd relationship that existed between the British Secret Intelligence Service (SIS) and the American Office of Strategic Services (OSS) and its successor, the Central Intelligence Agency (CIA), during the waning days of World War II and the beginning of the Cold War. In addition to surveying a number of pertinent memoirs and biographies, it will examine fictional accounts of espionage. The lion’s share of the analysis will be devoted to John le Carré’s classic espionage novel<italic>Tinker, Tailor, Soldier, Spy</italic>, published in 1974. The novel, which has recently been made into a feature film</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.17</book-part-id>
+                  <title-group>
+                     <label>Chapter 9</label>
+                     <title>A PLAIN TALE OF PUNDITS, PLAYERS AND PROFESSIONALS:</title>
+                     <subtitle>THE HISTORIOGRAPHY OF THE GREAT GAME</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Johnson</surname>
+                           <given-names>Robert</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>During the nineteenth century, the inexorable acquisition of territories across Central Asia by Russia seemed to menace the security of British India. In response, the British tried to reach agreements with St Petersburg, launched military campaigns to secure their Indian borders and attempted to coerce the Afghans, Persians and Tibetans into protected spheres of influence. The British authorities in India sent intelligence agents to survey, map and monitor the approaches to the Indian subcontinent in preparation for a war that appeared to some, at least, as inevitable. This was the classic ‘Great Game’ immortalised by Rudyard Kipling (see Figure 11).</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.18</book-part-id>
+                  <title-group>
+                     <label>Chapter 10</label>
+                     <title>NO CLOAKS, NO DAGGERS:</title>
+                     <subtitle>THE HISTORIOGRAPHY OF BRITISH MILITARY INTELLIGENCE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beach</surname>
+                           <given-names>Jim</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>202</fpage>
+                  <abstract>
+                     <p>The history of military intelligence has now become almost inextricably bound up with that of intelligence generally. This is perhaps inevitable. As Sir Kenneth Strong, Eisenhower’s wartime intelligence chief, put it:</p>
+                     <p>Intelligence is indivisible. No area of activity – politics, economics, military affairs, science and technology – can be treated as a subject apart and treated in isolation.¹</p>
+                     <p>Although he was making a point about the necessity of centralised intelligence management, he captures the field’s inherent complexity and interdependence. In recent decades, the submergence of military intelligence can also be attributed to the higher profile of ‘civilian’ intelligence, especially of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.19</book-part-id>
+                  <title-group>
+                     <label>Chapter 11</label>
+                     <title>The Study of Interrogation:</title>
+                     <subtitle>A Focus on Torture, But What About the Intelligence?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Newbery</surname>
+                           <given-names>Samantha</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract>
+                     <p>Interrogation that aims to collect intelligence from the person being interrogated has received scholarly and public attention, largely as a result of its connection with torture.¹ The torture debate – as it is known – began when interrogators were unable to gain intelligence from ‘four suspect terrorists, among them Zacarias Moussaoui, being held in a New York prison following the September 11 attacks’.² Many media organisations then responded to official cues and came out in support of the use of torture for counterterrorism.³ This debate has intensified discussions about what interrogation practices might be permissible in the pursuit of intelligence.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.20</book-part-id>
+                  <title-group>
+                     <label>Chapter 12</label>
+                     <title>WHITEHALL, INTELLIGENCE AND OFFICIAL HISTORY:</title>
+                     <subtitle>EDITING SOE IN FRANCE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>Christopher J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>236</fpage>
+                  <abstract>
+                     <p>In the historiography of British intelligence, the publication of<italic>SOE in France</italic>– an officially sponsored account of the activities of the Special Operations Executive (SOE) during the Second World War – stands out as a significant moment. While the existence of the organisation and its activities already constituted something of an open secret – a consequence of numerous memoirs and investigative works published since its dissolution in 1946 –<italic>SOE in France</italic>was an account of part of the wartime secret world, which was published by Her Majesty’s Stationery Office: an official history, based on access to SOE’s own</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.21</book-part-id>
+                  <title-group>
+                     <label>Chapter 13</label>
+                     <title>A TALE OF TORTURE? ALEXANDER SCOTLAND, THE LONDON CAGE AND POST-WAR BRITISH SECRECY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lomas</surname>
+                           <given-names>Daniel W. B.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>251</fpage>
+                  <abstract>
+                     <p>The immediate post-war period saw the publication of a number of secret service accounts recounting wartime exploits, giving the impression that, with the end of hostilities, these could now be revealed.¹ In fact, as has been clearly demonstrated by Richard J. Aldrich, officials in Whitehall attempted to manage the release of intelligence-related subject matter into the public domain, largely to protect the secrets of code-breaking and strategic deception.² While receiving the most attention, these were not the only wartime activities which were strictly off-limits to publishers, as far as the authorities were concerned. Efforts to publish details of prisoner interrogation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.22</book-part-id>
+                  <title-group>
+                     <label>Chapter 14</label>
+                     <title>1968 – ‘A YEAR TO REMEMBER’ FOR THE STUDY OF BRITISH INTELLIGENCE?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Svendsen</surname>
+                           <given-names>Adam D. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>Nineteen-sixty-eight was a momentous year for a multitude of reasons. In the wider context of the Cold War, the ‘Prague Spring’ was underway in Eastern Europe, whilst the war in Vietnam was gathering an ugly momentum. Both Martin Luther King and Robert ‘Bobby’ Kennedy were assassinated.¹</p>
+                     <p>Albeit mixed, uneven and occurring on incremental bases, in the context of British intelligence, trends towards a greater degree of ‘liberalisation’ were gradually emerging. As scholar Richard J. Aldrich has argued<italic>vis-à-vis</italic>the world of intelligence and amid various political propaganda battles: ‘Secret service exploits were emerging as one of the most eye-catching variants</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.23</book-part-id>
+                  <title-group>
+                     <label>Chapter 15</label>
+                     <title>THEIR TRADE IS TREACHERY:</title>
+                     <subtitle>A RETROSPECTIVE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pincher</surname>
+                           <given-names>Chapman</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>281</fpage>
+                  <abstract>
+                     <p>After I retired from daily Fleet Street journalism in 1979, aged sixty-five, I moved home to the quiet West Berkshire village of Kintbury, where I intended to make the most of the nearby trout-fishing and pheasant-shooting facilities. Though I expected to continue as a novelist, with occasional journalism, I thought my days of writing about defence issues and espionage, in particular, were over. Then on the summery afternoon of 4 September 1980, an unexpected telephone call plunged me back into the mainstream of treachery, politics and intrigue with national and international consequences, involving some of the most senior politicians, civil</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.24</book-part-id>
+                  <title-group>
+                     <label>Chapter 16</label>
+                     <title>INTELLIGENCE AND ‘OFFICIAL HISTORY’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Baxter</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jeffery</surname>
+                           <given-names>Keith</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>289</fpage>
+                  <abstract>
+                     <p>The extraordinary expansion of contemporary and historical intelligence studies since the mid-1970s has been both reflected and stimulated by developments in government policy, as well as academic initiative.² On the government side – and we are confining ourselves here to the situation within the United Kingdom – there are two main aspects to this. First, there is the commissioning and writing of ‘Official Histories’; and, second, the release of documents. One rationale for the UK government’s Official History programme is ‘to provide authoritative histories in their own right; [and] a reliable secondary source for historians until all the records are</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt3fgsh7.25</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>304</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

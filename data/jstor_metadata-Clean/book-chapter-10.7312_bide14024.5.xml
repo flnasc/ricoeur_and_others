@@ -1,0 +1,236 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">bide14024</book-id>
+      <subj-group>
+         <subject content-type="call-number">B799.B53 2008</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, Comparative</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Philosophy, Indic</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">self (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Transcendence (Philosophy)</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Language and languages</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Crossing Horizons</book-title>
+         <subtitle>World, Self, and Language in Indian and Western Thought</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Biderman</surname>
+               <given-names>Shlomo</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="translator" id="contrib2">
+            <role>TRANSLATED BY</role>
+            <name name-style="western">
+               <surname>ROTEM</surname>
+               <given-names>ORNAN</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>08</day>
+         <month>02</month>
+         <year>2008</year>
+      </pub-date>
+      <isbn content-type="epub">9780231511599</isbn>
+      <isbn content-type="epub">0231511590</isbn>
+      <publisher>
+         <publisher-name>Columbia University Press</publisher-name>
+         <publisher-loc>NEW YORK</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2008</copyright-year>
+         <copyright-holder>Columbia University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7312/bide14024"/>
+      <abstract abstract-type="short">
+         <p>In this book, Shlomo Biderman examines the views, outlooks, and attitudes of two distinct cultures: the West and classical India. He turns to a rich and varied collection of primary sources: the<italic>Rg Veda</italic>, the Upanishads, and texts by the Buddhist philosophers Någårjuna and Vasubandhu, among others. In studying the West, Biderman considers the Bible and its commentaries, the writings of such philosophers as Plato, Descartes, Berkeley, Kant, and Derrida, and the literature of Kafka, Melville, and Orwell. Additional sources are Mozart's<italic>Don Giovanni</italic>and seminal films like Ingmar Bergman's<italic>Persona</italic>.</p>
+         <p>Biderman uses concrete examples from religion and literature to illustrate the formal aspects of the philosophical problems of transcendence, language, selfhood, and the external world and then demonstrates their plausibility in actual situations. Though his method of analysis is comparative, Biderman does not adopt the disinterested stance of an "ideal" spectator. Rather, Biderman approaches ancient Indian thought and culture from a Western philosophical standpoint to uncover cultural presuppositions that can be difficult to expose from within the culture in question.</p>
+         <p>The result is a fascinating landmark in the study of Indian and Western thought. Through his comparative prism, Biderman explores the most basic ideas underlying human culture, and his investigation not only sheds light on India's philosophical traditions but also facilitates a deeper understanding of our own.</p>
+      </abstract>
+      <counts>
+         <page-count count="368"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract abstract-type="extract">
+                     <p>This book sets itself the task of examining and comparing the views, outlooks, and attitudes of two distinct cultures. However, its purpose is neither to offer a bird’s-eye view of these cultures nor to gaze at them from the privileged point of view of some disinterested ideal spectator. On the contrary, the book as a whole is imbued by the author’s philosophical outlook and intellectual convictions, which are, in this case, distinctly Western (as they are commonly—and perhaps inaccurately—referred to). In adopting the comparative method to examine Indian and Western philosophical views it is not my intention to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.5</book-part-id>
+                  <title-group>
+                     <label>ONE</label>
+                     <title>Far and Beyond:</title>
+                     <subtitle>TRANSCENDENCE IN TWO CULTURES</subtitle>
+                  </title-group>
+                  <fpage>13</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The following verse, whose beauty is suffused by its simplicity, is the first line of an ancient Hebrew liturgical poem (<italic>piyyut</italic>) describing the high priest’s rites on the Day of Atonement. Before the actual description itself, the poet turns to what he sees as the absolute beginning of all beginnings, namely, God:</p>
+                     <p>Then, with all naught you were all</p>
+                     <p>And with all being you were filled by all</p>
+                     <p>It would seem that this verse needs no explanation: a poet can take as much license as he wants and choose to reveal while concealing, shedding light only to then obscure his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.6</book-part-id>
+                  <title-group>
+                     <label>TWO</label>
+                     <title>One Language, Many Things:</title>
+                     <subtitle>ON THE ORIGINS OF LANGUAGE</subtitle>
+                  </title-group>
+                  <fpage>75</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the West the presupposition of transcendence has made the idea of exteriority—whether in the guise of abstract Platonic Forms or of a personal deity—the underlying conceptual scheme by which the world is understood, described, and evaluated. Evidently, the presence of this presupposition served as a conceptual bulwark preventing the intrusion of chance into the inner core of the Platonic or monotheistic worldview. Both Plato and his disciples, and the Western promulgators of monotheism, rejected out of hand any outlook that allowed capricious chance to assume an important role. Indeed, chance has been viewed as the archenemy of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.7</book-part-id>
+                  <title-group>
+                     <label>THREE</label>
+                     <title>My-Self:</title>
+                     <subtitle>DESCARTES AND EARLY UPANIṢADS ON THE SELF</subtitle>
+                  </title-group>
+                  <fpage>119</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In the sixth and final section of his <italic>Discourse on the Method</italic>, Descartes (1596–1650) broods on the misapprehension of his philosophical ideas. It seems to him that the reason most philosophers fail to understand him is because they are so entrenched in the past, unable to free themselves from the shackles of philosophical convention or relax their rigid doctrines. He describes the struggle with his philosophical opponents in quite an exceptional manner:</p>
+                     <p>In this they seem to resemble a blind man who, in order to fight without disadvantage against someone who can see, lures him into the depths of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.8</book-part-id>
+                  <title-group>
+                     <label>FOUR</label>
+                     <title>No-Self:</title>
+                     <subtitle>KANT, KAFKA, AND NĀGĀRJUNA ON THE DISAPPEARING SELF</subtitle>
+                  </title-group>
+                  <fpage>175</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Roughly three hundred years after the I-think had been established as the Archimedean point of Descartes’ urge for certainty, we find Franz Kafka standing on the ruins of this thinking self lamenting its death or, more precisely, realizing its unavoidable vacuity:</p>
+                     <p>The observer of the soul cannot penetrate into the soul, but there doubtless is a margin where he comes into contact with it. Recognition of this contact is the fact that even the soul does not know of itself. Hence it must remain unknown. That would be sad only if there were anything apart from the soul, but there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.9</book-part-id>
+                  <title-group>
+                     <label>FIVE</label>
+                     <title>“It’s All in the Mind”:</title>
+                     <subtitle>BERKELEY, VASUBANDHU, AND THE WORLD OUT THERE</subtitle>
+                  </title-group>
+                  <fpage>241</fpage>
+                  <abstract abstract-type="extract">
+                     <p>While Winston Smith, the hero of George Orwell’s <italic>Nineteen Eightyfour,</italic> was being brutally tortured in the place where there is no darkness—the permanently lit cellars of the Ministry of Love—O’Brien, the arch-inquisitor and infamous torturer, found the leisure to enlighten Smith on a few general issues:</p>
+                     <p>You preferred to be a lunatic, a minority of one. Only the disciplined mind can see reality, Winston. You believe that reality is something objective, external, existing in its own right. You also believe that the nature of reality is self-evident. When you delude yourself into thinking that you see something, you</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.10</book-part-id>
+                  <title-group>
+                     <title>NOTES</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.11</book-part-id>
+                  <title-group>
+                     <title>BIBLIOGRAPHICAL NOTES</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">bide14024.12</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>347</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

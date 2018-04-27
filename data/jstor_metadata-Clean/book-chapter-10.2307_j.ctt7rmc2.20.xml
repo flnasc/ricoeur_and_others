@@ -1,0 +1,451 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt7rmc2</book-id>
+      <subj-group>
+         <subject content-type="call-number">B783.Z7G38 2011</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bruno, Giordano, 1548-1600</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>History of Science &amp; Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Essays on Giordano Bruno</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>GATTI</surname>
+               <given-names>HILARY</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>18</day>
+         <month>10</month>
+         <year>2010</year>
+      </pub-date>
+      <isbn content-type="ppub">9780691148397</isbn>
+      <isbn content-type="ppub">0691148392</isbn>
+      <isbn content-type="epub">9781400836932</isbn>
+      <publisher>
+         <publisher-name>Princeton University Press</publisher-name>
+         <publisher-loc>PRINCETON; OXFORD</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2011</copyright-year>
+         <copyright-holder>Princeton University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt7rmc2"/>
+      <abstract abstract-type="short">
+         <p>This book gathers wide-ranging essays on the Italian Renaissance philosopher and cosmologist Giordano Bruno by one of the world's leading authorities on his work and life. Many of these essays were originally written in Italian and appear here in English for the first time. Bruno (1548-1600) is principally famous as a proponent of heliocentrism, the infinity of the universe, and the plurality of worlds. But his work spanned the sciences and humanities, sometimes touching the borders of the occult, and Hilary Gatti's essays richly reflect this diversity.</p>
+         <p>The book is divided into sections that address three broad subjects: the relationship between Bruno and the new science, the history of his reception in English culture, and the principal characteristics of his natural philosophy. A final essay examines why this advocate of a "tranquil universal philosophy" ended up being burned at the stake as a heretic by the Roman Inquisition. While the essays take many different approaches, they are united by a number of assumptions: that, although well versed in magic, Bruno cannot be defined primarily as a Renaissance Magus; that his aim was to articulate a new philosophy of nature; and that his thought, while based on ancient and medieval sources, represented a radical rupture with the philosophical schools of the past, helping forge a path toward a new modernity.</p>
+      </abstract>
+      <counts>
+         <page-count count="376"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.3</book-part-id>
+                  <title-group>
+                     <title>PREFACE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GATTI</surname>
+                           <given-names>HILARY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.4</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.5</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>BEGINNING AS NEGATION IN THE ITALIAN DIALOGUES OF GIORDANO BRUNO</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Suppose that an author has written a book dedicated to a figure of importance—for example, the French ambassador in London in the year 1584. The book opens with a gesture of almost theatrical physicality: the author represents himself as handing his book respectfully to his patron. It is a present. Without further ado, he starts to outline its contents. It is a supper (the reader knows that from the title,<italic>La cena de le ceneri / The Ash Wednesday Supper</italic>): but what kind of a supper is it? The author of the book, who has already revealed himself on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.6</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>BETWEEN MAGIC AND MAGNETISM:</title>
+                     <subtitle>BRUNO’S COSMOLOGY AT OXFORD</subtitle>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>In 1960, robert mcnulty discovered and published in<italic>Renaissance News</italic>the bitterly satirical page on Giordano Bruno’s lectures at Oxford of 1583 that he had found in the book by George Abbott of 1604,<italic>The Reasons Which Doctour Hill Hath Brought, for the Upholding of Papistry.</italic>¹ It was an important discovery, but it also created an interpretative crux for scholars concerned with the development of Bruno’s post-Copernican cosmology. This chapter will take as its subject the technical problem of the precise stage that Bruno’s cosmological speculation might have reached when he spoke at Oxford in the summer of 1583—“might</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.7</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>BRUNO’S COPERNICAN DIAGRAMS</title>
+                  </title-group>
+                  <fpage>40</fpage>
+                  <abstract>
+                     <p>The study of giordano bruno’s copernicanism has a long and distinguished history, going back to the nineteenth century and continuing until the present day. It has involved a number of prestigious scholars, both historians of science and historians of philosophy, such as Paul-Henri Michel, Alexandre Koyré, Hélène Vedrine, Thomas Kuhn, and Robert Westman, among many others.¹ This notable body of comment on Bruno as one of the major Copernican philosophers of the sixteenth century will be taken as given, and mention will be made of the details of his reading of the<italic>De revolutionibus</italic>only when necessary to the development</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.8</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>BRUNO AND THE NEW ATOMISM</title>
+                  </title-group>
+                  <fpage>70</fpage>
+                  <abstract>
+                     <p>In 1417, poggio bracciolini rediscovered the lost<italic>De rerum natura</italic>by Lucretius, the Roman disciple of Epicurus. A largely forgotten and, in religious terms, severely condemned philosophical discourse was reintroduced into western culture. Categories of explanation became available for questions concerning the nature of matter, the mortality or immortality of the soul, and above all, generation and corruption, which the few atomists of the Middle Ages, such as Nicholas of Autrecourt or Nicole Oresme, had had to glean indirectly from the numerical Pythagoreanism of Plato’s<italic>Timaeus</italic>; the critical commentary of Aristotle, Cicero, or Lanctatius; or the poetry of Virgil.¹</p>
+                     <p>Research</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.9</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>THE MULTIPLE LANGUAGES OF THE NEW SCIENCE</title>
+                  </title-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>The new science that begins to emerge at the end of the sixteenth century can be seen as a search for the order that underlies the vicissitudes of the natural world. This immediately raises the problem of the language, or languages, most appropriate for grasping and following the logic of that order. The great scientific names of the end of the sixteenth century, Galileo, Kepler, Tycho Brahe, had no doubts about the answer to that question: God wrote the universe in the language of mathematics, and the new science must learn that language in order to discover the order that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>PETRARCH, SIDNEY, BRUNO</title>
+                  </title-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>These words are from one of the final pages of Giordano Bruno’s dedicatory letter of his<italic>Heroici furori</italic>to Sir Philip Sidney.¹ The<italic>Furori</italic>, composed of a Petrarchan sonnet sequence interspersed with long passages of philosophical comment in prose, was the last of the six dialogues in Italian written by Bruno in London and published by the printer John Charlewood between 1584 and 1585. The words quoted come toward the end of the long and complex dedicatory letter to Sir Philip Sidney.² This remarkable document is noteworthy for many reasons. Here I am above all concerned with its definition of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>THE SENSE OF AN ENDING IN BRUNO’S HEROICI FURORI</title>
+                  </title-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>An undeniable characteristic of books is that they come to an end. This was the aspect of books investigated by Frank Kermode in his<italic>The Sense of an Ending</italic>, which has given me the title for this chapter. Kermode—nowadays Sir Frank, and Britain’s most prestigious living literary critic—is not concerned at all with Bruno. His<italic>Sense of an Ending</italic>, however, was considered by a distinguished colleague, on publication in 1966, to be “a very beautiful book”—a judgment with which I can only agree. As well as my title, it has given me many of the ideas about</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.12</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>BRUNO AND SHAKESPEARE:</title>
+                     <subtitle>HAMLET</subtitle>
+                  </title-group>
+                  <fpage>140</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Hamlet’s</italic>central position as a moment of transition between the early period of Shakespeare’s more brilliant and happy mood toward the years of his mature tragic art can be considered as an acquired fact in almost any modern reading of his best known and most celebrated play. Those who wish to underline Shakespeare’s position in the course of British history between the end of the sixteenth century and the beginning of the seventeenth, when<italic>Hamlet</italic>was written and acted for the first time (1600–1601), often explain this dramatic change of mood by pointing to the final years of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.13</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>BRUNO’S CANDELAIO AND BEN JONSON’S THE ALCHEMIST</title>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>In this passage from the ninth earl of Northumberland’s<italic>Instructions</italic>to his son, written in the Tower of London, where he was imprisoned in the early years of the seventeenth century, we find the expression of a deeply ambiguous attitude toward alchemy.¹ In the context of the impetuous developments in the new sciences that characterize the early seventeenth century, alchemy was rapidly assuming the role of an outworn discipline, pervaded by ritualistic and linguistic practices of antique origin. Furthermore, it appeared surrounded by mystery due to its obscure and occult symbolism, partly derived from magical and Hermetical influences, and partly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.14</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>BRUNO AND THE STUART COURT MASQUES</title>
+                  </title-group>
+                  <fpage>172</fpage>
+                  <abstract>
+                     <p>It has long been known that Bruno’s fourth Italian dialogue,<italic>Lo spaccio della bestia trionfante</italic>, written and published in London in 1584, was used as a source by Thomas Carew for his masque<italic>Coelum britannicum.</italic>¹ This was Carew’s only masque but it was by no means a minor event within the Stuart calendar of court entertainments. However, in spite of general agreement on the quality of<italic>Coelum britannicum</italic>as one of the major entertainments of the Stuart Court, the use by Carew of Bruno’s dialogue has never been extensively or satisfactorily commented on. Both Bruno and Carew scholars have clearly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.15</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>ROMANTICISM:</title>
+                     <subtitle>BRUNO AND SAMUEL TAYLOR COLERIDGE</subtitle>
+                  </title-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>On september 16, 1798, two young poets left England for Germany. Only a few days previously, they had published together a small volume of verses destined to change the course of English literature: the<italic>Lyrical Ballads.</italic>However, the implications of these poems, which proposed a reevaluation of the life of the sentiments and the spirit of the individual in forceful and unadorned language, had not yet been fully appreciated. Both their departure from England and their arrival in Germany went almost unnoticed.</p>
+                     <p>Once in Germany, William Wordsworth, whose central concerns were always of a primarily literary nature, was overcome with</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.16</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>BRUNO AND THE VICTORIANS</title>
+                  </title-group>
+                  <fpage>220</fpage>
+                  <abstract>
+                     <p>When j. c. shairp published his<italic>Studies in Poetry and Philosophy</italic>in 1868, he included a section on Coleridge emphasizing the break that, under his influence, separated the Romantic and idealistic period of the beginning of the century from the culture of the Enlightenment. From the point of view of Shairp, which is also that of Coleridge, the Enlightenment was based on a utilitarian attitude that denoted an active but restricted and unimaginative intelligence, notably deprived of fantasy, profound sentiment, a sense of reverence, or spiritual sensibility. Shairp added that, in the Victorian England in which he was writing, there</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.17</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>BRUNO’S NATURAL PHILOSOPHY</title>
+                  </title-group>
+                  <fpage>249</fpage>
+                  <abstract>
+                     <p>Ever since bruno started to be studied seriously as a key figure in the European philosophical tradition, there has been uncertainty as to what kind of philosopher he was. John Toland proposed him to the more radical components of the Enlightenment culture of his time as a fundamentally anti-hierarchical thinker, drawing out all the most subversive implications of his post-Copernican, infinite cosmology, with its relativization of values, not only spatial but also social, political, historical, and religious.¹ But when Friedrich Heinrich Jacobi included some pregnant passages from one of Bruno’s major philosophical dialogues in Italian,<italic>De la causa, principio et</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.18</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>BRUNO’S USE OF THE BIBLE IN HIS ITALIAN PHILOSOPHICAL DIALOGUES</title>
+                  </title-group>
+                  <fpage>264</fpage>
+                  <abstract>
+                     <p>This chapter originated with the realization that during the composition of his philosophical works, Giordano Bruno made a constant and expert use of numerous Biblical texts. This may seem surprising, at first sight, in a philosopher noted above all, in his own days and in ours, for his heretical opinions with respect to the fundamental doctrines of both the Hebrew and the Christian religions. Nonetheless, Bruno’s Biblical references do not appear to have a merely rhetorical or ornamental function, nor do they express a purely ironical or satirical attitude toward the Biblical texts, although they are certainly eccentric with respect</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.19</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>SCIENCE AND MAGIC:</title>
+                     <subtitle>THE RESOLUTION OF CONTRARIES</subtitle>
+                  </title-group>
+                  <fpage>280</fpage>
+                  <abstract>
+                     <p>This chapter attempts to make a contribution to a discussion that has been developing for some decades, but that seems far from being exhausted. It becomes particularly relevent in the light of the recent book by this author that reproposes Bruno’s thought as concerned, in many of its most central moments, with properly scientific and even technological subjects, in a modern sense of those words.¹ Such a reading of Bruno’s thought creates a problem with respect to an approach such as that of Frances Yates, which claims not only to find in his works a radical culmination of the magical,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.20</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>BRUNO AND METAPHOR</title>
+                  </title-group>
+                  <fpage>297</fpage>
+                  <abstract>
+                     <p>Giordano bruno was born only five years after the first publication of Copernicus’s<italic>De revolutionibus</italic>in 1543, and only thirty-odd years after Martin Luther’s excommunication from the Catholic Church had divided Europe and its culture into two militantly hostile factions. Bruno’s lifetime in the second half of the sixteenth century thus covers a vital if often turbulent moment of cultural transition, which would radically affect the history of both science and the humanities. This chapter will primarily be concerned with his thinking about language, and especially with his thoughts about metaphor, thus aligning itself with an interpretative model of early</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.21</book-part-id>
+                  <title-group>
+                     <title>EPILOGUE</title>
+                     <subtitle>WHY BRUNO’S “A TRANQUIL UNIVERSAL PHILOSOPHY” FINISHED IN A FIRE</subtitle>
+                  </title-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>In one of his italian philosophical dialogues written and published in London in 1584,<italic>De l’infinito</italic>,<italic>universo et mondi</italic>, Giordano Bruno described his life’s work as an attempt to define a “tranquil universal philosophy”: a philosophy that he imagined as a peaceful swim through the infinite ocean of universal being.¹ This was Bruno’s third philosophical dialogue written in Italian. In it, he criticizes the fifteenth-century Catholic cardinal, Nicholas Cusanus, who anticipated him in proposing an infinite universe. Cusanus, however, proposed a dualistic universe of Aristotelian origin and with clearly Christian and neo-Thomistic implications, divided between spheres of being of intense</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.22</book-part-id>
+                  <title-group>
+                     <title>Bibliography of Cited Works by and on Giordano Bruno</title>
+                  </title-group>
+                  <fpage>325</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt7rmc2.23</book-part-id>
+                  <title-group>
+                     <title>INDEX</title>
+                  </title-group>
+                  <fpage>335</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

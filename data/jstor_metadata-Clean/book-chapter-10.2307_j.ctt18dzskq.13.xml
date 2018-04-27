@@ -1,0 +1,623 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt18dzskq</book-id>
+      <subj-group>
+         <subject content-type="call-number">HM623.I58 2003</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Study and teaching</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Culture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Study and teaching</subject>
+            <subj-group>
+               <subject content-type="lcsh">Interviews</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Interrogating Cultural Studies</book-title>
+         <subtitle>Theory, Politics and Practice</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Bowman</surname>
+               <given-names>Paul</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>11</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780745317144</isbn>
+      <isbn content-type="epub">9781849645010</isbn>
+      <publisher>
+         <publisher-name>Pluto Press</publisher-name>
+         <publisher-loc>LONDON; STERLING, VIRGINIA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2003</copyright-year>
+         <copyright-holder>Pluto Press</copyright-holder>
+         <copyright-holder>Contributors</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt18dzskq"/>
+      <abstract abstract-type="short">
+         <p>This book presents an original and innovative new approach to the field of cultural studies in the form of a series of dynamically executed interviews with some of the world’s leading and some of the most challenging emergent cultural theorists, from both sides of the Atlantic and beyond: Professor Mieke Bal, Professor Catherine Belsey, Professor Steven Connor, Professor Simon Critchley, Professor Thomas Docherty, Dr Jeremy Gilbert, Professor Sue Golding, Professor Lynette Hunter, Dr Martin McQuillan, Professor John Mowitt, Professor Christopher Norris, Professor Griselda Pollock, Professor Adrian Rifkin, Professor Jeremy Valentine, Professor Julian Wolfreys, and Professor Slavoj Zizek are all included here. The book is framed by lively and informative introductions, which introduce the work of these thinkers, and which also introduce the reader to the crucial importance of the issues that the interviews address. The result is an entertaining and hugely useful introduction to the key ideas in the field, the strengths and problematic weaknesses of cultural studies as a discipline, allowing the reader to chart its development, and to identify emerging trends. This book is ideal for students of cultural studies and the interdisciplinary arts and humanities, and will be of great interest to teachers and researchers working within a very wide range of areas of cultural studies.</p>
+      </abstract>
+      <counts>
+         <page-count count="265"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Interrogating Cultural Studies</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Few, if any, entire academic fields have attracted more consistently febrile attention than cultural studies. It has always received criticism, invective, vituperation; often angry, often confused and confusing (mis)representations of what it is, what it does, and why it goes about things the ways it does. It has also, of course, had its fair share of celebration, (over)indulgent congratulation and flattery. These two types of reaction entail each other: if cultural studies has often announced itself as being somehow messianic or at least deeply consequential – ‘radical’, ‘revolutionary’, ‘emancipatory’, and so on – then it is surely inevitable that those</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.5</book-part-id>
+                  <title-group>
+                     <title>[Part One: Introduction]</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The first interview, with Catherine Belsey, clearly conveys the dominant narrative of cultural studies’ historical formations. It paints a very lucid picture of the inception and development of cultural studies. Like Mieke Bal’s contribution, both focus on the problems attendant to the specificity and implications of the methodological orientations of cultural studies, as does Martin McQuillan’s – each, though, in very different</p>
+                     <p>Belsey celebrates cultural studies’ heroic historical achievements, but berates its institutionalisation, seeing therein its stagnation. She proposes the need for a revivification of cultural studies – a revivification not necessarily entailing the change of name that she suggests</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>From Cultural Studies to Cultural Criticism?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Belsey</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>I should make clear from the beginning that I address your questions from outside cultural studies itself. I have learnt a great deal from cultural studies, but in the process I have also developed some reservations about what seem to me (still from the outside, and perhaps, therefore, from a position less well informed than it might be) the limits of its focus. Or perhaps ‘reservations’ is too strong a term. My unease is not about what cultural studies does, and does well, but about the areas it appears to leave out. I reflect on the issues you raise, therefore,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>From Cultural Studies to Cultural Analysis:</title>
+                     <subtitle>‘A Controlled Reflection on the Formation of Method’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bal</surname>
+                           <given-names>Mieke</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>30</fpage>
+                  <abstract>
+                     <p>In the wake of women’s studies, cultural studies has, in my view, been responsible for the absolutely indispensable opening up of the disciplinary structure of the humanities. By challenging methodological dogma, and elitist prejudice and value judgement, it has been uniquely instrumental in at least making the academic community aware of the conservative nature of its endeavours, if not everywhere forcing it to change. It has, if nothing else, forced the academy to realise its collusion with an elitist white-male politics of exclusion and its subsequent intellectual closure. Everything about cultural studies that makes me not want to say that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Projection of Cultural Studies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McQuillan</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Before I answer your questions, which in some ways are all the same question, let us begin with a question before the question, namely the title. You wish to question the question, ‘interrogating cultural studies’. I am worried by this formulation, particularly in light of some of the answers I will give below. Yes, cultural studies can interrogate, or be interrogating. At least, put another way, cultural studies can do some hard questioning. And equally, hard questions need to be asked of cultural studies. While the question itself might be indicative of an ontological mode of thought this does not</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.9</book-part-id>
+                  <title-group>
+                     <title>[Part Two: Introduction]</title>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>This part represents quite a provocative starting point. The views of these two non-cultural-studies philosophers will prove very helpful for students of cultural studies, whilst representing no less of a challenge to cultural studies. Both Simon Critchley and Chris Norris have authored philosophical studies that have proved very influential within cultural studies, yet they keep their distance, never suggesting that they ‘do’ cultural studies ‘proper’. Nevertheless, they reflect on the discipline from largely affiliative, though critical, perspectives.</p>
+                     <p>As the titles of their contributions indicate, Critchley is more effusive, as he sets out to describe ‘Why I Love Cultural Studies’; while</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.10</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Why I Love Cultural Studies</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Critchley</surname>
+                           <given-names>Simon</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>59</fpage>
+                  <abstract>
+                     <p>I see my work as intimately connected to culture and the study of culture; and by culture I mean the processes by which human beings’ identities, lives and institutions are formed. By ‘culture’ I understand ‘formation’, or what Hegel would call<italic>Bildung</italic>, which can be translated as ‘culture’. And I tend to see that in terms of my own discipline, or through my own discipline, which is philosophy. For me philosophy is and should be a meditation on the meaning of culture – a meditation<italic>on</italic>culture. But often it isn’t. So what I see as definitive of philosophy in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.11</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Two Cheers for Cultural Studies:</title>
+                     <subtitle>A Philosopher’s View</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Norris</surname>
+                           <given-names>Chris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>76</fpage>
+                  <abstract>
+                     <p>One of my difficulties in answering that question would be the problem I have with certain aspects of the trend toward interdisciplinarity. Of course it’s good that people should talk across disciplines, and that they should question some of the more restrictive practices that go on within disciplines. It’s good that philosophers should talk to sociologists, sociologists to cultural theorists, cultural theorists to historians, historians to economists and legal theorists, etc. It opens up all sorts of interesting and valuable lines of enquiry. But there’s also the risk, I think, that if you push too far towards that breaking down</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.12</book-part-id>
+                  <title-group>
+                     <title>[Part Three: Introduction]</title>
+                  </title-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>In this part we find strong arguments<italic>for</italic>cultural studies: compelling accounts of its successes, achievements and political force. The two interviews comprising it are very different in terms of tone and apparent positioning, but surprisingly aligned nevertheless. Adrian Rifkin in a sense ‘universalises’ the singular position he finds himself in – so he speaks, apparently, only of himself and his own work, but in such a way as to cast important illumination on what you might call the universal intellectual or academic condition. On the other hand, Griselda Pollock provides an account of cultural studies’ importance in general.</p>
+                     <p>Rifkin</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Inventing Recollection</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rifkin</surname>
+                           <given-names>Adrian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>In terms of the possible ways of thinking about that, one of the best ways I can think of starting would be completely autobiographical: it would be to give you an image of myself lying in my bath in my house in Southsea, Hampshire, just after the middle of the 1970s, reading essays by students, who were either on the historical studies course at Portsmouth Polytechnic, or who were doing a mixture of historical studies and cultural studies; and being struck by, and thinking about, some of the key words they were using in their essays, which were the kinds</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Becoming Cultural Studies:</title>
+                     <subtitle>The Daydream of the Political</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pollock</surname>
+                           <given-names>Griselda</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>125</fpage>
+                  <abstract>
+                     <p>I very much like the idea of naming cultural studies a project. I have recently returned from a conference in the United States where I became aware of the great danger of territorial wars in the academy. The Germanic university on which so much of the modern university system is based requires the very clear definition of disciplinary boundaries. In the last 30 years we have witnessed curious developments of new kinds of academic enterprise that are marked by the nomenclature ‘studies’: these mark the entry of hitherto excluded voices or areas into the domain of research and pedagogy, but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.15</book-part-id>
+                  <title-group>
+                     <title>[Part Four: Introduction]</title>
+                  </title-group>
+                  <fpage>143</fpage>
+                  <abstract>
+                     <p>The question here is no longer the much-exercised question of ‘what is cultural studies?’, but rather, ‘for what?’, ‘for whom?’, ‘in the name of what project?’, ‘what politics?’, what properties, orientations and affiliations does cultural studies have, should it have; what methods, aims, intentions; in what context does it see itself; etc.? Jeremy Gilbert thinks through the schema and the question of ‘Friends and Enemies: Which Side is Cultural Studies On?’, while Julian Wolfreys interrogates the manner in which it is too easy to forget the lessons of deconstruction, and to consider cultural studies ‘as if such a thing existed’.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.16</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Friends and Enemies:</title>
+                     <subtitle>Which Side is Cultural Studies On?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gilbert</surname>
+                           <given-names>Jeremy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>What is cultural studies for, and what is it against? There can be, of course, no single answer to this question. There is a habit amongst commentators, especially those who, being located outside the UK, are understandably removed from the political contexts which produced British cultural studies, of deploying the term ‘cultural studies’ as an adjective, using it to describe certain determinate political positions as well as certain specifiable methodologies. Such references to ‘cultural studies’ positions or approaches effectively conflate cultural studies – an interdisciplinary field of enquiry – with the political tradition which has informed its dominant strand in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.17</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>… As If Such a Thing Existed …</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wolfreys</surname>
+                           <given-names>Julian</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>162</fpage>
+                  <abstract>
+                     <p>Your questioning location of me, across cultures, within and across particular institutional systems which are both similar and dissimilar, anticipates in a coded fashion my initial thoughts on your question apropos the matter of what we call ‘culture’, ‘cultural studies’, and so on. Of course, before answering, and this may be somewhat predictable, I’d say that we can’t say for sure that we know what we mean when we speak of culture, or cultural studies, nor should we rush to any definition. It is perhaps the very ‘lived’ condition of a culture, of different cultures and the differences within any</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.18</book-part-id>
+                  <title-group>
+                     <title>[Part Five: Introduction]</title>
+                  </title-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>What is the position of cultural studies? What does the concept of ‘position’ entail or mean, itself; or indeed, how might it, paradoxically, position us, in ways that we cannot see – is our viewpoint positioned by our conception of what<italic>position itself</italic>is, and of what<italic>our</italic>position is? Both John Mowitt and Jeremy Valentine are explicitly attentive to this, and trace many ramifications of the problems and possibilities of ‘position’, an attentiveness that leads to highly circumspect analyses of the agency/structure conundrum, or that is, to the relationship between ‘action’ and what makes it possible. Steven Connor, too,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.19</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Cultural Studies, in Theory</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mowitt</surname>
+                           <given-names>John</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>I should begin by emphasising that the concept of position is one that has interested me for quite some time. I have written about it both in relation to Fanon and the critique of Eurocentrism, and also in relation to trauma studies. For this reason I fear that I may, almost without thinking, make more of this question, its terms, than might otherwise be necessary. Let’s hope that this helps to answer rather than avoid the question.</p>
+                     <p>What strikes me about the concept of position is that it effortlessly calls up both tendency and location, or put differently, it directly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.20</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>The Subject Position of Cultural Studies:</title>
+                     <subtitle>Is There a Problem?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Valentine</surname>
+                           <given-names>Jeremy</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>These questions insist on answers in the first person singular and there’s a lot of virement between them. So I will try to answer all the questions but not necessarily in the right order and the right place to make allowances for a fair bit of grammatical and conceptual drift.</p>
+                     <p>So to begin with the first question, I must confess that I barely manage to position myself at all with respect to anything. My overwhelming experience is one of being positioned. So I am not very comfortable with my existence in a culture that can be characterised by the prevalence</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.21</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>What Can Cultural Studies Do?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Connor</surname>
+                           <given-names>Steven</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>For some time, I have found or at least taken myself to be at odds with what seem to have become the norms and assumptions of cultural studies, as opposed to cultural study. Since I have never been employed in a Department of Cultural Studies, nor had responsibility for sustaining collective belief on a large scale that cultural studies was what I was primarily engaged with, it has been easy for me to maintain a very loose and irresponsible relation with cultural studies. This can be a pleasant and invigorating sensation. Cultural studies seems to me to have produced its</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.22</book-part-id>
+                  <title-group>
+                     <title>[Part Six: Introduction]</title>
+                  </title-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>Here we see the two most critical contributions, but critical in an immensely valuable way. The criticism is far from unjustified. Thomas Docherty’s ‘Responses’, and Lynette Hunter’s ‘Unruly Fugues’, strenuously interrogate what might be termed dimensions of cultural studies that have been overlooked, downplayed, or otherwise neglected. If cultural studies is to continue to be – or, indeed, if it is ever to become – a vital and valuable academic, intellectual, cultural and political force, then one must never be complacent or self-congratulatory. The charges levelled against cultural studies here are potentially quite devastating. But, again, to the extent that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.23</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Responses</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Docherty</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>221</fpage>
+                  <abstract>
+                     <p>In all that follows, I shall make a distinction between ‘cultural studies’ on the one hand, and ‘the study of culture’ on the other. In making such a distinction, I aim to distance myself and my work, such as it has been, from ‘cultural studies’ while at the same time identifying myself as one who studies not merely or not only literature but also what used to be called the ‘histories of ideas’, philosophy, the histories of everyday conditions of living, the other arts, and so on.</p>
+                     <p>It might be wise, at the outset, for me to outline what has</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.24</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Unruly Fugues</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hunter</surname>
+                           <given-names>Lynette</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>As with other museum pieces, the sections in this commentary are accompanied by a legend, which are as effacing and illuminating as most of those little bits of card placed alongside museum exhibits. They pose seven assumptions about cultural studies in the UK with which I’ll try to engage:</p>
+                     <p>1. Cultural studies has a) no position and b) no text [and c) no history].</p>
+                     <p>2. Cultural studies is banal or cynical: a convenient way of finding an institutional name for theory which is a) metadiscursive and therefore without material, and b) interdisciplinary and therefore with no content.</p>
+                     <p>3. Cultural studies is narcissistic: only</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.25</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>253</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt18dzskq.26</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>256</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

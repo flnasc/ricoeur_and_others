@@ -1,0 +1,464 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1h64m82</book-id>
+      <subj-group>
+         <subject content-type="call-number">LC1060.E54 2016</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Enseignement professionnel</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Professeurs (Enseignement professionnel)</subject>
+         <subj-group>
+            <subject content-type="lcsh">Formation</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Education</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Enjeux et défis de la formation à l'enseignement professionnel</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Sous la direction de</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>GAGNON</surname>
+               <given-names>CLAUDIA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>COULOMBE</surname>
+               <given-names>SANDRA</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>19</day>
+         <month>10</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760546103</isbn>
+      <isbn content-type="epub">9782760546110</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+         <publisher-loc>Québec</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Presses de l’Université du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1h64m82"/>
+      <abstract abstract-type="short">
+         <p>Depuis plusieurs années, les milieux politique et éducatif ont mis en œuvre différentes avenues pour valoriser la formation professionnelle au Québec. À l’automne 2003, le baccalauréat en enseignement professionnel devient un programme de 120 crédits et la seule voie d’accès au brevet d’enseignement. Contrairement aux autres secteurs de formation à l’enseignement, les étudiants de ce secteur occupent déjà, à 81 %, un poste d’enseignant dans un centre de formation professionnelle, où ils ont été recrutés sur la base de leur expertise de métier ; ce n’est qu’une fois en poste qu’ils amorcent leur formation universitaire. Cette réalité et les changements politico-éducatifs ont représenté des défis pour l’implantation du baccalauréat en enseignement professionnel pour toutes les universités offrant le programme et pour tous les acteurs impliqués dans cette réforme. Ce collectif est le fruit d’une rencontre entre les auteurs et des chercheurs préoccupés par les défis de la formation à l’enseignement professionnel. Les perspectives multiples et les regards variés proposés par les chercheurs dans cet ouvrage soulèvent des enjeux émanant de la complexe réalité vécue par ces enseignants-étudiants.</p>
+      </abstract>
+      <counts>
+         <page-count count="306"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.3</book-part-id>
+                  <title-group>
+                     <title>Liste des figures et des tableaux</title>
+                  </title-group>
+                  <fpage>XV</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                     <subtitle>L’évolution de la formation du personnel enseignant en FP Des pistes de réflexion pour les universités au Québec</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Claudia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coulombe</surname>
+                           <given-names>Sandra</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dionne</surname>
+                           <given-names>Lucie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>La situation des enseignants et enseignantes de la formation professionnelle est très particulière. D’abord parce qu’ils sont engagés en fonction de la maîtrise du métier à enseigner et que leur recrutement s’effectue parmi les travailleurs en emploi, ensuite parce que, contrairement aux autres enseignants du secteur général aux niveaux primaire et secondaire, leur formation à l’enseignement survient généralement une fois qu’ils sont engagés dans les centres de formation professionnelle (CFP), parfois même après plusieurs années d’enseignement, et ce, dans le même temps qu’ils doivent donner leur cours (Balleux, 2006; Ministère de l’Éducation [MEQ], 2001a; Deschenaux, Monette et Tardif, 2012; Tardif,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.5</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 1</label>
+                     <title>La formation professionnelle</title>
+                     <subtitle>Un passage culturel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lavoie</surname>
+                           <given-names>Christine</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>La formation professionnelle a-t-elle pour but de promouvoir la culture du domaine de formation, de la transmettre ? Et laquelle, le cas échéant ? Celle-ci s’accorde-t-elle aux milieux de pratique bien variés ? Yen a-t-il plus d’une ? Met-elle en valeur le travail humain comme elle le devrait ? Pour tenter de répondre à ces questions, un cadre conceptuel visant à établir une typologie des métiers dans une perspective épistémologique (Gagnon, 2013) a été utilisé pour définir et caractériser ce que nous avons appelé des « cultures-types » (Lavoie, 2013), et ce, à partir du sens et des diverses connotations</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.6</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 2</label>
+                     <title>Une transition professionnelle à la croisée du métier et de l’enseignement</title>
+                     <subtitle>Entre temps et espaces, quatre cadres d’analyse</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Balleux</surname>
+                           <given-names>André</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaucher</surname>
+                           <given-names>Chantale</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Claudia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Saussez</surname>
+                           <given-names>Frédéric</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Tout au long de la dernière décennie, la situation particulière des enseignants débutants de formation professionnelle au Québec a été étudiée par quelques chercheurs réunis au sein du Collectif de recherche sur la formation professionnelle (CRFP). Leurs travaux menés individuellement ont permis de dégager la présence de processus majeurs de transformation chez ces nouveaux enseignants, dont la transition professionnelle entre le métier et l’enseignement, sur le plan de la dynamique identitaire (Balleux, 2006a, 2011), du rapport au savoir (Beaucher, 2010) et de l’accompagnement (Gagnon, 2013 ; Gagnon et Rousseau, 2010). Dans la poursuite de ces travaux, mais cette fois en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.7</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 3</label>
+                     <title>La complexité de la tâche des enseignants de formation professionnelle</title>
+                     <subtitle>Défis du quotidien et défis de formation au regard du soutien à la persévérance et à la réussite de leurs élèves</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaucher</surname>
+                           <given-names>Chantale</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mazalon</surname>
+                           <given-names>Élisabeth</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaucher</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>Une Journée d’étude sur la réussite et la persévérance des élèves de formation professionnelle a été organisée en février 2008 à Laval par le CRFP. Avec l’objectif de faire progresser la recherche sur la formation professionnelle au Québec, cette équipe de chercheurs² a voulu réunir plusieurs partenaires universitaires et autres partenaires issus des milieux de la pratique autour de ces axes : la réussite des élèves, les pratiques professionnelles des enseignants et les modèles de formation impliquant l’entreprise dans la qualification. Soucieux d’aligner les préoccupations de recherche sur les problématiques vécues par les intervenants de la formation professionnelle, le CRFP</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 4</label>
+                     <title>Une communauté de pratique en ligne pour soutenir les nouveaux enseignants en formation professionnelle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coulombe</surname>
+                           <given-names>Sandra</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Allaire</surname>
+                           <given-names>Stéphane</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zourhlal</surname>
+                           <given-names>Ahmed</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>99</fpage>
+                  <abstract>
+                     <p>Au Québec, depuis quelques années, les travaux de recherche et les réflexions scientifiques sur les conditions d’entrée dans la profession enseignante en FP et la transition professionnelle, vécue par les nouveaux ensei gnants de ce secteur de formation, progressent. Des recherches de type explo ratoire ont décrit les portraits de ces enseignants (Balleux, 2006, 2011) et leur cheminement professionnel (Boucher, 2004). D’autres recherches qualitatives ont mis en lumière les facteurs d’attrition des enseignants en FP (Loignon, 2006), le processus de construction d’une double identité professionnelle (Gaudreault, 2011) et le rôle des valeurs dans cette construction identitaire (Gagné, 2015). Finalement, des</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 5</label>
+                     <title>Le processus didactique en enseignement professionnel</title>
+                     <subtitle>Une étude de cas en Techniques d’éducation à l’enfance</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Alexandre</surname>
+                           <given-names>Marie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>117</fpage>
+                  <abstract>
+                     <p>Au cours des 10 prochaines années, il y aura près de 1,4 million d’emplois à pourvoir au Québec (Ministère de l’Emploi et de la Solidarité sociale [MESS], 2013). Les programmes d’études de la formation professionnelle au secondaire et ceux de la formation technique au collégial sont axés sur une recherche constante « d’adéquation entre les compétences acquises et les compétences recherchées sur le marché du travail » (Ministère de l’Éducation, du Loisir et du Sport [MELS], 2010, p. 2). La formation professionnelle et technique se distingue par ses finalités, la spécificité des contenus en jeu ainsi que par les caractéristiques</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 6</label>
+                     <title>Les enjeux actuels de l’évaluation des apprentissages et des compétences en formation des maîtres de l’enseignement professionnel</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Roussel</surname>
+                           <given-names>Chantal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract>
+                     <p>Les universités québécoises offrant le programme de baccalauréat en ensei gnement professionnel font face à un ensemble de défis pour parvenir à doter la société d’enseignants compétents. Dans cette formation balisée par un référentiel ministériel comprenant douze compétences, l’une d’entre elles s’intéresse à l’évaluation des apprentissages en s’inscrivant dans une logique de compétences. Malgré la pluralité des écrits théoriques et scientifiques consacrés à ce thème, il subsiste encore de nombreux flous reliés à l’évaluation des apprentissages et des compétences de manière générale. En ce qui a trait à la formation professionnelle québécoise de niveau secondaire, les recherches conduites au sujet</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 7</label>
+                     <title>L’apport des stages en alternance dans la formation à l’enseignement professionnel</title>
+                     <subtitle>Les perceptions des étudiants</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Claudia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mazalon</surname>
+                           <given-names>Élisabeth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>La situation qui prévalait dans les programmes de formation en enseignement professionnel, avant la réforme de 2001, exigeait des enseignants de ce secteur une formation universitaire de 30 crédits menant à un certificat en enseignement professionnel ne comportant aucune formation pratique en milieu scolaire. L’augmentation substantielle du nombre de crédits universitaires nécessaires à l’obtention du brevet d’enseignement et l’intégration de stages d’une durée importante dans la formation constituent deux éléments majeurs de cette réforme de la formation des maîtres en enseignement professionnel (Ministère de l’Éducation [MEQ], 2001).</p>
+                     <p>Axé sur le développement de compétences professionnelles liées à l’enseignement et au métier,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 8</label>
+                     <title>Les conditions de la signifiance des connaissances</title>
+                     <subtitle>Points de vue d’enseignants en formation professionnelle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zourhlal</surname>
+                           <given-names>Ahmed</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>Le texte qui suit présente une partie des résultats d’une recherche doctorale qui a exploré, sur le plan théorique et empirique, une définition formulée par Gagnon (1996, p. 10) dans ces termes : « Un savoir est signifiant pour un indi vidu dans la mesure où il est pertinent pour cet individu et valide à ses propres yeux. » Cette définition a été proposée dans un contexte de formation profession nelle où le rapport des enseignants aux concepts et théories scientifiques que mobilisent les programmes d’études en formation professionnelle (mécanique, ébénisterie, joaillerie, etc.) entrave souvent leur apprentissage et le développe</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 9</label>
+                     <title>L’intégration des femmes aux formations professionnelles menant à l’exercice d’un métier traditionnellement masculin</title>
+                     <subtitle>Un enjeu toujours actuel pour la formation à l’enseignement professionnel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fortier</surname>
+                           <given-names>Sylvie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>213</fpage>
+                  <abstract>
+                     <p>Ce chapitre s’intéresse à l’expérience scolaire des élèves féminines en formation professionnelle (FP) au secondaire menant à l’exercice d’un « métier traditionnellement masculin » (MTM). En effet, certains constats récurrents dans la littérature scientifique soulignent l’importance pour les enseignantes et les enseignants d’être sensibles à l’expérience scolaire des personnes qui se présentent dans les salles de classe afin de développer des outils et des approches plus appropriés, mais aussi d’éviter de nourrir des préjugés et des stéréotypes socialement construits et perpétués.</p>
+                     <p>Une question simple, mais primordiale traverse donc ce chapitre en filigrane : comment ces élèves féminines vivent-elles leur formation</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.14</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 10</label>
+                     <title>Une enquête sur la formation à l’enseignement professionnel</title>
+                     <subtitle>Faits saillants et enjeux</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deschenaux</surname>
+                           <given-names>Frédéric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tardif</surname>
+                           <given-names>Marc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>Le baccalauréat de 120 crédits de formation à l’enseignement professionnel est implanté dans 6 universités québécoises depuis septembre 2003. La Table MELS-universités souhaitait faire le bilan de l’implantation de ce programme. À cet effet, elle a formé un groupe de réflexion sur la formation à l’enseignement professionnel (appelé le Groupe de réflexion ci-après), qui a mené une vaste enquête au printemps 2011 auprès de 5 groupes de répondants que nous nommons les actifs, les diplômés, les abandons, les directions et les intervenants. En tout, plus de 1350 personnes ont participé à cet te enquête.</p>
+                     <p>En lien direct avec le thème</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.15</book-part-id>
+                  <title-group>
+                     <title>CONCLUSION</title>
+                     <subtitle>Le renouvellement de la formation en enseignement professionnel au Québec, plus de 10 ans après</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Boudreault</surname>
+                           <given-names>Henri</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>263</fpage>
+                  <abstract>
+                     <p>Lorsque l’on m’a demandé de collaborer à ce collectif pour rédiger la conclusion, j’ai accepté avec plaisir d’y ajouter mon grain de sel, pour ne pas dire mon sac de sel, en partant de mon expérience d’enseignant de formation professionnelle, puis de conseiller pédagogique au moment de la réforme et de la mise en oeuvre de l’approche par compétences, et enfin de mon vécu à titre de profes seur dans un programme de baccalauréat en enseignement professionnel.</p>
+                     <p>En effet, l’importance des travaux de ce collectif est marquée par le fait de la faible quantité de production de ce genre. La</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.16</book-part-id>
+                  <title-group>
+                     <title>Notices biographiques</title>
+                  </title-group>
+                  <fpage>277</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1h64m82.17</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>282</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

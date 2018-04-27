@@ -1,0 +1,556 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt24hp5q</book-id>
+      <subj-group>
+         <subject content-type="call-number">NA2I.A73 1994</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Architecture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Technological innovations</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Architecture</subject>
+         <subj-group>
+            <subject content-type="lcsh">Moral and ethical aspects</subject>
+            <subj-group>
+               <subject content-type="lcsh">Congresses</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Architectural writing</subject>
+         <subj-group>
+            <subject content-type="lcsh">Congresses</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Architecture and Architectural History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Architecture, Ethics, and Technology</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>PELLETIER</surname>
+               <given-names>LOUISE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>PÉREZ-GÓMEZ</surname>
+               <given-names>ALBERTO</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>10</day>
+         <month>03</month>
+         <year>1994</year>
+      </pub-date>
+      <isbn content-type="ppub">9780773511484</isbn>
+      <isbn content-type="epub">9780773564497</isbn>
+      <publisher>
+         <publisher-name>MQUP</publisher-name>
+         <publisher-loc>Montreal; Kingston; London; Buffalo</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>1994</copyright-year>
+         <copyright-holder>McGill-Queen’s University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt24hp5q"/>
+      <abstract abstract-type="short">
+         <p>An enlightened discussion of all relevant aspects of architecture shows the necessity for revision of commonly held assumptions about the nature of architectural history, theory, representation, and ideation; the production of buildings in the postindustrial city; and professional ethics. These topics provide the basis for the fourteen interdisciplinary papers presented here.</p>
+      </abstract>
+      <counts>
+         <page-count count="256"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.3</book-part-id>
+                  <title-group>
+                     <title>ACKNOWLEDGMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pérez-Gómez</surname>
+                           <given-names>Alberto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.4</book-part-id>
+                  <title-group>
+                     <title>REMERCIEMENTS</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Pérez-Gómez</surname>
+                           <given-names>Alberto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.5</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PÉREZ-GÓMEZ</surname>
+                           <given-names>ALBERTO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Why is it that, in the last decade of our millennium, the design professions have suddenly decided to focus on the question of ethics and to devote numerous conferences to this topic? To state that the common good must a primary concern in architecture may sound hollow in the context of a contemporary practice determined by economic or political forces. It may even be deemed downright problematic by some of the poststructuralist philosophers who claim that the old humanist values must be deconstructed – a position that has had a significant impact on North American architecture.</p>
+                     <p>Yet, I would argue</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.6</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PÉREZ-GÓMEZ</surname>
+                           <given-names>ALBERTO</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract abstract-type="extract">
+                     <p>D’où vient qu’en cette dernière décennie de notre millénaire, les professions du design se préoccupent soudainement des questions d’éthique et y consacrent de nombreux colloques? Dans un contexte où la pratique contemporaine en architecture est dictée par des impératifs économiques ou politiques, dire que le bien commun doit être un souci fondamental paraîtra vide de sens ou tout simplement faux aux yeux de certains philosophes poststructuralistes, qui estiment qu’il faut « déconstruire » les vieilles valeurs humanistes – une position qui a eu sur l’architecture nord-américaine une influence considérable.</p>
+                     <p>Et pourtant, il me semble que le bien commun a toujours</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.7</book-part-id>
+                  <title-group>
+                     <title>ARCHITECTURE AND THE QUESTION OF TECHNOLOGY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>VESELY</surname>
+                           <given-names>DALIBOR</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>28</fpage>
+                  <abstract abstract-type="extract">
+                     <p>There is a strong feeling that the multitudinous traditional ways of making and creativity are slowly being absorbed into one dominant way of making and thinking. This process of homogenization is not new, but it has reached unprecedented levels today. To see the difference, it is enough to recall the nature and the depth of discussions, in the early decades of the present century, about creativity in different domains of culture, about the relation between art and science or technology, about the nature and status of the applied arts, industrial design, and so on – in such movements, for example,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.8</book-part-id>
+                  <title-group>
+                     <title>QUE PEUT ÊTRE OU FAIRE L’ÉTHIQUE EN ARCHITECTURE?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOSOE</surname>
+                           <given-names>LUKAS K.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>50</fpage>
+                  <abstract abstract-type="extract">
+                     <p>« Que peut être la religion d’un peuple éclairé? », se demandait Hegel. On peut actualiser la question et se demander: que peut être l’éthique et, surtout, que peut être l’éthique appliquée dans une société moderne à l’âge post-moderne? Plus précisément, que peut être une éthique appliquée à un domaine tel que l’architecture, quelle qu’en soit la définition. Selon Melvin Charney, l’architecture est une réalité imaginaire qui dit et quelquefois suggère le non-dit, dont les racines théoriques se retrouvent aussi bien dans les sciences sociales que dans les sciences économiques, mais qui demeure également un art dont la longue histoire</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.9</book-part-id>
+                  <title-group>
+                     <title>ETHICS AND ARCHITECTS:</title>
+                     <subtitle>SPACES, VOIDS, AND TRAVELLING-IN-HOPE</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>SOMERVILLE</surname>
+                           <given-names>MARGARET A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract abstract-type="extract">
+                     <p>It is often interesting to free-associate about the titles chosen for conferences. My free association about the title of this conference – “Architecture, Ethics and Technology: An Interdisciplinary Symposium” – led me to wonder whether ethics was perhaps the ham in the sandwich, squeezed perfectly flat by architecture, on the one side, and technology, on the other. This image, in turn, brought to mind what has been called a “thin” or minimalist concept of ethics. According to this concept, persons act ethically as long as they do not breach the law, and the law should enshrine only those requirements on</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.10</book-part-id>
+                  <title-group>
+                     <title>MASTER PLAN FOR THE OLD PORT OF MONTREAL</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROSE</surname>
+                           <given-names>PETER</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract abstract-type="extract">
+                     <p>In this paper I will present the thoughts, the ideas, of a practising architect rather than those of a theoretician or an architectural historian, concerning a project on which I have worked for several years – the design of a master plan for the Vieux Port de Montréal.¹</p>
+                     <p>The project addresses a number of issues relevant to a consideration of architecture, ethics, and technology. It uncovers an archaeology of technology and reflects an era when new technologies were viewed with optimism and enthusiasm, and when a new sense of scale and industry presented heroic possibilities. It also raises an ethical</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.11</book-part-id>
+                  <title-group>
+                     <title>POUR QUE LA VIE AIT LIEU (FRAGMENTS)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>MADEC</surname>
+                           <given-names>PHILIPPE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>98</fpage>
+                  <abstract abstract-type="extract">
+                     <p>L’architecture n’est plus un art.</p>
+                     <p>L’architecture n’est pas une science.</p>
+                     <p>L’architecture n’est pas davantage une somme de l’art et de la science.</p>
+                     <p>Nos grands-pères ont recherché la définition de l’architecture entre l’art et la science.</p>
+                     <p>Ils ont échoué dans la tentative insensée d’une équation de l’art et de la science.</p>
+                     <p>Ils ont échoué face à l’impossibilité même d’une définition.</p>
+                     <p>Nos grands-pères n’ont mis au point que des règles et des principes prescriptifs.</p>
+                     <p>Nos pères, eux, étaient persuadés de trouver les fondements de l’architecture dans l’activité de l’architecte, dans le projet et ses effets: les textes, les dessins et les bâtiments.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.12</book-part-id>
+                  <title-group>
+                     <title>ARCHITECTURE VIRTUELLE ET INFOGRAPHIE – QUELQUES QUESTIONS POSÉES À L’ARCHITECTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HARDENNE</surname>
+                           <given-names>JEAN-PIERRE</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>110</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Les nouveaux outils de conception et de représentation que sont l’informatique et, plus particulièrement, une branche de celle-ci, l’infographie, sont en train de bouleverser l’ensemble du processus de création des espaces, tant privés que publics, dans nos sociétés post-industrielles. Ces nouveaux moyens exercent leur influence sur l’ensemble des phases techniques du projet d’architecture depuis quelques années déjà, mais cette influence s’approfondit encore davantage aujourd’hui, alors que ces outils transforment désormais le moment de la projetation.</p>
+                     <p>Cette évolution a débuté, voilà bientôt vingt ans, par la prise en charge des différents actes techniques du chantier, tels le tracé des plans d’exécution,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.13</book-part-id>
+                  <title-group>
+                     <title>REPRESENTATION IN THE AGE OF SIMULATION</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HOFFMAN</surname>
+                           <given-names>DAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract abstract-type="extract">
+                     <p>As a first approach to the question at hand, I would like to consider the significance of the terms “representation” and “simulation.” In the title of this segment of the symposium, we find that simulation is referred to in the historical sense of an “age” and that representation is placed within die context of this age. In this paper, I take the position that representation, understood in the somewhat narrow sense of a referential means of thinking towards an end, can itself be considered as informing a historical age – one that establishes the ground for the age of simulation.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.14</book-part-id>
+                  <title-group>
+                     <title>ÉTHIQUE ET TACT</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ROUSSEAU</surname>
+                           <given-names>JACQUES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>137</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Je sens ce qui se passe, mais je ne comprends pas encore parfaitement. Peutêtre suis-je un peu craintif, mis mal à l’aise par la force de pénétration des immatériaux. Et pourtant (depuis près de dix ans), je me sens bien en leur compagnie. Je précise ce que j’entends par là.</p>
+                     <p>Les immatériaux que je connais sont en moi, et c’est au travers d’une longue relation avec eux que je suis arrivé à les faire sortir. Ce sont ces êtres virtuels qui nous habitent et qui possèdent toutes les conditions essentielles à leur réalisation, sauf qu’ils ne connaissent pas encore la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.15</book-part-id>
+                  <title-group>
+                     <title>L’ARCHITECTURE CONSIDÉRÉE SOUS L’ANGLE DU PROCESSUS – LES ENJEUX ÉTHIQUES</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PROST</surname>
+                           <given-names>ROBERT</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract abstract-type="extract">
+                     <p>« La nouveauté, dans la récente réintroduction du questionnement éthique dans les sociétés occidentales contemporaines, est largement inscrite, d’une part, dans les enjeux multiples attachés aux développements scientifiques contemporains et, d’autre part, dans les avancées démocratiques marquées par des tentatives de déclinaison et de concrétisation des principes généraux inhérents aux Droits de l’Homme¹. »</p>
+                     <p>L’architecture comme corps de connaissance, comme champ de pratique ou comme réalité sensible, constitue un domaine un peu en marge de ces grandes tendances: elle n’est pas, à proprement parler, installée au cœur des grands débats philosophiques, scientifiques et technologiques, comme le sont, par exemple, des</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.16</book-part-id>
+                  <title-group>
+                     <title>ARCHITECTURE ET TECHNO-ÉTHIQUE – CONTRIBUTION À UNE ÉTHIQUE DE L’ARCHITECTURE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FINDELI</surname>
+                           <given-names>ALAIN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract abstract-type="extract">
+                     <p>Dès le premier chapitre de son traité d’architecture, Vitruve se préoccupe de l’éducation des architectes. La liste des « connaissances multiples et des instructions variées » nécessaires à la science de l’architecture – qui, selon lui, « naît de la pratique et de la théorie » – a de quoi déconcerter n’importe quel responsable de programme d’une école d’architecture contemporaine. Après avoir énoncé un principe fondamental dont on appréciera la remarquable modernité, à savoir qu’il convient de tenir compte de deux choses, « ce qui est signifié et ce qui signifie », Vitruve recommande que l’architecte « soit lettré, habile</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.17</book-part-id>
+                  <title-group>
+                     <title>THE ETHICS OF NARRATIVE AT TRENT UNIVERSITY</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENRIQUEZ</surname>
+                           <given-names>RICHARD</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>HENRIQUEZ</surname>
+                           <given-names>GREGORY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract abstract-type="extract">
+                     <p>The incomprehensible rate of change of the modern world brings with it the more-than-uneasy feeling that the outcome is unknown, that doom is at hand. The threat once represented by the atomic bomb has been replaced by the ecological crisis and the population explosion. We need somehow to restore faith in the future of the human race, both physically and spiritually. Canada’s multicultural society could be called an excellent example of the homogenization of values and, at the same time, a mosaic of values. As we await the new unified “world order” of trade and tariffs, our country’s cultural values</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.18</book-part-id>
+                  <title-group>
+                     <title>“THE PROBLEM WITH THE ARCHITECT AS WRITER…”:</title>
+                     <subtitle>TIME AND NARRATIVE IN THE WORK OF ALDO ROSSI AND JOHN HEJDUK</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CHI</surname>
+                           <given-names>LILY</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract abstract-type="extract">
+                     <p>What can an architect mean when he writes of his own discipline that “in order to be significant, architecture must be forgotten?” The author of <italic>A Scientific Autobiography</italic> makes this assertion repeatedly. Indeed, he admits, “Forgetting Architecture comes to mind as a more appropriate title for this book, since while I may talk about a school, a cemetery, a theater, it is more correct to say that I talk about life, death, imagination.”</p>
+                     <p>It would be difficult to miss Aldo Rossi’s polemic: what is at stake in architectural work ultimately eludes the most familiar terms and techniques that circumscribe it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.19</book-part-id>
+                  <title-group>
+                     <title>LA VILLE TELLE QUELLE – UN THÈME DE REPRÉSENTATION ARCHITECTURALE</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>LATEK</surname>
+                           <given-names>IRENA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>222</fpage>
+                  <abstract abstract-type="extract">
+                     <p>La critique du positivisme scientifique émergeant du discours philosophique du vingtième siècle a permis à la pensée architecturale contemporaine de se distancier du modernisme tout en dépassant la simple critique de ses retombées. Cette pensée ouvre la possibilité d’entreprendre, à partir de la perspective architecturale, une analyse critique du paradigme moderne. La notion de la représentation au centre d’un tel discours renoue avec le symbolique en tant que sens permanent de l’architecture; elle révèle également la profondeur des processus engagés dans le questionnement des modes de représentation de l’espace à travers l’histoire. Le discours qui se penche, entre autres, sur</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt24hp5q.20</book-part-id>
+                  <title-group>
+                     <title>THE AUTHORS</title>
+                  </title-group>
+                  <fpage>237</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

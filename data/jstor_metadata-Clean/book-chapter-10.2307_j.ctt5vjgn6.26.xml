@@ -1,0 +1,798 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt5p4w30</collection-id>
+      <volume>4</volume>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vjgn6</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Postcolonial Thought in the French Speaking World</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Forsdick</surname>
+               <given-names>Charles</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Murphy</surname>
+               <given-names>David</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>06</month>
+         <year>2009</year>
+      </pub-date>
+      <isbn content-type="ppub">9781846310546</isbn>
+      <isbn content-type="epub">9781846319808</isbn>
+      <publisher>
+         <publisher-name>Liverpool University Press</publisher-name>
+         <publisher-loc>Liverpool</publisher-loc>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Liverpool University Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt5vjgn6"/>
+      <abstract abstract-type="short">
+         <p>In the late 1990’s, Postcolonial Studies risked imploding as a credible area of academic enquiry. Repeated anthologization and an overemphasis on the English-language literatures led to sustained critiques of the field and to an active search for alternative approaches to the globalized and transnational formations of the post-colonial world. In the early twenty-first century, however, postcolonial began to reveal a new openness to its comparative dimensions. French-language contributors to postcolonial debate (such as Edouard Glissant and Abdelkebir Khatibi) have recently risen to greater prominence in the English-speaking world, and there have also appeared an increasing number of important critical and theoretical texts on postcolonial issues, written by scholars working principally on French-language material. It is to such a context that this book responds. Acknowledging these shifts, this volume provides an essential tool for students and scholars outside French departments seeking a way into the study of Francophone colonial postcolonial debates. At the same time, it supplies scholars in French with a comprehensive overview of essential ideas and key intellectuals in this area.</p>
+      </abstract>
+      <counts>
+         <page-count count="357"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.4</book-part-id>
+                  <title-group>
+                     <title>INTRODUCTION:</title>
+                     <subtitle>Situating Francophone Postcolonial Thought</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Forsdick</surname>
+                           <given-names>Charles</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>On 26 July 2007, less than three months after his election to the French presidency and on his first post-election trip to Africa, Nicolas Sarkozy stood before an invited audience of students, scholars, dignitaries and political leaders at the Université Cheikh Anta Diop de Dakar in Senegal, and delivered a speech that was directed at ‘la jeunesse africaine’ [African youth].¹ The speech was awaited with a mixture of expectation and trepidation, for Sarkozy had adopted a strangely dualistic discourse on France’s colonial past and postcolonial relationships during the preceding campaign: on the one hand, he had expressed a desire to</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.5</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 1</label>
+                     <title>Aimé Césaire and Francophone Postcolonial Thought</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gallagher</surname>
+                           <given-names>Mary</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Aimé Césaire was born in 1913 in Basse-Pointe in Martinique and, like so many members of the educated elite of the colonies, in his late teens he was was drawn to Europe, where he studied at the Lycée Louis-le-Grand in Paris from 1932, and later, from 1935, at the even more prestigious École Normale Supérieure (ENS). It was during these years in Paris that his reputation was sealed as co-founder, along with the Senegalese poet-politician Léopold Sédar Senghor (see Chapter 12) and the Guyanese poet, Léon Gontran Damas, of the<italic>négritude</italic>movement, which could be said to have been launched</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.6</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 2</label>
+                     <title>Maryse Condé:</title>
+                     <subtitle>Post-Postcolonial?</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leservot</surname>
+                           <given-names>Typhaine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>42</fpage>
+                  <abstract>
+                     <p>How does one introduce Maryse Condé to the uninitiated reader? Condé’s centrality to Francophone studies and her popularity outside academic circles make this question more than merely rhetorical. Indeed, her fame has spread beyond the academic circle of scholars and students in Francophone studies – far beyond, in fact. English, German, Dutch, Italian, Japanese, Portuguese and Spanish translations of her work testify to her growing global audience. Her oeuvre has earned her a number of accolades that reflect her widespread appeal: the French government named her Commandeur de l’Ordre des Arts et des Lettres in 2001 and Chevalier de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.7</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 3</label>
+                     <title>Jacques Derrida:</title>
+                     <subtitle>Colonialism, Philosophy and Autobiography</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hiddleston</surname>
+                           <given-names>Jane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>53</fpage>
+                  <abstract>
+                     <p>Derrida’s influence on, and intervention in, postcolonial criticism has always been provocative and highly controversial. One of the major philosophers of the twentieth century, Derrida invented a new and radical mode of reading that set out to unravel the metaphysical premises of ‘Western’ or Eurocentric thought, yet his resonance for the criticism of specific colonial systems remains a subject of dispute. His deconstruction of philosophical and political hierarchies, his scepticism towards the concept of ‘the West’, and, according to thinkers such as Bhabha and Spivak, his persistent interest in marginality and eccentricity have defined the very tools of postcolonial criticism.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.8</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 4</label>
+                     <title>Assia Djebar:</title>
+                     <subtitle>‘Fiction as a way of “thinking”’</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Harrison</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>65</fpage>
+                  <abstract>
+                     <p>Readers of a book called<italic>Postcolonial Thought in the French-speaking World will</italic>expect it to contain chapters on Fanon, Glissant, Césaire and Senghor. The reasons for including or resituating other figures as postcolonial thinkers will be clear enough. Assia Djebar, however, has written only one book that might be labelled theoretical,<italic>Ces voix qui m’assiègent … en marge de ma francophonie</italic>(Djebar, 1999b).¹ That collection, not yet translated into English, deserves to be better known, but it is primarily as a novelist that Djebar is a significant figure. To some readers, her place in the present volume may appear anomalous,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.9</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 5</label>
+                     <title>Frantz Fanon:</title>
+                     <subtitle>Colonialism and Violence</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Silverman</surname>
+                           <given-names>Max</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>77</fpage>
+                  <abstract>
+                     <p>Little more than twenty years ago, Homi Bhabha could justifiably write ‘in Britain today Fanon’s ideas are effectively “out of print”’ (Bhabha, 1986: viii). This demonstrates the extent to which Fanon’s current status as probably the most influential thinker in the field of postcolonial studies is a relatively recent phenomenon. In this chapter, following a brief overview of Fanon’s life and career, I will outline the major stages of his thought in three sections. In the opening section, I will discuss his first major work,<italic>Black Skin, White Masks</italic>(1952); in the second section, I will deal with Fanon’s political</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.10</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 6</label>
+                     <title>Édouard Glissant:</title>
+                     <subtitle>Dealing in Globality</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bongie</surname>
+                           <given-names>Chris</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>90</fpage>
+                  <abstract>
+                     <p>It is over half a century now since Martinique’s Édouard Glissant arrived on the literary scene in Paris, publishing his first volumes of poetry in the early 1950s, and his first novel,<italic>La Lézarde</italic>, in 1958. Since that time he has produced eight stylistically demanding novels (the latest being<italic>Ormerod</italic>in 2003), a good many collections of poetry, and one influential play about the Haitian Revolution.¹ Arguably, though, it is not as a novelist or poet that Glissant has proved most influential at the international level, but as a theorist. With his unflagging advocacy of a creolizing world of Diversity</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.11</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 7</label>
+                     <title>Tangled History and Photographic (In)Visibility:</title>
+                     <subtitle>Ho Chi Minh on the Edge of French Political Culture</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Norindr</surname>
+                           <given-names>Panivong</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>102</fpage>
+                  <abstract>
+                     <p>In a letter dated 6 July 1920, L. Josselme, the head of the Indochinese Postal Control in Marseilles, complains in the following terms about the photograph of Nguyên Ai Quôc he has just received from the Résident Supérieur: ‘elle est absolument invisible, ayant jauni par progression depuis son arrivée’ [it is entirely invisible, having progressively yellowed since its arrival], adding that this deterioration ‘m’oblige à vous demander de vouloir bien m’en adresser un autre exemplaire mieux fixé’ [forces me to ask you kindly to send another more permanent, better fixed copy] (Gaspard, 1992: 101–02). Nguyên Ai Quôc was suspected</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.12</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 8</label>
+                     <title>Translating Plurality:</title>
+                     <subtitle>Abdelkébir Khatibi and Postcolonial Writing in French from the Maghreb</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rice</surname>
+                           <given-names>Alison</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>Born in El Jadida, Morocco in 1938, Abdelkébir Khatibi is the author of a diverse and complex oeuvre that creatively engages with the thought of European philosophers to address the specific challenges facing postcolonial subjects from the French-speaking world. After receiving a French education in his native country while it was still a protectorate of France,¹ Khatibi pursued university studies in sociology at the Sorbonne in Paris. When questioned about this period, the writer affirmed that the years he spent in the French capital, from 1958 to 1964, were characterized by ‘great intellectual and political effervescence’ (1999: 74). Unlike other</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.13</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 9</label>
+                     <title>Albert Memmi:</title>
+                     <subtitle>The Conflict of Legacies</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Crowley</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>126</fpage>
+                  <abstract>
+                     <p>Since the publication of his first novel,<italic>The Pillar of Salt</italic>(1953), Albert Memmi has offered textual portraits that bring the discomforting perspective of his<italic>vécu</italic>[lived experience] to bear upon discourses, practices and legacies of domination. In particular, and not surprisingly, Memmi’s name often appears alongside those of critics of colonization such as Aimé Césaire, Frantz Fanon and Jean-Paul Sartre (for discussion of these writers, see Chapters 1, 5 and 11 of this volume). Jean-Marc Moura provides a typical example of this when he writes that the work of Memmi, Césaire and Fanon constitute ‘les essais de combat’ [the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.14</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 10</label>
+                     <title>V. Y. Mudimbe’s ‘long nineteenth century’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Fraiture</surname>
+                           <given-names>Pierre-Philippe</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>136</fpage>
+                  <abstract>
+                     <p>The concept of cultural conversion, understood in terms of its multifaceted intellectual significance but also in its concrete manifestations, lies at the heart of Valentin Yves (or Vumbi Yoka) Mudimbe’s oeuvre. Whether as a novelist, a poet, or an essayist (see Coulon, 2003), Mudimbe has dedicated a major part of his creative energy to tracing the emergence of Western modernity in sub-Saharan Africa and to the factors, epistemological and otherwise, responsible for the gradual transformation of the Congo where he was born on 8 December 1941 (in Jadotville, which became Likasi after independence). His critical reflection, conducted in French and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.15</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 11</label>
+                     <title>Roads to Freedom:</title>
+                     <subtitle>Jean-Paul Sartre and Anti-colonialism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Williams</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>147</fpage>
+                  <abstract>
+                     <p>There is, perhaps, an excessive obviousness in the decision to focus on the concept of freedom in any discussion of Jean-Paul Sartre, since if there is one pre-eminently Sartrean theme, it is arguably that of freedom. However, precisely because of the dangers inherent in the ‘obviousness’, in regarding the chosen subject as already known and comprehended, but also because of the inevitably changing and evolving sense of the term in the context of a lifetime’s passionate engagement, we would be wrong to think that we fully understand Sartre’s repeated working through – ‘elaboration’ in the strongest Gramscian sense – of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.16</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 12</label>
+                     <title>Léopold Sédar Senghor:</title>
+                     <subtitle>Race, Language, Empire</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>Since the beginning of the new millennium there has been a remarkable turnaround in the critical appraisal of the life and work of Senegalese poet-president, Léopold Sédar Senghor, the writer most closely associated with the Francophone literary movement of Negritude. In the course of the preceding decades, Senghor had come to be seen by numerous critics (if by no means all) as an anachronistic figure, whose ideas had served their time and were no longer useful in thinking about Africa. The high point of the more recent positive reappraisal came in 2006 (the centenary of his birth), which l’Organisation Internationale</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.17</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 13</label>
+                     <title>Postcolonial Anthropology in the French-speaking World</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Richards</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>173</fpage>
+                  <abstract>
+                     <p>It is a foolish commentator indeed who would attempt to claim a precise moment in history when anthropology in the French-speaking world<italic>became</italic>postcolonial – that point in time when predominantly French anthropological thought turned on its own history of involvement in the imperial enterprise and began to challenge anthropological theories and practices grounded in the discourses and assumptions of colonialism. That anthropology was one of the handmaidens of colonialism, a science of empire, is indisputable and well documented. For many, the postcolonial turn has yet to occur and anthropology is still irredeemably and fatally tainted by its colonial origins.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.18</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 14</label>
+                     <title>French Theory and the Exotic</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Yee</surname>
+                           <given-names>Jennifer</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>From the sixteenth century, the French adjective<italic>exotique</italic>was used to refer to the natural or cultural product of another country, but the term rapidly became marked by its current Eurocentrism, losing any reversibility. It was a virtual synonym of ‘colonial’ by the nineteenth century, when the noun<italic>exotisme</italic>appeared (1845). The newly reified concept had acquired connotations of hackneyed imagery and falsity in the representation of the Other (Moura, 1998: 19–40). This pejorative sense was not to be seriously challenged until the early years of the twentieth century, by Victor Segalen (1878–1919), who attempted to revalorize the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.19</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 15</label>
+                     <title>The End of the Ancien Régime French Empire</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dubois</surname>
+                           <given-names>Laurent</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>195</fpage>
+                  <abstract>
+                     <p>During the last decades of the eighteenth century and the first decades of the nineteenth, the major Atlantic empires confronted, and in several cases succumbed to, movements for national independence in the Americas. The political defeats in the Americas overlapped with, and sometimes drove, the painfully slow elimination of the Atlantic slave trade, though slavery itself survived in one form or another in all the independent American republics except for one. They also overlapped with – and informed, both as sources of inspiration and as warnings – the beginnings of territorial expansion into Africa and Asia. Events in all the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.20</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 16</label>
+                     <title>The End of the Republican Empire (1918–62)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dine</surname>
+                           <given-names>Philip</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>Although it spanned the long century from the Algiers Expedition of 1830 to Algerian independence in 1962, and covered an area only surpassed by the British Empire, France’s modern colonial edifice was, throughout its existence, built on sand. This weakness was both structural and conceptual:</p>
+                     <p>Small islands and extensive continental land masses, the territorial possessions of France were found all around the world, yet were so scattered, so disparate in environment and culture, that they could hardly become the empire<italic>en bloc</italic>that imperialists urged that they be at the end of the nineteenth century. ‘Empire’ was a verbal convenience,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.21</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 17</label>
+                     <title>Postcolonialism and Deconstruction:</title>
+                     <subtitle>The Francophone Connection</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Syrotinski</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>216</fpage>
+                  <abstract>
+                     <p>One of the most significant recent developments within postcolonial theory has been its belated engagement with the Francophone world, after a decade or more of sustained critical attention to Anglophone texts and contexts. Indeed, one might have expected the dialogues that are now taking place to have begun much earlier, given that so much of the writing of the three figures most associated with the emergence of postcolonial theory – Homi Bhabha, Edward Said and Gayatri Spivak – owes a clear intellectual debt to an earlier generation of French theorists. A number of genealogical lines of influence are now beginning</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.22</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 18</label>
+                     <title>Negritude, Présence Africaine, Race</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Watts</surname>
+                           <given-names>Richard</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>When Wole Soyinka famously pronounced at a conference in Berlin in 1964 that ‘a tiger does not proclaim his tigritude, he pounces’ (quoted in Jahn, 1968: 266), he was suggesting that Negritude, the literary and cultural movement initiated in the 1930s by young writers from the French colonies in Africa (Léopold Senghor of Senegal), the Caribbean (Aimé Césaire of Martinique), and South America (Léon Damas of Guyana) who were studying in Paris, was unnecessary, even redundant. (See Chapters 1 and 12 on Césaire and Senghor respectively.) In Soyinka’s view, Negritude, with all its talk of racial identity and pride, was</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.23</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 19</label>
+                     <title>Francophone Island Cultures:</title>
+                     <subtitle>Comparing Discourses of Identity in ‘Is-land’ Literatures</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>De Souza</surname>
+                           <given-names>Pascale</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>238</fpage>
+                  <abstract>
+                     <p>The general lack of scholarly interest in the contribution of island cultures to postcolonial debate, as underlined by the Caribbean/South Pacific scholar Elizabeth Deloughrey (2001a: 22), takes on specific dimensions within Francophone postcolonial studies. While Caribbean authors have elicited much interest, literature from the Mascarenes and the South Pacific remains to a large extent excluded both from Francophone research conducted in Europe or North America and from Anglophone postcolonial discussions of regional identity. Comparative readings have the potential, however, to reveal rifts and commonalities.</p>
+                     <p>The identification of an appropriate terminology emerges as the first challenge facing such readings across cultural</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.24</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 20</label>
+                     <title>Locating Quebec on the Postcolonial Map</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Green</surname>
+                           <given-names>Mary Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>248</fpage>
+                  <abstract>
+                     <p>In his introduction to a 2003 issue of<italic>Québec Studies</italic>, Vincent Desroches poses the question, for the first time in the context of a serious theoretical discussion: ‘En quoi la littérature québécoise est-elle postcoloniale?’ [In what sense can Quebec literature be deemed postcolonial?] (2003b). It is not surprising that this question, framed in French by a<italic>Québécois</italic>scholar, is given serious consideration in a journal published in the United States: in US academic circles Quebec literature had, for at least a decade, been associated with the postcolonial, however loosely defined. Yet within Quebec itself the term ‘postcolonial’ is still largely</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.25</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 21</label>
+                     <title>Diversity and Difference in Postcolonial France</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Stovall</surname>
+                           <given-names>Tyler</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>259</fpage>
+                  <abstract>
+                     <p>Questions of immigration, diversity and race have dominated the social, cultural and political life of France since the late twentieth century. Even before the widespread uprisings in the<italic>banlieues</italic>(France’s deprived suburbs) in the autumn of 2005, the question of how the French might conceive of themselves as a nation that could (or could not) embrace peoples of different origins and traditions fuelled seemingly endless debates among intellectuals, politicians and people of all walks of life. The riots themselves focused attention as never before upon the fact that large numbers of French citizens not only resented police harassment and lack</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.26</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 22</label>
+                     <title>Colonialism, Postcolonialism and the Cultures of Commemoration</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Forsdick</surname>
+                           <given-names>Charles</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>The Bicentenary of the French Revolution in 1989 heralded the series of commemorations by which late twentieth-century France now appears to have been increasingly characterized. In the 1990s, literature, cinema and intellectual debate all began to reflect an increasing focus on memory, a tendency also apparent in popular culture and public life. The historian Pierre Nora, inaugurating in 1984<italic>Les Lieux de mémoire</italic>, a monumental collection of essays on key ‘sites’ of the French historical experience understood as having had an impact on national self-identity, presented the lack of shared post-war national memory as a rationale for alternative manifestations of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.27</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 23</label>
+                     <title>Gender and Empire in the World of Film</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Woodhull</surname>
+                           <given-names>Winifred</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>285</fpage>
+                  <abstract>
+                     <p>Insofar as film scholarship followed literary studies, in the 1980s and 1990s, in taking up Benedict Anderson’s work on the construction of national identity through imagined communities, much attention has been devoted to looking at French films that participate in that process by construing colonized peoples as primitive and frequently feminized ‘Others’, in opposition to whom the French define themselves as rational, enlightened and civilized. Like the films themselves, the analyses vary in the degree to which they see colonizer/colonized relations in terms of stark binaries or in terms of ambiguous hybrid identities on both sides. Yet whatever the emphasis,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.28</book-part-id>
+                  <title-group>
+                     <label>CHAPTER 24</label>
+                     <title>From Colonial to Postcolonial:</title>
+                     <subtitle>Reflections on the Colonial Debate in France</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bancel</surname>
+                           <given-names>Nicolas</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blanchard</surname>
+                           <given-names>Pascal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>295</fpage>
+                  <abstract>
+                     <p>Over the past two decades, postcolonial studies – or postcolonial theory – has firmly established itself within the Anglophone academy. In France, however, the perception of this critical body of thought labours under a certain number of misconceptions that have rendered the development of an equivalent ‘hexagonal’ movement deeply problematic, and have given rise instead to a determined opposition in the general ‘intellectual field’. By ‘intellectual field’ we mean the broad domain constituted by publications and debates in the social sciences, particularly sociology, history, political sciences and, more marginally, anthropology. This ‘intellectual field’ includes academic publications, but also essays by</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.29</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>306</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.30</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vjgn6.31</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>349</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,382 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1bh2k4f</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Philosophy</subject>
+         <subject>Political Science</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Agamben and Radical Politics</book-title>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>McLoughlin</surname>
+               <given-names>Daniel</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>30</day>
+         <month>06</month>
+         <year>2016</year>
+      </pub-date>
+      <isbn content-type="ppub">9781474402637</isbn>
+      <isbn content-type="epub">9781474402651</isbn>
+      <isbn content-type="epub">1474402658</isbn>
+      <publisher>
+         <publisher-name>Edinburgh University Press</publisher-name>
+         <publisher-loc>Edinburgh</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2016</copyright-year>
+         <copyright-holder>Daniel McLoughlin</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.3366/j.ctt1bh2k4f"/>
+      <abstract abstract-type="short">
+         <p>These 11 essays give you new perspectives on Agamben's recent work on government and his relationship to the revolutionary tradition, opening up new ways of thinking about politics and critical theory in the post-financial crisis world.</p>
+      </abstract>
+      <counts>
+         <page-count count="200"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgements</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.4</book-part-id>
+                  <title-group>
+                     <title>Introduction:</title>
+                     <subtitle>Agamben and Radical Politics</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McLoughlin</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>In an essay entitled ‘In this Exile’, Giorgio Agamben tells a story about his studies with Martin Heidegger, whose seminars he attended in Provence in 1966 and 1968. At some stage, Agamben asked his teacher whether he had read any Kafka, to which Heidegger replied that ‘The Burrow’ was the tale that had made the biggest impression upon him. ‘The Burrow’ is a short story about a creature that devotes their life to constructing an elaborate and impenetrable underground home. And yet despite, or perhaps because of, this zealous attention to security, the creature is haunted by the fantasy that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Capitalism as Religion</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Agamben</surname>
+                           <given-names>Giorgio</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="translator" id="contrib2" xlink:type="simple">
+                        <role>Translated by</role>
+                        <name name-style="western">
+                           <surname>Heron</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>15</fpage>
+                  <abstract>
+                     <p>There are signs of the times (Mt. 16: 2–4), which, despite their obviousness, those who examine the signs in the heavens do not succeed in perceiving. They are crystallised in events that herald and define the coming epoch, events that can pass unobserved and almost in no way alter the reality to which they are added; yet which, precisely because of this, count as signs, as historical indices,<italic>sēmeia ton kairōn</italic>. One of these events took place on 15 August 1971, when the American government, under the presidency of Richard Nixon, declared that the convertibility of the dollar into</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Glory, Spectacle and Inoperativity:</title>
+                     <subtitle>Agamben’s Praxis of Theoria</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Abbott</surname>
+                           <given-names>Mathew</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>27</fpage>
+                  <abstract>
+                     <p>Agamben concludes his essay on Deleuze with a prediction that is also a demand. He writes: ‘<italic>Theôria</italic>and the contemplative life, which the philosophical tradition has identified as its highest goal for centuries, will have to be dislocated onto a new plane of immanence.’¹ He goes on to say that the dislocation of theoria – the root of which is the Greek<italic>theoros</italic>, meaning ‘spectator’, but which is often translated as ‘contemplation’ – will require us to rethink the status of political philosophy and its difference from ontology. Of course, such a rethinking is exactly what he was pursuing at</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>On Property and the Philosophy of Poverty:</title>
+                     <subtitle>Agamben and Anarchism</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bignall</surname>
+                           <given-names>Simone</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>49</fpage>
+                  <abstract>
+                     <p>Despite his interest in a non-sovereign and anomial politics, Agamben makes scant reference to thinkers in the anarchist tradition.¹ However, particularly with the turn to questions of government and economy in his latest works, he delves increasingly into themes at the heart of anarchist philosophy: the renunciation of property and the practice of poverty as a means of living outside of determination by law and state; the negative and positive moments of transformation variously associated with revolt or revolution; the ‘idea of communism’ and the figure of ‘the Ungovernable’. It is noteworthy how, at the point in<italic>The Time That</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>‘Man Produces Universally’:</title>
+                     <subtitle>Praxis and Production in Agamben and Marx</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Whyte</surname>
+                           <given-names>Jessica</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>In<italic>The Kingdom of the Glory</italic>, in the midst of outlining what he sees as a specifically Christian account of governing as constant praxis, Giorgio Agamben turns his attention to a text that has preoccupied him for several decades: the<italic>Economic and Philosophic Manuscripts</italic>of Karl Marx. Beginning with his first book,<italic>The Man without Content</italic>, Agamben has repeatedly ignored Louis Althusser’s suggestion that ‘Marx’s early works do not have to be taken into account’¹ and turned to the<italic>Paris Manuscripts</italic>in the course of formulating his own accounts of praxis and of history.² Indeed, references to Marx in Agamben’s</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Liturgical Labour:</title>
+                     <subtitle>Agamben on the Post-Fordist Spectacle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>McLoughlin</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>91</fpage>
+                  <abstract>
+                     <p>Agamben has described contemporariness as ‘a singular relationship with one’s own time, which adheres to it and, at the same time, keeps a distance from it’.¹ He suggests that the way that one maintains such a disjunction to the present is by ‘perceiving the indices and signatures of the most archaic in the most modern’.² The archaic does not, however, simply mean that which is chronologically distant: it is what is ‘close to the origin’, an<italic>arche</italic>that remains an operative force within historical becoming.</p>
+                     <p>
+                        <italic>The Kingdom and the Glory</italic>attempts to perceive the archaic amidst the ‘current triumph of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>An Alogical Space of Genetic Reintrication:</title>
+                     <subtitle>Notes on an Element of Giorgio Agamben’s Method</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Clemens</surname>
+                           <given-names>Justin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>In an extraordinary recent encounter, the French thinkers Alain Badiou and Jean-Claude Milner divide strenuously over the sense of contemporary political action. For Milner, we must now recognise that ‘the heart of the question of politics’ is ‘the issue of bodies and their survival’.² Accepting this ‘hard kernel’ of the political entails that we adopt a sceptical position vis-à-vis political action, in which a certain kind of pragmatism should order our actions. For Badiou, by contrast, such a position is tantamount to an abandonment of political militancy as such. As is well known, he instead proposes a reconstruction of ‘the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Zoē aiōniōs:</title>
+                     <subtitle>Giorgio Agamben and the Critique of Katechontic Time</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Heron</surname>
+                           <given-names>Nicholas</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Only rarely has it been recalled that Erik Peterson’s bracing critique of political theology was effectively carried out, not on one, but on two fronts.¹ On the one hand, there was the well-known argument that with the proclamation of the orthodox dogma of the Trinity, early Christianity’s brief flirtation with a political theology founded on the model of Hellenistic Judaism was brought to an abrupt and definitive end (for the reason that the triune God, unlike the ‘monarchical’ God of the Jews, had no analogue in the created world). On the other hand, however, there was the lesser-known, but no</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Agamben, Badiou and Affirmative Biopolitics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Prozorov</surname>
+                           <given-names>Sergei</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>165</fpage>
+                  <abstract>
+                     <p>Agamben and Badiou are rarely discussed together, especially in the context of politics. Even though both authors reached the height of their international fame at the same time and represented the next wave in continental philosophy after the predominance of ‘post-structuralism’, the difference of their interests, influences and, not the least, styles often makes it difficult to see what common tendency these authors exhibit. While a number of studies have addressed affinities between Agamben and Badiou in terms of their interest in formalism and the problems of reference,¹ the discussions of the two authors have generally tended to accentuate the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Form-of-Life and Antagonism:</title>
+                     <subtitle>On Homo Sacer and Operaismo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Smith</surname>
+                           <given-names>Jason E.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>189</fpage>
+                  <abstract>
+                     <p>Before the publication in 2011 of his<italic>Altissima povertà. Regole monastiche e forme di vita</italic>, perhaps the most important concept in the work of Giorgio Agamben remained an enigma.¹ The notion of a ‘form-of-life’ has been crucial for the conceptual system Agamben has slowly articulated since the first volume of his long-running<italic>Homo Sacer</italic>project appeared in 1995. This concept, however, was nowhere developed in a thematic way, referred to only rarely and seemingly in passing. Yet a detailed examination of those instances where this term does appear would show that they are always placed at crucial sites, as if</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>What Is a Form-of-Life?:</title>
+                     <subtitle>Giorgio Agamben and the Practice of Poverty</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>DeCaroli</surname>
+                           <given-names>Steven</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>What I would like to attempt in this chapter, which at first might seem a simple matter, is to determine the meaning of what Giorgio Agamben calls a ‘form-of-life’ and to make clear how its technical sense differs from the term ‘form of life’, which bears a slightly different inscription, and in relation to which form-of-life remains in continual tension.¹ Although both terms have been part of Agamben’s lexicon for over two decades,² the manner in which they have been discussed in the secondary literature remains unconvincing – in part because these considerations are often limited to simple repetitions of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Law and Life beyond Incorporation:</title>
+                     <subtitle>Agamben, Highest Poverty and the Papal Legal Revolution</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Vatter</surname>
+                           <given-names>Miguel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>234</fpage>
+                  <abstract>
+                     <p>One of the central concerns of Agamben’s<italic>Homo Sacer</italic>project is to identify the traits of a life that escapes being captured by law.¹<italic>The Highest Poverty: Monastic Rules and Form-of-Life</italic>provides one of the most sustained treatments of this problem by arguing that the Franciscan movement offers the first exemplar of an extra-juridical ‘form-of-life’,² at once rejecting the connection between law and life that characterises sovereignty, and developing a radically anti-consumerist relation to the world. According to Agamben, the Franciscan ideal of giving up on all ownership (designated as ‘highest poverty’) radically calls into question the internal relation between</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.16</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>263</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1bh2k4f.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>266</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

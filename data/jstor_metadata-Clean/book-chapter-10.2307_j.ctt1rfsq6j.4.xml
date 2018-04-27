@@ -1,0 +1,698 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="spa">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1rfsq6j</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Art &amp; Art History</subject>
+         <subject>Film Studies</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Documental (es)</book-title>
+         <subtitle>Voces… Ideas</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>Rodríguez</surname>
+               <given-names>Manuel Silva</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="author" id="contrib2">
+            <name name-style="western">
+               <surname>Kuéllar</surname>
+               <given-names>Diana</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>21</day>
+         <month>04</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9789587651485</isbn>
+      <isbn content-type="epub">9789587653892</isbn>
+      <publisher>
+         <publisher-name>Programa Editorial Universidad del Valle</publisher-name>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-holder>Universidad del Valle</copyright-holder>
+         <copyright-holder>Manuel Silva Rodríguez</copyright-holder>
+         <copyright-holder>Diana Kuellar</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1rfsq6j"/>
+      <abstract abstract-type="short">
+         <p>Este libro ofrece un panorama actual de conceptos y de voces en torno al cine documental. La primera parte corresponde al escrito: "Algunas ideas sobre el (lo) documental". Este texto propone una aproximación a algunos modelos cómo el documental ha sido entendido en el seno de la institución: un intento por relacionar el campo del documental con algunos deseos colectivos y cambios culturales que se conceptualizan desde la filosofía del arte y la estética. Recoge también 21 entrevistas realizadas con directores, productores, analistas y otros profesionales vinculados al cine documental.</p>
+      </abstract>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>spa</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>5</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>9</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.3</book-part-id>
+                  <title-group>
+                     <title>Presentación</title>
+                  </title-group>
+                  <fpage>11</fpage>
+                  <abstract>
+                     <p>El libro que usted tiene en las manos busca un propósito: ofrecer un panorama actual de conceptos y de voces en torno al cine documental. Para cumplir este objetivo está estructurado en dos partes: una aproximación teórica al cine documental y un conjunto de entrevistas con gente del cine que, desde distintas prácticas y profesiones, tiene qué decir sobre el tema.</p>
+                     <p>La primera parte corresponde al escrito “Algunas ideas sobre el (lo) documental”. Ese texto propone tanto una aproximación a algunos modos como el documental ha sido entendido en el seno de la institución, esto es, entre algunos de sus</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.4</book-part-id>
+                  <title-group>
+                     <title>Algunas ideas sobre el (lo) documental</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rodríguez</surname>
+                           <given-names>Manuel Silva</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>13</fpage>
+                  <abstract>
+                     <p>Empiezo por indicar que, hasta hace algunas décadas, alrededor del documental se construyó un discurso hegemónico. Quizás uno de los textos donde se recoge con mayor claridad esa concepción es el libro, ya clásico,<italic>La representación de la realidad</italic>(1997), de Bill Nichols. En ese trabajo, confrontando la tradición platónica en la cual la imagen se reputa como inferior a la palabra, Nichols sitúa el documental en la familia de los que llama discursos de sobriedad: “El cine documental tiene cierto parentesco con esos otros sistemas de no ficción que en conjunto constituyen lo que podemos llamar los discursos de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.5</book-part-id>
+                  <title-group>
+                     <title>La revolución del documental es el paso de ser representados a autorepresentarnos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zuluaga</surname>
+                           <given-names>Pedro Adrián</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Lo primero es, en tu concepto, ¿cómo se podría describir la situación del documental en Colombia en lo que respecta a sus novedades en lo que se hace y lo que circula?</p>
+                     <p>PEDRO ADRIÁN ZULUAGA: En este momento el documental es una de las zonas más dinámicas de exploración cinematográfica. Aunque tampoco me parece tan reciente el fenómeno. Parte de lo que se denomina documental de creación es el reciclaje de una tradición que lleva por lo menos cinco décadas, desde las primeras exploraciones de Agnès Varda o de Jean Rouch en Francia en los años 60. Exploraciones</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.6</book-part-id>
+                  <title-group>
+                     <title>El cine documental no está para modas</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Henríquez</surname>
+                           <given-names>Patricio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>89</fpage>
+                  <abstract>
+                     <p>DIANA KUÉLLAR: Te propongo empezar con tu presentación, que nos hables un poco de tu trabajo para iniciar el diálogo.</p>
+                     <p>PATRICIO HENRÍQUEZ: No hay mucho que decir sobre mí. Tuve el privilegio de ser joven en los años en que se vivió la experiencia de Salvador Allende y de la Unidad Popular en Chile. En aquella época trabajé en la televisión universitaria, primero como periodista y luego como director. Después del golpe de estado, en el año 74, me exilié en Canadá, y luego de un tiempo breve de adaptación, por el que pasan casi todos los latinoamericanos haciendo trabajos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.7</book-part-id>
+                  <title-group>
+                     <title>Con cualquier película uno escribe la historia a través de la ficción</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gaviria</surname>
+                           <given-names>Víctor</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Víctor, hablemos acerca del documental en Medellín a finales de los años 70, comienzos de los 80. ¿Qué recuerdas?</p>
+                     <p>VÍCTOR GAVIRIA: Empecé en 1979 con un pequeño corto, un documental muy libre:<italic>Buscando tréboles</italic>, una serie de imágenes de una casa donde se formaban y vivían con sus profesores unos niños ciegos. No tenía sonido, iba aparte en una grabadora. Fue hecho en Súper 8 y en él entrevistaba al profesor, un monje barbado, que hablaba y mostraba un poema largo que había escrito. Tenía cierto humor. Tomaba a los niños leyendo braille, en la cama, cantando, en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.8</book-part-id>
+                  <title-group>
+                     <title>Lo real está ligado a una experiencia de ruptura del lenguaje</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Campo</surname>
+                           <given-names>Óscar</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>115</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Empecemos por recordar el proceso de<italic>Rostros y Rastros</italic>, tu gestión en ese programa.</p>
+                     <p>ÓSCAR CAMPO:<italic>Rostros</italic>apareció en el contexto de la creación del canal Telepacífico, en el año 88. Coincidió también con la liquidación de Focine. Durante la década del 80 en la ciudad se habían consolidado grupos de producción de cine, sobre todo en torno a Carlos Mayolo y Luis Ospina, aunque también había otros realizadores como Carlos Palau. Alrededor de ellos se había construido una infraestructura en términos de equipos y de maneras de hacer en la ficción. Un cine muy orientado a los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.9</book-part-id>
+                  <title-group>
+                     <title>Estoy conectado a imágenes y sonidos perdidos</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Berliner</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>129</fpage>
+                  <abstract>
+                     <p>CARLOS PATIÑO: En primer lugar, cuéntanos sobre tu lugar de origen y tu formación académica.</p>
+                     <p>ALAN BERLINER: Nací en Brooklyn, Nueva York, y cuando tenía cerca de un año y medio mi familia se mudó a Queens. Viví ahí casi hasta los 17 años. Fui a la universidad fuera del Estado de Nueva York, a la State University of New York at Binghamton, después fui durante dos años a la escuela de postgrados y obtuve un Masters Degree en Artes en la University of Oklahoma. En 1979 me mudé nuevamente a Nueva York, a Manhattan, donde he vivido desde entonces.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.10</book-part-id>
+                  <title-group>
+                     <title>El documental es una manera de relacionarse con el mundo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hincapié</surname>
+                           <given-names>Marta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Marta, detengámonos en tus inicios en la realización documental y en el trabajo audiovisual en el que luego das un viraje. Además, tú has tenido una doble formación: primero como abogada y luego como comunicadora social en la Universidad de Antioquia. ¿Cómo te miras retrospectivamente?</p>
+                     <p>MARTA HINCAPIÉ: Derecho fue una carrera que hice por terca, realmente no me gustaba. Luego de una crisis pasé a la Universidad de Antioquia a estudiar Comunicación Social, donde la formación desde el lenguaje audiovisual era muy limitada. No veíamos documental. Teníamos una materia de cine, pero el documental era estrictamente el lenguaje</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.11</book-part-id>
+                  <title-group>
+                     <title>Una mirada documental a la guerra en Colombia desde el arte</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Echavarría</surname>
+                           <given-names>Juan Manuel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>151</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Conversemos de tu evolución como artista, del tránsito de la escritura con la palabra a la imagen fija y la imagen audiovisual.</p>
+                     <p>JUAN M. ECHAVARRÍA: Mi sensibilidad artística nace con la palabra escrita. Durante muchos años, quizás más de veinticinco, escribí novelas cortas. Me demoraba mucho tiempo escribiendo, buscando la palabra justa, y la verdad es que estaba en el umbral de los cincuenta años y entré en una crisis con la palabra escrita. Me di cuenta de que duraba mucho, mucho tiempo, en la búsqueda de la palabra y entré en una crisis existencial. Vivía en Nueva</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.12</book-part-id>
+                  <title-group>
+                     <title>Estamos simulando el cine con otras tecnologías</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>La Ferla</surname>
+                           <given-names>Jorge</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>159</fpage>
+                  <abstract>
+                     <p>ÓSCAR CAMPO: La primera pregunta tiene que ver con tu presencia en el Diplomado Internacional de Documental¹. Hablemos del tema que estuviste trabajando.</p>
+                     <p>JORGE LA FERLA: Tuve en cuenta varias cosas. Por un lado, la postura y la orientación del Diplomado, que se llama “de Documental de Creación”. Esta idea surgió, en un principio, de hablar de un término que es un paraguas, una entelequia, muy ambiguo: la idea de documental expandido. Una idea que, de paso, en su ambigüedad permite trabajar una cantidad de temas muy grandes, importantes, que no son nuevos pero que paradójicamente están ausentes en los</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.13</book-part-id>
+                  <title-group>
+                     <title>Del documental al cine de gánsteres</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dorado</surname>
+                           <given-names>Antonio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>167</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Antonio, empecemos por situar tus inicios en el cine.</p>
+                     <p>ANTONIO DORADO: Cuando salí de la universidad se estaba rodando<italic>Carne de tu carne</italic>(1983), fui a pedir trabajo en la película porque un profesor nuestro era el productor, pero no había. Yo no sabía hacer nada, pero si era el caso estaba dispuesto hasta a pagar porque quería tener una experiencia en un largometraje. Al final encontré una posibilidad con un tipo que estaba prácticamente solo en iluminación. Entonces, ¿qué pasa? En la ciudad había todo un movimiento en torno al cine. Nosotros tuvimos formación de cineclubistas, yo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.14</book-part-id>
+                  <title-group>
+                     <title>Una mirada desde la universidad</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Correa</surname>
+                           <given-names>Ernesto</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: En vista de tu rol como profesor y actual director del Programa de Comunicación Audiovisual y Multimedial de la Universidad de Antioquia, de la que además eres egresado, comencemos por establecer una relación entre tu proceso de formación en la década de 1990 y la oferta formativa del presente.</p>
+                     <p>ERNESTO CORREA: Mi experiencia en la universidad con el documental fue casi frustrante en términos de lo que se enseñaba y de lo que uno aprendía. En Medellín, donde no había demasiado énfasis en lo audiovisual, a los programas de comunicación social llegábamos con mucha expectativa a los cursos</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.15</book-part-id>
+                  <title-group>
+                     <title>Mejor hablar de gesto creativo que de género cinematográfico</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Andreu</surname>
+                           <given-names>Marta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>ÓSCAR CAMPO: Vemos cómo las universidades están teniendo un lugar central en la producción y en la aparición de nuevos documentales. Los que ustedes han hecho en Barcelona son un referente importante. Hablemos de ese tema, de cómo la academia se liga con la producción.</p>
+                     <p>MARTA ANDREU: Fue una iniciativa que nació con un máster en 1998, una propuesta de su director, Jordi Balló. Se sostenía en la idea de cómo puedes formar a cineastas cuando aún no existe un cuerpo cinematográfico para hacerlo. Hablábamos de la tradición documental en España, había referentes indiscutibles y gente que estaba trabajando en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.16</book-part-id>
+                  <title-group>
+                     <title>A veces la ficción puede entrar donde no puede el documental</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Navia</surname>
+                           <given-names>Óscar Ruiz</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>DIANA KUÉLLAR: Para empezar, hagamos un breve recuento de tu carrera.</p>
+                     <p>OSCAR RUIZ: Estudié comunicación social en la Universidad del Valle, empecé en el año 99 pero tuve un break de casi 3 años porque me fui a la Escuela de Cine de la Universidad Nacional en Bogotá. Allá estudié como un año y medio, pero me aburrí y regresé. Cuando volví, entre mis compañeros estaba William Vega [<italic>La Sirga</italic>, 2012], que es mi socio y con quien trabajo. En el taller de audiovisuales empezamos a crear el grupo en el que hasta ahora hemos venido trabajando. Todo el tiempo</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.17</book-part-id>
+                  <title-group>
+                     <title>Invitar al espectador a participar, ese es el ejercicio interesante</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Herrera</surname>
+                           <given-names>Santiago</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>203</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Tú has tenido la posibilidad de estudiar en Colombia, en Alemania y luego de ser docente. ¿Cómo seguiste esos procesos de formación y qué encontraste a tu vuelta al país?</p>
+                     <p>SANTIAGO HERRERA: Yo me acerqué a la comunicación y al cine por la fotografía. Cuando miré qué carrera tenía que ver con fotografía y con escribir, que también me gustaba, encontré que la forma de estudiar cine en Colombia era entrar a una facultad de comunicación. Me encontré con los vicios o el uso limitado que la comunicación y el periodismo hacen del lenguaje audiovisual y con un</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.18</book-part-id>
+                  <title-group>
+                     <title>El pitch es vender tu idea y tu película en el menor tiempo posible</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Orozco</surname>
+                           <given-names>Marta</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>211</fpage>
+                  <abstract>
+                     <p>DIANA KUÉLLAR: Cuéntanos sobre tu trabajo, una retrospectiva de cómo empezaste en el mundo del documental.</p>
+                     <p>MARTA OROZCO: Comencé a los 19 años en la producción, básicamente porque nadie quería hacerla. Me decían que para ser productora no se estudiaba, tenían esta falsa imagen del productor que lleva cafés al set. Cuando hice el examen en la escuela de cine me dijeron que para qué iba a estudiar producción. En ese momento empecé a trabajar en México en un canal cultural, hice tres series de documental viajando por toda Latinoamérica. Después estuve entre Cuba y España, especializada en producción y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.19</book-part-id>
+                  <title-group>
+                     <title>La escritura en el documental y en la ficción</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Henao</surname>
+                           <given-names>Carlos</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>219</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Hablemos de escrituras, puede ser interesante la relación que establezcas entre la escritura en la ficción y en el documental. Podemos considerar, por ejemplo, los trabajos que has hecho con Víctor Gaviria. En términos de investigación, ¿cuáles han sido los procesos, las búsquedas retóricas o dramatúrgicas?</p>
+                     <p>CARLOS HENAO: En cierto sentido, cualquier relato, hablo de relato para referirme tanto al documental como a la ficción, surge en una inspiración. En el caso de mi relación con Víctor como coguionista de sus películas hay una inspiración muy fuerte en la realidad, tratar de convertir situaciones, episodios, anécdotas, experiencias vividas,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.20</book-part-id>
+                  <title-group>
+                     <title>El sonido en el documental</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Salazar</surname>
+                           <given-names>César</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Empecemos por referir una suerte de panorama de las variaciones del componente sonoro y de las posibilidades que esas variaciones han ofrecido en el documental.</p>
+                     <p>CÉSAR SALAZAR: En el sonido para documental tenemos las fases anteriores al inicio del sonido en la historia del cine. En la narrativa de Nanook el esquimal (1922) son característicos los intertítulos. No había sonidos, si acaso habría sonido por un acompañamiento durante la proyección como en la ficción. En los años 30-40, y en adelante cuando se tiene sonido, se trata de remplazar los intertítulos con la voz del narrador registrada posteriormente</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.21</book-part-id>
+                  <title-group>
+                     <title>En el documental casi todo es territorio por explorar</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wolf</surname>
+                           <given-names>Sergio</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>233</fpage>
+                  <abstract>
+                     <p>ÓSCAR CAMPO: Hablemos primero de eso que se llama el Nuevo cine argentino. ¿Qué es? ¿Contra qué surge? ¿Cuál es su relación con la academia?, es decir, si ha sido influenciado o si influencia a los nuevos realizadores.</p>
+                     <p>SERGIO WOLF: El llamado Nuevo cine argentino surge a finales de los años 90, con películas como<italic>La ciénaga</italic>(2001),<italic>Mundo grúa</italic>(1999),<italic>Mala época</italic>(1998),<italic>La libertad</italic>(2001),<italic>Bolivia</italic>(2001). Ese grupo es de un cine ligado a egresados de la Escuela de Cine. En algunos sentidos, son cineastas más cultos cinematográficamente, un poco más refinados que los anteriores, más arriesgados,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.22</book-part-id>
+                  <title-group>
+                     <title>El Cineclub de Cali:</title>
+                     <subtitle>de la cinefilia a la realización era un paso más o menos lógico</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Arbeláez</surname>
+                           <given-names>Ramiro</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>245</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Dentro de los posibles temas a tratar contigo, empecemos por revisar la historia de la realización de cine en Cali y tu cercanía con esta historia.</p>
+                     <p>RAMIRO ARBELÁEZ: Para dar coherencia a la cantidad posible de temáticas propongo verlo desde mi experiencia: cómo lo viví, a lo que me vinculé en la actividad cultural y cómo vi que fueron apareciendo cambios. Yo he vivido unas etapas claves de la historia del audiovisual de Cali y del Valle, de las que puedo dar cuenta a partir de los años 70. Me parece que inicialmente todo está muy signado por</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.23</book-part-id>
+                  <title-group>
+                     <title>La Muestra Internacional de Documental:</title>
+                     <subtitle>ventana y espejo del documental</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Restrepo</surname>
+                           <given-names>Ricardo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>255</fpage>
+                  <abstract>
+                     <p>DIANA KUÉLLAR: Comencemos hablando del documental en Colombia visto desde la trayectoria de la Muestra Internacional de Documental.</p>
+                     <p>RICARDO RESTREPO: Hablemos de lo que ha pasado desde 1998 hasta este año, 2012, porque efectivamente en la vitrina de la Muestra Documental se refleja un poco lo que pasa en el país. En el 98 se presentaron trabajos de los años 60 y 70, vimos una mayoría de documentales militantes en el sentido de Marta Rodríguez, una línea de izquierda no siempre bien entendida. Sobre todo en términos de forma era — y hablo de era, ya no es—un documental muy</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.24</book-part-id>
+                  <title-group>
+                     <title>¿Qué cosa es el documental de creación?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rivera</surname>
+                           <given-names>Hernán</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>265</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Empecemos hablando de tu condición como realizador formado en territorios distintos y de tu visión del documental.</p>
+                     <p>HERNÁN RIVERA: Tengo una producción que no es vasta. Soy peruano, pero resido en Francia desde 1986. En Perú tuve formación en una escuela de cine, pero en realidad no me brindó mucho de manera académica. Aprendí cosas de manera extracurricular, en un trabajo de grupo. Es ahí donde realmente creo que aprendí. Tuve unos profesores muy buenos, pero me aportaron más por el lado humano que por el académico. Antes de viajar a Francia había hecho cortos de ficción y</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.25</book-part-id>
+                  <title-group>
+                     <title>Personaje y testigo de medio siglo de cine en Colombia</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sánchez</surname>
+                           <given-names>Luis Alfredo</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>271</fpage>
+                  <abstract>
+                     <p>MANUEL SILVA: Encuentro en una biografía tuya que te fuiste a trabajar como periodista y terminaste estudiando becado en Moscú. ¿Fue allí donde empezaste con lo del cine o ya antes estaba esa vena?</p>
+                     <p>LUIS ALFREDO SÁNCHEZ: Esa vena estaba desde muy niño, cuando iba en Palmira los domingos a matinal a las once de la mañana. El peor castigo, cuando traía malas notas del colegio, era que mi papá me prohibía ir a cine. Siempre me gustó el cine, inclusive de niño inventé un proyector pegando tiras cómicas. Recuerdo que eran<italic>Pepita y Lorenzo y Educando a papá</italic>, las</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.26</book-part-id>
+                  <title-group>
+                     <title>Películas Citadas</title>
+                  </title-group>
+                  <fpage>283</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.27</book-part-id>
+                  <title-group>
+                     <title>Índice de películas</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1rfsq6j.28</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>303</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,383 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="doi">10.2307/j.ctt1d9nk7w</book-id>
+      <subj-group>
+         <subject content-type="call-number">PN45.R64 2015</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Literature</subject>
+         <subj-group>
+            <subject content-type="lcsh">Philosophy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+         <subject>Philosophy</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>The Event</book-title>
+         <subtitle>Literature and Theory</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="author" id="contrib1">
+            <name name-style="western">
+               <surname>ROWNER</surname>
+               <given-names>ILAI</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>01</month>
+         <year>2015</year>
+      </pub-date>
+      <isbn content-type="ppub">9780803245853</isbn>
+      <isbn content-type="epub">9780803286504</isbn>
+      <isbn content-type="epub">0803286503</isbn>
+      <publisher>
+         <publisher-name>UNP - Nebraska</publisher-name>
+         <publisher-loc>Lincoln; London</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2015</copyright-year>
+         <copyright-holder>the Board of Regents of the University of Nebraska</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1d9nk7w"/>
+      <abstract abstract-type="short">
+         <p>What is an event? From a philosophical perspective, events are irregular occurrences-moments of change and interruption-categorized by human perception, language, and thought. While philosophers have pored over the subject of events extensively in recent years,<italic>The Event: Literature and Theory</italic>seeks to ground it: What is literature's approach to the event? How does literature produce and give testimony to events?</p>
+         <p>Ilai Rowner's study not only revisits some of the most important thinkers of our time, including Maurice Blanchot, Gilles Deleuze, Jacques Derrida, and Martin Heidegger, it also develops a critical approach to literature that questions the meaning of the literary event through examinations of literary works by Marcel Proust, Louis-Ferdinand Céline, and T. S. Eliot.</p>
+         <p>Rowner offers a new method of thinking about the particular characteristics of the event within literary works and defines the creative value of literature as the aspiration toward<italic>the un-happening within the happening</italic>. In this study the experience of literature-as an act of both writing and reading-becomes the struggle to capture the excessive movement of the event while also revealing the creative energy within that work of literature.</p>
+      </abstract>
+      <counts>
+         <page-count count="296"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.3</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xv</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Introduction:</title>
+                     <subtitle>Historical Event, Narrative Event, Literary Event</subtitle>
+                  </title-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The central objective of this book is to reconsider the concept of the<italic>event</italic>from a philosophical vantage point, and with special reference to the literary text. Through the study of Heidegger, Blanchot, Derrida, and Deleuze, this book will suggest a method of thinking about the event of the literary work, both by examining the fundamental question of the literary creation and by providing the conditions for a different approach to literary criticism. The term<italic>event</italic>will be defined here as any irregular occurrence, real or fictional, that has effectively and obviously come about. At the same time, it is</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>INTERMEZZO:</title>
+                     <subtitle>The Cave in Homer’s Odyssey and the Café in Marguerite Duras’s Moderato Cantabile</subtitle>
+                  </title-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>The absolute sign of strangeness that marks the violent encounter between Odysseus and Polyphemus in the Cyclops’s cave is perhaps the essence of the<italic>Odyssey</italic>. The dreadful moment when Odysseus and his men fall prey to the dark trap of the cave and the end of the journey home appears inevitable is also the moment when the entire exploration—throughout the sail and even later in Phaeacia’s hall and in Ithaca—is subsumed under the title of “no-body.”¹ Between Odysseus and Polyphemus, no common ground is possible.</p>
+                     <p>They are strangers who must destroy one another, abolish the other in his</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Martin Heidegger:</title>
+                     <subtitle>The Event of Appropriation</subtitle>
+                  </title-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>This theoretical inquiry into the concept of the<italic>event</italic>starts with Heidegger’s thinking about<italic>das Ereignis</italic>, usually translated as “event of appropriation,” by means of which he elaborates a philosophy of Being as event.¹ Indeed, Heidegger offers an important source in the study of the event insofar as it is considered not as a simple happening in the world but rather as that which makes any happening possible. The priority Heidegger assigns this term casts a new light on some acute traditional problems concerning the conception of time and presence, the identity of things, human being, and the essence of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Maurice Blanchot:</title>
+                     <subtitle>The Event of Dying</subtitle>
+                  </title-group>
+                  <fpage>71</fpage>
+                  <abstract>
+                     <p>While Heidegger takes a general ontological perspective, Blanchot deals with the question of the event as an interrogation that mainly concerns the being of literature. Language is no longer the channel through which Being and man come to belong to one another; the fictive essence of language according to Blanchot deprives the subject of self and robs the real of sense. If Heidegger regards poetry as a truthful principle that is the source and foundation of man’s dwelling, Blanchot assigns it an illusory principle that affects both the experience of the writer and the written work itself. Thus<italic>the event</italic>
+                     </p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Jacques Derrida:</title>
+                     <subtitle>The Non-Advent of the Event</subtitle>
+                  </title-group>
+                  <fpage>96</fpage>
+                  <abstract>
+                     <p>Derrida is evidently a Blanchotian philosopher. While continuing to affirm Heidegger’s influence, he radicalizes, through Levinas, the thought of<italic>difference</italic>in order to methodologically establish the condition for a “science of the singular.” Here, the thinking of the event and its challenge to modern existence must first of all takes the shape of a concrete and dramatic<italic>performance</italic>of writing: to write in the limits and in the margins of thinking so that the making of the work itself testifies to the subversive powers at play when the grounds of thinking come under question. Indeed, Heidegger and Blanchot can be</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Gilles Deleuze:</title>
+                     <subtitle>The Becoming of the Event</subtitle>
+                  </title-group>
+                  <fpage>122</fpage>
+                  <abstract>
+                     <p>The return to the ontological questions of philosophy and their renewal is Gilles Deleuze’s most pressing project. It is his philosophical priority to refuse any transcendent ideas or transcendental conditions; instead, he tends to examine the vital forces of an immanent structure. Using the term “plane of immanence,” Deleuze suggests that thinking relates to the surface of a concrete reality that it absolutely does not transcend. Thinking does not merely depend on real experience: like a pre-Socratic sage of nature, Deleuze claims that the force of thinking, its astonishment and creativity, consists of the material movement of Being, as if</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Toward a Theory of Literary Events:</title>
+                     <subtitle>Conceptions and Principles</subtitle>
+                  </title-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>What is literature? What is the being of literature? What is the<italic>literariness</italic>of literature? What happens as a result of the fact that we have literature? Is there a particular substance or essence of literature? Although answers to these questions are offered in diverse classical poetics, aesthetics, and modern textual theories, these fundamental questions remain enigmatic. What is literature as a discourse and as an art, as an aesthetic object and as a poetic experience?</p>
+                     <p>Recently, Genette, after Aristotle and Kant, Jakobson and Sartre, Valéry and Blanchot, summarized this question by pointing at two general criteria,<italic>fiction</italic>and<italic>diction</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>AIR RAID ONE:</title>
+                     <subtitle>Marcel Proust’s Time Regained</subtitle>
+                  </title-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>When Proust writes about the air raid on Paris in<italic>Time Regained</italic>, the great forces of war visibly engage in combat with the aberrant forces of desire.¹ In the night of the Great War the narrator unexpectedly observes the Baron de Charlus in a brothel among other eminent men, an honorable deputy and a priest, who pay soldiers to be their sexual objects. The dramatic political situation blends with the extreme pleasure that comes from breaking prohibition. The excitement brought about by the bombing, rather than its danger, inspires the respectable aristocracy with a stubborn inclination to precipitate the<italic>terrible</italic>.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Writing Corporeally:</title>
+                     <subtitle>A Vital Move</subtitle>
+                  </title-group>
+                  <fpage>191</fpage>
+                  <abstract>
+                     <p>Defining the event of literature as<italic>the un-happening within the happening</italic>brings us to a main intersection between a transcendent understanding of the event and an immanent approach to it. The transcendent approach emphasizes the absolute other that engenders the happening: essentially the impossible horizon of the happening or the ungraspable which is always about to occur. The immanent approach insists, instead, that the event is graspable as it takes place, that it is a fact unfolding among or between its declared historical elements, a real undetermined movement of flight, what Nancy calls “the<italic>that</italic>itself of the ‘<italic>that-it-happens</italic>.’”¹ To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>AIR RAID TWO:</title>
+                     <subtitle>Louis-Ferdinand Céline’s Fable for Another Time</subtitle>
+                  </title-group>
+                  <fpage>209</fpage>
+                  <abstract>
+                     <p>An uncanny scene of sexual seduction takes place under the menace of an air raid at the end of Céline’s novel<italic>Féerie pour une autre fois</italic>(<italic>Fable for Another Time</italic>).¹ Locked in a prison cell, Ferdinand, the character of the writer in this novel, attaches his memories of the Allies’ invasion of Paris in the spring of 1944 to his betrayal by his best friend and his wife.² This scene begins by a sudden, brief eruption of the narrative tone, a violent textual crack, and what appears to be present of the writing is flooded by anger and shame. The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>AIR RAID THREE:</title>
+                     <subtitle>T. S. Eliot’s “Little Gidding” from Four Quartets</subtitle>
+                  </title-group>
+                  <fpage>227</fpage>
+                  <abstract>
+                     <p>Under the German Blitz on London, during the World War II, the meditative poetry of Eliot’s<italic>Four Quartets</italic>is suddenly breached by an urgent sense that an inevitable ordeal is under way.¹ A key moment erupts from the long sequences of this poetic texture, throwing into disarray the all-embracing spiritual experience as well as the previous questioning of its truthful sources and achievements. What occurs here is not only the devastation wreaked by the air raid but a dramatic encounter of the poet with a ghost—the reappearance of a dead author walking through the dark streets of London, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Conclusion:</title>
+                     <subtitle>Being Is in the Hands of the Event</subtitle>
+                  </title-group>
+                  <fpage>239</fpage>
+                  <abstract>
+                     <p>Walking through Washington Square in New York City, I discovered this inscription cut into a monument: “The event is in the hand of God.” Though poetically articulated, this is of course an imprecise statement, because God, rather, is always in the hands of the event. That is to say, God is something other than the omnipresent demiurge who pronounced the words “fiat lux.” Perhaps what we call God is only the blink of an eye at the instant the voice resounded: Let there be light. It may well have been the combined and undefined vibration of matter and perception, of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.17</book-part-id>
+                  <title-group>
+                     <title>Notes</title>
+                  </title-group>
+                  <fpage>241</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.18</book-part-id>
+                  <title-group>
+                     <title>Bibliography</title>
+                  </title-group>
+                  <fpage>281</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="doi">10.2307/j.ctt1d9nk7w.19</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>295</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

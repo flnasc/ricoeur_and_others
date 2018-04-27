@@ -1,0 +1,605 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt15m7n61</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Marketing</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Markets</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Sociology</subject>
+         <subject>Population Studies</subject>
+         <subject>Architecture and Architectural History</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Cairo Contested</book-title>
+         <subtitle>Governance, Urban Space, and Global Modernity</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <contrib contrib-type="editor" id="contrib1">
+            <role>Edited by</role>
+            <name name-style="western">
+               <surname>Singerman</surname>
+               <given-names>Diane</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>01</day>
+         <month>10</month>
+         <year>2011</year>
+      </pub-date>
+      <isbn content-type="ppub">9789774165009</isbn>
+      <isbn content-type="epub">9781617973895</isbn>
+      <publisher>
+         <publisher-name>The American University in Cairo Press</publisher-name>
+         <publisher-loc>Cairo; New York</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2009</copyright-year>
+         <copyright-holder>Diane Singerman</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt15m7n61"/>
+      <abstract abstract-type="short">
+         <p>This cross-disciplinary, ethnographic, contextualized, and empirical volume—with an updated introduction to take account of the dramatic events of early 2011—explores the meaning and significance of urban space, and maps the spatial inscription of power on the mega-city of Cairo. Suspicious of collective life and averse to power-sharing, Egyptian governance structures weaken but do not stop the public’s role in the remaking of their city. What happens to a city where neo-liberalism has scaled back public services and encouraged the privatization of public goods, while the vast majority cannot afford the effects of such policies? Who wins and loses in the “march to the modern and the global" as the government transforms urban spaces and markets in the name of growth, security, tourism, and modernity? How do Cairenes struggle with an ambiguous and vulnerable legal and bureaucratic environment when legality is a privilege affordable only to the few or the connected? This companion volume to Cairo Cosmopolitan further develops the central insights of the Cairo School of Urban Studies.</p>
+      </abstract>
+      <counts>
+         <page-count count="536"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.3</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.4</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>xiii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.5</book-part-id>
+                  <title-group>
+                     <title>[Map]</title>
+                  </title-group>
+                  <fpage>xvi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.6</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                     <subtitle>The Contested City</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Singerman</surname>
+                           <given-names>Diane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The city of Cairo, like all global mega-cities, is entrenched in processes of globalization where flows of labor, capital, and information are re-shaping its physical boundaries, the structure of the economy, and its political landscape.¹ The Egyptian state seeks to remake itself as the “Tiger on the Nile,” a growth engine that will not only sustain Egypt’s regional dominance but also propel it to become a truly global capital, drawing investment for its industry, franchises, services, and new ‘planned’ cities in the desert. The country’s heritage and its monuments attract millions of tourists annually, and tourism has become a pillar</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.7</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Making or Shaking the State:</title>
+                     <subtitle>Urban Boundaries of State Control and Popular Appropriation in Sayyida Zaynab Model Park</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Adham</surname>
+                           <given-names>Khaled</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>More than two decades have elapsed since Abdel Halim Ibrahim Abdel Halim, a contemporary Egyptian architect, released this emphatic manifesto. He did so shortly after entering an architectural competition for the Cultural Park for Children in Cairo, a project sponsored by the Egyptian Ministry of Culture. The politicized tone of Abdel Halim’s manifesto raised, and still would raise, eyebrows among Egyptian architects and critics.</p>
+                     <p>A number of questions emerge from this story. How could the design of a small park for children, who apparently have little connection to political life, become the site for what sounded like a provocation for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.8</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Cairo as Capital of Islamic Institutions?</title>
+                     <subtitle>Al-Azhar Islamic University, the State, and the City</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Zeghal</surname>
+                           <given-names>Malika</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>63</fpage>
+                  <abstract>
+                     <p>“Why do you want to study al-Azhar? There is nothing to be said about it. It is a pawn of the state,” an Egyptian intellectual once told me, showing contempt for my object of study.² I almost believed him. When I first visited al-Azhar University in 1992, in the very center of Fatimid Cairo, the first thing that struck me was its emptiness. ‘Things’ were happening somewhere else, I thought. My political scientist colleagues who studied political or radical Islam would probably get more interesting data from their field research than I would. While al-Azhar Street, the large and crowded</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.9</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Policing Mulids and Their Meaning</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Schielke</surname>
+                           <given-names>Samuli</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>A<italic>mulid</italic>(plural,<italic>mawalid</italic>) is a saint’s festival. It is illustrative of the various ways a festivity and a city come together, at times mingling and at times in conflict. This chapter looks more closely at the mulid of Sayyida Nafisa, one of Cairo’s major festive events (See map 1).² The festivity takes place in and around the mosque of Sayyida Nafisa in a quarter named after its patron saint. Part of Khalifa district, the quarter of Sayyida Nafisa is a ‘popular area’ (<italic>hayy sha‘bi</italic>) at the edge of the old city of Cairo and the southern cemetery, old and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.10</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>The Siege of Imbaba, Egypt’s Internal ‘Other,’ and the Criminalization of Politics</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Singerman</surname>
+                           <given-names>Diane</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>111</fpage>
+                  <abstract>
+                     <p>A negative, pejorative characterization of informal housing areas,<italic>manatiq al‘ashwayi’at</italic>, became a common refrain in Egyptian public discourse in the 1990s. These unplanned, lower-income, and poorly serviced areas came to be defined as a deviant phenomenon and, by association, the residents of those areas as deviants. Yet, estimates suggest that between 4.7 and 7 million Cairenes lived in informal housing areas in this decade.¹ What drives the labeling of a third or half of the residents of Cairo as deviants? This chapter examines how and why such a large share of Cairo’s residents have been deviantized and stigmatized. An answer</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.11</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>From the Hara to the ‘Imara:</title>
+                     <subtitle>Emerging Urban Metaphors in the Literary Production on Contemporary Cairo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mehrez</surname>
+                           <given-names>Samia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>145</fpage>
+                  <abstract>
+                     <p>Given the dominance of the realist tradition in Egyptian literature, it is no surprise that Cairo, whether it is the historic city or the modern metropolis, should be the main metaphor for much of the literary production during the twentieth century. Urban space, for the writers of the city, has been a major architect of its social, economic, and political fabric. At one level, the city of Cairo emerges as an actor with real agency that embodies and structures social power, as well as political, economic, and symbolic processes. Cairo is not simply a physical presence that writers reproduce. Rather,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.12</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Cairo’s City Government:</title>
+                     <subtitle>The Crisis of Local Administration and the Refusal of Urban Citizenship</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Néfissa</surname>
+                           <given-names>Sarah Ben</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>177</fpage>
+                  <abstract>
+                     <p>In January 2004, fourteen people were killed when an apartment building in the middle-class, residential suburb of Madinat Nasr burned down. Among the dead were twelve firefighters and police officers, who were trying to extinguish the fire. The fire started in the basement, which contained flammable items, such as aerosol pumps and plastic utensils, used by a business that was leasing first-floor space from the landlord. Since the building’s construction in 1981, the landlord had added seven extra floors without government authorization. Deadly fires are frequent in Cairo, and, as this case shows, they do not only occur in poor</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.13</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>The Dictatorship of the Straight Line and the Myth of Social Disorder:</title>
+                     <subtitle>Revisiting Informality in Cairo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Deboulet</surname>
+                           <given-names>Agnès</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>199</fpage>
+                  <abstract>
+                     <p>From the Dar al-Salam metro station, Umm Kawsar must walk twenty minutes to get home to her shantytown settlement of Istabl ‘Antar, on the Fustat plateau on the southern margins of Cairo. As she leaves the metro, she proceeds through the center of Dar al-Salam, down two, long, narrow, jammed thoroughfares bordered by six-to nine-floor apartment buildings. This crowded neighborhood near the station is a source of pleasure for Umm Kawsar.¹ Its relative prosperity and urban dynamism stand in contrast to the desolation of her own neighborhood. At any hour in Dar al-Salam, one of the densest residential areas in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.14</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Extract from a Diary:</title>
+                     <subtitle>Marginal Notes on the Soft Dialectics of Historic Cairo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ibrahim</surname>
+                           <given-names>Kareem</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>235</fpage>
+                  <abstract>
+                     <p>“This is unbelievable!” I said, astonished to see this beautiful building for the first time. Meanwhile he, a British expert who used to work in Historic Cairo, looked at me out of the corner of his eyes, somehow proud of the fact that he knew something about my city that I did not. I must admit that it was shocking for me to discover this highly refined building a few steps off al-Dab al-Ahmar Street, very close to the well-known Bab Zuwayla, the southern gate of Historic Cairo. Despite the fact that I have been through this area hundreds of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.15</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Of Demolitions and Donors:</title>
+                     <subtitle>The Problematics of State Intervention in Informal Cairo</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dorman</surname>
+                           <given-names>W. J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>269</fpage>
+                  <abstract>
+                     <p>In early January 1998, shortly after the start of Ramadan, police troops from the Cairo Governorate entered the<italic>sha‘bi</italic>neighborhood of Fakhariya (Potteries), located behind the mosque of ‘Amr ibn al-‘As in the southern district of Misr al-Qadima. In what one account described as an “urban redevelopment blitzkrieg,” they began to demolish homes, pots, and kilns, “utterly destroying” the area and leaving 300– 350 families homeless (Digges 1998, 14; al-Husayni 1998; “Quwwat al-amn” 1998; al-Zayni 1998).</p>
+                     <p>The clearance provoked a small riot, suggesting Asef Bayat’s notion of “street politics,” with “passive networks” of solidarity connecting otherwise unrelated individuals being instantly</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.16</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Banished by the Quake:</title>
+                     <subtitle>Urban Cairenes Displaced from the Historic Center to the Desert Periphery</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Florin</surname>
+                           <given-names>Bénédicte</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>291</fpage>
+                  <abstract>
+                     <p>On 12 October 1992, a major earthquake (<italic>zilzal</italic>) at 5.9 on the Richter scale, with its epicenter in Fayyum, southwest of Cairo, struck and officially caused 561 deaths and wounded 9,922 in Greater Cairo. In addition to the human casualties, 211 mosques crumbled and 1,087 schools and 5,004 buildings fell—damage that was exacerbated by extensive aftershocks (Blin 1993, 399; El Kadi 1993). The earthquake damaged 64 percent of all dwellings and 66 percent of all housing in the governorate of Cairo; the historic districts in the western part of the governorate were the hardest hit (Kamel 1994, 216). According</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.17</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Cousins, Neighbors, and Citizens in Imbaba:</title>
+                     <subtitle>The Genesis and Self-neutralization of a Rebel Political Territory</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Haenni</surname>
+                           <given-names>Patrick</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>309</fpage>
+                  <abstract>
+                     <p>With varying levels of effort, the different informal suburbs of Cairo became the object of intense Islamist mobilization when the<italic>Gama‘a Islamiya</italic>(GI), an Islamist group, sought to make itself at home in the heart of the capital and to take these territories from state control. The paradigmatic poor community that the GI used as leverage was Munira al-Gharbiya, to the west of Cairo in the district of Imbaba. In this community, the first adversary of the GI was not the state but local people’s allegiances to their region, district, or village. In those communities neglected by public authorities, people</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.18</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Economic Liberalization and Union Struggles in Cairo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Paczynska</surname>
+                           <given-names>Agnieszka</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>331</fpage>
+                  <abstract>
+                     <p>In mid-July 1998, labor activists distributed a leaflet among workers of the Iron and Steel Factory in Helwan, a sprawling industrial Cairo suburb that has long been the site of labor activism. The leaflet warned workers that the early retirement package that the government was offering would mean that their overall pension benefits would be lower than if they continued working until the usual retirement age. The leaflet appeared during a summer when the Egyptian government was trying once again to jump-start its slow-moving privatization plan, one of the central components of its structural adjustment program. The voluntary early retirement</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.19</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Land Disputes, the Informal City, and Environmental Discourse in Cairo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bell</surname>
+                           <given-names>Jennifer</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>349</fpage>
+                  <abstract>
+                     <p>In the summer of 2000, an unexpected environmental protest took place in Giza City, on the west bank of the Nile in Greater Cairo. A group of several hundred residents of an informal area in the Pyramids district called ‘Amr ibn al-‘As converged in front of downtown government offices, holding placards that said, “No to fear, No to sewage, No to pollution” (“Saying No” 2000). Expressing outrage over a problem that afflicts informal areas as their population density increases, the residents’ signs alluded to the sewage that had submerged their dense neighborhood streets over the previous eight months. Having tried</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.20</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>Market Spaces:</title>
+                     <subtitle>Merchants Battle the Economic Narratives of Development Experts</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gertel</surname>
+                           <given-names>Jörg</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>371</fpage>
+                  <abstract>
+                     <p>On 25 March 1992, a new ultra-modern wholesale market for fruit, vegetables, and fish was officially inaugurated by Egyptian President Hosni Mubarak in al-‘Ubur, in the vicinity of Cairo’s international airport. Although the official opening had already been delayed for two years after the market’s completion, the new site was still missing an important element: merchants. In contrast, the old open-air wholesale market in downtown Cairo, in the quarter of Rod al-Farag, continued to operate as it had during half a century, much to the chagrin of the Egyptian government and some international experts.</p>
+                     <p>The story to be told here,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.21</book-part-id>
+                  <title-group>
+                     <label>15</label>
+                     <title>Political Consumerism and the Boycott of American Goods in Egypt</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Djerdjerian</surname>
+                           <given-names>Taline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>393</fpage>
+                  <abstract>
+                     <p>I was on the Cairo metro with Khaled and Amal trying to decide where to go for lunch when suddenly the conversation shifted toward<italic>al-muqata‘a</italic>(the boycott). Khaled, a thirty-year-old engineer, and his fiancée, Amal, a twenty-two-year-old university student, seemed very enthusiastic about the subject and started to brief me about the latest developments in the campaign. They then suggested we go to Shabrawy—a popular local fast food chain— for<italic>fuul</italic>and<italic>ta‘miya/falafil</italic>sandwiches because they no longer dined out at American fast food restaurants. Once we were at the restaurant, the boycott dominated our conversation and revolved around</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.22</book-part-id>
+                  <title-group>
+                     <label>16</label>
+                     <title>Amr Khaled and Young Muslim Elites:</title>
+                     <subtitle>Islamism and the Consolidation of Mainstream Muslim Piety in Egypt</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Sobhy</surname>
+                           <given-names>Hania</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>415</fpage>
+                  <abstract>
+                     <p>Like many Egyptians, I have witnessed religious practice and consciousness evolve over the past two decades across generations inside my family, within my wider social setting, and in Cairo as a whole. My experiences within Muslim communities in Canada and the United Kingdom have sensitized me to the strength of similar patterns of religious identification in these communities. Perhaps contrary to the expectations of many westerners, Cairenes are becoming more religiously observant and more consciously Muslim, than they were in the 1940s, 1950s, or 1960s. As described in various intellectual histories of the Arab world, a clear change in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt15m7n61.23</book-part-id>
+                  <title-group>
+                     <label>17</label>
+                     <title>African Refugees and Diasporic Struggles in Cairo</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Al-Sharmani</surname>
+                           <given-names>Mulki</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grabska</surname>
+                           <given-names>Katarzyna</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>455</fpage>
+                  <abstract>
+                     <p>Cairo, representative of many different faces, nationalities, traditions, languages, and cultures, has enjoyed the status of a cosmopolitan city throughout its history. Egypt also has been sought as a place of exile by sizeable refugee populations, including Palestinians after 1948 and Armenians who fled the 1915 massacre under the Ottomans. Traditionally, Palestinians constitute the largest proportion of exiled residents, today numbering between fifty and seventy thousand (el-Abed 2003).¹ In the 1950s and 1960s, Cairo was host to exiles from liberation movements in Africa and the Middle East, mainly small numbers of political activists.</p>
+                     <p>On 30 December 2005, the situation of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

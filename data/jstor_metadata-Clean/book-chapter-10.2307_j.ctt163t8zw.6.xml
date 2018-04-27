@@ -1,0 +1,485 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt163t8zw</book-id>
+      <subj-group>
+         <subject content-type="lcsh">Catholic Church</subject>
+         <subj-group>
+            <subject content-type="lcsh">Liturgy</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Vatican Council (2nd : 1962-1965 : Basilica di San Pietro in Vaticano)</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>God's Word and the Church's Council</book-title>
+         <subtitle>Vaticann II and Divine Revelation</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>O’Brien</surname>
+               <given-names>Mark</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Monaghan</surname>
+               <given-names>Christopher</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>05</day>
+         <month>07</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9781922239723</isbn>
+      <isbn content-type="epub">9781922239730</isbn>
+      <publisher>
+         <publisher-name>ATF Press</publisher-name>
+         <publisher-loc>Hindmarsh, SA</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>remains with the individual authors for all papers in this collection</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt163t8zw"/>
+      <abstract abstract-type="short">
+         <p>The publication of the Vatican II document on Divine Revelation (Dei Verbum) was an exciting and challenging moment for the Church. While honouring the tradition, it also marked a quite dramatic development in the Church’s attitude to modern critical analysis of the Bible and encouraged study and reflection on it by all members of the Church. The golden jubilee of its publication is a timely moment for a book such as this. It contains essays on various aspects of Dei Verbum by authors from around the world. They write from the perspective of their respective disciplines of biblical studies, patristics, theology, liturgy, philosophy, and communications media. They situate the document within the Jewish-Christian tradition, assess its reception since Vatican II, and its implications for the future.</p>
+      </abstract>
+      <counts>
+         <page-count count="263"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.3</book-part-id>
+                  <title-group>
+                     <title>Foreword</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Coleridge</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>vii</fpage>
+                  <abstract>
+                     <p>Christians are sometimes included among the People of the Book. This is not quite true, or at least it is not true of Christians in the way it is of Jews and Muslims. Christianity takes the Bible very seriously, but that does not make it a religion of the Book. However important the Bible may be for Christians, it does not have the same status for them as the Tanak does for Judaism or the Koran for Islam. This is because Christianity is a religion of the Word rather than the Book. The figure of Jesus crucified and risen occupies</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Brien</surname>
+                           <given-names>Mark</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Monaghan</surname>
+                           <given-names>Christopher</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+                  <abstract>
+                     <p>The fiftieth anniversary of the Second Vatican Council’s Dogmatic Constitution on Divine Revelation (<italic>Dei Verbum</italic>) is an opportune time to look back and to look forward: to see what it achieved and how it has contributed to the life of the post-conciliar Church. This volume provides critical reflections on these aspects of<italic>Dei Verbum</italic>by authors from around the world. In inviting their contributions a primary aim has been to see how the Council took up the challenge of the interpretation and use of the Bible in the modern world and the course it chartered for the future. The authors</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.5</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Dei Verbum and Revelation</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>O’Collins</surname>
+                           <given-names>Gerald</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The 1985 Extraordinary Synod of Bishops met in Rome (24 November to 8 December) to celebrate the Second Vatican Council (which had ended twenty years earlier on 8 December 1965), to evaluate the Council’s role in the postconciliar Church, and to develop some principles for the further reception of its teaching.¹ The final report of the synod produced six principles for interpreting the sixteen conciliar texts.²</p>
+                     <p>Avery Dulles paraphrased the first principle as follows: ‘Each passage and document of the Council must be interpreted in the context of all the others, so that the integral meaning of the Council may</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.6</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Vatican II and ‘The Study of the Sacred Page’ as ‘The Soul of Theology’ (Dei Verbum 24)</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Moloney</surname>
+                           <given-names>Francis J</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>Among the many challenging developments that emerged from the Second Vatican Council, the Dogmatic Constitution on Divine Revelation,<italic>Dei Verbum</italic>(henceforth<italic>DV</italic>), one of the last documents to be promulgated by Paul VI at the close of the Council on 18 November 1965, has an important place. The document is the result of a tortured history that ran across all sittings of the Council. It began with the rejection of the schema from the preparatory commission,<italic>De Fontibus Revelationis</italic>, in November 1962.¹ The subsequent discussion, sometimes bitter, at the Council and in the commissions and working parties, led to a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.7</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Scripture and Tradition in the Patristic Age</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Minns</surname>
+                           <given-names>Denis P</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>In October 1960 the Preparatory Theological Commission that began the process that would ultimately issue in the Dogmatic Constitution on Divine Revelation presented a working paper bearing the significant title:<italic>A Compendious Schema for the Constitution on the Sources of Revelation.</italic>¹ Famously, the Dogmatic Constitution itself would reject the (traditional) notion of Scripture and Tradition as two separate sources (<italic>fontes</italic>) of Revelation and assert that ‘Sacred Tradition and Sacred Scripture are tightly connected and linked with one another. For both flow forth from the same divine, bubbling spring, somehow or other coalesce as one thing, and extend toward the same</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.8</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>‘I handed on to you . . . what I also received’ (1 Cor 15:3)</title>
+                     <subtitle>The Scripture-Tradition Connection/Controversy</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bergant</surname>
+                           <given-names>Dianne</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>55</fpage>
+                  <abstract>
+                     <p>‘The living Tradition is essential for enabling the Church to grow through time in the understanding of the truth revealed in the Scriptures.’¹ These words from the Post-Synodal Apostolic Exhortation of Benedict XVI throw light on the relationship between Scripture and Tradition as understood by the Roman Catholic Church. It speaks of the revelatory character of the Scriptures, and of the Tradition as being living and dynamic as it opens the Church to the revelation of God. However, within the broader Christian Church, the relationship between Scripture and Tradition has been a source of contention and, despite the strides that</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.9</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>‘The Unity of the Whole of Scripture’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Taylor</surname>
+                           <given-names>Justin</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>The editors of this volume have asked me to discuss the following question: ‘Given modern critical awareness of difference and disagreement within the biblical tradition (viewpoints, manuscript and translation variants, etc.) can one continue to speak of the “unity of the whole of Scripture” as in<italic>Dei Verbum</italic>chapter 3, paragraph 12?’</p>
+                     <p>The question admits of several possible approaches to an answer. I have chosen to examine closely the text of the Conciliar Constitution, then that of relevant portions of Emeritus Pope Benedict XVI’s Apostolic Exhortation<italic>Verbum Domini.</italic>
+                     </p>
+                     <p>In the words of a contemporary commentator, ‘the discussion of the Council</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.10</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Dei Verbum:</title>
+                     <subtitle>Dei Verbum Literary Forms and Vatican II—An Old Testament Perspective</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Campbell</surname>
+                           <given-names>Antony F</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>87</fpage>
+                  <abstract>
+                     <p>The invitation offered by the fiftieth anniversary of a Council document is a marvellous opportunity to look at the nature of an ecumenical council (such as Vatican II) and the nature of its documents. The nature of neither can be taken for granted. In days gone by, Council documents culminated in a series of propositions, each ending with ‘anathema sit’—let any person holding this view be considered anathema, an outsider. Vatican II did not do this. At the earlier Councils, it was probably felt that the anathema would hold its force for all time. The passage of time would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.11</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Dei Verbum and the Witness of Creation:</title>
+                     <subtitle>Reading Ecclesiastes 3:9–22 Ecologically</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Turner</surname>
+                           <given-names>Marie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>101</fpage>
+                  <abstract>
+                     <p>In recent times, biblical interpreters have drawn on a range of interpretive approaches in order to ensure that the biblical text ‘may not simply be a word from the past, but a living and timely word’.¹ Among the more recent approaches have been ecological readings, which have arisen as a response to the ecological crisis and as a result of a growing sense of responsibility among biblical scholars and theologians towards God’s creation. The Old Testament book of Ecclesiastes (or Qoheleth) has evoked many conflicting responses over the centuries, mainly because of its recurring refrain of ‘vanity of vanities’ or</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.12</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>A Review and Assessment of the Church’s Engagement with Historical Critical Analysis of the New Testament as outlined in Dei Verbum</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Murphy-O’Connor</surname>
+                           <given-names>Jerome</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>113</fpage>
+                  <abstract>
+                     <p>The more conciliar documents of bygone years are studied, the extent to which they were conditioned by historical circumstances becomes more and more evident. It is important, therefore, to first situate<italic>Dei Verbum</italic>(<italic>DV</italic>) in the history of the twentieth century Church. Then I shall examine what exactly<italic>DV</italic>said about the New Testament, and conclude with an assessment of the impact of this document on the Church. It will appear that while authorities in the Church adhere faithfully to the directives of<italic>DV</italic>, there remains a ground swell of bitter discontent among those who have not been brought up</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.13</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Breaking Open the Word:</title>
+                     <subtitle>The Legacy of Dei Verbum</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Dowling</surname>
+                           <given-names>Elizabeth</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>If it were not for<italic>Dei Verbum (DV</italic>), I would not be here now writing this article. On the one hand, that is patently obvious as I would not be writing for a volume marking the fiftieth anniversary of<italic>DV</italic>if the document did not exist. The reason for my comment, however, relates to an aspect of the legacy of<italic>DV</italic>. Prior to Vatican II, within the Catholic tradition, study of the Bible was principally undertaken in seminaries. Except for priests and seminarians, Catholics had little, if any, opportunity for formal biblical study.<italic>DV</italic>encouraged and authorised changes which led</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.14</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Translating Biblical Texts Within an Ecclesial Context</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Launderville</surname>
+                           <given-names>Dale</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>Standardisation is necessary for coordinated group activity. There must be some fixed point or process that keeps the diverse members of the group acting in concert. With regard to the sacred text of the Bible, the translator is called to be faithful to the text. Yet as the Word of God, the message is communicated by God’s speaking it and the members of the community hearing it. The letters on the page participate in this communicative act and facilitate it as a fixed point within the process of communication. The translation of God’s Word via human words is more than</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.15</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Dei Verbum, Communication and Media</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Malone</surname>
+                           <given-names>Peter</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Dei Verbum (DV</italic>), with its focus on the word, is a document about communication. While the title speaks of God’s communication and implies our listening, it leads to understanding the human response to God’s word as well as the realisation that it is a human mission to communicate that word. The first communication is speaking the word, speaking it out. Then comes the writing down of the word for people to ‘hear’ it by reading. But, we are in a different era in the twenty-first century with so many ways of communicating God’s word, so many ways of ‘hearing’ it.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.16</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Dei Verbum and the Philosophy of Hans-Georg Gadamer</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Owens</surname>
+                           <given-names>John F</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>The relation between<italic>Dei Verbum (DV</italic>) and the philosophy of Hans-Georg Gadamer can be discerned in a contrast that is drawn in a key paragraph in which<italic>DV</italic>addresses the question of interpretation. The paragraph begins by endorsing use of the historical-critical method, recommending attention to what the authors of the sacred texts originally meant, the literary forms they used, customary patterns of expression which prevailed at the time of composition, and so on. But the Council fathers add a qualifying paragraph, insisting that the scholarly enterprise should keep in mind ‘the content and unity of the whole of Scripture’,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.17</book-part-id>
+                  <title-group>
+                     <label>13</label>
+                     <title>Where do we Go From Here?</title>
+                     <subtitle>The Future of Catholic Biblical Studies in the Wake of Vatican II</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Senior</surname>
+                           <given-names>Donald</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>193</fpage>
+                  <abstract>
+                     <p>The fiftieth anniversary of the Second Vatican Council has offered the opportunity to remember and re-appropriate the new life that the Council brought to the Church. Perhaps nowhere has that been more evident than in the biblical renewal the Catholic Church has experienced over the past fifty years, a renewal whose roots go back over most of the twentieth century. The editors have asked me to reflect on the future of the Catholic biblical studies in the wake of the Council. Although writing primarily from a Catholic perspective, I hope that my reflections might be of some worth for all</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.18</book-part-id>
+                  <title-group>
+                     <label>14</label>
+                     <title>History as Bulwark, Bridge and Bulldozer:</title>
+                     <subtitle>Dei Verbum and Ecumenical, Biblical Endeavour</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Cadwallader</surname>
+                           <given-names>Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>207</fpage>
+                  <abstract>
+                     <p>In 1664, the Reverend Dr John Luke, who would later (in 1685) be appointed to the Chair in Arabic at Cambridge University, rose to deliver a sermon before the board of the English Levant Company.¹ This was the ultimate test of prospective candidates for chaplaincy at one of the company’s commercial centres at Constantinople, Smyrna and Aleppo. In spite of its length, he managed to secure the position. Luke’s sermon stands out from the usual offerings into the competition for a chaplaincy in the eastern Mediterranean. The familiar fare relied on a healthy dose of morality combined with justifications of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.19</book-part-id>
+                  <title-group>
+                     <title>List of Contributors</title>
+                  </title-group>
+                  <fpage>225</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.20</book-part-id>
+                  <title-group>
+                     <title>Biblical Index</title>
+                  </title-group>
+                  <fpage>231</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.21</book-part-id>
+                  <title-group>
+                     <title>Citations from Dei Verbum</title>
+                  </title-group>
+                  <fpage>234</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt163t8zw.22</book-part-id>
+                  <title-group>
+                     <title>Index of Names and Subjects</title>
+                  </title-group>
+                  <fpage>235</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

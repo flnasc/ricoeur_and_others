@@ -1,0 +1,446 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt7p8bq</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt5vj7vz</book-id>
+      <subj-group subj-group-type="discipline">
+         <subject>Language &amp; Literature</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>War and Literature</book-title>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Ashe</surname>
+               <given-names>Laura</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Patterson</surname>
+               <given-names>Ian</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>16</day>
+         <month>10</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9781843843818</isbn>
+      <isbn content-type="epub">9781782043140</isbn>
+      <publisher>
+         <publisher-name>Boydell &amp; Brewer</publisher-name>
+         <publisher-loc>Woodbridge, Suffolk, UK; Rochester, NY, USA</publisher-loc>
+      </publisher>
+      <edition>NED - New edition</edition>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>The English Association</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/10.7722/j.ctt5vj7vz"/>
+      <abstract abstract-type="short">
+         <p>War was the first subject of literature; at times, war has been its only subject. In this volume, the contributors reflect on the uneasy yet symbiotic relations of war and writing, from medieval to modern literature. War writing emerges in multiple forms, celebratory and critical, awed and disgusted; the rhetoric of inexpressibility fights its own battle with the urgent necessity of representation, record and recognition. This is shown to be true even to the present day: whether mimetic or metaphorical, literature that concerns itself overtly or covertly with the real pressures of war continues to speak to issues of pressing significance. Particular topics addressed include writings of and about the Crusades and battles during the Hundred Years War; Shakespeare's "Casus Belly"; Auden's "Journal of an Airman"; and War and Peace. Contributors: Joanna Bellis, Catherine A.M. Clarke, Mary A. Favret, Rachel Galvin, James Purdon, Mark Rawlinson, Susanna A. Throop, Katie J. Walter, Carol Watts, Tom F. Wright, Andrew Zurcher,</p>
+      </abstract>
+      <counts>
+         <page-count count="208"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.3</book-part-id>
+                  <title-group>
+                     <title>List of Illustrations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.4</book-part-id>
+                  <title-group>
+                     <title>Notes on Contributors</title>
+                  </title-group>
+                  <fpage>viii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.5</book-part-id>
+                  <title-group>
+                     <title>Preface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ASHE</surname>
+                           <given-names>LAURA</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PATTERSON</surname>
+                           <given-names>IAN</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>xi</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.6</book-part-id>
+                  <title-group>
+                     <title>Acts of Vengeance, Acts of Love:</title>
+                     <subtitle>Crusading Violence in the Twelfth Century</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>THROOP</surname>
+                           <given-names>SUSANNA A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>In october 1099, following the conquest of Jerusalem, First Crusade forces led by Duke Godfrey of Bouillon laid siege to the city of Arsuf, about fifteen miles north of modern Tel Aviv. According to the early-twelfth-century chronicler Albert of Aachen, the city’s defenders attempted to distract Godfrey by crucifying one of Godfrey’s men, Gerard of Avesnes. They placed him on the city walls within sight of the siege forces. Dying yet still able to talk, Gerard begged Godfrey to avenge his suffering and death. Godfrey told Gerard that, unfortunately, he could not avenge him; diverting men to do so would</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.7</book-part-id>
+                  <title-group>
+                     <title>Peril, Flight and the Sad Man:</title>
+                     <subtitle>Medieval Theories of the Body in Battle</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WALTER</surname>
+                           <given-names>KATIE L.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>In its most basic terms, war depends upon getting men to risk their bodies, to override the instinct to flee danger so as to preserve life, and instead to stand and fight, and if necessary, to fight to the death. The means by which this is achieved can be understood variously as the effects of the noble virtue of courage at one end of the spectrum, and the despicable hardening of men into beasts at the other. The Middle Ages has not shaken off its reputation as a violent, conflict-ridden age (a view not without some justification), nor has it</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.8</book-part-id>
+                  <title-group>
+                     <title>‘Is this War?’:</title>
+                     <subtitle>British Fictions of Emergency in the Hot Cold War</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>PURDON</surname>
+                           <given-names>JAMES</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>41</fpage>
+                  <abstract>
+                     <p>Most writing about British Cold War culture has concentrated on nuclearism, pacifism, decolonisation, socialism, postmodernism, Americanisation – in short, on everything but war. One effect of the attention paid to these various narratives has been to obscure the fact that citizens of the USSR and those of Western capitalist democracies alike understood and feared the Cold War<italic>as war</italic>, even if later accounts have tended to lose sight of what Holger Nehring has called the ‘war-like character’ of their experiences.² If the Cold War is to have any explanatory force as a context for literary works beyond serving as a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.9</book-part-id>
+                  <title-group>
+                     <title>Crossing the Rubicon:</title>
+                     <subtitle>History, Authority and Civil War in Twelfth-Century England</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>CLARKE</surname>
+                           <given-names>CATHERINE A. M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>61</fpage>
+                  <abstract>
+                     <p>Civil conflict demolishes notions of identity and community in particularly violent and destructive ways. The project of writing civil war challenges the traditions and conventions of historiography and exceeds normal representational modes and idioms. England’s twelfth-century civil war, during the reign of King Stephen (1135–54), is presented by contemporary texts as a calamity beyond the reach of conventional chronicle writing or received rhetoric. The Peterborough recension of the Anglo-Saxon Chronicle exclaims that:</p>
+                     <p>I ne can ne I ne mai tellen alle þe wunder ne alle þe pines ðat hi diden wrecce men on þis land; ⁊ ðat lastede þa</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.10</book-part-id>
+                  <title-group>
+                     <title>‘The Reader myghte lamente’:</title>
+                     <subtitle>The sieges of Calais (1346) and Rouen (1418) in chronicle, poem and play</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>BELLIS</surname>
+                           <given-names>JOANNA</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>84</fpage>
+                  <abstract>
+                     <p>The fields were not sown or ploughed. There were no cattle or fowl in the fields. No cock crowed in the depth of night to tell the hours. No hen called to her chicks. It was of no use for the kite to lie in wait for chickens in March of this year nor for children to hunt for eggs in secret hiding places. No lambs or calves bleated after their mothers in this region. The wolf might seek its prey elsewhere and here fill his capacious gullet with green grass instead of rams. Larks soared safely through the air</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.11</book-part-id>
+                  <title-group>
+                     <title>Shakespeare’s Casus Belly;</title>
+                     <subtitle>or, Cormorant War, and the Wasting of Men on Shakespeare’s Stage; or, Eating Wars and Digesting Plays; or, The Art of Chucking Men Into Pits; or, Shakespeare, Tacitism, and Why Plato Don’t Matter</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>ZURCHER</surname>
+                           <given-names>ANDREW</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>107</fpage>
+                  <abstract>
+                     <p>In april 1581, Arthur Lord Grey of Wilton, then Lord Deputy of Ireland, wrote to Sir Francis Walsingham to report on the state of his administration in Dublin. Grey’s main concern in the spring of 1581 was the restive Irish lords and septs around the Pale, and especially the dangerous Feagh McHugh O’Byrne, lord of Ballinecor in the Wicklow mountains. Grey reported to Walsingham that two of his captains in the Irish service, Sir William Stanley and Captain William Russell, had recently raided Feagh McHugh’s stronghold, and burned it, ‘kyll[ing] certayne of hys kerne &amp; churles, withowte the loss or hurtt</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.12</book-part-id>
+                  <title-group>
+                     <title>Unnavigable Kinship in a Time of Conflict:</title>
+                     <subtitle>Loyalist Calligraphies, Sovereign Power and the ‘Muckle Honor’ of Elizabeth Murray Inman</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WATTS</surname>
+                           <given-names>CAROL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>139</fpage>
+                  <abstract>
+                     <p>Exploring the records of loyalist refugees during the American revolutionary war, I have wanted to understand their diverse forms of attachment to sovereign power, its insistence in lives often torn apart by conflict. It was a revolution experienced by many as a civil war, in which colonial Americans and their British kin discovered themselves internally divided, a felt set of betrayals and desires separating one from another, ‘Bone of our Bone’ in John Adams’ words.³ This was a war, as Dror Wahrman puts it, ‘irreducible to any reliable map of “us” and “them” based on a stable criterion of difference’,⁴</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.13</book-part-id>
+                  <title-group>
+                     <title>Proclaiming the War News:</title>
+                     <subtitle>Richard Caton Woodville and Herman Melville</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>WRIGHT</surname>
+                           <given-names>TOM F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>163</fpage>
+                  <abstract>
+                     <p>How does the role of public speech evolve in an age of technological transformation? Two literary and visual artefacts from the wars of nineteenth-century America pose this question, and offer insights into a chapter of media history that is still poorly understood. In the first, Richard Caton Woodville’s<italic>War News From Mexico</italic>(1848), the ambivalent place of wartime voice takes centre stage. This most iconic of genre paintings records a foundational scene of US imperialism, and captures the public drama of national expansion. Its broader subject, however, is the social life of information. Woodville’s image depicts news of Mexican surrender</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.14</book-part-id>
+                  <title-group>
+                     <title>A Feeling for Numbers:</title>
+                     <subtitle>Representing the Scale of the War Dead</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>FAVRET</surname>
+                           <given-names>MARY A.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>185</fpage>
+                  <abstract>
+                     <p>Josef stalin’s claim that ‘one death is a tragedy, a million deaths … a statistic’ we might take as an aesthetic and moral gloss on another well-known comment, this one attributed to Napoleon Bonaparte: ‘A man like me does not give a shit about the lives of a million men.’² Stalin’s statement makes two assumptions that this essay will question. It assumes that moral feeling – the sort formalised in tragedy – operates on the level of the individual, the one, and is not susceptible to multiplication (or, for that matter, division). It assumes additionally that statistics, the signs for</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.15</book-part-id>
+                  <title-group>
+                     <title>The Guilt of the Noncombatant and W. H. Auden’s ‘Journal of an Airman’</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>GALVIN</surname>
+                           <given-names>RACHEL</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>205</fpage>
+                  <abstract>
+                     <p>W. H. Auden wrote that the Great War was ‘the decisive experience’ of Wilfred Owen’s life.¹ In the absence of such experience, Auden and his generation struggled to find grounds from which to write during the 1930s. In the present essay, I show that Auden’s ‘Journal of an Airman’, which is Book II of<italic>The Orators</italic>(1932), reflects the legacy of the Great War for interwar English writers and ‘the guilt that every noncombatant feels’,² as he calls it. This guilt is a manifestation of a larger cultural turn that military historians have traced back to the Enlightenment, in which</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.16</book-part-id>
+                  <title-group>
+                     <title>Does Tolstoy’s War and Peace Make Modern War Literature Redundant?</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>RAWLINSON</surname>
+                           <given-names>MARK</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>228</fpage>
+                  <abstract>
+                     <p>The concept of redundancy employed in this essay is the one used in mathematics and linguistics to designate symbols that do not add information to a sequence. One of the hazards of teaching twentieth-century war literature is the tacit inference of redundancy by readers, namely that the representational conventions as well as the facts and values represented are ‘predictable from … context’.<sup>90</sup>The claim that twentieth-century war writing is made superfluous by<italic>War and Peace</italic>(1869) is polemical, but it is also intended to do serious work: to draw attention to representations of war which are not predictable from context,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>249</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt5vj7vz.18</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>255</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

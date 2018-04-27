@@ -1,0 +1,657 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="fre">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">books</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt1mf6z2q</book-id>
+      <subj-group>
+         <subject content-type="call-number">H62.C43 2017</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Recherche</subject>
+         <subj-group>
+            <subject content-type="lcsh">Méthodologie</subject>
+            <subj-group>
+               <subject content-type="lcsh">Manuels dʹenseignement supérieur</subject>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Éducation</subject>
+         <subj-group>
+            <subject content-type="lcsh">Recherche</subject>
+            <subj-group>
+               <subject content-type="lcsh">Méthodologie</subject>
+               <subj-group>
+                  <subject content-type="lcsh">Manuels dʹenseignement supérieur</subject>
+               </subj-group>
+            </subj-group>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Education</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Le chercheur face aux défis méthodologiques de la recherche</book-title>
+         <subtitle>Freins et leviers</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Sous la direction de</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>BEAUPRÉ</surname>
+               <given-names>PAULINE</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>LAROUI</surname>
+               <given-names>RAKIA</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib3">
+            <name name-style="western">
+               <surname>HÉBERT</surname>
+               <given-names>MARIE-HÉLÈNE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <contrib-group>
+         <contrib contrib-type="foreword-author" id="contrib4">
+            <role>Préface de</role>
+            <name name-style="western">
+               <surname>VAN DER MAREN</surname>
+               <given-names>JEAN-MARIE</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>25</day>
+         <month>01</month>
+         <year>2017</year>
+      </pub-date>
+      <isbn content-type="ppub">9782760543911</isbn>
+      <isbn content-type="epub">9782760543928</isbn>
+      <publisher>
+         <publisher-name>Presses de l'Université du Québec</publisher-name>
+      </publisher>
+      <edition>1</edition>
+      <permissions>
+         <copyright-year>2017</copyright-year>
+         <copyright-holder>Presses de lʹUniversité du Québec</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt1mf6z2q"/>
+      <abstract abstract-type="short">
+         <p>Les chercheurs, qu’ils soient séniors ou à leurs premières armes en recherche, font face à de nombreux défis. De nature réflexive, le pré­sent ouvrage veut les outiller en explorant des freins et des leviers rencontrés par des chercheurs de formations et disciplines diverses, en sciences humaines et sociales. Compte tenu de la variété d’angles présentés pour aborder certains défis et de la diversité des expériences vécues par les auteurs, il offre un éclairage original sur des défis à prendre en considération durant la réalisation d’une recherche. Cet ouvrage constitue une importante source d’information et de réflexion sur le vaste domaine du processus rigoureux de la re­cherche. Il s’adresse autant aux étudiants et au corps professoral qu’à toutes les personnes préoccupées par la question des choix méthodologiques.</p>
+      </abstract>
+      <counts>
+         <page-count count="240"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>fre</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>I</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.2</book-part-id>
+                  <title-group>
+                     <title>Préface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Van der Maren</surname>
+                           <given-names>Jean-Marie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>VII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.3</book-part-id>
+                  <title-group>
+                     <title>Remerciements</title>
+                  </title-group>
+                  <fpage>XIII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.4</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>XV</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.5</book-part-id>
+                  <title-group>
+                     <title>Liste des acronymes et des sigles</title>
+                  </title-group>
+                  <fpage>XXIII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.6</book-part-id>
+                  <title-group>
+                     <title>Liste des figures et des tableaux</title>
+                  </title-group>
+                  <fpage>XXVII</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.7</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Laroui</surname>
+                           <given-names>Rakia</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>Dans toutes les sphères d’activité de la société, la recherche s’est imposée avec le temps. Les questions liées aux enjeux méthodologiques constituent des préoccupations d’actualité qui se révèlent d’une importance capitale. Le projet du présent ouvrage collectif, intitulé<italic>Le chercheur face aux défis méthodologiques de la recherche : freins et leviers</italic>, est une initiative du Groupe de recherche sur l’apprentissage et la socialisation (APPSO) de l’Université du Québec à Rimouski (UQAR), campus de Lévis et de Rimouski.</p>
+                     <p>Depuis sa création en 2009, l’APPSO se consacre à l’étude des mécanismes d’apprentissage et des conditions qui favorisent celui-ci. Il privilégie également l’étude</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.8</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 1</label>
+                     <title>La distance, la proximité et le défi de l’objectivité du chercheur</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lévesque</surname>
+                           <given-names>Jean-Yves</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>9</fpage>
+                  <abstract>
+                     <p>Tout chercheur est appelé à relever constamment le défi de l’objectivité de sa démarche. Dans le champ qui nous occupe, soit celui des sciences de l’éducation, ce défi donne matière à réflexion : quels en sont les fondements ? Comment le chercheur doit-il l’aborder ? Quelles sont les stratégies possibles pour le surmonter ? L’objectivité peut-elle prendre différentes formes ?</p>
+                     <p>Le concept d’« objectivité » a trait au caractère de ce qui constitue un objet de pensée valable pour tous. Dans l’usage courant, il est employé pour signifier la qualité de ce qui est conforme à la réalité, l’absence de</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.9</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 2</label>
+                     <title>La participation d’enseignants à la recherche en éducation</title>
+                     <subtitle>Représentation de la recherche, perfectionnement professionnel et dynamique de classe</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Richard</surname>
+                           <given-names>Vincent</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bélanger</surname>
+                           <given-names>Michel</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>21</fpage>
+                  <abstract>
+                     <p>Pour le chercheur universitaire en éducation, l’un des moments critiques de la réalisation d’un projet de recherche est assurément la collecte des données; le recrutement peut, notamment, représenter un réel défi. Or, s’il est manifeste que la participation à la recherche en éducation est déterminée de manière importante par l’attitude qu’ont les enseignants envers celle-ci, les facteurs influant sur cette volonté de participer ou non font toujours l’objet de recherches (p. ex. voir Cousins et Walker, 2000).</p>
+                     <p>Dans ce chapitre, nous aborderons schématiquement trois de ces facteurs : les représentations que se font les enseignants (perceptions) au sujet de la</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.10</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 3</label>
+                     <title>La recherche-action en administration scolaire</title>
+                     <subtitle>Proposition d’une démarche qui encadre la dynamique de recherche et qui favorise la communication entre les partenaires</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bernatchez</surname>
+                           <given-names>Jean</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>31</fpage>
+                  <abstract>
+                     <p>Agir pour changer le monde! Cette idée motive plusieurs personnes dans leurs univers professionnels respectifs, entre autres dans celui de l’éducation. La recherche-action traduit ce principe et le rend opératoire. Dans cette perspective, le chercheur oeuvre en partenariat avec les gens du milieu afin d’orienter l’action vers un changement visant à combler un écart entre une situation vécue et une situation souhaitée. Le modèle de l’université de service public (Whitehead, 1929) inspire les professeurs-chercheurs. Il traduit la volonté d’instrumentaliser le savoir afin de comprendre le monde, certes, mais surtout de le transformer. La recherche y est contextualisée (Gibbons<italic>et al.</italic>,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.11</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 4</label>
+                     <title>Les leviers et les freins méthodologiques relatifs à une recherche-action-formation en ce qui concerne la supervision pédagogique menée en communauté de pratique professionnelle</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bouchamma</surname>
+                           <given-names>Yamina</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>April</surname>
+                           <given-names>Daniel</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Giguère</surname>
+                           <given-names>Marc</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>45</fpage>
+                  <abstract>
+                     <p>Ce chapitre décrit et analyse les freins et les leviers relatifs au parcours d’une recherche-action-formation (R-A-F) qui, durant la première année d’un projet de trois ans encore en cours, a consisté à accompagner les directions d’établissements scolaires afin de les former, par l’intermédiaire d’une communauté de praticiens professionnels, à la supervision pédagogique. Dans le cas de notre recherche, nous sommes partis du principe selon lequel la R-A-F permet de répondre aux besoins de la recherche, notamment en proposant une solution au problème des formations limitées offertes aux directions d’établissement, lequel mine leur pouvoir-agir (Bernatchez, 2011). Dans la première section, nous</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.12</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 5</label>
+                     <title>La recherche participative en sociologie de l’éducation en France</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nafti-Malherbe</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Ce chapitre présente, à partir d’une recherche participative, une réflexion portant sur les écueils et les enjeux épistémiques ainsi que méthodologiques que nous avons rencontrés tout au long de la recherche. L’illustration de la méthodologie de la recherche participative permet d’exposer les difficultés rencontrées ainsi que les compromis qui ont permis d’avancer dans le processus de recherche.</p>
+                     <p>Il n’est pas aisé de donner une définition de la recherche participative, car les chercheurs français ou nord-américains éprouvent de nombreuses difficultés à s’accorder sur une définition commune. En France, la recherche participative reste peu valorisée. Elle demeure un atout dans des milieux</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.13</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 6</label>
+                     <title>La recherche participative</title>
+                     <subtitle>Quelques pistes de solution en réponse à des défis liés à l’inclusion scolaire d’élèves ayant des besoins particuliers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaupré</surname>
+                           <given-names>Pauline</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Letscher</surname>
+                           <given-names>Sylvain</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Point</surname>
+                           <given-names>Mathieu</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Milot</surname>
+                           <given-names>Élise</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>69</fpage>
+                  <abstract>
+                     <p>Ce chapitre met l’accent sur des défis méthodologiques de la recherche participative et sur la proposition de solutions permettant de surmonter ceux-ci. Ce type de recherche suscite des apports potentiels pertinents qu’il importe de souligner. La recherche participative constitue une recherche sociale au cours de laquelle les personnes étudiées s’impliquent entièrement dans le protocole de recherche et dans l’analyse. Le présent texte s’intéresse à ce type de recherche dans le contexte de l’inclusion scolaire.</p>
+                     <p>La Convention des droits des personnes handicapées, ratifiée notamment par la France (Organisation des Nations Unies [ONU], 2006) et le Québec en 2010 (Ministère de l’Éducation,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.14</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 7</label>
+                     <title>La recherche partenariale</title>
+                     <subtitle>Apports et embûches</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gagnon</surname>
+                           <given-names>Mélanie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Beaudry</surname>
+                           <given-names>Catherine</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>83</fpage>
+                  <abstract>
+                     <p>La recherche partenariale (RP) a connu un essor dans les universités québécoises au cours des dernières décades, notamment en raison du développement des partenariats de recherche entre l’université et les communautés (Clément et<italic>al.</italic>, 1995 ; Suarez-Balcazar<italic>et al.</italic>, 2004). Elle s’impose de plus en plus, sans pour autant avoir fait l’objet d’analyses théoriques considérables (Dumais, 2011 ; Gillet et Tremblay, 2011). Par le recours à la démarche méthodologique du récit autobiographique, le présent chapitre a pour objectif d’aborder ce type de recherche afin d’illustrer ses apports et les embûches qu’il comporte, en jetant un regard transversal sur diverses expériences</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.15</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 8</label>
+                     <title>Les défis d’une recherche commanditée sur le thème de la persévérance scolaire</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hébert</surname>
+                           <given-names>Marie-Hélène</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Loyé</surname>
+                           <given-names>Alexis Salvador</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Frenette</surname>
+                           <given-names>Éric</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gendron</surname>
+                           <given-names>Martin</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib5" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Mélançon</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib6" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Simard</surname>
+                           <given-names>Dominic</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>Partant d’une recherche commanditée sur le thème de la persévérance scolaire, ce chapitre souhaite faire prendre conscience au lecteur des défis qui le guettent dès le début d’une étude. En les connaissant, il pourra les éviter le mieux possible, voire les relever, pour faciliter la bonne marche du processus empirique. Afin d’offrir au lecteur le panorama le plus complet possible, une démarche en quatre temps est proposée. Dans un premier temps, à partir de deux ouvrages et d’un travail de recherche, les défis typiques relatifs à une étude seront mis en évidence. Suivra la description même de la recherche (Gendron</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.16</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 9</label>
+                     <title>L’élaboration de la question de recherche</title>
+                     <subtitle>Une première étape pour guider la démarche méthodologique</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Tétreault</surname>
+                           <given-names>Sylvie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>109</fpage>
+                  <abstract>
+                     <p>En éducation, il importe de poser des questions qui fourniront des informations et des connaissances afin de faire avancer autant la pratique que la formation des enseignants (Tenenberg, 2014). C’est ainsi que l’élaboration de la question de recherche demeure une étape cruciale pour amorcer une étude, pour cerner ses objectifs et pour guider la sélection des informations scientifiques. Ce chapitre abordera les éléments à considérer lors de l’élaboration de la question de recherche. Il présentera les composants d’une question et suggérera différents moyens de la construire.</p>
+                     <p>Selon DePoy et Gitlin (2011), la question doit être très précise, car elle vise</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.17</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 10</label>
+                     <title>La recherche-développement, une méthode centrée sur l’élaboration d’un produit</title>
+                     <subtitle>L’exemple de PIALEF</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Gascon</surname>
+                           <given-names>Hubert</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Germain</surname>
+                           <given-names>Marie-Paule</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Ce chapitre veut présenter l’apport d’un devis de recherche relativement nouveau en sciences de l’éducation, celui de la recherche-développement. Afin d’illustrer une telle recherche, nous présenterons le développement d’un programme, accessible en ligne (Internet), élaboré en vue d’accompagner et de soutenir les parents de jeunes enfants ayant des incapacités (Gascon<italic>et al.</italic>, 2014). La démarche sera décrite, et certains constats seront énoncés.</p>
+                     <p>Nonobstant le fait que certains chercheurs (surtout Borg et Gall, 1989, aux États-Unis) aient contribué à son développement à la fin des années 1960, la recherche-développement est surtout associée aux sciences et à la technologie. Quelques travaux en</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.18</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 11</label>
+                     <title>La recherche qualitative incorporant un point de vue philosophique</title>
+                     <subtitle>Avantages et pistes possibles de définition</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Michaud</surname>
+                           <given-names>Olivier</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>135</fpage>
+                  <abstract>
+                     <p>Différentes démarches en méthodologie qualitative se sont développées au cours des dernières décennies : la méthodologie mixte, qui combine des méthodes qualitatives et des méthodes quantitatives, ainsi que la recherche-action en sont quelques exemples. Or, la philosophie, en tant que discipline particulière pour comprendre la réalité, n’a pas été utilisée pour compléter les méthodologies qualitatives plus traditionnelles (Denzin et Lincoln, 2005; Merriam et Tisdell, 2015). Cette absence de théorisation sur ce qu’est une méthodologie qualitative incorporant une perspective philosophique constitue un problème méthodologique et un frein pour les chercheurs qui s’intéresseraient à l’utilisation de cette dernière. Le but du présent</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.19</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 12</label>
+                     <title>La collecte de données auprès de participants ayant des incapacités intellectuelles</title>
+                     <subtitle>Défis et facteurs de succès</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Julien-Gauthier</surname>
+                           <given-names>Francine</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jourdan-Ionescu</surname>
+                           <given-names>Colette</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Martin-Roy</surname>
+                           <given-names>Sarah</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib4" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Ruel</surname>
+                           <given-names>Julie</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>149</fpage>
+                  <abstract>
+                     <p>La reconnaissance et la place accordées aux personnes ayant des incapacités intellectuelles (PII) dans la société justifient l’augmentation de leur participation à des activités de recherche. Leur point de vue est reconnu, notamment au sujet de leurs conditions de vie ou des questions qui les préoccupent. Les PII sont considérées comme des sources principales d’information, et le chercheur apprend de ces participants (Knox, Mok et Parmenter, 2000).</p>
+                     <p>Les participants ayant des incapacités intellectuelles présentent certaines caractéristiques associées à leur état. Afin d’en tenir compte, il faut adapter les processus de collecte des données habituellement utilisés en recherche dans le but</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.20</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 13</label>
+                     <title>L’entretien semi-dirigé et ses principaux défis</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Laroui</surname>
+                           <given-names>Rakia</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>de la Garde</surname>
+                           <given-names>Roger</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>161</fpage>
+                  <abstract>
+                     <p>
+                        <italic>Entrevue, entretien, interview</italic>… que de termes polysémiques pour faire référence à des interactions verbales dans des contextes bien particuliers (embauche, thérapie, recherche, journalisme). C’est à l’entretien individuel semi-dirigé en tant qu’outil de collecte des données dans une perspective de recherche que le présent chapitre est consacré. Nous allons, dans un premier temps, situer cet outil méthodologique de recherche dans un cadre plus général. Dans un deuxième temps, nous présenterons les acquis relatifs à cet outil. Une troisième section sera réservée aux défis que rencontre le chercheur utilisant cet outil méthodologique : soit les défis liés à la collecte des données</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.21</book-part-id>
+                  <title-group>
+                     <label>CHAPITRE 14</label>
+                     <title>Les devis de recherche mixtes</title>
+                     <subtitle>Un moyen de répondre à des problèmes complexes en éducation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rajotte</surname>
+                           <given-names>Thomas</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lira-Gonzales</surname>
+                           <given-names>Maria-Lourdes</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib3" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Grégoire</surname>
+                           <given-names>Pascal</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>175</fpage>
+                  <abstract>
+                     <p>Les méthodes de recherche mixtes sont de plus en plus connues et utilisées dans la recherche en sciences humaines, sociales et de la santé (Briand et Larivière, 2014). Ces méthodes s’inscrivent dans un troisième paradigme de recherche, qui allie composants qualitatifs et quantitatifs au sein d’une même étude (Creswell et Plano Clark, 2011). Les méthodes de recherche mixtes découlent de l’idée de la triangulation des résultats de recherche, par laquelle on combine différents résultats d’expérimentation afin de mieux cerner un phénomène et d’assurer la validité des conclusions (Briand et Larivière, 2014). Ce chapitre vise, d’une part, à définir trois types</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.22</book-part-id>
+                  <title-group>
+                     <title>Postface</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Guillemette</surname>
+                           <given-names>François</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>Cet ouvrage est une mine d’or d’exemples d’utilisations concrètes de différentes méthodes et de diverses façons de réaliser chacune des étapes d’un projet de recherche. Il sera très utile, surtout aux jeunes chercheurs, qu’ils aient à réaliser une recherche dans le cadre de leurs études de cycles supérieurs ou qu’ils en soient à leurs premières expériences de recherche en sciences humaines et sociales. Il sera aussi très utile aux chercheurs qui voudraient explorer des méthodes différentes de celles qu’ils ont l’habitude de choisir pour mener leurs projets de recherche.</p>
+                     <p>En recherche, la curiosité, c’est-à-dire la volonté d’explorer de nouvelles perspectives,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.23</book-part-id>
+                  <title-group>
+                     <title>Notices biographiques</title>
+                  </title-group>
+                  <fpage>195</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt1mf6z2q.24</book-part-id>
+                  <title-group>
+                     <title>Back Matter</title>
+                  </title-group>
+                  <fpage>204</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

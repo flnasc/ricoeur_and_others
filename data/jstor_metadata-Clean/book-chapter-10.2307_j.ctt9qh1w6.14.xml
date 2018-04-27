@@ -1,0 +1,574 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt30ccm4</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qh1w6</book-id>
+      <subj-group>
+         <subject content-type="call-number">BS2805.52.C66 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Bible. Epistles of John</subject>
+         <subj-group>
+            <subject content-type="lcsh">Criticism, interpretation, etc.</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>Religion</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Communities in Dispute</book-title>
+         <subtitle>Current Scholarship on the Johannine Epistles</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">Edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Culpepper</surname>
+               <given-names>R. Alan</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Anderson</surname>
+               <given-names>Paul N.</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>15</day>
+         <month>11</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9781628370171</isbn>
+      <isbn content-type="epub">9781628370164</isbn>
+      <publisher>
+         <publisher-name>SBL Press</publisher-name>
+         <publisher-loc>Atlanta</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>SBL Press</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qh1w6"/>
+      <abstract abstract-type="short">
+         <p>Presenting the best work on the Johannine Epistles from a world-class gathering of scholars</p>
+         <p>This anthology includes papers presented at the McAfee School of Theology Symposium on the Johannine Epistles (2010). Contributions on the relationship between the Gospel of John and the Letters of John, Johannine theology and ethics, the concept of the Antichrist, and the role of the elder round out the collection. This is a must-have book for libraries and New Testament scholars.</p>
+         <p>Features:</p>
+         <p>Introductory essay places the collection in contextArticles engage the work of Raymond Brown and J. Louis MartynSixteen essays from the Book of Psalms Consultation group and invitied scholars</p>
+      </abstract>
+      <counts>
+         <page-count count="347"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>v</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.3</book-part-id>
+                  <title-group>
+                     <title>Abbreviations</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.4</book-part-id>
+                  <title-group>
+                     <title>Introduction</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Culpepper</surname>
+                           <given-names>R. Alan</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Anderson</surname>
+                           <given-names>Paul N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>The Epistles of John involve only seven chapters of the New Testament, but they offer one of the most interesting windows into the life of the early church available, with extensive implications for understanding (and misunderstanding) a host of interpretive issues. First John does not identify its audience, and the author does not introduce himself. The author of 2 John and 3 John refers to himself as “the Elder” (ὁ πρεσβύτερος in Greek). Were all three texts written by the same author? If so, then why the differences in the author’s self-identification? And the audiences of 2 and 3 John</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.5</book-part-id>
+                  <title-group>
+                     <title>Setting the Stage:</title>
+                     <subtitle>The Context for the Conversation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Culpepper</surname>
+                           <given-names>R. Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>3</fpage>
+                  <abstract>
+                     <p>The title for this volume conveys an obvious double entendre:<italic>Communities in Dispute</italic>. It signals both that the essays in this volume deal with the Johannine Epistles as artifacts of ancient communities in dispute, as some think, over the gospel tradition and that they represent the disputes in current scholarship over the interpretation of these short letters.</p>
+                     <p>Short they may be, tucked away near the end of the New Testament between 2 Peter and Jude, but they provide unparalleled insights into the development of early Christianity. They are the only letters attached to any of the Gospels, canonical or apocryphal.</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.6</book-part-id>
+                  <title-group>
+                     <title>[Part 1: Introduction]</title>
+                  </title-group>
+                  <fpage>17</fpage>
+                  <abstract>
+                     <p>The relation between the Gospel and Epistles of John is fraught with perplexities. On one hand, much of the vocabulary and sentence construction between these two sets of writings are similar, while differences also abound. They certainly represent the same sector of the early Christian movement, but were they written around the same time, by the same person, to the same audience, or might there be a multiplicity of answers to each of these questions? Therefore, any attempt to ascertain the character of the Johannine situation, as well as the meaning of its writings’ content, must first begin with seeking</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.7</book-part-id>
+                  <title-group>
+                     <title>Raymond Brown’s View of the Crisis of 1 John:</title>
+                     <subtitle>In the Light of Some Peculiar Features of the Johannine Gospel</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>von Wahlde</surname>
+                           <given-names>Urban C.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>If there is one thing that can be said with some certainty about 1 John, it is that interpretation of the document is more thoroughly controverted than almost any other document in the New Testament. It is like a Rorschach test. Scholars see in it all sorts of variations! Since the appearance of Raymond Brown’s masterful commentary, a number of other major commentaries have appeared with astounding differences in their view of what is going on in 1 John.¹</p>
+                     <p>Stephen Smalley (1984, xxiii–xxxii) holds that the author addresses two groups still within the community but who have various views</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.8</book-part-id>
+                  <title-group>
+                     <title>The Community that Raymond Brown Left Behind:</title>
+                     <subtitle>Reflections on the Johannine Dialectical Situation</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Anderson</surname>
+                           <given-names>Paul N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>47</fpage>
+                  <abstract>
+                     <p>Among the paradigm-making contributions in Johannine studies over the last half century, one of the most significant is the sketching of “the community of the Beloved Disciple” by Raymond E. Brown (1979). Extending beyond Johannine studies, Brown’s (1984) work on the history of early Christianity and “the churches the apostles left behind” is also among the most practical and interesting of his forty-seven books.² Here, Brown’s analysis of the unity and diversity of early Christian approaches to leadership and community organization³ have extensive implications, not only for historical and sociological understandings of the first-century Christian movement, but also for approaches</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.9</book-part-id>
+                  <title-group>
+                     <title>The Relationship between the Gospel of John and 1 John</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Culpepper</surname>
+                           <given-names>R. Alan</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>95</fpage>
+                  <abstract>
+                     <p>In 1975 Rudolf Schnackenburg (1992, 34) observed that “the question of the relationship between [the Gospel of John] and 1 John was much discussed in the past, but today it has lost its interest.” In recent decades, the issue of the relationship between the Gospel and the Epistles has been tied to the history of the Johannine community, and the Epistles have been interpreted as a response to dissension over the interpretation of the Gospel. Judith Lieu has challenged the prevailing approach, offering an alternative reading of the Epistles as more pastoral than polemical and independent of the Gospel, drawing</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.10</book-part-id>
+                  <title-group>
+                     <title>[Part 2: Introduction]</title>
+                  </title-group>
+                  <fpage>121</fpage>
+                  <abstract>
+                     <p>Central to interpreting the Johannine Epistles is garnering an understanding of their context: Who were their audiences? What sorts of issues were they facing? Were their adversaries internal or external to the Jesus movement (or both)? How do these texts address these issues with implications for later generations? These questions revolve around the character of the church-situation as reflected in the Johannine Epistles, and their relation to issues reflected in the Johannine Gospel, of course, are extremely relevant. Then again, what if constructions of larger overall theories—for all their glory and value—actually distort one’s understanding of the Johannine</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.11</book-part-id>
+                  <title-group>
+                     <title>The Audience of the Johannine Epistles</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lieu</surname>
+                           <given-names>Judith M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>123</fpage>
+                  <abstract>
+                     <p>It is a widespread convention that the identification of the initial audience is a necessary preliminary to the proper understanding of New Testament texts and so belongs to the introductory matter, for example, of a commentary. With regard to the Johannine Epistles, two elements in such an identification have achieved an unusually high degree of consensus. The first is that the letters are addressed to “the Johannine community” (or, less commonly now, the Johannine circle), a conviction that has played an important role in resisting, at least for the Fourth Gospel, the contention that the “Gospels [were] for all Christians”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.12</book-part-id>
+                  <title-group>
+                     <title>The Missional Role of ὁ Πρεσβύτερος</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Jones</surname>
+                           <given-names>Peter Rhea</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>141</fpage>
+                  <abstract>
+                     <p>Time and space have chastened me to limit my topic considerably from the ecclesial role of ὁ πρεσβύτερος to the missional role. This latter choice pressed upon me by the texts themselves, particularly in 1 and 2 John, is itself a rather large focus upon which I can only make a modest and introductory comment. When approaching either the presumably larger topic or the rather more restricted topic, two courses of action commend themselves: first, to do an analysis of the title itself and then, more promisingly, to do an inductive analysis of the actual action implied in the two</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.13</book-part-id>
+                  <title-group>
+                     <title>[Part 3: Introduction]</title>
+                  </title-group>
+                  <fpage>155</fpage>
+                  <abstract>
+                     <p>Having addressed the literary composition and historical-situation features of the Johannine Epistles, their theological and ethical content becomes more readily accessible and understandable. In addition to an adequate understanding of their composition and context helping the reader get the content right, however, misconstruing such features may impede one’s adequate understanding of their message, so a good deal of modesty is required in any approach to the Johannine Epistles, as one must remind oneself that evidence can sometimes be seen as pointing in more than one direction.</p>
+                     <p>Nonetheless, while the theology of the Johannine Epistles bears similarities with that of the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.14</book-part-id>
+                  <title-group>
+                     <title>The Cosmic Trial Motif in John’s Letters</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Köstenberger</surname>
+                           <given-names>Andreas J.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>157</fpage>
+                  <abstract>
+                     <p>The cosmic trial motif is one of the most important yet often neglected overarching themes in the Johannine corpus. This neglect is particularly regrettable, because the cosmic trial motif provides an overarching framework for John’s entire theology and is able to serve as the integrative framework for many other Johannine motifs, such as those related to witness, the world, truth, and judgment.</p>
+                     <p>Further, the cosmic trial motif provides a perspective that is shared among the Gospel, Epistles, and book of Revelation, transcending their differences in genre. In the Gospel, it flavors John’s presentation, which is cast in the form of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.15</book-part-id>
+                  <title-group>
+                     <title>Spirit-Inspired Theology and Ecclesial Correction:</title>
+                     <subtitle>Charting One Shift in the Development of Johannine Ecclesiology and Pneumatology</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Burge</surname>
+                           <given-names>Gary M.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>179</fpage>
+                  <abstract>
+                     <p>The work of Raymond Brown in the study of the Johannine literature has been nothing short of remarkable. When he died in 1998, many of us felt a great light had passed from the church and the academy. Brown made Johannine studies fascinating, and I can tell you from one vantage anyway, his work inspired my career as well as a host of others.</p>
+                     <p>Urban von Wahlde and Paul Anderson have given us a helpful evaluation of Brown’s “Johannine Community” hypothesis. As we know, the ongoing discussion through the 1980s and 1990s weighed it carefully. Brown (1979a, 7) called this</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.16</book-part-id>
+                  <title-group>
+                     <title>The Antichrist Theme in the Johannine Epistles and Its Role in Christian Tradition</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Koester</surname>
+                           <given-names>Craig R.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>187</fpage>
+                  <abstract>
+                     <p>Some of the most provocative and influential comments made in 1 and 2 John have to do with the notion of antichrist. These texts contain the earliest known occurrences of the term “antichrist” (or ἀντίχριστος), and they bequeathed it to the generations that followed.¹ By the late second and third centuries CE, the question of antichrist had become the focus of speculation and comment in some Christian circles, and the power of the term to engage the imagination has continued down to the present. Bernard McGinn’s (2000) comprehensive study of the antichrist idea in western culture put it well in</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.17</book-part-id>
+                  <title-group>
+                     <title>On Ethics in 1 John</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>van der Watt</surname>
+                           <given-names>Jan G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>197</fpage>
+                  <abstract>
+                     <p>First John is indeed “the letter of love,” and ethical issues are generally regarded as a core focus in this letter. As a topic, ethics are mentioned in virtually all commentaries on the Epistles,¹ with an obvious emphasis upon aspects like the commandment of love, the exemplary requirement to act according to the light, and some interesting references to sin. The pessimistic view of the presence of ethics in the Gospel of John² does not apply to the Epistles of John.</p>
+                     <p>The interest in the ethics of John is evident in several articles on the ethics in the Epistles of</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.18</book-part-id>
+                  <title-group>
+                     <title>The Significance of 2:15–17 for Understanding the Ethics of 1 John</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Loader</surname>
+                           <given-names>William R. G.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>My initial reaction in returning to 1 John 2:15–17 after investigating attitudes towards sexuality in the New Testament and early Judaism was to see here a reflection of the view expressed in Mark 12:25 and, I believe, presupposed by Paul, that in the age to come there would be no place for sexual desire and sexual relations, for “the world and its desire are passing away” (ὁ κόσμος παράγεται καὶ ἡ ἐπιθυμία αὐτοῦ, 1 John 2:17).¹ This need not imply a negative stance towards sexual desire in itself as part of God’s creation. It is just that in the</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.19</book-part-id>
+                  <title-group>
+                     <title>Completed Love:</title>
+                     <subtitle>1 John 4:11–18 and the Mission of the New Testament Church</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Rensberger</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>237</fpage>
+                  <abstract>
+                     <p>This essay concerns both the translation and the understanding of the verb τελειόω in relation to love in 1 John 4. The way that τελειόω has traditionally been translated into English, I believe, has in some measure concealed a significant aspect of the point that 1 John 4 is making, and I hope to take a step toward bringing that aspect into the open.</p>
+                     <p>Let me begin by briefly indicating my understanding of the structure of 1 John 4:11–18, which will to some extent guide the discussion (for more details, see my commentary: Rensberger 1997, 116, 118–22.) The</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.20</book-part-id>
+                  <title-group>
+                     <title>Moving the Conversation Forward:</title>
+                     <subtitle>Open Questions and New Directions</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Anderson</surname>
+                           <given-names>Paul N.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>275</fpage>
+                  <abstract>
+                     <p>Given that R. Alan Culpepper has fittingly summarized the essays in the introduction to the present collection, such an overview will not be necessary in this concluding essay. Rather, my charge is to comment on how the above essays move critical conversations forward as well as noting new directions and open questions regarding state-of-the-art understandings of the Johannine Epistles. As such, this essay will progress through the developments achieved in the three parts of this collection, but then return in reverse order, from the third part to the first, considering the open questions and new directions that emerge.</p>
+                     <p>Urban von</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.21</book-part-id>
+                  <title-group>
+                     <title>Works Cited</title>
+                  </title-group>
+                  <fpage>289</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.22</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>313</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.23</book-part-id>
+                  <title-group>
+                     <title>Ancient Sources Index</title>
+                  </title-group>
+                  <fpage>315</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+      <book-part indexed="true" xlink:type="simple">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qh1w6.24</book-part-id>
+                  <title-group>
+                     <title>Name Index</title>
+                  </title-group>
+                  <fpage>329</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

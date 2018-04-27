@@ -1,0 +1,440 @@
+<book xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      dtd-version="0.2"
+      xml:lang="eng">
+   <collection-meta>
+      <collection-id collection-id-type="jstor">j.ctt58dm16</collection-id>
+   </collection-meta>
+   <book-meta>
+      <book-id book-id-type="jstor">j.ctt9qf5w5</book-id>
+      <subj-group>
+         <subject content-type="call-number">HM851.S864 2014</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Information technology</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Technological innovation</subject>
+         <subj-group>
+            <subject content-type="lcsh">Social aspects</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Community development</subject>
+         <subj-group>
+            <subject content-type="lcsh">Case studies</subject>
+         </subj-group>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Internet and indigenous peoples</subject>
+      </subj-group>
+      <subj-group>
+         <subject content-type="lcsh">Computers and civilization</subject>
+      </subj-group>
+      <subj-group subj-group-type="discipline">
+         <subject>General Science</subject>
+         <subject>Technology</subject>
+      </subj-group>
+      <book-title-group>
+         <book-title>Subversion, Conversion, Development</book-title>
+         <subtitle>Cross-Cultural Knowledge Exchange and the Politics of Design</subtitle>
+      </book-title-group>
+      <contrib-group>
+         <role content-type="editor">edited by</role>
+         <contrib contrib-type="editor" id="contrib1">
+            <name name-style="western">
+               <surname>Leach</surname>
+               <given-names>James</given-names>
+            </name>
+         </contrib>
+         <contrib contrib-type="editor" id="contrib2">
+            <name name-style="western">
+               <surname>Wilson</surname>
+               <given-names>Lee</given-names>
+            </name>
+         </contrib>
+      </contrib-group>
+      <pub-date>
+         <day>02</day>
+         <month>05</month>
+         <year>2014</year>
+      </pub-date>
+      <isbn content-type="ppub">9780262525831</isbn>
+      <isbn content-type="epub">9780262322492</isbn>
+      <isbn content-type="epub">0262322498</isbn>
+      <publisher>
+         <publisher-name>The MIT Press</publisher-name>
+         <publisher-loc>Cambridge, Massachusetts; London, England</publisher-loc>
+      </publisher>
+      <permissions>
+         <copyright-year>2014</copyright-year>
+         <copyright-holder>Massachusetts Institute of Technology</copyright-holder>
+      </permissions>
+      <self-uri xlink:href="http://www.jstor.org/stable/j.ctt9qf5w5"/>
+      <abstract abstract-type="short">
+         <p>This book explores alternative cultural encounters with and around information technologies. These encounters are alternative because they counter dominant, Western-oriented notions of media consumption; they include media practices as forms of cultural resistance and subversion, "DIY cultures," and other nonmainstream models of technology production. The contributors -- leading thinkers in science and technology studies, anthropology, and software design -- pay special attention to the specific inflections that different cultures and communities give to the value of knowledge. The richly detailed accounts presented here challenge the dominant view of knowledge as a neutral good -- information available for representation and encoding but separated from all social relations. The chapters examine specific cases in which the forms of knowledge and cross-cultural encounters are shaping technology use and development. They consider design, use, and reuse of technological tools, including databases, GPS devices, books, and computers, in locations that range from Australia and New Guinea to Germany and the United States.ContributorsPoline Bala, Alan Blackwell, Wade Chambers, Michael Christie, Hildegard Diemberger, Stephen Hugh-Jones, James Leach, Jerome Lewis, Dawn Nafus, Gregers Petersen, Marilyn Strathern, David Turnbull, Helen Verran, Laura Watts, Lee Wilson</p>
+      </abstract>
+      <counts>
+         <page-count count="272"/>
+      </counts>
+      <custom-meta-group>
+         <custom-meta>
+            <meta-name>
+                    lang
+                </meta-name>
+            <meta-value>eng</meta-value>
+         </custom-meta>
+      </custom-meta-group>
+   </book-meta>
+   <body>
+      <book-part book-part-type="book-toc-page-order" indexed="yes">
+         <body>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.1</book-part-id>
+                  <title-group>
+                     <title>Front Matter</title>
+                  </title-group>
+                  <fpage>i</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.2</book-part-id>
+                  <title-group>
+                     <title>Table of Contents</title>
+                  </title-group>
+                  <fpage>vii</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.3</book-part-id>
+                  <title-group>
+                     <title>Acknowledgments</title>
+                  </title-group>
+                  <fpage>ix</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.4</book-part-id>
+                  <title-group>
+                     <label>1</label>
+                     <title>Anthropology, Cross-Cultural Encounter, and the Politics of Design</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leach</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>1</fpage>
+                  <abstract>
+                     <p>This collection presents a set of empirical cases and theoretical examinations that focus on alternative cultural encounters with and around information technologies (alternative, that is, to the dominant notions of media consumption among Western audiences). Some of the examples refer to media practices as forms of cultural resistance and subversion, some to DIY cultures and alternative models of technology production and appropriation. Then there are considerations of representation and political participation, of entwined practices of knowledge production and encoding, and of information capture and preservation. The contributors are interested in possibility, and they are interested in constraint. They reveal how</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.5</book-part-id>
+                  <title-group>
+                     <label>2</label>
+                     <title>Liminal Futures:</title>
+                     <subtitle>Poem for Islands at the Edge</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Watts</surname>
+                           <given-names>Laura</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>19</fpage>
+                  <abstract>
+                     <p>The following prose poem was a response to my first month of ethnography in Orkney, an archipelago off the northeast coast of Scotland. I wanted to gather my experiences and evoke them in a way that academic prose could not do. At the time, I was living and working with people who imagine and design future technologies in the islands. My interest was, and is, in how location and landscape affect the way the future is imagined and made. How are futures made differently in different places? Why are certain landscapes and places regarded as centers of innovation, and others</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.6</book-part-id>
+                  <title-group>
+                     <label>3</label>
+                     <title>Freifunk:</title>
+                     <subtitle>When Technology and Politics Assemble into Subversion</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Petersen</surname>
+                           <given-names>Gregers</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>39</fpage>
+                  <abstract>
+                     <p>Freifunk is an assemblage of a friction–filled multiplicity of interests and effects of technology use in everyday life in the twenty–first century. It is a community that originates in Berlin, a particular form of social movement, and a specific technological approach to computer networking. The tale of Freifunk’s emergence and distillation tells of a process in which the everyday tactics of solving one’s own problems (in this case, a lack of Internet access) are integrated with a more general strategy of political subversion. Thus it is also a tale of how technical appropriation becomes a sociotechnical subversion. To</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.7</book-part-id>
+                  <title-group>
+                     <label>4</label>
+                     <title>Postcolonial Databasing?</title>
+                     <subtitle>Subverting Old Appropriations, Developing New Associations</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Verran</surname>
+                           <given-names>Helen</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Christie</surname>
+                           <given-names>Michael</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>57</fpage>
+                  <abstract>
+                     <p>Databasing is a particular contemporary way of “doing knowledge” with information and communications technologies. Here we write out of our experience with what we understand as a postcolonial databasing project (seehttp://www.cdu.edu.au/centres/ik) that aimed to devise some specific forms of databasing that might be useful for Aboriginal Australian users.At the project’s core was the understanding that in engaging with ICTs in thoughtful ways as a group, we were connecting up (and keeping separate) Aboriginal knowledge traditions and technoscientific traditions.</p>
+                     <p>Originally proposed to examine and develop digital technologies for the intergenerational transmission of traditional Aboriginal knowledge, the project, which we called</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.8</book-part-id>
+                  <title-group>
+                     <label>5</label>
+                     <title>Sacred Books in a Digital Age:</title>
+                     <subtitle>A Cross-Cultural Look from the Heart of Asia to South America</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Diemberger</surname>
+                           <given-names>Hildegard</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Hugh-Jones</surname>
+                           <given-names>Stephen</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>79</fpage>
+                  <abstract>
+                     <p>The use of digital technologies in the reproduction of texts has profoundly transformed attitudes toward books and also the production and format of books themselves. Remarkably, at a time when it is often suggested that digital books may soon supersede conventional books, there has been a lot of rethinking about what a book is, as both object and artifact (Boutcher 2012, 59). In addition it is often assumed that digital technologies will lead inexorably to a universalization and standardization that will override cultural differences and local identities. The way in which digital technologies are used in relation to books appears,</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.9</book-part-id>
+                  <title-group>
+                     <label>6</label>
+                     <title>Redeploying Technologies:</title>
+                     <subtitle>ICT for Greater Agency and Capacity for Political Engagement in the Kelabit Highlands</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Bala</surname>
+                           <given-names>Poline</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>105</fpage>
+                  <abstract>
+                     <p>This chapter turns its gaze on the Kelabit in Central Borneo to highlight their ongoing engagement with information and communications technologies through the electronic Bario (eBario) initiative. eBario was a frontier ICT-based community development project implemented in 1999 to bring not only the Internet and computers but also the telephone to physically remote communities. Initiated as a partnership between researchers from Universiti Malaysia Sarawak (UNIMAS) and the Kelabit people of Bario, the project’s main objective is to examine in what ways the new information and communications technologies (ICTs) such as the Internet, computers, printers, and VSATs can bring social and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.10</book-part-id>
+                  <title-group>
+                     <label>7</label>
+                     <title>Making the Invisible Visible:</title>
+                     <subtitle>Designing Technology for Nonliterate Hunter-Gatherers</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Lewis</surname>
+                           <given-names>Jerome</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>127</fpage>
+                  <abstract>
+                     <p>Pygmy hunter-gatherers in the Congo Basin are reputed simply to vanish when danger is imminent. They are famous for supposedly using such skills when accomplishing seemingly impossible tasks such as single-handedly spearing a fierce forest elephant or vanishing suddenly into the forest and then reappearing just as suddenly when it suits them. Their fearfulness of incoming agriculturalists and fisher groups led them to avoid such newcomers, sometimes for many years, before tentatively making contact through practices such as silent trade.¹ One consequence of this is that non-Pygmy groups in the Congo Basin frequently call Pygmy hunter-gatherers “Twa,” “Tua,” or “Cwa”</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.11</book-part-id>
+                  <title-group>
+                     <label>8</label>
+                     <title>Assembling Diverse Knowledges:</title>
+                     <subtitle>Trails and Storied Spaces in Time</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Turnbull</surname>
+                           <given-names>David</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Chambers</surname>
+                           <given-names>Wade</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>153</fpage>
+                  <abstract>
+                     <p>At least since Plato, critical thinkers have been aware of a key problem at the heart of Western civilization. Although knowledge is revered and given centrality as the keystone of all that is good and true, there is no agreement on how to define it, and knowledge comes in many guises. Michael Polanyi, for example, famously pointed out that “we know more than we can tell.” He called this kind of knowledge “tacit knowledge”—the kind of acquired, taken-for-granted skills that are essential to using computers, for example (Polanyi 1958). But precisely because tacit knowledge is acquired almost unconsciously and</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.12</book-part-id>
+                  <title-group>
+                     <label>9</label>
+                     <title>Structuring the Social:</title>
+                     <subtitle>Inside Software Design</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Blackwell</surname>
+                           <given-names>Alan F.</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>183</fpage>
+                  <abstract>
+                     <p>The goal of this chapter is to present a view from the inside, as it were. I am concerned with the inside of ICT—because where there is a technology, there must also be technologists. How, then, are the themes of this book perceived by information and communications technologists? It is important to note that the phrase “information and communications technologist” is not one that I would choose myself. Indeed, from within our profession, the phrase “ICT” is often considered pejorative and even hostile, a construction of commentators and policy makers who wish to caricature our work. At the time</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.13</book-part-id>
+                  <title-group>
+                     <label>10</label>
+                     <title>Design for X:</title>
+                     <subtitle>Prediction and the Embeddedness (or Not) of Research in Technology Production</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Nafus</surname>
+                           <given-names>Dawn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>201</fpage>
+                  <abstract>
+                     <p>Consumption has been theorized as a process of appropriation (Miller 1997) where consumers adjust, reframe, hack, or otherwise infuse their own meanings and intentions into the commodities they buy and use. Information and communications technologies (ICTs) are no exception (Horst and Miller 2006; Burrell 2011). Designers of ICTs are increasingly recognizing consumer appropriation in various ways. One way is to hire anthropologists and user experience researchers to conduct what is called user-centered design. This enables firms to better understand and anticipate the ways consumers might appropriate their products. Although fully predicting those uses is impossible, the premise of user-centered design</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.14</book-part-id>
+                  <title-group>
+                     <label>11</label>
+                     <title>Engaging Interests</title>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Strathern</surname>
+                           <given-names>Marilyn</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>223</fpage>
+                  <abstract>
+                     <p>This volume takes its own inspiration from the extent to which inspiration comes from people’s ingenuity in making new tools out of old.¹ If I am puzzled by why that should be so compelling a theme, it is a puzzle that turns out to be quite a good place to begin.</p>
+                     <p>Why should the thought of adapting techniques, making new from old, cherishing the potential for change by making allowances for it in advance—why should these aspirations indeed seem so compelling? More than just compelling, why should they touch or amaze or enchant us, in short, carry affect? There</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.15</book-part-id>
+                  <title-group>
+                     <label>12</label>
+                     <title>Subversion, Conversion, Development:</title>
+                     <subtitle>Imaginaries, Knowledge Forms, and the Uses of ICTs</subtitle>
+                  </title-group>
+                  <contrib-group>
+                     <contrib contrib-type="author" id="contrib1" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Leach</surname>
+                           <given-names>James</given-names>
+                        </name>
+                     </contrib>
+                     <contrib contrib-type="author" id="contrib2" xlink:type="simple">
+                        <name name-style="western">
+                           <surname>Wilson</surname>
+                           <given-names>Lee</given-names>
+                        </name>
+                     </contrib>
+                  </contrib-group>
+                  <fpage>231</fpage>
+                  <abstract>
+                     <p>Lievrouw and Livingstone have defined (or redefined) new media as “information and communication technologies<italic>and their social contexts</italic>” (see Lievrouw 2011, 7; our italics). In doing so, they emphasize that new media are interesting and important inasmuch as they combine three main elements: artifacts or devices, practices, and the arrangements and social forms built around practices. “Today, a lively and contentious cycle of capture, cooptation and subversion of information, content, personal interaction, and system architecture characterizes the relationship between the institutionalized, mainstream center and the increasingly interactive, participatory and expanding edges of media culture” (Lievrouw 2011, 2).</p>
+                     <p>In this, a</p>
+                  </abstract>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.16</book-part-id>
+                  <title-group>
+                     <title>Contributors</title>
+                  </title-group>
+                  <fpage>245</fpage>
+               </book-part-meta>
+            </book-part>
+            <book-part>
+               <book-part-meta>
+                  <book-part-id book-part-id-type="jstor">j.ctt9qf5w5.17</book-part-id>
+                  <title-group>
+                     <title>Index</title>
+                  </title-group>
+                  <fpage>247</fpage>
+               </book-part-meta>
+            </book-part>
+         </body>
+      </book-part>
+   </body>
+</book>

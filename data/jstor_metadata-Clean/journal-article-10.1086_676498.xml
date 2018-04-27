@@ -1,0 +1,617 @@
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="1.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">modernphilology</journal-id>
+         <journal-id journal-id-type="ucp-id">mp</journal-id>
+         <journal-title-group>
+            <journal-title>Modern Philology</journal-title>
+         </journal-title-group>
+         <publisher>
+            <publisher-name>University of Chicago Press</publisher-name>
+         </publisher>
+         <issn pub-type="ppub">00268232</issn>
+         <issn pub-type="epub">15456951</issn>
+         <custom-meta-group/>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.1086/676498</article-id>
+         <article-id pub-id-type="publisher-id">MP80571</article-id>
+         <title-group>
+            <article-title>Milton’s “Unoriginal” Voice: Quotation Marks in<italic>Paradise Lost</italic>
+            </article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" rid="af1" xlink:type="simple">
+               <string-name>
+                  <given-names>Stephen</given-names>
+                  <x xml:space="preserve"/>
+                  <surname>Hequembourg</surname>
+               </string-name>
+            </contrib>
+            <aff id="af1">University of Virginia</aff>
+         </contrib-group>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>08</month>
+            <year>2014</year>
+            <string-date>August 2014</string-date>
+         </pub-date>
+         <volume>112</volume>
+         <issue>1</issue>
+         <issue-id>673750</issue-id>
+         <fpage>154</fpage>
+         <lpage>178</lpage>
+         <permissions>
+            <copyright-statement>© 2014 by The University of Chicago. All rights reserved.</copyright-statement>
+            <copyright-year>2014</copyright-year>
+            <copyright-holder>The University of Chicago.</copyright-holder>
+         </permissions>
+         <self-uri xlink:href="http://www.jstor.org/stable/10.1086/676498"/>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>lang</meta-name>
+               <meta-value>en</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <p>A funny thing about quotation marks, as Marjorie Garber has observed, is that “they may indicate either authenticity or doubt.”<xref ref-type="fn" rid="fn1">
+            <sup>1</sup>
+         </xref>With a single typographical mark we may assert an unreflective adherence to the words in question or a deep skepticism about them. Ipse dixit and scare quotes look the same on the page. We use quotation marks to indicate that an utterance’s origin lies elsewhere, but without further information the relation of present and original speakers remains uncertain. Two books published in the last decade—Garber’s<italic>Quotation Marks</italic>(2003) and Willis Goth Regier’s<italic>Quotology</italic>(2010)—make a persuasive and highly entertaining case for thinking more deeply about the various ways in which we quote and are quoted.<xref ref-type="fn" rid="fn2">
+            <sup>2</sup>
+         </xref>In what follows I offer a reading of<italic>Paradise Lost</italic>(1667) that focuses on quotation—both on what the figures in the poem do when they quote, recall, or otherwise attribute speech and also on what Milton’s editors do when they attempt to parcel out the different voices of the poem.</p>
+      <p>To quote Emerson on quotation: “None escapes it. The originals are not original. There is imitation, model, and suggestion, to the very archangels, if we knew their history.”<xref ref-type="fn" rid="fn3">
+            <sup>3</sup>
+         </xref>Thanks to Milton, of course, we do know their history, and that history confirms Emerson’s suspicion. The very archangels do quote and imitate the speech of others—in the case of Raphael, quite extensively. Even the two original humans are not always so original, as Adam and Eve show themselves adept at recalling, respeaking, and attributing speech to others. That so much of the poem is spoken by its characters—in the form of Raphael’s miniature epic or Adam and Eve’s self-narrated creation stories—can be seen in the sheer quantity of lines we often find placed in quotes. In many editions, book 6 alone begins and ends in quotation marks. These, however, are not Milton’s marks. The two editions of<italic>Paradise Lost</italic>published in Milton’s lifetime use indentation to mark the beginning and end of long speeches but nothing to denote reported speech within those speeches. So in addition to deciding how to apply commas, semicolons, and periods to the poem, Milton’s editors over the last few hundred years have had to choose whether and where to insert quotation marks. It is up to them to decide, on the basis of Milton’s cues, not only who is speaking but also when his characters are not speaking “originally.” As on so many issues, Milton’s editors have expressed a variety of opinions. Several editions place quotes around every word not spoken by the narrative voice.<xref ref-type="fn" rid="fn4">
+            <sup>4</sup>
+         </xref>Others use no quotation marks, leaving it entirely to the reader to discern the different voices of the poem as they weave in and out of each other.<xref ref-type="fn" rid="fn5">
+            <sup>5</sup>
+         </xref>Finally, some editors have chosen to place only reported speech in quotes—so that when Eve speaks in her own voice there is no graphical mark to note when she begins and ends, but when she recites the words of God to the serpent they will be safely surrounded by quotation marks, so that we at least know when God begins and ends.<xref ref-type="fn" rid="fn6">
+            <sup>6</sup>
+         </xref>
+      </p>
+      <p>Compared to the critical literature on Milton’s punctuation and spelling, the question of quotation marks has received very little attention. Each editor chooses one of the three paths just described and makes an official statement of it to the reader, who is then allowed to set aside the trivial matter of quotes and get on to the serious business of “man’s first disobedience.” But as I will argue, the process of quotation in the poem is inseparable from its account of original sin. The ways in which the various unfallen creatures of the poem attempt to speak not just “to” but “for” each other, and the subtle techniques they invent for mimicking each other’s voices and attributing speech to absent speakers, all weave themselves inextricably into the story of the fall. This is nowhere more pronounced than in what I will call “the manufacturing of satanic speech”—the process by which so many of the poem’s unfallen speakers either recall or imagine the words of the devil. This distinction between recalling and imagining is crucial to our understanding of the poem, and yet it is precisely this distinction that Milton so often refuses to make. Eve, Raphael, and Adam all have moments of speaking for the devil, and in each case we can never know to what extent they are quoting or creating the words of the adversary. At so many points in the poem, and concerning some of its most memorable and seductive lines, Milton leaves us wondering—Whose words are these, exactly?</p>
+      <p>Donald Davidson once described the process of quotation as “an invitation to sin.”<xref ref-type="fn" rid="fn7">
+            <sup>7</sup>
+         </xref>In what follows I take Davidson’s claim as a clue to navigating Milton’s tale of the original invitation to sin. But what could the origins of evil possibly have to do with something as slight as quotation marks?</p>
+      <sec id="sc1">
+         <title>Eve and the Unoriginal Voice</title>
+         <p>I had never given much thought to the issue of quotation marks in the poem until I first designed a midterm exam for an undergraduate Milton course. A portion of the test consisted of passage identifications, where the students were asked to identify the speaker and addressee of given selections. Flipping through the pages of a quoting edition of the poem, I was drawn to the scene of Eve’s diabolically inspired dream. In most such editions, Eve begins her speech in double quotation marks just after she is woken by Adam:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Such whispering waked her, but with startled eye</verse-line>
+               <verse-line>On Adam, whom embracing, thus she spake.</verse-line>
+               <verse-line>“O sole in whom my thoughts find all repose.”<sup>
+                     <xref ref-type="fn" rid="fn8">8</xref>
+                  </sup>
+               </verse-line>
+            </verse-group>
+         </disp-quote>
+         <p>Lured by a voice within the dream, which she initially mistakes for Adam’s, she is led to the forbidden tree. Rather than paraphrasing this mysterious voice, Eve chooses to cite it directly. Most quoting editors will here resort to single quotation marks to demarcate the reported speech of the dream voice, clearly segregating it from Eve’s own words to Adam:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>                “methought</verse-line>
+               <verse-line>Close at my ear one called me forth to walk</verse-line>
+               <verse-line>With gentle voice, I thought it thine; it said,</verse-line>
+               <verse-line>‘Why sleep’st thou Eve? now is the pleasant time,</verse-line>
+               <verse-line>The cool, the silent, save where silence yields</verse-line>
+               <verse-line>To the night-warbling bird, that now awake</verse-line>
+               <verse-line>Tunes sweetest his love-labored song; now reigns</verse-line>
+               <verse-line>Full-orbed the moon, and with more pleasing light</verse-line>
+               <verse-line>Shadowy sets off the face of things; in vain,</verse-line>
+               <verse-line>If none regard; heav’n wakes with all his eyes,</verse-line>
+               <verse-line>Whom to behold but thee, nature’s desire,</verse-line>
+               <verse-line>In whose sight all things joy, with ravishment</verse-line>
+               <verse-line>Attracted by thy beauty still to gaze.’</verse-line>
+               <verse-line>I rose as at thy call, but found thee not.”<sup>
+                     <xref ref-type="fn" rid="fn9">9</xref>
+                  </sup>
+               </verse-line>
+            </verse-group>
+         </disp-quote>
+         <p/>
+         <p>The passage seemed ideal for purposes of the exam, but it then occurred to me that I actually could not say whose words these were. I had innocently assumed them to be Satan’s, as most readers do, not only because we were present when the company of angels found the archfiend “squat like a toad” at Eve’s ear but more simply because we know that no one else in the poem sounds quite like this. I realized, however, that the correct answer would have to be Eve, as she is the one currently speaking these words to Adam. To be fair then, I would give credit for both “Satan to Eve” and “Eve to Adam.” On third thought, the actual speaker of these words within the dream is the angelic creature Eve sees standing by the tree: “beside it stood / One shaped and winged like one of those from Heav’n / By us oft seen” (5.54–56). So I would presumably have to give credit for “Angel to Eve” as well. And what if one of my young readers were to recall Eve’s initial attribution of the voice and write “Adam to Eve”? Would I give partial credit? The quotation marks on the page had subtly misled me into thinking that these words, nestled inside of Eve’s own but segregated by those comforting quotes, could be attributed to someone—that an origin for them could be found. There are indeed many suspects—Satan, Eve, Adam, the mysterious angel—but no authentic utterer or unequivocal point of origin. In the interest of time, I took the passage off my list and continued turning the pages.</p>
+         <p>After this incident I could never reread the dream episode without experiencing that sense of assignatory vertigo. In the extensive critical literature on Eve’s dream, the central debate is between those who believe that these words belong to Satan alone and those who attribute them, at least in part, to Eve. For the sake of convenience, we might refer to them as “externalists” and “internalists,” according to where they place the true source of the dream voice in relation to Eve. In the early and mid-twentieth century, when the “fallen before they fell” theory of our first parents was much discussed, it was common to assign the greater responsibility to Eve. Tillyard confidently claimed that “if the dream has disturbed Eve so much, she has really passed from a state of innocence into one of sin.”<xref ref-type="fn" rid="fn10">
+               <sup>10</sup>
+            </xref>Tillyard recognizes Satan’s act of “insinuating” some of the sentiments into Eve, but he insists that the “mere fact of entrance implies some pre-existing sympathy” on the sleeper’s part and that she found this voice “far from alien.”<xref ref-type="fn" rid="fn11">
+               <sup>11</sup>
+            </xref>Millicent Bell also asserts that despite the obvious satanic influence, “already we suspect [Eve] receptive to the Tempter’s choice flattery.”<xref ref-type="fn" rid="fn12">
+               <sup>12</sup>
+            </xref>More recently Harinder Singh Marjara has argued in a similar vein that “Eve’s susceptibility to temptation must be a part of her nature, since her behavior, in order to be convincing, must give the sense of being caused, and it must be caused by Eve’s own nature rather than by an external force.”<xref ref-type="fn" rid="fn13">
+               <sup>13</sup>
+            </xref>
+         </p>
+         <p>But the vast majority of critics have tended to absolve Eve of all guilt, insisting on the radical externality of those diabolic words. John Diekhoff reminds us that “Satan is not in the poem a metaphor for man’s evil impulses. He is the source of them and a real agent in Milton’s fable. The dream is not of Eve’s devising; it springs not from her unconscious but from Satan’s conscious.”<xref ref-type="fn" rid="fn14">
+               <sup>14</sup>
+            </xref>Against those who claim that “Eve is the author of the dream,” Diana Benet insists that the dream “does not proceed from anything within herself; it takes its nature and particulars from its creator, bodying forth not Eve’s fault but Satan’s sin.”<xref ref-type="fn" rid="fn15">
+               <sup>15</sup>
+            </xref>Against the kind of reading that sees the dream voice as too familiar to be entirely external, Kristin Pruitt McColgan writes: “True, there is much in the sequence that is ‘familiar’: a tree, moonlight, Adam’s voice, angels. But the source is Satan, who supernaturally implants a vision in Eve’s mind in sleep.”<xref ref-type="fn" rid="fn16">
+               <sup>16</sup>
+            </xref>Such a reading is silently supported by the insertion of quotation marks—which visibly suggest that these words do in fact have an external origin, that there is a prior utterer whom innocent Eve is merely citing.</p>
+         <p>Between these two camps there are what we might call the “compatibilists”—critics who recognize both Satan and Eve as sources for the dream and do not feel compelled to frame the discussion in terms of an either/or. Northrop Frye saw the dream both as satanically influenced and as a kind of “wish-fulfillment” on the part of Eve—an argument echoed by Patrides: “The dream, though instigated by Satan, is yet a projection of her innermost desires and aspirations.”<xref ref-type="fn" rid="fn17">
+               <sup>17</sup>
+            </xref>More recently, N. K. Sugimura has taken up the question, and while she begins by claiming that “Satan, not Eve herself, gives rise to the distempering; spirits enter from the outside,” she quickly adds that on another reading the dream “gestures at a notion of defilement occurring less from an agent entering in from the outside than from a process of actualizing, or realizing, what is already present on the inside.”<xref ref-type="fn" rid="fn18">
+               <sup>18</sup>
+            </xref>Like the internalists these critics point to something already inside Eve that facilitates the seduction, but they generally do not see this as evidence that Eve was fallen before she fell. Compatibilists are simply more comfortable with the dream’s lack of a single point of origin and the subtle dialectic it involves. As Irene Samuel puts it, “however much [the dream] was<italic>in</italic>duced by Satan, it was<italic>pro</italic>duced by Eve’s own mind.”<xref ref-type="fn" rid="fn19">
+               <sup>19</sup>
+            </xref>
+         </p>
+         <p>What is at stake here, as many of these critics have recognized, is nothing less than the etiology of evil.<italic>Paradise Lost</italic>contains various accounts of the origin of sin, most spectacularly in the form of Sin’s spontaneous generation out of Satan’s head.<xref ref-type="fn" rid="fn20">
+               <sup>20</sup>
+            </xref>Such an image, in its insistence that evil is a sudden and inexplicable gesture, is theologically safer than the attempt to show sin developing gradually through a dialectical exchange of self and world. In a drama of the fall, however, one of these sides must be shown to move first. If the initial push to sin comes too obviously from outside, then Eden was surely no Eden, as Eve imagines. If the first move comes from inside, however, then it is difficult to sustain the idea that we were indeed created perfect within, as Raphael insists. Unable to resolve this question at the narrative level, Milton yet finds a way to avoid both extremes. In human terms, the possibility of sin enters the world neither by an external push nor by an internal inclination. It begins with a voice—a voice that suddenly becomes “speakable of mute,” although we can never know who exactly is speaking. It implicates nearly everyone, as we have seen—Eve, Satan, Adam, the angels—but without ever taking any one of them as its point of origin.</p>
+         <p>If there is a word in the lexicon of<italic>Paradise Lost</italic>to describe this voice, it is the epithet given to the allegorical figure of Night, when Satan describes himself as “plunged in the womb / Of unoriginal Night and Chaos wild” (9.476–77). In Satan’s mind, “Night” is so profoundly obscure as to be literally without assignable origin, much like the words of the dream voice. The quotation marks that often surround the dream voice, however, point to our more conventional notion of unoriginality—that Eve is simply repeating words spoken previously by another. But Miltonian “unoriginality” is more complex. In the case of the dream voice it implies partial involvement in an utterance whose true source can never be positively identified. Eve simply wakes up one morning in Paradise with these<italic>unheimlich</italic>sounds on the tip of her tongue—a voice at once inside and outside. The dream voice is Milton’s response to an insoluble narrative problem; it allows him to tell the story of original sin while still registering the profound unoriginality of sin as we experience it—our sense of what Paul Ricoeur calls the “the always-already-there of evil.”<xref ref-type="fn" rid="fn21">
+               <sup>21</sup>
+            </xref>
+         </p>
+         <p>In this sense the compatibilists are right to say that the dream voice comes both from within and from without. To assert an unequivocal point of origin in one of the poem’s speakers is something Milton simply does not allow us to do. There are two parts to the dream episode—Satan’s act of “inspiring” the sleeping Eve in book 4 and her account of the dream at the beginning of book 5. The narrative gap of only a few hundred lines between these two moments registers the profound interpretive gap facing the reader. We simply do not know how these two pieces fit together—how exactly Satan’s nocturnal performance at Eve’s ear relates to the words she speaks to Adam the following morning. The dream episode is so tantalizing because it is so elliptical. It forces readers to fill in what Milton so tenaciously leaves blank. The first and most common assumption, as I have described, is that a certain origin for the voice can be found. A second assumption, often made by externalists, is that the dream is the result of Satan speaking into the ear of Eve. The dream voice has been described as Satan’s “serenade” and “script,” his “proem” and his “prologue.”<xref ref-type="fn" rid="fn22">
+               <sup>22</sup>
+            </xref>In the dream literature, it is often taken for granted that “a voice generates Eve’s dream” and that “Satan speaks forth a stream of words” into Eve’s ear.<xref ref-type="fn" rid="fn23">
+               <sup>23</sup>
+            </xref>Such claims help to bolster the case for an external source, as in Stephen Raynie’s assertion: “Because Satan is the author of Eve’s dream, it cannot properly be called her own. She merely heard it whispered in her ear as she slept.”<xref ref-type="fn" rid="fn24">
+               <sup>24</sup>
+            </xref>
+         </p>
+         <p>But what does Satan actually do to provoke the dream? In book 4 the angelic guard discovers him</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Squat like a toad close at the ear of Eve</verse-line>
+               <verse-line>Assaying by his dev’lish art to reach</verse-line>
+               <verse-line>The organs of her fancy and with them forge</verse-line>
+               <verse-line>Illusions as he list, phantasms and dreams,</verse-line>
+               <verse-line>Or if inspiring venom he might taint</verse-line>
+               <verse-line>Th’animal spirits that from pure blood arise</verse-line>
+               <verse-line>Like gentle breaths from rivers pure, thence raise</verse-line>
+               <verse-line>At least distempered, discontented thoughts,</verse-line>
+               <verse-line>Vain hopes, vain aims, inordinate desires</verse-line>
+               <verse-line>Blown up with high conceits engend’ring pride.</verse-line>
+               <attrib>(4.800–809)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Like the first three chapters of Genesis, the story of Eve’s dream retains the power to surprise us on any given rereading by virtue of what it does not say. There is no mention of a voice, satanic or otherwise, and whatever Satan does here it involves treating Eve more as medical subject than as coy mistress. “Inspiring venom” might be read as a metaphor for “speaking evil words,” but the language of animal spirits in fact asks us to see something very different. Satan is inspiring Eve—literally pouring noxious matter into the porches of her ears. This attempt at material defilement has some causal relation to the dream voice as Eve articulates it the following morning, but in connection with what other catalysts we cannot say. We have no ground for asserting that Satan spoke, scripted, or serenaded. But such is the nature of Eve’s dream—always seducing us into making our own “additions strange” to Milton’s elliptical account.</p>
+         <p>If the dream, then, is not Satan’s script, and if he is not the unique speaker of that profoundly unoriginal voice, this means that when Eve speaks the words of the dream voice to Adam she cannot simply be quoting words already spoken by another in the past. She is creatively involved in what she speaks, but to what precise extent the poem refuses to say. How have editors of the poem dealt with this strangely unassignable voice? Most quoting editions, as mentioned above, designate Eve’s speech to Adam with the double quotation mark, putting the cited dream voice in single quotes, while a few of the poem’s editors have chosen to place only reported speech in quotation marks. Henry Todd’s edition follows this practice, placing quotation marks not only at the beginning and end of reported speech but at the beginning of each line of reported speech. In the case of Eve’s dream, the reader of Todd’s edition is never allowed to forget that these words presumably have another, external source. Each individual line wears prominently the badge of its alterity.</p>
+         <p>But by far the most interesting application of quotation marks to Eve’s dream can be found in James Montgomery’s edition of 1861. Montgomery uses quotation marks, double and single, throughout. But rather than mark the eruption of the dream voice with single quotations, he initially lets it bleed into Eve’s own speech:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>             Methought</verse-line>
+               <verse-line>Close at mine ear one call’d me forth to walk</verse-line>
+               <verse-line>With gentle voice; I thought it thine: it said,</verse-line>
+               <verse-line>Why sleep’st thou, Eve?</verse-line>
+               <attrib>(5.35–38)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Eve misattributes the voice to Adam until she comes upon the radiant form of the angel standing by the tree. Before that the voice is designated only as “it,” and Montgomery seems to think “it” not substantial enough to be a designated speaker. But after “its” first speech, Eve continues:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>I rose as at thy call, but found thee not:</verse-line>
+               <verse-line>To find thee I directed then my walk;</verse-line>
+               <verse-line>And on, methought, alone I pass’d through ways</verse-line>
+               <verse-line>That brought me on a sudden to the tree</verse-line>
+               <verse-line>Of interdicted knowledge; fair it seem’d,</verse-line>
+               <verse-line>Much fairer to my fancy than by day;</verse-line>
+               <verse-line>And, as I wondering look’d, beside it stood</verse-line>
+               <verse-line>One shaped and wing’d like one of those from heaven</verse-line>
+               <verse-line>By us oft seen: his dewy locks distilled</verse-line>
+               <verse-line>Ambrosia: on that tree he also gazed;</verse-line>
+               <verse-line>“And, O, fair plant,” said he, “with fruit surcharged,</verse-line>
+               <verse-line>Deigns none to ease thy load, and taste thy sweet,</verse-line>
+               <verse-line>Nor God nor man? Is knowledge so despised?”</verse-line>
+               <attrib>(5.48–60)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>When we first hear the voice, in Montgomery’s edition, it is a kind of reported speech, but in the absence of a clear speaker the words do not receive the status of quoted speech—suggesting that Eve, by default, remains the authentic speaker at this point. But when she discovers the angel and as “it” becomes “he,” then Montgomery decides that the voice is sufficiently external, sufficiently other, to be the quoted speaker of those dangerous words. In this way the episode of Eve’s dream asks each editor to decide, for countless future readers, who is speaking here and at what exact point the voice begins to belong to someone other than Eve.</p>
+         <p>Montgomery decides that this voice begins to belong to another as soon as Eve can positively attribute it to a visible “other”—in this case the angel. But who exactly is this angel? Critics and readers often speak at this point of Satan disguised as an angel—something like the disguise he adopts in book 3 when speaking to Uriel. Relating the two scenes, Regina Schwartz claims that “with hypocrisy so hidden, it is no wonder that Eve could not penetrate the disguise of the angel who flattered her in her dream.”<xref ref-type="fn" rid="fn25">
+               <sup>25</sup>
+            </xref>We should, I think, draw at least a tentative distinction between the two scenes. In book 3 we know that Satan adopts a disguise that fools even the sharpest-sighted angels, but do we know that the mysterious figure in Eve’s dream is evil disguised as good? If there is no textual evidence for Satan speaking the dream into Eve’s ear, then neither is there any reason to imagine Satan as an actor on the dream stage, playing the lead in his own production. Following Samuel, we might say that Satan “induces” the unquiet physiological state in which Eve’s mind works but that ultimately both voice and figure are her own “productions.”</p>
+         <p>What then could be the meaning of that strange circumlocution: “One shaped and wing’d like one of those from heav’n / By us oft seen”? At this point in the poem, Eve has no knowledge of Satan or his shape-shifting powers, nor does she understand hypocrisy, as Schwartz rightly notes. So why does she speak this way? Why use fourteen syllables to designate what should be expressed in three: “an angel”? As she struggles to assign those strange dream words to another, the figure she ultimately focuses on is not simply a disguised Satan. It is one of those ontologically undecidable beings—like Sin and Death, or Spenser’s snowy Florimell (who may or may not have a demon inside of her pulling the strings).<xref ref-type="fn" rid="fn26">
+               <sup>26</sup>
+            </xref>The point of Eve’s circumlocution is not to suggest a demonic being lurking beneath an angelic mask but rather to emphasize again the instability and unoriginality of the dream voice. As soon as one projects that voice onto an external speaker, even within the mental space of dreams, that speaker begins to disintegrate. The dream voice refuses to be pinned down on any single readily identifiable figure. Eve, then, does not get it wrong by failing to identify Satan beneath the guise of the angel. She in fact registers an even more terrifying fact about the dream voice—that there is no one behind it to identify.</p>
+         <p>In my experience with the midterm exam, what surprised me most was the realization that the only “right” answer to the question—identify the dream voice—was that the words were spoken by Eve to Adam. The voice itself, as I have argued, implies the mingling of several voices, but in what precise ratio the poem will not reveal. The only thing we can be sure of is that Eve speaks them to Adam one morning in Paradise, and yet this is the one aspect of the dream that is almost never discussed. The common assumptions I have cataloged—believing that there is a single point of origin for the voice, believing it was spoken by Satan, believing that the devil is the angel in disguise—all conspire to turn the reader’s focus away from Eve and onto Satan. They provoke us to reconstruct the dream as a past experience in mental space rather than to experience it as the present, interpersonal relation that it is. The externalist drive to find a source for the dream outside of Eve incidentally robs her of one of her most important moments of aesthetic creation. A cinematic portrayal might use the wavy dissolve to transition from Eve’s opening words into a portrayal of the nocturnal scene, framed by a light fog, and with the actor playing Satan now dressed as a radiant angel. But all of this is to miss the real drama of Eve as she tries to articulate those strange words to Adam, finding a voice that is somehow her own and not her own. A bold filmmaker would avoid the dream sequence altogether and keep the camera on Eve for the duration of her speech—showing the yet sinless naked woman as she struggles to tell her tale in a mixture of excitement, embarrassment, and anxiety.</p>
+         <p>Likewise I propose that as readers we turn away from Satan and nighttime, from inblown venom and ambiguous angels, and turn our attention to the scene of the dream’s enunciation. Can we imagine Adam’s puzzled expression when Eve introduces as a main character in her story something that looks and is shaped like one of those creatures of Heaven they have often seen? Can he understand what it means to be chilled by “damp horror” (5.65)? What would he make of the mere fact of Eve saying things like “<italic>Now</italic>is the pleasant time…<italic>Now</italic>reigns / Full orbed the moon” (5.38–42)? (Innocent patriarchal houyhnhnm that he is, Adam might have wondered why Eve was suddenly saying the thing which is not.) At a more abstract level, does Adam know that the dream voice is in quotation marks? Is he as certain as many of Milton’s editors that these words do not belong to Eve in any sense? Finally, does he feel that for all its strangeness the voice is somehow familiar? We know that he hears “resemblances” in the dream to their previous evening’s talk. Does he experience himself as in part its origin or speaker—as Eve initially had done—even for a moment? However we imagine it, this must have been one of the strangest events in the relatively brief history of Paradise.</p>
+         <p>In discussing the common assumptions we often make in reading Eve’s dream, I have yet to mention what is probably the oldest and most common—that Eve eats the forbidden fruit. Eve, of course, says no such thing. Instead she gives us the most famous ellipsis in a story riddled with them:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>      The pleasant savory smell</verse-line>
+               <verse-line>So quickened appetite that I, methought,</verse-line>
+               <verse-line>Could not but taste. Forthwith up to the clouds</verse-line>
+               <verse-line>With him I flew.</verse-line>
+               <attrib>(5.84–87)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Eve claims only to have thought she “could not but taste,” on which the anticipated effects occur, and we are tempted retroactively to fill in the blank with a commission of sin. First-time readers of the poem almost inevitably remember the sin that did not happen. Internalist critics sometimes assume it, as Tillyard does when he simply relegates the fact to an introductory clause: “Having eaten, she seems to fly up to heaven.”<xref ref-type="fn" rid="fn27">
+               <sup>27</sup>
+            </xref>But most critics do not accuse Eve so cavalierly. Diane McColley provides a map of the interpretive choices open to us as readers of Eve’s ellipsis: “Does Eve, in imagination, taste the fruit? Four possibilities present themselves. Either she does not taste, and remains free of even imagined disobedience; or she does not taste, but is inclined toward actual disobedience by the dreamed impulse; or she does taste, and is tainted by disobeying even in ‘forg[d] / Illusions’; or she does taste, by Satan’s manipulation of the ‘organs of her Fancie,’ but her waking will and reason are still free to reject the imagined evil.”<xref ref-type="fn" rid="fn28">
+               <sup>28</sup>
+            </xref>
+         </p>
+         <p>Again, we see just how crucial the dream episode is for our understanding of the etiology of evil and just how many nuances a great reader of Milton can find in an ellipsis. But the most important guide we have at this interpretive crossroads is Adam, who assures Eve that</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Evil into the mind of god or man</verse-line>
+               <verse-line>May come and go, so unapproved, and leave</verse-line>
+               <verse-line>No spot or blame behind.</verse-line>
+               <attrib>(5.117–19)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>These three lines constitute the last great crux in the debate over Eve’s dream—with externalists generally agreeing with Adam and others doubting whether he understands Eve’s experience in the least.</p>
+         <p>But whether he is right or wrong, Adam with these words frames the debate for both parties and for nearly all of the critical literature on Eve’s dream. At the center of that debate is this question of what exactly happened, the night before, in Eve’s mind. But in searching for the key to her spiritual condition in the dream space, we miss the profound importance of the fact that Eve does not and perhaps cannot yet articulate sin in her own person. It may be that her yet sinless vocal chords simply cannot form the words: “And I did eat.” As William Riggs writes, “Evil thoughts, in Adam’s famous assessment, ‘into the mind of God or Man / May come and go, so unapprov’d, and leave / No spot or blame behind’ (V 117–19), but thoughts articulated—so Eve’s experience of her own words argues—constitute a significant gesture toward choice.”<xref ref-type="fn" rid="fn29">
+               <sup>29</sup>
+            </xref>If Riggs is right then Eve’s famous ellipsis, far from inviting speculation, should end it altogether. What is often read as a clever evasion of guilt or at least a questionable coyness may in fact be the surest sign of abiding innocence. We need not speculate on what did or did not happen in Eve’s dreaming mind. The fact that she refuses to pronounce the incriminating words may be—to borrow another famous verse that may or may not belong in quotation marks—all we know and all we need to know.</p>
+      </sec>
+      <sec id="sc2">
+         <title>Speak for the Devil</title>
+         <p>Adam consoles Eve by telling her that we can safely entertain evil in mental space, so long as we do not approve it. While externalist readers of the dream scene almost unanimously claim that Adam is right, others remain dissatisfied with his answer.<xref ref-type="fn" rid="fn30">
+               <sup>30</sup>
+            </xref>But I would argue that it is not his answer so much as the question it presupposes that we should be dissatisfied with. We might wonder why Adam does not pose a more pertinent question, namely, can evil come into the ear and go out of the mouth without leaving spot or blame behind? Can one relate dangerous and seductive words safely, without becoming in any sense their speaker and source? Can quotation marks insulate us from sin, allowing us to communicate dangerous ideas without getting entangled in them? What is at stake in speaking unoriginal words? That the question is not often asked is due partly to Adam’s success in framing “unde malum” as a question about what the mind, rather than the mouth, does. But Adam has an impressive theological tradition behind him. Augustine perhaps best exemplifies the desire to locate a mental fall as causal precursor to the physical act of eating the fruit. As William Poole describes it, “Augustine replaced one human fall with at least two, one happening in the mind, one in public.”<xref ref-type="fn" rid="fn31">
+               <sup>31</sup>
+            </xref>The other possibility, of a verbal rather than a mental transgression as the beginning of sin, has provoked much less theological speculation. But it does occasionally find a voice, as it did in Milton’s contemporary Richard Allestree, who argues in his wonderfully titled<italic>Government of the Tongue</italic>(1675): “Original sin came first out of the mouth by speaking, before it entred in by eating. So lyable alas! is speech to be deprav’d, that the Scripture describes it as the source of all our other depravation.”<xref ref-type="fn" rid="fn32">
+               <sup>32</sup>
+            </xref>
+         </p>
+         <p>Is Eve’s speech in any sense depraved by her enunciation of the dream voice? Whether or not we place that voice in quotation marks, we know that although Eve speaks these words they are not entirely her own. Quotation marks force us to make a decision one way or another with regard to speaker, where Milton urges us to recognize some more subtle form of partially owned speech. Compared to the vertiginous dream episode, the actual temptation and fall of Eve in book 9 is fairly straightforward. The tempting voice returns, this time in the purely external form of the serpent. But that alone is not enough to make Eve fall. She first must recognize that voice and internalize it, as she does in her soliloquy just before she eats. Here we see her articulate those impious questions, the chopped logic and slippery satanic syntax, but with herself now as the voice’s unequivocal origin. Quotation marks cannot save her this time.</p>
+         <p>The question with which I propose to replace Adam’s—namely, can evil be spoken with immunity—can be asked not only of Eve but of several figures in<italic>Paradise Lost</italic>. The process of manufacturing satanic speech is a key element in the poem, one that is most vividly on display in that section of the poem (bks. 5–8) in which Satan himself is silent. It is perhaps not surprising that no one misses the poem’s most compelling figure even though he disappears for an entire third of its action. This is probably because while he is away the unfallen characters spend such a great deal of time imagining what he did or would say. Satan may leave us, but the satanic voice never does. The one figure in the poem that speaks almost as many “satanic” lines as the devil himself is Raphael. And just as the overemphasis on the satanic source of the dream voice displaces Eve as its speaker, it is likewise all too easy to lose sight of Raphael’s role as creator in these middle books. Wherever the satanic voice surfaces, Satan himself steals the show in the imagination of the reader, relegating the creative work of the actual speaker to the background.</p>
+         <p>Milton in fact goes out of his way to remind us at various points of Raphael’s authorship—not only by highlighting his moments of doubt, equivocation, and anxiety but also through the endearing way he shapes his narrative to fit the contours of Adam’s experience. In describing the legions of loyal angels marching through the ether, Milton creates a simile for Adam’s ears only:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>       As when the total kind</verse-line>
+               <verse-line>Of birds in orderly array on wing</verse-line>
+               <verse-line>Came summoned over Eden to receive</verse-line>
+               <verse-line>Their names of thee.</verse-line>
+               <attrib>(6.73–76)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Milton is of course not the first epic writer to allow a character to narrate whole books of his poem, but we do not, for example, see Aeneas struggling to create personalized similes to appeal to Dido’s particular experiences. Milton wants us to see the aesthetic work that goes into his characters’ performances, particularly when that work involves imaginatively quoting the words of the adversary.</p>
+         <p>Raphael highlights his own creative agency with a prefatory statement of his epic intentions:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>High matter thou enjoin’st me O Prime of Men,</verse-line>
+               <verse-line>Sad task and hard, for how shall I relate</verse-line>
+               <verse-line>To human sense th’invisible exploits</verse-line>
+               <verse-line>Of warring spirits, how without remorse</verse-line>
+               <verse-line>The ruin of so many glorious once</verse-line>
+               <verse-line>And perfect while they stood, how last unfold</verse-line>
+               <verse-line>The secrets of another world perhaps</verse-line>
+               <verse-line>Not lawful to reveal?</verse-line>
+               <attrib>(5.563–70)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Raphael was sent, we should recall, to warn our first parents about the threat of Satan; he was never instructed to narrate epic battles or sublime hexameral strains. The aesthetic venture is his own idea, and he pursues it, as he knows, at some risk. In this prefatory remark he mentions three distinct risks, which we might identify as the epistemological (how can I make you understand a world so different from your own?), the affective (“how without remorse”?), and finally the legal risk of unfolding the secrets of heaven. In the face of such risks Raphael outlines his narrative strategy:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>   And what surmounts the reach</verse-line>
+               <verse-line>Of human sense I shall delineate so</verse-line>
+               <verse-line>By lik’ning spiritual to corporeal forms</verse-line>
+               <verse-line>As may express them best. Though what if Earth</verse-line>
+               <verse-line>Be but the shadow of Heav’n and things therein</verse-line>
+               <verse-line>Each to other like more than on Earth is thought?</verse-line>
+               <attrib>(5.571–76)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Even this prefatory remark is ambiguous, suggesting that the narrative to come will be both a literal account of past events and also an accommodated fiction. Raphael is part war journalist and part allegorical poet, but in what exact ratio the text will not reveal. As in the case of Eve and the dream voice, we can never be sure, when Raphael speaks for the devil, to what extent he quotes and to what extent he creates.</p>
+         <p>In books 5 and 6 we hear the archfiend seducing, debating, encouraging, and vaunting. Just as we are in the habit of referring to “Milton’s Satan” we should perhaps here speak of “Raphael’s Satan.” The reason we do not is that Raphael’s Satan is acoustically so similar to the Satan of books 1–4 that we simply forget he is not literally here in propria persona, speaking these exact words. It is of course possible that Raphael heard some of these words. But as Elizabeth Sauer rightly points out, “Raphael’s narrative supplies information to which the angel could not possibly have access, including knowledge of Satan’s speeches to his cohorts and of the invention of the ‘devilish Enginry.’”<xref ref-type="fn" rid="fn33">
+               <sup>33</sup>
+            </xref>Given the uncertain extent of Raphael’s accommodation, we cannot even be sure that what transpired in heaven was in any sense verbal. Can angels rebel with inarticulate groans? Does sedition permeate heaven as an odor or a flash of colored light? Such things, as Sir Thomas Browne would say, are not beyond all conjecture.<xref ref-type="fn" rid="fn34">
+               <sup>34</sup>
+            </xref>Whatever the case, Milton urges us at various points in these books to see Raphael as deeply invested in an act of imaginative making whose extent we can never fully gauge. His prefatory remarks seem to represent a real anxiety on Raphael’s part about what it is he chooses to do. To his list of authorial risks—the epistemological, the affective, and the legal—we might add a fourth, ethical risk. “Is it permissible,” he might have asked, “for me to manufacture satanic speech and communicate it to these yet sinless creatures?”</p>
+         <p>Raphael is unique among the poem’s contributors to the satanic voice in that he is the only one who speaks for the devil without eventually falling. He does however have a moment of weakness, albeit a slight one. It comes just after what may be the bravura performance of his own epic—the punning speech of the newly militarized Satan:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Vanguard to right and left the front unfold</verse-line>
+               <verse-line>That all may see who hate us how we seek</verse-line>
+               <verse-line>Peace and composure and with open breast</verse-line>
+               <verse-line>Stand ready to receive them if they like</verse-line>
+               <verse-line>Our overture and turn not back perverse!</verse-line>
+               <verse-line>But that I doubt. However, witness Heaven,</verse-line>
+               <verse-line>Heav’n witness thou anon while we discharge</verse-line>
+               <verse-line>Freely our part! Ye who appointed stand</verse-line>
+               <verse-line>Do as ye have in charge and briefly touch</verse-line>
+               <verse-line>What we propound—and loud, that all may hear!</verse-line>
+               <attrib>(6.558–67)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Readers of the poem often remember the belligerent punning devils but just as often forget that their actual speaker is the mild and sociable angel. And the angel, we have reason to suspect, may be a little too pleased with his own wit. After “quoting” Satan’s words here, Raphael resumes his own narrative voice, describing the devilish enginery:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Brass, iron, stony mold, had not their mouths</verse-line>
+               <verse-line>With hideous orifice gaped on us wide,</verse-line>
+               <verse-line>Portending hollow truce.</verse-line>
+               <attrib>(6.576–78)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>In that final line, Raphael puns satanically in his own voice by likening the hollowness of the cannons to the “hollow truce” Satan proposes. The imagery of “mouths” and “orifices” urges us to consider the origin of these words, which, perhaps to our surprise, is no longer the hideous mouth of Satan but the angelic orifice of Raphael. The quotation marks have somehow fallen away, leaving Raphael the sole speaker. Richardson’s gloss on this passage and its “ridiculous” wit is inspired: “No need Therefore of Excusing it by saying the Devils are made to Punn…tis not These Only, the Angel Punns as They,<italic>v. 578</italic>.”<xref ref-type="fn" rid="fn35">
+               <sup>35</sup>
+            </xref>Richardson might have added that in fact Raphael’s momentary slip—a devilish pun discharged from his own mouth—might serve as a reminder that it was the angel punning all along. Can we imagine what this experience is like for Raphael? Does he mimic the actions and expressions of the devils as he speaks for them? When he puns in his own voice, does he lift up two angelic air quotes, as if to disclaim the words even as he speaks him? Or does he immediately catch himself, blushing as we know he does when he gets embarrassed?</p>
+         <p>Whatever the case, we should ask why the sociable archangel lets himself get so carried away in the first place? Raphael, as we have seen, takes a number of risks in his narrative venture, not the least of which is articulating words that supposedly originate in Satan. And that satanic voice, even for an unfallen angel, is seductive. It is both difficult and exciting to create words so delicately poised between opposed meanings, and in doing so Raphael may be experiencing for the first time the pleasure of imaginative creation. The voice is contagious. Gordon Teskey notes in his edition of the poem: “Raphael here catches the infection of Satan’s verbal play.”<xref ref-type="fn" rid="fn36">
+               <sup>36</sup>
+            </xref>Such is the nature of the satanic voice and its subtle “invitation to sin.” It allows you to speak it forth in quotation marks, for the purpose of teaching and informing others, but always with the danger that the quotation marks might silently slip away, leaving you suddenly speaking these “unoriginal” words in your own voice.</p>
+         <p>This, I would argue, is exactly what happens to Adam in his one attempt at manufacturing satanic speech. Like Eve, Adam internalizes the voice of the adversary before he plucks and eats:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Nor can I think that God, creator wise,</verse-line>
+               <verse-line>Though threat’ning, will in earnest so destroy</verse-line>
+               <verse-line>Us his prime creatures…</verse-line>
+               <verse-line>      …so God shall uncreate,</verse-line>
+               <verse-line>Be frustrate, do, undo, and labor lose.</verse-line>
+               <verse-line>Not well conceived of God who though His power</verse-line>
+               <verse-line>Creation could repeat yet would be loath</verse-line>
+               <verse-line>Us to abolish lest the Adversary</verse-line>
+               <verse-line>Triumph and say, “Fickle their state whom God</verse-line>
+               <verse-line>Most favors! Who can please him long? Me first</verse-line>
+               <verse-line>He ruined, now mankind! Whom will he next?”</verse-line>
+               <verse-line>Matter of scorn not to be giv’n the foe.</verse-line>
+               <attrib>(9.938–51)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>But while Eve merely adopts the style of satanic speech, Adam in fact speaks for the devil—imagining how Satan might verbally respond to the fall of man. And while Raphael gives us speech that Satan might have said in the past, Adam gives us a future conditional form of satanic speech—what the devil might say in the future. As Adam is quick to point out, however, this is a “matter of scorn not to be giv’n the foe”; that is, even as he pronounces these “satanic” words, Adam admits that these are not and never can be the devil’s own words. God, Adam thinks, will never allow the universe to be such that Satan will be able to utter these words (he is wrong of course—God will allow the universe to be such that Satan could utter such words; God simply will not allow them to be true). With his final line then, Adam retroactively erases the quotation marks most editors place around these lines. What begins as quotation ends as pure creation.</p>
+         <p>To appreciate the extent of the risk involved in assuming the voice of another in<italic>Paradise Lost</italic>, we might compare Adam’s words here with the words of the Son to the Father in book 3:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>Or shall the Adversary thus obtain</verse-line>
+               <verse-line>His end and frustrate Thine? Shall he fulfill</verse-line>
+               <verse-line>His malice and Thy goodness bring to naught</verse-line>
+               <verse-line>Or proud return (though to his heavier doom,</verse-line>
+               <verse-line>Yet with revenge accomplished) and to Hell</verse-line>
+               <verse-line>Draw after him the whole race of mankind</verse-line>
+               <verse-line>By him corrupted? Or wilt Thou thyself</verse-line>
+               <verse-line>Abolish Thy creation and unmake</verse-line>
+               <verse-line>For him what for Thy glory Thou hast made?</verse-line>
+               <verse-line>So should Thy goodness and Thy greatness both</verse-line>
+               <verse-line>Be questioned and blasphemed without defense.</verse-line>
+               <attrib>(3.156–66)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>In the cosmos of<italic>Paradise Lost</italic>there is perhaps no stranger fact than this—that the Son at his greatest moment in the poem says almost exactly the same thing as Adam at his worst. I say “almost” because it is of course the minor differences that make all the difference in Milton’s world. The Son is able to imagine the manner in which Satan might react to the fall of man, but unlike Adam, he refuses to give voice to that possibility. He chooses not to speak for the devil. Adam, however, relishes the opportunity to speak the words of another as his own. As in the cases of Eve and Raphael, the dramatic potential of this moment is too often unrecognized. How does Adam look and sound when he suddenly begins to act in the role of archfiend? Does he exclaim like a Roman orator and make elaborate gestures? Does he extend an index finger toward his chest when he says “Me first / He ruined,” feeling perhaps the thrill of being not entirely himself? But again, if Satan will never be able to say these words, then the “me” Adam points to can in the end be no one but himself. It is hardly surprising that in the very next line he consents to the formal act of sin, telling Eve: “I with thee have fixed my lot” (9.952).</p>
+         <p>Finally, there is one figure in the poem whom we may or may not describe as a manufacturer of satanic speech—the serpent. Unlike Adam and Eve, we know that Satan is somehow “in” the serpent, as the narrative voice reminds us: “So spake the enemy of mankind, enclosed / In serpent, inmate bad” (9.494–95). And yet the act of possession is more equivocal:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>          In at his mouth</verse-line>
+               <verse-line>The Devil entered and his brutal sense</verse-line>
+               <verse-line>In heart or head possessing soon inspired</verse-line>
+               <verse-line>With act intelligential, but his sleep</verse-line>
+               <verse-line>Disturbed not, waiting close th’approach of morn.</verse-line>
+               <attrib>(9.187–91)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Satan enters at the mouth, possessing either the heart or the head and “inspiring” the brute with reason and language. Stephen Fallon has noted that Satan’s possession of the serpent provides the poem with a powerful image of Cartesian dualism—an active mind manipulating a purely passive body.<xref ref-type="fn" rid="fn37">
+               <sup>37</sup>
+            </xref>While the narrative interjections support such a reading, the idea of “inspiration” troubles it, making the serpent’s predicament in book 9 oddly similar to Eve’s in book 5. We are left with yet another “undecidable” moment of satanic speech. Whose words are these exactly? Do they belong entirely to Satan, or is there any sense in which the serpent is being original in the act of enunciation?</p>
+         <p>Exploring this question brings us to one of the great cruxes of the poem—the justice of the serpent’s punishment. The Son says two seemingly contradictory things, telling the Father that “conviction to the serpent none belongs” but describing him to Adam and Eve as “justly then accurst / As vitiated in nature” (10.84, 10.168–69). Obviously aware of the inconsistency, Milton assures us that “More to know / Concerned not Man” (10.169–70). But in inscribing this uncertainty so prominently into his poem, Milton virtually assures that we will seek to know more, whether it concerns us or not. And while he does not provide an answer to the question, Milton does indicate, I believe, the single fine point around which the debate must turn. When the serpentine Satan first prepares to address Eve, we are told:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>             He, glad</verse-line>
+               <verse-line>Of her attention gained, with serpent tongue</verse-line>
+               <verse-line>Organic or impulse of vocal air</verse-line>
+               <verse-line>His fraudulent temptation thus began.</verse-line>
+               <attrib>(9.528–31)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>In the context of the poem’s obsession with manufacturing satanic speech, these seemingly trivial lines may hold the key to understanding the fate of the serpent. Teskey provides another helpful gloss: “Satan emits sound through the serpent either by using the serpent’s tongue or by emitting pulses of air, which make sound by vibrating in the elongated tube of the serpent’s body.”<xref ref-type="fn" rid="fn38">
+               <sup>38</sup>
+            </xref>In pursuing the question of who ultimately speaks the words that seduce Eve, we are led to the perhaps unexpected question—Is the serpent more like a singer or more like a trumpet? If the latter is true, if Satan merely emitted pulses of air through his body, then surely the serpent is innocent (we might imagine two serpentine fangs hanging like quotation marks over his mouth, signifying that the pulses of air that glide through them have their true origin in another). But what if the serpent used his own tongue? What if he was inspired by Satan and took some pleasure in shaping those seductive syllables? What if he experienced the satanic voice uniquely as his own, even for a moment—as we saw comically in the case of Raphael and tragically in the case of Adam? How well, we might ask, did the serpent govern his tongue?</p>
+         <p>But why would Milton be so invested in the problem of manufacturing satanic speech that he would offer so many and such nuanced dramatizations of the process in<italic>Paradise Lost</italic>? Why would Milton depict so many of his unfallen creatures wrestling with the problem of speaking for the devil, were he not meditating on his own role in articulating evil and bringing dangerous new words into the world? As the examples of Eve, Raphael, Adam, and the serpent illustrate, there is a grave risk involved in reporting speech—the possibility that, perhaps without knowing it, the words will come to belong more to the speaker than to the supposed source, more to the quoter than to the quoted. This is how quotation marks invite us to sin. Did Milton ever consider such a possibility in his own case? How did he feel on those wintry mornings, speaking forth in his own voice such phrases as “Evil be thou my good” and “Better to reign in Hell than serve in Heaven” or simply saying of divine omnipotence “I question it”? With what tone and figure did Milton, pronouncing the letter “R” very harshly, speak of God as “our great Forbidder”? In having to utter each word of his poem into being, Milton had a different relationship to his epic than did, say, Spenser or Tasso. The wicked words of Duessa, Archimago, or Armida never had to pass through the throats and mouths of their creators to get to us. And yet we might ask, where do the words of<italic>Paradise Lost</italic>really come from?</p>
+         <p>Milton of course relies on his “celestial patroness” and her nightly visitations in composing his great poem. But what is actually brought to his ear in these unimplored visits? Is it some kind of heavenly matter that is blown into him, the opposite of satanic venom, or is it the very words of the poem? The celestial visitor, he tells us, “dictates to me slumbering<italic>or</italic>inspires / Easy my unpremeditated verse” (9.23–24; emphasis added). Milton here offers two distinct options. Either the poem is “dictated” to him, exactly as he will dictate it to another the following morning, or he is inspired—visited by a heavenly influx that then allows him to speak forth words of his own making. The same uncertainty we saw in the case of Eve and again in the serpent is repeated, or perhaps finds its source, in Milton’s own inscribed uncertainty. With this single “or,” Milton relegates the whole of his epic to that uncertain space between quotation and creation in which we have seen so many of the poem’s speakers working. Milton, Eve, and the serpent are all visited at night by an influence of some kind, and the next day they speak forth words that may or may not be their own. If the words are “dictated” to him, then perhaps Milton can put the entire poem in quotation marks, taking a profoundly unoriginal stance in relation to his masterpiece. But even critics who see the dream voice as coming entirely from outside of Eve are unlikely to say the same about Milton’s relation to his poem, despite the structural similarity of the two interactions. Just as Eve is somehow involved in the dream voice, so is Milton involved in all of his utterances, whether they belong on the page to Satan, God, Adam, Eve, or Belial. In his depictions of Eve and the serpent, Milton offers us a glimpse into his own anxious work as maker. Like them, he too woke up full of wild and sometimes blasphemous words, which he would then have to speak forth in the light of day to pious (if not sinless) auditors. And like them he too may occasionally have wondered—to what extent are these my words?</p>
+         <p>As readers, we too might wonder whether Milton ever experienced the Muse as Eve did her dream speech—as a kind of unoriginal voice speaking through him, never decidedly within or without, part creation and part quotation. Milton’s own thoughts on the process of inspiration may shed some light on this question. In<italic>The Reason of Church Government</italic>, he affirms that the poetic capacity is “the inspired guift of God,” who “sends out his Seraphim with the hallow’d fire of his Altar to touch and purify the lips of whom he pleases.” Lest this sound overly externalist, Milton continues: “to this must be added industrious and select reading, steddy observation, insight into all seemly and generous arts and affairs.”<xref ref-type="fn" rid="fn39">
+               <sup>39</sup>
+            </xref>Inspiration, whether heavenly or satanic, does indeed come from without, but its success depends on our own preparation and posture—on our willingness to adapt ourselves to its rousing motions. Inspiration does not simply offer a source whose words one may cite; it is something in which we participate. We see this same dialectic in the various acts of inspiration in Milton’s poem. Satan chooses Eve rather than Adam as the fittest vessel for his inspiration, just as he does the serpent. He induces himself into the sleeping beast as a radically external force, but once inside he finds the beast’s head already “well stored with subtle wiles”(9.184)—just as Milton lays the groundwork for divine inspiration by storing his own subtle head with languages, scripture, classical literature, and steady observation. We might say that we have internalist and externalist readers of the poem because Milton makes both internalist and externalist gestures over the course of his writings, as he struggles to reduce the dialectic of inspiration to its finest nuances.</p>
+         <p>Dictates or inspires—so much in Milton’s great poem depends on such little words as “or.” As Peter Herman rightly notes, “the Miltonic ‘Or’ inscribes incertitude at the heart of<italic>Paradise Lost</italic>.”<xref ref-type="fn" rid="fn40">
+               <sup>40</sup>
+            </xref>In both<italic>Destabilizing Milton</italic>(2005) and<italic>The New Milton Criticism</italic>(2012), we find compelling arguments against the critical urge to find in<italic>Paradise Lost</italic>a coherence of design and a consistency of belief, to disregard, that is, the poet’s own vacillations and contradictions or to resolve them too readily into a higher unity.<xref ref-type="fn" rid="fn41">
+               <sup>41</sup>
+            </xref>As I have argued, the question of quotation marks and of the source of satanic speech reveals many such “undecidable” moments—literary knots that cannot be undone by any amount of critical savvy. One of the most destabilizing aspects of<italic>Paradise Lost</italic>is that one simply cannot know who speaks some of the poem’s most important and memorable passages. But in this particular case, we confront, I believe, something vaster than the incertitude of a single mind (even one as wily and well stored as Milton’s). The argument of the poem involves the poet in the impossible task of imposing onto a sudden and inexplicable theological event the logic of narrative, with all its linear causality, foreshadowing, and character development. A drama of the fall must begin with either a push from outside or an inclination from within, but choosing either would be a theological disaster. The blocking of a voice’s origin is a crucial part of Milton’s aesthetic repertoire because it allows him to tell the story of original sin without falling into either extreme. The phenomenon of the unoriginal voice illustrates just how exquisitely crafted uncertainty can be in Milton, how it manifests itself in such minute discriminations: Does Eve quote or create the dream voice? Does Raphael report or invent? Does Satan play the serpent as an instrument, or does he make him sing? The “New Milton critics” are right to recognize the fundamental role of uncertainty in the poet’s work. I would only add that we should appreciate Milton’s ability to give precise aesthetic shape to some of these uncertainties—to reduce them to their finest nuances and then to construct a world around them.<italic>Paradise Lost</italic>does not founder on its undecidables. We might even say it is founded on them.</p>
+      </sec>
+      <sec id="sc3">
+         <title>Diminishing Quotation</title>
+         <p>The two lines of inquiry with which I began—the serious question of the origin of human sin and the more academic or editorial one of quotation marks—are finally inextricable. Editors understand how much is at stake in the way we punctuate Milton. In his Norton edition of<italic>Paradise Lost</italic>Teskey explains how “the stricter logic of modern punctuation can have a flattening effect on Milton’s verse at some moments, forcing the sense in one direction alone when two possibilities should be held in suspense for a time.”<xref ref-type="fn" rid="fn42">
+               <sup>42</sup>
+            </xref>I believe that Teskey’s general argument about punctuation should be extended to include quotation marks, particularly in the case of reported speech. While they may be helpful to readers, these subtle typographic marks can mislead us into attributing a radical alterity to words that are, in some sense at least, the speakers’ own—words whose status as “quoted speech” is precisely what Milton urges us to interrogate.</p>
+         <p>While the examples I have discussed all involve satanic speech, the same process can be seen to work in a more pious direction.<italic>Paradise Regained</italic>(1671) is the story not of an unoriginal voice but of an original text—the Holy Scriptures, which all of the poem’s speakers are deeply involved in reading, interpreting, and citing. Jesus triumphs over Satan on the pinnacle, as the bard quotes the Son quoting the Father:</p>
+         <disp-quote>
+            <verse-group>
+               <verse-line>To whom thus Jesus. “Also it is written,</verse-line>
+               <verse-line>‘Tempt not the Lord thy God.’” He said, and stood.</verse-line>
+               <attrib>(4.560–61)</attrib>
+            </verse-group>
+         </disp-quote>
+         <p>Hanford, whose edition I cite, clearly segregates the three intersecting voices through his use of double and single quotation marks. But do these marks adequately reflect what happens in this climactic scene? Stanley Fish describes it: “‘Tempt not the Lord thy God; he said.’ Who said? The Son, of course, since the sounds issue from his mouth, but the words are not his…except in the sense that he has identified himself with their speaker. It is not that he appropriates the words, but that they, and their source, appropriate him.”<xref ref-type="fn" rid="fn43">
+               <sup>43</sup>
+            </xref>The great critical question about these two lines is whether, when Jesus says “Tempt not the Lord thy God,” he simply means the Father or whether he now understands his true identity and is essentially telling Satan, “don’t tempt me.”<xref ref-type="fn" rid="fn44">
+               <sup>44</sup>
+            </xref>Fish’s reading is helpful because it redirects the thorny theological questions of substance, essence, and consubstantiation to the simpler question of quotation. The Son is able to speak the words of the Father so selflessly that he merges with the divine source, becoming the Word of God. We might say that Jesus begins the sentence in quotation marks but that the Son concludes them in his own voice—just as Adam begins speaking the words of Satan only to discover that they are unfortunately his own. In both cases, Milton demands something beyond the powers of our everyday typographical equipment. What we need in such instances is a mark to signify diminishing quotation—the process whereby words attributed to another gradually become, in the act of enunciation, the speaker’s own. If<italic>Paradise Lost</italic>illustrates how easily this may happen in the case of satanic speech,<italic>Paradise Regained</italic>offers the possibility that it can work in the opposite direction. When the Son speaks, the divisive quotes miraculously slip away as the human and the divine merge in the space of a single utterance. This is the nature of real union with God on the poem: you start quoting him at one particular moment and simply never stop. Quotation becomes an invitation to godhead.</p>
+         <p>But what about the poet who also speaks these words? Does he too desire to lose himself completely in that original utterance? Fish’s claim asks us to consider the contradictory nature of “originality” in Milton’s work. On the one hand, it signifies all that Milton does when he boldly rewrites the epic tradition, pursuing “things unattempted yet in prose or rhyme.” On the other hand, it means what Fish describes, something perilously close to “unoriginality”—the act of reiterating the words of another, until the quotation marks fall away and the speaker disappears entirely into what is spoken. It is a contrast we can register visually when we look at some of George Herbert’s poems. What we often see is a short italicized scriptural phrase (<italic>My God, my King; Thou art still my God</italic>) that the speaker wishes desperately he could just repeat—to quote without embellishment. But these little quotations are always embellished, surrounded by a kind of permanent poetic scaffolding. In the same way, Milton’s voice cannot finally be identified either with his “lovely enchanting language” or with those pure scriptural words that he wishes he could repeat, simply and selflessly.<xref ref-type="fn" rid="fn45">
+               <sup>45</sup>
+            </xref>The divine poet is pulled back and forth between the work of creation and the work of quotation, drawing poetry out of the impossible desire to be at once innovative and inspiredly unoriginal.</p>
+      </sec>
+   </body>
+   <back>
+      <fn-group>
+         <fn id="fn1">
+            <label>1</label>
+            <p>Marjorie Garber,<italic>Quotation Marks</italic>(New York: Routledge, 2003), 8.</p>
+         </fn>
+         <fn id="fn2">
+            <label>2</label>
+            <p>Ibid., and Willis Goth Regier,<italic>Quotology</italic>(Lincoln: University of Nebraska Press, 2010).</p>
+         </fn>
+         <fn id="fn3">
+            <label>3</label>
+            <p>
+               <italic>The Complete Works of Ralph Waldo Emerson</italic>, ed. Edward W. Emerson, 12 vols. (Boston: Houghton Mifflin, 1903–21), 8:180.</p>
+         </fn>
+         <fn id="fn4">
+            <label>4</label>
+            <p>See, e.g., the editions of James Montgomery (London, 1861), David Masson (London, 1877), Douglas Bush (New York: Viking, 1949), James Hanford (New York: Ronald, 1953), Scott Elledge (New York: Norton, 1975), and David Kastan (Indianapolis: Hackett, 2005).</p>
+         </fn>
+         <fn id="fn5">
+            <label>5</label>
+            <p>See, e.g., the editions of Helen Darbishire (Oxford University Press, 1952), Merritt Hughes (New York: Odyssey, 1957), Stephen Orgel and Jonathan Goldberg (Oxford University Press, 1990), John Leonard (New York: Penguin, 1998), Roy Flannagan (New York: Houghton Mifflin, 1998), and Barbara K. Lewalski (Malden, MA: Blackwell, 2007).</p>
+         </fn>
+         <fn id="fn6">
+            <label>6</label>
+            <p>This is a practice adopted by Henry Todd in his edition of Milton’s works (London, 1801) and more recently by Gordon Teskey, ed., “<italic>Paradise Lost”: An Authoritative Text, Backgrounds and Sources, Criticism</italic>(New York: Norton, 2005).</p>
+         </fn>
+         <fn id="fn7">
+            <label>7</label>
+            <p>Donald Davidson, “Quotation,” in<italic>Inquiries into Truth and Interpretation</italic>(Oxford: Clarendon, 2001), 79.</p>
+         </fn>
+         <fn id="fn8">
+            <label>8</label>
+            <p>5.26–28 (cited from Elledge, 1975). I cite various editions of the poem in comparing editorial practices, but unless otherwise noted (as here) citations refer to Teskey’s 2005 Norton edition.</p>
+         </fn>
+         <fn id="fn9">
+            <label>9</label>
+            <p>5.35–48 (Elledge, 1975).</p>
+         </fn>
+         <fn id="fn10">
+            <label>10</label>
+            <p>E. M. W. Tillyard,<italic>Studies in Milton</italic>(London: Chatto &amp; Windus, 1964), 12.</p>
+         </fn>
+         <fn id="fn11">
+            <label>11</label>
+            <p>Ibid., 11.</p>
+         </fn>
+         <fn id="fn12">
+            <label>12</label>
+            <p>Millicent Bell, “The Fallacy of the Fall,”<italic>PMLA</italic>68 (1953): 871.</p>
+         </fn>
+         <fn id="fn13">
+            <label>13</label>
+            <p>Harinder Singh Marjara,<italic>Contemplation of Created Things</italic>(University of Toronto Press, 1992), 273.</p>
+         </fn>
+         <fn id="fn14">
+            <label>14</label>
+            <p>John Diekhoff, “Eve’s Dream and the Paradox of Fallible Perfection,”<italic>Milton Quarterly</italic>4 (1970): 6.</p>
+         </fn>
+         <fn id="fn15">
+            <label>15</label>
+            <p>Diana Treviño Benet, “Milton’s Toad, or Satan’s Dream,”<italic>Milton Studies</italic>45 (2006): 49.</p>
+         </fn>
+         <fn id="fn16">
+            <label>16</label>
+            <p>Kristin Pruitt McColgan, “‘God Is Also in Sleep’: Dreams Satanic and Divine in<italic>Paradise Lost</italic>,”<italic>Milton Studies</italic>30 (1993): 142.</p>
+         </fn>
+         <fn id="fn17">
+            <label>17</label>
+            <p>Northrop Frye,<italic>The Return to Eden: Five Essays on Milton’s Epics</italic>(University of Toronto Press, 1965), 75; and C. A. Patrides,<italic>Milton and the Christian Tradition</italic>(Hamden, CT: Archon, 1979), 106.</p>
+         </fn>
+         <fn id="fn18">
+            <label>18</label>
+            <p>N. K. Sugimura,<italic>“Matter of Glorious Trial”: Spiritual and Material Substance in “Paradise Lost”</italic>(New Haven, CT: Yale University Press, 2009), 126–27.</p>
+         </fn>
+         <fn id="fn19">
+            <label>19</label>
+            <p>Irene Samuel, “‘Purgatorio’ and the Dream of Eve,”<italic>Journal of English and Germanic Philology</italic>63 (1964): 445.</p>
+         </fn>
+         <fn id="fn20">
+            <label>20</label>
+            <p>For a discussion of the poem’s various etiologies of evil, see John Tanner, “‘Say First What Cause’: Ricoeur and the Etiology of Evil in<italic>Paradise Lost</italic>,”<italic>PMLA</italic>103 (1988): 45–56.</p>
+         </fn>
+         <fn id="fn21">
+            <label>21</label>
+            <p>Paul Ricoeur,<italic>The Symbolism of Evil</italic>, trans. Emerson Buchanan (Boston: Beacon, 1969), 259.</p>
+         </fn>
+         <fn id="fn22">
+            <label>22</label>
+            <p>Howard Schultz alone uses “serenade,” “proem,” and “prologue” in “Satan’s Serenade,”<italic>Philological Quarterly</italic>27 (1948): 17, 22, 24.</p>
+         </fn>
+         <fn id="fn23">
+            <label>23</label>
+            <p>See Jane Petty, “The Voice at Eve’s Ear in<italic>Paradise Lost</italic>,”<italic>Milton Quarterly</italic>19 (1985): 45; and Kent Lehnhof, “‘Impregn’d with Reason’: Eve’s Aural Conception in<italic>Paradise Lost</italic>,”<italic>Milton Studies</italic>41 (2002): 51.</p>
+         </fn>
+         <fn id="fn24">
+            <label>24</label>
+            <p>Stephen Raynie, “Frances Hayman Reading<italic>Paradise Lost</italic>in the 1740s,”<italic>Studies in English Literature, 1500–1900</italic>44 (2004): 554.</p>
+         </fn>
+         <fn id="fn25">
+            <label>25</label>
+            <p>Regina Schwartz, “The Toad at Eve’s Ear: From Identification to Identity,” in<italic>Literary Milton: Text, Pretext, Context</italic>, ed. Diana Treviño Benet and Michael Lieb (Pittsburgh: Duquesne University Press, 1994), 4.</p>
+         </fn>
+         <fn id="fn26">
+            <label>26</label>
+            <p>The witch who creates the snowy doppelganger inserts a “Spright” to control its motions (<italic>Faerie Queene</italic>3.8.7), but no such spright reveals itself when the doppelganger melts (5.3.24).<italic>The Faerie Queene</italic>, ed. Thomas P. Roche (London: Penguin, 1979).</p>
+         </fn>
+         <fn id="fn27">
+            <label>27</label>
+            <p>Tillyard,<italic>Studies in Milton</italic>, 11.</p>
+         </fn>
+         <fn id="fn28">
+            <label>28</label>
+            <p>Diane McColley,<italic>Milton’s Eve</italic>(Urbana: University of Illinois Press, 1983), 98.</p>
+         </fn>
+         <fn id="fn29">
+            <label>29</label>
+            <p>William Riggs, “The Temptation of Milton’s Eve: ‘Words, Impregn’d / With Reason,’”<italic>Journal of English and Germanic Philology</italic>94 (1995): 379.</p>
+         </fn>
+         <fn id="fn30">
+            <label>30</label>
+            <p>See, e.g., Marjara’s claim that “the demonic influence does leave its spot behind” or Sugimura’s claim that “Satan’s dream leaves a ‘spot or blame’ (V. 119) in Eve’s mind, despite what Adam says to the contrary” (<italic>Contemplation of Created Things</italic>, 273; “<italic>Matter of Glorious Trial</italic>,” 127).</p>
+         </fn>
+         <fn id="fn31">
+            <label>31</label>
+            <p>William Poole,<italic>Milton and the Idea of the Fall</italic>(Cambridge University Press, 2005), 30.</p>
+         </fn>
+         <fn id="fn32">
+            <label>32</label>
+            <p>Richard Allestree,<italic>The Government of the Tongue</italic>(Oxford, 1675), 7; as cited by Beverley Sherry, “Speech in Paradise Lost,”<italic>Milton Studies</italic>8 (1975): 249.</p>
+         </fn>
+         <fn id="fn33">
+            <label>33</label>
+            <p>Elizabeth Sauer,<italic>Barbarous Dissonance and Images of Voice in Milton’s Epics</italic>(Montreal: McGill-Queen’s University Press, 1996), 63.</p>
+         </fn>
+         <fn id="fn34">
+            <label>34</label>
+            <p>
+               <italic>Sir Thomas Browne: The Major Works</italic>, ed. C. A. Patrides (New York: Penguin, 1977), 307.</p>
+         </fn>
+         <fn id="fn35">
+            <label>35</label>
+            <p>Jonathan Richardson,<italic>Explanatory Notes and Remarks on Milton’s Paradise Lost</italic>(London, 1734), 275.</p>
+         </fn>
+         <fn id="fn36">
+            <label>36</label>
+            <p>Teskey, “<italic>Paradise Lost</italic>,” 148.</p>
+         </fn>
+         <fn id="fn37">
+            <label>37</label>
+            <p>Stephen Fallon,<italic>Milton among the Philosophers: Poetry and Materialism in Seventeenth-Century England</italic>(Ithaca, NY: Cornell University Press, 1991), 205.</p>
+         </fn>
+         <fn id="fn38">
+            <label>38</label>
+            <p>Teskey, “<italic>Paradise Lost</italic>,” 211.</p>
+         </fn>
+         <fn id="fn39">
+            <label>39</label>
+            <p>
+               <italic>Complete Prose Works of John Milton</italic>, vol. 1,<italic>1624–1642</italic>, gen. ed. Don M. Wolfe (New Haven, CT: Yale University Press, 1953), 821.</p>
+         </fn>
+         <fn id="fn40">
+            <label>40</label>
+            <p>Peter Herman,<italic>Destabilizing Milton</italic>(New York: Macmillan, 2005), 57.</p>
+         </fn>
+         <fn id="fn41">
+            <label>41</label>
+            <p>Peter Herman,<italic>Destabilizing Milton; The New Milton Criticism</italic>, ed. Peter Herman and Elizabeth Sauer (Cambridge University Press, 2012).</p>
+         </fn>
+         <fn id="fn42">
+            <label>42</label>
+            <p>Teskey, “<italic>Paradise Lost</italic>,” xii.</p>
+         </fn>
+         <fn id="fn43">
+            <label>43</label>
+            <p>Stanley Fish,<italic>How Milton Works</italic>(Cambridge, MA: Harvard University Press, 2001), 344.</p>
+         </fn>
+         <fn id="fn44">
+            <label>44</label>
+            <p>See, e.g., the differing views of A. S. P Woodhouse (“Theme and Pattern in<italic>Paradise Regained</italic>,”<italic>University of Toronto Quarterly</italic>25 [1956]: 167–82) and Arnold Stein (<italic>Heroic Knowledge: An Interpretation of “Paradise Regained” and “Samson Agonistes”</italic>[Minneapolis: University of Minnesota Press, 1957], 128), as cited in Fish,<italic>How Milton Works</italic>, 343–48. Gordon Teskey sees the ambiguity as creating a moment of “delirious identity” between Father and Son (<italic>Delirious Milton: The Fate of the Poet in Modernity</italic>[Cambridge, MA: Harvard University Press, 2006], 175).</p>
+         </fn>
+         <fn id="fn45">
+            <label>45</label>
+            <p>See George Herbert, “The Forerunners” and “Jordan (I),” in<italic>George Herbert: The Complete English Poems</italic>, ed. John Tobin (New York: Penguin, 2005).</p>
+         </fn>
+      </fn-group>
+   </back>
+</article>
