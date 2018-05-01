@@ -167,11 +167,15 @@ def parseBookChapterXmlFile(term, item, file,f):
 					bookInfo['book-given-names'] = elem.text
 				elif(elem.tag == 'subtitle'):
 					bookInfo['book-subtitle'] = elem.text
+
 				# again uri is kind of dirty 
 				elif(elem.tag == "self-uri"):
 					dirtyString = str(elem.attrib.values())
 					cleanString = dirtyString[14:-3]
 					bookInfo[elem.tag] = cleanString
+
+				elif(elem.tag == 'book-title'):
+					bookInfo[elem.tag] = elem.text
 
 				elif(elem.tag == "p"):
 					parts = list(elem.iter())
@@ -195,10 +199,15 @@ def parseBookChapterXmlFile(term, item, file,f):
 			if("Ricoeur" in value):
 				ricoeurFound = True
 
+
 	if(termFoundInBook and ricoeurFound):
 		incrementBook()
 		addBooktoHtmlFile(bookInfo, file, term,f)
 		ricoeurFound = False
+	else:
+		ricoeurFound = False
+		termFoundInBook = False
+
 
 	for item in root.iter('book-part-meta'):
 		for elem in item.iter():
@@ -232,20 +241,22 @@ def parseBookChapterXmlFile(term, item, file,f):
 				else:
 					chapterInfo[elem.tag] = elem.text 
 
-		for key, value in chapterInfo.items():
-			if(key is not None and value is not None):
-				if("Ricoeur" in value):
-					ricoeurFound = True
+	for key, value in chapterInfo.items():
+		if(key is not None and value is not None):
+			if("Ricoeur" in value):
+				ricoeurFound = True
 
-		if(not termFoundInChapter or not ricoeurFound):
-			chapterInfo.clear()
-		else:
-			incrementBook()
-			addChaptertoHtmlFile(chapterInfo,bookInfo, file, term,f)
 
-			chapterInfo.clear()
-			termFoundInChapter = False
-			ricoeurFound = False
+	if(not termFoundInChapter or not ricoeurFound):
+		chapterInfo.clear()
+	else:
+		incrementBook()
+		addChaptertoHtmlFile(chapterInfo,bookInfo, file, term,f)
+
+	bookInfo.clear()
+	chapterInfo.clear()
+	termFoundInChapter = False
+	ricoeurFound = False
 
 def addBooktoHtmlFile(dictionaryOfResults, file, term,f):
 
@@ -280,7 +291,10 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
     	f.write("  " + chapterInfo["label"])
 
     if("title" in chapterInfo.keys()):
-    	f.write("  " + chapterInfo["title"])
+    	f.write("  " + chapterInfo["title"] + '<br>' + '\n')
+
+    if("chapter-subtitle" in chapterInfo.keys()):
+    	f.write("  " + chapterInfo["chapter-subtitle"])
 
     if("book-title" in bookInfo.keys()):
     	f.write(" from: " + '\n'+'  <a href=' + '"' + bookInfo["self-uri"] 
@@ -298,15 +312,24 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
     	f.write("  Abstract: " + chapterInfo['chapter-abstract'] 
     		+ '<br>' + '\n')
 
+    if("self-uri" in chapterInfo.keys()):
+    	f.write("  " + "Link: " + '<a href=' + '"' + bookInfo["self-uri"] + '"'+ '>'+ bookInfo["self-uri"]  + '</a>' + ' '+ '<br> ' + '\n')
     f.write(file)
 
+
     f.write("  <hr>" + '<br>' + '\n' + '\n' )
+
+    #print(bookInfo)
 
 def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
 
     if("journal-title" in dictionaryOfResults.keys()):
     	f.write("Journal Title: " + dictionaryOfResults["journal-title"] 
     		+ '<br>' +'\n')
+
+    if("article-title" in dictionaryOfResults.keys() and dictionaryOfResults["article-title"] != None):
+    	f.write("Article Title: " + dictionaryOfResults["article-title"]
+    		+ '<br>' + '\n')
 
     if("publisher-name" in dictionaryOfResults.keys()):
     	f.write("Publisher: " + dictionaryOfResults["publisher-name"] 
@@ -344,7 +367,6 @@ def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
 
 def main():
 
-	# terms = ['alienation', 'witness']
 
 	terms = ["history","philosophy","truth","work","time","explanation","event",
     "evil","myth","sin","man","theology","world","experience",
