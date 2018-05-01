@@ -18,12 +18,13 @@ var startYear = Number.MAX_SAFE_INTEGER,
     refreshEY,
     sortBy,
     reverse,
-    width = 1000,
-    height = 600,
+    width = 1600,
+    height = 900,
     padding = 80,
     b_set = [],
     barFiltered = [],
     l_set = [];
+const show = 10;
 
 // Read in the .csv file
 // Print out an error message if the file is unreadable.
@@ -67,7 +68,7 @@ function initialize() {
 
     // Read in the csv file for line graph
     // Similarly, check for error then initialize the graph
-    d3.csv("./data/lineGraph.csv", type, function(error, data) {
+    d3.csv("./data/lineAVG.csv", type, function(error, data) {
         l_set = data;
         if (error) {
             console.log(error);
@@ -190,6 +191,7 @@ function checkReverse() {
 //
 function barGraph(){
 
+
     // Set dimensions for the visualization
     var barPad = 1;
     var barWidth = (width - 2 * padding) / barFiltered.length - barPad;
@@ -272,7 +274,7 @@ function barGraph(){
 
     // Add the labels to the axes
     bargraph.append("text").
-        attr("transform", "translate(" + (width/2) + "," + (height - padding/2) + ")").
+        attr("transform", "translate(" + (width/2) + "," + (height - padding/3) + ")").
         attr("font-weight", "bold").
         style("text-anchor", "middle").
         text("Thinkers");
@@ -393,6 +395,11 @@ function filterBar() {
             barFiltered[bfLen - 1].Frequency = sum;
         }
     }
+   
+    barFiltered.sort(sort_by('Frequency'), true, function(a) { return a;});
+    console.log(barFiltered);
+    barFiltered = barFiltered.filter(function(d, i) { return (i >= barFiltered.length - 20); });
+
     console.log(barFiltered);
 }
 
@@ -423,12 +430,13 @@ var parseYear = d3.timeParse("%Y");
 
 // Draw line
 var line = d3.line().
-    curve(d3.curveBasis).
+    //curve(d3.curveBasis).
     x(function(d) {return l_x(d.year);}).
     y(function(d) {return l_y(d.freq);});
 
+
+
 function initLine(l_set) {
-    console.log("HI");
     // Create thinkers, which is a map that allows us to access individual frequencies,
     // mapped onto each thinker and year
     var thinkers = l_set.columns.slice(2).map(function(id) {
@@ -439,22 +447,28 @@ function initLine(l_set) {
             })
         };
     });
-    console.log(thinkers);
+    //console.log(thinkers);
+    //console.log(thinkers[0]);
+
+    var thinkers_sh = [];
+    for (var i = 0; i < show; i++) {
+       thinkers_sh[i] = thinkers[i]; 
+    }
 
     // Define the domain for the axes
     l_x.domain(d3.extent(l_set, function(d) {return d.year;}));
     l_y.domain([
-        d3.min(thinkers, function(c) {return d3.min(c.values, function(d) {return d.freq;}); }),
-        d3.max(thinkers, function(c) {return d3.max(c.values, function(d) {return d.freq;}); })
+        d3.min(thinkers_sh, function(c) {return d3.min(c.values, function(d) {return d.freq;}); }),
+        d3.max(thinkers_sh, function(c) {return d3.max(c.values, function(d) {return d.freq;}); })
     ]);
-    l_z.domain(thinkers.map(function(c) {return c.id;}));
+    l_z.domain(thinkers_sh.map(function(c) {return c.id;}));
     
-    drawLineChart(thinkers);
+    drawLineChart(thinkers_sh);
 }
 
 
 // This function actually draws the line graph
-function drawLineChart(thinkers) {
+function drawLineChart(thinkers_sh) {
 
     // Define axes for lin graph
     var l_xAxis = d3.axisBottom(l_x);
@@ -485,7 +499,7 @@ function drawLineChart(thinkers) {
 
     // Each thinker
     var thinker = g.selectAll(".thinker").
-        data(thinkers).
+        data(thinkers_sh).
         enter().
         append("g").
         attr("class", "thinker");
@@ -494,18 +508,28 @@ function drawLineChart(thinkers) {
     // Here, values defined in initLine function as thinkers was created
     thinker.append("path").
         attr("class", "line").
+        attr("id", function(d) { return d.id; }).
         attr("d", function(d) {
             return line(d.values); }).
-        style("stroke", function(d) { return l_z(d.id); });
+        style("stroke", function(d) { return l_z(d.id); }).
+        on("mouseover", function(d, i) {
+            // Appending the name of each thinker at the end of each line
+            thinker.append("text").
+                datum(function(d) { 
+                    // Don't use this right now, but we will want to use this in the future
+                }).
+                attr("transform", "translate("+ (width/2) + "," + padding + ")").
+                attr("x", 3).
+                attr("dy", "0.35em").
+                style("font", "20px sans-serif").
+                style("text-anchor", "middle").
+                text(this.id);
 
-    // Appending the name of each thinker at the end of each line
-    thinker.append("text").
-        datum(function(d) { return {id: d.id, value: d.values[d.values.length - 1]}; }).
-        attr("transform", function(d) { return "translate(" + l_x(d.value.year) + "," + l_y(d.value.freq) + ")";}).
-        attr("x", 3).
-        attr("dy", "0.35em").
-        style("font", "10px sans-serif").
-        text(function(d) { return d.id; });
+        }).
+        on("mouseout", function(d) {
+            thinker.select("text").remove();
+        });
+
 }
 
 
