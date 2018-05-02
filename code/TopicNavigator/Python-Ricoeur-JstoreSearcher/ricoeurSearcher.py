@@ -258,7 +258,7 @@ def parseBookChapterXmlFile(term, item, file,f):
 	termFoundInChapter = False
 	ricoeurFound = False
 
-def addBooktoHtmlFile(dictionaryOfResults, file, term,f):
+def addBooktoHtmlFile(dictionaryOfResults, file, term, f):
 
     if("book-title" in dictionaryOfResults.keys()):
     	f.write("  " + "Book Title: " + dictionaryOfResults["book-title"] + "-")
