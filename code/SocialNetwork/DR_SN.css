@@ -42,6 +42,7 @@ input {
 
 .sortButton label:hover {
     background-color: #e6f2ff;
+
 }
 
 .sortButton input[type="radio"]:checked + label {
@@ -54,10 +55,37 @@ input {
     font-size: 17px;
 }
 
+#help {
+}
+
+#checkboxes {
+    font-size: 15px;
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    overflow-y: scorll;
+    display: block;
+}
+
+#checkboxes input{
+    display: block
+}
+
 path {
     stroke: black;
     stroke-width: 2;
     fill: none;
+}
+
+.dropdown {
+    display:none;
+    position:absolute;
+    background-color: lightsteelblue;
+    min-width: 200px;
+    min-height: 150px;
+    border: 1px solid black;
+    padding: 2px;
+
 }
 
 .axis path, .axis line{
@@ -70,7 +98,7 @@ path {
 .line {
     fill: none;
     stroke: black;
-    stroke-width: 1.5px;
+    stroke-width: 3px;
     stroke-linejoin: "round;
     stroke-linecap: "round";
 }
@@ -79,13 +107,22 @@ path {
     stroke-width: 6px;
 }
 
-.x axis {
-}
-.y axis {
-
+.rect:hover {
+    fill: red;
 }
 
-.thinker {
-
+div.tooltip {
+    position: absolute;
+    display: inline-block;
+    white-space: nowrap;
+    text-align: center;
+    padding: 2px;
+    font: 30px sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    background: lightsteelblue;
+    border: 1px solid black;
+    pointer-events: none;
 }
+
 

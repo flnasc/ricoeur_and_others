@@ -10,23 +10,27 @@
     <body>
         <h1> Digital Ricoeur: Ricoeur's Social Network  </h1>
         <p>This will serve as an interactive presentation of Ricoeur's Social Network, based on the frequency at which Ricoeur refers to other thinkers. 
-        <br>We currently have an <em> interactive </em> bar graph, using a CSV file with made-up data. 
-        <br>The CSV file comprises of four columns, <em> Thinker </em>, <em> Frequency </em>, <em> Year </em>, and <em> Title </em> of Ricoeur's publication. 
+        <br>Currently, the books in database are as follows: <em>Freedom and Nature (1950)</em>, <em>Time and Narrative (1983)</em>, and <em> Oneself as Another (1990) </em>
         </p>
 
         <h2> Ricoeur's Best Friends: a bar graph </h2>
-    <!-- Allow for input of start year and end year for ranged display of data  -->
         <div class="vis_menu">
             <div>
+            <!-- Allow for input of start year and end year for ranged display of data -->
                 <span><b> Displaying the time frame of: </b></span>
                 <input type="text" id="startYear" size="4">
                 <span class="sortSpan"> ~ </span>
                 <input type="text" id="endYear" size="4">
                 <button onclick="grabDate()"> Update </button>
                 <button onclick="resetDate()"> Reset </button>
+
             </div>
+            <div> 
+                <span><b> Currently displaying accumulative frequency for the following books: <span id="books", style="color:#191970"> </span></b></span>
             <br>
-        
+            <br>
+            </div>
+            
             <div class="sortButton">
                 <span class="sortSpan"><b> Sorting by &nbsp;</b></span>
             </div>
@@ -58,11 +62,39 @@
         </div>
         <br>
         <div id="b_DIV"></div>
+
         <h2> Ricoeur's Best Friends: a line graph </h2>
+        <div class="vis_menu">
+            <span><b> The line chart displays top 20 thinkers by default. </b></span>
+            <br>
+            <div class="sortButton">
+                <input type="radio" name="lineThinkers" id="lineDefault" checked="checked" onclick="initLine()">
+                <label for="lineDefault"> Top 20 </label>
+            </div>
+            <div class="sortButton">
+                <input type="radio" name="lineThinkers" id="lineCustom" onclick="openCustom()">
+                <label for="lineCustom"> Custom </label>
+                <div class="l_custom" id="help">
+                    <div class="l_custom" id="checkboxes">
+                        <input type="checkbox" id="c1" /> Aristotle 
+                        <input type="checkbox" id="c2" /> 2 
+                        <input type="checkbox" id="c3" /> 3 
+                        <input type="checkbox" id="c4" /> 4 
+                        <input type="checkbox" id="c5" /> 5 
+                        <input type="checkbox" id="c6" /> 6 
+                        <input type="checkbox" id="c7" /> 7 
+                        <input type="checkbox" id="c8" /> 8
+                        <input type="checkbox" id="c9" /> 9
+                        <input type="checkbox" id="c10" /> 10 
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <br>
+        <br>
         <div id="l_DIV"></div>
         <script type = "text/javascript" src = "../d3/d3.js" charset="utf-8"></script>
         <script src = "./DR_SN_vis.js"></script>
-
-
     </body>
 <html>

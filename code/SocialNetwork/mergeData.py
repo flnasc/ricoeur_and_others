@@ -11,7 +11,7 @@ import glob, os
 # than those beginning with "summary."
 os.chdir("./data")
 summary = pd.DataFrame([])
-files = glob.glob('[!barGraph]*.csv')
+files = glob.glob('[1]*.csv')
 
 # Iterate through the .csv files in the path, extract name of the work and year published
 # then merge the data, tagging for name and year

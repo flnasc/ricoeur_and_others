@@ -24,7 +24,7 @@ var startYear = Number.MAX_SAFE_INTEGER,
     b_set = [],
     barFiltered = [],
     l_set = [];
-const show = 10;
+const l_default = 20;
 
 // Read in the .csv file
 // Print out an error message if the file is unreadable.
@@ -58,6 +58,7 @@ function initialize() {
             // Also display the current sorting order
             document.getElementById("startYear").value = startYear;
             document.getElementById("endYear").value = endYear;
+            document.getElementById("checkboxes").parentNode.style.display = "none";
             sorBy = "Thinker";
                
             // Filter the b_set for visualization
@@ -75,9 +76,19 @@ function initialize() {
             window.alert("Cannot read in the file.");
         }
         console.log(l_set);
-        initLine(l_set);
+        initLine();
     });
 
+}
+
+function openCustom() {
+    var parentDiv = document.getElementById("checkboxes").parentNode;
+    var displayStatus = parentDiv.style.display;
+    if(displayStatus=="none") {
+        parentDiv.style.display = "block";
+    } else {
+        parentDiv.style.display = "none";
+    }
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -220,12 +231,19 @@ function barGraph(){
             return barFiltered[i].Frequency;
        })]).
         range([height - padding, padding]);
-    
+   
+    // Initialize the tooltip to show Author's name 
+    var div = d3.select("#b_DIV").
+        append("div").
+        attr("class", "tooltip").
+        style("opacity", 0);
+
     // Create the bar graph
     bargraph.selectAll("rect").
         data(barFiltered).
         enter().
         append("rect").
+        attr("class", "rect").
         attr("x", function(d,i) {
             return (padding + i * ((width - 2 * padding) / barFiltered.length));}).
         attr("y", function(d, i) {
@@ -233,7 +251,22 @@ function barGraph(){
         attr("width", barWidth).
         attr("height", function(d, i) {
             return yScale(0) - yScale(barFiltered[i].Frequency)}).
-        attr("fill", "#191970");
+        attr("fill", "#191970").
+        on("mouseover", function(d,i) {
+            // Show the name and frequency of the author where the mouse pointer enters the bar
+            div.transition().
+                duration(200).
+                style("opacity", 0.9);
+            div.html(barFiltered[i].Thinker + "<br/>" + barFiltered[i].Frequency).
+                style("left", (d3.event.pageX) + "px").
+                style("top", (d3.event.pageY) + "px");
+                
+        }).
+        on("mouseout", function(d) {
+            div.transition().
+                duration(500).
+                style("opacity", 0);   
+        });
    
     // Add frequency to the bar  
     var textSize = barWidth/3;
@@ -350,6 +383,7 @@ function filterBar() {
 
     // Create temporary arrays to process
     dateFilter = [];
+    nameYear = [];
 
     // This method allows for creating an independent copy of b_set
     // Makes a copy of b_set as temp
@@ -359,12 +393,41 @@ function filterBar() {
     // i.e. modifying temp will no longer modify b_set
     temp = b_set.map(o => Object.assign({}, o));
 
+    var y_count = 0;
     // If the datum falls into the date range, add it to the temporary arry
     for (var i = 0; i < temp.length; i++) {     
         if (parseInt(startYear) <= parseInt(temp[i].Year) && parseInt(temp[i].Year) <= parseInt(endYear)) {
             dateFilter.push(temp[i]);
         }
+
     }
+
+    for (var i = 0; i < dateFilter.length; i++) {
+        // Get the list of year and titles to display above the bar graph
+        if (i == 0) {
+            // Replace "-" with empty space and put year in parentheses
+            // In replace(/-/g, " "), /-/g allows us to replace ALL "-".
+            nameYear.push(dateFilter[i].Title.replace(/-/g, " ").concat(" (", dateFilter[i].Year, ")"));   
+        }
+        else if (dateFilter[i].Year != dateFilter[i - 1].Year) {
+            // Replace "-" with empty space and put year in parentheses
+            // In replace(/-/g, " "), /-/g allows us to replace ALL "-".
+            console.log(dateFilter[i]);
+            nameYear.push(", ".concat(dateFilter[i].Title.replace(/-/g, " "), " (", dateFilter[i].Year, ")"));
+            y_count++;
+        }
+    }
+    // Check for illegal input and add "and" properly
+    if (nameYear.length == 0) {
+        nameYear.push("Illegal date range. Please check and update the date range.");
+    }
+    if (nameYear.length > 2) {
+        nameYear.splice(y_count, 0, ", and");
+    }
+    if (nameYear.length == 2) {
+        nameYear.splice(y_count, 0, " and");
+    }
+    
     // Sort the temporary array to make summation easier
     dateFilter.sort(sort_by('Thinker'), false, function(a) {return a});
     
@@ -396,9 +459,22 @@ function filterBar() {
         }
     }
    
+    // Sort by frequency and only return the most frequent 20
     barFiltered.sort(sort_by('Frequency'), true, function(a) { return a;});
     console.log(barFiltered);
     barFiltered = barFiltered.filter(function(d, i) { return (i >= barFiltered.length - 20); });
+
+    // This part shows the books that are being displayed.
+    var outNY = nameYear[0];
+    for (var i = 1; i < nameYear.length; i++) {
+        // Don't want the extra comma here
+        if (i == nameYear.length - 1) {
+            nameYear[i] = nameYear[i].replace(", "," ");
+        }
+        outNY = outNY.concat(nameYear[i]);        
+    }
+    // Display the books above the bar graph
+    document.getElementById("books").innerHTML = outNY;
 
     console.log(barFiltered);
 }
@@ -409,16 +485,7 @@ function filterBar() {
 // This part contains the functions used for the line chart
 //
 
-// The line graph will be appended to div of class "l_DIV"
-var linegraph = d3.select("#l_DIV").
-    append("svg").
-    attr("class", "graph").
-    attr("width", width).
-    attr("height", height).
-    attr("id", "l_graph");
-
-var g = linegraph.append("g");
-
+var thinkers_sh = [];
 // As of now, we are using a predfined color scheme with 20 colors.
 // We might need to define our own color scheme if we want to show more than 20 thinkers
 var l_x = d3.scaleTime().range([padding, width - padding]),
@@ -430,13 +497,11 @@ var parseYear = d3.timeParse("%Y");
 
 // Draw line
 var line = d3.line().
-    //curve(d3.curveBasis).
     x(function(d) {return l_x(d.year);}).
     y(function(d) {return l_y(d.freq);});
 
 
-
-function initLine(l_set) {
+function initLine() {
     // Create thinkers, which is a map that allows us to access individual frequencies,
     // mapped onto each thinker and year
     var thinkers = l_set.columns.slice(2).map(function(id) {
@@ -450,25 +515,57 @@ function initLine(l_set) {
     //console.log(thinkers);
     //console.log(thinkers[0]);
 
-    var thinkers_sh = [];
-    for (var i = 0; i < show; i++) {
-       thinkers_sh[i] = thinkers[i]; 
+    // This part allows us to alternate between top 20 and custom of sort
+    var show;
+    if (document.getElementById("lineDefault").checked) {
+        d3.select("#l_graph").remove();
+        show = l_default;
+        console.log("Drawing default lines");
+
+        // Empty thinkers_sh
+        thinkers_sh = [];
+        for (var i = 0; i < show; i++) {
+            thinkers_sh[i] = thinkers[i]; 
+        }
+    } else {
+        d3.select("#l_graph").remove();
+        show = 10;
+        console.log("Drawing custom lines");
+
+        // Empty thinkers_sh
+        thinkers_sh = [];
+        for (var i = 0; i < show; i++) {
+           thinkers_sh[i] = thinkers[i]; 
+        }
     }
 
-    // Define the domain for the axes
+    // define the domain for the axes
     l_x.domain(d3.extent(l_set, function(d) {return d.year;}));
     l_y.domain([
         d3.min(thinkers_sh, function(c) {return d3.min(c.values, function(d) {return d.freq;}); }),
         d3.max(thinkers_sh, function(c) {return d3.max(c.values, function(d) {return d.freq;}); })
     ]);
     l_z.domain(thinkers_sh.map(function(c) {return c.id;}));
-    
-    drawLineChart(thinkers_sh);
+
+    // Draw the chart
+    drawLineChart();
+
 }
 
 
 // This function actually draws the line graph
-function drawLineChart(thinkers_sh) {
+function drawLineChart() {
+
+
+    // The line graph will be appended to div of class "l_DIV"
+    var linegraph = d3.select("#l_DIV").
+        append("svg").
+        attr("class", "graph").
+        attr("width", width).
+        attr("height", height).
+        attr("id", "l_graph");
+
+    var g = linegraph.append("g");
 
     // Define axes for lin graph
     var l_xAxis = d3.axisBottom(l_x);
