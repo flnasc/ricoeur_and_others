@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv = "content-type" content = "text/html; charset = UTF8">
+        <title> Digital Ricoeur: Ricoeur's Social Network </title>
+        <link rel = "stylesheet" type = "text/css" href = "./DR_SN.css"> 
+    </head>
+
+    <body>
+        <h2> Ricoeur's Best Friends: a bar graph </h2>
+
+        <p>Hover the mouse over the bars to display a tooltip of the name and the frequency and click the bars to search the individual on Digital Ricoeur website.</p>
+        <div class="vis_menu">
+            <div>
+            <!-- Allow for input of start year and end year for ranged display of data -->
+                <span><b> Displaying the time frame of: </b></span>
+                <input type="text" id="startYear" size="4">
+                <span class="sortSpan"> ~ </span>
+                <input type="text" id="endYear" size="4">
+                <button onclick="grabDate()"> Update </button>
+                <button onclick="resetDate()"> Reset </button>
+
+            </div>
+            <div> 
+                <span><b> Currently displaying accumulative frequency for the following books: <span id="books"> </span></b></span>
+            <br>
+            </div>
+            
+            <div class="sortButton" style="margin-left:0px">
+                <span class="sortSpan"><b>Sorting by </b></span>
+            </div>
+            <!-- Sorting by Thinker by default -->
+            <div class="sortButton">
+                <input type="radio" name="sortBy" id="sort1" value="Thinker" onclick="sortData()" checked="checked">
+                <label for="sort1">   Thinker   </label>
+            </div>
+            <!-- Sorting by Frequency -->
+            <div class="sortButton">
+                <input type="radio" name="sortBy" id="sort2" value="Frequency" onclick="sortData()">
+                <label for="sort2"> Frequency </label>
+            </div>
+        
+            <div class="sortButton">
+                <span class="sortSpan"> <b>in</b> </span>
+            </div>        
+            
+            <!-- Sorting in an ascending order by default -->
+            <div class="sortButton">
+                <input type="radio" name="reverse" id="sort3" value="Ascend" onclick="checkReverse()" checked="checked">
+                <label for="sort3"> Ascending </label>
+            </div>
+            <!-- Sorting in a descending order -->
+            <div class="sortButton">
+                <input type="radio" name="reverse" id="sort4" value="Descend" onclick="checkReverse()">
+                <label for="sort4"> Descending </label>
+            </div>
+            <div class="sortButton">
+                <span class="sortSpan"><b>order </b></span>
+            </div>
+            <br>
+        </div>
+        <br>
+        <div id="b_DIV"></div>
+
+        <a href="./index.html"> Back to main page </a>
+        <script type = "text/javascript" src = "../d3/d3.js" charset="utf-8"></script>
+        <script src = "./DR_SN_barGraph.js"></script>
+    </body>
+<html>
