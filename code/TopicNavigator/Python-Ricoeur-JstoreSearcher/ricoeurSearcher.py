@@ -7,6 +7,7 @@ import os
 import time
 import xml.etree.ElementTree as ET
 import io
+import re
 
 globalBook = 0
 globalJournal = 0
@@ -69,9 +70,11 @@ def findXmlFile(term,f):
 					#depending on whehter it a book chapter or journal
 					if(file.startswith("book")):
 						parseBookChapterXmlFile(term, item, file, f)
+						#print(file)
 
 					if(file.startswith("journal")):
-						parseJournalChapterXmlFile(term, item, file, f)						
+						parseJournalChapterXmlFile(term, item, file, f)	
+						#print(file)					
 
 # Parse through and find articles that match key word
 def parseJournalChapterXmlFile(term, item, file,f):
@@ -116,9 +119,10 @@ def parseJournalChapterXmlFile(term, item, file,f):
 						counter += 1
 
 					abstract = abstract.strip()
+			
+					searchObj = re.search('\W'+term+'\W', abstract, re.IGNORECASE)
 
-					# Is term in abstract at all?
-					if(term in abstract):
+					if(searchObj):
 						termFound = True
 						results['abstract'] = abstract
 
@@ -188,9 +192,12 @@ def parseBookChapterXmlFile(term, item, file,f):
 
 					bookAbstract = bookAbstract.strip()
 
-					if(term in bookAbstract):
+					searchObj = re.search('\W'+term+'\W', bookAbstract, re.IGNORECASE)
+
+					if(searchObj):
 						termFoundInBook = True
 						bookInfo['book-abstract'] = bookAbstract
+
 				else:
 					bookInfo[elem.tag] = elem.text
 
@@ -234,10 +241,12 @@ def parseBookChapterXmlFile(term, item, file,f):
 
 					chapterAbstract = chapterAbstract.strip()
 
-					if(term in chapterAbstract):
-						
+					searchObj = re.search('\W'+term+'\W', chapterAbstract, re.IGNORECASE)
+
+					if(searchObj):
 						termFoundInChapter = True
 						chapterInfo['chapter-abstract'] = chapterAbstract
+						
 				else:
 					chapterInfo[elem.tag] = elem.text 
 
@@ -275,6 +284,9 @@ def addBooktoHtmlFile(dictionaryOfResults, file, term, f):
     if("book-given-names" in dictionaryOfResults.keys()):
     	f.write(" " + dictionaryOfResults["book-given-names"] + '<br>' + '\n')
 
+    if(len(dictionaryOfResults['book-abstract']) > 2000):
+    		dictionaryOfResults['book-abstract'] = dictionaryOfResults['book-abstract'][:2000]	
+
     f.write("  Abstract: " + dictionaryOfResults["book-abstract"] + '<br>' + '\n')
 
     f.write("  " + "Link: " + '<a href=' + '"' + dictionaryOfResults["self-uri"] + '"'+ 
@@ -309,6 +321,8 @@ def addChaptertoHtmlFile(chapterInfo, bookInfo, file, term,f):
     	f.write(" " + chapterInfo["chapter-given-names"] + '<br>' + '\n')
 
     if('chapter-abstract' in chapterInfo.keys()):
+    	if(len(chapterInfo['chapter-abstract']) > 2000):
+    		chapterInfo['chapter-abstract'] = chapterInfo['chapter-abstract'][:2000]
     	f.write("  Abstract: " + chapterInfo['chapter-abstract'] 
     		+ '<br>' + '\n')
 
@@ -355,6 +369,8 @@ def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
     	f.write(" " + dictionaryOfResults["given-names"] + '<br>' + '\n')
 
     if('abstract' in dictionaryOfResults.keys()):
+    	if(len(dictionaryOfResults['abstract']) > 2000):
+    		dictionaryOfResults['abstract'] = dictionaryOfResults['abstract'][:2000]
     	f.write("Abstract: " + dictionaryOfResults["abstract"] 
     		+ '<br>' + '\n')
 
@@ -365,7 +381,10 @@ def addJournalToHtmlFile(dictionaryOfResults, file, term,f):
 
     f.write("<hr>" + '<br>' + '\n' +'\n' )
 
+
 def main():
+
+	#terms = ['action']
 
 
 	terms = ["history","philosophy","truth","work","time","explanation","event",
