@@ -2,6 +2,7 @@ body {
     background-color: white;
     color: black;
     font-family: arial;
+    font-size: 20px;
 }
 
 .vis_menu {
@@ -14,15 +15,16 @@ body {
 
 input {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 .sortButton {
     float: left;
     height: 26px;
-    font-size: 15px;
+    font-size: 20px;
     display: block;
+    margin: 5px;
 }
 
 .sortButton input {
@@ -34,10 +36,11 @@ input {
     border: 1px solid black;
     color: black;
     padding: 3px 3px;
-    width: 90px;
+    width: 120px;
     display: inline-block;
     text-align: center;
     font-weight: bold;
+    font-size: 20px;
 }
 
 .sortButton label:hover {
@@ -52,40 +55,13 @@ input {
 .sortSpan {
     vertical-align: middle;
     line-height: 26px;
-    font-size: 17px;
-}
-
-#help {
-}
-
-#checkboxes {
-    font-size: 15px;
-    border: 2px solid black;
-    width: 200px;
-    height: 100px;
-    overflow-y: scorll;
-    display: block;
-}
-
-#checkboxes input{
-    display: block
+    font-size: 20px;
 }
 
 path {
     stroke: black;
     stroke-width: 2;
     fill: none;
-}
-
-.dropdown {
-    display:none;
-    position:absolute;
-    background-color: lightsteelblue;
-    min-width: 200px;
-    min-height: 150px;
-    border: 1px solid black;
-    padding: 2px;
-
 }
 
 .axis path, .axis line{
@@ -108,15 +84,16 @@ path {
 }
 
 .rect:hover {
-    fill: red;
+    fill: #878787;
 }
+
 
 div.tooltip {
     position: absolute;
     display: inline-block;
     white-space: nowrap;
     text-align: center;
-    padding: 2px;
+    padding: 2px 2px 2px 2px;
     font: 30px sans-serif;
     text-align: center;
     vertical-align: middle;
@@ -125,4 +102,42 @@ div.tooltip {
     pointer-events: none;
 }
 
+div.l_custom {
+    position: relative;
+    display: block;
+    white-space: nowrap;
+    text-align: center;
+    padding: 2px;
+    font: 18px sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    background: lightsteelblue;
+    border: 1px solid black;
+    opacity: 0.8;
+}
 
+div.customCol {
+    align: left;
+    float: left;
+    padding: 2px;
+    position: relative;
+}
+
+div.button {
+    clear: left;
+    overflow: hidden;
+    positoin: relative;
+}
+
+#customButton {
+    font-size: 20px;
+}
+
+.customThinkers {
+    font-weight: bold;
+    margin: 4px;
+}
+
+#books {
+    color: #191970;
+}

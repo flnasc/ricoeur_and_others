@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv = "content-type" content = "text/html; charset = UTF8">
+        <title> Digital Ricoeur: Ricoeur's Social Network </title>
+        <link rel = "stylesheet" type = "text/css" href = "./DR_SN.css"> 
+
+    </head>
+
+    <body>
+        <h2> Ricoeur's Best Friends: a line graph </h2>
+
+        <p> Hover the mouse over the lines to prompt enlarged display of the author's name, and click the lines or the names in the legend to search the individual on Digital Ricoeur website </p>
+        <div class="vis_menu">
+            <!-- By default, we are showing top 20 thinkers -->
+            <div class="sortButton">
+                <input type="radio" name="lineThinkers" id="lineDefault" checked="checked" onclick="openCustom()">
+                <label for="lineDefault"> Top 20 </label>
+            </div>
+            <!-- Open the list of top 40 thinkers to allow for customization -->
+            <div class="sortButton">
+                <input type="radio" name="lineThinkers" id="lineCustom" onclick="openCustom()">
+                <label for="lineCustom"> Custom </label>
+            </div>
+            <br><br>
+
+            <!-- The list of 40 thinkers, currently organized as 8 x 5 matrix -->
+            <div class="l_custom" id="lineCustomize" style= "display:none">
+                <br>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <div class="customCol" align="left">
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                    <input type="checkbox" class="customCheck"> <span class="customThinkers">Thinker</span><br>
+                </div>
+                <!-- Allow the user to "clear" or "select" all of the list, then reflect the change -->
+                <div class="button">
+                    <button type="button" id="customButton" onclick="clearCustom()"> Clear All </button>
+                    <button type="button" id="customButton" onclick="selectAllCustom()"> Select All </button>
+                    <button type="button" id="customButton" onclick="initLine()"> Update Chart </button>
+                </div>
+            </div>
+        </div>
+        <div id="l_DIV">
+        </div>
+        
+        <a href="./index.html"> Back to main page </a>
+        <script type = "text/javascript" src = "../d3/d3.js" charset="utf-8"></script>
+        <script src = "./DR_SN_lineGraph.js"></script>
+    </body>
+<html>
