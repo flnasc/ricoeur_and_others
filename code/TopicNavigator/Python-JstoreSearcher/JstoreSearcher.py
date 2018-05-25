@@ -384,39 +384,50 @@ def main():
 
 	start = time.time()
 
+	# Will store the words we will go through in here 
 	terms = []
-	uniqueTerms = {}
+	# Don't want to process a word if we have already seen it
+	uniqueTerms = set()
 
+	# Pull out the topic words from the topic modeling file. 
 	with open('dr_topics-RUN.txt') as f:
 		for readData in f:
 			newData = readData.split()
 			terms.append(newData) #Add to list 
 	f.close()
 
+	# Go through list and process 1 at a time
 	for items in terms:
 		for word in range(1, len(items)):
 
-		    start1 = time.time()	
+			start1 = time.time()
 
-		    f = open('Digital-Ricoeur-JStor-'+ items[word] +'.html', 'w+', encoding='utf-8')
-		    createHtmlFiles(items[word],f)
-		    findXmlFile(items[word],f)   
-		    f.write('  ' + '</body>' + '\n')
-		    f.write('</html>')
+			# Check to see if we have seen that word before
+			if(items[word] not in uniqueTerms):
+				f = open('Digital-Ricoeur-JStor-'+ items[word] +'.html', 'w+', encoding='utf-8')
+				createHtmlFiles(items[word],f)
+				findXmlFile(items[word],f)   
+				f.write('  ' + '</body>' + '\n')
+				f.write('</html>')
 
-		    # write counter here since it doesn't like it if I put this into another func
-		    with open('Digital-Ricoeur-JStor-'+ items[word] +'.html','r') as f:
-			    data = f.readlines()
-			    data[9] = data[9].replace('###',str(globalBook))
-			    data[10] = data[10].replace('!!!',str(globalJournal))
+				# write counter here since it doesn't like it if I put this into another func
+				with open('Digital-Ricoeur-JStor-'+ items[word] +'.html','r') as f:
+					data = f.readlines()
+					data[9] = data[9].replace('###',str(globalBook))
+					data[10] = data[10].replace('!!!',str(globalJournal))
 
-		    with open('Digital-Ricoeur-JStor-'+ items[word] +'.html', 'w') as f:
-			    f.writelines(data) 
+				with open('Digital-Ricoeur-JStor-'+ items[word] +'.html', 'w') as f:
+					f.writelines(data) 
 
-		    f.close()    
-		    end1 = time.time()
-		    print("Time to auto-gen page for " + str(items[word]) + ": " + str(end1-start1) + " secs ")
-		    uniqueTerms.add(items[word])
+				f.close()    
+				end1 = time.time()
+				print("Time to auto-gen page for " + str(items[word]) + ": " + str(end1-start1) + " secs ")
+				uniqueTerms.add(items[word])
+
+			else:
+				print("Already made the file for: ", items[word])
+				continue	
+
 
 	end = time.time()
 	print("Overall Time: " + str((end-start)/3600.00) + " hours ")
