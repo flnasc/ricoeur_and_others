@@ -406,20 +406,25 @@ def main():
 
 	start = time.time()
 
+	# Will store the words we will go through in here 
 	terms = []
+	# Don't want to process a word if we have already seen it
 	uniqueTerms = set()
 
+	# Pull out the topic words from the topic modeling file. 
 	with open('dr_topics-RUN.txt') as f:
 		for readData in f:
 			newData = readData.split()
 			terms.append(newData) #Add to list 
 	f.close()
 
+	# Go through list and process 1 at a time
 	for items in terms:
 		for word in range(1, len(items)):
 
 			start1 = time.time()
 
+			# Check to see if we have seen that word before
 			if(items[word] not in uniqueTerms):
 				f = open('Digital-Ricoeur-JStor-'+ items[word] +'.html', 'w+', encoding='utf-8')
 				createHtmlFiles(items[word],f)
